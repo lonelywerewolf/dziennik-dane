@@ -55,7 +55,10 @@ def main():
     state = load(state_path, {})
     changed, check = plan(state)
     if "--final" not in sys.argv:
-        print(json.dumps({"changed": len(changed), "check": check + (["meta/sync"] if state else [])}, ensure_ascii=False))
+        pc = sorted(k.split("/", 1)[1] for k in check if k.startswith("prices/"))
+        other = [k for k in check if not k.startswith("prices/")] + (["meta/sync"] if state else [])
+        print(json.dumps({"changed": len(changed), "check": other, "pricesCheck": len(pc), "pricesFrom": pc[0] if pc else None,
+                          "hint": "Wersje prices: JEDNO ArtifactData query collection prices, query {where:[[\"date\",\">=\",pricesFrom]], limit:1000}, out_dir /tmp/db – lista pokazuje wersje. Dokumentów spoza listy użyj jako --missing."}, ensure_ascii=False))
         return
     args = sys.argv[sys.argv.index("--final") + 1:]
     versions, missing, mode = {}, set(), "v"
