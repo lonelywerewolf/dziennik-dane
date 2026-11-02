@@ -1,0 +1,76 @@
+{
+ "date": "2026-11-01",
+ "counts": {
+  "podsumowania": 1,
+  "wyniki": 1,
+  "rekomendacje": 0,
+  "korporacyjne": 0,
+  "makro_pl": 0,
+  "swiat_rynki": 1,
+  "energetyka_surowce": 0,
+  "nieruchomosci": 0,
+  "fundusze_drobne": 0,
+  "twoje_spolki": 1,
+  "obserwowane": 0,
+  "pozostale": 0
+ },
+ "duplicatesRemoved": 0,
+ "total": 4,
+ "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
+ "groups": {
+  "podsumowania": [
+   {
+    "time": "20:01",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Skrót wiadomości: sobota-niedziela, 31 października - 1 listopada",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438601",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
+  "wyniki": [
+   {
+    "time": "16:51",
+    "kind": "pap",
+    "ticker": null,
+    "title": "W połowie sezonu wyników w USA spółki pokazują mieszane dokonania - FactSet",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438600",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   }
+  ],
+  "rekomendacje": [],
+  "korporacyjne": [],
+  "makro_pl": [],
+  "swiat_rynki": [
+   {
+    "time": "13:20",
+    "kind": "pap",
+    "ticker": null,
+    "title": "FBI oficjalnie oskarżyło Koreę Północną o kradzież ponad 6 mld dolarów z giełdy Binance",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438599",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
+  "energetyka_surowce": [],
+  "nieruchomosci": [],
+  "fundusze_drobne": [],
+  "twoje_spolki": [
+   {
+    "time": "08:27",
+    "kind": "pap",
+    "ticker": "XTB",
+    "title": "Spór o TK może wywołać reakcję na rynkach, ale weekend złagodzi emocje - XTB (opinia)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438598",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
+  "obserwowane": [],
+  "pozostale": []
+ }
+}
