@@ -269,8 +269,8 @@ def gpw_archive():
         if d.weekday() < 5 and d.isoformat() not in have and not (d == today and NOW.hour * 60 + NOW.minute < 17 * 60 + 15):
             days.append(d)
         d += dt.timedelta(days=1)
-    # najpierw dzisiaj/ostatnie, potem uzupełnianie historii (maks. 80 dni na przebieg)
-    days = sorted(days, reverse=True)[:80]
+    # najpierw dzisiaj/ostatnie, potem uzupełnianie historii (maks. 40 dni na przebieg)
+    days = sorted(days, reverse=True)[:40]
     for d in days:
         try:
             stocks = gpw_day(d, 10)
