@@ -1,0 +1,178 @@
+{
+ "gpw": [
+  {
+   "gpwName": "NOVITA",
+   "ticker": "NVT",
+   "isin": "PLNVITA00018",
+   "name": "Novita SA",
+   "date": "2026-11-05",
+   "report": "Raport za III kwartał"
+  },
+  {
+   "gpwName": "TOYA",
+   "ticker": "TOA",
+   "isin": "PLTOYA000011",
+   "name": "Toya SA",
+   "date": "2026-11-05",
+   "report": "Raport za III kwartał"
+  },
+  {
+   "gpwName": "DINOPL",
+   "ticker": "DNP",
+   "isin": "PLDINPL00011",
+   "name": "Dino Polska SA",
+   "date": "2026-11-05",
+   "report": "Raport za III kwartał"
+  },
+  {
+   "gpwName": "ARCTIC",
+   "ticker": "ATC",
+   "isin": "PLARTPR00012",
+   "name": "Arctic Paper SA",
+   "date": "2026-11-05",
+   "report": "Raport za III kwartał"
+  },
+  {
+   "gpwName": "HANDLOWY",
+   "ticker": "BHW",
+   "isin": "PLBH00000012",
+   "name": "Bank Handlowy w Warszawie SA",
+   "date": "2026-11-05",
+   "report": "Raport za III kwartał"
+  },
+  {
+   "gpwName": "AMBRA",
+   "ticker": "AMB",
+   "isin": "PLAMBRA00013",
+   "name": "Ambra SA",
+   "date": "2026-11-05",
+   "report": "Raport za I kwartał"
+  },
+  {
+   "gpwName": "ASBIS",
+   "ticker": "ASB",
+   "isin": "CY1000031710",
+   "name": "ASBISc Enterprises PLC",
+   "date": "2026-11-05",
+   "report": "Raport za III kwartał"
+  },
+  {
+   "gpwName": "PKOBP",
+   "ticker": "PKO",
+   "isin": "PLPKO0000016",
+   "name": "PKO BP SA",
+   "date": "2026-11-05",
+   "report": "Raport za III kwartał"
+  },
+  {
+   "gpwName": "ALTUS",
+   "ticker": "ALI",
+   "isin": "PLATTFI00018",
+   "name": "Altus SA",
+   "date": "2026-11-06",
+   "report": "Raport za III kwartał"
+  },
+  {
+   "gpwName": "LESS",
+   "ticker": "LES",
+   "isin": "PLINTGR00013",
+   "name": "Luna Global SA",
+   "date": "2026-11-06",
+   "report": "Raport półroczny"
+  },
+  {
+   "gpwName": "IFIRMA",
+   "ticker": "IFI",
+   "isin": "PLPWRMD00011",
+   "name": "iFirma SA",
+   "date": "2026-11-06",
+   "report": "Raport za III kwartał"
+  },
+  {
+   "gpwName": "LIBET",
+   "ticker": "LBT",
+   "isin": "PLLBT0000013",
+   "name": "Libet SA",
+   "date": "2026-11-06",
+   "report": "Raport za III kwartał"
+  },
+  {
+   "gpwName": "ULTGAMES",
+   "ticker": "ULG",
+   "isin": "PLULTGM00013",
+   "name": "Ultimate Games SA",
+   "date": "2026-11-06",
+   "report": "Raport za III kwartał"
+  },
+  {
+   "gpwName": "MEDINICE",
+   "ticker": "ICE",
+   "isin": "PLMDNCE00016",
+   "name": "Medinice SA",
+   "date": "2026-11-06",
+   "report": "Raport za III kwartał"
+  },
+  {
+   "gpwName": "MOL",
+   "ticker": "MOL",
+   "isin": "HU0000153937",
+   "name": "MOL Rt.",
+   "date": "2026-11-06",
+   "report": "Raport za III kwartał"
+  },
+  {
+   "gpwName": "UNICREDIT",
+   "ticker": "UCG",
+   "isin": "IT0005239360",
+   "name": "UniCredit SpA",
+   "date": "2026-11-09",
+   "report": "Raport za III kwartał"
+  },
+  {
+   "gpwName": "CFI",
+   "ticker": "CFI",
+   "isin": "PLINTKS00013",
+   "name": "CFI Holding SA",
+   "date": "2026-11-09",
+   "report": "Raport za III kwartał"
+  },
+  {
+   "gpwName": "UNFOLD",
+   "ticker": "UNF",
+   "isin": "PLVNTIN00011",
+   "name": "Unfold.vc ASI SA",
+   "date": "2026-11-09",
+   "report": "Raport za III kwartał"
+  },
+  {
+   "gpwName": "TSGAMES",
+   "ticker": "TEN",
+   "isin": "PLTSQGM00016",
+   "name": "Ten Square Games SA",
+   "date": "2026-11-09",
+   "report": "Raport za III kwartał"
+  }
+ ],
+ "us": [
+  {
+   "ticker": "AVGO",
+   "date": "2026-12-10",
+   "when": "",
+   "estimated": false,
+   "consensusEps": "3.45",
+   "text": "Broadcom Inc. Common Stock is estimated to report earnings on  12/10/2026. The upcoming earnings date is derived from an algorithm based on a company's historical reporting dates. Our vendor, Zacks Investment Research, might revise this date in the future, once the company announces the actual earnings date. According to Zacks Investment Research, based on  10 analysts' forecasts, the consensus EPS forecast for the quarter is $3.45.  The reported EPS for the same quarter last year was $1.61.",
+   "src": "https://www.nasdaq.com/market-activity/stocks/avgo/earnings"
+  },
+  {
+   "ticker": "NVDA",
+   "date": "2026-11-17",
+   "when": "po sesji",
+   "estimated": true,
+   "consensusEps": "2.49",
+   "text": "NVIDIA Corporation Common Stock is expected* to report earnings on  11/17/2026 after market close.  The report will be for the fiscal Quarter ending Oct 2026.  According to Zacks Investment Research, based on  13 analysts'  forecasts, the consensus EPS forecast for the quarter is $2.49.  The reported EPS for the same quarter last year was $1.24.",
+   "src": "https://www.nasdaq.com/market-activity/stocks/nvda/earnings"
+  }
+ ],
+ "gpwSrc": "https://strefainwestorow.pl/dane/raporty/lista-publikacji-raportow-okresowych",
+ "updatedAt": "2026-11-02T18:32:24+01:00"
+}

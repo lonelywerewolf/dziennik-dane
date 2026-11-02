@@ -1,7 +1,78 @@
 {
  "date": "2026-11-02",
- "count": 278,
+ "count": 285,
  "items": [
+  {
+   "id": "bossa-pap-438814",
+   "date": "2026-11-02",
+   "time": "18:30",
+   "ts": "2026-11-02T18:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ministerstwo Finansów ponownie składa projekt ustawy o zmianie progów podatkowych w PIT i stawki CIT",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438814"
+  },
+  {
+   "id": "bossa-espi-23207",
+   "date": "2026-11-02",
+   "time": "18:18",
+   "ts": "2026-11-02T18:18:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "AGORA",
+   "title": "Korekta numeracji raportu bieżącego numer 24/2026 - Rejestracja połączenia Agora S.A. z Agora TC sp. z o.o.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23207"
+  },
+  {
+   "id": "bossa-espi-23206",
+   "date": "2026-11-02",
+   "time": "18:17",
+   "ts": "2026-11-02T18:17:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ALTUS S.A.",
+   "title": "Przystąpienie do postępowania w charakterze interwenienta ubocznego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23206"
+  },
+  {
+   "id": "bossa-espi-23205",
+   "date": "2026-11-02",
+   "time": "18:11",
+   "ts": "2026-11-02T18:11:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "QUERCUS TFI S.A.",
+   "title": "Wartość aktywów pod zarządzaniem Quercus TFI S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23205"
+  },
+  {
+   "id": "strefa-d4919f77a7b4",
+   "date": "2026-11-02",
+   "time": "18:06",
+   "ts": "2026-11-02T18:06:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Indeksy w Europie zwyżkowały na początku tygodnia",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261102/dzien-na-rynkach-indeksy-w-europie-zwyzkowaly-na-poczatku-tygodnia"
+  },
+  {
+   "id": "bossa-pap-438810",
+   "date": "2026-11-02",
+   "time": "18:06",
+   "ts": "2026-11-02T18:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Indeksy w Europie zwyżkowały na początku tygodnia",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438810"
+  },
   {
    "id": "bossa-pap-438809",
    "date": "2026-11-02",
@@ -83,6 +154,17 @@
    "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A24 wyemitowanymi przez MIASTO RADOMSKO",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261102/gpw-w-sprawie-zawieszenia-obrotu-gieldowego-na-catalyst-obligacjami-na-0"
+  },
+  {
+   "id": "strefa-c3f888ebf88f",
+   "date": "2026-11-02",
+   "time": "17:55",
+   "ts": "2026-11-02T17:55:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Zamknięcia na giełdach w Europie (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261102/zamkniecia-na-gieldach-w-europie-tabela"
   },
   {
    "id": "strefa-c092ba8544a6",

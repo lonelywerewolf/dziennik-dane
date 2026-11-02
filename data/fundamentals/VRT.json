@@ -1,0 +1,970 @@
+{
+ "ticker": "VRT",
+ "unit": "tys. USD",
+ "src": "https://www.nasdaq.com/market-activity/stocks/vrt/financials",
+ "updatedAt": "2026-11-02T18:32:24+01:00",
+ "quarterly": {
+  "incomeStatementTable": {
+   "periods": [
+    "9/30/2026",
+    "6/30/2026",
+    "3/31/2026",
+    "12/31/2025"
+   ],
+   "rows": {
+    "Total Revenue": [
+     4312800.0,
+     3274300.0,
+     2649500.0,
+     2880000.0
+    ],
+    "Cost of Revenue": [
+     2669400.0,
+     2039400.0,
+     1649800.0,
+     1758600.0
+    ],
+    "Gross Profit": [
+     1643400.0,
+     1234900.0,
+     999700.0,
+     1121400.0
+    ],
+    "Operating Expenses": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "Research and Development": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "Sales, General and Admin.": [
+     587000.0,
+     523300.0,
+     488500.0,
+     455200.0
+    ],
+    "Non-Recurring Items": [
+     200.0,
+     -3900.0,
+     -4900.0,
+     20800.0
+    ],
+    "Other Operating Items": [
+     65300.0,
+     73700.0,
+     77600.0,
+     59300.0
+    ],
+    "Operating Income": [
+     983800.0,
+     637900.0,
+     440100.0,
+     579900.0
+    ],
+    "Add'l income/expense items": [
+     10300.0,
+     -4400.0,
+     -4600.0,
+     -6200.0
+    ],
+    "Earnings Before Interest and Tax": [
+     994800.0,
+     620000.0,
+     438300.0,
+     649300.0
+    ],
+    "Interest Expense": [
+     null,
+     null,
+     null,
+     86100.0
+    ],
+    "Earnings Before Tax": [
+     994800.0,
+     620000.0,
+     438300.0,
+     563200.0
+    ],
+    "Income Tax": [
+     230300.0,
+     122200.0,
+     48200.0,
+     117600.0
+    ],
+    "Minority Interest": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "Equity Earnings/Loss Unconsolidated Subsidiary": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "Net Income-Cont. Operations": [
+     764500.0,
+     497800.0,
+     390100.0,
+     445600.0
+    ],
+    "Net Income": [
+     764500.0,
+     497800.0,
+     390100.0,
+     445600.0
+    ],
+    "Net Income Applicable to Common Shareholders": [
+     764500.0,
+     497800.0,
+     390100.0,
+     445600.0
+    ]
+   }
+  },
+  "balanceSheetTable": {
+   "periods": [
+    "9/30/2026",
+    "6/30/2026",
+    "3/31/2026",
+    "12/31/2025"
+   ],
+   "rows": {
+    "Current Assets": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "Cash and Cash Equivalents": [
+     3512900.0,
+     2810600.0,
+     2150600.0,
+     1728400.0
+    ],
+    "Short-Term Investments": [
+     198800.0,
+     300000.0,
+     349900.0,
+     99500.0
+    ],
+    "Net Receivables": [
+     4379700.0,
+     3750300.0,
+     3148700.0,
+     3109000.0
+    ],
+    "Inventory": [
+     3288400.0,
+     2522700.0,
+     1834600.0,
+     1456500.0
+    ],
+    "Other Current Assets": [
+     743500.0,
+     601300.0,
+     500800.0,
+     426100.0
+    ],
+    "Total Current Assets": [
+     12123300.0,
+     9984900.0,
+     7984600.0,
+     6819500.0
+    ],
+    "Long-Term Assets": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "Long-Term Investments": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "Fixed Assets": [
+     1739700.0,
+     1571400.0,
+     1328300.0,
+     1224800.0
+    ],
+    "Goodwill": [
+     2279600.0,
+     2283300.0,
+     2023700.0,
+     2033700.0
+    ],
+    "Intangible Assets": [
+     1736100.0,
+     1800800.0,
+     1806000.0,
+     1894800.0
+    ],
+    "Other Assets": [
+     123900.0,
+     90400.0,
+     79700.0,
+     60000.0
+    ],
+    "Deferred Asset Charges": [
+     171900.0,
+     170100.0,
+     177800.0,
+     179600.0
+    ],
+    "Total Assets": [
+     18174500.0,
+     15900900.0,
+     13400100.0,
+     12212400.0
+    ],
+    "Current Liabilities": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "Accounts Payable": [
+     4586800.0,
+     3609300.0,
+     2881400.0,
+     2571400.0
+    ],
+    "Short-Term Debt / Current Portion of Long-Term Debt": [
+     3400.0,
+     null,
+     null,
+     20900.0
+    ],
+    "Other Current Liabilities": [
+     4120500.0,
+     3633700.0,
+     2461800.0,
+     1814700.0
+    ],
+    "Total Current Liabilities": [
+     8710700.0,
+     7243000.0,
+     5343200.0,
+     4407000.0
+    ],
+    "Long-Term Debt": [
+     2925100.0,
+     2939800.0,
+     2922200.0,
+     2892100.0
+    ],
+    "Other Liabilities": [
+     788200.0,
+     726400.0,
+     668600.0,
+     739200.0
+    ],
+    "Deferred Liability Charges": [
+     248500.0,
+     234100.0,
+     221200.0,
+     232800.0
+    ],
+    "Misc. Stocks": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "Minority Interest": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "Total Liabilities": [
+     12672500.0,
+     11143300.0,
+     9155200.0,
+     8271100.0
+    ],
+    "Stock Holders Equity": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "Common Stocks": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "Capital Surplus": [
+     2608500.0,
+     1868000.0,
+     1394100.0,
+     1027900.0
+    ],
+    "Retained Earnings": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "Treasury Stock": [
+     2974900.0,
+     2954800.0,
+     2927000.0,
+     2895200.0
+    ],
+    "Other Equity": [
+     -81400.0,
+     -65200.0,
+     -76200.0,
+     18200.0
+    ],
+    "Total Equity": [
+     5502000.0,
+     4757600.0,
+     4244900.0,
+     3941300.0
+    ],
+    "Total Liabilities & Equity": [
+     18174500.0,
+     15900900.0,
+     13400100.0,
+     12212400.0
+    ]
+   }
+  },
+  "cashFlowTable": {
+   "periods": [
+    "9/30/2026",
+    "6/30/2026",
+    "3/31/2026",
+    "12/31/2025"
+   ],
+   "rows": {
+    "Net Income": [
+     764500.0,
+     497800.0,
+     390100.0,
+     445600.0
+    ],
+    "Cash Flows-Operating Activities": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "Depreciation": [
+     109500.0,
+     116400.0,
+     109300.0,
+     88900.0
+    ],
+    "Net Income Adjustments": [
+     58300.0,
+     34600.0,
+     39600.0,
+     -35600.0
+    ],
+    "Changes in Operating Activities": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "Accounts Receivable": [
+     631900.0,
+     586500.0,
+     57700.0,
+     207700.0
+    ],
+    "Changes in Inventories": [
+     766900.0,
+     663800.0,
+     384200.0,
+     21600.0
+    ],
+    "Other Operating Activities": [
+     -2957800.0,
+     -2557400.0,
+     -972300.0,
+     -490800.0
+    ],
+    "Liabilities": [
+     1420700.0,
+     1758100.0,
+     758200.0,
+     767500.0
+    ],
+    "Net Cash Flow-Operating": [
+     794000.0,
+     1099800.0,
+     766800.0,
+     1004900.0
+    ],
+    "Cash Flows-Investing Activities": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "Capital Expenditures": [
+     -139100.0,
+     -173300.0,
+     -112600.0,
+     -93300.0
+    ],
+    "Investments": [
+     94200.0,
+     48200.0,
+     -262300.0,
+     450000.0
+    ],
+    "Other Investing Activities": [
+     -2700.0,
+     -278900.0,
+     -1800.0,
+     -990800.0
+    ],
+    "Net Cash Flows-Investing": [
+     -47600.0,
+     -404000.0,
+     -376700.0,
+     -634100.0
+    ],
+    "Cash Flows-Financing Activities": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "Sale and Purchase of Stock": [
+     800.0,
+     20600.0,
+     23500.0,
+     4400.0
+    ],
+    "Net Borrowings": [
+     -11900.0,
+     null,
+     23900.0,
+     -5200.0
+    ],
+    "Other Financing Activities": [
+     -4300.0,
+     -11600.0,
+     -11600.0,
+     -3200.0
+    ],
+    "Net Cash Flows-Financing": [
+     -39400.0,
+     -14900.0,
+     11900.0,
+     -28000.0
+    ],
+    "Effect of Exchange Rate": [
+     600.0,
+     3500.0,
+     -600.0,
+     2800.0
+    ],
+    "Net Cash Flow": [
+     707600.0,
+     684400.0,
+     401400.0,
+     345600.0
+    ]
+   }
+  }
+ },
+ "annual": {
+  "incomeStatementTable": {
+   "periods": [
+    "12/31/2025",
+    "12/31/2024",
+    "12/31/2023",
+    "12/31/2022"
+   ],
+   "rows": {
+    "Total Revenue": [
+     10229900.0,
+     8011800.0,
+     6863200.0,
+     5691500.0
+    ],
+    "Cost of Revenue": [
+     6514700.0,
+     5077600.0,
+     4462700.0,
+     4075400.0
+    ],
+    "Gross Profit": [
+     3715200.0,
+     2934200.0,
+     2400500.0,
+     1616100.0
+    ],
+    "Operating Expenses": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "Research and Development": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "Sales, General and Admin.": [
+     1618600.0,
+     1368000.0,
+     1302400.0,
+     1172500.0
+    ],
+    "Non-Recurring Items": [
+     54500.0,
+     5300.0,
+     28600.0,
+     700.0
+    ],
+    "Other Operating Items": [
+     200400.0,
+     184200.0,
+     181300.0,
+     215800.0
+    ],
+    "Operating Income": [
+     1829700.0,
+     1367400.0,
+     872200.0,
+     223400.0
+    ],
+    "Add'l income/expense items": [
+     -13700.0,
+     -460900.0,
+     -174400.0,
+     87200.0
+    ],
+    "Earnings Before Interest and Tax": [
+     1828000.0,
+     915800.0,
+     713800.0,
+     314300.0
+    ],
+    "Interest Expense": [
+     86100.0,
+     150400.0,
+     180100.0,
+     147300.0
+    ],
+    "Earnings Before Tax": [
+     1741900.0,
+     765400.0,
+     533700.0,
+     167000.0
+    ],
+    "Income Tax": [
+     409100.0,
+     269600.0,
+     73500.0,
+     90400.0
+    ],
+    "Minority Interest": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "Equity Earnings/Loss Unconsolidated Subsidiary": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "Net Income-Cont. Operations": [
+     1332800.0,
+     495800.0,
+     460200.0,
+     76600.0
+    ],
+    "Net Income": [
+     1332800.0,
+     495800.0,
+     460200.0,
+     76600.0
+    ],
+    "Net Income Applicable to Common Shareholders": [
+     1332800.0,
+     495800.0,
+     460200.0,
+     76600.0
+    ]
+   }
+  },
+  "balanceSheetTable": {
+   "periods": [
+    "12/31/2025",
+    "12/31/2024",
+    "12/31/2023",
+    "12/31/2022"
+   ],
+   "rows": {
+    "Current Assets": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "Cash and Cash Equivalents": [
+     1728400.0,
+     1227600.0,
+     780400.0,
+     260600.0
+    ],
+    "Short-Term Investments": [
+     99500.0,
+     null,
+     null,
+     null
+    ],
+    "Net Receivables": [
+     3109000.0,
+     2362700.0,
+     2118100.0,
+     1888800.0
+    ],
+    "Inventory": [
+     1456500.0,
+     1244400.0,
+     884300.0,
+     822000.0
+    ],
+    "Other Current Assets": [
+     426100.0,
+     267100.0,
+     218700.0,
+     187300.0
+    ],
+    "Total Current Assets": [
+     6819500.0,
+     5101800.0,
+     4001500.0,
+     3158700.0
+    ],
+    "Long-Term Assets": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "Long-Term Investments": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "Fixed Assets": [
+     1224800.0,
+     827200.0,
+     733600.0,
+     655800.0
+    ],
+    "Goodwill": [
+     2033700.0,
+     1321100.0,
+     1330300.0,
+     1284700.0
+    ],
+    "Intangible Assets": [
+     1894800.0,
+     1487100.0,
+     1672900.0,
+     1816100.0
+    ],
+    "Other Assets": [
+     60000.0,
+     92000.0,
+     100400.0,
+     134000.0
+    ],
+    "Deferred Asset Charges": [
+     179600.0,
+     303300.0,
+     159800.0,
+     46400.0
+    ],
+    "Total Assets": [
+     12212400.0,
+     9132500.0,
+     7998500.0,
+     7095700.0
+    ],
+    "Current Liabilities": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "Accounts Payable": [
+     2571400.0,
+     2012700.0,
+     1644700.0,
+     1517400.0
+    ],
+    "Short-Term Debt / Current Portion of Long-Term Debt": [
+     20900.0,
+     21000.0,
+     21800.0,
+     21800.0
+    ],
+    "Other Current Liabilities": [
+     1814700.0,
+     1063300.0,
+     638900.0,
+     358700.0
+    ],
+    "Total Current Liabilities": [
+     4407000.0,
+     3097000.0,
+     2305400.0,
+     1897900.0
+    ],
+    "Long-Term Debt": [
+     2892100.0,
+     2907200.0,
+     2919100.0,
+     3169100.0
+    ],
+    "Other Liabilities": [
+     739200.0,
+     453700.0,
+     599600.0,
+     410300.0
+    ],
+    "Deferred Liability Charges": [
+     232800.0,
+     240300.0,
+     159500.0,
+     176500.0
+    ],
+    "Misc. Stocks": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "Minority Interest": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "Total Liabilities": [
+     8271100.0,
+     6698200.0,
+     5983600.0,
+     5653800.0
+    ],
+    "Stock Holders Equity": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "Common Stocks": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "Capital Surplus": [
+     1027900.0,
+     -238300.0,
+     -691900.0,
+     -1142600.0
+    ],
+    "Retained Earnings": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "Treasury Stock": [
+     2895200.0,
+     2821400.0,
+     2711300.0,
+     2630700.0
+    ],
+    "Other Equity": [
+     18200.0,
+     -148800.0,
+     -4500.0,
+     -46200.0
+    ],
+    "Total Equity": [
+     3941300.0,
+     2434300.0,
+     2014900.0,
+     1441900.0
+    ],
+    "Total Liabilities & Equity": [
+     12212400.0,
+     9132500.0,
+     7998500.0,
+     7095700.0
+    ]
+   }
+  },
+  "cashFlowTable": {
+   "periods": [
+    "12/31/2025",
+    "12/31/2024",
+    "12/31/2023",
+    "12/31/2022"
+   ],
+   "rows": {
+    "Net Income": [
+     1332800.0,
+     495800.0,
+     460200.0,
+     76600.0
+    ],
+    "Cash Flows-Operating Activities": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "Depreciation": [
+     314500.0,
+     284000.0,
+     278900.0,
+     309900.0
+    ],
+    "Net Income Adjustments": [
+     127200.0,
+     425400.0,
+     94700.0,
+     -90100.0
+    ],
+    "Changes in Operating Activities": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "Accounts Receivable": [
+     547500.0,
+     280300.0,
+     277200.0,
+     368000.0
+    ],
+    "Changes in Inventories": [
+     164700.0,
+     369300.0,
+     54000.0,
+     211400.0
+    ],
+    "Other Operating Activities": [
+     -1497300.0,
+     -1362900.0,
+     -657700.0,
+     -1195400.0
+    ],
+    "Liabilities": [
+     1124400.0,
+     827400.0,
+     393200.0,
+     166800.0
+    ],
+    "Net Cash Flow-Operating": [
+     2113800.0,
+     1319300.0,
+     900500.0,
+     -152800.0
+    ],
+    "Cash Flows-Investing Activities": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "Capital Expenditures": [
+     -220000.0,
+     -167000.0,
+     -127900.0,
+     -100000.0
+    ],
+    "Investments": [
+     -89600.0,
+     null,
+     null,
+     null
+    ],
+    "Other Investing Activities": [
+     -1191200.0,
+     -34700.0,
+     -11200.0,
+     -12100.0
+    ],
+    "Net Cash Flows-Investing": [
+     -1500800.0,
+     -201700.0,
+     -139100.0,
+     -112100.0
+    ],
+    "Cash Flows-Financing Activities": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "Sale and Purchase of Stock": [
+     26400.0,
+     -566900.0,
+     27400.0,
+     3100.0
+    ],
+    "Net Borrowings": [
+     -20900.0,
+     -21100.0,
+     -262100.0,
+     118600.0
+    ],
+    "Other Financing Activities": [
+     -11200.0,
+     -21900.0,
+     -3300.0,
+     -17100.0
+    ],
+    "Net Cash Flows-Financing": [
+     -72300.0,
+     -652100.0,
+     -247500.0,
+     100200.0
+    ],
+    "Effect of Exchange Rate": [
+     16900.0,
+     -21900.0,
+     1500.0,
+     -9200.0
+    ],
+    "Net Cash Flow": [
+     557600.0,
+     443600.0,
+     515400.0,
+     -173900.0
+    ]
+   }
+  }
+ }
+}
