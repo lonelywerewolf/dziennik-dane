@@ -12,6 +12,10 @@ TRACKED = {c["ticker"]: c for c in COMP + EXTRA}
 KEYWORDS = re.compile(r"wynik|prognoz|emisj|ABB|wezwani|przejęc|przejmie|dywidend|umow|kontrakt|zamówien|rekomendac|cena docelow|prezes|rezygnac|odwoł|upadł|restruktur|skup akcji|"
                       r"skup własnych|akcjonariusz|znaczn|zawiesz|korekt|guidance|odpis|pozew|kar[ay] |UOKiK|KNF", re.I)
 API = "https://api.telegram.org/bot{}/{}"
+# transakcje osób pełniących obowiązki zarządcze (art. 19 MAR) i znaczni akcjonariusze
+INSIDER = re.compile(r"art\.? ?19|(?-i:\bMAR\b)|osob[ayę] (pełniąc|blisko związan)|obowiązki zarządcze|powiadomieni\w* o transakcj|transakcj\w* (na|akcjami|nabyci|zbyci)|nabyci\w* akcji|zbyci\w* akcji|członk\w* (zarządu|rady)", re.I)
+BUY = re.compile(r"nabyci|kupn|zakup", re.I)
+SELL = re.compile(r"zbyci|sprzeda", re.I)
 
 
 def tg(method, **params):
@@ -37,7 +41,7 @@ def run():
         st["chat_id"] = chats[-1]
         jsave(st_path, st)
         tg("sendMessage", chat_id=st["chat_id"], parse_mode="HTML",
-           text="✅ <b>Dziennik Portfela</b>: powiadomienia działają.\nBędę pisać tylko w ważnych sprawach: komunikaty ESPI Twoich i obserwowanych spółek, istotne wiadomości (wyniki, emisje, wezwania, dywidendy, rekomendacje), nowe raporty analityczne, spełnione warunki z Twoich tez i zakupy akcji przez insiderów w USA.")
+           text="✅ <b>Dziennik Portfela</b>: powiadomienia działają.\nBędę pisać tylko w ważnych sprawach: komunikaty ESPI Twoich i obserwowanych spółek, istotne wiadomości (wyniki, emisje, wezwania, dywidendy, rekomendacje), nowe raporty analityczne, spełnione warunki z Twoich tez i transakcje insiderów (zarząd, rada nadzorcza) w Twoich i obserwowanych spółkach z GPW oraz zakupy insiderów w USA.")
     chat = st["chat_id"]
     sent_path = D("notified.json")
     first = not os.path.exists(sent_path)
@@ -54,8 +58,13 @@ def run():
             sent.add(it["id"])
             if first or (it.get("ts") or "") < horizon:
                 continue
-            if it.get("kind") == "espi" or KEYWORDS.search(it.get("title", "")):
-                own = "🔴" if any(c["ticker"] == t for c in COMP) else "👀"
+            title = it.get("title", "")
+            own = "🔴" if any(c["ticker"] == t for c in COMP) else "👀"
+            if INSIDER.search(title):
+                side = "🟢 insider KUPUJE" if BUY.search(title) else "🔻 insider SPRZEDAJE" if SELL.search(title) else "👤 transakcja insidera (kupno/sprzedaż – w treści komunikatu)"
+                msgs.append(f"{side} · <b>{esc(t)}</b> {esc(it.get('time'))}\n{esc((it.get('company') + ': ') if it.get('company') else '')}{esc(title)}\n{esc(it.get('url'))}")
+                continue
+            if it.get("kind") == "espi" or KEYWORDS.search(title):
                 kind = "ESPI" if it.get("kind") == "espi" else "PAP"
                 msgs.append(f"{own} <b>{esc(t)}</b> · {kind} {esc(it.get('time'))}\n{esc((it.get('company') + ': ') if it.get('company') else '')}{esc(it['title'])}\n{esc(it.get('url'))}")
 

@@ -222,6 +222,14 @@ def recs():
 # ---------------- GPW (kontrolnie) ----------------
 def gpw():
     s = get("https://www.gpw.pl/komunikaty", headers={"Accept": "text/html", "Referer": "https://www.gpw.pl/"})
+    try:
+        sp = D("_samples", "gpw_komunikaty.html")
+        if not os.path.exists(sp) or time.time() - os.path.getmtime(sp) > 86400:
+            os.makedirs(os.path.dirname(sp), exist_ok=True)
+            i = s.find("komunikat")
+            open(sp, "w", encoding="utf-8").write(s[:60000])
+    except Exception:
+        pass
     times = re.findall(r"(\d\d-\d\d-\d{4} \d\d:\d\d:\d\d)", s)
     return {"ok": True, "items": len(times), "newest": times[0] if times else None, "oldestSeen": times[-1] if times else None}
 
