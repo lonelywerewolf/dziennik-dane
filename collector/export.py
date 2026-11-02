@@ -102,7 +102,7 @@ def feed(manifest):
             items.append({"id": i["id"], "time": i.get("time"), "ticker": i.get("ticker"), "kind": "espi" if i.get("kind") == "espi" else ("skrot" if i.get("kind") == "skrot" else "news"),
                           "title": (i.get("company") + ": " if i.get("company") else "") + i["title"], "text": "", "source": {"bossa": "bossa.pl (PAP/ESPI)", "strefainwestorow": "strefainwestorow.pl (PAP)"}.get(i.get("src"), i.get("src")),
                           "url": i.get("url")})
-        manifest["feed"][day] = jsave(E("feed", day + ".json"), {"date": day, "items": items, "via": "github-zbieracz"})
+        manifest["feed"][day] = jsave(E("feed", day + ".json"), {"date": day, "auto": items, "via": "github-zbieracz"})
 
 
 def holders(manifest):
@@ -117,7 +117,7 @@ def holders(manifest):
                                      "url": i.get("url") or i.get("src")})
     for t, items in by.items():
         items.sort(key=lambda x: x["date"], reverse=True)
-        manifest["holders"][t] = jsave(E("holders", t + ".json"), {"items": items[:150], "via": "github-zbieracz"})
+        manifest["holders"][t] = jsave(E("holders", t + ".json"), {"ticker": t, "auto": items[:150], "via": "github-zbieracz"})
 
 
 def recs(manifest):
@@ -133,7 +133,7 @@ def recs(manifest):
         by.setdefault(i["ticker"], []).append({"date": i["date"], "house": i["house"], "rating": i["rating"], "target": target, "currency": "PLN",
                                                "url": i.get("report") or "https://strefainwestorow.pl/rekomendacje", "source": "strefainwestorow.pl"})
     for t, items in by.items():
-        manifest["recs"][t] = jsave(E("recs", t + ".json"), {"items": items, "via": "github-zbieracz"})
+        manifest["recs"][t] = jsave(E("recs", t + ".json"), {"ticker": t, "auto": items, "via": "github-zbieracz"})
 
 
 def gpw_last(manifest):
