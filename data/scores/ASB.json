@@ -1,0 +1,81 @@
+{
+ "ticker": "ASB",
+ "unit": "tys. PLN",
+ "src": "https://strefainwestorow.pl/notowania/spolki/CY1000031710/wyniki-finansowe",
+ "years": [
+  "2025",
+  "2024",
+  "2023",
+  "2022",
+  "2021"
+ ],
+ "B1_revenueCagr": {
+  "years": 3,
+  "nominal": 5.5,
+  "real": 2.0,
+  "cpiAvg": 3.5,
+  "pass": false
+ },
+ "B2_ebitMargin": {
+  "byYear": [
+   2.9,
+   3.1,
+   3.7,
+   4.1,
+   3.7
+  ],
+  "stdev_pp": 0.4,
+  "trend": "spada"
+ },
+ "B3_operatingLeverage": {
+  "revenueGrowth": 12.8,
+  "ebitGrowth": 3.3,
+  "pass": false
+ },
+ "B4_roicApprox": {
+  "value": 70.7,
+  "method": "EBIT×(1−19%) / (aktywa − zobowiązania krótkoterminowe − gotówka); przybliżenie",
+  "pass": true
+ },
+ "B5_cashConversion": {
+  "cfo3y": 845836.0,
+  "netIncome3y": 650414.0,
+  "ratio": 130.0,
+  "pass": true
+ },
+ "B6_debt": {
+  "liabilitiesToEquity": 3.44,
+  "cash": 927815.0,
+  "note": "Dług netto/EBITDA wymaga zadłużenia odsetkowego – sprawdź w raporcie (strefa nie podaje); tu tylko zobowiązania/kapitał własny."
+ },
+ "B7_dilution": {
+  "value": null,
+  "note": "brak liczby akcji w źródle – sprawdź (stockanalysis: Buyback Yield / Dilution)"
+ },
+ "ytd": {
+  "period": "2026 (H*)",
+  "revenue": 18997890.0,
+  "ebit": 696992.0,
+  "netIncome": 453211.0
+ },
+ "ratios": {
+  "C/Z": "19.25",
+  "C/WK": "5.82",
+  "C/WK Grahama": "9.44",
+  "C/P": "0.46",
+  "C/S": "0.46",
+  "C/ZO": "12.52",
+  "EV/P": "0.64",
+  "EV/EBIT": "17.42",
+  "EV/EBITDA": "16.31",
+  "ROA": "7.49%",
+  "ROE": "30.24%"
+ },
+ "liquidity": {
+  "avg60k": 48156.5,
+  "sessions": 60,
+  "unit": "tys. zł/dzień",
+  "filterA": "OK"
+ },
+ "price": null
+}

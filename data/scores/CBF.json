@@ -1,0 +1,81 @@
+{
+ "ticker": "CBF",
+ "unit": "tys. PLN",
+ "src": "https://strefainwestorow.pl/notowania/spolki/PLR220000018/wyniki-finansowe",
+ "years": [
+  "2025",
+  "2024",
+  "2023",
+  "2022",
+  "2021"
+ ],
+ "B1_revenueCagr": {
+  "years": 3,
+  "nominal": 42.3,
+  "real": 38.8,
+  "cpiAvg": 3.5,
+  "pass": true
+ },
+ "B2_ebitMargin": {
+  "byYear": [
+   24.2,
+   20.4,
+   19.0,
+   16.4,
+   18.5
+  ],
+  "stdev_pp": 2.6,
+  "trend": "rośnie"
+ },
+ "B3_operatingLeverage": {
+  "revenueGrowth": 30.3,
+  "ebitGrowth": 55.0,
+  "pass": true
+ },
+ "B4_roicApprox": {
+  "value": 15.4,
+  "method": "EBIT×(1−19%) / (aktywa − zobowiązania krótkoterminowe − gotówka); przybliżenie",
+  "pass": true
+ },
+ "B5_cashConversion": {
+  "cfo3y": 545898.0,
+  "netIncome3y": 203480.0,
+  "ratio": 268.3,
+  "pass": true
+ },
+ "B6_debt": {
+  "liabilitiesToEquity": 1.18,
+  "cash": 351031.0,
+  "note": "Dług netto/EBITDA wymaga zadłużenia odsetkowego – sprawdź w raporcie (strefa nie podaje); tu tylko zobowiązania/kapitał własny."
+ },
+ "B7_dilution": {
+  "value": null,
+  "note": "brak liczby akcji w źródle – sprawdź (stockanalysis: Buyback Yield / Dilution)"
+ },
+ "ytd": {
+  "period": "2026 (H*)",
+  "revenue": 964632.0,
+  "ebit": 216753.0,
+  "netIncome": 54840.0
+ },
+ "ratios": {
+  "C/Z": "63.08",
+  "C/WK": "4.37",
+  "C/WK Grahama": "-",
+  "C/P": "3.58",
+  "C/S": "3.59",
+  "C/ZO": "15.96",
+  "EV/P": "4.65",
+  "EV/EBIT": "20.74",
+  "EV/EBITDA": "15.75",
+  "ROA": "2.19%",
+  "ROE": "6.92%"
+ },
+ "liquidity": {
+  "avg60k": 4407.0,
+  "sessions": 60,
+  "unit": "tys. zł/dzień",
+  "filterA": "OK"
+ },
+ "price": null
+}

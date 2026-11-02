@@ -1,0 +1,81 @@
+{
+ "ticker": "SNT",
+ "unit": "tys. PLN",
+ "src": "https://strefainwestorow.pl/notowania/spolki/PLSNKTK00019/wyniki-finansowe",
+ "years": [
+  "2025",
+  "2024",
+  "2023",
+  "2022",
+  "2021"
+ ],
+ "B1_revenueCagr": {
+  "years": 3,
+  "nominal": 59.9,
+  "real": 56.4,
+  "cpiAvg": 3.5,
+  "pass": true
+ },
+ "B2_ebitMargin": {
+  "byYear": [
+   23.1,
+   20.3,
+   15.2,
+   10.6,
+   8.7
+  ],
+  "stdev_pp": 5.5,
+  "trend": "rośnie"
+ },
+ "B3_operatingLeverage": {
+  "revenueGrowth": 9.2,
+  "ebitGrowth": 24.1,
+  "pass": true
+ },
+ "B4_roicApprox": {
+  "value": 61.1,
+  "method": "EBIT×(1−19%) / (aktywa − zobowiązania krótkoterminowe − gotówka); przybliżenie",
+  "pass": true
+ },
+ "B5_cashConversion": {
+  "cfo3y": 264026.0,
+  "netIncome3y": 237946.0,
+  "ratio": 111.0,
+  "pass": true
+ },
+ "B6_debt": {
+  "liabilitiesToEquity": 1.1,
+  "cash": 84254.0,
+  "note": "Dług netto/EBITDA wymaga zadłużenia odsetkowego – sprawdź w raporcie (strefa nie podaje); tu tylko zobowiązania/kapitał własny."
+ },
+ "B7_dilution": {
+  "value": null,
+  "note": "brak liczby akcji w źródle – sprawdź (stockanalysis: Buyback Yield / Dilution)"
+ },
+ "ytd": {
+  "period": "2026 (Q3*)",
+  "revenue": 932966.0,
+  "ebit": 223729.0,
+  "netIncome": 418071.0
+ },
+ "ratios": {
+  "C/Z": "6.40",
+  "C/WK": "12.49",
+  "C/WK Grahama": "65.66",
+  "C/P": "2.87",
+  "C/S": "2.87",
+  "C/ZO": "11.96",
+  "EV/P": "3.17",
+  "EV/EBIT": "13.18",
+  "EV/EBITDA": "12.04",
+  "ROA": "73.89%",
+  "ROE": "195.18%"
+ },
+ "liquidity": {
+  "avg60k": 10858.9,
+  "sessions": 60,
+  "unit": "tys. zł/dzień",
+  "filterA": "OK"
+ },
+ "price": null
+}

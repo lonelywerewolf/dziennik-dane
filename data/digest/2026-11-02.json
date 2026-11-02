@@ -1,24 +1,33 @@
 {
  "date": "2026-11-02",
  "counts": {
-  "podsumowania": 19,
+  "podsumowania": 20,
   "wyniki": 8,
-  "rekomendacje": 4,
-  "korporacyjne": 34,
-  "makro_pl": 28,
-  "swiat_rynki": 10,
+  "rekomendacje": 5,
+  "korporacyjne": 37,
+  "makro_pl": 29,
+  "swiat_rynki": 11,
   "energetyka_surowce": 7,
   "nieruchomosci": 1,
   "fundusze_drobne": 12,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 55
+  "pozostale": 57
  },
- "duplicatesRemoved": 100,
- "total": 278,
+ "duplicatesRemoved": 104,
+ "total": 291,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "18:06",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Indeksy w Europie zwyżkowały na początku tygodnia",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261102/dzien-na-rynkach-indeksy-w-europie-zwyzkowaly-na-poczatku-tygodnia",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:34",
     "kind": "pap",
@@ -287,6 +296,15 @@
   ],
   "rekomendacje": [
    {
+    "time": "18:08",
+    "kind": "news",
+    "ticker": null,
+    "title": "DM BOŚ obniżył cenę docelową akcji Eurotelu do 56 zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261102/dm-bos-obnizyl-cene-docelowa-akcji-eurotelu-do-56-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "15:34",
     "kind": "news",
     "ticker": null,
@@ -324,6 +342,40 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "18:51",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BANK PEKAO S.A.: Korekta Raportu 29/2026: Uchwała Zarządu Banku w sprawie wcześniejszego wykupu Euroobligacji serii 1",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23209",
+    "src": "bossa",
+    "flags": [
+     "prognoza",
+     "zarząd"
+    ]
+   },
+   {
+    "time": "18:18",
+    "kind": "espi",
+    "ticker": null,
+    "title": "AGORA: Korekta numeracji raportu bieżącego numer 24/2026 - Rejestracja połączenia Agora S.A. z Agora TC sp. z o.o.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23207",
+    "src": "bossa",
+    "flags": [
+     "prognoza"
+    ]
+   },
+   {
+    "time": "18:11",
+    "kind": "espi",
+    "ticker": null,
+    "title": "QUERCUS TFI S.A.: Wartość aktywów pod zarządzaniem Quercus TFI S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23205",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "17:58",
     "kind": "pap",
@@ -685,6 +737,15 @@
   ],
   "makro_pl": [
    {
+    "time": "18:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Ministerstwo Finansów ponownie składa projekt ustawy o zmianie progów podatkowych w PIT i stawki CIT",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438814",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "17:55",
     "kind": "news",
     "ticker": null,
@@ -938,6 +999,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "18:50",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Aktualne wskaźniki giełdowe",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438818",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:19",
     "kind": "pap",
@@ -1219,20 +1289,29 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "18:37",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MPAY S.A.: Liczba użytkowników aplikacji mPay na dzień 31.10.2026r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23208",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "18:17",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ALTUS S.A.: Przystąpienie do postępowania w charakterze interwenienta ubocznego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23206",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "18:02",
     "kind": "pap",
     "ticker": null,
     "title": "Stawka Polonia wzrosła w poniedziałek do 3,66 proc.",
     "url": "https://bossa.pl/analizy/komunikaty#message-438809",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "18:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Zamknięcia na giełdach w Europie (tabela)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-438808",
     "src": "bossa",
     "flags": []
    },
@@ -1252,6 +1331,15 @@
     "title": "ANSWEAR.COM S.A.: Przedłużenie umów na finansowanie zawartych z Bankiem Handlowym SA z siedzibą w Warszawie",
     "url": "https://bossa.pl/analizy/komunikaty#message-23203",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zamknięcia na giełdach w Europie (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261102/zamkniecia-na-gieldach-w-europie-tabela",
+    "src": "strefainwestorow",
     "flags": []
    },
    {

@@ -1,0 +1,81 @@
+{
+ "ticker": "VRC",
+ "unit": "tys. PLN",
+ "src": "https://strefainwestorow.pl/notowania/spolki/PLVRCM000016/wyniki-finansowe",
+ "years": [
+  "2025",
+  "2024",
+  "2023",
+  "2022",
+  "2021"
+ ],
+ "B1_revenueCagr": {
+  "years": 3,
+  "nominal": 21.9,
+  "real": 18.4,
+  "cpiAvg": 3.5,
+  "pass": true
+ },
+ "B2_ebitMargin": {
+  "byYear": [
+   23.8,
+   18.7,
+   20.4,
+   16.3,
+   15.8
+  ],
+  "stdev_pp": 2.9,
+  "trend": "rośnie"
+ },
+ "B3_operatingLeverage": {
+  "revenueGrowth": -5.0,
+  "ebitGrowth": 20.8,
+  "pass": null
+ },
+ "B4_roicApprox": {
+  "value": 24.6,
+  "method": "EBIT×(1−19%) / (aktywa − zobowiązania krótkoterminowe − gotówka); przybliżenie",
+  "pass": true
+ },
+ "B5_cashConversion": {
+  "cfo3y": 315503.0,
+  "netIncome3y": 236551.0,
+  "ratio": 133.4,
+  "pass": true
+ },
+ "B6_debt": {
+  "liabilitiesToEquity": 0.48,
+  "cash": 105519.0,
+  "note": "Dług netto/EBITDA wymaga zadłużenia odsetkowego – sprawdź w raporcie (strefa nie podaje); tu tylko zobowiązania/kapitał własny."
+ },
+ "B7_dilution": {
+  "value": null,
+  "note": "brak liczby akcji w źródle – sprawdź (stockanalysis: Buyback Yield / Dilution)"
+ },
+ "ytd": {
+  "period": "2026 (H*)",
+  "revenue": 502165.0,
+  "ebit": 121872.0,
+  "netIncome": 95878.0
+ },
+ "ratios": {
+  "C/Z": "27.58",
+  "C/WK": "6.48",
+  "C/WK Grahama": "-",
+  "C/P": "5.28",
+  "C/S": "5.27",
+  "C/ZO": "21.70",
+  "EV/P": "5.47",
+  "EV/EBIT": "22.49",
+  "EV/EBITDA": "20.00",
+  "ROA": "16.18%",
+  "ROE": "23.48%"
+ },
+ "liquidity": {
+  "avg60k": 1874.2,
+  "sessions": 60,
+  "unit": "tys. zł/dzień",
+  "filterA": "OK"
+ },
+ "price": null
+}

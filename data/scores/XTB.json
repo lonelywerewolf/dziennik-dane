@@ -1,0 +1,81 @@
+{
+ "ticker": "XTB",
+ "unit": "tys. PLN",
+ "src": "https://strefainwestorow.pl/notowania/spolki/PLXTRDM00011/wyniki-finansowe",
+ "years": [
+  "2025",
+  "2024",
+  "2023",
+  "2022",
+  "2021"
+ ],
+ "B1_revenueCagr": {
+  "years": 3,
+  "nominal": 14.1,
+  "real": 10.6,
+  "cpiAvg": 3.5,
+  "pass": true
+ },
+ "B2_ebitMargin": {
+  "byYear": [
+   38.8,
+   52.7,
+   57.2,
+   61.3,
+   44.4
+  ],
+  "stdev_pp": 8.2,
+  "trend": "spada"
+ },
+ "B3_operatingLeverage": {
+  "revenueGrowth": 14.5,
+  "ebitGrowth": -15.6,
+  "pass": false
+ },
+ "B4_roicApprox": {
+  "value": null,
+  "method": "EBIT×(1−19%) / (aktywa − zobowiązania krótkoterminowe − gotówka); przybliżenie",
+  "pass": null
+ },
+ "B5_cashConversion": {
+  "cfo3y": 1921860.0,
+  "netIncome3y": 2292392.0,
+  "ratio": 83.8,
+  "pass": true
+ },
+ "B6_debt": {
+  "liabilitiesToEquity": 3.54,
+  "cash": 7858420.0,
+  "note": "Dług netto/EBITDA wymaga zadłużenia odsetkowego – sprawdź w raporcie (strefa nie podaje); tu tylko zobowiązania/kapitał własny."
+ },
+ "B7_dilution": {
+  "value": null,
+  "note": "brak liczby akcji w źródle – sprawdź (stockanalysis: Buyback Yield / Dilution)"
+ },
+ "ytd": {
+  "period": "2026 (H*)",
+  "revenue": 3068358.0,
+  "ebit": 1482487.0,
+  "netIncome": 1261346.0
+ },
+ "ratios": {
+  "C/Z": "12.21",
+  "C/WK": "6.02",
+  "C/WK Grahama": "6.21",
+  "C/P": "4.92",
+  "C/S": "5.02",
+  "C/ZO": "10.39",
+  "EV/P": "4.48",
+  "EV/EBIT": "9.46",
+  "EV/EBITDA": "9.29",
+  "ROA": "12.11%",
+  "ROE": "49.28%"
+ },
+ "liquidity": {
+  "avg60k": 102733.8,
+  "sessions": 60,
+  "unit": "tys. zł/dzień",
+  "filterA": "OK"
+ },
+ "price": null
+}

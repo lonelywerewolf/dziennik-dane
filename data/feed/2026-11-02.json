@@ -1,7 +1,67 @@
 {
  "date": "2026-11-02",
- "count": 285,
+ "count": 291,
  "items": [
+  {
+   "id": "bossa-espi-23209",
+   "date": "2026-11-02",
+   "time": "18:51",
+   "ts": "2026-11-02T18:51:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BANK PEKAO S.A.",
+   "title": "Korekta Raportu 29/2026: Uchwała Zarządu Banku w sprawie wcześniejszego wykupu Euroobligacji serii 1",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23209"
+  },
+  {
+   "id": "bossa-pap-438818",
+   "date": "2026-11-02",
+   "time": "18:50",
+   "ts": "2026-11-02T18:50:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Aktualne wskaźniki giełdowe",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438818"
+  },
+  {
+   "id": "bossa-pap-438817",
+   "date": "2026-11-02",
+   "time": "18:42",
+   "ts": "2026-11-02T18:42:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne - SARON",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438817"
+  },
+  {
+   "id": "bossa-pap-438816",
+   "date": "2026-11-02",
+   "time": "18:39",
+   "ts": "2026-11-02T18:39:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DM BOŚ obniżył cenę docelową akcji Eurotelu do 56 zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438816"
+  },
+  {
+   "id": "bossa-espi-23208",
+   "date": "2026-11-02",
+   "time": "18:37",
+   "ts": "2026-11-02T18:37:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MPAY S.A.",
+   "title": "Liczba użytkowników aplikacji mPay na dzień 31.10.2026r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23208"
+  },
   {
    "id": "bossa-pap-438814",
    "date": "2026-11-02",
@@ -49,6 +109,17 @@
    "title": "Wartość aktywów pod zarządzaniem Quercus TFI S.A.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23205"
+  },
+  {
+   "id": "strefa-6ce3d1da19a0",
+   "date": "2026-11-02",
+   "time": "18:08",
+   "ts": "2026-11-02T18:08:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DM BOŚ obniżył cenę docelową akcji Eurotelu do 56 zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261102/dm-bos-obnizyl-cene-docelowa-akcji-eurotelu-do-56-zl"
   },
   {
    "id": "strefa-d4919f77a7b4",
