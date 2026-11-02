@@ -1,8 +1,8 @@
 {
  "date": "2026-11-02",
  "counts": {
-  "podsumowania": 20,
-  "wyniki": 9,
+  "podsumowania": 22,
+  "wyniki": 13,
   "rekomendacje": 5,
   "korporacyjne": 41,
   "makro_pl": 29,
@@ -14,11 +14,29 @@
   "obserwowane": 0,
   "pozostale": 57
  },
- "duplicatesRemoved": 106,
- "total": 298,
+ "duplicatesRemoved": 108,
+ "total": 306,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "22:12",
+    "kind": "pap",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Otwarcie listopada na Wall Street pozytywne dla DJI, Nasdaq 1 proc. w dół",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438832",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "21:16",
+    "kind": "pap",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Na Wall Street uspokojenie po mocnej piątkowej wyprzedaży",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438828",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:06",
     "kind": "news",
@@ -209,6 +227,46 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "22:08",
+    "kind": "pap",
+    "ticker": null,
+    "title": "FINTECH SA (10/2026) Raport roczny",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438831",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "21:35",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Eurocash szacuje, że w III kw. 2026 roku miał 216 mln EBITDA, powyżej oczekiwań",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438830",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "21:23",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wyniki Eurocashu w III kwartale 2026 roku vs. konsensus PAP (tabela)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438829",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "20:34",
+    "kind": "espi",
+    "ticker": null,
+    "title": "EUROCASH: Wstępne wybrane szacunkowe skonsolidowane wyniki finansowe Grupy Eurocash za 3 kwartał 2026 r. oraz za okres 9 miesięcy zakończonych 30 września 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23214",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "19:20",
     "kind": "espi",
