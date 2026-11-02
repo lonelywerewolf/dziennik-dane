@@ -67,7 +67,16 @@
     "XTB"
    ],
    "gpw": "XTB",
-   "isin": "PLXTRDM00011"
+   "isin": "PLXTRDM00011",
+   "exclude": [
+    "XTB \\(opinia\\)",
+    "- XTB\\b",
+    "\\bwg XTB\\b",
+    "analityk\\w* XTB",
+    "ekonomist\\w* XTB",
+    "strateg\\w* XTB",
+    "XTB:"
+   ]
   },
   {
    "ticker": "ASML",

@@ -19,6 +19,8 @@ jobs:
         with: { python-version: "3.12" }
       - run: pip install -q pypdf==5.1.0
       - run: python collector/collect.py
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
       - run: python collector/export.py
       - name: Zapisz dane
         run: |

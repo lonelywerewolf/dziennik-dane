@@ -54,6 +54,8 @@ EXTRA_COMP = jload(os.path.join(ROOT, "config", "extra.json"), {"companies": []}
 def match_ticker(*texts):
     blob = " ".join(t for t in texts if t).upper()
     for c in COMP + EXTRA_COMP:
+        if any(re.search(x, blob, re.I) for x in c.get("exclude", [])):
+            continue
         for k in c.get("match", []):
             if re.search(r"(?<![A-Z0-9])" + re.escape(k.upper()) + r"(?![A-Z0-9])", blob):
                 return c["ticker"]
@@ -449,10 +451,19 @@ def insiders():
 def conditions():
     cond = jload(os.path.join(ROOT, "config", "conditions.json"), {"items": []})
     q = jload(D("quotes.json"), {"q": {}})["q"]
+    folder = D("gpw")
+    files = sorted(f for f in os.listdir(folder) if f.endswith(".json")) if os.path.isdir(folder) else []
+    gl = {}
+    for f in reversed(files):
+        gl = jload(os.path.join(folder, f), {}).get("stocks", {})
+        if gl:
+            break
     out = []
     for c in cond.get("items", []):
         t = c.get("ticker")
         px = q.get(t, {}).get("close")
+        if px is None and gl.get((c.get("gpwName") or t or "").upper()):
+            px = gl[(c.get("gpwName") or t).upper()][0]
         if px is None:
             continue
         ok = None
@@ -490,6 +501,11 @@ if __name__ == "__main__":
         if not only or name in only:
             run(name, fn)
     save_feeds()
+    try:
+        import notify
+        run("telegram", notify.run)
+    except Exception as e:
+        STATUS["sources"]["telegram"] = {"ok": False, "error": repr(e)[:200]}
     prev = jload(D("status.json"), {"runs": []})
     runs = [STATUS] + prev.get("runs", [])[:95]
     jsave(D("status.json"), {"last": STATUS, "runs": runs})
