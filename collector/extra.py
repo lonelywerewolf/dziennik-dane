@@ -65,7 +65,10 @@ def fundamentals():
             elif c.get("market") == "USA":
                 out = {"ticker": c["ticker"], "unit": "tys. USD", "src": f"https://www.nasdaq.com/market-activity/stocks/{c['ticker'].lower()}/financials", "updatedAt": NOW.isoformat(timespec="seconds")}
                 for freq, name in ((2, "quarterly"), (1, "annual")):
-                    j = json.loads(get(f"https://api.nasdaq.com/api/company/{c['ticker']}/financials?frequency={freq}", headers=NASDAQ_H))["data"]
+                    j = json.loads(get(f"https://api.nasdaq.com/api/company/{c['ticker']}/financials?frequency={freq}", headers=NASDAQ_H)).get("data")
+                    if not j:
+                        out["note"] = "Nasdaq nie publikuje sprawozdań dla tego ADR (spółka zagraniczna, raporty 20-F/6-K) – dane z raportów spółki."
+                        break
                     tables = {}
                     for tname in ("incomeStatementTable", "balanceSheetTable", "cashFlowTable"):
                         t = j.get(tname) or {}
@@ -159,9 +162,9 @@ def pwpa():
             if it["ticker"] not in want or it.get("textFile"):
                 continue
             try:
-                req = urllib.request.Request(it["url"], headers={"User-Agent": "Mozilla/5.0"})
-                import urllib.request as ur
-                b = ur.urlopen(req, timeout=60).read()
+                req = urllib.request.Request(it["url"], headers={"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+                                                                 "Accept": "application/pdf,*/*", "Referer": "https://www.gpw.pl/gpwpa"})
+                b = urllib.request.urlopen(req, timeout=60).read()
                 pdf = PdfReader(io.BytesIO(b))
                 txt = "\n".join((p.extract_text() or "") for p in pdf.pages[:6])
                 tf = D("pwpa_text", it["file"].replace(".pdf", ".txt"))
