@@ -1,0 +1,152 @@
+{
+ "_opis": "Spółki śledzone przez zbieracz. match = słowa do rozpoznawania w tytułach komunikatów. yahoo = symbol w Yahoo Finance. sec = ticker dla raportów Form 4 (tylko spółki z USA).",
+ "companies": [
+  {
+   "ticker": "ASB",
+   "name": "ASBIS Enterprises",
+   "market": "GPW",
+   "ccy": "PLN",
+   "match": [
+    "ASBIS"
+   ],
+   "yahoo": "ASB.WA"
+  },
+  {
+   "ticker": "CBF",
+   "name": "Cyber_Folks",
+   "market": "GPW",
+   "ccy": "PLN",
+   "match": [
+    "CYBER_FOLKS",
+    "CYBERFOLKS",
+    "CYBER FOLKS"
+   ],
+   "yahoo": "CBF.WA"
+  },
+  {
+   "ticker": "DIG",
+   "name": "Digital Network",
+   "market": "GPW",
+   "ccy": "PLN",
+   "match": [
+    "DIGITAL NETWORK"
+   ],
+   "yahoo": "DIG.WA"
+  },
+  {
+   "ticker": "SNT",
+   "name": "Synektik",
+   "market": "GPW",
+   "ccy": "PLN",
+   "match": [
+    "SYNEKTIK"
+   ],
+   "yahoo": "SNT.WA"
+  },
+  {
+   "ticker": "VRC",
+   "name": "Vercom",
+   "market": "GPW",
+   "ccy": "PLN",
+   "match": [
+    "VERCOM"
+   ],
+   "yahoo": "VRC.WA"
+  },
+  {
+   "ticker": "XTB",
+   "name": "XTB",
+   "market": "GPW",
+   "ccy": "PLN",
+   "match": [
+    "XTB"
+   ],
+   "yahoo": "XTB.WA"
+  },
+  {
+   "ticker": "ASML",
+   "name": "ASML Holding (ADR)",
+   "market": "USA",
+   "ccy": "USD",
+   "match": [
+    "ASML"
+   ],
+   "yahoo": "ASML"
+  },
+  {
+   "ticker": "AVGO",
+   "name": "Broadcom",
+   "market": "USA",
+   "ccy": "USD",
+   "sec": "AVGO",
+   "match": [
+    "BROADCOM"
+   ],
+   "yahoo": "AVGO"
+  },
+  {
+   "ticker": "MPWR",
+   "name": "Monolithic Power Systems",
+   "market": "USA",
+   "ccy": "USD",
+   "sec": "MPWR",
+   "match": [
+    "MONOLITHIC POWER"
+   ],
+   "yahoo": "MPWR"
+  },
+  {
+   "ticker": "NVDA",
+   "name": "NVIDIA",
+   "market": "USA",
+   "ccy": "USD",
+   "sec": "NVDA",
+   "match": [
+    "NVIDIA"
+   ],
+   "yahoo": "NVDA"
+  },
+  {
+   "ticker": "TSM",
+   "name": "TSMC (ADR)",
+   "market": "USA",
+   "ccy": "USD",
+   "match": [
+    "TSMC",
+    "TAIWAN SEMICONDUCTOR"
+   ],
+   "yahoo": "TSM"
+  },
+  {
+   "ticker": "VRT",
+   "name": "Vertiv",
+   "market": "USA",
+   "ccy": "USD",
+   "sec": "VRT",
+   "match": [
+    "VERTIV"
+   ],
+   "yahoo": "VRT"
+  }
+ ],
+ "benchmarks": {
+  "^WIG": [
+   "WIG.WA",
+   "^WIG"
+  ],
+  "^SWIG80": [
+   "SWIG80.WA",
+   "^SWIG80"
+  ],
+  "^MWIG40": [
+   "MWIG40.WA",
+   "^MWIG40"
+  ],
+  "^NDQ": [
+   "^IXIC"
+  ],
+  "^SPX": [
+   "^GSPC"
+  ]
+ }
+}
