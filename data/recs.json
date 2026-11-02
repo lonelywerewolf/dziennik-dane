@@ -13,6 +13,18 @@
    "ticker": null
   },
   {
+   "date": "2026-11-02",
+   "company": "EUROTEL (ETL)",
+   "rating": "Kupuj",
+   "price": "29.5",
+   "target": "56",
+   "upside": "89.830508474576",
+   "priceAtPub": "29.5",
+   "house": "DM BOŚ",
+   "report": "https://strefainwestorow.pl/sites/default/files/attachments/55422564_14065422_55422564_threat_extracted_20261102_0954_ETL_PL_RA.pdf",
+   "ticker": null
+  },
+  {
    "date": "2026-10-27",
    "company": "BIOMAXIMA (BMX)",
    "rating": "Trzymaj",
@@ -97,5 +109,5 @@
    "ticker": null
   }
  ],
- "updatedAt": "2026-11-02T18:55:31+01:00"
+ "updatedAt": "2026-11-02T19:41:45+01:00"
 }

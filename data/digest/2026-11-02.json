@@ -2,9 +2,9 @@
  "date": "2026-11-02",
  "counts": {
   "podsumowania": 20,
-  "wyniki": 8,
+  "wyniki": 9,
   "rekomendacje": 5,
-  "korporacyjne": 37,
+  "korporacyjne": 41,
   "makro_pl": 29,
   "swiat_rynki": 11,
   "energetyka_surowce": 7,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 57
  },
- "duplicatesRemoved": 104,
- "total": 291,
+ "duplicatesRemoved": 106,
+ "total": 298,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -210,6 +210,17 @@
   ],
   "wyniki": [
    {
+    "time": "19:20",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Zabka: Aktualizacja programu skupu akcji własnych przez Zabka Group w celu realizacji zobowiązań wynikających z długoterminowego programu motywacyjnego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23212",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
     "time": "17:41",
     "kind": "news",
     "ticker": null,
@@ -343,6 +354,39 @@
   ],
   "korporacyjne": [
    {
+    "time": "19:27",
+    "kind": "news",
+    "ticker": null,
+    "title": "Żabka zwiększa maks. liczbę akcji do nabycia do 13,42 mln w ramach programu skupu akcji własnych",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261102/zabka-zwieksza-maks-liczbe-akcji-do-nabycia-do-1342-mln-w-ramach-programu-skupu",
+    "src": "strefainwestorow",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
+    "time": "19:09",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MOSTALWAR: Zawarcie umowy na zaprojektowanie i rozbudowę budynku Politechniki Poznańskiej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23211",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "18:58",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ENERGY S.A.: Zawarcie umowy na dostawę i montaż urządzeń do kompensacji mocy biernej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23210",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
     "time": "18:51",
     "kind": "espi",
     "ticker": null,
@@ -352,6 +396,17 @@
     "flags": [
      "prognoza",
      "zarząd"
+    ]
+   },
+   {
+    "time": "18:48",
+    "kind": "news",
+    "ticker": null,
+    "title": "Mostostal Warszawa ma umowę z Politechniką Poznańską za 307,3 mln zł brutto",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261102/mostostal-warszawa-ma-umowe-z-politechnika-poznanska-za-3073-mln-zl-brutto",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
     ]
    },
    {

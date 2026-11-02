@@ -1,7 +1,78 @@
 {
  "date": "2026-11-02",
- "count": 291,
+ "count": 298,
  "items": [
+  {
+   "id": "bossa-pap-438824",
+   "date": "2026-11-02",
+   "time": "19:32",
+   "ts": "2026-11-02T19:32:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Żabka zwiększa maks. liczbę akcji do nabycia do 13,42 mln w ramach programu skupu akcji własnych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438824"
+  },
+  {
+   "id": "strefa-87f5abb63699",
+   "date": "2026-11-02",
+   "time": "19:27",
+   "ts": "2026-11-02T19:27:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Żabka zwiększa maks. liczbę akcji do nabycia do 13,42 mln w ramach programu skupu akcji własnych",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261102/zabka-zwieksza-maks-liczbe-akcji-do-nabycia-do-1342-mln-w-ramach-programu-skupu"
+  },
+  {
+   "id": "bossa-pap-438823",
+   "date": "2026-11-02",
+   "time": "19:22",
+   "ts": "2026-11-02T19:22:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Mostostal Warszawa ma umowę z Politechniką Poznańską za 307,3 mln zł brutto",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438823"
+  },
+  {
+   "id": "bossa-espi-23212",
+   "date": "2026-11-02",
+   "time": "19:20",
+   "ts": "2026-11-02T19:20:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Zabka",
+   "title": "Aktualizacja programu skupu akcji własnych przez Zabka Group w celu realizacji zobowiązań wynikających z długoterminowego programu motywacyjnego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23212"
+  },
+  {
+   "id": "bossa-espi-23211",
+   "date": "2026-11-02",
+   "time": "19:09",
+   "ts": "2026-11-02T19:09:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MOSTALWAR",
+   "title": "Zawarcie umowy na zaprojektowanie i rozbudowę budynku Politechniki Poznańskiej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23211"
+  },
+  {
+   "id": "bossa-espi-23210",
+   "date": "2026-11-02",
+   "time": "18:58",
+   "ts": "2026-11-02T18:58:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ENERGY S.A.",
+   "title": "Zawarcie umowy na dostawę i montaż urządzeń do kompensacji mocy biernej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23210"
+  },
   {
    "id": "bossa-espi-23209",
    "date": "2026-11-02",
@@ -25,6 +96,17 @@
    "title": "Aktualne wskaźniki giełdowe",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-438818"
+  },
+  {
+   "id": "strefa-db135d7f6b89",
+   "date": "2026-11-02",
+   "time": "18:48",
+   "ts": "2026-11-02T18:48:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Mostostal Warszawa ma umowę z Politechniką Poznańską za 307,3 mln zł brutto",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261102/mostostal-warszawa-ma-umowe-z-politechnika-poznanska-za-3073-mln-zl-brutto"
   },
   {
    "id": "bossa-pap-438817",
