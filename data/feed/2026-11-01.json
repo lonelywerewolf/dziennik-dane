@@ -1,0 +1,54 @@
+{
+ "date": "2026-11-01",
+ "count": 4,
+ "items": [
+  {
+   "id": "bossa-pap-438601",
+   "date": "2026-11-01",
+   "time": "20:01",
+   "ts": "2026-11-01T20:01:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Skrót wiadomości: sobota-niedziela, 31 października - 1 listopada",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438601"
+  },
+  {
+   "id": "bossa-pap-438600",
+   "date": "2026-11-01",
+   "time": "16:51",
+   "ts": "2026-11-01T16:51:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "W połowie sezonu wyników w USA spółki pokazują mieszane dokonania - FactSet",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438600"
+  },
+  {
+   "id": "bossa-pap-438599",
+   "date": "2026-11-01",
+   "time": "13:20",
+   "ts": "2026-11-01T13:20:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "FBI oficjalnie oskarżyło Koreę Północną o kradzież ponad 6 mld dolarów z giełdy Binance",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438599"
+  },
+  {
+   "id": "bossa-pap-438598",
+   "date": "2026-11-01",
+   "time": "08:27",
+   "ts": "2026-11-01T08:27:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Spór o TK może wywołać reakcję na rynkach, ale weekend złagodzi emocje - XTB (opinia)",
+   "ticker": "XTB",
+   "url": "https://bossa.pl/analizy/komunikaty#message-438598"
+  }
+ ]
+}
