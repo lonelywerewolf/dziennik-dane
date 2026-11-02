@@ -136,6 +136,28 @@ def recs(manifest):
         manifest["recs"][t] = jsave(E("recs", t + ".json"), {"ticker": t, "auto": items, "via": "github-zbieracz"})
 
 
+def events(manifest):
+    cal = jload(D("calendar.json"), {"gpw": [], "us": []})
+    extra = jload(os.path.join(ROOT, "config", "extra.json"), {"companies": []}).get("companies", [])
+    comps = COMP + extra
+    by_isin = {c["isin"]: c["ticker"] for c in comps if c.get("isin")}
+    by_tk = {c["ticker"] for c in comps}
+    today = dt.date.today().isoformat()
+    for e in cal.get("gpw", []):
+        t = by_isin.get(e.get("isin")) or (e.get("ticker") if e.get("ticker") in by_tk else None)
+        if not t or not e.get("date") or e["date"] < today:
+            continue
+        did = f"{e['date']}-{t}-wyniki"
+        manifest["events"][did] = jsave(E("events", did + ".json"), {"date": e["date"], "ticker": t, "type": "wyniki", "title": f"{t}: {e.get('report') or 'raport okresowy'}",
+                                                                    "source": "strefainwestorow.pl – lista publikacji raportów okresowych", "url": cal.get("gpwSrc"), "via": "github-zbieracz"})
+    for e in cal.get("us", []):
+        if not e.get("date") or e["date"] < today:
+            continue
+        did = f"{e['date']}-{e['ticker']}-wyniki"
+        title = f"{e['ticker']}: wyniki kwartalne" + (f" ({e['when']})" if e.get("when") else "") + (" – termin szacunkowy" if e.get("estimated") else "") + (f", konsensus EPS {e['consensusEps']} USD" if e.get("consensusEps") else "")
+        manifest["events"][did] = jsave(E("events", did + ".json"), {"date": e["date"], "ticker": e["ticker"], "type": "wyniki", "title": title, "source": "Nasdaq (Zacks)", "url": e.get("src"), "via": "github-zbieracz"})
+
+
 def gpw_last(manifest):
     folder = D("gpw")
     files = sorted(f for f in os.listdir(folder) if f.endswith(".json")) if os.path.isdir(folder) else []
@@ -148,8 +170,8 @@ def gpw_last(manifest):
 
 
 if __name__ == "__main__":
-    m = {"generatedAt": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"), "prices": {}, "feed": {}, "holders": {}, "recs": {}}
-    for fn in (prices, feed, holders, recs, gpw_last):
+    m = {"generatedAt": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"), "prices": {}, "feed": {}, "holders": {}, "recs": {}, "events": {}}
+    for fn in (prices, feed, holders, recs, events, gpw_last):
         try:
             fn(m)
         except Exception as e:

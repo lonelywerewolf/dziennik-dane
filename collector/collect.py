@@ -48,11 +48,12 @@ def text(s):
 
 CFG = jload(os.path.join(ROOT, "config", "watchlist.json"), {"companies": []})
 COMP = CFG["companies"]
+EXTRA_COMP = jload(os.path.join(ROOT, "config", "extra.json"), {"companies": []}).get("companies", [])
 
 
 def match_ticker(*texts):
     blob = " ".join(t for t in texts if t).upper()
-    for c in COMP:
+    for c in COMP + EXTRA_COMP:
         for k in c.get("match", []):
             if re.search(r"(?<![A-Z0-9])" + re.escape(k.upper()) + r"(?![A-Z0-9])", blob):
                 return c["ticker"]
@@ -480,6 +481,11 @@ def run(name, fn):
 if __name__ == "__main__":
     only = set(sys.argv[1:])
     jobs = [("bossa", bossa), ("strefa", strefa), ("recs", recs), ("gpw", gpw), ("gpw_archive", gpw_archive), ("nasdaq", nasdaq), ("quotes", build_quotes), ("nbp", nbp), ("insiders", insiders), ("conditions", conditions)]
+    try:
+        import extra
+        jobs += [("fundamentals", extra.fundamentals), ("calendar", extra.calendar), ("pwpa", extra.pwpa), ("macro", extra.macro)]
+    except Exception as e:
+        STATUS["sources"]["extra_import"] = {"ok": False, "error": repr(e)[:200]}
     for name, fn in jobs:
         if not only or name in only:
             run(name, fn)
