@@ -1,27 +1,27 @@
 {
  "last": {
-  "runAt": "2026-11-02T17:48:46+01:00",
+  "runAt": "2026-11-02T17:54:18+01:00",
   "sources": {
    "bossa": {
-    "pages": 27,
-    "new": 810,
+    "pages": 2,
+    "new": 4,
     "complete": true,
-    "newest": "2026-11-02T17:48:00+01:00",
-    "oldestSeen": "2026-10-28T21:18:00+01:00",
+    "newest": "2026-11-02T17:53:00+01:00",
+    "oldestSeen": "2026-11-02T15:33:00+01:00",
     "ok": true,
-    "sec": 80.8
+    "sec": 6.3
    },
    "strefa": {
-    "pages": 4,
-    "new": 63,
+    "pages": 2,
+    "new": 0,
+    "complete": true,
     "newest": "2026-11-02T17:31:01+01:00",
-    "oldestSeen": "2026-11-02T06:20:01+01:00",
-    "complete": false,
+    "oldestSeen": "2026-11-02T07:01:01+01:00",
     "ok": true,
-    "sec": 7.3
+    "sec": 3.2
    },
    "recs": {
-    "new": 8,
+    "new": 0,
     "newest": "2026-11-02",
     "ok": true,
     "sec": 1.4
@@ -31,33 +31,29 @@
     "items": 20,
     "newest": "02-11-2026 17:23:13",
     "oldestSeen": "02-11-2026 14:05:16",
-    "sec": 6.0
+    "sec": 5.2
+   },
+   "gpw_archive": {
+    "days": 33,
+    "errors": [
+     "2026-09-21: IncompleteRead(84956 bytes read)"
+    ],
+    "latest": "2026-10-30",
+    "stored": 33,
+    "ok": false,
+    "sec": 205.5
+   },
+   "nasdaq": {
+    "history": 8,
+    "live": 6,
+    "errors": [],
+    "ok": true,
+    "sec": 36.0
    },
    "quotes": {
-    "history": 0,
-    "latest": 0,
-    "errors": [
-     "ASB/ASB.WA: <HTTPError 429: 'Too Many Requests'>",
-     "CBF/CBF.WA: <HTTPError 429: 'Too Many Requests'>",
-     "DIG/DIG.WA: <HTTPError 429: 'Too Many Requests'>",
-     "SNT/SNT.WA: <HTTPError 429: 'Too Many Requests'>",
-     "VRC/VRC.WA: <HTTPError 429: 'Too Many Requests'>",
-     "XTB/XTB.WA: <HTTPError 429: 'Too Many Requests'>",
-     "ASML/ASML: <HTTPError 429: 'Too Many Requests'>",
-     "AVGO/AVGO: <HTTPError 429: 'Too Many Requests'>",
-     "MPWR/MPWR: <HTTPError 429: 'Too Many Requests'>",
-     "NVDA/NVDA: <HTTPError 429: 'Too Many Requests'>",
-     "TSM/TSM: <HTTPError 429: 'Too Many Requests'>",
-     "VRT/VRT: <HTTPError 429: 'Too Many Requests'>",
-     "^WIG/^WIG: <HTTPError 429: 'Too Many Requests'>",
-     "^SWIG80/^SWIG80: <HTTPError 429: 'Too Many Requests'>",
-     "^MWIG40/^MWIG40: <HTTPError 429: 'Too Many Requests'>",
-     "^NDQ/^IXIC: <HTTPError 429: 'Too Many Requests'>",
-     "^SPX/^GSPC: <HTTPError 429: 'Too Many Requests'>"
-    ],
-    "symbols": {},
-    "ok": false,
-    "sec": 7.8
+    "ok": true,
+    "tickers": 23,
+    "sec": 0.0
    },
    "nbp": {
     "ok": true,
@@ -69,18 +65,13 @@
      "2026-11-02",
      4.4185
     ],
-    "sec": 6.5
+    "sec": 1.2
    },
-   "sec": {
-    "new": 0,
-    "errors": [
-     "AVGO: <HTTPError 403: 'Forbidden'>",
-     "MPWR: <HTTPError 403: 'Forbidden'>",
-     "NVDA: <HTTPError 403: 'Forbidden'>",
-     "VRT: <HTTPError 403: 'Forbidden'>"
-    ],
-    "ok": false,
-    "sec": 1.4
+   "insiders": {
+    "new": 277,
+    "errors": [],
+    "ok": true,
+    "sec": 4.9
    },
    "conditions": {
     "checked": 0,
@@ -91,6 +82,88 @@
   }
  },
  "runs": [
+  {
+   "runAt": "2026-11-02T17:54:18+01:00",
+   "sources": {
+    "bossa": {
+     "pages": 2,
+     "new": 4,
+     "complete": true,
+     "newest": "2026-11-02T17:53:00+01:00",
+     "oldestSeen": "2026-11-02T15:33:00+01:00",
+     "ok": true,
+     "sec": 6.3
+    },
+    "strefa": {
+     "pages": 2,
+     "new": 0,
+     "complete": true,
+     "newest": "2026-11-02T17:31:01+01:00",
+     "oldestSeen": "2026-11-02T07:01:01+01:00",
+     "ok": true,
+     "sec": 3.2
+    },
+    "recs": {
+     "new": 0,
+     "newest": "2026-11-02",
+     "ok": true,
+     "sec": 1.4
+    },
+    "gpw": {
+     "ok": true,
+     "items": 20,
+     "newest": "02-11-2026 17:23:13",
+     "oldestSeen": "02-11-2026 14:05:16",
+     "sec": 5.2
+    },
+    "gpw_archive": {
+     "days": 33,
+     "errors": [
+      "2026-09-21: IncompleteRead(84956 bytes read)"
+     ],
+     "latest": "2026-10-30",
+     "stored": 33,
+     "ok": false,
+     "sec": 205.5
+    },
+    "nasdaq": {
+     "history": 8,
+     "live": 6,
+     "errors": [],
+     "ok": true,
+     "sec": 36.0
+    },
+    "quotes": {
+     "ok": true,
+     "tickers": 23,
+     "sec": 0.0
+    },
+    "nbp": {
+     "ok": true,
+     "USD": [
+      "2026-11-02",
+      3.9389
+     ],
+     "EUR": [
+      "2026-11-02",
+      4.4185
+     ],
+     "sec": 1.2
+    },
+    "insiders": {
+     "new": 277,
+     "errors": [],
+     "ok": true,
+     "sec": 4.9
+    },
+    "conditions": {
+     "checked": 0,
+     "met": 0,
+     "ok": true,
+     "sec": 0.0
+    }
+   }
+  },
   {
    "runAt": "2026-11-02T17:48:46+01:00",
    "sources": {

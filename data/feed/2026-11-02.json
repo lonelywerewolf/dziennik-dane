@@ -1,7 +1,55 @@
 {
  "date": "2026-11-02",
- "count": 261,
+ "count": 265,
  "items": [
+  {
+   "id": "bossa-pap-438803",
+   "date": "2026-11-02",
+   "time": "17:53",
+   "ts": "2026-11-02T17:53:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Tauron szacuje wynik EBITDA w III kw. na 1.821 mln zł, wobec 1.565,4 mln zł konsensusu PAP Biznes",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438803"
+  },
+  {
+   "id": "bossa-pap-438802",
+   "date": "2026-11-02",
+   "time": "17:53",
+   "ts": "2026-11-02T17:53:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A24 wyemitowanymi przez MIASTO RADOMSKO",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438802"
+  },
+  {
+   "id": "bossa-pap-438801",
+   "date": "2026-11-02",
+   "time": "17:52",
+   "ts": "2026-11-02T17:52:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii E19 wyemitowanymi przez MIASTO RADOMSKO",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438801"
+  },
+  {
+   "id": "bossa-pap-438800",
+   "date": "2026-11-02",
+   "time": "17:50",
+   "ts": "2026-11-02T17:50:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie wyznaczenia pierwszego dnia notowania w alternatywnym systemie obrotu na Catalyst obligacji na okaziciela serii PN2026A spółki CAVATINA HOLDING S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438800"
+  },
   {
    "id": "bossa-pap-438799",
    "date": "2026-11-02",
