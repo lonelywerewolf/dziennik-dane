@@ -1,0 +1,71 @@
+{
+ "strefa_spolki.html": {
+  "status": 200,
+  "bytes": 156567,
+  "url": "https://strefainwestorow.pl/notowania/spolki"
+ },
+ "strefa_snt_wyniki.html": {
+  "status": 200,
+  "bytes": 124372,
+  "url": "https://strefainwestorow.pl/notowania/spolki/PLSNKTK00019/wyniki-finansowe"
+ },
+ "strefa_snt_kwartalne.html": {
+  "status": 200,
+  "bytes": 124441,
+  "url": "https://strefainwestorow.pl/notowania/spolki/PLSNKTK00019/wyniki-finansowe?okres=kwartalne"
+ },
+ "strefa_kalendarz.html": {
+  "status": 200,
+  "bytes": 102771,
+  "url": "https://strefainwestorow.pl/dane/raporty/lista-publikacji-raportow-okresowych"
+ },
+ "strefa_dywidendy.html": {
+  "status": 404
+ },
+ "nasdaq_fin_nvda.json": {
+  "status": 200,
+  "bytes": 10680,
+  "url": "https://api.nasdaq.com/api/company/NVDA/financials?frequency=2"
+ },
+ "nasdaq_earn_date_nvda.json": {
+  "status": 200,
+  "bytes": 616,
+  "url": "https://api.nasdaq.com/api/analyst/NVDA/earnings-date"
+ },
+ "nasdaq_earn_cal.json": {
+  "status": 200,
+  "bytes": 11670,
+  "url": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-19"
+ },
+ "gpw_pwpa.html": {
+  "status": 200,
+  "bytes": 203110,
+  "url": "https://www.gpw.pl/gpwpa"
+ },
+ "gpw_pwpa_raporty.html": {
+  "status": 200,
+  "bytes": 10887,
+  "url": "https://www.gpw.pl/page-404"
+ },
+ "knf_short.html": {
+  "status": 200,
+  "bytes": 82886,
+  "url": "https://www.knf.gov.pl/wyniki_wyszukiwania?searchText=Strona+%2Fdla_rynku%2FRejestry_i_Ewidencje%2FKrotka_sprzedaz+nie+istnieje.+U%C5%BCyj+wyszukiwarki+do+jej+odnalezienia."
+ },
+ "eurostat_hicp_pl.json": {
+  "status": 200,
+  "bytes": 3596,
+  "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_manr?geo=PL&coicop=CP00&lastTimePeriod=6"
+ },
+ "fred_cpi.csv": {
+  "error": "TimeoutError('The read operation timed out')"
+ },
+ "fred_pl10y.csv": {
+  "error": "TimeoutError('The read operation timed out')"
+ },
+ "nbp_stopy.html": {
+  "status": 200,
+  "bytes": 6183,
+  "url": "https://nbp.pl/polityka-pieniezna/decyzje-rpp/podstawowe-stopy-procentowe-nbp/"
+ }
+}
