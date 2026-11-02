@@ -15,6 +15,7 @@ jobs:
     timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
+        with: { ref: main }
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - run: pip install -q pypdf==5.1.0
@@ -30,4 +31,4 @@ jobs:
           git add data
           if git diff --cached --quiet; then echo "brak zmian"; exit 0; fi
           git commit -q -m "Dane $(TZ=Europe/Warsaw date +'%F %H:%M')"
-          for i in 1 2 3; do git pull -q --rebase && git push -q && break; sleep 5; done
+          for i in 1 2 3; do git pull -q --rebase -X theirs && git push -q && break; git rebase --abort 2>/dev/null; sleep 5; done
