@@ -12,7 +12,6 @@ NOW = dt.datetime.now(WAW)
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 D = lambda *p: os.path.join(ROOT, "data", *p)
 UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
-SEC_UA = "DziennikPortfela lonelywerewolf@users.noreply.github.com"
 STATUS = {"runAt": NOW.isoformat(timespec="seconds"), "sources": {}}
 
 cj = http.cookiejar.CookieJar()
@@ -224,68 +223,164 @@ def gpw():
     return {"ok": True, "items": len(times), "newest": times[0] if times else None, "oldestSeen": times[-1] if times else None}
 
 
-# ---------------- kursy i historia: Yahoo Finance (publiczny endpoint wykresów) ----------------
-def yahoo_chart(sym, rng):
-    url = f"https://query1.finance.yahoo.com/v8/finance/chart/{urllib.parse.quote(sym)}?range={rng}&interval=1d"
-    j = json.loads(get(url, headers={"Accept": "application/json"}))
-    r = j["chart"]["result"][0]
-    ts = r.get("timestamp") or []
-    closes = r["indicators"]["quote"][0].get("close") or []
-    rows = [(dt.datetime.fromtimestamp(t, ZoneInfo(r["meta"].get("exchangeTimezoneName") or "UTC")).date().isoformat(), c) for t, c in zip(ts, closes) if c is not None]
-    return r["meta"], rows
+# ---------------- GPW: oficjalne archiwum notowań (zamknięcia, zmiana, obrót) ----------------
+def plnum(x):
+    x = html.unescape(x).replace("\xa0", "").replace(" ", "").replace(",", ".")
+    try:
+        return float(x)
+    except ValueError:
+        return None
 
 
-def quotes():
-    syms = {c["ticker"]: c.get("yahoo") for c in COMP if c.get("yahoo")}
-    syms.update(CFG.get("benchmarks", {}))
-    st = {"history": 0, "latest": 0, "errors": [], "symbols": {}}
-    hist_dir = D("history")
-    os.makedirs(hist_dir, exist_ok=True)
-    latest = jload(D("quotes.json"), {"q": {}})
-    for key, cands in syms.items():
-        cands = cands if isinstance(cands, list) else [cands]
-        path = os.path.join(hist_dir, key + ".csv")
-        full = (not os.path.exists(path)) or NOW.hour >= 22
-        err = None
-        for sym in cands:
-            try:
-                meta, rows = yahoo_chart(sym, "2y" if full else "5d")
-                if not rows:
-                    raise ValueError("brak danych")
-                if full:
-                    with open(path, "w", encoding="utf-8") as f:
-                        f.write("date,close\n" + "".join(f"{d},{round(c, 4)}\n" for d, c in rows))
-                    st["history"] += 1
-                else:
-                    old = dict(l.strip().split(",") for l in open(path, encoding="utf-8").read().splitlines()[1:] if l.strip())
-                    for d, c in rows:
-                        old[d] = str(round(c, 4))
-                    with open(path, "w", encoding="utf-8") as f:
-                        f.write("date,close\n" + "".join(f"{d},{v}\n" for d, v in sorted(old.items())))
-                d_last, c_last = rows[-1]
-                q = {"date": d_last, "close": round(c_last, 4), "ccy": meta.get("currency"), "symbol": sym,
-                     "src": f"https://finance.yahoo.com/quote/{sym}"}
-                if len(rows) > 1:
-                    q["prevClose"] = round(rows[-2][1], 4)
-                    q["chg"] = round((c_last / rows[-2][1] - 1) * 100, 2)
-                rmp = meta.get("regularMarketPrice")
-                if rmp:
-                    q["live"] = rmp
-                    q["liveAt"] = dt.datetime.fromtimestamp(meta.get("regularMarketTime", 0), WAW).isoformat(timespec="minutes")
-                latest["q"][key] = q
-                st["latest"] += 1
-                st["symbols"][key] = sym
-                err = None
-                break
-            except Exception as e:
-                err = f"{key}/{sym}: {e!r}"[:200]
-        if err:
-            st["errors"].append(err)
-        time.sleep(0.4)
-    latest["updatedAt"] = NOW.isoformat(timespec="seconds")
-    jsave(D("quotes.json"), latest)
-    st["ok"] = st["latest"] > 0
+def gpw_day(day, typ):
+    url = f"https://www.gpw.pl/archiwum-notowan?fetch=0&type={typ}&instrument=&date={day.strftime('%d-%m-%Y')}&show_x=Poka%C5%BC+wyniki"
+    s = get(url, headers={"Referer": "https://www.gpw.pl/archiwum-notowan"})
+    tb = s[s.find('<table class="table footable"'):]
+    tb = tb[: tb.find("</table>")]
+    out = {}
+    for row in re.findall(r"<tr>(.*?)</tr>", tb, re.S):
+        c = [text(x) for x in re.findall(r"<td[^>]*>(.*?)</td>", row, re.S)]
+        if len(c) >= 7:
+            # nazwa, waluta, otwarcie, max, min, zamknięcie, zmiana %, obrót (tys.)
+            out[c[0]] = [plnum(c[5]), plnum(c[6]), plnum(c[7]) if len(c) > 7 else None]
+    return out
+
+
+def gpw_archive():
+    st = {"days": 0, "errors": []}
+    folder = D("gpw")
+    os.makedirs(folder, exist_ok=True)
+    have = {f[:10] for f in os.listdir(folder)}
+    today = NOW.date()
+    days = []
+    d = dt.date(2025, 11, 1)
+    while d <= today:
+        if d.weekday() < 5 and d.isoformat() not in have and not (d == today and NOW.hour * 60 + NOW.minute < 17 * 60 + 15):
+            days.append(d)
+        d += dt.timedelta(days=1)
+    # najpierw dzisiaj/ostatnie, potem uzupełnianie historii (maks. 35 dni na przebieg)
+    days = sorted(days, reverse=True)[:35]
+    for d in days:
+        try:
+            stocks = gpw_day(d, 10)
+            time.sleep(0.8)
+            idx = gpw_day(d, 1) if stocks else {}
+            if stocks:
+                jsave(os.path.join(folder, d.isoformat() + ".json"), {"date": d.isoformat(), "fields": ["close", "chgPct", "turnoverK"], "stocks": stocks, "indices": idx})
+                st["days"] += 1
+            else:
+                # dzień bez sesji (święto) – zapisz pusty znacznik, żeby nie pytać ponownie
+                if d < today:
+                    jsave(os.path.join(folder, d.isoformat() + ".json"), {"date": d.isoformat(), "noSession": True, "stocks": {}, "indices": {}})
+        except Exception as e:
+            st["errors"].append(f"{d}: {e!r}"[:200])
+        time.sleep(0.8)
+    files = sorted(f for f in os.listdir(folder) if f.endswith(".json"))
+    st["latest"] = files[-1][:10] if files else None
+    st["stored"] = len(files)
+    st["ok"] = not st["errors"]
     return st
+
+
+# ---------------- USA: Nasdaq API (historia + kurs bieżący) ----------------
+NASDAQ_H = {"Origin": "https://www.nasdaq.com", "Referer": "https://www.nasdaq.com/", "Accept": "application/json"}
+
+
+def usd(x):
+    return plnum(str(x).replace("$", "").replace(",", ""))
+
+
+def nasdaq():
+    st = {"history": 0, "live": 0, "errors": []}
+    folder = D("history")
+    os.makedirs(folder, exist_ok=True)
+    live = jload(D("us_live.json"), {"q": {}})
+    items = [(c["ticker"], c["ticker"], "stocks") for c in COMP if c.get("market") == "USA"] + [(k, v, "index") for k, v in CFG.get("us_benchmarks", {}).items()]
+    for key, sym, cls in items:
+        path = os.path.join(folder, key + ".csv")
+        try:
+            old = {}
+            if os.path.exists(path):
+                old = dict(l.split(",") for l in open(path, encoding="utf-8").read().splitlines()[1:] if "," in l)
+            frm = "2025-10-25" if not old else (NOW.date() - dt.timedelta(days=10)).isoformat()
+            j = json.loads(get(f"https://api.nasdaq.com/api/quote/{sym}/historical?assetclass={cls}&fromdate={frm}&todate={NOW.date()}&limit=9999", headers=NASDAQ_H))
+            for r in (j.get("data") or {}).get("tradesTable", {}).get("rows", []) or []:
+                m, d_, y = r["date"].split("/")
+                v = usd(r["close"])
+                if v:
+                    old[f"{y}-{m}-{d_}"] = str(v)
+            with open(path, "w", encoding="utf-8") as f:
+                f.write("date,close\n" + "".join(f"{k},{v}\n" for k, v in sorted(old.items())))
+            st["history"] += 1
+            time.sleep(0.5)
+            if cls == "stocks":
+                info = json.loads(get(f"https://api.nasdaq.com/api/quote/{sym}/info?assetclass=stocks", headers=NASDAQ_H))["data"]["primaryData"]
+                live["q"][key] = {"price": usd(info.get("lastSalePrice")), "chgPct": plnum(str(info.get("percentageChange", "")).replace("%", "").replace("+", "")),
+                                  "at": info.get("lastTradeTimestamp"), "src": f"https://www.nasdaq.com/market-activity/stocks/{sym.lower()}"}
+                st["live"] += 1
+        except Exception as e:
+            st["errors"].append(f"{key}: {e!r}"[:200])
+        time.sleep(0.5)
+    live["updatedAt"] = NOW.isoformat(timespec="seconds")
+    jsave(D("us_live.json"), live)
+    st["ok"] = not st["errors"]
+    return st
+
+
+# ---------------- zbiorcze kursy: quotes.json + historia spółek GPW ----------------
+def build_quotes():
+    folder = D("gpw")
+    files = sorted(f for f in os.listdir(folder) if f.endswith(".json")) if os.path.isdir(folder) else []
+    gmap = {c["ticker"]: c["gpw"] for c in COMP if c.get("gpw")}
+    gidx = CFG.get("gpw_benchmarks", {})
+    series = {k: {} for k in list(gmap) + list(gidx)}
+    for f in files:
+        day = jload(os.path.join(folder, f), {})
+        if day.get("noSession"):
+            continue
+        for k, name in gmap.items():
+            v = day.get("stocks", {}).get(name)
+            if v and v[0]:
+                series[k][day["date"]] = v
+        for k, name in gidx.items():
+            v = day.get("indices", {}).get(name)
+            if v and v[0]:
+                series[k][day["date"]] = v
+    os.makedirs(D("history"), exist_ok=True)
+    q = {}
+    for k, ser in series.items():
+        if not ser:
+            continue
+        with open(D("history", k + ".csv"), "w", encoding="utf-8") as f:
+            f.write("date,close,chgPct,turnoverK\n" + "".join(f"{d},{v[0]},{v[1]},{v[2]}\n" for d, v in sorted(ser.items())))
+        d_last = max(ser)
+        v = ser[d_last]
+        q[k] = {"date": d_last, "close": v[0], "chg": v[1], "turnoverK": v[2], "ccy": "PLN" if not k.startswith("^") else None, "src": "https://www.gpw.pl/archiwum-notowan"}
+    live = jload(D("us_live.json"), {"q": {}})["q"]
+    for c in COMP:
+        if c.get("market") != "USA":
+            continue
+        path = D("history", c["ticker"] + ".csv")
+        if not os.path.exists(path):
+            continue
+        rows = [l.split(",") for l in open(path, encoding="utf-8").read().splitlines()[1:] if "," in l]
+        if not rows:
+            continue
+        d_last, close = rows[-1][0], float(rows[-1][1])
+        e = {"date": d_last, "close": close, "ccy": "USD", "src": f"https://www.nasdaq.com/market-activity/stocks/{c['ticker'].lower()}"}
+        if len(rows) > 1:
+            e["chg"] = round((close / float(rows[-2][1]) - 1) * 100, 2)
+        if live.get(c["ticker"]):
+            e["live"] = live[c["ticker"]]
+        q[c["ticker"]] = e
+    for k in CFG.get("us_benchmarks", {}):
+        path = D("history", k + ".csv")
+        if os.path.exists(path):
+            rows = [l.split(",") for l in open(path, encoding="utf-8").read().splitlines()[1:] if "," in l]
+            if rows:
+                q[k] = {"date": rows[-1][0], "close": float(rows[-1][1]), "src": "https://www.nasdaq.com"}
+    jsave(D("quotes.json"), {"updatedAt": NOW.isoformat(timespec="seconds"), "q": q})
+    return {"ok": bool(q), "tickers": len(q)}
 
 
 # ---------------- NBP ----------------
@@ -310,32 +405,39 @@ def nbp():
     return {"ok": True, "USD": list(fx["USD"].items())[-1], "EUR": list(fx["EUR"].items())[-1]}
 
 
-# ---------------- SEC Form 4 (insiderzy USA) ----------------
-def sec():
+# ---------------- insiderzy USA: openinsider.com (zbiorczo z SEC Form 4) ----------------
+def insiders():
     st = {"new": 0, "errors": []}
     path = D("insiders_us.json")
     data = jload(path, {"items": []})
     have = {i["id"] for i in data["items"]}
     for c in COMP:
-        if c.get("market") != "USA" or not c.get("sec"):
+        if c.get("market") != "USA" or not c.get("insiders"):
             continue
         try:
-            s = get(f"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK={c['sec']}&type=4&dateb=&owner=include&count=40&output=atom",
-                    ua=SEC_UA, headers={"Accept": "application/atom+xml"})
-            for e in re.findall(r"<entry>(.*?)</entry>", s, re.S):
-                g = lambda t: (re.search(rf"<{t}[^>]*>(.*?)</{t}>", e, re.S) or [None, ""])[1]
-                link = (re.search(r'<link[^>]+href="([^"]+)"', e) or [None, ""])[1]
-                iid = (re.search(r"accession-number>([^<]+)<", e) or [None, link])[1]
+            s = get(f"http://openinsider.com/screener?s={c['ticker']}&fd=730&cnt=200")
+            tb = s[s.find('class="tinytable"'):]
+            tb = tb[tb.find("<tbody>"): tb.find("</tbody>")]
+            for row in re.findall(r"<tr[^>]*>(.*?)</tr>", tb, re.S):
+                cells = re.findall(r"<td[^>]*>(.*?)</td>", row, re.S)
+                if len(cells) < 12:
+                    continue
+                link = (re.search(r'href="(http[^"]+sec\.gov[^"]+)"', cells[1]) or [None, None])[1]
+                filed, trade = text(cells[1]), text(cells[2])
+                who, role, typ = text(cells[4]), text(cells[5]), text(cells[6])
+                iid = hashlib.sha1(f"{link}|{who}|{trade}|{typ}|{text(cells[8])}".encode()).hexdigest()[:14]
                 if iid in have:
                     continue
                 have.add(iid)
-                data["items"].append({"id": iid, "ticker": c["ticker"], "date": g("filing-date") or g("updated")[:10], "title": text(g("title")), "summary": text(g("summary"))[:300], "url": link})
+                data["items"].append({"id": iid, "ticker": c["ticker"], "filed": filed, "tradeDate": trade, "who": who, "role": role, "type": typ,
+                                      "price": text(cells[7]), "qty": text(cells[8]), "owned": text(cells[9]), "deltaOwn": text(cells[10]), "value": text(cells[11]),
+                                      "url": link, "src": f"http://openinsider.com/screener?s={c['ticker']}"})
                 st["new"] += 1
         except Exception as e:
             st["errors"].append(f"{c['ticker']}: {e!r}"[:200])
-        time.sleep(0.3)
-    data["items"].sort(key=lambda i: i["date"], reverse=True)
-    data["items"] = data["items"][:2000]
+        time.sleep(1)
+    data["items"].sort(key=lambda i: i["filed"], reverse=True)
+    data["items"] = data["items"][:3000]
     data["updatedAt"] = NOW.isoformat(timespec="seconds")
     jsave(path, data)
     st["ok"] = not st["errors"]
@@ -377,7 +479,7 @@ def run(name, fn):
 
 if __name__ == "__main__":
     only = set(sys.argv[1:])
-    jobs = [("bossa", bossa), ("strefa", strefa), ("recs", recs), ("gpw", gpw), ("quotes", quotes), ("nbp", nbp), ("sec", sec), ("conditions", conditions)]
+    jobs = [("bossa", bossa), ("strefa", strefa), ("recs", recs), ("gpw", gpw), ("gpw_archive", gpw_archive), ("nasdaq", nasdaq), ("quotes", build_quotes), ("nbp", nbp), ("insiders", insiders), ("conditions", conditions)]
     for name, fn in jobs:
         if not only or name in only:
             run(name, fn)

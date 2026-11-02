@@ -1,5 +1,5 @@
 {
- "_opis": "Spółki śledzone przez zbieracz. match = słowa do rozpoznawania w tytułach komunikatów. yahoo = symbol w Yahoo Finance. sec = ticker dla raportów Form 4 (tylko spółki z USA).",
+ "_opis": "Spółki śledzone przez zbieracz. match = słowa do rozpoznawania w tytułach komunikatów. gpw = nazwa w archiwum notowań GPW. insiders = pobieraj transakcje insiderów (openinsider, tylko USA; ADR-y ASML i TSM nie składają Form 4).",
  "companies": [
   {
    "ticker": "ASB",
@@ -9,7 +9,7 @@
    "match": [
     "ASBIS"
    ],
-   "yahoo": "ASB.WA"
+   "gpw": "ASBIS"
   },
   {
    "ticker": "CBF",
@@ -21,7 +21,7 @@
     "CYBERFOLKS",
     "CYBER FOLKS"
    ],
-   "yahoo": "CBF.WA"
+   "gpw": "CYBERFLKS"
   },
   {
    "ticker": "DIG",
@@ -31,7 +31,7 @@
    "match": [
     "DIGITAL NETWORK"
    ],
-   "yahoo": "DIG.WA"
+   "gpw": "DIGITANET"
   },
   {
    "ticker": "SNT",
@@ -41,7 +41,7 @@
    "match": [
     "SYNEKTIK"
    ],
-   "yahoo": "SNT.WA"
+   "gpw": "SYNEKTIK"
   },
   {
    "ticker": "VRC",
@@ -51,7 +51,7 @@
    "match": [
     "VERCOM"
    ],
-   "yahoo": "VRC.WA"
+   "gpw": "VERCOM"
   },
   {
    "ticker": "XTB",
@@ -61,7 +61,7 @@
    "match": [
     "XTB"
    ],
-   "yahoo": "XTB.WA"
+   "gpw": "XTB"
   },
   {
    "ticker": "ASML",
@@ -71,40 +71,37 @@
    "match": [
     "ASML"
    ],
-   "yahoo": "ASML"
+   "insiders": false
   },
   {
    "ticker": "AVGO",
    "name": "Broadcom",
    "market": "USA",
    "ccy": "USD",
-   "sec": "AVGO",
    "match": [
     "BROADCOM"
    ],
-   "yahoo": "AVGO"
+   "insiders": true
   },
   {
    "ticker": "MPWR",
    "name": "Monolithic Power Systems",
    "market": "USA",
    "ccy": "USD",
-   "sec": "MPWR",
    "match": [
     "MONOLITHIC POWER"
    ],
-   "yahoo": "MPWR"
+   "insiders": true
   },
   {
    "ticker": "NVDA",
    "name": "NVIDIA",
    "market": "USA",
    "ccy": "USD",
-   "sec": "NVDA",
    "match": [
     "NVIDIA"
    ],
-   "yahoo": "NVDA"
+   "insiders": true
   },
   {
    "ticker": "TSM",
@@ -115,38 +112,33 @@
     "TSMC",
     "TAIWAN SEMICONDUCTOR"
    ],
-   "yahoo": "TSM"
+   "insiders": false
   },
   {
    "ticker": "VRT",
    "name": "Vertiv",
    "market": "USA",
    "ccy": "USD",
-   "sec": "VRT",
    "match": [
     "VERTIV"
    ],
-   "yahoo": "VRT"
+   "insiders": true
   }
  ],
- "benchmarks": {
-  "^WIG": [
-   "WIG.WA",
-   "^WIG"
-  ],
-  "^SWIG80": [
-   "SWIG80.WA",
-   "^SWIG80"
-  ],
-  "^MWIG40": [
-   "MWIG40.WA",
-   "^MWIG40"
-  ],
-  "^NDQ": [
-   "^IXIC"
-  ],
-  "^SPX": [
-   "^GSPC"
-  ]
+ "gpw_benchmarks": {
+  "^WIG": "WIG",
+  "^WIG20": "WIG20",
+  "^MWIG40": "MWIG40",
+  "^SWIG80": "SWIG80",
+  "^WIG-INFO": "WIG-INFO",
+  "^WIG-BUDOW": "WIG-BUDOW",
+  "^WIG-GRY": "WIG-GRY",
+  "^WIG-BANKI": "WIG-BANKI",
+  "^WIGTECHTR": "WIGTECHTR",
+  "^WIGIND": "WIGIND"
+ },
+ "us_benchmarks": {
+  "^NDQ": "COMP",
+  "^SPX": "SPX"
  }
 }
