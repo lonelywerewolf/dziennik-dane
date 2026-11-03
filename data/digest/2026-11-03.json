@@ -2,9 +2,9 @@
  "date": "2026-11-03",
  "counts": {
   "podsumowania": 5,
-  "wyniki": 2,
+  "wyniki": 3,
   "rekomendacje": 0,
-  "korporacyjne": 3,
+  "korporacyjne": 4,
   "makro_pl": 2,
   "swiat_rynki": 1,
   "energetyka_surowce": 1,
@@ -15,7 +15,7 @@
   "pozostale": 10
  },
  "duplicatesRemoved": 12,
- "total": 41,
+ "total": 43,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -67,6 +67,15 @@
   ],
   "wyniki": [
    {
+    "time": "08:41",
+    "kind": "news",
+    "ticker": null,
+    "title": "Mocne wzrosty przychodów Grodna w październiku 2026 roku",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/mocne-wzrosty-przychodow-grodna-w-pazdzierniku-2026-roku",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "07:56",
     "kind": "news",
     "ticker": null,
@@ -89,6 +98,15 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "08:36",
+    "kind": "news",
+    "ticker": null,
+    "title": "BIOTTS S.A. pozyskała 25 mln zł w ramach pre-IPO",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/biotts-sa-pozyskala-25-mln-zl-w-ramach-pre-ipo",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:05",
     "kind": "pap",
