@@ -12,10 +12,10 @@
   "fundusze_drobne": 4,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 18
+  "pozostale": 19
  },
- "duplicatesRemoved": 24,
- "total": 87,
+ "duplicatesRemoved": 26,
+ "total": 90,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -471,6 +471,24 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "11:10",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźniki referencyjne - EURIBOR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438887",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:57",
+    "kind": "news",
+    "ticker": null,
+    "title": "PrestaShop stawia na rozwój modeli revenue share; zapowiada nowy produkt w obszarze płatności (wywiad)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/prestashop-stawia-na-rozwoj-modeli-revenue-share-zapowiada-nowy-produkt-w",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "10:51",
     "kind": "pap",
     "ticker": null,
@@ -566,15 +584,6 @@
     "ticker": null,
     "title": "Rośnie ryzyko gwałtownych wahań kursu PLN ze względu na konflikt polityczny - Commerzbank (opinia)",
     "url": "https://bossa.pl/analizy/komunikaty#message-438849",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "07:10",
-    "kind": "pap",
-    "ticker": null,
-    "title": "PrestaShop stawia na rozwój modeli revenue share; zapowiada nowy produkt w obszarze płatności (wywiad)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-438846",
     "src": "bossa",
     "flags": []
    },
