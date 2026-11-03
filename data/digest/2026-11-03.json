@@ -4,18 +4,18 @@
   "podsumowania": 9,
   "wyniki": 4,
   "rekomendacje": 0,
-  "korporacyjne": 9,
+  "korporacyjne": 10,
   "makro_pl": 5,
   "swiat_rynki": 4,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
-  "fundusze_drobne": 3,
+  "fundusze_drobne": 4,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 13
+  "pozostale": 14
  },
- "duplicatesRemoved": 20,
- "total": 70,
+ "duplicatesRemoved": 21,
+ "total": 74,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -150,6 +150,17 @@
     "title": "JSW S.A.: Informacja w sprawie powierzenia pełnienia obowiązków Prezesa Zarządu Jastrzębskiej Spółki Węglowej S.A. XII kadencji",
     "url": "https://bossa.pl/analizy/komunikaty#message-23224",
     "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "09:53",
+    "kind": "news",
+    "ticker": null,
+    "title": "RN JSW powierzyła Tomaszowi Gawlikowi pełnienie obowiązków prezesa zarządu JSW",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/rn-jsw-powierzyla-tomaszowi-gawlikowi-pelnienie-obowiazkow-prezesa-zarzadu-jsw",
+    "src": "strefainwestorow",
     "flags": [
      "zarząd"
     ]
@@ -340,6 +351,15 @@
   "nieruchomosci": [],
   "fundusze_drobne": [
    {
+    "time": "10:27",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Dla sukcesu OKI niezbędna będzie atrakcyjna i zrozumiała oferta – Drop, MF",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438876",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "08:25",
     "kind": "news",
     "ticker": null,
@@ -389,6 +409,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "10:20",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MON: Sojusznicy wzmacniają przygotowania do pokoju w Ukrainie dużymi ćwiczeniami w Polsce (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438875",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:12",
     "kind": "pap",
