@@ -4,9 +4,9 @@
   "podsumowania": 6,
   "wyniki": 3,
   "rekomendacje": 0,
-  "korporacyjne": 4,
+  "korporacyjne": 6,
   "makro_pl": 2,
-  "swiat_rynki": 1,
+  "swiat_rynki": 2,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 3,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 10
  },
- "duplicatesRemoved": 13,
- "total": 45,
+ "duplicatesRemoved": 14,
+ "total": 49,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -108,6 +108,27 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "09:10",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BEEIN S.A.: Zawarcie umowy inwestycyjnej dotyczącej pozyskania finansowania oraz planowanego objęcia akcji nowej emisji",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23221",
+    "src": "bossa",
+    "flags": [
+     "emisja",
+     "umowa"
+    ]
+   },
+   {
+    "time": "09:05",
+    "kind": "news",
+    "ticker": null,
+    "title": "Debiut BIOTTS na GPW w planach na 2027 r. Spółka zebrała 25 mln zł w pre-IPO, w tym od znanego inwestora",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/debiut-biotts-na-gpw-w-planach-na-2027-r-spolka-zebrala-25-mln-zl-w-pre-ipo-w",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "08:36",
     "kind": "news",
     "ticker": null,
@@ -170,6 +191,17 @@
   ],
   "swiat_rynki": [
    {
+    "time": "08:51",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kurs dolara i euro może znowu wzrosnąć przez spór o TK. Ekonomiści ostrzegają i wskazują prognozy",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/kurs-dolara-i-euro-moze-znowu-wzrosnac-przez-spor-o-tk-ekonomisci-ostrzegaja-i",
+    "src": "strefainwestorow",
+    "flags": [
+     "prognoza"
+    ]
+   },
+   {
     "time": "06:41",
     "kind": "news",
     "ticker": null,
@@ -181,12 +213,12 @@
   ],
   "energetyka_surowce": [
    {
-    "time": "06:39",
-    "kind": "pap",
+    "time": "08:59",
+    "kind": "news",
     "ticker": null,
     "title": "Notowania metali bazowych, węgla i paliw (tabela)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-438841",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/notowania-metali-bazowych-wegla-i-paliw-tabela",
+    "src": "strefainwestorow",
     "flags": []
    }
   ],
