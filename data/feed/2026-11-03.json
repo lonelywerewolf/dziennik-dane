@@ -1,7 +1,19 @@
 {
  "date": "2026-11-03",
- "count": 20,
+ "count": 21,
  "items": [
+  {
+   "id": "bossa-pap-438847",
+   "date": "2026-11-03",
+   "time": "07:24",
+   "ts": "2026-11-03T07:24:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Złotowe depozyty międzybankowe - WIBID, WIBOR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438847"
+  },
   {
    "id": "bossa-pap-438846",
    "date": "2026-11-03",
