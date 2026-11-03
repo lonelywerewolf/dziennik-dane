@@ -4,9 +4,9 @@
   "podsumowania": 10,
   "wyniki": 4,
   "rekomendacje": 0,
-  "korporacyjne": 14,
+  "korporacyjne": 15,
   "makro_pl": 6,
-  "swiat_rynki": 4,
+  "swiat_rynki": 5,
   "energetyka_surowce": 1,
   "nieruchomosci": 1,
   "fundusze_drobne": 4,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 19
  },
- "duplicatesRemoved": 27,
- "total": 92,
+ "duplicatesRemoved": 28,
+ "total": 95,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -152,6 +152,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "11:23",
+    "kind": "news",
+    "ticker": null,
+    "title": "Premier ma podpisać kontrasygnatę pod wnioskiem prezydenta o powołanie 4 członków zarządu NBP - media",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/premier-ma-podpisac-kontrasygnate-pod-wnioskiem-prezydenta-o-powolanie-4",
+    "src": "strefainwestorow",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "10:53",
     "kind": "news",
@@ -358,6 +369,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "11:32",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ELEKTROTIM S.A.: Informacja o unieważnieniu czynności wyboru oferty ELEKTROTIM S.A. przez PGE Energetyka Kolejowa na budowę podstacji trakcyjnej 15kV PT Radość",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23228",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:48",
     "kind": "news",

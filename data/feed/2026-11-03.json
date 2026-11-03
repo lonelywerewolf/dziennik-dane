@@ -1,7 +1,42 @@
 {
  "date": "2026-11-03",
- "count": 92,
+ "count": 95,
  "items": [
+  {
+   "id": "bossa-pap-438890",
+   "date": "2026-11-03",
+   "time": "11:37",
+   "ts": "2026-11-03T11:37:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Premier ma podpisać kontrasygnatę pod wnioskiem prezydenta o powołanie 4 członków zarządu NBP - media",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438890"
+  },
+  {
+   "id": "bossa-espi-23228",
+   "date": "2026-11-03",
+   "time": "11:32",
+   "ts": "2026-11-03T11:32:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ELEKTROTIM S.A.",
+   "title": "Informacja o unieważnieniu czynności wyboru oferty ELEKTROTIM S.A. przez PGE Energetyka Kolejowa na budowę podstacji trakcyjnej 15kV PT Radość",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23228"
+  },
+  {
+   "id": "strefa-a2b9313d2725",
+   "date": "2026-11-03",
+   "time": "11:23",
+   "ts": "2026-11-03T11:23:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Premier ma podpisać kontrasygnatę pod wnioskiem prezydenta o powołanie 4 członków zarządu NBP - media",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261103/premier-ma-podpisac-kontrasygnate-pod-wnioskiem-prezydenta-o-powolanie-4"
+  },
   {
    "id": "bossa-pap-438888",
    "date": "2026-11-03",
