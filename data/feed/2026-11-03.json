@@ -1,7 +1,42 @@
 {
  "date": "2026-11-03",
- "count": 58,
+ "count": 61,
  "items": [
+  {
+   "id": "bossa-pap-438868",
+   "date": "2026-11-03",
+   "time": "09:45",
+   "ts": "2026-11-03T09:45:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DITIX SA (11/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438868"
+  },
+  {
+   "id": "bossa-pap-438867",
+   "date": "2026-11-03",
+   "time": "09:35",
+   "ts": "2026-11-03T09:35:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: W Europie na giełdach spadki indeksów",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438867"
+  },
+  {
+   "id": "strefa-5cd304858aa6",
+   "date": "2026-11-03",
+   "time": "09:31",
+   "ts": "2026-11-03T09:31:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: W Europie na giełdach spadki indeksów",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261103/dzien-na-rynkach-w-europie-na-gieldach-spadki-indeksow"
+  },
   {
    "id": "bossa-pap-438866",
    "date": "2026-11-03",
