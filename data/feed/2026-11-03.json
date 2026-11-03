@@ -1,7 +1,31 @@
 {
  "date": "2026-11-03",
- "count": 306,
+ "count": 308,
  "items": [
+  {
+   "id": "bossa-pap-439053",
+   "date": "2026-11-03",
+   "time": "20:01",
+   "ts": "2026-11-03T20:01:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Matexi Polska Holding/Matexi Polska Holding & Finance Spółka Akcyjna (4/2026) Odwołanie lub rezygnacja osoby zarządzającej lub nadzorującej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439053"
+  },
+  {
+   "id": "bossa-espi-23311",
+   "date": "2026-11-03",
+   "time": "20:01",
+   "ts": "2026-11-03T20:01:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "QUERCUS TFI S.A.",
+   "title": "Zawarcie warunkowo zobowiązującej umowy sprzedaży akcji Open Life Towarzystwo Ubezpieczeń Życie S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23311"
+  },
   {
    "id": "strefa-e44b5a6fca28",
    "date": "2026-11-03",
