@@ -1,7 +1,31 @@
 {
  "date": "2026-11-03",
- "count": 115,
+ "count": 117,
  "items": [
+  {
+   "id": "bossa-espi-23234",
+   "date": "2026-11-03",
+   "time": "12:45",
+   "ts": "2026-11-03T12:45:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "TORPOL S.A.",
+   "title": "Rejestracja zmian Statutu Spółki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23234"
+  },
+  {
+   "id": "bossa-pap-438903",
+   "date": "2026-11-03",
+   "time": "12:43",
+   "ts": "2026-11-03T12:43:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "W. Brytania i UE uzgodniły wstępne porozumienie o zniesieniu pobrexitowych kontroli żywności - BBC",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438903"
+  },
   {
    "id": "bossa-pap-438902",
    "date": "2026-11-03",

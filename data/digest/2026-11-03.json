@@ -12,10 +12,10 @@
   "fundusze_drobne": 4,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 25
+  "pozostale": 27
  },
  "duplicatesRemoved": 35,
- "total": 115,
+ "total": 117,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -570,6 +570,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:45",
+    "kind": "espi",
+    "ticker": null,
+    "title": "TORPOL S.A.: Rejestracja zmian Statutu Spółki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23234",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:43",
+    "kind": "pap",
+    "ticker": null,
+    "title": "W. Brytania i UE uzgodniły wstępne porozumienie o zniesieniu pobrexitowych kontroli żywności - BBC",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438903",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:25",
     "kind": "news",
