@@ -4,7 +4,7 @@
   "podsumowania": 10,
   "wyniki": 5,
   "rekomendacje": 0,
-  "korporacyjne": 20,
+  "korporacyjne": 21,
   "makro_pl": 8,
   "swiat_rynki": 6,
   "energetyka_surowce": 2,
@@ -15,7 +15,7 @@
   "pozostale": 30
  },
  "duplicatesRemoved": 35,
- "total": 124,
+ "total": 125,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -161,6 +161,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "13:23",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KGHM POLSKA MIEDŹ SA: Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23239",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "12:53",
     "kind": "espi",

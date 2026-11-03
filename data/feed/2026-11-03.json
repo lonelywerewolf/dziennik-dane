@@ -1,7 +1,19 @@
 {
  "date": "2026-11-03",
- "count": 124,
+ "count": 125,
  "items": [
+  {
+   "id": "bossa-espi-23239",
+   "date": "2026-11-03",
+   "time": "13:23",
+   "ts": "2026-11-03T13:23:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KGHM POLSKA MIEDŹ SA",
+   "title": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23239"
+  },
   {
    "id": "bossa-espi-23238",
    "date": "2026-11-03",
