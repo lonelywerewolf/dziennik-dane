@@ -2,7 +2,7 @@ name: Zbieracz
 on:
   schedule:
     - cron: "*/15 5-21 * * 1-5"   # co 15 min, ok. 6:00–22:45 czasu polskiego, pn–pt
-    - cron: "7 9 * * 0,6"         # raz dziennie w weekend
+    - cron: "7 7-21 * * 0,6"      # co godzinę w weekend (8:00–22:00 czasu polskiego)
   workflow_dispatch:
 permissions:
   contents: write
@@ -13,7 +13,7 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 75
     steps:
       - uses: actions/checkout@v4
         with: { ref: main }
@@ -39,13 +39,15 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           H=$(TZ=Europe/Warsaw date +%H); D=$(TZ=Europe/Warsaw date +%u)
-          if [ "$D" -gt 5 ] || [ "$H" -lt 6 ] || [ "$H" -ge 23 ]; then exit 0; fi
+          # dni robocze 6–23: co ~12 min; weekend 8–22: co ~godzinę; noc – nadrabia pierwszy poranny przebieg
+          if [ "$D" -gt 5 ]; then WAIT=3000; [ "$H" -lt 8 ] || [ "$H" -ge 22 ] && exit 0; else WAIT=600; [ "$H" -lt 6 ] || [ "$H" -ge 23 ] && exit 0; fi
           LAST=$(gh api "repos/${{ github.repository }}/actions/workflows/collect.yml/runs?event=schedule&per_page=1" --jq '.workflow_runs[0].created_at // "1970-01-01T00:00:00Z"')
           AGE=$(( $(date +%s) - $(date -d "$LAST" +%s) ))
-          if [ "$AGE" -lt 1800 ]; then echo "harmonogram działa"; exit 0; fi
+          LIMIT=1800; [ "$D" -gt 5 ] && LIMIT=5400
+          if [ "$AGE" -lt "$LIMIT" ]; then echo "harmonogram działa"; exit 0; fi
           QUEUED=$(gh api "repos/${{ github.repository }}/actions/workflows/collect.yml/runs?status=queued" --jq '.total_count')
           if [ "$QUEUED" -gt 0 ]; then exit 0; fi
-          sleep 600
+          sleep $WAIT
           gh workflow run collect.yml --ref main -R ${{ github.repository }}
           echo "harmonogram stoi od ${AGE}s – uruchomiono kolejny przebieg"
 
