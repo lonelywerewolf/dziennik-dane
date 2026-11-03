@@ -6,16 +6,16 @@
   "rekomendacje": 0,
   "korporacyjne": 20,
   "makro_pl": 8,
-  "swiat_rynki": 5,
+  "swiat_rynki": 6,
   "energetyka_surowce": 2,
   "nieruchomosci": 1,
-  "fundusze_drobne": 4,
+  "fundusze_drobne": 5,
   "twoje_spolki": 2,
   "obserwowane": 0,
   "pozostale": 30
  },
  "duplicatesRemoved": 35,
- "total": 122,
+ "total": 124,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -450,6 +450,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "13:15",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KGHM POLSKA MIEDŹ SA: Rejestracja zmian w Statucie KGHM Polska Miedź S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23238",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "11:32",
     "kind": "espi",
     "ticker": null,
@@ -529,6 +538,15 @@
    }
   ],
   "fundusze_drobne": [
+   {
+    "time": "13:09",
+    "kind": "pap",
+    "ticker": null,
+    "title": "UNIQA OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438910",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:19",
     "kind": "news",
