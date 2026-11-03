@@ -1,7 +1,77 @@
 {
  "date": "2026-11-03",
- "count": 78,
+ "count": 84,
  "items": [
+  {
+   "id": "bossa-pap-438884",
+   "date": "2026-11-03",
+   "time": "10:52",
+   "ts": "2026-11-03T10:52:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Grupa LPP otworzy pierwsze sklepy Sinsay w Czarnogórze na początku 2027 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438884"
+  },
+  {
+   "id": "bossa-pap-438883",
+   "date": "2026-11-03",
+   "time": "10:51",
+   "ts": "2026-11-03T10:51:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wykorzystywanie przez chatboty publikacji prasowych może w pewnych okolicznościach naruszać prawa wydawców - rzecznik TSUE",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438883"
+  },
+  {
+   "id": "strefa-2faaa3ebe075",
+   "date": "2026-11-03",
+   "time": "10:50",
+   "ts": "2026-11-03T10:50:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grupa LPP otworzy pierwsze sklepy Sinsay w Czarnogórze na początku 2027 r.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261103/grupa-lpp-otworzy-pierwsze-sklepy-sinsay-w-czarnogorze-na-poczatku-2027-r"
+  },
+  {
+   "id": "bossa-pap-438882",
+   "date": "2026-11-03",
+   "time": "10:49",
+   "ts": "2026-11-03T10:49:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MF wraz z KAS, KNF i GPW pracuje nad jednolitymi standardami dot. OKI - Przewalska, MF",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438882"
+  },
+  {
+   "id": "bossa-espi-23227",
+   "date": "2026-11-03",
+   "time": "10:46",
+   "ts": "2026-11-03T10:46:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MADMIND STUDIO S.A.",
+   "title": "Lista akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu w dniu 30 października 2026 roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23227"
+  },
+  {
+   "id": "strefa-6607885f2c5a",
+   "date": "2026-11-03",
+   "time": "10:42",
+   "ts": "2026-11-03T10:42:09+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "MF wraz z KAS, KNF i GPW pracuje nad jednolitymi standardami dot. OKI - Przewalska, MF",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261103/mf-wraz-z-kas-knf-i-gpw-pracuje-nad-jednolitymi-standardami-dot-oki-przewalska"
+  },
   {
    "id": "bossa-pap-438880",
    "date": "2026-11-03",
