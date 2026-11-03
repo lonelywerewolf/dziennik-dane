@@ -6,6 +6,7 @@ rekomendacje, transakcje insiderów USA (SEC Form 4), alerty warunków i status.
 """
 import csv, datetime as dt, hashlib, html, io, json, os, re, sys, time, urllib.parse, urllib.request, urllib.error, http.cookiejar
 from zoneinfo import ZoneInfo
+import email.utils
 
 WAW = ZoneInfo("Europe/Warsaw")
 NOW = dt.datetime.now(WAW)
@@ -426,6 +427,50 @@ def nasdaq():
     return st
 
 
+# ---------------- wiadomości o spółkach z USA (RSS) ----------------
+def us_news():
+    """Nagłówki o spółkach z USA (watchlista + obserwowane) z kanałów RSS Nasdaq i Yahoo Finance → data/us_news.json."""
+    path = D("us_news.json")
+    data = jload(path, {"items": []})
+    have = {i["id"] for i in data["items"]}
+    st = {"new": 0, "sources": {}, "errors": []}
+    tick = [c["ticker"] for c in COMP + EXTRA_COMP if c.get("market") == "USA"]
+    for t in tick:
+        for name, url in (("nasdaq", f"https://www.nasdaq.com/feed/rssoutbound?symbol={t}"), ("yahoo", f"https://feeds.finance.yahoo.com/rss/2.0/headline?s={t}&region=US&lang=en-US")):
+            try:
+                x = get(url, headers={"Accept": "application/rss+xml,application/xml,text/xml"}, timeout=20)
+            except Exception as e:
+                st["errors"].append(f"{name} {t}: {e!r}"[:120])
+                continue
+            n = 0
+            for it in re.findall(r"<item>(.*?)</item>", x, re.S):
+                g = lambda tag: html.unescape(re.sub(r"<!\[CDATA\[|\]\]>", "", (re.search(rf"<{tag}[^>]*>(.*?)</{tag}>", it, re.S) or [None, ""])[1])).strip()
+                link, title, pub = g("link"), g("title"), g("pubDate")
+                if not link or not title:
+                    continue
+                iid = hashlib.sha1(link.encode()).hexdigest()[:12]
+                if iid in have:
+                    continue
+                try:
+                    when = email.utils.parsedate_to_datetime(pub).astimezone(WAW).isoformat(timespec="minutes")
+                except Exception:
+                    when = NOW.isoformat(timespec="minutes")
+                have.add(iid)
+                data["items"].append({"id": iid, "ticker": t, "time": when, "title": title, "url": link, "src": name,
+                                      "summary": re.sub(r"<[^>]+>", "", g("description"))[:400]})
+                n += 1
+            st["sources"][name] = st["sources"].get(name, 0) + n
+            st["new"] += n
+            time.sleep(0.4)
+    data["items"].sort(key=lambda i: i["time"], reverse=True)
+    data["items"] = data["items"][:2000]
+    data["updatedAt"] = NOW.isoformat(timespec="seconds")
+    jsave(path, data)
+    st["ok"] = bool(st["sources"]) or not tick
+    st["errors"] = st["errors"][:6]
+    return st
+
+
 # ---------------- zbiorcze kursy: quotes.json + historia spółek GPW ----------------
 def build_quotes():
     folder = D("gpw")
@@ -587,7 +632,7 @@ def run(name, fn):
 
 if __name__ == "__main__":
     only = set(sys.argv[1:])
-    jobs = [("bossa", bossa), ("strefa", strefa), ("articles", articles), ("recs", recs), ("gpw", gpw), ("gpw_archive", gpw_archive), ("nasdaq", nasdaq), ("quotes", build_quotes), ("nbp", nbp), ("insiders", insiders), ("conditions", conditions)]
+    jobs = [("bossa", bossa), ("strefa", strefa), ("articles", articles), ("recs", recs), ("gpw", gpw), ("gpw_archive", gpw_archive), ("nasdaq", nasdaq), ("us_news", us_news), ("quotes", build_quotes), ("nbp", nbp), ("insiders", insiders), ("conditions", conditions)]
     try:
         import extra
         jobs += [("fundamentals", extra.fundamentals), ("calendar", extra.calendar), ("pwpa", extra.pwpa), ("macro", extra.macro)]

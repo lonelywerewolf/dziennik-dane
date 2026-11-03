@@ -154,6 +154,7 @@
  },
  "us_benchmarks": {
   "^NDQ": "COMP",
-  "^SPX": "SPX"
+  "^SPX": "SPX",
+  "^SOX": "SOX"
  }
 }

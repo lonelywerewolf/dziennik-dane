@@ -39,9 +39,10 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           H=$(TZ=Europe/Warsaw date +%H); D=$(TZ=Europe/Warsaw date +%u)
-          # dni robocze 6–23: co ~12 min; poza tym (noc, weekend) co ~godzinę – łańcuch nigdy się nie urywa
+          # dni robocze 6–24 i 4–6 rano (wt–sob): co ~12 min; poza tym (noc, weekend) co ~godzinę – łańcuch nigdy się nie urywa
           WAIT=3000
-          if [ "$D" -le 5 ] && [ "$H" -ge 6 ] && [ "$H" -lt 23 ]; then WAIT=600; fi
+          if [ "$D" -le 5 ] && [ "$H" -ge 6 ]; then WAIT=600; fi   # dni robocze 6–24 (sesja USA do 22:00, wyniki po sesji)
+          if [ "$D" -ge 2 ] && [ "$D" -le 6 ] && [ "$H" -ge 4 ] && [ "$H" -lt 6 ]; then WAIT=600; fi   # świeże dane przed raportem zagranicznym 5:17
           # Łańcuch ZAWSZE planuje następny przebieg (cron GitHuba bywa nieregularny – 03.11 jeden spóźniony
           # przebieg z harmonogramu zatrzymał łańcuch na 5 h). Duplikaty: po odczekaniu sprawdzamy, czy inny
           # przebieg już czeka lub trwa – wtedy nie dokładamy kolejnego.
