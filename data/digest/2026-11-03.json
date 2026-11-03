@@ -4,18 +4,18 @@
   "podsumowania": 9,
   "wyniki": 4,
   "rekomendacje": 0,
-  "korporacyjne": 7,
+  "korporacyjne": 8,
   "makro_pl": 3,
-  "swiat_rynki": 3,
+  "swiat_rynki": 4,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 3,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 11
+  "pozostale": 12
  },
- "duplicatesRemoved": 18,
- "total": 61,
+ "duplicatesRemoved": 20,
+ "total": 66,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -144,6 +144,18 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "09:49",
+    "kind": "espi",
+    "ticker": null,
+    "title": "REMAK: Stanowisko Zarządu Remak-Energomontaż S.A. z siedzibą w Warszawie w związku ogłoszeniem wezwania do zapisywania się na sprzedaż akcji ogłoszonym przez Zarmen sp. z o.o. z siedzibą w Warszawie.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23223",
+    "src": "bossa",
+    "flags": [
+     "wezwanie",
+     "zarząd"
+    ]
+   },
+   {
     "time": "09:17",
     "kind": "news",
     "ticker": null,
@@ -247,12 +259,21 @@
   ],
   "swiat_rynki": [
    {
-    "time": "09:18",
-    "kind": "pap",
+    "time": "09:48",
+    "kind": "news",
+    "ticker": null,
+    "title": "BTCS zostaje strategicznym inwestorem pierwszego funduszu tokenizowanego na platformie Bitfinex Securities. Spółka chce zwiększać zasoby bitcoinów – celuje w co najmniej 8 proc. rocznego zysku netto wyrażonego w BTC",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/btcs-zostaje-strategicznym-inwestorem-pierwszego-funduszu-tokenizowanego-na",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "09:36",
+    "kind": "news",
     "ticker": null,
     "title": "Ceny gazu w Europie w górę po ataku USA na irańską wyspę",
-    "url": "https://bossa.pl/analizy/komunikaty#message-438865",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/ceny-gazu-w-europie-w-gore-po-ataku-usa-na-iranska-wyspe",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -339,6 +360,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:50",
+    "kind": "news",
+    "ticker": null,
+    "title": "Monitor kadrowy - zestawienie od 27 października do 2 listopada",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/monitor-kadrowy-zestawienie-od-27-pazdziernika-do-2-listopada",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:16",
     "kind": "news",

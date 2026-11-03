@@ -1,7 +1,53 @@
 {
  "date": "2026-11-03",
- "count": 61,
+ "count": 66,
  "items": [
+  {
+   "id": "bossa-pap-438870",
+   "date": "2026-11-03",
+   "time": "09:52",
+   "ts": "2026-11-03T09:52:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Monitor kadrowy - zestawienie od 27 października do 2 listopada",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438870"
+  },
+  {
+   "id": "strefa-68a7de347bfe",
+   "date": "2026-11-03",
+   "time": "09:50",
+   "ts": "2026-11-03T09:50:14+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Monitor kadrowy - zestawienie od 27 października do 2 listopada",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261103/monitor-kadrowy-zestawienie-od-27-pazdziernika-do-2-listopada"
+  },
+  {
+   "id": "bossa-espi-23223",
+   "date": "2026-11-03",
+   "time": "09:49",
+   "ts": "2026-11-03T09:49:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "REMAK",
+   "title": "Stanowisko Zarządu Remak-Energomontaż S.A. z siedzibą w Warszawie w związku ogłoszeniem wezwania do zapisywania się na sprzedaż akcji ogłoszonym przez Zarmen sp. z o.o. z siedzibą w Warszawie.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23223"
+  },
+  {
+   "id": "strefa-4ed736801922",
+   "date": "2026-11-03",
+   "time": "09:48",
+   "ts": "2026-11-03T09:48:50+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "BTCS zostaje strategicznym inwestorem pierwszego funduszu tokenizowanego na platformie Bitfinex Securities. Spółka chce zwiększać zasoby bitcoinów – celuje w co najmniej 8 proc. rocznego zysku netto wyrażonego w BTC",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261103/btcs-zostaje-strategicznym-inwestorem-pierwszego-funduszu-tokenizowanego-na"
+  },
   {
    "id": "bossa-pap-438868",
    "date": "2026-11-03",
@@ -13,6 +59,17 @@
    "title": "DITIX SA (11/2026) Raport kwartalny za III kwartał",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-438868"
+  },
+  {
+   "id": "strefa-65e87a5b67ce",
+   "date": "2026-11-03",
+   "time": "09:36",
+   "ts": "2026-11-03T09:36:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ceny gazu w Europie w górę po ataku USA na irańską wyspę",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261103/ceny-gazu-w-europie-w-gore-po-ataku-usa-na-iranska-wyspe"
   },
   {
    "id": "bossa-pap-438867",
