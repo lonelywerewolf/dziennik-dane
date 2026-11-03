@@ -39,15 +39,15 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           H=$(TZ=Europe/Warsaw date +%H); D=$(TZ=Europe/Warsaw date +%u)
-          # dni robocze 6–23: co ~12 min; weekend 8–22: co ~godzinę; noc – nadrabia pierwszy poranny przebieg
-          if [ "$D" -gt 5 ]; then WAIT=3000; [ "$H" -lt 8 ] || [ "$H" -ge 22 ] && exit 0; else WAIT=600; [ "$H" -lt 6 ] || [ "$H" -ge 23 ] && exit 0; fi
-          LAST=$(gh api "repos/${{ github.repository }}/actions/workflows/collect.yml/runs?event=schedule&per_page=1" --jq '.workflow_runs[0].created_at // "1970-01-01T00:00:00Z"')
-          AGE=$(( $(date +%s) - $(date -d "$LAST" +%s) ))
-          LIMIT=1800; [ "$D" -gt 5 ] && LIMIT=5400
-          if [ "$AGE" -lt "$LIMIT" ]; then echo "harmonogram działa"; exit 0; fi
-          QUEUED=$(gh api "repos/${{ github.repository }}/actions/workflows/collect.yml/runs?status=queued" --jq '.total_count')
-          if [ "$QUEUED" -gt 0 ]; then exit 0; fi
+          # dni robocze 6–23: co ~12 min; poza tym (noc, weekend) co ~godzinę – łańcuch nigdy się nie urywa
+          WAIT=3000
+          if [ "$D" -le 5 ] && [ "$H" -ge 6 ] && [ "$H" -lt 23 ]; then WAIT=600; fi
+          # Łańcuch ZAWSZE planuje następny przebieg (cron GitHuba bywa nieregularny – 03.11 jeden spóźniony
+          # przebieg z harmonogramu zatrzymał łańcuch na 5 h). Duplikaty: po odczekaniu sprawdzamy, czy inny
+          # przebieg już czeka lub trwa – wtedy nie dokładamy kolejnego.
           sleep $WAIT
+          BUSY=$(gh api "repos/${{ github.repository }}/actions/workflows/collect.yml/runs?per_page=10" --jq "[.workflow_runs[] | select((.status==\"queued\" or .status==\"in_progress\" or .status==\"pending\" or .status==\"waiting\") and .id != ${{ github.run_id }})] | length")
+          if [ "$BUSY" -gt 0 ]; then echo "inny przebieg już czeka/trwa – nie dokładam"; exit 0; fi
           gh workflow run collect.yml --ref main -R ${{ github.repository }}
-          echo "harmonogram stoi od ${AGE}s – uruchomiono kolejny przebieg"
+          echo "zaplanowano kolejny przebieg"
 
