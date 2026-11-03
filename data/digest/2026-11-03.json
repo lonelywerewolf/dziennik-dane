@@ -2,9 +2,9 @@
  "date": "2026-11-03",
  "counts": {
   "podsumowania": 4,
-  "wyniki": 0,
+  "wyniki": 1,
   "rekomendacje": 0,
-  "korporacyjne": 1,
+  "korporacyjne": 2,
   "makro_pl": 2,
   "swiat_rynki": 1,
   "energetyka_surowce": 1,
@@ -15,7 +15,7 @@
   "pozostale": 7
  },
  "duplicatesRemoved": 6,
- "total": 23,
+ "total": 25,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -56,9 +56,32 @@
     "flags": []
    }
   ],
-  "wyniki": [],
+  "wyniki": [
+   {
+    "time": "07:45",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GRODNO S.A.: Szacunkowe przychody za październik 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23217",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   }
+  ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "07:49",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BTCS S.A.: Udział BTCS S.A. jako inwestora wiodącego (\"Anchor Investor\") w funduszu Liberty Bitcoin Accumulation Fund zarządzanym przez CMCC Global na platformie Bitfinex Securities",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23218",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "06:32",
     "kind": "pap",

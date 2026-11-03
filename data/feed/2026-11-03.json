@@ -1,7 +1,31 @@
 {
  "date": "2026-11-03",
- "count": 23,
+ "count": 25,
  "items": [
+  {
+   "id": "bossa-espi-23218",
+   "date": "2026-11-03",
+   "time": "07:49",
+   "ts": "2026-11-03T07:49:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BTCS S.A.",
+   "title": "Udział BTCS S.A. jako inwestora wiodącego (\"Anchor Investor\") w funduszu Liberty Bitcoin Accumulation Fund zarządzanym przez CMCC Global na platformie Bitfinex Securities",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23218"
+  },
+  {
+   "id": "bossa-espi-23217",
+   "date": "2026-11-03",
+   "time": "07:45",
+   "ts": "2026-11-03T07:45:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "GRODNO S.A.",
+   "title": "Szacunkowe przychody za październik 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23217"
+  },
   {
    "id": "bossa-pap-438849",
    "date": "2026-11-03",
