@@ -4,7 +4,7 @@
   "podsumowania": 17,
   "wyniki": 22,
   "rekomendacje": 0,
-  "korporacyjne": 56,
+  "korporacyjne": 57,
   "makro_pl": 12,
   "swiat_rynki": 14,
   "energetyka_surowce": 2,
@@ -15,7 +15,7 @@
   "pozostale": 59
  },
  "duplicatesRemoved": 116,
- "total": 316,
+ "total": 317,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -396,6 +396,15 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "21:20",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ICE CODE GAMES S.A.: Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia na 30 listopada 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23316",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "20:01",
     "kind": "pap",
