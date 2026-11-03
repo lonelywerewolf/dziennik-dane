@@ -1,7 +1,19 @@
 {
  "date": "2026-11-03",
- "count": 310,
+ "count": 312,
  "items": [
+  {
+   "id": "bossa-pap-439057",
+   "date": "2026-11-03",
+   "time": "20:49",
+   "ts": "2026-11-03T20:49:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "SOKiK potwierdził, że Biedronka wprowadzała konsumentów w błąd; obniżył karę do ok. 84 mln zł (aktl.)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439057"
+  },
   {
    "id": "bossa-espi-23314",
    "date": "2026-11-03",
@@ -60,6 +72,17 @@
    "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A24 wyemitowanymi przez POWIAT GOLENIOWSKI",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261103/gpw-w-sprawie-zawieszenia-obrotu-gieldowego-na-catalyst-obligacjami-na-4"
+  },
+  {
+   "id": "strefa-b75d146eab4f",
+   "date": "2026-11-03",
+   "time": "19:41",
+   "ts": "2026-11-03T19:41:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "SOKiK potwierdził, że Biedronka wprowadzała konsumentów w błąd; obniżył karę do ok. 84 mln zł (aktl.)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261103/sokik-potwierdzil-ze-biedronka-wprowadzala-konsumentow-w-blad-obnizyl-kare-do-0"
   },
   {
    "id": "bossa-pap-439052",
