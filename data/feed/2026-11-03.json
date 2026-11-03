@@ -1,7 +1,54 @@
 {
  "date": "2026-11-03",
- "count": 34,
+ "count": 38,
  "items": [
+  {
+   "id": "bossa-pap-438859",
+   "date": "2026-11-03",
+   "time": "08:24",
+   "ts": "2026-11-03T08:24:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: W Azji na giełdach przewaga spadków",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438859"
+  },
+  {
+   "id": "bossa-espi-23220",
+   "date": "2026-11-03",
+   "time": "08:19",
+   "ts": "2026-11-03T08:19:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "4MASS S.A.",
+   "title": "Ogłoszenie zaproszenia do składania ofert sprzedaży akcji 4MASS S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23220"
+  },
+  {
+   "id": "bossa-espi-23219",
+   "date": "2026-11-03",
+   "time": "08:15",
+   "ts": "2026-11-03T08:15:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "GREEN LANES S.A.",
+   "title": "Osiągnięcie założonych parametrów sprawności produkcyjnej linii do wytwarzania płyt warstwowych STRUMBER®",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23219"
+  },
+  {
+   "id": "strefa-00d1e154f196",
+   "date": "2026-11-03",
+   "time": "08:10",
+   "ts": "2026-11-03T08:10:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: W Azji na giełdach przewaga spadków",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261103/dzien-na-rynkach-w-azji-na-gieldach-przewaga-spadkow"
+  },
   {
    "id": "bossa-pap-438856",
    "date": "2026-11-03",

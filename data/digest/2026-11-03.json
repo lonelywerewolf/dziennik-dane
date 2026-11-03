@@ -1,7 +1,7 @@
 {
  "date": "2026-11-03",
  "counts": {
-  "podsumowania": 4,
+  "podsumowania": 5,
   "wyniki": 2,
   "rekomendacje": 0,
   "korporacyjne": 3,
@@ -9,16 +9,25 @@
   "swiat_rynki": 1,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
-  "fundusze_drobne": 1,
+  "fundusze_drobne": 2,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 9
+  "pozostale": 10
  },
- "duplicatesRemoved": 10,
- "total": 34,
+ "duplicatesRemoved": 11,
+ "total": 38,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "08:10",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: W Azji na giełdach przewaga spadków",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/dzien-na-rynkach-w-azji-na-gieldach-przewaga-spadkow",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "07:01",
     "kind": "news",
@@ -157,6 +166,15 @@
   "nieruchomosci": [],
   "fundusze_drobne": [
    {
+    "time": "08:19",
+    "kind": "espi",
+    "ticker": null,
+    "title": "4MASS S.A.: Ogłoszenie zaproszenia do składania ofert sprzedaży akcji 4MASS S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23220",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "07:31",
     "kind": "espi",
     "ticker": null,
@@ -179,6 +197,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "08:15",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GREEN LANES S.A.: Osiągnięcie założonych parametrów sprawności produkcyjnej linii do wytwarzania płyt warstwowych STRUMBER®",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23219",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:04",
     "kind": "news",
