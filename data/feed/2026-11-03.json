@@ -1,7 +1,67 @@
 {
  "date": "2026-11-03",
- "count": 117,
+ "count": 122,
  "items": [
+  {
+   "id": "bossa-pap-438909",
+   "date": "2026-11-03",
+   "time": "13:03",
+   "ts": "2026-11-03T13:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeksy transakcyjne - POLSTR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438909"
+  },
+  {
+   "id": "bossa-pap-438908",
+   "date": "2026-11-03",
+   "time": "13:02",
+   "ts": "2026-11-03T13:02:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeksy transakcyjne - WIRON",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438908"
+  },
+  {
+   "id": "bossa-pap-438907",
+   "date": "2026-11-03",
+   "time": "13:01",
+   "ts": "2026-11-03T13:01:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "READ-GENE SA (15/2026) Inne informacje",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438907"
+  },
+  {
+   "id": "bossa-pap-438906",
+   "date": "2026-11-03",
+   "time": "12:57",
+   "ts": "2026-11-03T12:57:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "READ-GENE SA (14/2026) Informacje o walnym zgromadzeniu - zwołanie WZ z projektami uchwał, zmiany w porządku obrad WZ",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438906"
+  },
+  {
+   "id": "bossa-espi-23235",
+   "date": "2026-11-03",
+   "time": "12:53",
+   "ts": "2026-11-03T12:53:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "READ-GENE S.A.",
+   "title": "Ogłoszenie o zwołaniu NWZ READ-GENE S.A. na 30 listopada 2026 r. wraz z projektami uchwał.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23235"
+  },
   {
    "id": "bossa-espi-23234",
    "date": "2026-11-03",
