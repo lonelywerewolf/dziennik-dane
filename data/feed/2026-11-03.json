@@ -1,7 +1,54 @@
 {
  "date": "2026-11-03",
- "count": 74,
+ "count": 78,
  "items": [
+  {
+   "id": "bossa-pap-438880",
+   "date": "2026-11-03",
+   "time": "10:41",
+   "ts": "2026-11-03T10:41:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MADMIND STUDIO SA (20/2026) Informacje o walnym zgromadzeniu - informacje po odbyciu WZ (w tym ogłoszenie przerwy) - uchwały",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438880"
+  },
+  {
+   "id": "bossa-espi-23225",
+   "date": "2026-11-03",
+   "time": "10:40",
+   "ts": "2026-11-03T10:40:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MIRBUD S.A.",
+   "title": "Podpisanie umowy na projekt i budowę autostrady A2 od węzła „Biała Podlaska” do gr. państwa, odc. X",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23225"
+  },
+  {
+   "id": "bossa-pap-438878",
+   "date": "2026-11-03",
+   "time": "10:34",
+   "ts": "2026-11-03T10:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne - SONIA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438878"
+  },
+  {
+   "id": "strefa-549812364c44",
+   "date": "2026-11-03",
+   "time": "10:29",
+   "ts": "2026-11-03T10:29:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "LPP stawia kolejny krok w ekspansji na Bałkanach. Sinsay zadebiutuje w Czarnogórze",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261103/lpp-stawia-kolejny-krok-w-ekspansji-na-balkanach-sinsay-zadebiutuje-w"
+  },
   {
    "id": "bossa-pap-438877",
    "date": "2026-11-03",
