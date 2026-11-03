@@ -1,7 +1,43 @@
 {
  "date": "2026-11-03",
- "count": 67,
+ "count": 70,
  "items": [
+  {
+   "id": "bossa-espi-23224",
+   "date": "2026-11-03",
+   "time": "10:16",
+   "ts": "2026-11-03T10:16:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "JSW S.A.",
+   "title": "Informacja w sprawie powierzenia pełnienia obowiązków Prezesa Zarządu Jastrzębskiej Spółki Węglowej S.A. XII kadencji",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23224"
+  },
+  {
+   "id": "bossa-pap-438873",
+   "date": "2026-11-03",
+   "time": "10:12",
+   "ts": "2026-11-03T10:12:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "W czwartek I i II czytanie w Sejmie ponownie złożonego projektu ws. CIT dla dużych firm i progów PIT",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438873"
+  },
+  {
+   "id": "bossa-pap-438872",
+   "date": "2026-11-03",
+   "time": "10:12",
+   "ts": "2026-11-03T10:12:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MZ: Kolejny milion w pół roku. mojeIKP ma już 6 milionów użytkowników (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438872"
+  },
   {
    "id": "bossa-pap-438871",
    "date": "2026-11-03",
