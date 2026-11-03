@@ -1,24 +1,91 @@
 {
  "date": "2026-11-03",
  "counts": {
-  "podsumowania": 10,
-  "wyniki": 5,
+  "podsumowania": 17,
+  "wyniki": 21,
   "rekomendacje": 0,
-  "korporacyjne": 21,
-  "makro_pl": 8,
-  "swiat_rynki": 7,
+  "korporacyjne": 53,
+  "makro_pl": 12,
+  "swiat_rynki": 13,
   "energetyka_surowce": 2,
   "nieruchomosci": 1,
-  "fundusze_drobne": 5,
+  "fundusze_drobne": 14,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 30
+  "pozostale": 53
  },
- "duplicatesRemoved": 36,
- "total": 127,
+ "duplicatesRemoved": 90,
+ "total": 278,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "18:17",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Indeksy w Europie na minusach; midtermy w USA w centrum uwagi",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/dzien-na-rynkach-indeksy-w-europie-na-minusach-midtermy-w-usa-w-centrum-uwagi",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "17:40",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Notowania ciągłe - podsumowanie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439021",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "17:26",
+    "kind": "news",
+    "ticker": null,
+    "title": "WIG20 na zamknięciu wyniósł 4138,60 pkt (-0,34%)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/wig20-na-zamknieciu-wyniosl-413860-pkt-034",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "17:02",
+    "kind": "skrot",
+    "ticker": null,
+    "title": "Skrót wiadomości - wtorek 3 listopada, 17.00",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/skrot-wiadomosci-wtorek-3-listopada-1700",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "17:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA FX/FI: PLN z lekkim umocnieniem na koniec dnia, ale trend dla EUR/PLN nie zmienił się",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/dzien-na-fxfi-pln-z-lekkim-umocnieniem-na-koniec-dnia-ale-trend-dla-eurpln-nie",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "16:40",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: Na giełdzie lekka poprawa nastrojów, dzięki zwyżkom banków; tracą Allegro i KGHM",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/dzien-na-gpw-na-gieldzie-lekka-poprawa-nastrojow-dzieki-zwyzkom-bankow-traca",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "14:07",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Futures w USA głównie spadają; rynki czekają na wyniki midtermów w USA",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/dzien-na-rynkach-futures-w-usa-glownie-spadaja-rynki-czekaja-na-wyniki",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "11:11",
     "kind": "news",
@@ -112,6 +179,165 @@
   ],
   "wyniki": [
    {
+    "time": "18:34",
+    "kind": "news",
+    "ticker": null,
+    "title": "Artifex Mundi miał 4,9 mln zł przychodów w październiku, o 1 proc. więcej mdm",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/artifex-mundi-mial-49-mln-zl-przychodow-w-pazdzierniku-o-1-proc-wiecej-mdm",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "18:22",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ARTIFEX MUNDI S.A.: Szacunkowe przychody ze sprzedaży Spółki oraz koszty akwizycji nowych graczy w październiku 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23307",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "18:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "DataWalk szacuje skorygowaną stratę EBITDA w I-III kw. 26 na 39,6 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/datawalk-szacuje-skorygowana-strate-ebitda-w-i-iii-kw-26-na-396-mln-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "18:10",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kwartał pod znakiem przesunięcia wyników",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/kwartal-pod-znakiem-przesuniecia-wynikow",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "17:48",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kogeneracja szacuje skonsolidowany wynik EBITDA w III kw. ok. 18 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/kogeneracja-szacuje-skonsolidowany-wynik-ebitda-w-iii-kw-ok-18-mln-zl",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "17:36",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa Enea szacuje, że III kw. miała 1.139 mln zł EBITDA, a zysk netto j.d. wyniósł 542 mln zł (opis)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/grupa-enea-szacuje-ze-iii-kw-miala-1139-mln-zl-ebitda-zysk-netto-jd-wyniosl-542",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "17:18",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa Enea szacuje, że miała w III kw. 1.139 mln zł EBITDA, a zysk netto j.d. wyniósł 542 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/grupa-enea-szacuje-ze-miala-w-iii-kw-1139-mln-zl-ebitda-zysk-netto-jd-wyniosl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "17:18",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BIO PLANET S.A.: Informacja o miesięcznych przychodach ze sprzedaży za październik 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23300",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:18",
+    "kind": "espi",
+    "ticker": null,
+    "title": "DATAWALK S.A.: Informacja Zarządu dotycząca szacunkowych, wybranych danych finansowych za trzy kwartały 2026 roku. Information of the Executive Board report on estimated selected financial data for the three quarters of 2026.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23299",
+    "src": "bossa",
+    "flags": [
+     "wyniki",
+     "zarząd"
+    ]
+   },
+   {
+    "time": "17:11",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ENEA: Informacja w sprawie wstępnych wyników finansowych i operacyjnych za okres 9 miesięcy 2026 roku oraz III kwartał 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23296",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "17:10",
+    "kind": "espi",
+    "ticker": null,
+    "title": "AUTO PARTNER S.A.: Informacja poufna - raport miesięczny o przychodach ze sprzedaży za październik 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23295",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:41",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GEOTRANS S.A.: Szacunkowe wybrane dane finansowe za III kwartał 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23276",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "14:31",
+    "kind": "pap",
+    "ticker": null,
+    "title": "CM INTERNATIONAL SA (15/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438948",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:55",
+    "kind": "espi",
+    "ticker": null,
+    "title": "LENTEX: Szacunkowe wyniki Spółki za III kwartały 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23253",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "13:54",
+    "kind": "news",
+    "ticker": null,
+    "title": "Lentex szacuje, że w pierwszych trzech kwartałach '26 miał 14,9 mln zł zysku netto i 21,7 mln zł EBITDA",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/lentex-szacuje-ze-w-pierwszych-trzech-kwartalach-26-mial-149-mln-zl-zysku-netto",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "12:37",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zysk netto sektora bankowego w I-IX '26 wyniósł 32,28 mld zł, spadł 10,5 proc. rdr - NBP",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/zysk-netto-sektora-bankowego-w-i-ix-26-wyniosl-3228-mld-zl-spadl-105-proc-rdr",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "12:02",
     "kind": "news",
     "ticker": null,
@@ -161,6 +387,344 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "18:27",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ENERGY S.A.: Zawarcie umowy dzierżawy gruntu oraz złożenie wniosku o określenie warunków przyłączenia dla projektu magazynu energii",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23308",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "18:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "11 bit studios ma umowę z Microsoft dot. udostępnienia gier w programie Game Pass",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/11-bit-studios-ma-umowe-z-microsoft-dot-udostepnienia-gier-w-programie-game",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "18:10",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Transakcje pakietowe",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439028",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "18:08",
+    "kind": "espi",
+    "ticker": null,
+    "title": "11 BIT STUDIOS S.A.: Zawarcie umowy dotyczącej udostępnienia gier w programie Game Pass",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23306",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "17:40",
+    "kind": "espi",
+    "ticker": null,
+    "title": "REINO CAPITAL SA: Podjęcie uchwały Zarządu w sprawie podwyższenia kapitału zakładowego Spółki w drodze emisji akcji zwykłych na okaziciela serii N w ramach kapitału docelowego oraz zmiany §8 ust. 1 i ust. 2 Statutu Spółki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23303",
+    "src": "bossa",
+    "flags": [
+     "emisja",
+     "zarząd"
+    ]
+   },
+   {
+    "time": "16:56",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zgoda NWZ PZU na emisję obligacji umożliwi sprawne przeprowadzenie refinansowania - CFO",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/zgoda-nwz-pzu-na-emisje-obligacji-umozliwi-sprawne-przeprowadzenie",
+    "src": "strefainwestorow",
+    "flags": [
+     "emisja"
+    ]
+   },
+   {
+    "time": "16:52",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KE zgodziła się na przejęcie właściciela MediaMarkt przez chińską platformę JD.com",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438998",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:43",
+    "kind": "news",
+    "ticker": null,
+    "title": "Akcjonariusz spółki Wawel chce wypłacenia zaliczki dywidendowej w wysokości 35 zł na akcję",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/akcjonariusz-spolki-wawel-chce-wyplacenia-zaliczki-dywidendowej-w-wysokosci-35",
+    "src": "strefainwestorow",
+    "flags": [
+     "dywidenda",
+     "akcjonariat"
+    ]
+   },
+   {
+    "time": "16:32",
+    "kind": "espi",
+    "ticker": null,
+    "title": "WAWEL SA: Otrzymanie żądania akcjonariusza w sprawie zwołania Nadzwyczajnego Walnego Zgromadzenia i umieszczenia określonych spraw w porządku obrad oraz uchwalenia wypłaty zaliczki na poczet dywidendy za rok obrotowy 2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23289",
+    "src": "bossa",
+    "flags": [
+     "dywidenda",
+     "akcjonariat"
+    ]
+   },
+   {
+    "time": "16:32",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PZU SA: Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu PZU SA w dniu 3 listopada 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23288",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
+   {
+    "time": "16:25",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PZU SA: Treść uchwał podjętych przez Nadzwyczajne Walne Zgromadzenie PZU SA",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23287",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:18",
+    "kind": "espi",
+    "ticker": null,
+    "title": "EUROHOLD BULGARIA AD: Notification under Art. 19 (3) of Regulation (EU) № 596/2014 of the European Parliament and of the Council of 16 April 2014",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23285",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
+    "time": "16:11",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Zamówienia na dobra trwałe w USA we wrześniu: +1,9 proc. mdm. Wstępnie: +1,8 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438978",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "16:04",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Zamówienia w przemyśle w USA w IX: +1,8 proc. Konsensus: +1,2 proc. Poprzednio: +0,3 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438975",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "16:01",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Euvic S.A.: Zawiadomienie akcjonariusza o zmianie posiadanego udziału w kapitale zakładowym Emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23281",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
+   {
+    "time": "16:01",
+    "kind": "espi",
+    "ticker": null,
+    "title": "RAFAMET: Wybór najkorzystniejszej oferty konsorcjum z udziałem spółki zależnej Emitenta w postępowaniu przetargowym POLREGIO S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23280",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:56",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Średnia ważona cena kontraktu na dostawy w '27 na rynku gazu wzrosła w X mdm o 24,21 proc. - TGE",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438969",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "15:52",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Średnia cena kontraktu na dostawy energii na TGE w X wzrosła do 751,71 zł/MWh",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438967",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "15:48",
+    "kind": "espi",
+    "ticker": null,
+    "title": "POLIMEX-MOSTOSTAL: Informacja o transakcjach na akcjach Spółki uzyskana w trybie art. 19 MAR.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23277",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
+    "time": "15:16",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GAMIVO SA (12/2026) Odwołanie lub rezygnacja osoby zarządzającej lub nadzorującej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438959",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "15:12",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BS RZEMIOSŁA W KRAKOWIE: Decyzja Zarządu Banku Spółdzielczego Rzemiosła w Krakowie o przeprowadzeniu retrospektywnej korekty rezerw celowych odniesionej na kapitał własny.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23273",
+    "src": "bossa",
+    "flags": [
+     "prognoza",
+     "zarząd"
+    ]
+   },
+   {
+    "time": "14:52",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ATREM S.A.: Zawarcie umowy z Polskie Sieci Elektroenergetyczne Spółka Akcyjna na realizację zadań pn.: Rozbudowa stacji 400/220/110 kV Mikułowa dla przyłączenia nowych obiektów do KSE.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23271",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "14:50",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Red Square Games S.A.: Zawarcie umowy dystrybucyjnej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23270",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "14:47",
+    "kind": "news",
+    "ticker": null,
+    "title": "Atrem ma umowę z PSE za 157,8 mln zł brutto",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/atrem-ma-umowe-z-pse-za-1578-mln-zl-brutto",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "14:41",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MEDTECH SOLUTIONS S.A.: Zawarcie przez Emitenta i spółkę zależną od Emitenta umów o łącznej wartości 4.459.838,45 zł brutto w wykonaniu wygranego postępowania przetargowego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23269",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:07",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Kino Polska TV S.A.: Zwołanie Nadzwyczajnego Walnego Zgromadzenia Kino Polska TV S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23258",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:05",
+    "kind": "news",
+    "ticker": null,
+    "title": "Orlen analizuje celowość inwestycji BoB w Możejkach, alternatywą zamknięcie rafinerii - prezes",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/orlen-analizuje-celowosc-inwestycji-bob-w-mozejkach-alternatywa-zamkniecie",
+    "src": "strefainwestorow",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "13:51",
+    "kind": "news",
+    "ticker": null,
+    "title": "Łukasz Kochanowski członkiem zarządu PFR TFI",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/lukasz-kochanowski-czlonkiem-zarzadu-pfr-tfi",
+    "src": "strefainwestorow",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "13:49",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MENNICA: zmiana w składzie Zarządu Spółki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23250",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "13:45",
+    "kind": "espi",
+    "ticker": null,
+    "title": "INTERSPORT S.A.: Materiały na NWZ INTERSPORT Polska S.A. zwołane na dzień 4 grudnia 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23247",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:41",
+    "kind": "espi",
+    "ticker": null,
+    "title": "INTERSPORT S.A.: Ogłoszenie o zwołaniu NWZ INTERSPORT Polska S.A. na dzień 4 grudnia 2026 roku.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23244",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:40",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ZUK: Zwołanie na dzień 2 grudnia 2026 roku Nadzwyczajnego Walnego Zgromadzenia Spółki Zakłady Urządzeń Kotłowych \"Stąporków\" S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23242",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:23",
     "kind": "espi",
@@ -387,6 +951,42 @@
   ],
   "makro_pl": [
    {
+    "time": "18:37",
+    "kind": "espi",
+    "ticker": null,
+    "title": "IDM SA: Informacja o zdarzeniu mającym wpływ na sytuację finansową IDMSA. Istotna wartość wynagrodzenia należnego Spółce.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23309",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:54",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MS: Bezpieczeństwo dzieci, sprawniejsze sądy i skuteczniejsza ochrona konsumentów. Rząd przyjął cztery projekty Ministerstwa Sprawiedliwości (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438999",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:49",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MS: Rada Ministrów przyjęła projekt ustawy o zmianie ustawy - Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw, przedłożony przez Ministra Sprawiedliwości (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438997",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:26",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BEST: Dopuszczenie obligacji AF4 do obrotu giełdowego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23275",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "12:57",
     "kind": "pap",
     "ticker": null,
@@ -460,6 +1060,60 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "16:59",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ECB SA: Podpisanie aneksu do Porozumienia Transakcyjnego z V-Project S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23294",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:58",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ME nie widzi obecnie ryzyka ograniczeń dostaw gazu ziemnego w najbliższym sezonie zimowym",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439002",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:54",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MI chce do końca roku zaktualizować program budowy Portu Polska",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439000",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:03",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Liczba wakatów w USA wg JOLTS we wrześniu: 7,523 mln; Konsensus: 7,164 mln",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438974",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:42",
+    "kind": "news",
+    "ticker": null,
+    "title": "Euro w EBC: 1,1179 USD i 176,95 JPY",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/euro-w-ebc-11179-usd-i-17695-jpy",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "15:10",
+    "kind": "news",
+    "ticker": null,
+    "title": "Po otwarciu sesji DJI spada o 0,56 proc., a S&P500 rośnie o 0,25 proc.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/po-otwarciu-sesji-dji-spada-o-056-proc-sp500-rosnie-o-025-proc",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "13:29",
     "kind": "espi",
@@ -559,6 +1213,87 @@
   ],
   "fundusze_drobne": [
    {
+    "time": "17:05",
+    "kind": "news",
+    "ticker": null,
+    "title": "OFE wartości jednostek rozrachunkowych z 2026.11.02",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/ofe-wartosci-jednostek-rozrachunkowych-z-20261102",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "16:43",
+    "kind": "espi",
+    "ticker": null,
+    "title": "INVESTOR FIZ: ZWCI-E_30.04.18",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23291",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:37",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OFE PZU wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438989",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:37",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Nationale-Nederlanden PTE SA informuje",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438988",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:55",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Nationale-Nederlanden OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438968",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:50",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GENERALI OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438966",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:43",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OFE POCZTYLION wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438963",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:52",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Zysk na akcję Pfizera w III kw. wyniósł 87 centów, powyżej oczekiwań",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438928",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:40",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PKO BP BANKOWY OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438917",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "13:09",
     "kind": "pap",
     "ticker": null,
@@ -626,6 +1361,213 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "18:20",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Startup e2e pozyskał 32 mln zł w rundzie seed",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439031",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "18:07",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zamknięcia na giełdach w Europie (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/zamkniecia-na-gieldach-w-europie-tabela",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "17:58",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BROWAR CZARNKÓW SA (17/2026) Zmiana harmonogramu publikacji raportów okresowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439024",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:43",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MEDINICE S.A.: Uzyskanie ochrony patentowej w Izraelu dla krioaplikatora z końcówką funkcjonalną",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23304",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:33",
+    "kind": "espi",
+    "ticker": null,
+    "title": "LABOCANNA S.A.: Zawarcie aneksów do umów pożyczek – przedłużenie terminu spłaty",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23302",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:28",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Stawka Polonia spadła we wtorek do 3,63 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439017",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:24",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PASSUS S.A.: QSr",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23301",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:15",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KOGENERA: Szacunki wybranych danych finansowych i operacyjnych za okres 3 i 9 miesięcy zakończony 30 września 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23298",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:13",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KOGENERA: Wybrane dane produkcyjne za okres 3 i 9 miesięcy zakończony 30 września 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23297",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:07",
+    "kind": "news",
+    "ticker": null,
+    "title": "SOKiK potwierdził, że Biedronka wprowadzała konsumentów w błąd; obniżył karę do ok. 84 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/sokik-potwierdzil-ze-biedronka-wprowadzala-konsumentow-w-blad-obnizyl-kare-do",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "17:07",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW Benchmark: komunikat - EUROHOLD",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/gpw-benchmark-komunikat-eurohold",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "16:29",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KPRM: Bezpieczeństwo Polski nie może być przedmiotem politycznej gry (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438985",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:14",
+    "kind": "espi",
+    "ticker": null,
+    "title": "UniCredit: UniCredit Life Insurance: a new, more efficient and innovative life insurance company emerges from the integration of UniCredit Vita Assicurazioni",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23283",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:08",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KPRM: Komunikat po posiedzeniu Rady Ministrów (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438977",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:59",
+    "kind": "news",
+    "ticker": null,
+    "title": "Obroty akcjami na GPW w październiku wzrosły o 35,6 proc. rdr do 59,5 mld zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/obroty-akcjami-na-gpw-w-pazdzierniku-wzrosly-o-356-proc-rdr-do-595-mld-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "15:49",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GEOTRANS S.A.: Zawarcie umów przeniesienia prawa własności oraz zniesienia współwłasności przez spółkę zależną od Emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23278",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:09",
+    "kind": "espi",
+    "ticker": null,
+    "title": "DANKS S.A.: Udzielenie pożyczki spółce zależnej Emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23272",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:52",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Eksport z Polski we wrześniu wzrósł o 16,7 proc. mdm – KIG",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438954",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:48",
+    "kind": "pap",
+    "ticker": null,
+    "title": "RCB: Rosyjski atak powietrzny na Ukrainie (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438952",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:34",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ANWIM S.A.: Zmiana kontroli nad Emitentem",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23267",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:28",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KPPD: Kredyt inwestycyjny w mBank S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23264",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:27",
+    "kind": "news",
+    "ticker": null,
+    "title": "MedTech Solutions zabezpiecza trzy lata dostaw implantów ortopedycznych",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/medtech-solutions-zabezpiecza-trzy-lata-dostaw-implantow-ortopedycznych",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "14:08",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MRiRW: Żywność z krajów Mercosur pod kontrolą. Chronimy polski rynek i interesy konsumentów (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438939",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:03",
     "kind": "pap",

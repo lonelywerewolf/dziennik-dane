@@ -1,24 +1,24 @@
 {
  "last": {
-  "runAt": "2026-11-03T13:39:08+01:00",
+  "runAt": "2026-11-03T18:43:20+01:00",
   "sources": {
    "bossa": {
-    "pages": 2,
-    "new": 2,
+    "pages": 6,
+    "new": 122,
     "complete": true,
-    "newest": "2026-11-03T13:36:00+01:00",
-    "oldestSeen": "2026-11-03T08:07:00+01:00",
+    "newest": "2026-11-03T18:37:00+01:00",
+    "oldestSeen": "2026-11-03T08:15:00+01:00",
     "ok": true,
-    "sec": 5.9
+    "sec": 18.8
    },
    "strefa": {
     "pages": 2,
-    "new": 0,
+    "new": 29,
     "complete": true,
-    "newest": "2026-11-03T12:30:01+01:00",
-    "oldestSeen": "2026-11-03T06:34:01+01:00",
+    "newest": "2026-11-03T18:34:01+01:00",
+    "oldestSeen": "2026-11-03T08:42:01+01:00",
     "ok": true,
-    "sec": 3.4
+    "sec": 5.5
    },
    "recs": {
     "new": 0,
@@ -27,14 +27,14 @@
     "oldest": "2025-11-05",
     "newest": "2026-11-02",
     "ok": true,
-    "sec": 3.2
+    "sec": 4.5
    },
    "gpw": {
     "ok": true,
     "items": 20,
-    "newest": "03-11-2026 13:23:45",
-    "oldestSeen": "02-11-2026 18:11:51",
-    "sec": 6.5
+    "newest": "03-11-2026 18:37:34",
+    "oldestSeen": "03-11-2026 15:58:44",
+    "sec": 5.4
    },
    "gpw_archive": {
     "days": 0,
@@ -42,14 +42,14 @@
     "latest": "2026-11-02",
     "stored": 261,
     "ok": true,
-    "sec": 0.0
+    "sec": 3.8
    },
    "nasdaq": {
     "history": 8,
     "live": 6,
     "errors": [],
     "ok": true,
-    "sec": 36.1
+    "sec": 37.1
    },
    "quotes": {
     "ok": true,
@@ -66,13 +66,13 @@
      "2026-11-03",
      4.4233
     ],
-    "sec": 1.2
+    "sec": 1.4
    },
    "insiders": {
     "new": 0,
     "errors": [],
     "ok": true,
-    "sec": 12.2
+    "sec": 32.9
    },
    "conditions": {
     "checked": 0,
@@ -99,7 +99,7 @@
      "20261029_dom_maklerski_banku_ochrony_środowiska_dig_pl_aw.pdf: RemoteDisconnected('Remote end closed connection without response')"
     ],
     "ok": false,
-    "sec": 3.3
+    "sec": 5.9
    },
    "macro": {
     "ok": true,
@@ -116,6 +116,122 @@
   }
  },
  "runs": [
+  {
+   "runAt": "2026-11-03T18:43:20+01:00",
+   "sources": {
+    "bossa": {
+     "pages": 6,
+     "new": 122,
+     "complete": true,
+     "newest": "2026-11-03T18:37:00+01:00",
+     "oldestSeen": "2026-11-03T08:15:00+01:00",
+     "ok": true,
+     "sec": 18.8
+    },
+    "strefa": {
+     "pages": 2,
+     "new": 29,
+     "complete": true,
+     "newest": "2026-11-03T18:34:01+01:00",
+     "oldestSeen": "2026-11-03T08:42:01+01:00",
+     "ok": true,
+     "sec": 5.5
+    },
+    "recs": {
+     "new": 0,
+     "seen": 294,
+     "total": 286,
+     "oldest": "2025-11-05",
+     "newest": "2026-11-02",
+     "ok": true,
+     "sec": 4.5
+    },
+    "gpw": {
+     "ok": true,
+     "items": 20,
+     "newest": "03-11-2026 18:37:34",
+     "oldestSeen": "03-11-2026 15:58:44",
+     "sec": 5.4
+    },
+    "gpw_archive": {
+     "days": 0,
+     "errors": [],
+     "latest": "2026-11-02",
+     "stored": 261,
+     "ok": true,
+     "sec": 3.8
+    },
+    "nasdaq": {
+     "history": 8,
+     "live": 6,
+     "errors": [],
+     "ok": true,
+     "sec": 37.1
+    },
+    "quotes": {
+     "ok": true,
+     "tickers": 23,
+     "sec": 0.1
+    },
+    "nbp": {
+     "ok": true,
+     "USD": [
+      "2026-11-03",
+      3.9526
+     ],
+     "EUR": [
+      "2026-11-03",
+      4.4233
+     ],
+     "sec": 1.4
+    },
+    "insiders": {
+     "new": 0,
+     "errors": [],
+     "ok": true,
+     "sec": 32.9
+    },
+    "conditions": {
+     "checked": 0,
+     "met": 0,
+     "ok": true,
+     "sec": 0.0
+    },
+    "fundamentals": {
+     "pl": 0,
+     "us": 0,
+     "errors": [],
+     "ok": true,
+     "sec": 0.0
+    },
+    "calendar": {
+     "errors": [],
+     "ok": true,
+     "sec": 0.0
+    },
+    "pwpa": {
+     "new": 0,
+     "texts": 0,
+     "errors": [
+      "20261029_dom_maklerski_banku_ochrony_środowiska_dig_pl_aw.pdf: RemoteDisconnected('Remote end closed connection without response')"
+     ],
+     "ok": false,
+     "sec": 5.9
+    },
+    "macro": {
+     "ok": true,
+     "skipped": true,
+     "sec": 0.0
+    },
+    "telegram": {
+     "ok": true,
+     "sent": 0,
+     "first": false,
+     "commands": [],
+     "sec": 0.4
+    }
+   }
+  },
   {
    "runAt": "2026-11-03T13:39:08+01:00",
    "sources": {
