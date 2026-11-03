@@ -2,20 +2,20 @@
  "date": "2026-11-03",
  "counts": {
   "podsumowania": 4,
-  "wyniki": 1,
+  "wyniki": 2,
   "rekomendacje": 0,
-  "korporacyjne": 2,
+  "korporacyjne": 3,
   "makro_pl": 2,
   "swiat_rynki": 1,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 1,
-  "twoje_spolki": 0,
+  "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 8
+  "pozostale": 9
  },
- "duplicatesRemoved": 7,
- "total": 27,
+ "duplicatesRemoved": 10,
+ "total": 34,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -58,6 +58,15 @@
   ],
   "wyniki": [
    {
+    "time": "07:56",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grodno szacuje przychody w październiku '26 na 138,7 mln zł; wzrost o 34 proc. rdr",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/grodno-szacuje-przychody-w-pazdzierniku-26-na-1387-mln-zl-wzrost-o-34-proc-rdr",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "07:45",
     "kind": "espi",
     "ticker": null,
@@ -71,6 +80,15 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "08:05",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Spółka biotechnologiczna BIOTTS pozyskała 25 mln zł w pre-IPO; planuje debiut na GPW w '27",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438854",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "07:49",
     "kind": "espi",
@@ -148,9 +166,28 @@
     "flags": []
    }
   ],
-  "twoje_spolki": [],
+  "twoje_spolki": [
+   {
+    "time": "08:08",
+    "kind": "news",
+    "ticker": "CBF",
+    "title": "Emil Popławski dołączył do grupy cyber_Folks jako Head of M&A",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/emil-poplawski-dolaczyl-do-grupy-cyberfolks-jako-head-ma",
+    "src": "strefainwestorow",
+    "flags": []
+   }
+  ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "08:04",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny miedzi w Londynie spadają po odnowieniu wyprzedaży akcji spółek IT",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/ceny-miedzi-w-londynie-spadaja-po-odnowieniu-wyprzedazy-akcji-spolek-it",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "07:35",
     "kind": "pap",

@@ -1,7 +1,88 @@
 {
  "date": "2026-11-03",
- "count": 27,
+ "count": 34,
  "items": [
+  {
+   "id": "bossa-pap-438856",
+   "date": "2026-11-03",
+   "time": "08:09",
+   "ts": "2026-11-03T08:09:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Emil Popławski dołączył do grupy cyber_Folks jako Head of M&A",
+   "ticker": "CBF",
+   "url": "https://bossa.pl/analizy/komunikaty#message-438856"
+  },
+  {
+   "id": "strefa-1b89be592295",
+   "date": "2026-11-03",
+   "time": "08:08",
+   "ts": "2026-11-03T08:08:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Emil Popławski dołączył do grupy cyber_Folks jako Head of M&A",
+   "ticker": "CBF",
+   "url": "https://strefainwestorow.pl/wiadomosci/20261103/emil-poplawski-dolaczyl-do-grupy-cyberfolks-jako-head-ma"
+  },
+  {
+   "id": "bossa-pap-438855",
+   "date": "2026-11-03",
+   "time": "08:07",
+   "ts": "2026-11-03T08:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ceny miedzi w Londynie spadają po odnowieniu wyprzedaży akcji spółek IT",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438855"
+  },
+  {
+   "id": "bossa-pap-438854",
+   "date": "2026-11-03",
+   "time": "08:05",
+   "ts": "2026-11-03T08:05:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Spółka biotechnologiczna BIOTTS pozyskała 25 mln zł w pre-IPO; planuje debiut na GPW w '27",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438854"
+  },
+  {
+   "id": "strefa-6482fad20944",
+   "date": "2026-11-03",
+   "time": "08:04",
+   "ts": "2026-11-03T08:04:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ceny miedzi w Londynie spadają po odnowieniu wyprzedaży akcji spółek IT",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261103/ceny-miedzi-w-londynie-spadaja-po-odnowieniu-wyprzedazy-akcji-spolek-it"
+  },
+  {
+   "id": "bossa-pap-438853",
+   "date": "2026-11-03",
+   "time": "08:02",
+   "ts": "2026-11-03T08:02:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Grodno szacuje przychody w październiku '26 na 138,7 mln zł; wzrost o 34 proc. rdr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438853"
+  },
+  {
+   "id": "strefa-6c53bcf4bb89",
+   "date": "2026-11-03",
+   "time": "07:56",
+   "ts": "2026-11-03T07:56:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grodno szacuje przychody w październiku '26 na 138,7 mln zł; wzrost o 34 proc. rdr",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261103/grodno-szacuje-przychody-w-pazdzierniku-26-na-1387-mln-zl-wzrost-o-34-proc-rdr"
+  },
   {
    "id": "bossa-pap-438852",
    "date": "2026-11-03",
