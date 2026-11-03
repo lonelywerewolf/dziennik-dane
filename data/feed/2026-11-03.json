@@ -1,7 +1,111 @@
 {
  "date": "2026-11-03",
- "count": 291,
+ "count": 301,
  "items": [
+  {
+   "id": "bossa-pap-439049",
+   "date": "2026-11-03",
+   "time": "19:31",
+   "ts": "2026-11-03T19:31:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A24 wyemitowanymi przez POWIAT GOLENIOWSKI",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439049"
+  },
+  {
+   "id": "bossa-pap-439048",
+   "date": "2026-11-03",
+   "time": "19:30",
+   "ts": "2026-11-03T19:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A13 wyemitowanymi przez POWIAT GOLENIOWSKI",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439048"
+  },
+  {
+   "id": "strefa-7ff6e798c1bb",
+   "date": "2026-11-03",
+   "time": "19:27",
+   "ts": "2026-11-03T19:27:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A13 wyemitowanymi przez POWIAT GOLENIOWSKI",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261103/gpw-w-sprawie-zawieszenia-obrotu-gieldowego-na-catalyst-obligacjami-na-3"
+  },
+  {
+   "id": "strefa-50a5475dea56",
+   "date": "2026-11-03",
+   "time": "19:27",
+   "ts": "2026-11-03T19:27:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A19 wyemitowanymi przez GMINĘ MIASTO PŁOCK",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261103/gpw-w-sprawie-zawieszenia-obrotu-gieldowego-na-catalyst-obligacjami-na-0"
+  },
+  {
+   "id": "strefa-46704b74a039",
+   "date": "2026-11-03",
+   "time": "19:27",
+   "ts": "2026-11-03T19:27:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii C19 wyemitowanymi przez MIASTO ZDUŃSKA WOLA",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261103/gpw-w-sprawie-zawieszenia-obrotu-gieldowego-na-catalyst-obligacjami-na"
+  },
+  {
+   "id": "strefa-1399ed18cb02",
+   "date": "2026-11-03",
+   "time": "19:27",
+   "ts": "2026-11-03T19:27:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A18 wyemitowanymi przez GMINĘ MIASTO PŁOCK",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261103/gpw-w-sprawie-zawieszenia-obrotu-gieldowego-na-catalyst-obligacjami-na-1"
+  },
+  {
+   "id": "bossa-pap-439047",
+   "date": "2026-11-03",
+   "time": "19:25",
+   "ts": "2026-11-03T19:25:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii C19 wyemitowanymi przez MIASTO ZDUŃSKA WOLA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439047"
+  },
+  {
+   "id": "bossa-pap-439046",
+   "date": "2026-11-03",
+   "time": "19:24",
+   "ts": "2026-11-03T19:24:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A19 wyemitowanymi przez GMINĘ MIASTO PŁOCK",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439046"
+  },
+  {
+   "id": "bossa-pap-439045",
+   "date": "2026-11-03",
+   "time": "19:19",
+   "ts": "2026-11-03T19:19:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A18 wyemitowanymi przez GMINĘ MIASTO PŁOCK",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439045"
+  },
   {
    "id": "bossa-pap-439044",
    "date": "2026-11-03",
@@ -24,6 +128,17 @@
    "title": "GPW: komunikat - GMINA BRZESKO",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261103/gpw-komunikat-gmina-brzesko"
+  },
+  {
+   "id": "strefa-898ab3133d62",
+   "date": "2026-11-03",
+   "time": "19:13",
+   "ts": "2026-11-03T19:13:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A19 wyemitowanymi przez GMINĘ BARCIN",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261103/gpw-w-sprawie-zawieszenia-obrotu-gieldowego-na-catalyst-obligacjami-na-2"
   },
   {
    "id": "strefa-6e15aff43b47",

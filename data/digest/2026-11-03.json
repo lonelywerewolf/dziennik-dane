@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 57
  },
- "duplicatesRemoved": 95,
- "total": 291,
+ "duplicatesRemoved": 105,
+ "total": 301,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -397,12 +397,12 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
-    "time": "19:17",
-    "kind": "pap",
+    "time": "19:13",
+    "kind": "news",
     "ticker": null,
     "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A19 wyemitowanymi przez GMINĘ BARCIN",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439044",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/gpw-w-sprawie-zawieszenia-obrotu-gieldowego-na-catalyst-obligacjami-na-2",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
