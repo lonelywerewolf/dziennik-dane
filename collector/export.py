@@ -92,6 +92,10 @@ def prices(manifest):
 
 
 def feed(manifest):
+    global US_NEWS
+    US_NEWS = {}
+    for u in jload(D("us_news.json"), {"items": []})["items"]:
+        US_NEWS.setdefault(u["time"][:10], []).append(u)
     cut = (dt.date.today() - dt.timedelta(days=7)).isoformat()
     for f in sorted(os.listdir(D("feed"))) if os.path.isdir(D("feed")) else []:
         day = f[:10]
@@ -103,6 +107,9 @@ def feed(manifest):
             items.append({"id": i["id"], "time": i.get("time"), "ticker": i.get("ticker"), "kind": "espi" if i.get("kind") == "espi" else ("skrot" if i.get("kind") == "skrot" else "news"),
                           "title": (i.get("company") + ": " if i.get("company") else "") + i["title"], "text": "", "source": {"bossa": "bossa.pl (PAP/ESPI)", "strefainwestorow": "strefainwestorow.pl (PAP)"}.get(i.get("src"), i.get("src")),
                           "url": i.get("url")})
+        for u in US_NEWS.get(day, []):
+            items.append({"id": "us-" + u["id"], "time": u["time"][11:16], "ticker": u["ticker"], "kind": "news", "title": f"{u['ticker']}: {u['title']}",
+                          "text": u.get("summary", ""), "source": {"nasdaq": "Nasdaq.com (RSS)", "yahoo": "Yahoo Finance (RSS)"}.get(u.get("src"), u.get("src")), "url": u["url"]})
         manifest["feed"][day] = jsave(E("feed", day + ".json"), {"date": day, "auto": items, "via": "github-zbieracz"})
 
 
