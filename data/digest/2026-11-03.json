@@ -12,10 +12,10 @@
   "fundusze_drobne": 15,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 58
+  "pozostale": 59
  },
  "duplicatesRemoved": 110,
- "total": 309,
+ "total": 310,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1419,6 +1419,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "20:20",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KERNEL HOLDING S.A.: NOTIFICATION OF MANAGER’S TRANSACTION",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23314",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "20:15",
     "kind": "pap",

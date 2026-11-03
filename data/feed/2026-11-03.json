@@ -1,7 +1,19 @@
 {
  "date": "2026-11-03",
- "count": 309,
+ "count": 310,
  "items": [
+  {
+   "id": "bossa-espi-23314",
+   "date": "2026-11-03",
+   "time": "20:20",
+   "ts": "2026-11-03T20:20:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KERNEL HOLDING S.A.",
+   "title": "NOTIFICATION OF MANAGER’S TRANSACTION",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23314"
+  },
   {
    "id": "bossa-pap-439055",
    "date": "2026-11-03",
