@@ -1,24 +1,24 @@
 {
  "last": {
-  "runAt": "2026-11-03T19:44:58+01:00",
+  "runAt": "2026-11-03T19:57:16+01:00",
   "sources": {
    "bossa": {
     "pages": 2,
-    "new": 3,
+    "new": 0,
     "complete": true,
     "newest": "2026-11-03T19:38:00+01:00",
     "oldestSeen": "2026-11-03T16:42:00+01:00",
     "ok": true,
-    "sec": 5.2
+    "sec": 6.7
    },
    "strefa": {
     "pages": 2,
-    "new": 2,
+    "new": 0,
     "complete": true,
     "newest": "2026-11-03T19:41:01+01:00",
     "oldestSeen": "2026-11-03T09:50:14+01:00",
     "ok": true,
-    "sec": 5.3
+    "sec": 5.5
    },
    "articles": {
     "saved": 0,
@@ -32,14 +32,14 @@
     "oldest": "2025-11-05",
     "newest": "2026-11-02",
     "ok": true,
-    "sec": 3.0
+    "sec": 4.4
    },
    "gpw": {
     "ok": true,
     "items": 20,
     "newest": "03-11-2026 18:37:34",
     "oldestSeen": "03-11-2026 15:58:44",
-    "sec": 13.5
+    "sec": 6.6
    },
    "gpw_archive": {
     "days": 0,
@@ -54,7 +54,7 @@
     "live": 6,
     "errors": [],
     "ok": true,
-    "sec": 40.8
+    "sec": 36.2
    },
    "us_news": {
     "new": 0,
@@ -70,7 +70,7 @@
      "yahoo VRT: <HTTPError 429: 'Too Many Requests'>"
     ],
     "ok": true,
-    "sec": 14.2
+    "sec": 15.1
    },
    "quotes": {
     "ok": true,
@@ -87,13 +87,13 @@
      "2026-11-03",
      4.4233
     ],
-    "sec": 1.4
+    "sec": 1.5
    },
    "insiders": {
     "new": 0,
     "errors": [],
     "ok": true,
-    "sec": 10.6
+    "sec": 5.4
    },
    "conditions": {
     "checked": 0,
@@ -120,7 +120,7 @@
      "20261029_dom_maklerski_banku_ochrony_środowiska_dig_pl_aw.pdf: RemoteDisconnected('Remote end closed connection without response')"
     ],
     "ok": false,
-    "sec": 3.3
+    "sec": 4.0
    },
    "macro": {
     "ok": true,
@@ -132,11 +132,148 @@
     "sent": 0,
     "first": false,
     "commands": [],
-    "sec": 0.4
+    "sec": 0.5
    }
   }
  },
  "runs": [
+  {
+   "runAt": "2026-11-03T19:57:16+01:00",
+   "sources": {
+    "bossa": {
+     "pages": 2,
+     "new": 0,
+     "complete": true,
+     "newest": "2026-11-03T19:38:00+01:00",
+     "oldestSeen": "2026-11-03T16:42:00+01:00",
+     "ok": true,
+     "sec": 6.7
+    },
+    "strefa": {
+     "pages": 2,
+     "new": 0,
+     "complete": true,
+     "newest": "2026-11-03T19:41:01+01:00",
+     "oldestSeen": "2026-11-03T09:50:14+01:00",
+     "ok": true,
+     "sec": 5.5
+    },
+    "articles": {
+     "saved": 0,
+     "ok": true,
+     "sec": 0.0
+    },
+    "recs": {
+     "new": 0,
+     "seen": 294,
+     "total": 286,
+     "oldest": "2025-11-05",
+     "newest": "2026-11-02",
+     "ok": true,
+     "sec": 4.4
+    },
+    "gpw": {
+     "ok": true,
+     "items": 20,
+     "newest": "03-11-2026 18:37:34",
+     "oldestSeen": "03-11-2026 15:58:44",
+     "sec": 6.6
+    },
+    "gpw_archive": {
+     "days": 0,
+     "errors": [],
+     "latest": "2026-11-03",
+     "stored": 262,
+     "ok": true,
+     "sec": 0.0
+    },
+    "nasdaq": {
+     "history": 9,
+     "live": 6,
+     "errors": [],
+     "ok": true,
+     "sec": 36.2
+    },
+    "us_news": {
+     "new": 0,
+     "sources": {
+      "nasdaq": 0
+     },
+     "errors": [
+      "yahoo ASML: <HTTPError 429: 'Too Many Requests'>",
+      "yahoo AVGO: <HTTPError 429: 'Too Many Requests'>",
+      "yahoo MPWR: <HTTPError 429: 'Too Many Requests'>",
+      "yahoo NVDA: <HTTPError 429: 'Too Many Requests'>",
+      "yahoo TSM: <HTTPError 429: 'Too Many Requests'>",
+      "yahoo VRT: <HTTPError 429: 'Too Many Requests'>"
+     ],
+     "ok": true,
+     "sec": 15.1
+    },
+    "quotes": {
+     "ok": true,
+     "tickers": 24,
+     "sec": 0.1
+    },
+    "nbp": {
+     "ok": true,
+     "USD": [
+      "2026-11-03",
+      3.9526
+     ],
+     "EUR": [
+      "2026-11-03",
+      4.4233
+     ],
+     "sec": 1.5
+    },
+    "insiders": {
+     "new": 0,
+     "errors": [],
+     "ok": true,
+     "sec": 5.4
+    },
+    "conditions": {
+     "checked": 0,
+     "met": 0,
+     "ok": true,
+     "sec": 0.0
+    },
+    "fundamentals": {
+     "pl": 0,
+     "us": 0,
+     "errors": [],
+     "ok": true,
+     "sec": 0.0
+    },
+    "calendar": {
+     "errors": [],
+     "ok": true,
+     "sec": 0.0
+    },
+    "pwpa": {
+     "new": 0,
+     "texts": 0,
+     "errors": [
+      "20261029_dom_maklerski_banku_ochrony_środowiska_dig_pl_aw.pdf: RemoteDisconnected('Remote end closed connection without response')"
+     ],
+     "ok": false,
+     "sec": 4.0
+    },
+    "macro": {
+     "ok": true,
+     "skipped": true,
+     "sec": 0.0
+    },
+    "telegram": {
+     "ok": true,
+     "sent": 0,
+     "first": false,
+     "commands": [],
+     "sec": 0.5
+    }
+   }
+  },
   {
    "runAt": "2026-11-03T19:44:58+01:00",
    "sources": {
