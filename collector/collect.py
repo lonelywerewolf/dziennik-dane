@@ -306,7 +306,7 @@ def nasdaq():
     folder = D("history")
     os.makedirs(folder, exist_ok=True)
     live = jload(D("us_live.json"), {"q": {}})
-    items = [(c["ticker"], c["ticker"], "stocks") for c in COMP if c.get("market") == "USA"] + [(k, v, "index") for k, v in CFG.get("us_benchmarks", {}).items()]
+    items = [(c["ticker"], c["ticker"], "stocks") for c in COMP + EXTRA_COMP if c.get("market") == "USA"] + [(k, v, "index") for k, v in CFG.get("us_benchmarks", {}).items()]
     for key, sym, cls in items:
         path = os.path.join(folder, key + ".csv")
         try:
@@ -342,7 +342,7 @@ def nasdaq():
 def build_quotes():
     folder = D("gpw")
     files = sorted(f for f in os.listdir(folder) if f.endswith(".json")) if os.path.isdir(folder) else []
-    gmap = {c["ticker"]: c["gpw"] for c in COMP if c.get("gpw")}
+    gmap = {c["ticker"]: c["gpw"] for c in COMP + EXTRA_COMP if c.get("gpw")}
     gidx = CFG.get("gpw_benchmarks", {})
     series = {k: {} for k in list(gmap) + list(gidx)}
     for f in files:
@@ -368,7 +368,7 @@ def build_quotes():
         v = ser[d_last]
         q[k] = {"date": d_last, "close": v[0], "chg": v[1], "turnoverK": v[2], "ccy": "PLN" if not k.startswith("^") else None, "src": "https://www.gpw.pl/archiwum-notowan"}
     live = jload(D("us_live.json"), {"q": {}})["q"]
-    for c in COMP:
+    for c in COMP + EXTRA_COMP:
         if c.get("market") != "USA":
             continue
         path = D("history", c["ticker"] + ".csv")
@@ -422,7 +422,7 @@ def insiders():
     path = D("insiders_us.json")
     data = jload(path, {"items": []})
     have = {i["id"] for i in data["items"]}
-    for c in COMP:
+    for c in COMP + EXTRA_COMP:
         if c.get("market") != "USA" or not c.get("insiders"):
             continue
         try:
