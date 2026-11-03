@@ -257,6 +257,56 @@ def recs():
             "newest": data["items"][0]["date"] if data["items"] else None, **({"errors": errs} if errs else {})}
 
 
+# ---------------- pełne teksty kluczowych artykułów (dla raportów) ----------------
+ART_RE = re.compile(r"Skrót wiadomości|DZIEŃ NA |TYDZIEŃ NA |Przegląd prasy|Tygodnik PIE|Notowania ciągłe - podsumowanie", re.I)
+
+
+def _article_text(page):
+    for pat in (r'<div[^>]+class="[^"]*field--name-body[^"]*"[^>]*>(.*?)</div>\s*</div>', r'<div[^>]+class="[^"]*field-name-body[^"]*"[^>]*>(.*?)</div>\s*</div>',
+                r"<article[^>]*>(.*?)</article>"):
+        m = re.search(pat, page, re.S)
+        if m and len(text(m.group(1))) > 300:
+            body = m.group(1)
+            break
+    else:
+        return None
+    body = re.sub(r"<(script|style)[^>]*>.*?</\1>", "", body, flags=re.S)
+    body = re.sub(r"</(p|div|li|h\d)>|<br\s*/?>", "\n", body)
+    out = "\n".join(l.strip() for l in html.unescape(re.sub(r"<[^>]+>", "", body)).splitlines())
+    return re.sub(r"\n{3,}", "\n\n", out).strip()
+
+
+def articles():
+    """Zapisuje pełną treść podsumowań PAP (Skrót wiadomości, DZIEŃ NA…, Przegląd prasy) i wiadomości PAP o śledzonych
+    spółkach do data/articles/{dzień}/{id}.txt – raporty nie muszą ich pobierać przez WebFetch."""
+    done, fail = 0, []
+    for day in [(NOW - dt.timedelta(days=k)).date().isoformat() for k in (0, 1)]:
+        for it in feed_day(day)["items"]:
+            url = it.get("url") or ""
+            if "strefainwestorow.pl/wiadomosci/" not in url:
+                continue
+            if not (ART_RE.search(it.get("title", "")) or it.get("ticker")):
+                continue
+            path = D("articles", day, re.sub(r"[^A-Za-z0-9_-]", "_", it["id"])[:80] + ".txt")
+            if os.path.exists(path):
+                continue
+            if done >= 25 or len(fail) >= 8:
+                break
+            try:
+                t = _article_text(get(url))
+            except Exception as e:
+                fail.append(f"{it['id']}: {e!r}"[:120])
+                continue
+            if not t:
+                fail.append(f"{it['id']}: brak treści")
+                continue
+            os.makedirs(os.path.dirname(path), exist_ok=True)
+            with open(path, "w", encoding="utf-8") as f:
+                f.write(f"{it.get('title')}\n{it.get('time')} · {url}\n\n{t}\n")
+            done += 1
+    return {"saved": done, **({"errors": fail[:5], "failed": len(fail)} if fail else {})}
+
+
 # ---------------- GPW (kontrolnie) ----------------
 def gpw():
     s = get("https://www.gpw.pl/komunikaty", headers={"Accept": "text/html", "Referer": "https://www.gpw.pl/"})
@@ -537,7 +587,7 @@ def run(name, fn):
 
 if __name__ == "__main__":
     only = set(sys.argv[1:])
-    jobs = [("bossa", bossa), ("strefa", strefa), ("recs", recs), ("gpw", gpw), ("gpw_archive", gpw_archive), ("nasdaq", nasdaq), ("quotes", build_quotes), ("nbp", nbp), ("insiders", insiders), ("conditions", conditions)]
+    jobs = [("bossa", bossa), ("strefa", strefa), ("articles", articles), ("recs", recs), ("gpw", gpw), ("gpw_archive", gpw_archive), ("nasdaq", nasdaq), ("quotes", build_quotes), ("nbp", nbp), ("insiders", insiders), ("conditions", conditions)]
     try:
         import extra
         jobs += [("fundamentals", extra.fundamentals), ("calendar", extra.calendar), ("pwpa", extra.pwpa), ("macro", extra.macro)]
