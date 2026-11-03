@@ -1,7 +1,30 @@
 {
  "date": "2026-11-03",
- "count": 56,
+ "count": 58,
  "items": [
+  {
+   "id": "bossa-pap-438866",
+   "date": "2026-11-03",
+   "time": "09:30",
+   "ts": "2026-11-03T09:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA FX/FI: Złotemu ciąży wzrost premii za ryzyko polityczne, rentowności obligacji mogą spaść",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438866"
+  },
+  {
+   "id": "strefa-37a8b82dd6d4",
+   "date": "2026-11-03",
+   "time": "09:22",
+   "ts": "2026-11-03T09:22:45+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA FX/FI: Złotemu ciąży wzrost premii za ryzyko polityczne, rentowności obligacji mogą spaść",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261103/dzien-na-fxfi-zlotemu-ciazy-wzrost-premii-za-ryzyko-polityczne-rentownosci"
+  },
   {
    "id": "strefa-1e8c69c48d6a",
    "date": "2026-11-03",
