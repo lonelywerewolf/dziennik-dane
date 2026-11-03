@@ -2,7 +2,7 @@
  "date": "2026-11-03",
  "counts": {
   "podsumowania": 17,
-  "wyniki": 21,
+  "wyniki": 22,
   "rekomendacje": 0,
   "korporacyjne": 53,
   "makro_pl": 12,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 53
  },
- "duplicatesRemoved": 90,
- "total": 278,
+ "duplicatesRemoved": 91,
+ "total": 280,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -178,6 +178,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "18:36",
+    "kind": "news",
+    "ticker": null,
+    "title": "Passus miał w I-III kw. 8,9 mln zł zysku EBITDA bez kosztów programu motywacyjnego",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/passus-mial-w-i-iii-kw-89-mln-zl-zysku-ebitda-bez-kosztow-programu",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "18:34",
     "kind": "news",

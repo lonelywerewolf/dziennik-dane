@@ -1,7 +1,19 @@
 {
  "date": "2026-11-03",
- "count": 278,
+ "count": 280,
  "items": [
+  {
+   "id": "bossa-pap-439037",
+   "date": "2026-11-03",
+   "time": "18:50",
+   "ts": "2026-11-03T18:50:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Passus miał w I-III kw. 8,9 mln zł zysku EBITDA bez kosztów programu motywacyjnego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439037"
+  },
   {
    "id": "bossa-espi-23309",
    "date": "2026-11-03",
@@ -13,6 +25,17 @@
    "title": "Informacja o zdarzeniu mającym wpływ na sytuację finansową IDMSA. Istotna wartość wynagrodzenia należnego Spółce.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23309"
+  },
+  {
+   "id": "strefa-7b5dc09bca99",
+   "date": "2026-11-03",
+   "time": "18:36",
+   "ts": "2026-11-03T18:36:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Passus miał w I-III kw. 8,9 mln zł zysku EBITDA bez kosztów programu motywacyjnego",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261103/passus-mial-w-i-iii-kw-89-mln-zl-zysku-ebitda-bez-kosztow-programu"
   },
   {
    "id": "bossa-pap-439035",

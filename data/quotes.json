@@ -1,131 +1,131 @@
 {
- "updatedAt": "2026-11-03T18:43:20+01:00",
+ "updatedAt": "2026-11-03T18:55:51+01:00",
  "q": {
   "ASB": {
-   "date": "2026-11-02",
-   "close": 157.2,
-   "chg": -1.75,
-   "turnoverK": 37558.23,
+   "date": "2026-11-03",
+   "close": 157.0,
+   "chg": -0.13,
+   "turnoverK": 40357.63,
    "ccy": "PLN",
    "src": "https://www.gpw.pl/archiwum-notowan"
   },
   "CBF": {
-   "date": "2026-11-02",
-   "close": 186.7,
-   "chg": -1.22,
-   "turnoverK": 5278.86,
+   "date": "2026-11-03",
+   "close": 189.0,
+   "chg": 1.23,
+   "turnoverK": 7522.1,
    "ccy": "PLN",
    "src": "https://www.gpw.pl/archiwum-notowan"
   },
   "DIG": {
-   "date": "2026-11-02",
-   "close": 286.0,
-   "chg": -3.44,
-   "turnoverK": 13239.7,
+   "date": "2026-11-03",
+   "close": 300.0,
+   "chg": 4.9,
+   "turnoverK": 6261.78,
    "ccy": "PLN",
    "src": "https://www.gpw.pl/archiwum-notowan"
   },
   "SNT": {
-   "date": "2026-11-02",
-   "close": 313.6,
-   "chg": -4.1,
-   "turnoverK": 20452.62,
+   "date": "2026-11-03",
+   "close": 322.4,
+   "chg": 2.81,
+   "turnoverK": 11036.46,
    "ccy": "PLN",
    "src": "https://www.gpw.pl/archiwum-notowan"
   },
   "VRC": {
-   "date": "2026-11-02",
-   "close": 119.0,
-   "chg": 0.17,
-   "turnoverK": 1736.81,
+   "date": "2026-11-03",
+   "close": 117.8,
+   "chg": -1.01,
+   "turnoverK": 2018.59,
    "ccy": "PLN",
    "src": "https://www.gpw.pl/archiwum-notowan"
   },
   "XTB": {
-   "date": "2026-11-02",
-   "close": 131.02,
-   "chg": -6.24,
-   "turnoverK": 152893.24,
+   "date": "2026-11-03",
+   "close": 129.98,
+   "chg": -0.79,
+   "turnoverK": 100281.82,
    "ccy": "PLN",
    "src": "https://www.gpw.pl/archiwum-notowan"
   },
   "^WIG": {
-   "date": "2026-11-02",
-   "close": 156383.04,
-   "chg": -0.82,
-   "turnoverK": 2808283.18,
+   "date": "2026-11-03",
+   "close": 155849.82,
+   "chg": -0.34,
+   "turnoverK": 2469345.44,
    "ccy": null,
    "src": "https://www.gpw.pl/archiwum-notowan"
   },
   "^WIG20": {
-   "date": "2026-11-02",
-   "close": 4152.65,
-   "chg": -0.68,
-   "turnoverK": 2185550.48,
+   "date": "2026-11-03",
+   "close": 4138.6,
+   "chg": -0.34,
+   "turnoverK": 1988926.09,
    "ccy": null,
    "src": "https://www.gpw.pl/archiwum-notowan"
   },
   "^MWIG40": {
-   "date": "2026-11-02",
-   "close": 10521.99,
-   "chg": -1.45,
-   "turnoverK": 531231.44,
+   "date": "2026-11-03",
+   "close": 10486.72,
+   "chg": -0.34,
+   "turnoverK": 404188.62,
    "ccy": null,
    "src": "https://www.gpw.pl/archiwum-notowan"
   },
   "^SWIG80": {
-   "date": "2026-11-02",
-   "close": 29326.88,
-   "chg": -0.95,
-   "turnoverK": 66376.93,
+   "date": "2026-11-03",
+   "close": 29346.54,
+   "chg": 0.07,
+   "turnoverK": 52802.98,
    "ccy": null,
    "src": "https://www.gpw.pl/archiwum-notowan"
   },
   "^WIG-INFO": {
-   "date": "2026-11-02",
-   "close": 11625.92,
-   "chg": 1.0,
-   "turnoverK": 53977.12,
+   "date": "2026-11-03",
+   "close": 11317.73,
+   "chg": -2.65,
+   "turnoverK": 51510.42,
    "ccy": null,
    "src": "https://www.gpw.pl/archiwum-notowan"
   },
   "^WIG-BUDOW": {
-   "date": "2026-11-02",
-   "close": 10187.59,
-   "chg": -0.04,
-   "turnoverK": 33666.55,
+   "date": "2026-11-03",
+   "close": 10371.06,
+   "chg": 1.8,
+   "turnoverK": 29928.82,
    "ccy": null,
    "src": "https://www.gpw.pl/archiwum-notowan"
   },
   "^WIG-GRY": {
-   "date": "2026-11-02",
-   "close": 21769.28,
-   "chg": 0.07,
-   "turnoverK": 89255.76,
+   "date": "2026-11-03",
+   "close": 21659.63,
+   "chg": -0.5,
+   "turnoverK": 57262.79,
    "ccy": null,
    "src": "https://www.gpw.pl/archiwum-notowan"
   },
   "^WIG-BANKI": {
-   "date": "2026-11-02",
-   "close": 26793.09,
-   "chg": -1.91,
-   "turnoverK": 893997.43,
+   "date": "2026-11-03",
+   "close": 27133.15,
+   "chg": 1.27,
+   "turnoverK": 657029.92,
    "ccy": null,
    "src": "https://www.gpw.pl/archiwum-notowan"
   },
   "^WIGTECHTR": {
-   "date": "2026-11-02",
-   "close": 20791.65,
-   "chg": -0.6,
-   "turnoverK": 263158.34,
+   "date": "2026-11-03",
+   "close": 20703.98,
+   "chg": -0.42,
+   "turnoverK": 172842.89,
    "ccy": null,
    "src": "https://www.gpw.pl/archiwum-notowan"
   },
   "^WIGIND": {
-   "date": "2026-11-02",
-   "close": 18974.64,
-   "chg": -1.09,
-   "turnoverK": 39577.25,
+   "date": "2026-11-03",
+   "close": 18921.56,
+   "chg": -0.28,
+   "turnoverK": 35894.22,
    "ccy": null,
    "src": "https://www.gpw.pl/archiwum-notowan"
   },
@@ -136,9 +136,9 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/asml",
    "chg": -2.54,
    "live": {
-    "price": 1558.412,
-    "chgPct": 2.11,
-    "at": "Nov 3, 2026 12:44 PM ET",
+    "price": 1561.71,
+    "chgPct": 2.33,
+    "at": "Nov 3, 2026 12:57 PM ET",
     "src": "https://www.nasdaq.com/market-activity/stocks/asml"
    }
   },
@@ -149,9 +149,9 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/avgo",
    "chg": -1.18,
    "live": {
-    "price": 333.14,
-    "chgPct": 3.39,
-    "at": "Nov 3, 2026 12:44 PM ET",
+    "price": 332.72,
+    "chgPct": 3.26,
+    "at": "Nov 3, 2026 12:57 PM ET",
     "src": "https://www.nasdaq.com/market-activity/stocks/avgo"
    }
   },
@@ -162,9 +162,9 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/mpwr",
    "chg": 2.67,
    "live": {
-    "price": 1343.94,
-    "chgPct": 8.04,
-    "at": "Nov 3, 2026 12:44 PM ET",
+    "price": 1341.04,
+    "chgPct": 7.8,
+    "at": "Nov 3, 2026 12:57 PM ET",
     "src": "https://www.nasdaq.com/market-activity/stocks/mpwr"
    }
   },
@@ -175,9 +175,9 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/nvda",
    "chg": -1.26,
    "live": {
-    "price": 208.23,
-    "chgPct": 3.05,
-    "at": "Nov 3, 2026 12:44 PM ET",
+    "price": 208.33,
+    "chgPct": 3.1,
+    "at": "Nov 3, 2026 12:57 PM ET",
     "src": "https://www.nasdaq.com/market-activity/stocks/nvda"
    }
   },
@@ -188,9 +188,9 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/tsm",
    "chg": -1.85,
    "live": {
-    "price": 405.56,
-    "chgPct": 1.74,
-    "at": "Nov 3, 2026 12:44 PM ET",
+    "price": 406.31,
+    "chgPct": 1.93,
+    "at": "Nov 3, 2026 12:57 PM ET",
     "src": "https://www.nasdaq.com/market-activity/stocks/tsm"
    }
   },
@@ -201,9 +201,9 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/vrt",
    "chg": -3.55,
    "live": {
-    "price": 236.125,
-    "chgPct": 5.3,
-    "at": "Nov 3, 2026 12:44 PM ET",
+    "price": 235.8,
+    "chgPct": 5.16,
+    "at": "Nov 3, 2026 12:57 PM ET",
     "src": "https://www.nasdaq.com/market-activity/stocks/vrt"
    }
   },
