@@ -1,7 +1,42 @@
 {
  "date": "2026-11-03",
- "count": 84,
+ "count": 87,
  "items": [
+  {
+   "id": "bossa-pap-438886",
+   "date": "2026-11-03",
+   "time": "10:58",
+   "ts": "2026-11-03T10:58:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Rynek nieruchomości komercyjnych CEE pod większym wpływem transformacji niż nowej podaży - Colliers",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438886"
+  },
+  {
+   "id": "bossa-pap-438885",
+   "date": "2026-11-03",
+   "time": "10:56",
+   "ts": "2026-11-03T10:56:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Konsorcjum Mirbudu ma umowę z GDDKiA o wartości 571,3 mln zł brutto",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438885"
+  },
+  {
+   "id": "strefa-25d89d1d9204",
+   "date": "2026-11-03",
+   "time": "10:53",
+   "ts": "2026-11-03T10:53:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Konsorcjum Mirbudu ma umowę z GDDKiA o wartości 571,3 mln zł brutto",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261103/konsorcjum-mirbudu-ma-umowe-z-gddkia-o-wartosci-5713-mln-zl-brutto"
+  },
   {
    "id": "bossa-pap-438884",
    "date": "2026-11-03",

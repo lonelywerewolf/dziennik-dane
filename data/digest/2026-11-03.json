@@ -4,18 +4,18 @@
   "podsumowania": 9,
   "wyniki": 4,
   "rekomendacje": 0,
-  "korporacyjne": 13,
+  "korporacyjne": 14,
   "makro_pl": 6,
   "swiat_rynki": 4,
   "energetyka_surowce": 1,
-  "nieruchomosci": 0,
+  "nieruchomosci": 1,
   "fundusze_drobne": 4,
   "twoje_spolki": 2,
   "obserwowane": 0,
   "pozostale": 18
  },
- "duplicatesRemoved": 23,
- "total": 84,
+ "duplicatesRemoved": 24,
+ "total": 87,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -143,6 +143,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "10:53",
+    "kind": "news",
+    "ticker": null,
+    "title": "Konsorcjum Mirbudu ma umowę z GDDKiA o wartości 571,3 mln zł brutto",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/konsorcjum-mirbudu-ma-umowe-z-gddkia-o-wartosci-5713-mln-zl-brutto",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "10:46",
     "kind": "espi",
@@ -388,7 +399,17 @@
     "flags": []
    }
   ],
-  "nieruchomosci": [],
+  "nieruchomosci": [
+   {
+    "time": "10:58",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Rynek nieruchomości komercyjnych CEE pod większym wpływem transformacji niż nowej podaży - Colliers",
+    "url": "https://bossa.pl/analizy/komunikaty#message-438886",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "fundusze_drobne": [
    {
     "time": "10:27",
