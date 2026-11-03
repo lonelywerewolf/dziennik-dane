@@ -2,20 +2,20 @@
  "date": "2026-11-03",
  "counts": {
   "podsumowania": 10,
-  "wyniki": 4,
+  "wyniki": 5,
   "rekomendacje": 0,
-  "korporacyjne": 17,
+  "korporacyjne": 18,
   "makro_pl": 7,
   "swiat_rynki": 5,
-  "energetyka_surowce": 1,
+  "energetyka_surowce": 2,
   "nieruchomosci": 1,
   "fundusze_drobne": 4,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 23
+  "pozostale": 24
  },
- "duplicatesRemoved": 30,
- "total": 104,
+ "duplicatesRemoved": 33,
+ "total": 111,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -112,6 +112,15 @@
   ],
   "wyniki": [
    {
+    "time": "12:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "MFO szacuje zysk netto za trzy kwartały 2026 r. na 11,5 mln zł, tj. 4,41 proc. więcej rdr",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/mfo-szacuje-zysk-netto-za-trzy-kwartaly-2026-r-na-115-mln-zl-tj-441-proc-wiecej",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "09:45",
     "kind": "pap",
     "ticker": null,
@@ -152,6 +161,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "12:21",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PGE POLSKA GRUPA ENERGETYCZNA S.A.: Informacja o transakcjach w trybie art. 19 Rozporządzenia MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23232",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
    {
     "time": "12:03",
     "kind": "espi",
@@ -450,6 +470,15 @@
   ],
   "energetyka_surowce": [
    {
+    "time": "12:18",
+    "kind": "news",
+    "ticker": null,
+    "title": "Nowe maksymalne ceny paliw na stacjach. Minister wskazał stawki dla benzyny i diesla",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/nowe-maksymalne-ceny-paliw-na-stacjach-minister-wskazal-stawki-dla-benzyny-i",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "08:59",
     "kind": "news",
     "ticker": null,
@@ -472,12 +501,12 @@
   ],
   "fundusze_drobne": [
    {
-    "time": "10:27",
-    "kind": "pap",
+    "time": "12:19",
+    "kind": "news",
     "ticker": null,
     "title": "Dla sukcesu OKI niezbędna będzie atrakcyjna i zrozumiała oferta – Drop, MF",
-    "url": "https://bossa.pl/analizy/komunikaty#message-438876",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/dla-sukcesu-oki-niezbedna-bedzie-atrakcyjna-i-zrozumiala-oferta-drop-mf",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -531,6 +560,24 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "12:23",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Wildlands Interactive SA: Ustalenie daty premiery gry „Space Mechanic Simulator” na konsolę Xbox Series X|S",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23233",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:18",
+    "kind": "news",
+    "ticker": null,
+    "title": "Cena maksymalna dla benzyny Pb95 wyniesie w środę 6,37 zł/l, a dla ON 8,05 zł/l",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/cena-maksymalna-dla-benzyny-pb95-wyniesie-w-srode-637-zll-dla-805-zll",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "12:02",
     "kind": "espi",
     "ticker": null,
@@ -554,15 +601,6 @@
     "ticker": null,
     "title": "Zestawienie publikowanych w ostatnim czasie cen wybranych towarów (tabela)",
     "url": "https://bossa.pl/analizy/komunikaty#message-438894",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "11:44",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Cena maksymalna dla benzyny Pb95 wyniesie w środę 6,37 zł/l, a dla ON 8,05 zł/l",
-    "url": "https://bossa.pl/analizy/komunikaty#message-438892",
     "src": "bossa",
     "flags": []
    },

@@ -1,7 +1,76 @@
 {
  "date": "2026-11-03",
- "count": 104,
+ "count": 111,
  "items": [
+  {
+   "id": "bossa-espi-23233",
+   "date": "2026-11-03",
+   "time": "12:23",
+   "ts": "2026-11-03T12:23:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Wildlands Interactive SA",
+   "title": "Ustalenie daty premiery gry „Space Mechanic Simulator” na konsolę Xbox Series X|S",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23233"
+  },
+  {
+   "id": "bossa-espi-23232",
+   "date": "2026-11-03",
+   "time": "12:21",
+   "ts": "2026-11-03T12:21:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PGE POLSKA GRUPA ENERGETYCZNA S.A.",
+   "title": "Informacja o transakcjach w trybie art. 19 Rozporządzenia MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23232"
+  },
+  {
+   "id": "strefa-59d18dd352f3",
+   "date": "2026-11-03",
+   "time": "12:19",
+   "ts": "2026-11-03T12:19:13+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Dla sukcesu OKI niezbędna będzie atrakcyjna i zrozumiała oferta – Drop, MF",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261103/dla-sukcesu-oki-niezbedna-bedzie-atrakcyjna-i-zrozumiala-oferta-drop-mf"
+  },
+  {
+   "id": "strefa-813e2558fa61",
+   "date": "2026-11-03",
+   "time": "12:18",
+   "ts": "2026-11-03T12:18:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Cena maksymalna dla benzyny Pb95 wyniesie w środę 6,37 zł/l, a dla ON 8,05 zł/l",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261103/cena-maksymalna-dla-benzyny-pb95-wyniesie-w-srode-637-zll-dla-805-zll"
+  },
+  {
+   "id": "strefa-3289134ec3be",
+   "date": "2026-11-03",
+   "time": "12:18",
+   "ts": "2026-11-03T12:18:25+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Nowe maksymalne ceny paliw na stacjach. Minister wskazał stawki dla benzyny i diesla",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261103/nowe-maksymalne-ceny-paliw-na-stacjach-minister-wskazal-stawki-dla-benzyny-i"
+  },
+  {
+   "id": "bossa-pap-438898",
+   "date": "2026-11-03",
+   "time": "12:17",
+   "ts": "2026-11-03T12:17:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MFO szacuje zysk netto za trzy kwartały 2026 r. na 11,5 mln zł, tj. 4,41 proc. więcej rdr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438898"
+  },
   {
    "id": "bossa-espi-23231",
    "date": "2026-11-03",
@@ -13,6 +82,17 @@
    "title": "Realizacja umowy z Apple oraz premiera pierwszej aplikacji MobileFabric S.A. - spółki zależnej SimFabric S.A. - w sklepie App Store, przeznaczonej na nowe urządzenie iPhone Duo",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23231"
+  },
+  {
+   "id": "strefa-a5f8219c3465",
+   "date": "2026-11-03",
+   "time": "12:02",
+   "ts": "2026-11-03T12:02:07+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "MFO szacuje zysk netto za trzy kwartały 2026 r. na 11,5 mln zł, tj. 4,41 proc. więcej rdr",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261103/mfo-szacuje-zysk-netto-za-trzy-kwartaly-2026-r-na-115-mln-zl-tj-441-proc-wiecej"
   },
   {
    "id": "bossa-espi-23230",
