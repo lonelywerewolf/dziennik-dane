@@ -1,7 +1,7 @@
 {
  "date": "2026-11-03",
  "counts": {
-  "podsumowania": 9,
+  "podsumowania": 10,
   "wyniki": 4,
   "rekomendacje": 0,
   "korporacyjne": 14,
@@ -14,11 +14,20 @@
   "obserwowane": 0,
   "pozostale": 19
  },
- "duplicatesRemoved": 26,
- "total": 90,
+ "duplicatesRemoved": 27,
+ "total": 92,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "11:11",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: WIG20 i WIG spadają do poziomów sprzed miesiąca; KGHM zniżkuje o 4,2 proc.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/dzien-na-gpw-wig20-i-wig-spadaja-do-poziomow-sprzed-miesiaca-kghm-znizkuje-o-42",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:31",
     "kind": "news",
