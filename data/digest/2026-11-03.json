@@ -4,7 +4,7 @@
   "podsumowania": 18,
   "wyniki": 22,
   "rekomendacje": 0,
-  "korporacyjne": 58,
+  "korporacyjne": 59,
   "makro_pl": 12,
   "swiat_rynki": 14,
   "energetyka_surowce": 2,
@@ -15,7 +15,7 @@
   "pozostale": 60
  },
  "duplicatesRemoved": 118,
- "total": 322,
+ "total": 323,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -405,6 +405,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "22:20",
+    "kind": "espi",
+    "ticker": null,
+    "title": "COSMA S.A.: Trzy zawiadomienia w trybie art. 19 ust. 1 rozporządzenia MAR dotyczące tej samej transakcji",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23320",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
    {
     "time": "22:01",
     "kind": "pap",
