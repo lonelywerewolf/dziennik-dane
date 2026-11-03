@@ -1,7 +1,19 @@
 {
  "date": "2026-11-03",
- "count": 323,
+ "count": 324,
  "items": [
+  {
+   "id": "bossa-espi-23321",
+   "date": "2026-11-03",
+   "time": "23:21",
+   "ts": "2026-11-03T23:21:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "TENDERHUT S.A.",
+   "title": "Rezygnacja Członka Rady Nadzorczej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23321"
+  },
   {
    "id": "bossa-espi-23320",
    "date": "2026-11-03",

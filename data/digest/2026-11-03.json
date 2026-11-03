@@ -12,10 +12,10 @@
   "fundusze_drobne": 15,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 60
+  "pozostale": 61
  },
  "duplicatesRemoved": 118,
- "total": 323,
+ "total": 324,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1459,6 +1459,17 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "23:21",
+    "kind": "espi",
+    "ticker": null,
+    "title": "TENDERHUT S.A.: Rezygnacja Członka Rady Nadzorczej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23321",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "22:06",
     "kind": "pap",
