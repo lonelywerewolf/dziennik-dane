@@ -9,13 +9,13 @@
   "swiat_rynki": 1,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
-  "fundusze_drobne": 2,
-  "twoje_spolki": 1,
+  "fundusze_drobne": 3,
+  "twoje_spolki": 2,
   "obserwowane": 0,
   "pozostale": 10
  },
- "duplicatesRemoved": 11,
- "total": 38,
+ "duplicatesRemoved": 12,
+ "total": 41,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -166,6 +166,15 @@
   "nieruchomosci": [],
   "fundusze_drobne": [
    {
+    "time": "08:25",
+    "kind": "news",
+    "ticker": null,
+    "title": "4Mass zaprasza do składania ofert sprzedaży nie więcej niż 1,5 mln akcji po 7,5 zł/szt.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/4mass-zaprasza-do-skladania-ofert-sprzedazy-nie-wiecej-niz-15-mln-akcji-po-75",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "08:19",
     "kind": "espi",
     "ticker": null,
@@ -185,6 +194,15 @@
    }
   ],
   "twoje_spolki": [
+   {
+    "time": "08:28",
+    "kind": "news",
+    "ticker": "CBF",
+    "title": "Emil Popławski dołącza do cyber_Folks. Jeden z najwyżej cenionych analityków giełdowych w Polsce wzmacnia Grupę jako Head of M&A",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/emil-poplawski-dolacza-do-cyberfolks-jeden-z-najwyzej-cenionych-analitykow",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:08",
     "kind": "news",

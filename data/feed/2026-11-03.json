@@ -1,7 +1,41 @@
 {
  "date": "2026-11-03",
- "count": 38,
+ "count": 41,
  "items": [
+  {
+   "id": "strefa-a708a227902d",
+   "date": "2026-11-03",
+   "time": "08:28",
+   "ts": "2026-11-03T08:28:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Emil Popławski dołącza do cyber_Folks. Jeden z najwyżej cenionych analityków giełdowych w Polsce wzmacnia Grupę jako Head of M&A",
+   "ticker": "CBF",
+   "url": "https://strefainwestorow.pl/wiadomosci/20261103/emil-poplawski-dolacza-do-cyberfolks-jeden-z-najwyzej-cenionych-analitykow"
+  },
+  {
+   "id": "bossa-pap-438860",
+   "date": "2026-11-03",
+   "time": "08:26",
+   "ts": "2026-11-03T08:26:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "4Mass zaprasza do składania ofert sprzedaży nie więcej niż 1,5 mln akcji po 7,5 zł/szt.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438860"
+  },
+  {
+   "id": "strefa-bca947d01978",
+   "date": "2026-11-03",
+   "time": "08:25",
+   "ts": "2026-11-03T08:25:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "4Mass zaprasza do składania ofert sprzedaży nie więcej niż 1,5 mln akcji po 7,5 zł/szt.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261103/4mass-zaprasza-do-skladania-ofert-sprzedazy-nie-wiecej-niz-15-mln-akcji-po-75"
+  },
   {
    "id": "bossa-pap-438859",
    "date": "2026-11-03",
