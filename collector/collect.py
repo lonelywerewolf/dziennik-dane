@@ -188,35 +188,73 @@ def strefa():
 
 
 # ---------------- rekomendacje ----------------
-def recs():
-    s = get("https://strefainwestorow.pl/rekomendacje")
+def _num(v):
+    if v is None:
+        return None
+    v = re.sub(r"[^0-9,.\-]", "", str(v)).replace(",", ".")
+    try:
+        return str(float(v)) if v not in ("", ".", "-") else None
+    except ValueError:
+        return None
+
+
+def _recs_page(url):
+    s = get(url)
     tb = s[s.find("<tbody"): s.find("</tbody>")]
-    path = D("recs.json")
-    data = jload(path, {"items": []})
-    have = {(i["date"], i["company"], i["house"], i["rating"]) for i in data["items"]}
-    new = 0
+    out = []
     for row in re.findall(r"<tr[^>]*>(.*?)</tr>", tb, re.S):
         cells = re.findall(r"<td([^>]*)>(.*?)</td>", row, re.S)
         if len(cells) < 8:
             continue
         g = lambda i: text(cells[i][1])
-        raw = lambda i: (re.search(r'raw="([^"]*)"', cells[i][0]) or [None, None])[1]
+        raw = lambda i: (re.search(r'raw="([^"]*)"', cells[i][0]) or [None, None])[1] or _num(g(i))
         tsm = re.search(r'timestamp="(\d+)"', cells[7][0])
-        date = dt.datetime.fromtimestamp(int(tsm.group(1)), WAW).date().isoformat() if tsm else g(7)
+        if tsm:
+            date = dt.datetime.fromtimestamp(int(tsm.group(1)), WAW).date().isoformat()
+        else:
+            m = re.search(r"(\d\d)-(\d\d)-(\d{4})", g(7))
+            date = f"{m.group(3)}-{m.group(2)}-{m.group(1)}" if m else g(7)
         rep = re.search(r'href="([^"]+)"', cells[8][1]) if len(cells) > 8 else None
-        it = {"date": date, "company": g(0), "rating": g(1), "price": raw(2), "target": raw(3), "upside": raw(4), "priceAtPub": raw(5), "house": g(6),
-              "report": rep and urllib.parse.urljoin("https://strefainwestorow.pl", html.unescape(rep.group(1))), "ticker": match_ticker(g(0))}
-        key = (it["date"], it["company"], it["house"], it["rating"])
-        if key in have:
+        isin = re.search(r"/notowania/spolki/([A-Z]{2}[A-Z0-9]{10})", cells[0][1])
+        comp = g(0)
+        code = re.search(r"\(([A-Z0-9]{2,6})\)\s*$", comp)
+        out.append({"date": date, "company": comp, "code": code and code.group(1), "name": re.sub(r"\s*\([^)]*\)\s*$", "", comp),
+                    "isin": isin and isin.group(1), "rating": g(1), "price": raw(2), "target": raw(3), "upside": raw(4), "priceAtPub": raw(5), "house": g(6),
+                    "report": rep and urllib.parse.urljoin("https://strefainwestorow.pl", html.unescape(rep.group(1))), "ticker": match_ticker(comp)})
+    return out
+
+
+def recs():
+    """Rekomendacje DM: najnowsze + pełna lista z 12 miesięcy (strefainwestorow). Historia rośnie w data/recs.json."""
+    path = D("recs.json")
+    data = jload(path, {"items": []})
+    have = {(i["date"], i["company"], i["house"], i["rating"]): i for i in data["items"]}
+    new, seen, errs = 0, 0, []
+    for url in ("https://strefainwestorow.pl/rekomendacje", "https://strefainwestorow.pl/rekomendacje/lista-rekomendacji/wszystkie"):
+        try:
+            rows = _recs_page(url)
+        except Exception as e:
+            errs.append(f"{url}: {e!r}")
             continue
-        have.add(key)
-        data["items"].append(it)
-        new += 1
+        seen += len(rows)
+        for it in rows:
+            key = (it["date"], it["company"], it["house"], it["rating"])
+            if key in have:
+                old = have[key]
+                for k in ("code", "name", "isin", "report"):
+                    if it.get(k) and not old.get(k):
+                        old[k] = it[k]
+                old["ticker"] = it["ticker"] or old.get("ticker")
+                continue
+            have[key] = it
+            data["items"].append(it)
+            new += 1
     data["items"].sort(key=lambda i: i["date"], reverse=True)
-    data["items"] = data["items"][:1500]
+    data["items"] = data["items"][:8000]
     data["updatedAt"] = NOW.isoformat(timespec="seconds")
     jsave(path, data)
-    return {"new": new, "newest": data["items"][0]["date"] if data["items"] else None}
+    return {"new": new, "seen": seen, "total": len(data["items"]), "oldest": data["items"][-1]["date"] if data["items"] else None,
+            "newest": data["items"][0]["date"] if data["items"] else None, **({"errors": errs} if errs else {})}
 
 
 # ---------------- GPW (kontrolnie) ----------------

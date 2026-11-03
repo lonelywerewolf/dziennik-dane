@@ -13,7 +13,7 @@ import datetime as dt, json, os, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 EXP = os.path.join(ROOT, "data", "export")
 OUT = "/tmp/dziennik-sync"
-COLL = {"prices": "prices", "feed": "feed", "holders": "holders", "recs": "recs", "events": "events"}
+COLL = {"prices": "prices", "feed": "feed", "holders": "holders", "recs": "recs", "recsall": "recsall", "events": "events"}
 MERGE = {"feed", "holders", "recs"}          # pola 'auto' dopisywane przez update, własne pozycje zadań zostają
 
 

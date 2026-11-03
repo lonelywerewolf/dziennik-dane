@@ -5,6 +5,7 @@ Tworzy data/export/:
   feed/{YYYY-MM-DD}.json    – pozycje w formacie feed panelu (ostatnie 7 dni)
   holders/{TICKER}.json     – transakcje insiderów USA w formacie holders panelu
   recs/{TICKER}.json        – rekomendacje dla spółek z watchlisty w formacie recs panelu
+  recsall/{YYYY-MM}.json    – WSZYSTKIE rekomendacje DM z miesiąca + porównanie z poprzednią tego samego domu
   gpw_last.json             – ostatnie zamknięcia WSZYSTKICH spółek GPW (do warunków dla obserwowanych)
   manifest.json             – sumy kontrolne plików, żeby zadania kopiowały tylko zmiany
 """
@@ -120,20 +121,64 @@ def holders(manifest):
         manifest["holders"][t] = jsave(E("holders", t + ".json"), {"ticker": t, "auto": items[:150], "via": "github-zbieracz"})
 
 
+def _f(v):
+    try:
+        return float(v) if v not in (None, "") else None
+    except (TypeError, ValueError):
+        return None
+
+
+def _rec_rows():
+    """Rekomendacje z porównaniem do poprzedniej rekomendacji TEGO SAMEGO domu dla tej samej spółki."""
+    items = jload(D("recs.json"), {"items": []})["items"]
+    last = jload(D("export", "gpw_last.json"), {}) or {}
+    stocks, ldate = last.get("stocks", {}), last.get("date")
+    rows = []
+    for i in sorted(items, key=lambda x: x["date"]):
+        rows.append(i)
+    prev_by = {}
+    out = []
+    for i in rows:
+        comp = i.get("code") or i["company"]
+        k = (comp, i["house"])
+        p = prev_by.get(k)
+        tgt, at = _f(i.get("target")), _f(i.get("priceAtPub"))
+        name = i.get("name") or re.sub(r"\s*\([^)]*\)\s*$", "", i["company"])
+        cur = stocks.get(name)
+        r = {"date": i["date"], "company": name, "code": i.get("code"), "isin": i.get("isin"), "ticker": i.get("ticker"), "house": i["house"], "rating": i["rating"],
+             "target": tgt, "priceAtPub": at, "upsideAtPub": round((tgt / at - 1) * 100, 1) if tgt and at else None,
+             "url": i.get("report") or "https://strefainwestorow.pl/rekomendacje/lista-rekomendacji/wszystkie"}
+        if cur:
+            r["priceNow"], r["priceNowDate"] = cur[0], ldate
+            if tgt:
+                r["upsideNow"] = round((tgt / cur[0] - 1) * 100, 1)
+            if at:
+                r["sincePub"] = round((cur[0] / at - 1) * 100, 1)
+        if p:
+            r["prev"] = {"date": p["date"], "rating": p["rating"], "target": p["target"]}
+            if tgt and p["target"]:
+                r["targetChg"] = round((tgt / p["target"] - 1) * 100, 1)
+        prev_by[k] = r
+        out.append(r)
+    return out
+
+
 def recs(manifest):
-    data = jload(D("recs.json"), {"items": []})
-    by = {}
-    for i in data["items"]:
-        if not i.get("ticker"):
-            continue
-        try:
-            target = float(i["target"]) if i.get("target") else None
-        except ValueError:
-            target = None
-        by.setdefault(i["ticker"], []).append({"date": i["date"], "house": i["house"], "rating": i["rating"], "target": target, "currency": "PLN",
-                                               "url": i.get("report") or "https://strefainwestorow.pl/rekomendacje", "source": "strefainwestorow.pl"})
+    rows = _rec_rows()
+    by, months = {}, {}
+    for r in rows:
+        months.setdefault(r["date"][:7], []).append(r)
+        if r.get("ticker"):
+            by.setdefault(r["ticker"], []).append({"date": r["date"], "house": r["house"], "rating": r["rating"], "target": r["target"], "currency": "PLN",
+                                                   "prev": r.get("prev"), "targetChg": r.get("targetChg"), "upsideNow": r.get("upsideNow"),
+                                                   "url": r["url"], "source": "strefainwestorow.pl"})
     for t, items in by.items():
+        items.sort(key=lambda x: x["date"], reverse=True)
         manifest["recs"][t] = jsave(E("recs", t + ".json"), {"ticker": t, "auto": items, "via": "github-zbieracz"})
+    for m, items in months.items():
+        items.sort(key=lambda x: x["date"], reverse=True)
+        manifest["recsall"][m] = jsave(E("recsall", m + ".json"), {"month": m, "auto": items, "n": len(items), "via": "github-zbieracz",
+                                                                   "src": "https://strefainwestorow.pl/rekomendacje/lista-rekomendacji/wszystkie"})
 
 
 def events(manifest):
@@ -170,8 +215,8 @@ def gpw_last(manifest):
 
 
 if __name__ == "__main__":
-    m = {"generatedAt": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"), "prices": {}, "feed": {}, "holders": {}, "recs": {}, "events": {}}
-    for fn in (prices, feed, holders, recs, events, gpw_last):
+    m = {"generatedAt": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"), "prices": {}, "feed": {}, "holders": {}, "recs": {}, "recsall": {}, "events": {}}
+    for fn in (prices, feed, holders, gpw_last, recs, events):
         try:
             fn(m)
         except Exception as e:

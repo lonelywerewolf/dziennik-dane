@@ -80,12 +80,22 @@ def run():
             if not first:
                 tgt = f", cena docelowa ~{it['targetGuess']:g} zł" if it.get("targetGuess") else ""
                 msgs.append(f"📑 <b>{esc(it['ticker'])}</b> · raport GPW PWPA ({esc(it.get('type'))}{tgt})\n{esc(it.get('house'))}\n{esc(it['url'])}")
-    for it in jload(D("recs.json"), {"items": []})["items"][:100]:
+    recs_all = jload(D("recs.json"), {"items": []})["items"]
+    rec_cut = (dt.date.today() - dt.timedelta(days=3)).isoformat()
+    for it in recs_all[:150]:
         key = "rec-" + "|".join(str(it.get(k)) for k in ("date", "company", "house", "rating"))
         if it.get("ticker") in TRACKED and key not in sent:
             sent.add(key)
-            if not first:
-                msgs.append(f"🏦 <b>{esc(it['ticker'])}</b> · rekomendacja: {esc(it['rating'])}, cena docelowa {esc(it.get('target'))} zł ({esc(it['house'])}, {esc(it['date'])})\n{esc(it.get('report') or '')}")
+            if not first and it.get("date", "") >= rec_cut:   # stare rekomendacje z uzupełniania historii – bez alertu
+                prev = next((p for p in recs_all if p.get("company") == it.get("company") and p.get("house") == it.get("house") and p.get("date", "") < it["date"]), None)
+                ch = ""
+                if prev:
+                    try:
+                        d = (float(it["target"]) / float(prev["target"]) - 1) * 100
+                        ch = f"\nPoprzednio ({esc(prev['date'])}): {esc(prev['rating'])}, {esc(prev.get('target'))} zł → zmiana ceny docelowej {d:+.1f}%"
+                    except Exception:
+                        ch = f"\nPoprzednio ({esc(prev['date'])}): {esc(prev['rating'])}, {esc(prev.get('target'))} zł"
+                msgs.append(f"🏦 <b>{esc(it['ticker'])}</b> · rekomendacja: {esc(it['rating'])}, cena docelowa {esc(it.get('target'))} zł ({esc(it['house'])}, {esc(it['date'])}){ch}\n{esc(it.get('report') or '')}")
 
     # 3) zakupy insiderów w USA
     for it in jload(D("insiders_us.json"), {"items": []})["items"][:200]:
