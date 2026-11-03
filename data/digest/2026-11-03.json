@@ -4,7 +4,7 @@
   "podsumowania": 17,
   "wyniki": 22,
   "rekomendacje": 0,
-  "korporacyjne": 53,
+  "korporacyjne": 54,
   "makro_pl": 12,
   "swiat_rynki": 14,
   "energetyka_surowce": 2,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 15,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 54
+  "pozostale": 57
  },
- "duplicatesRemoved": 92,
- "total": 284,
+ "duplicatesRemoved": 95,
+ "total": 291,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -396,6 +396,15 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "19:17",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A19 wyemitowanymi przez GMINĘ BARCIN",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439044",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:27",
     "kind": "espi",
@@ -1388,6 +1397,33 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "19:13",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: komunikat - GMINA BRZESKO",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/gpw-komunikat-gmina-brzesko",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "19:13",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: w sprawie wyznaczenia pierwszego dnia notowania w alternatywnym systemie obrotu na rynku NewConnect akcji zwykłych na okaziciela serii K i L spółki EUROSNACK S.A.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/gpw-w-sprawie-wyznaczenia-pierwszego-dnia-notowania-w-alternatywnym-systemie",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "19:07",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: komunikat - GMINA PIŁA",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/gpw-komunikat-gmina-pila",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "18:51",
     "kind": "news",

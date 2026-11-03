@@ -1,7 +1,88 @@
 {
  "date": "2026-11-03",
- "count": 284,
+ "count": 291,
  "items": [
+  {
+   "id": "bossa-pap-439044",
+   "date": "2026-11-03",
+   "time": "19:17",
+   "ts": "2026-11-03T19:17:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A19 wyemitowanymi przez GMINĘ BARCIN",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439044"
+  },
+  {
+   "id": "strefa-f06645e87c13",
+   "date": "2026-11-03",
+   "time": "19:13",
+   "ts": "2026-11-03T19:13:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: komunikat - GMINA BRZESKO",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261103/gpw-komunikat-gmina-brzesko"
+  },
+  {
+   "id": "strefa-6e15aff43b47",
+   "date": "2026-11-03",
+   "time": "19:13",
+   "ts": "2026-11-03T19:13:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie wyznaczenia pierwszego dnia notowania w alternatywnym systemie obrotu na rynku NewConnect akcji zwykłych na okaziciela serii K i L spółki EUROSNACK S.A.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261103/gpw-w-sprawie-wyznaczenia-pierwszego-dnia-notowania-w-alternatywnym-systemie"
+  },
+  {
+   "id": "bossa-pap-439043",
+   "date": "2026-11-03",
+   "time": "19:11",
+   "ts": "2026-11-03T19:11:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie wyznaczenia pierwszego dnia notowania w alternatywnym systemie obrotu na rynku NewConnect akcji zwykłych na okaziciela serii K i L spółki EUROSNACK S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439043"
+  },
+  {
+   "id": "bossa-pap-439042",
+   "date": "2026-11-03",
+   "time": "19:09",
+   "ts": "2026-11-03T19:09:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: komunikat - GMINA BRZESKO",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439042"
+  },
+  {
+   "id": "strefa-5f956d438703",
+   "date": "2026-11-03",
+   "time": "19:07",
+   "ts": "2026-11-03T19:07:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: komunikat - GMINA PIŁA",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261103/gpw-komunikat-gmina-pila"
+  },
+  {
+   "id": "bossa-pap-439041",
+   "date": "2026-11-03",
+   "time": "19:07",
+   "ts": "2026-11-03T19:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: komunikat - GMINA PIŁA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439041"
+  },
   {
    "id": "bossa-pap-439040",
    "date": "2026-11-03",
