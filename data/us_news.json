@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "64669eda5837",
+   "ticker": "ASML",
+   "time": "2026-11-04T00:36+01:00",
+   "title": "Stocks Finished Mostly Higher on Chipmaker Strength",
+   "url": "https://www.nasdaq.com/articles/stocks-finished-mostly-higher-chipmaker-strength",
+   "src": "nasdaq",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed up +0.36% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.38%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.68%.  December E-mini S&P futures (ESZ26 ) rose +0.36%, and December E-mini Nasdaq futures..."
+  },
+  {
    "id": "561e10a1df60",
    "ticker": "NVDA",
    "time": "2026-11-03T22:16+01:00",
@@ -766,5 +775,5 @@
    "summary": "Key PointsASML is one of the most important companies in the global semiconductor ecosystem, but its stock price performance has left a lot to be desired over the past three years."
   }
  ],
- "updatedAt": "2026-11-04T00:01:21+01:00"
+ "updatedAt": "2026-11-04T00:53:09+01:00"
 }
