@@ -1,7 +1,31 @@
 {
  "date": "2026-11-03",
- "count": 125,
+ "count": 127,
  "items": [
+  {
+   "id": "bossa-espi-23241",
+   "date": "2026-11-03",
+   "time": "13:36",
+   "ts": "2026-11-03T13:36:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF S&P 500 PLN-HEDGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 221 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23241"
+  },
+  {
+   "id": "bossa-espi-23240",
+   "date": "2026-11-03",
+   "time": "13:29",
+   "ts": "2026-11-03T13:29:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 PLN-HEDGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 221 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23240"
+  },
   {
    "id": "bossa-espi-23239",
    "date": "2026-11-03",

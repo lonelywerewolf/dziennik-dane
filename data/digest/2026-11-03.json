@@ -6,7 +6,7 @@
   "rekomendacje": 0,
   "korporacyjne": 21,
   "makro_pl": 8,
-  "swiat_rynki": 6,
+  "swiat_rynki": 7,
   "energetyka_surowce": 2,
   "nieruchomosci": 1,
   "fundusze_drobne": 5,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 30
  },
- "duplicatesRemoved": 35,
- "total": 125,
+ "duplicatesRemoved": 36,
+ "total": 127,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -460,6 +460,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "13:29",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BETA ETF NASDAQ-100 PLN-HEDGED PORTFELOWY FIZ: Raport bieżący nr 221 / 2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23240",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:15",
     "kind": "espi",
