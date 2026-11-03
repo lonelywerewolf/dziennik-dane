@@ -4,7 +4,7 @@
   "podsumowania": 10,
   "wyniki": 4,
   "rekomendacje": 0,
-  "korporacyjne": 15,
+  "korporacyjne": 17,
   "makro_pl": 7,
   "swiat_rynki": 5,
   "energetyka_surowce": 1,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 4,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 21
+  "pozostale": 23
  },
  "duplicatesRemoved": 30,
- "total": 100,
+ "total": 104,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -152,6 +152,28 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "12:03",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SIMFABRIC S.A.: Realizacja umowy z Apple oraz premiera pierwszej aplikacji MobileFabric S.A. - spółki zależnej SimFabric S.A. - w sklepie App Store, przeznaczonej na nowe urządzenie iPhone Duo",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23231",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "11:49",
+    "kind": "news",
+    "ticker": null,
+    "title": "Mirbud z kolejnym kontraktem na autostradzie A2. Umowa na odcinek X od Białej Podlaskiej w kierunku granicy państwa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/mirbud-z-kolejnym-kontraktem-na-autostradzie-a2-umowa-na-odcinek-x-od-bialej",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "11:23",
     "kind": "news",
@@ -508,6 +530,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:02",
+    "kind": "espi",
+    "ticker": null,
+    "title": "AB INTER RAO LIETUVA: Reagarding the Judgement of the Couert of Justice of the European Union in case C-147/25 between AB \"INTER RAO Lietuva\" and the Financial Crime Investigation Service",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23230",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:58",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MFO S.A.: Wstępne dane finansowe MFO S.A. za trzy kwartały 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23229",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:51",
     "kind": "pap",

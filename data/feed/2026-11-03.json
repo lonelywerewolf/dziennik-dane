@@ -1,7 +1,43 @@
 {
  "date": "2026-11-03",
- "count": 100,
+ "count": 104,
  "items": [
+  {
+   "id": "bossa-espi-23231",
+   "date": "2026-11-03",
+   "time": "12:03",
+   "ts": "2026-11-03T12:03:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "SIMFABRIC S.A.",
+   "title": "Realizacja umowy z Apple oraz premiera pierwszej aplikacji MobileFabric S.A. - spółki zależnej SimFabric S.A. - w sklepie App Store, przeznaczonej na nowe urządzenie iPhone Duo",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23231"
+  },
+  {
+   "id": "bossa-espi-23230",
+   "date": "2026-11-03",
+   "time": "12:02",
+   "ts": "2026-11-03T12:02:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "AB INTER RAO LIETUVA",
+   "title": "Reagarding the Judgement of the Couert of Justice of the European Union in case C-147/25 between AB \"INTER RAO Lietuva\" and the Financial Crime Investigation Service",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23230"
+  },
+  {
+   "id": "bossa-espi-23229",
+   "date": "2026-11-03",
+   "time": "11:58",
+   "ts": "2026-11-03T11:58:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MFO S.A.",
+   "title": "Wstępne dane finansowe MFO S.A. za trzy kwartały 2026 roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23229"
+  },
   {
    "id": "bossa-pap-438894",
    "date": "2026-11-03",
@@ -13,6 +49,17 @@
    "title": "Zestawienie publikowanych w ostatnim czasie cen wybranych towarów (tabela)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-438894"
+  },
+  {
+   "id": "strefa-c5d262dc8a43",
+   "date": "2026-11-03",
+   "time": "11:49",
+   "ts": "2026-11-03T11:49:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Mirbud z kolejnym kontraktem na autostradzie A2. Umowa na odcinek X od Białej Podlaskiej w kierunku granicy państwa",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261103/mirbud-z-kolejnym-kontraktem-na-autostradzie-a2-umowa-na-odcinek-x-od-bialej"
   },
   {
    "id": "bossa-pap-438893",
