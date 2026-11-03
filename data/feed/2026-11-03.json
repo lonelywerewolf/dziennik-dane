@@ -1,7 +1,66 @@
 {
  "date": "2026-11-03",
- "count": 95,
+ "count": 100,
  "items": [
+  {
+   "id": "bossa-pap-438894",
+   "date": "2026-11-03",
+   "time": "11:51",
+   "ts": "2026-11-03T11:51:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zestawienie publikowanych w ostatnim czasie cen wybranych towarów (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438894"
+  },
+  {
+   "id": "bossa-pap-438893",
+   "date": "2026-11-03",
+   "time": "11:48",
+   "ts": "2026-11-03T11:48:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Tabela kursów średnich NBP nr 214/A/NBP/2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438893"
+  },
+  {
+   "id": "bossa-pap-438892",
+   "date": "2026-11-03",
+   "time": "11:44",
+   "ts": "2026-11-03T11:44:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Cena maksymalna dla benzyny Pb95 wyniesie w środę 6,37 zł/l, a dla ON 8,05 zł/l",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438892"
+  },
+  {
+   "id": "bossa-pap-438891",
+   "date": "2026-11-03",
+   "time": "11:43",
+   "ts": "2026-11-03T11:43:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Premier ma podpisać kontrasygnatę pod wnioskiem prezydenta o powołanie 4 członków zarządu NBP - media (aktl.)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-438891"
+  },
+  {
+   "id": "strefa-4c77ce1e7f7f",
+   "date": "2026-11-03",
+   "time": "11:38",
+   "ts": "2026-11-03T11:38:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Tabela kursów średnich NBP nr 214/A/NBP/2026",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261103/tabela-kursow-srednich-nbp-nr-214anbp2026"
+  },
   {
    "id": "bossa-pap-438890",
    "date": "2026-11-03",
