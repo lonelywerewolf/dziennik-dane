@@ -1,7 +1,43 @@
 {
  "date": "2026-11-03",
- "count": 318,
+ "count": 322,
  "items": [
+  {
+   "id": "bossa-pap-439065",
+   "date": "2026-11-03",
+   "time": "22:09",
+   "ts": "2026-11-03T22:09:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Giełdy w USA kończą na plusie, producenci chipów wrócili do łask",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439065"
+  },
+  {
+   "id": "bossa-pap-439064",
+   "date": "2026-11-03",
+   "time": "22:06",
+   "ts": "2026-11-03T22:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "SYGNIS SA (17/2026) Rejestracja przez sąd zmiany statutu emitenta lub odmowie takiej rejestracji, z podaniem przyczyn odmowy",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439064"
+  },
+  {
+   "id": "bossa-pap-439063",
+   "date": "2026-11-03",
+   "time": "22:01",
+   "ts": "2026-11-03T22:01:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "BTC STUDIOS SA (30/2026) Powołanie osoby zarządzającej lub nadzorującej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439063"
+  },
   {
    "id": "bossa-pap-439062",
    "date": "2026-11-03",
@@ -37,6 +73,17 @@
    "title": "ICE CODE GAMES SA (15/2026) Informacje o walnym zgromadzeniu - zwołanie WZ z projektami uchwał, zmiany w porządku obrad WZ",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439060"
+  },
+  {
+   "id": "strefa-6beaa0838e5c",
+   "date": "2026-11-03",
+   "time": "21:02",
+   "ts": "2026-11-03T21:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Giełdy w USA kończą na plusie, producenci chipów wrócili do łask",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261103/dzien-na-rynkach-gieldy-w-usa-koncza-na-plusie-producenci-chipow-wrocili-do"
   },
   {
    "id": "bossa-pap-439059",

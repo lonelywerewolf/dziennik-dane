@@ -1,10 +1,10 @@
 {
  "date": "2026-11-03",
  "counts": {
-  "podsumowania": 17,
+  "podsumowania": 18,
   "wyniki": 22,
   "rekomendacje": 0,
-  "korporacyjne": 57,
+  "korporacyjne": 58,
   "makro_pl": 12,
   "swiat_rynki": 14,
   "energetyka_surowce": 2,
@@ -12,13 +12,22 @@
   "fundusze_drobne": 15,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 59
+  "pozostale": 60
  },
- "duplicatesRemoved": 117,
- "total": 318,
+ "duplicatesRemoved": 118,
+ "total": 322,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "21:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Giełdy w USA kończą na plusie, producenci chipów wrócili do łask",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261103/dzien-na-rynkach-gieldy-w-usa-koncza-na-plusie-producenci-chipow-wrocili-do",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "18:17",
     "kind": "news",
@@ -396,6 +405,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "22:01",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BTC STUDIOS SA (30/2026) Powołanie osoby zarządzającej lub nadzorującej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439063",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "21:20",
     "kind": "espi",
@@ -1428,6 +1448,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "22:06",
+    "kind": "pap",
+    "ticker": null,
+    "title": "SYGNIS SA (17/2026) Rejestracja przez sąd zmiany statutu emitenta lub odmowie takiej rejestracji, z podaniem przyczyn odmowy",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439064",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "20:20",
     "kind": "espi",
