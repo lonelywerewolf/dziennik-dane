@@ -1,7 +1,65 @@
 {
  "date": "2026-11-03",
- "count": 301,
+ "count": 306,
  "items": [
+  {
+   "id": "strefa-e44b5a6fca28",
+   "date": "2026-11-03",
+   "time": "19:41",
+   "ts": "2026-11-03T19:41:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A24 wyemitowanymi przez POWIAT GOLENIOWSKI",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261103/gpw-w-sprawie-zawieszenia-obrotu-gieldowego-na-catalyst-obligacjami-na-4"
+  },
+  {
+   "id": "bossa-pap-439052",
+   "date": "2026-11-03",
+   "time": "19:38",
+   "ts": "2026-11-03T19:38:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "RCB: Rosyjski atak powietrzny na terenie Ukrainy (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439052"
+  },
+  {
+   "id": "bossa-pap-439051",
+   "date": "2026-11-03",
+   "time": "19:34",
+   "ts": "2026-11-03T19:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "OFE wartości jednostek rozrachunkowych z 2026.11.02",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439051"
+  },
+  {
+   "id": "bossa-pap-439050",
+   "date": "2026-11-03",
+   "time": "19:33",
+   "ts": "2026-11-03T19:33:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "VIENNA OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439050"
+  },
+  {
+   "id": "strefa-0ed855dc813a",
+   "date": "2026-11-03",
+   "time": "19:31",
+   "ts": "2026-11-03T19:31:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "OFE wartości jednostek rozrachunkowych z 2026.11.02",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261103/ofe-wartosci-jednostek-rozrachunkowych-z-20261102-0"
+  },
   {
    "id": "bossa-pap-439049",
    "date": "2026-11-03",
