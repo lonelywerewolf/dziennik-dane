@@ -34,6 +34,7 @@ jobs:
           git commit -q -m "Dane $(TZ=Europe/Warsaw date +'%F %H:%M')"
           for i in 1 2 3; do git pull -q --rebase -X theirs && git push -q && break; git rebase --abort 2>/dev/null; sleep 5; done
       - name: Zapas, gdy harmonogram GitHuba stoi
+        if: always()
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
@@ -42,9 +43,8 @@ jobs:
           LAST=$(gh api "repos/${{ github.repository }}/actions/workflows/collect.yml/runs?event=schedule&per_page=1" --jq '.workflow_runs[0].created_at // "1970-01-01T00:00:00Z"')
           AGE=$(( $(date +%s) - $(date -d "$LAST" +%s) ))
           if [ "$AGE" -lt 1800 ]; then echo "harmonogram działa"; exit 0; fi
-          QUEUED=$(gh api "repos/${{ github.repository }}/actions/runs?status=queued" --jq '.total_count')
+          QUEUED=$(gh api "repos/${{ github.repository }}/actions/workflows/collect.yml/runs?status=queued" --jq '.total_count')
           if [ "$QUEUED" -gt 0 ]; then exit 0; fi
-          START=$(date -d "${{ github.event.repository.updated_at || '' }}" +%s 2>/dev/null || date +%s)
           sleep 600
           gh workflow run collect.yml --ref main -R ${{ github.repository }}
           echo "harmonogram stoi od ${AGE}s – uruchomiono kolejny przebieg"
