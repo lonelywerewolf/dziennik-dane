@@ -4,18 +4,18 @@
   "podsumowania": 12,
   "wyniki": 3,
   "rekomendacje": 1,
-  "korporacyjne": 19,
+  "korporacyjne": 22,
   "makro_pl": 17,
-  "swiat_rynki": 10,
+  "swiat_rynki": 12,
   "energetyka_surowce": 6,
   "nieruchomosci": 1,
-  "fundusze_drobne": 3,
+  "fundusze_drobne": 4,
   "twoje_spolki": 3,
   "obserwowane": 0,
   "pozostale": 24
  },
- "duplicatesRemoved": 65,
- "total": 164,
+ "duplicatesRemoved": 66,
+ "total": 171,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -179,6 +179,37 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "14:03",
+    "kind": "pap",
+    "ticker": null,
+    "title": "AQUA SA (23/2026) Podpisanie przez emitenta z firmą audytorską umowy o badanie sprawozdań finansowych lub skonsolidowanych sprawozdań finansowych emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439190",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "14:03",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MBANK HIPOTECZNY: Powiadomienie o transakcjach na instrumentach finansowych mBanku Hipotecznego S.A. dokonanych przez mBank S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23375",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:58",
+    "kind": "news",
+    "ticker": null,
+    "title": "Adamietz Warszawa generalnym wykonawcą inwestycji Aleje 138. Umowa o wartości 295 mln zł netto została podpisana.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261104/adamietz-warszawa-generalnym-wykonawca-inwestycji-aleje-138-umowa-o-wartosci",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "13:48",
     "kind": "espi",
@@ -536,6 +567,24 @@
   ],
   "swiat_rynki": [
    {
+    "time": "13:53",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ME: Polska zwiększa bezpieczeństwo gazowe; magazyn w Wierzchowicach rozbudowany (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439188",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:23",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zaskakujący cios w rozwój sztucznej inteligencji. Wybory midterms w USA mogą zatrzymać miliardowe projekty",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261104/zaskakujacy-cios-w-rozwoj-sztucznej-inteligencji-wybory-midterms-w-usa-moga",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "11:54",
     "kind": "espi",
     "ticker": null,
@@ -694,6 +743,15 @@
    }
   ],
   "fundusze_drobne": [
+   {
+    "time": "13:55",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OFE POCZTYLION wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439189",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:00",
     "kind": "pap",

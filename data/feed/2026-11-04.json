@@ -1,7 +1,78 @@
 {
  "date": "2026-11-04",
- "count": 164,
+ "count": 171,
  "items": [
+  {
+   "id": "bossa-espi-23376",
+   "date": "2026-11-04",
+   "time": "14:04",
+   "ts": "2026-11-04T14:04:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MBANK HIPOTECZNY",
+   "title": "Powiadomienie o transakcjach na instrumentach finansowych mBanku Hipotecznego S.A. dokonanych przez mBank S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23376"
+  },
+  {
+   "id": "bossa-pap-439190",
+   "date": "2026-11-04",
+   "time": "14:03",
+   "ts": "2026-11-04T14:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "AQUA SA (23/2026) Podpisanie przez emitenta z firmą audytorską umowy o badanie sprawozdań finansowych lub skonsolidowanych sprawozdań finansowych emitenta",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439190"
+  },
+  {
+   "id": "bossa-espi-23375",
+   "date": "2026-11-04",
+   "time": "14:03",
+   "ts": "2026-11-04T14:03:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MBANK HIPOTECZNY",
+   "title": "Powiadomienie o transakcjach na instrumentach finansowych mBanku Hipotecznego S.A. dokonanych przez mBank S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23375"
+  },
+  {
+   "id": "strefa-321defc2d3f6",
+   "date": "2026-11-04",
+   "time": "13:58",
+   "ts": "2026-11-04T13:58:31+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Adamietz Warszawa generalnym wykonawcą inwestycji Aleje 138. Umowa o wartości 295 mln zł netto została podpisana.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/adamietz-warszawa-generalnym-wykonawca-inwestycji-aleje-138-umowa-o-wartosci"
+  },
+  {
+   "id": "bossa-pap-439189",
+   "date": "2026-11-04",
+   "time": "13:55",
+   "ts": "2026-11-04T13:55:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "OFE POCZTYLION wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439189"
+  },
+  {
+   "id": "bossa-pap-439188",
+   "date": "2026-11-04",
+   "time": "13:53",
+   "ts": "2026-11-04T13:53:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "ME: Polska zwiększa bezpieczeństwo gazowe; magazyn w Wierzchowicach rozbudowany (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439188"
+  },
   {
    "id": "bossa-espi-23373",
    "date": "2026-11-04",
@@ -49,6 +120,17 @@
    "title": "WANCI-E_30.04.18",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23370"
+  },
+  {
+   "id": "strefa-561a147e9df2",
+   "date": "2026-11-04",
+   "time": "13:23",
+   "ts": "2026-11-04T13:23:20+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Zaskakujący cios w rozwój sztucznej inteligencji. Wybory midterms w USA mogą zatrzymać miliardowe projekty",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/zaskakujacy-cios-w-rozwoj-sztucznej-inteligencji-wybory-midterms-w-usa-moga"
   },
   {
    "id": "bossa-espi-23369",
