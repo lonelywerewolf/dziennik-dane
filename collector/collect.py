@@ -395,7 +395,7 @@ def nasdaq():
     folder = D("history")
     os.makedirs(folder, exist_ok=True)
     live = jload(D("us_live.json"), {"q": {}})
-    items = [(c["ticker"], c["ticker"], "stocks") for c in COMP + EXTRA_COMP if c.get("market") == "USA"] + [(k, v, "index") for k, v in CFG.get("us_benchmarks", {}).items()]
+    items = [(c["ticker"], c["ticker"], "stocks") for c in COMP + EXTRA_COMP if c.get("market") == "USA"] + [(k, v.split(":")[0], (v.split(":") + ["index"])[1]) for k, v in CFG.get("us_benchmarks", {}).items()]
     for key, sym, cls in items:
         path = os.path.join(folder, key + ".csv")
         try:
@@ -411,10 +411,10 @@ def nasdaq():
                     old[f"{y}-{m}-{d_}"] = str(v)
             with open(path, "w", encoding="utf-8") as f:
                 f.write("date,close\n" + "".join(f"{k},{v}\n" for k, v in sorted(old.items())))
-            if cls == "index":
+            if cls in ("index", "etf"):
                 # historia indeksów w Nasdaq aktualizuje się z opóźnieniem – dopisz zamknięcie z notowania bieżącego, gdy sesja w USA zamknięta
                 try:
-                    info = json.loads(get(f"https://api.nasdaq.com/api/quote/{sym}/info?assetclass=index", headers=NASDAQ_H))["data"]["primaryData"]
+                    info = json.loads(get(f"https://api.nasdaq.com/api/quote/{sym}/info?assetclass={cls}", headers=NASDAQ_H))["data"]["primaryData"]
                     ts = str(info.get("lastTradeTimestamp") or "")
                     m = re.search(r"([A-Z][a-z]{2}) (\d{1,2}), (\d{4})", ts)
                     px = usd(info.get("lastSalePrice"))

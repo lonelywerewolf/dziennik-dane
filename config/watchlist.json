@@ -154,7 +154,7 @@
  },
  "us_benchmarks": {
   "^NDQ": "COMP",
-  "^SPX": "SPX",
+  "^SPX": "SPY:etf",
   "^SOX": "SOX"
  }
 }
