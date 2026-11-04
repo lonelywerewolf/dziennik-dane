@@ -1,7 +1,31 @@
 {
  "date": "2026-11-04",
- "count": 177,
+ "count": 179,
  "items": [
+  {
+   "id": "bossa-pap-439198",
+   "date": "2026-11-04",
+   "time": "14:39",
+   "ts": "2026-11-04T14:39:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Udział kredytów dla firm w bilansach banków spada - raport",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439198"
+  },
+  {
+   "id": "bossa-pap-439197",
+   "date": "2026-11-04",
+   "time": "14:34",
+   "ts": "2026-11-04T14:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Bilans handlowy USA w IX: -105 mld USD. Konsensus: -107,9 mld USD. Poprzednio: -105,7 mld USD",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439197"
+  },
   {
    "id": "strefa-55e4c754994b",
    "date": "2026-11-04",
