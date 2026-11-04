@@ -1,7 +1,42 @@
 {
  "date": "2026-11-04",
- "count": 219,
+ "count": 222,
  "items": [
+  {
+   "id": "bossa-pap-439229",
+   "date": "2026-11-04",
+   "time": "16:20",
+   "ts": "2026-11-04T16:20:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "CPI z 50-proc. prawdopodobieństwem w '27 w przedziale 3,1–5,3 proc., w '28 w przedziale 1,4–4,4 proc. - projekcja NBP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439229"
+  },
+  {
+   "id": "bossa-espi-23388",
+   "date": "2026-11-04",
+   "time": "16:20",
+   "ts": "2026-11-04T16:20:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "POLSKA GRUPA FARMACEUTYCZNA S.A.",
+   "title": "Rejestracja obligacji serii E w depozycie prowadzonym przez KDPW, wprowadzenie obligacji serii E do obrotu w ASO GPW i wyznaczenie pierwszego dnia notowania",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23388"
+  },
+  {
+   "id": "strefa-3ae86a4759e1",
+   "date": "2026-11-04",
+   "time": "16:18",
+   "ts": "2026-11-04T16:18:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "CPI z 50-proc. prawdopodobieństwem w '27 w przedziale 3,1–5,3 proc., w '28 w przedziale 1,4–4,4 proc. - projekcja NBP",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/cpi-z-50-proc-prawdopodobienstwem-w-27-w-przedziale-31-53-proc-w-28-w"
+  },
   {
    "id": "bossa-pap-439228",
    "date": "2026-11-04",

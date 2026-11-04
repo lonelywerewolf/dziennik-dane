@@ -1,59 +1,65 @@
 {
  "q": {
   "ASML": {
-   "price": 1520.0,
-   "chgPct": -2.07,
-   "at": "Nov 4, 2026 10:19 AM ET",
+   "price": 1515.29,
+   "chgPct": -2.37,
+   "at": "Nov 4, 2026 10:31 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/asml"
   },
   "AVGO": {
-   "price": 331.1133,
-   "chgPct": -0.31,
-   "at": "Nov 4, 2026 10:19 AM ET",
+   "price": 328.7435,
+   "chgPct": -1.02,
+   "at": "Nov 4, 2026 10:31 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/avgo"
   },
   "MPWR": {
-   "price": 1299.11,
-   "chgPct": -2.2,
-   "at": "Nov 4, 2026 10:20 AM ET",
+   "price": 1283.165,
+   "chgPct": -3.4,
+   "at": "Nov 4, 2026 10:32 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/mpwr"
   },
   "NVDA": {
-   "price": 205.39,
-   "chgPct": -0.63,
-   "at": "Nov 4, 2026 10:20 AM ET",
+   "price": 204.07,
+   "chgPct": -1.27,
+   "at": "Nov 4, 2026 10:32 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/nvda"
   },
   "TSM": {
-   "price": 405.555,
-   "chgPct": 0.19,
-   "at": "Nov 4, 2026 10:20 AM ET",
+   "price": 402.2725,
+   "chgPct": -0.62,
+   "at": "Nov 4, 2026 10:32 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/tsm"
   },
   "VRT": {
-   "price": 211.26,
-   "chgPct": -10.47,
-   "at": "Nov 4, 2026 10:20 AM ET",
+   "price": 210.81,
+   "chgPct": -10.66,
+   "at": "Nov 4, 2026 10:32 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/vrt"
   },
   "^NDQ": {
-   "price": 26020.65,
-   "chgPct": 2.56,
-   "at": "Nov 4, 2026 10:17 AM ET",
+   "price": 25914.45,
+   "chgPct": 2.14,
+   "at": "Nov 4, 2026 10:30 AM ET",
    "src": "https://www.nasdaq.com/market-activity/index/comp"
   },
   "^SOX": {
-   "price": 10514.28,
-   "chgPct": -0.81,
-   "at": "Nov 4, 2026 10:18 AM ET",
+   "price": 10414.78,
+   "chgPct": -1.75,
+   "at": "Nov 4, 2026 10:30 AM ET",
    "src": "https://www.nasdaq.com/market-activity/index/sox"
   },
   "^SPX": {
-   "price": 767.82,
-   "chgPct": 1.79,
-   "at": "Nov 4, 2026 10:20 AM ET",
+   "price": 765.92,
+   "chgPct": 1.53,
+   "at": "Nov 4, 2026 10:32 AM ET",
    "src": "https://www.nasdaq.com/market-activity/index/spy"
+  },
+  "MRVL": {
+   "price": 161.495,
+   "chgPct": -6.09,
+   "at": "Nov 4, 2026 10:32 AM ET",
+   "src": "https://www.nasdaq.com/market-activity/stocks/mrvl"
   }
  },
- "updatedAt": "2026-11-04T16:19:28+01:00"
+ "updatedAt": "2026-11-04T16:31:28+01:00"
 }

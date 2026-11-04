@@ -5,7 +5,7 @@
   "wyniki": 4,
   "rekomendacje": 2,
   "korporacyjne": 27,
-  "makro_pl": 22,
+  "makro_pl": 24,
   "swiat_rynki": 20,
   "energetyka_surowce": 7,
   "nieruchomosci": 1,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 29
  },
- "duplicatesRemoved": 80,
- "total": 219,
+ "duplicatesRemoved": 81,
+ "total": 222,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -498,6 +498,24 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "16:20",
+    "kind": "espi",
+    "ticker": null,
+    "title": "POLSKA GRUPA FARMACEUTYCZNA S.A.: Rejestracja obligacji serii E w depozycie prowadzonym przez KDPW, wprowadzenie obligacji serii E do obrotu w ASO GPW i wyznaczenie pierwszego dnia notowania",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23388",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:18",
+    "kind": "news",
+    "ticker": null,
+    "title": "CPI z 50-proc. prawdopodobieństwem w '27 w przedziale 3,1–5,3 proc., w '28 w przedziale 1,4–4,4 proc. - projekcja NBP",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261104/cpi-z-50-proc-prawdopodobienstwem-w-27-w-przedziale-31-53-proc-w-28-w",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "16:14",
     "kind": "news",
