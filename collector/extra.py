@@ -3,7 +3,7 @@
 Uruchamiane raz dziennie (rano) albo gdy pliku brakuje. Bez AI.
 """
 import datetime as dt, html, io, json, os, re, time, urllib.parse, urllib.request
-from collect import get, jload, jsave, text, plnum, usd, NOW, D, CFG, COMP, ROOT, WAW, NASDAQ_H
+from collect import get, opener, jload, jsave, text, plnum, usd, NOW, D, CFG, COMP, ROOT, WAW, NASDAQ_H
 
 EXTRA = jload(os.path.join(ROOT, "config", "extra.json"), {"companies": []})   # spółki spoza portfela (obserwowane, kandydaci)
 ALL = COMP + [c for c in EXTRA.get("companies", []) if c.get("ticker") not in {x["ticker"] for x in COMP}]
@@ -159,12 +159,13 @@ def pwpa():
     try:
         from pypdf import PdfReader
         for it in data["items"]:
-            if it["ticker"] not in want or it.get("textFile"):
+            if it["ticker"] not in want or it.get("textFile") or it.get("pdfTries", 0) >= 3:
                 continue
             try:
+                it["pdfTries"] = it.get("pdfTries", 0) + 1
                 req = urllib.request.Request(it["url"], headers={"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
                                                                  "Accept": "application/pdf,*/*", "Referer": "https://www.gpw.pl/gpwpa"})
-                b = urllib.request.urlopen(req, timeout=60).read()
+                b = opener.open(req, timeout=60).read()   # ta sama sesja (ciasteczka) co lista raportów
                 pdf = PdfReader(io.BytesIO(b))
                 txt = "\n".join((p.extract_text() or "") for p in pdf.pages[:6])
                 tf = D("pwpa_text", it["file"].replace(".pdf", ".txt"))
@@ -177,14 +178,16 @@ def pwpa():
                 st["texts"] += 1
                 time.sleep(1)
             except Exception as e:
-                st["errors"].append(f"{it['file']}: {e!r}"[:140])
+                # PDF to źródło pomocnicze: po 3 nieudanych próbach raport pobiera go sam (WebFetch url) – nie traktujemy tego jako luki
+                (st.setdefault("pdfFailed", []) if it["pdfTries"] >= 3 else st["errors"]).append(f"{it['file']}: {e!r}"[:140])
     except ImportError:
         st["errors"].append("brak pypdf")
     data["items"].sort(key=lambda i: i["date"], reverse=True)
     data["items"] = data["items"][:3000]
     data["updatedAt"] = NOW.isoformat(timespec="seconds")
     jsave(path, data)
-    st["ok"] = not st["errors"]
+    st["ok"] = True   # lista raportów pobrana; nieudane PDF (pomocnicze) w errors/pdfFailed – raport pobiera je sam
+    st["pdfPending"] = len(st["errors"])
     return st
 
 
