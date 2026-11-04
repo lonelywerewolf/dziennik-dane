@@ -1,7 +1,30 @@
 {
  "date": "2026-11-04",
- "count": 25,
+ "count": 27,
  "items": [
+  {
+   "id": "bossa-pap-439085",
+   "date": "2026-11-04",
+   "time": "07:54",
+   "ts": "2026-11-04T07:54:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ceny miedzi w Londynie wahają się po wyborach połówkowych w USA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439085"
+  },
+  {
+   "id": "strefa-6132ac2b6e15",
+   "date": "2026-11-04",
+   "time": "07:40",
+   "ts": "2026-11-04T07:40:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ceny miedzi w Londynie wahają się po wyborach połówkowych w USA",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/ceny-miedzi-w-londynie-wahaja-sie-po-wyborach-polowkowych-w-usa"
+  },
   {
    "id": "strefa-983ed869a1e5",
    "date": "2026-11-04",
