@@ -1,0 +1,44 @@
+{
+ "date": "2026-11-04",
+ "counts": {
+  "podsumowania": 0,
+  "wyniki": 0,
+  "rekomendacje": 0,
+  "korporacyjne": 0,
+  "makro_pl": 0,
+  "swiat_rynki": 1,
+  "energetyka_surowce": 0,
+  "nieruchomosci": 0,
+  "fundusze_drobne": 0,
+  "twoje_spolki": 0,
+  "obserwowane": 0,
+  "pozostale": 0
+ },
+ "duplicatesRemoved": 0,
+ "total": 1,
+ "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
+ "groups": {
+  "podsumowania": [],
+  "wyniki": [],
+  "rekomendacje": [],
+  "korporacyjne": [],
+  "makro_pl": [],
+  "swiat_rynki": [
+   {
+    "time": "01:06",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KPRM: Premier po RBN: Była zgoda, że musimy konsolidować władze polityczne i całe społeczeństwo wokół kwestii bezpieczeństwa (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439068",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
+  "energetyka_surowce": [],
+  "nieruchomosci": [],
+  "fundusze_drobne": [],
+  "twoje_spolki": [],
+  "obserwowane": [],
+  "pozostale": []
+ }
+}
