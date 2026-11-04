@@ -5,7 +5,7 @@
   "wyniki": 0,
   "rekomendacje": 0,
   "korporacyjne": 0,
-  "makro_pl": 2,
+  "makro_pl": 3,
   "swiat_rynki": 1,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
@@ -14,35 +14,35 @@
   "obserwowane": 0,
   "pozostale": 3
  },
- "duplicatesRemoved": 1,
- "total": 12,
+ "duplicatesRemoved": 6,
+ "total": 18,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kalendarium rynku kapitałowego GPW 2026-11-04",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261104/kalendarium-rynku-kapitalowego-gpw-2026-11-04",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "06:58",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kalendarium rynku NewConnect 2026-11-04",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261104/kalendarium-rynku-newconnect-2026-11-04",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "06:24",
     "kind": "pap",
     "ticker": null,
     "title": "Przegląd prasy gospodarczej w środę, 4 listopada",
     "url": "https://bossa.pl/analizy/komunikaty#message-439074",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "06:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Kalendarium rynku kapitałowego GPW 2026-11-04",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439072",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "06:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Kalendarium rynku NewConnect 2026-11-04",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439071",
     "src": "bossa",
     "flags": []
    },
@@ -61,12 +61,21 @@
   "korporacyjne": [],
   "makro_pl": [
    {
-    "time": "06:37",
-    "kind": "pap",
+    "time": "06:41",
+    "kind": "news",
     "ticker": null,
     "title": "Rentowności obligacji wybranych państw (tabela)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439077",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261104/rentownosci-obligacji-wybranych-panstw-tabela",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "06:41",
+    "kind": "news",
+    "ticker": null,
+    "title": "Indeks PMI w Chinach w usługach w X wg RatingDog: 50,8 pkt. Konsensus: 51,7 pkt.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261104/indeks-pmi-w-chinach-w-uslugach-w-x-wg-ratingdog-508-pkt-konsensus-517-pkt",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -107,6 +116,15 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-04",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261104/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-04",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "06:41",
     "kind": "news",
     "ticker": null,
@@ -121,15 +139,6 @@
     "ticker": null,
     "title": "Wskaźniki referencyjne ON na wybranych rynkach rozwiniętych (tabela)",
     "url": "https://bossa.pl/analizy/komunikaty#message-439078",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "06:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-04",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439069",
     "src": "bossa",
     "flags": []
    }

@@ -1,7 +1,63 @@
 {
  "date": "2026-11-04",
- "count": 12,
+ "count": 18,
  "items": [
+  {
+   "id": "strefa-8407c504df7b",
+   "date": "2026-11-04",
+   "time": "07:01",
+   "ts": "2026-11-04T07:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-04",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-04"
+  },
+  {
+   "id": "strefa-2aa34c3199f8",
+   "date": "2026-11-04",
+   "time": "07:01",
+   "ts": "2026-11-04T07:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Kalendarium rynku kapitałowego GPW 2026-11-04",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/kalendarium-rynku-kapitalowego-gpw-2026-11-04"
+  },
+  {
+   "id": "strefa-875024185bcc",
+   "date": "2026-11-04",
+   "time": "06:58",
+   "ts": "2026-11-04T06:58:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Kalendarium rynku NewConnect 2026-11-04",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/kalendarium-rynku-newconnect-2026-11-04"
+  },
+  {
+   "id": "bossa-pap-439079",
+   "date": "2026-11-04",
+   "time": "06:57",
+   "ts": "2026-11-04T06:57:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeks PMI w Chinach w usługach w X wg RatingDog: 50,8 pkt. Konsensus: 51,7 pkt.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439079"
+  },
+  {
+   "id": "strefa-c059be8ab7fb",
+   "date": "2026-11-04",
+   "time": "06:41",
+   "ts": "2026-11-04T06:41:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Rentowności obligacji wybranych państw (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/rentownosci-obligacji-wybranych-panstw-tabela"
+  },
   {
    "id": "strefa-84f80d7d0680",
    "date": "2026-11-04",
@@ -12,6 +68,17 @@
    "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261104/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela"
+  },
+  {
+   "id": "strefa-2a9b1b5246fc",
+   "date": "2026-11-04",
+   "time": "06:41",
+   "ts": "2026-11-04T06:41:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Indeks PMI w Chinach w usługach w X wg RatingDog: 50,8 pkt. Konsensus: 51,7 pkt.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/indeks-pmi-w-chinach-w-uslugach-w-x-wg-ratingdog-508-pkt-konsensus-517-pkt"
   },
   {
    "id": "bossa-pap-439078",
