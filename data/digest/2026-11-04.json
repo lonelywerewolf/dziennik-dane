@@ -1,7 +1,7 @@
 {
  "date": "2026-11-04",
  "counts": {
-  "podsumowania": 6,
+  "podsumowania": 8,
   "wyniki": 2,
   "rekomendacje": 0,
   "korporacyjne": 3,
@@ -14,11 +14,31 @@
   "obserwowane": 0,
   "pozostale": 4
  },
- "duplicatesRemoved": 18,
- "total": 45,
+ "duplicatesRemoved": 20,
+ "total": 49,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "08:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: Początek sesji może być spadkowy w reakcji na wyniki wyborów w USA",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261104/dzien-na-gpw-poczatek-sesji-moze-byc-spadkowy-w-reakcji-na-wyniki-wyborow-w-usa",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "08:49",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Złoto drożeje po wyborach połówkowych w USA",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261104/dzien-na-rynkach-zloto-drozeje-po-wyborach-polowkowych-w-usa",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:26",
     "kind": "news",

@@ -1,7 +1,53 @@
 {
  "date": "2026-11-04",
- "count": 45,
+ "count": 49,
  "items": [
+  {
+   "id": "bossa-pap-439097",
+   "date": "2026-11-04",
+   "time": "08:56",
+   "ts": "2026-11-04T08:56:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: Początek sesji może być spadkowy w reakcji na wyniki wyborów w USA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439097"
+  },
+  {
+   "id": "strefa-0259bef937cb",
+   "date": "2026-11-04",
+   "time": "08:55",
+   "ts": "2026-11-04T08:55:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: Początek sesji może być spadkowy w reakcji na wyniki wyborów w USA",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/dzien-na-gpw-poczatek-sesji-moze-byc-spadkowy-w-reakcji-na-wyniki-wyborow-w-usa"
+  },
+  {
+   "id": "bossa-pap-439096",
+   "date": "2026-11-04",
+   "time": "08:53",
+   "ts": "2026-11-04T08:53:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Złoto drożeje po wyborach połówkowych w USA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439096"
+  },
+  {
+   "id": "strefa-5c1d0ec2b24c",
+   "date": "2026-11-04",
+   "time": "08:49",
+   "ts": "2026-11-04T08:49:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Złoto drożeje po wyborach połówkowych w USA",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/dzien-na-rynkach-zloto-drozeje-po-wyborach-polowkowych-w-usa"
+  },
   {
    "id": "bossa-pap-439095",
    "date": "2026-11-04",
