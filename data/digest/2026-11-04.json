@@ -4,18 +4,18 @@
   "podsumowania": 11,
   "wyniki": 2,
   "rekomendacje": 1,
-  "korporacyjne": 3,
-  "makro_pl": 6,
+  "korporacyjne": 4,
+  "makro_pl": 9,
   "swiat_rynki": 6,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 6
+  "pozostale": 8
  },
- "duplicatesRemoved": 27,
- "total": 66,
+ "duplicatesRemoved": 30,
+ "total": 75,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -160,6 +160,17 @@
   ],
   "korporacyjne": [
    {
+    "time": "09:58",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ASBISc: Decyzja Rady Dyrektorów o wypłacie zaliczki na poczet dywidendy za 2026 rok.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23326",
+    "src": "bossa",
+    "flags": [
+     "dywidenda"
+    ]
+   },
+   {
     "time": "08:30",
     "kind": "espi",
     "ticker": null,
@@ -192,6 +203,33 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "10:00",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PZU ETF OBLIGACJI SKARBOWYCH DŁUGOTERMINOWYCH PORTFELOWY FIZ: RB_FI_E_30.04.18",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23327",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "09:57",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeks PMI w Niemczech w usługach w X: 52,5 pkt. Wstępnie: 51,7 pkt.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439109",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "09:52",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeks PMI we Francji w usługach w X: 46,2 pkt. Wstępnie: 48,4 pkt.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439107",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:41",
     "kind": "pap",
@@ -347,6 +385,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:58",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wonderful zainwestuje ponad 200 mln zł w Polsce w latach 2027-29",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439111",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "09:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "Digitree Group integruje segment agencyjny pod wspólną marką. Euvic Digital zmienia się w Digitree Agency",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261104/digitree-group-integruje-segment-agencyjny-pod-wspolna-marka-euvic-digital",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:26",
     "kind": "pap",
