@@ -1,7 +1,19 @@
 {
  "date": "2026-11-04",
- "count": 5,
+ "count": 6,
  "items": [
+  {
+   "id": "bossa-pap-439073",
+   "date": "2026-11-04",
+   "time": "06:05",
+   "ts": "2026-11-04T06:05:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Konsensus PAP: Stopy NBP bez zmian w listopadzie i do końca III kw. 2027 r., potem jedna obniżka (powt.)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439073"
+  },
   {
    "id": "bossa-pap-439072",
    "date": "2026-11-04",

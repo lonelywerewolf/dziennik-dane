@@ -35,7 +35,19 @@
    "chgPct": 5.23,
    "at": "Nov 3, 2026",
    "src": "https://www.nasdaq.com/market-activity/stocks/vrt"
+  },
+  "^NDQ": {
+   "price": 25372.01,
+   "chgPct": 0.83,
+   "at": "Nov 3, 2026",
+   "src": "https://www.nasdaq.com/market-activity/index/comp"
+  },
+  "^SOX": {
+   "price": 10600.4,
+   "chgPct": 2.63,
+   "at": "Nov 3, 2026",
+   "src": "https://www.nasdaq.com/market-activity/index/sox"
   }
  },
- "updatedAt": "2026-11-04T06:05:43+01:00"
+ "updatedAt": "2026-11-04T06:17:29+01:00"
 }
