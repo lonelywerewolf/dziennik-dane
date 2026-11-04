@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 3
  },
- "duplicatesRemoved": 0,
- "total": 11,
+ "duplicatesRemoved": 1,
+ "total": 12,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -107,20 +107,20 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "06:41",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261104/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "06:38",
     "kind": "pap",
     "ticker": null,
     "title": "Wskaźniki referencyjne ON na wybranych rynkach rozwiniętych (tabela)",
     "url": "https://bossa.pl/analizy/komunikaty#message-439078",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "06:35",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439075",
     "src": "bossa",
     "flags": []
    },
