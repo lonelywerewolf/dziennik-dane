@@ -1,7 +1,90 @@
 {
  "date": "2026-11-04",
- "count": 75,
+ "count": 83,
  "items": [
+  {
+   "id": "bossa-pap-439119",
+   "date": "2026-11-04",
+   "time": "10:11",
+   "ts": "2026-11-04T10:11:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wyniki midterms w USA dają przestrzeń do spadku eurozłotego poniżej 4,40 - BGK (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439119"
+  },
+  {
+   "id": "strefa-bc6329393b55",
+   "date": "2026-11-04",
+   "time": "10:06",
+   "ts": "2026-11-04T10:06:52+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Asbis wypłaci zaliczkę na dywidendę w wysokości 0,35 USD na akcję",
+   "ticker": "ASB",
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/asbis-wyplaci-zaliczke-na-dywidende-w-wysokosci-035-usd-na-akcje"
+  },
+  {
+   "id": "bossa-pap-439118",
+   "date": "2026-11-04",
+   "time": "10:06",
+   "ts": "2026-11-04T10:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Asbis wypłaci zaliczkę na dywidendę w wysokości 0,35 USD na akcję",
+   "ticker": "ASB",
+   "url": "https://bossa.pl/analizy/komunikaty#message-439118"
+  },
+  {
+   "id": "bossa-espi-23331",
+   "date": "2026-11-04",
+   "time": "10:06",
+   "ts": "2026-11-04T10:06:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF WIG20 TR + mWIG40 TR PORTFELOWY FIZ",
+   "title": "RB_FI_E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23331"
+  },
+  {
+   "id": "bossa-espi-23330",
+   "date": "2026-11-04",
+   "time": "10:04",
+   "ts": "2026-11-04T10:04:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF MSCI WORLD PORTFELOWY FIZ",
+   "title": "RB_FI_E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23330"
+  },
+  {
+   "id": "bossa-pap-439114",
+   "date": "2026-11-04",
+   "time": "10:02",
+   "ts": "2026-11-04T10:02:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeks PMI w usługach strefy euro w X: 51,4 pkt. Wstępnie: 51,7 pkt.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439114"
+  },
+  {
+   "id": "bossa-espi-23329",
+   "date": "2026-11-04",
+   "time": "10:02",
+   "ts": "2026-11-04T10:02:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF GOLD PORTFELOWY FIZ",
+   "title": "RB_FI_E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23329"
+  },
   {
    "id": "bossa-espi-23328",
    "date": "2026-11-04",
@@ -61,6 +144,17 @@
    "title": "Indeks PMI w Niemczech w usługach w X: 52,5 pkt. Wstępnie: 51,7 pkt.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439109"
+  },
+  {
+   "id": "strefa-a008a55f35ed",
+   "date": "2026-11-04",
+   "time": "09:56",
+   "ts": "2026-11-04T09:56:11+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "ASBIS wypłaci historycznie najwyższą dywidendę zaliczkową",
+   "ticker": "ASB",
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/asbis-wyplaci-historycznie-najwyzsza-dywidende-zaliczkowa"
   },
   {
    "id": "strefa-ab0d0338d045",

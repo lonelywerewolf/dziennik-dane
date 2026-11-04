@@ -2,20 +2,20 @@
  "date": "2026-11-04",
  "counts": {
   "podsumowania": 11,
-  "wyniki": 2,
+  "wyniki": 3,
   "rekomendacje": 1,
   "korporacyjne": 4,
-  "makro_pl": 9,
+  "makro_pl": 10,
   "swiat_rynki": 6,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
-  "twoje_spolki": 1,
+  "twoje_spolki": 3,
   "obserwowane": 0,
   "pozostale": 8
  },
- "duplicatesRemoved": 30,
- "total": 75,
+ "duplicatesRemoved": 34,
+ "total": 83,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -125,6 +125,17 @@
   ],
   "wyniki": [
    {
+    "time": "10:11",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wyniki midterms w USA dają przestrzeń do spadku eurozłotego poniżej 4,40 - BGK (opinia)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439119",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
     "time": "08:17",
     "kind": "news",
     "ticker": null,
@@ -203,6 +214,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "10:02",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeks PMI w usługach strefy euro w X: 51,4 pkt. Wstępnie: 51,7 pkt.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439114",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:00",
     "kind": "espi",
@@ -373,6 +393,28 @@
   "nieruchomosci": [],
   "fundusze_drobne": [],
   "twoje_spolki": [
+   {
+    "time": "10:06",
+    "kind": "news",
+    "ticker": "ASB",
+    "title": "Asbis wypłaci zaliczkę na dywidendę w wysokości 0,35 USD na akcję",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261104/asbis-wyplaci-zaliczke-na-dywidende-w-wysokosci-035-usd-na-akcje",
+    "src": "strefainwestorow",
+    "flags": [
+     "dywidenda"
+    ]
+   },
+   {
+    "time": "09:56",
+    "kind": "news",
+    "ticker": "ASB",
+    "title": "ASBIS wypłaci historycznie najwyższą dywidendę zaliczkową",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261104/asbis-wyplaci-historycznie-najwyzsza-dywidende-zaliczkowa",
+    "src": "strefainwestorow",
+    "flags": [
+     "dywidenda"
+    ]
+   },
    {
     "time": "08:22",
     "kind": "news",
