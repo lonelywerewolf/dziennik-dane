@@ -1,7 +1,19 @@
 {
  "date": "2026-11-04",
- "count": 311,
+ "count": 314,
  "items": [
+  {
+   "id": "bossa-espi-23412",
+   "date": "2026-11-04",
+   "time": "22:11",
+   "ts": "2026-11-04T22:11:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "POLENERGIA",
+   "title": "POWOŁANIE CZŁONKA RADY NADZORCZEJ",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23412"
+  },
   {
    "id": "bossa-espi-23411",
    "date": "2026-11-04",
@@ -13,6 +25,18 @@
    "title": "Zawiadomienie o ustanowieniu przez osobę pełniącą obowiązki zarządcze zastawu na akcjach CI Games SE",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23411"
+  },
+  {
+   "id": "bossa-pap-439291",
+   "date": "2026-11-04",
+   "time": "21:57",
+   "ts": "2026-11-04T21:57:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "POLSKA GRUPA HUTNICZA SA (34/2026) Zakończenie subskrypcji lub sprzedaży, związanej z wprowadzeniem instrumentów finansowych emitenta do obrotu w alternatywnym systemie",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439291"
   },
   {
    "id": "bossa-espi-23409",
@@ -37,6 +61,17 @@
    "title": "Amerykańska Agencja ds. Żywności i Leków (FDA) wspiera rejestrację MabionCD20 jako innowacyjnego leku biologicznego",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23408"
+  },
+  {
+   "id": "strefa-7fd7ee88594a",
+   "date": "2026-11-04",
+   "time": "21:06",
+   "ts": "2026-11-04T21:06:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Mocne wzrosty na Wall Street po wyborach w USA",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/dzien-na-rynkach-mocne-wzrosty-na-wall-street-po-wyborach-w-usa"
   },
   {
    "id": "bossa-pap-439287",

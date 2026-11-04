@@ -1,24 +1,33 @@
 {
  "date": "2026-11-04",
  "counts": {
-  "podsumowania": 19,
+  "podsumowania": 20,
   "wyniki": 7,
   "rekomendacje": 2,
   "korporacyjne": 39,
   "makro_pl": 31,
   "swiat_rynki": 26,
-  "energetyka_surowce": 7,
+  "energetyka_surowce": 8,
   "nieruchomosci": 1,
   "fundusze_drobne": 12,
   "twoje_spolki": 3,
   "obserwowane": 0,
-  "pozostale": 45
+  "pozostale": 46
  },
  "duplicatesRemoved": 119,
- "total": 311,
+ "total": 314,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "21:06",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Mocne wzrosty na Wall Street po wyborach w USA",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261104/dzien-na-rynkach-mocne-wzrosty-na-wall-street-po-wyborach-w-usa",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "18:07",
     "kind": "news",
@@ -1218,6 +1227,15 @@
   ],
   "energetyka_surowce": [
    {
+    "time": "22:11",
+    "kind": "espi",
+    "ticker": null,
+    "title": "POLENERGIA: POWOŁANIE CZŁONKA RADY NADZORCZEJ",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23412",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "15:34",
     "kind": "pap",
     "ticker": null,
@@ -1437,6 +1455,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "21:57",
+    "kind": "pap",
+    "ticker": null,
+    "title": "POLSKA GRUPA HUTNICZA SA (34/2026) Zakończenie subskrypcji lub sprzedaży, związanej z wprowadzeniem instrumentów finansowych emitenta do obrotu w alternatywnym systemie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439291",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "21:08",
     "kind": "espi",
