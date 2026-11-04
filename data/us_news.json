@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "4d85fb43a9c6",
+   "ticker": "NVDA",
+   "time": "2026-11-04T10:22+01:00",
+   "title": "Where Will Amazon Be in 5 Years?",
+   "url": "https://www.nasdaq.com/articles/where-will-amazon-be-5-years",
+   "src": "nasdaq",
+   "summary": "Key PointsInvestors have worried about Amazon&rsquo;s spending on the AI infrastructure build-out."
+  },
+  {
    "id": "64669eda5837",
    "ticker": "ASML",
    "time": "2026-11-04T00:36+01:00",
@@ -784,5 +793,5 @@
    "summary": "Key PointsASML is one of the most important companies in the global semiconductor ecosystem, but its stock price performance has left a lot to be desired over the past three years."
   }
  ],
- "updatedAt": "2026-11-04T10:26:55+01:00"
+ "updatedAt": "2026-11-04T10:50:40+01:00"
 }

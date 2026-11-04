@@ -4,18 +4,18 @@
   "podsumowania": 11,
   "wyniki": 3,
   "rekomendacje": 1,
-  "korporacyjne": 5,
-  "makro_pl": 11,
+  "korporacyjne": 7,
+  "makro_pl": 13,
   "swiat_rynki": 8,
-  "energetyka_surowce": 3,
+  "energetyka_surowce": 4,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 3,
   "obserwowane": 0,
-  "pozostale": 8
+  "pozostale": 10
  },
  "duplicatesRemoved": 36,
- "total": 89,
+ "total": 96,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -171,6 +171,28 @@
   ],
   "korporacyjne": [
    {
+    "time": "10:44",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GEOTRANS S.A.: Zawarcie przedwstępnej umowy sprzedaży przez spółkę zależną od Emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23336",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "10:35",
+    "kind": "espi",
+    "ticker": null,
+    "title": "TRANS POLONIA S.A.: Informacja o transakcji w trybie art. 19 ust. 1 MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23335",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
     "time": "10:20",
     "kind": "pap",
     "ticker": null,
@@ -225,6 +247,24 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "10:40",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeks PMI w usługach w Wielkiej Brytanii w X: 52,8 pkt. Wstępnie: 53,1 pkt.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439128",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:30",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MICHAEL/STRÖM OBLIGACJI KORPORACYJNYCH FIZ: WANCI-E_30.04.18",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23334",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:21",
     "kind": "espi",
@@ -401,6 +441,15 @@
   ],
   "energetyka_surowce": [
    {
+    "time": "10:48",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wolumen obrotu energią elektryczną na TGE wzrósł w październiku o 19,3 proc. rdr",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439131",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "09:29",
     "kind": "news",
     "ticker": null,
@@ -465,6 +514,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "10:47",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MKiŚ: Szerszeń żółtonogi w Polsce. Co zrobić, gdy go zauważysz? (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439130",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźniki referencyjne - SONIA",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439126",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:58",
     "kind": "pap",
