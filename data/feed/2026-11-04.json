@@ -1,7 +1,31 @@
 {
  "date": "2026-11-04",
- "count": 208,
+ "count": 210,
  "items": [
+  {
+   "id": "bossa-espi-23387",
+   "date": "2026-11-04",
+   "time": "16:03",
+   "ts": "2026-11-04T16:03:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "COLUMBUS ENERGY S.A.",
+   "title": "Zawarcie aneksu do umowy pożyczki - wydłużenie terminu spłaty pożyczki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23387"
+  },
+  {
+   "id": "bossa-pap-439222",
+   "date": "2026-11-04",
+   "time": "15:51",
+   "ts": "2026-11-04T15:51:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Port Polska na początku 2027 r. rozpocznie proces zapytania ofertowego dot. finansowania",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439222"
+  },
   {
    "id": "strefa-7ccfbbeec2be",
    "date": "2026-11-04",

@@ -4,18 +4,18 @@
   "podsumowania": 13,
   "wyniki": 4,
   "rekomendacje": 1,
-  "korporacyjne": 26,
+  "korporacyjne": 27,
   "makro_pl": 21,
   "swiat_rynki": 18,
   "energetyka_surowce": 7,
   "nieruchomosci": 1,
-  "fundusze_drobne": 9,
+  "fundusze_drobne": 10,
   "twoje_spolki": 3,
   "obserwowane": 0,
   "pozostale": 29
  },
  "duplicatesRemoved": 76,
- "total": 208,
+ "total": 210,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -197,6 +197,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "16:03",
+    "kind": "espi",
+    "ticker": null,
+    "title": "COLUMBUS ENERGY S.A.: Zawarcie aneksu do umowy pożyczki - wydłużenie terminu spłaty pożyczki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23387",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "15:13",
     "kind": "espi",
@@ -900,6 +911,15 @@
    }
   ],
   "fundusze_drobne": [
+   {
+    "time": "15:51",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Port Polska na początku 2027 r. rozpocznie proces zapytania ofertowego dot. finansowania",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439222",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:48",
     "kind": "news",
