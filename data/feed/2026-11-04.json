@@ -1,7 +1,31 @@
 {
  "date": "2026-11-04",
- "count": 315,
+ "count": 317,
  "items": [
+  {
+   "id": "bossa-espi-23414",
+   "date": "2026-11-04",
+   "time": "23:07",
+   "ts": "2026-11-04T23:07:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "GLOBAL HYDROGEN S.A.",
+   "title": "Zawiadomienie o zmianie stanu posiadania",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23414"
+  },
+  {
+   "id": "bossa-espi-23413",
+   "date": "2026-11-04",
+   "time": "23:06",
+   "ts": "2026-11-04T23:06:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "CREOTECH INSTRUMENTS S.A.",
+   "title": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia Creotech Instruments S.A. na dzień 1 grudnia 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23413"
+  },
   {
    "id": "bossa-pap-439293",
    "date": "2026-11-04",

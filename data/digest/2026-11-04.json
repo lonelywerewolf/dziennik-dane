@@ -4,7 +4,7 @@
   "podsumowania": 20,
   "wyniki": 7,
   "rekomendacje": 2,
-  "korporacyjne": 39,
+  "korporacyjne": 40,
   "makro_pl": 31,
   "swiat_rynki": 26,
   "energetyka_surowce": 8,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 12,
   "twoje_spolki": 3,
   "obserwowane": 0,
-  "pozostale": 46
+  "pozostale": 47
  },
  "duplicatesRemoved": 120,
- "total": 315,
+ "total": 317,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -300,6 +300,15 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "23:06",
+    "kind": "espi",
+    "ticker": null,
+    "title": "CREOTECH INSTRUMENTS S.A.: Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia Creotech Instruments S.A. na dzień 1 grudnia 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23413",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "22:01",
     "kind": "espi",
@@ -1455,6 +1464,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "23:07",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GLOBAL HYDROGEN S.A.: Zawiadomienie o zmianie stanu posiadania",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23414",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "21:57",
     "kind": "pap",
