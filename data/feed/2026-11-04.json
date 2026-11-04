@@ -1,7 +1,31 @@
 {
  "date": "2026-11-04",
- "count": 189,
+ "count": 191,
  "items": [
+  {
+   "id": "bossa-espi-23382",
+   "date": "2026-11-04",
+   "time": "15:13",
+   "ts": "2026-11-04T15:13:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "IPOPEMA BENEFIT 3 FIZ AN",
+   "title": "PC-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23382"
+  },
+  {
+   "id": "bossa-pap-439207",
+   "date": "2026-11-04",
+   "time": "15:06",
+   "ts": "2026-11-04T15:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "VIENNA OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439207"
+  },
   {
    "id": "bossa-pap-439206",
    "date": "2026-11-04",

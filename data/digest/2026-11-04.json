@@ -4,7 +4,7 @@
   "podsumowania": 13,
   "wyniki": 4,
   "rekomendacje": 1,
-  "korporacyjne": 25,
+  "korporacyjne": 26,
   "makro_pl": 19,
   "swiat_rynki": 16,
   "energetyka_surowce": 6,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 26
  },
- "duplicatesRemoved": 71,
- "total": 189,
+ "duplicatesRemoved": 72,
+ "total": 191,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -197,6 +197,15 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "15:13",
+    "kind": "espi",
+    "ticker": null,
+    "title": "IPOPEMA BENEFIT 3 FIZ AN: PC-E_30.04.18",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23382",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:59",
     "kind": "pap",
