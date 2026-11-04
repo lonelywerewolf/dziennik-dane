@@ -4,18 +4,18 @@
   "podsumowania": 4,
   "wyniki": 0,
   "rekomendacje": 0,
-  "korporacyjne": 0,
-  "makro_pl": 3,
-  "swiat_rynki": 1,
+  "korporacyjne": 1,
+  "makro_pl": 4,
+  "swiat_rynki": 2,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 3
+  "pozostale": 4
  },
- "duplicatesRemoved": 7,
- "total": 19,
+ "duplicatesRemoved": 8,
+ "total": 24,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -58,8 +58,29 @@
   ],
   "wyniki": [],
   "rekomendacje": [],
-  "korporacyjne": [],
+  "korporacyjne": [
+   {
+    "time": "07:31",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Matexi Polska Holding/Matexi Polska Holding & Finance Spółka Akcyjna (5/2026) Powołanie osoby zarządzającej lub nadzorującej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439082",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   }
+  ],
   "makro_pl": [
+   {
+    "time": "07:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Złotowe depozyty międzybankowe - WIBID, WIBOR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439081",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "06:41",
     "kind": "news",
@@ -90,6 +111,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Inwestorzy przygotowują się na Kongres USA pod kontrolą Demokratów; obawy o sektor AI (opinia)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261104/inwestorzy-przygotowuja-sie-na-kongres-usa-pod-kontrola-demokratow-obawy-o",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "01:06",
     "kind": "pap",
     "ticker": null,
@@ -115,6 +145,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "07:39",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Ceny ropy na świecie rosną, ale na razie nie mocno",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439084",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "07:01",
     "kind": "news",

@@ -1,7 +1,55 @@
 {
  "date": "2026-11-04",
- "count": 19,
+ "count": 24,
  "items": [
+  {
+   "id": "bossa-pap-439084",
+   "date": "2026-11-04",
+   "time": "07:39",
+   "ts": "2026-11-04T07:39:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ceny ropy na świecie rosną, ale na razie nie mocno",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439084"
+  },
+  {
+   "id": "bossa-pap-439083",
+   "date": "2026-11-04",
+   "time": "07:38",
+   "ts": "2026-11-04T07:38:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Inwestorzy przygotowują się na Kongres USA pod kontrolą Demokratów; obawy o sektor AI (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439083"
+  },
+  {
+   "id": "bossa-pap-439082",
+   "date": "2026-11-04",
+   "time": "07:31",
+   "ts": "2026-11-04T07:31:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Matexi Polska Holding/Matexi Polska Holding & Finance Spółka Akcyjna (5/2026) Powołanie osoby zarządzającej lub nadzorującej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439082"
+  },
+  {
+   "id": "bossa-pap-439081",
+   "date": "2026-11-04",
+   "time": "07:30",
+   "ts": "2026-11-04T07:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Złotowe depozyty międzybankowe - WIBID, WIBOR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439081"
+  },
   {
    "id": "bossa-pap-439080",
    "date": "2026-11-04",
@@ -13,6 +61,17 @@
    "title": "Indeks PMI w Chinach w usługach w X wg RatingDog: 50,8 pkt. Konsensus: 51,7 pkt.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439080"
+  },
+  {
+   "id": "strefa-e7ff2733a1ca",
+   "date": "2026-11-04",
+   "time": "07:01",
+   "ts": "2026-11-04T07:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Inwestorzy przygotowują się na Kongres USA pod kontrolą Demokratów; obawy o sektor AI (opinia)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/inwestorzy-przygotowuja-sie-na-kongres-usa-pod-kontrola-demokratow-obawy-o"
   },
   {
    "id": "strefa-8407c504df7b",
