@@ -1,7 +1,19 @@
 {
  "date": "2026-11-04",
- "count": 179,
+ "count": 181,
  "items": [
+  {
+   "id": "bossa-pap-439199",
+   "date": "2026-11-04",
+   "time": "14:42",
+   "ts": "2026-11-04T14:42:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Futures w USA rosną po wyborach środka kadencji do Kongresu USA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439199"
+  },
   {
    "id": "bossa-pap-439198",
    "date": "2026-11-04",
@@ -25,6 +37,17 @@
    "title": "Bilans handlowy USA w IX: -105 mld USD. Konsensus: -107,9 mld USD. Poprzednio: -105,7 mld USD",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439197"
+  },
+  {
+   "id": "strefa-b2639f0e0af3",
+   "date": "2026-11-04",
+   "time": "14:24",
+   "ts": "2026-11-04T14:24:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Futures w USA rosną po wyborach środka kadencji do Kongresu USA",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/dzien-na-rynkach-futures-w-usa-rosna-po-wyborach-srodka-kadencji-do-kongresu"
   },
   {
    "id": "strefa-55e4c754994b",

@@ -1,7 +1,7 @@
 {
  "date": "2026-11-04",
  "counts": {
-  "podsumowania": 12,
+  "podsumowania": 13,
   "wyniki": 3,
   "rekomendacje": 1,
   "korporacyjne": 22,
@@ -14,11 +14,20 @@
   "obserwowane": 0,
   "pozostale": 25
  },
- "duplicatesRemoved": 69,
- "total": 179,
+ "duplicatesRemoved": 70,
+ "total": 181,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "14:24",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Futures w USA rosną po wyborach środka kadencji do Kongresu USA",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261104/dzien-na-rynkach-futures-w-usa-rosna-po-wyborach-srodka-kadencji-do-kongresu",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "11:03",
     "kind": "news",
