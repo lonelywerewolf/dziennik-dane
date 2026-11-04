@@ -1,0 +1,54 @@
+{
+ "date": "2026-11-05",
+ "count": 4,
+ "items": [
+  {
+   "id": "bossa-espi-23418",
+   "date": "2026-11-05",
+   "time": "00:05",
+   "ts": "2026-11-05T00:05:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BANK HANDLOWY W WARSZAWIE S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23418"
+  },
+  {
+   "id": "bossa-espi-23417",
+   "date": "2026-11-05",
+   "time": "00:04",
+   "ts": "2026-11-05T00:04:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PKO BANK HIPOTECZNY S.A.",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23417"
+  },
+  {
+   "id": "bossa-espi-23416",
+   "date": "2026-11-05",
+   "time": "00:04",
+   "ts": "2026-11-05T00:04:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ASBISc",
+   "title": "QS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23416"
+  },
+  {
+   "id": "bossa-espi-23415",
+   "date": "2026-11-05",
+   "time": "00:03",
+   "ts": "2026-11-05T00:03:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PKO BANK POLSKI S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23415"
+  }
+ ]
+}
