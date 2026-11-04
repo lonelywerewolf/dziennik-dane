@@ -1,24 +1,33 @@
 {
  "date": "2026-11-04",
  "counts": {
-  "podsumowania": 10,
+  "podsumowania": 11,
   "wyniki": 2,
   "rekomendacje": 1,
   "korporacyjne": 3,
   "makro_pl": 4,
   "swiat_rynki": 6,
-  "energetyka_surowce": 2,
+  "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
   "pozostale": 6
  },
- "duplicatesRemoved": 24,
- "total": 59,
+ "duplicatesRemoved": 26,
+ "total": 63,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "09:19",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: W Europie na giełdach indeksy w górę",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261104/dzien-na-rynkach-w-europie-na-gieldach-indeksy-w-gore",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:16",
     "kind": "news",
@@ -277,6 +286,15 @@
    }
   ],
   "energetyka_surowce": [
+   {
+    "time": "09:29",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny miedzi w dół na giełdzie w Londynie. Notowania węgla bez zmian",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261104/ceny-miedzi-w-dol-na-gieldzie-w-londynie-notowania-wegla-bez-zmian",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:06",
     "kind": "espi",
