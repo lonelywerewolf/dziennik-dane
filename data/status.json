@@ -1,29 +1,29 @@
 {
  "last": {
-  "runAt": "2026-11-04T08:15:13+01:00",
+  "runAt": "2026-11-04T08:26:51+01:00",
   "sources": {
    "bossa": {
     "pages": 2,
-    "new": 2,
+    "new": 5,
     "complete": true,
-    "newest": "2026-11-04T08:07:00+01:00",
-    "oldestSeen": "2026-11-03T18:11:00+01:00",
+    "newest": "2026-11-04T08:25:00+01:00",
+    "oldestSeen": "2026-11-03T18:27:00+01:00",
     "ok": true,
-    "sec": 3.5
+    "sec": 5.3
    },
    "strefa": {
     "pages": 2,
-    "new": 1,
-    "newest": "2026-11-04T07:55:01+01:00",
+    "new": 5,
+    "newest": "2026-11-04T08:23:39+01:00",
     "oldestSeen": "2026-11-04T06:41:01+01:00",
     "complete": false,
     "ok": true,
-    "sec": 4.6
+    "sec": 4.4
    },
    "articles": {
-    "saved": 0,
+    "saved": 2,
     "ok": true,
-    "sec": 0.0
+    "sec": 2.3
    },
    "recs": {
     "new": 0,
@@ -32,14 +32,12 @@
     "oldest": "2025-11-05",
     "newest": "2026-11-02",
     "ok": true,
-    "sec": 2.4
+    "sec": 6.9
    },
    "gpw": {
-    "ok": true,
-    "items": 20,
-    "newest": "04-11-2026 08:06:18",
-    "oldestSeen": "03-11-2026 16:25:07",
-    "sec": 5.1
+    "ok": false,
+    "error": "IncompleteRead(92151 bytes read)",
+    "sec": 5.4
    },
    "gpw_archive": {
     "days": 0,
@@ -54,7 +52,7 @@
     "live": 6,
     "errors": [],
     "ok": true,
-    "sec": 43.9
+    "sec": 51.8
    },
    "us_news": {
     "new": 0,
@@ -63,12 +61,12 @@
     },
     "errors": [],
     "ok": true,
-    "sec": 12.9
+    "sec": 17.2
    },
    "quotes": {
     "ok": true,
     "tickers": 25,
-    "sec": 0.1
+    "sec": 0.0
    },
    "nbp": {
     "ok": true,
@@ -80,13 +78,13 @@
      "2026-11-03",
      4.4233
     ],
-    "sec": 0.8
+    "sec": 1.3
    },
    "insiders": {
     "new": 0,
     "errors": [],
     "ok": true,
-    "sec": 4.2
+    "sec": 5.0
    },
    "conditions": {
     "checked": 0,
@@ -113,7 +111,7 @@
      "20261029_dom_maklerski_banku_ochrony_środowiska_dig_pl_aw.pdf: RemoteDisconnected('Remote end closed connection without response')"
     ],
     "ok": false,
-    "sec": 3.2
+    "sec": 3.4
    },
    "macro": {
     "ok": true,
@@ -125,11 +123,139 @@
     "sent": 0,
     "first": false,
     "commands": [],
-    "sec": 0.3
+    "sec": 0.4
    }
   }
  },
  "runs": [
+  {
+   "runAt": "2026-11-04T08:26:51+01:00",
+   "sources": {
+    "bossa": {
+     "pages": 2,
+     "new": 5,
+     "complete": true,
+     "newest": "2026-11-04T08:25:00+01:00",
+     "oldestSeen": "2026-11-03T18:27:00+01:00",
+     "ok": true,
+     "sec": 5.3
+    },
+    "strefa": {
+     "pages": 2,
+     "new": 5,
+     "newest": "2026-11-04T08:23:39+01:00",
+     "oldestSeen": "2026-11-04T06:41:01+01:00",
+     "complete": false,
+     "ok": true,
+     "sec": 4.4
+    },
+    "articles": {
+     "saved": 2,
+     "ok": true,
+     "sec": 2.3
+    },
+    "recs": {
+     "new": 0,
+     "seen": 294,
+     "total": 286,
+     "oldest": "2025-11-05",
+     "newest": "2026-11-02",
+     "ok": true,
+     "sec": 6.9
+    },
+    "gpw": {
+     "ok": false,
+     "error": "IncompleteRead(92151 bytes read)",
+     "sec": 5.4
+    },
+    "gpw_archive": {
+     "days": 0,
+     "errors": [],
+     "latest": "2026-11-03",
+     "stored": 262,
+     "ok": true,
+     "sec": 0.0
+    },
+    "nasdaq": {
+     "history": 9,
+     "live": 6,
+     "errors": [],
+     "ok": true,
+     "sec": 51.8
+    },
+    "us_news": {
+     "new": 0,
+     "sources": {
+      "nasdaq": 0
+     },
+     "errors": [],
+     "ok": true,
+     "sec": 17.2
+    },
+    "quotes": {
+     "ok": true,
+     "tickers": 25,
+     "sec": 0.0
+    },
+    "nbp": {
+     "ok": true,
+     "USD": [
+      "2026-11-03",
+      3.9526
+     ],
+     "EUR": [
+      "2026-11-03",
+      4.4233
+     ],
+     "sec": 1.3
+    },
+    "insiders": {
+     "new": 0,
+     "errors": [],
+     "ok": true,
+     "sec": 5.0
+    },
+    "conditions": {
+     "checked": 0,
+     "met": 0,
+     "ok": true,
+     "sec": 0.0
+    },
+    "fundamentals": {
+     "pl": 0,
+     "us": 0,
+     "errors": [],
+     "ok": true,
+     "sec": 0.0
+    },
+    "calendar": {
+     "errors": [],
+     "ok": true,
+     "sec": 0.0
+    },
+    "pwpa": {
+     "new": 0,
+     "texts": 0,
+     "errors": [
+      "20261029_dom_maklerski_banku_ochrony_środowiska_dig_pl_aw.pdf: RemoteDisconnected('Remote end closed connection without response')"
+     ],
+     "ok": false,
+     "sec": 3.4
+    },
+    "macro": {
+     "ok": true,
+     "skipped": true,
+     "sec": 0.0
+    },
+    "telegram": {
+     "ok": true,
+     "sent": 0,
+     "first": false,
+     "commands": [],
+     "sec": 0.4
+    }
+   }
+  },
   {
    "runAt": "2026-11-04T08:15:13+01:00",
    "sources": {

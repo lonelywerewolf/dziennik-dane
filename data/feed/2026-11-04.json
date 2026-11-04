@@ -1,7 +1,122 @@
 {
  "date": "2026-11-04",
- "count": 30,
+ "count": 40,
  "items": [
+  {
+   "id": "bossa-pap-439092",
+   "date": "2026-11-04",
+   "time": "08:25",
+   "ts": "2026-11-04T08:25:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Auto Partner szacuje, że w I-III kw. miał 243,1 mln zł skonsolidowanego zysku netto",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439092"
+  },
+  {
+   "id": "strefa-ca8b042ba303",
+   "date": "2026-11-04",
+   "time": "08:23",
+   "ts": "2026-11-04T08:23:39+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Auto Partner szacuje, że w I-III kw. miał 243,1 mln zł skonsolidowanego zysku netto",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/auto-partner-szacuje-ze-w-i-iii-kw-mial-2431-mln-zl-skonsolidowanego-zysku"
+  },
+  {
+   "id": "strefa-05abc4594eca",
+   "date": "2026-11-04",
+   "time": "08:22",
+   "ts": "2026-11-04T08:22:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Stefan Bogucki dołącza do cyber_Folks Group. Budował markę Revolut w Polsce, teraz wzmocni europejskiego lidera technologii e-commerce jako Chief Communications Officer",
+   "ticker": "CBF",
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/stefan-bogucki-dolacza-do-cyberfolks-group-budowal-marke-revolut-w-polsce-teraz"
+  },
+  {
+   "id": "bossa-pap-439090",
+   "date": "2026-11-04",
+   "time": "08:21",
+   "ts": "2026-11-04T08:21:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: W Azji na giełdach wahania najważniejszych wskaźników",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439090"
+  },
+  {
+   "id": "bossa-espi-23324",
+   "date": "2026-11-04",
+   "time": "08:21",
+   "ts": "2026-11-04T08:21:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BUMECH DEFENSE PARTNERS S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23324"
+  },
+  {
+   "id": "strefa-bd60d016e6e2",
+   "date": "2026-11-04",
+   "time": "08:17",
+   "ts": "2026-11-04T08:17:28+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: W Azji na giełdach wahania najważniejszych wskaźników",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/dzien-na-rynkach-w-azji-na-gieldach-wahania-najwazniejszych-wskaznikow"
+  },
+  {
+   "id": "strefa-7d7d6657f46a",
+   "date": "2026-11-04",
+   "time": "08:17",
+   "ts": "2026-11-04T08:17:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Szacunkowe wyniki DataWalk za III kwartał 2026 r",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/szacunkowe-wyniki-datawalk-za-iii-kwartal-2026-r"
+  },
+  {
+   "id": "bossa-pap-439089",
+   "date": "2026-11-04",
+   "time": "08:16",
+   "ts": "2026-11-04T08:16:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "UOKiK zobowiązał cztery banki do zmiany procedur ws. nieautoryzowanych transakcji płatniczych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439089"
+  },
+  {
+   "id": "bossa-espi-23323",
+   "date": "2026-11-04",
+   "time": "08:14",
+   "ts": "2026-11-04T08:14:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "AUTO PARTNER S.A.",
+   "title": "Informacja poufna - wstępne szacunkowe wyniki skonsolidowane za III kwartał 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23323"
+  },
+  {
+   "id": "strefa-ecd80cd40fed",
+   "date": "2026-11-04",
+   "time": "08:08",
+   "ts": "2026-11-04T08:08:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "UOKiK zobowiązał cztery banki do zmiany procedur ws. nieautoryzowanych transakcji płatniczych",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/uokik-zobowiazal-cztery-banki-do-zmiany-procedur-ws-nieautoryzowanych"
+  },
   {
    "id": "bossa-pap-439087",
    "date": "2026-11-04",

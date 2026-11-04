@@ -1,24 +1,33 @@
 {
  "date": "2026-11-04",
  "counts": {
-  "podsumowania": 4,
-  "wyniki": 0,
+  "podsumowania": 5,
+  "wyniki": 2,
   "rekomendacje": 0,
-  "korporacyjne": 1,
+  "korporacyjne": 2,
   "makro_pl": 4,
-  "swiat_rynki": 4,
+  "swiat_rynki": 5,
   "energetyka_surowce": 2,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
-  "twoje_spolki": 0,
+  "twoje_spolki": 1,
   "obserwowane": 0,
   "pozostale": 4
  },
- "duplicatesRemoved": 11,
- "total": 30,
+ "duplicatesRemoved": 15,
+ "total": 40,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "08:17",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: W Azji na giełdach wahania najważniejszych wskaźników",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261104/dzien-na-rynkach-w-azji-na-gieldach-wahania-najwazniejszych-wskaznikow",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "07:01",
     "kind": "news",
@@ -56,9 +65,41 @@
     "flags": []
    }
   ],
-  "wyniki": [],
+  "wyniki": [
+   {
+    "time": "08:17",
+    "kind": "news",
+    "ticker": null,
+    "title": "Szacunkowe wyniki DataWalk za III kwartał 2026 r",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261104/szacunkowe-wyniki-datawalk-za-iii-kwartal-2026-r",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "08:14",
+    "kind": "espi",
+    "ticker": null,
+    "title": "AUTO PARTNER S.A.: Informacja poufna - wstępne szacunkowe wyniki skonsolidowane za III kwartał 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23323",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   }
+  ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "08:08",
+    "kind": "news",
+    "ticker": null,
+    "title": "UOKiK zobowiązał cztery banki do zmiany procedur ws. nieautoryzowanych transakcji płatniczych",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261104/uokik-zobowiazal-cztery-banki-do-zmiany-procedur-ws-nieautoryzowanych",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "07:31",
     "kind": "pap",
@@ -110,6 +151,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "08:23",
+    "kind": "news",
+    "ticker": null,
+    "title": "Auto Partner szacuje, że w I-III kw. miał 243,1 mln zł skonsolidowanego zysku netto",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261104/auto-partner-szacuje-ze-w-i-iii-kw-mial-2431-mln-zl-skonsolidowanego-zysku",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "07:55",
     "kind": "news",
@@ -169,7 +219,17 @@
   ],
   "nieruchomosci": [],
   "fundusze_drobne": [],
-  "twoje_spolki": [],
+  "twoje_spolki": [
+   {
+    "time": "08:22",
+    "kind": "news",
+    "ticker": "CBF",
+    "title": "Stefan Bogucki dołącza do cyber_Folks Group. Budował markę Revolut w Polsce, teraz wzmocni europejskiego lidera technologii e-commerce jako Chief Communications Officer",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261104/stefan-bogucki-dolacza-do-cyberfolks-group-budowal-marke-revolut-w-polsce-teraz",
+    "src": "strefainwestorow",
+    "flags": []
+   }
+  ],
   "obserwowane": [],
   "pozostale": [
    {
