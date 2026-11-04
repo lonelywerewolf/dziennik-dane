@@ -6,16 +6,16 @@
   "rekomendacje": 0,
   "korporacyjne": 1,
   "makro_pl": 4,
-  "swiat_rynki": 3,
-  "energetyka_surowce": 1,
+  "swiat_rynki": 4,
+  "energetyka_surowce": 2,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
   "pozostale": 4
  },
- "duplicatesRemoved": 10,
- "total": 27,
+ "duplicatesRemoved": 11,
+ "total": 30,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -111,6 +111,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "07:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "Najważniejsze indeksy giełdowe w Azji",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261104/najwazniejsze-indeksy-gieldowe-w-azji",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "07:40",
     "kind": "news",
     "ticker": null,
@@ -139,6 +148,15 @@
    }
   ],
   "energetyka_surowce": [
+   {
+    "time": "08:06",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ENERGOINSTAL S.A.: QSr",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23322",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "06:36",
     "kind": "pap",

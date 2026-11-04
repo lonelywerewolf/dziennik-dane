@@ -1,7 +1,42 @@
 {
  "date": "2026-11-04",
- "count": 27,
+ "count": 30,
  "items": [
+  {
+   "id": "bossa-pap-439087",
+   "date": "2026-11-04",
+   "time": "08:07",
+   "ts": "2026-11-04T08:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Najważniejsze indeksy giełdowe w Azji",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439087"
+  },
+  {
+   "id": "bossa-espi-23322",
+   "date": "2026-11-04",
+   "time": "08:06",
+   "ts": "2026-11-04T08:06:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ENERGOINSTAL S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23322"
+  },
+  {
+   "id": "strefa-31100ac40e9f",
+   "date": "2026-11-04",
+   "time": "07:55",
+   "ts": "2026-11-04T07:55:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Najważniejsze indeksy giełdowe w Azji",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/najwazniejsze-indeksy-gieldowe-w-azji"
+  },
   {
    "id": "bossa-pap-439085",
    "date": "2026-11-04",
