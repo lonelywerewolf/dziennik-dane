@@ -1,7 +1,65 @@
 {
  "date": "2026-11-04",
- "count": 49,
+ "count": 54,
  "items": [
+  {
+   "id": "bossa-pap-439100",
+   "date": "2026-11-04",
+   "time": "09:15",
+   "ts": "2026-11-04T09:15:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "WIG20 na otwarciu wyniósł 4136,87 pkt (-0,04%)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439100"
+  },
+  {
+   "id": "bossa-pap-439099",
+   "date": "2026-11-04",
+   "time": "09:08",
+   "ts": "2026-11-04T09:08:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "CBA zatrzymało 25 osób ws. Elektrowni Ostrołęka",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439099"
+  },
+  {
+   "id": "strefa-9999b9ec6ed4",
+   "date": "2026-11-04",
+   "time": "09:05",
+   "ts": "2026-11-04T09:05:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "CBA zatrzymało 25 osób ws. Elektrowni Ostrołęka",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/cba-zatrzymalo-25-osob-ws-elektrowni-ostroleka"
+  },
+  {
+   "id": "bossa-pap-439098",
+   "date": "2026-11-04",
+   "time": "09:03",
+   "ts": "2026-11-04T09:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "BM Millennium rekomenduje \"kupuj\" Archicom, cena docelowa 60,7 zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439098"
+  },
+  {
+   "id": "strefa-2547ed0b6dc4",
+   "date": "2026-11-04",
+   "time": "08:57",
+   "ts": "2026-11-04T08:57:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "BM Millennium rekomenduje \"kupuj\" Archicom, cena docelowa 60,7 zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/bm-millennium-rekomenduje-kupuj-archicom-cena-docelowa-607-zl"
+  },
   {
    "id": "bossa-pap-439097",
    "date": "2026-11-04",
