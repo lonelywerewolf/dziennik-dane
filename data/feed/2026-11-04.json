@@ -1,7 +1,55 @@
 {
  "date": "2026-11-04",
- "count": 7,
+ "count": 11,
  "items": [
+  {
+   "id": "bossa-pap-439078",
+   "date": "2026-11-04",
+   "time": "06:38",
+   "ts": "2026-11-04T06:38:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne ON na wybranych rynkach rozwiniętych (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439078"
+  },
+  {
+   "id": "bossa-pap-439077",
+   "date": "2026-11-04",
+   "time": "06:37",
+   "ts": "2026-11-04T06:37:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Rentowności obligacji wybranych państw (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439077"
+  },
+  {
+   "id": "bossa-pap-439076",
+   "date": "2026-11-04",
+   "time": "06:36",
+   "ts": "2026-11-04T06:36:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439076"
+  },
+  {
+   "id": "bossa-pap-439075",
+   "date": "2026-11-04",
+   "time": "06:35",
+   "ts": "2026-11-04T06:35:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439075"
+  },
   {
    "id": "bossa-pap-439074",
    "date": "2026-11-04",

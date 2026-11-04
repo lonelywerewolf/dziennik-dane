@@ -5,17 +5,17 @@
   "wyniki": 0,
   "rekomendacje": 0,
   "korporacyjne": 0,
-  "makro_pl": 1,
+  "makro_pl": 2,
   "swiat_rynki": 1,
-  "energetyka_surowce": 0,
+  "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 1
+  "pozostale": 3
  },
  "duplicatesRemoved": 0,
- "total": 7,
+ "total": 11,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -61,6 +61,15 @@
   "korporacyjne": [],
   "makro_pl": [
    {
+    "time": "06:37",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Rentowności obligacji wybranych państw (tabela)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439077",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "06:05",
     "kind": "pap",
     "ticker": null,
@@ -81,12 +90,40 @@
     "flags": []
    }
   ],
-  "energetyka_surowce": [],
+  "energetyka_surowce": [
+   {
+    "time": "06:36",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439076",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "nieruchomosci": [],
   "fundusze_drobne": [],
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "06:38",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźniki referencyjne ON na wybranych rynkach rozwiniętych (tabela)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439078",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "06:35",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439075",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "06:00",
     "kind": "pap",
