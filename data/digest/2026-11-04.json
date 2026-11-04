@@ -4,7 +4,7 @@
   "podsumowania": 19,
   "wyniki": 7,
   "rekomendacje": 2,
-  "korporacyjne": 38,
+  "korporacyjne": 39,
   "makro_pl": 31,
   "swiat_rynki": 26,
   "energetyka_surowce": 7,
@@ -15,7 +15,7 @@
   "pozostale": 45
  },
  "duplicatesRemoved": 119,
- "total": 310,
+ "total": 311,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -291,6 +291,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "22:01",
+    "kind": "espi",
+    "ticker": null,
+    "title": "CI GAMES S.E.: Zawiadomienie o ustanowieniu przez osobę pełniącą obowiązki zarządcze zastawu na akcjach CI Games SE",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23411",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "19:32",
     "kind": "espi",

@@ -1,7 +1,19 @@
 {
  "date": "2026-11-04",
- "count": 310,
+ "count": 311,
  "items": [
+  {
+   "id": "bossa-espi-23411",
+   "date": "2026-11-04",
+   "time": "22:01",
+   "ts": "2026-11-04T22:01:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "CI GAMES S.E.",
+   "title": "Zawiadomienie o ustanowieniu przez osobę pełniącą obowiązki zarządcze zastawu na akcjach CI Games SE",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23411"
+  },
   {
    "id": "bossa-espi-23409",
    "date": "2026-11-04",
