@@ -5,17 +5,17 @@
   "wyniki": 4,
   "rekomendacje": 1,
   "korporacyjne": 26,
-  "makro_pl": 19,
-  "swiat_rynki": 17,
+  "makro_pl": 21,
+  "swiat_rynki": 18,
   "energetyka_surowce": 7,
   "nieruchomosci": 1,
-  "fundusze_drobne": 7,
+  "fundusze_drobne": 9,
   "twoje_spolki": 3,
   "obserwowane": 0,
-  "pozostale": 28
+  "pozostale": 29
  },
- "duplicatesRemoved": 74,
- "total": 200,
+ "duplicatesRemoved": 76,
+ "total": 208,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -470,6 +470,24 @@
   ],
   "makro_pl": [
    {
+    "time": "15:48",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeks PMI composite w USA w październiku: 55,9 pkt. Wstępnie: 57,6 pkt. Poprzednio: 58,4 pkt.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439220",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:46",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeks PMI w usługach USA w październiku: 56,1 pkt. Wstępnie: 57,9 pkt. Poprzednio: 58,8 pkt.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439217",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "14:43",
     "kind": "news",
     "ticker": null,
@@ -642,6 +660,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "15:41",
+    "kind": "news",
+    "ticker": null,
+    "title": "ORLEN zakończył rozbudowę Podziemnego Magazynu Gazu Wierzchowice",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261104/orlen-zakonczyl-rozbudowe-podziemnego-magazynu-gazu-wierzchowice",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "14:59",
     "kind": "news",
@@ -874,6 +901,24 @@
   ],
   "fundusze_drobne": [
    {
+    "time": "15:48",
+    "kind": "news",
+    "ticker": null,
+    "title": "OFE wartości jednostek rozrachunkowych z 2026.11.03",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261104/ofe-wartosci-jednostek-rozrachunkowych-z-20261103",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "15:47",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GENERALI OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439219",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "15:35",
     "kind": "pap",
     "ticker": null,
@@ -972,6 +1017,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "15:47",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa Menarini i Ryvu Therapeutics ogłaszają pierwsze dane kliniczne z badania fazy II dapolsertibu JASPIS-01 podczas konferencji ASH 2026",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261104/grupa-menarini-i-ryvu-therapeutics-oglaszaja-pierwsze-dane-kliniczne-z-badania",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "15:33",
     "kind": "espi",

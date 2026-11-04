@@ -1,59 +1,59 @@
 {
  "q": {
   "ASML": {
-   "price": 1529.39,
-   "chgPct": -1.47,
-   "at": "Nov 4, 2026 9:44 AM ET",
+   "price": 1516.13,
+   "chgPct": -2.32,
+   "at": "Nov 4, 2026 9:55 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/asml"
   },
   "AVGO": {
-   "price": 332.57,
-   "chgPct": 0.13,
-   "at": "Nov 4, 2026 9:44 AM ET",
+   "price": 331.205,
+   "chgPct": -0.28,
+   "at": "Nov 4, 2026 9:56 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/avgo"
   },
   "MPWR": {
-   "price": 1313.7775,
-   "chgPct": -1.09,
-   "at": "Nov 4, 2026 9:44 AM ET",
+   "price": 1297.195,
+   "chgPct": -2.34,
+   "at": "Nov 4, 2026 9:56 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/mpwr"
   },
   "NVDA": {
-   "price": 206.3233,
-   "chgPct": -0.18,
-   "at": "Nov 4, 2026 9:44 AM ET",
+   "price": 204.46,
+   "chgPct": -1.08,
+   "at": "Nov 4, 2026 9:56 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/nvda"
   },
   "TSM": {
-   "price": 409.34,
-   "chgPct": 1.12,
-   "at": "Nov 4, 2026 9:44 AM ET",
+   "price": 406.0,
+   "chgPct": 0.3,
+   "at": "Nov 4, 2026 9:56 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/tsm"
   },
   "VRT": {
-   "price": 218.66,
-   "chgPct": -7.34,
-   "at": "Nov 4, 2026 9:44 AM ET",
+   "price": 215.7692,
+   "chgPct": -8.56,
+   "at": "Nov 4, 2026 9:56 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/vrt"
   },
   "^NDQ": {
-   "price": 25845.04,
-   "chgPct": 1.86,
-   "at": "Nov 4, 2026 9:42 AM ET",
+   "price": 25866.18,
+   "chgPct": 1.95,
+   "at": "Nov 4, 2026 9:54 AM ET",
    "src": "https://www.nasdaq.com/market-activity/index/comp"
   },
   "^SOX": {
-   "price": 10600.04,
-   "chgPct": -0.0,
-   "at": "Nov 4, 2026 9:43 AM ET",
+   "price": 10485.39,
+   "chgPct": -1.08,
+   "at": "Nov 4, 2026 9:54 AM ET",
    "src": "https://www.nasdaq.com/market-activity/index/sox"
   },
   "^SPX": {
-   "price": 767.35,
-   "chgPct": 1.72,
-   "at": "Nov 4, 2026 9:44 AM ET",
+   "price": 766.62,
+   "chgPct": 1.63,
+   "at": "Nov 4, 2026 9:55 AM ET",
    "src": "https://www.nasdaq.com/market-activity/index/spy"
   }
  },
- "updatedAt": "2026-11-04T15:43:38+01:00"
+ "updatedAt": "2026-11-04T15:55:36+01:00"
 }
