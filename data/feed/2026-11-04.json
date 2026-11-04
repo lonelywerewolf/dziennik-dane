@@ -1,7 +1,31 @@
 {
  "date": "2026-11-04",
- "count": 306,
+ "count": 309,
  "items": [
+  {
+   "id": "bossa-espi-23408",
+   "date": "2026-11-04",
+   "time": "21:08",
+   "ts": "2026-11-04T21:08:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MABION S.A.",
+   "title": "Amerykańska Agencja ds. Żywności i Leków (FDA) wspiera rejestrację MabionCD20 jako innowacyjnego leku biologicznego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23408"
+  },
+  {
+   "id": "bossa-pap-439287",
+   "date": "2026-11-04",
+   "time": "21:02",
+   "ts": "2026-11-04T21:02:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Skrót wiadomości - środa, 4 listopada, 21.00",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439287"
+  },
   {
    "id": "bossa-pap-439286",
    "date": "2026-11-04",
@@ -37,6 +61,17 @@
    "title": "Informacja o uzyskaniu przez Emitenta zgody od obligatariuszy większościowych obligacji K1 wyemitowanych przez Emitenta na sprzedaż projektu realizowanego przez Emitenta",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23406"
+  },
+  {
+   "id": "strefa-131816366899",
+   "date": "2026-11-04",
+   "time": "19:48",
+   "ts": "2026-11-04T19:48:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "skrot",
+   "title": "Skrót wiadomości - środa, 4 listopada, 21.00",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/skrot-wiadomosci-sroda-4-listopada-2100"
   },
   {
    "id": "bossa-pap-439282",

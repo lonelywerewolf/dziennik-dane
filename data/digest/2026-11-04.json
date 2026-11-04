@@ -12,10 +12,10 @@
   "fundusze_drobne": 12,
   "twoje_spolki": 3,
   "obserwowane": 0,
-  "pozostale": 44
+  "pozostale": 45
  },
- "duplicatesRemoved": 116,
- "total": 306,
+ "duplicatesRemoved": 118,
+ "total": 309,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1426,6 +1426,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "21:08",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MABION S.A.: Amerykańska Agencja ds. Żywności i Leków (FDA) wspiera rejestrację MabionCD20 jako innowacyjnego leku biologicznego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23408",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "19:39",
     "kind": "espi",
