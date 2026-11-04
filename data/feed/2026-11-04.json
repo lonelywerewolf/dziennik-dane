@@ -1,7 +1,67 @@
 {
  "date": "2026-11-04",
- "count": 83,
+ "count": 89,
  "items": [
+  {
+   "id": "bossa-pap-439124",
+   "date": "2026-11-04",
+   "time": "10:23",
+   "ts": "2026-11-04T10:23:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Asbis wypłaci zaliczkę na dywidendę w wysokości 0,35 USD na akcję (opis)",
+   "ticker": "ASB",
+   "url": "https://bossa.pl/analizy/komunikaty#message-439124"
+  },
+  {
+   "id": "bossa-espi-23333",
+   "date": "2026-11-04",
+   "time": "10:21",
+   "ts": "2026-11-04T10:21:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "SIMFABRIC S.A.",
+   "title": "Zwrot całości kosztów produkcji i marketingu aplikacji PRECISION LOG: LONGRANGE TRACK po pierwszym dniu sprzedaży w sklepie App Store",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23333"
+  },
+  {
+   "id": "bossa-pap-439122",
+   "date": "2026-11-04",
+   "time": "10:20",
+   "ts": "2026-11-04T10:20:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "SOLAR INNOVATION SA (9/2026) Powołanie osoby zarządzającej lub nadzorującej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439122"
+  },
+  {
+   "id": "bossa-pap-439121",
+   "date": "2026-11-04",
+   "time": "10:18",
+   "ts": "2026-11-04T10:18:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Niepewność na rynkach wokół wyborów w USA opada; giełdy w Azji mogą zyskać (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439121"
+  },
+  {
+   "id": "bossa-pap-439120",
+   "date": "2026-11-04",
+   "time": "10:18",
+   "ts": "2026-11-04T10:18:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Port Polska ubiega się o finansowanie 1,5 mld EUR od EBI na I etap budowy",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439120"
+  },
   {
    "id": "bossa-pap-439119",
    "date": "2026-11-04",
@@ -13,6 +73,17 @@
    "title": "Wyniki midterms w USA dają przestrzeń do spadku eurozłotego poniżej 4,40 - BGK (opinia)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439119"
+  },
+  {
+   "id": "strefa-bb393bc3d865",
+   "date": "2026-11-04",
+   "time": "10:07",
+   "ts": "2026-11-04T10:07:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Asbis wypłaci zaliczkę na dywidendę w wysokości 0,35 USD na akcję (opis)",
+   "ticker": "ASB",
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/asbis-wyplaci-zaliczke-na-dywidende-w-wysokosci-035-usd-na-akcje-opis"
   },
   {
    "id": "strefa-bc6329393b55",

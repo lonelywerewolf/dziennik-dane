@@ -4,9 +4,9 @@
   "podsumowania": 11,
   "wyniki": 3,
   "rekomendacje": 1,
-  "korporacyjne": 4,
-  "makro_pl": 10,
-  "swiat_rynki": 6,
+  "korporacyjne": 5,
+  "makro_pl": 11,
+  "swiat_rynki": 8,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 8
  },
- "duplicatesRemoved": 34,
- "total": 83,
+ "duplicatesRemoved": 36,
+ "total": 89,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -171,6 +171,17 @@
   ],
   "korporacyjne": [
    {
+    "time": "10:20",
+    "kind": "pap",
+    "ticker": null,
+    "title": "SOLAR INNOVATION SA (9/2026) Powołanie osoby zarządzającej lub nadzorującej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439122",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
     "time": "09:58",
     "kind": "espi",
     "ticker": null,
@@ -214,6 +225,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "10:21",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SIMFABRIC S.A.: Zwrot całości kosztów produkcji i marketingu aplikacji PRECISION LOG: LONGRANGE TRACK po pierwszym dniu sprzedaży w sklepie App Store",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23333",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:02",
     "kind": "pap",
@@ -306,6 +326,24 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "10:18",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Niepewność na rynkach wokół wyborów w USA opada; giełdy w Azji mogą zyskać (opinia)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439121",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:18",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Port Polska ubiega się o finansowanie 1,5 mld EUR od EBI na I etap budowy",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439120",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:26",
     "kind": "pap",
