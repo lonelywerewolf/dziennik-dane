@@ -1,5 +1,22 @@
 {
  "_opis": "Spółki śledzone przez zbieracz. match = słowa do rozpoznawania w tytułach komunikatów. gpw = nazwa w archiwum notowań GPW. insiders = pobieraj transakcje insiderów (openinsider, tylko USA; ADR-y ASML i TSM nie składają Form 4).",
+ "gpw_benchmarks": {
+  "^WIG": "WIG",
+  "^WIG20": "WIG20",
+  "^MWIG40": "MWIG40",
+  "^SWIG80": "SWIG80",
+  "^WIG-INFO": "WIG-INFO",
+  "^WIG-BUDOW": "WIG-BUDOW",
+  "^WIG-GRY": "WIG-GRY",
+  "^WIG-BANKI": "WIG-BANKI",
+  "^WIGTECHTR": "WIGTECHTR",
+  "^WIGIND": "WIGIND"
+ },
+ "us_benchmarks": {
+  "^NDQ": "COMP",
+  "^SPX": "SPY:etf",
+  "^SOX": "SOX"
+ },
  "companies": [
   {
    "ticker": "ASB",
@@ -11,6 +28,26 @@
    ],
    "gpw": "ASBIS",
    "isin": "CY1000031710"
+  },
+  {
+   "ticker": "ASML",
+   "name": "ASML Holding (ADR)",
+   "market": "USA",
+   "ccy": "USD",
+   "match": [
+    "ASML"
+   ],
+   "insiders": false
+  },
+  {
+   "ticker": "AVGO",
+   "name": "Broadcom",
+   "market": "USA",
+   "ccy": "USD",
+   "match": [
+    "BROADCOM"
+   ],
+   "insiders": true
   },
   {
    "ticker": "CBF",
@@ -37,6 +74,37 @@
    "isin": "PL4FNMD00013"
   },
   {
+   "ticker": "MPWR",
+   "name": "Monolithic Power Systems",
+   "market": "USA",
+   "ccy": "USD",
+   "match": [
+    "MONOLITHIC POWER"
+   ],
+   "insiders": true
+  },
+  {
+   "ticker": "MRVL",
+   "name": "Marvell Technology",
+   "market": "USA",
+   "ccy": "USD",
+   "insiders": true,
+   "match": [
+    "MARVELL",
+    "MRVL"
+   ]
+  },
+  {
+   "ticker": "NVDA",
+   "name": "NVIDIA",
+   "market": "USA",
+   "ccy": "USD",
+   "match": [
+    "NVIDIA"
+   ],
+   "insiders": true
+  },
+  {
    "ticker": "SNT",
    "name": "Synektik",
    "market": "GPW",
@@ -48,6 +116,17 @@
    "isin": "PLSNKTK00019"
   },
   {
+   "ticker": "TSM",
+   "name": "TSMC (ADR)",
+   "market": "USA",
+   "ccy": "USD",
+   "match": [
+    "TSMC",
+    "TAIWAN SEMICONDUCTOR"
+   ],
+   "insiders": false
+  },
+  {
    "ticker": "VRC",
    "name": "Vercom",
    "market": "GPW",
@@ -57,6 +136,16 @@
    ],
    "gpw": "VERCOM",
    "isin": "PLVRCM000016"
+  },
+  {
+   "ticker": "VRT",
+   "name": "Vertiv",
+   "market": "USA",
+   "ccy": "USD",
+   "match": [
+    "VERTIV"
+   ],
+   "insiders": true
   },
   {
    "ticker": "XTB",
@@ -77,84 +166,6 @@
     "strateg\\w* XTB",
     "XTB:"
    ]
-  },
-  {
-   "ticker": "ASML",
-   "name": "ASML Holding (ADR)",
-   "market": "USA",
-   "ccy": "USD",
-   "match": [
-    "ASML"
-   ],
-   "insiders": false
-  },
-  {
-   "ticker": "AVGO",
-   "name": "Broadcom",
-   "market": "USA",
-   "ccy": "USD",
-   "match": [
-    "BROADCOM"
-   ],
-   "insiders": true
-  },
-  {
-   "ticker": "MPWR",
-   "name": "Monolithic Power Systems",
-   "market": "USA",
-   "ccy": "USD",
-   "match": [
-    "MONOLITHIC POWER"
-   ],
-   "insiders": true
-  },
-  {
-   "ticker": "NVDA",
-   "name": "NVIDIA",
-   "market": "USA",
-   "ccy": "USD",
-   "match": [
-    "NVIDIA"
-   ],
-   "insiders": true
-  },
-  {
-   "ticker": "TSM",
-   "name": "TSMC (ADR)",
-   "market": "USA",
-   "ccy": "USD",
-   "match": [
-    "TSMC",
-    "TAIWAN SEMICONDUCTOR"
-   ],
-   "insiders": false
-  },
-  {
-   "ticker": "VRT",
-   "name": "Vertiv",
-   "market": "USA",
-   "ccy": "USD",
-   "match": [
-    "VERTIV"
-   ],
-   "insiders": true
   }
- ],
- "gpw_benchmarks": {
-  "^WIG": "WIG",
-  "^WIG20": "WIG20",
-  "^MWIG40": "MWIG40",
-  "^SWIG80": "SWIG80",
-  "^WIG-INFO": "WIG-INFO",
-  "^WIG-BUDOW": "WIG-BUDOW",
-  "^WIG-GRY": "WIG-GRY",
-  "^WIG-BANKI": "WIG-BANKI",
-  "^WIGTECHTR": "WIGTECHTR",
-  "^WIGIND": "WIGIND"
- },
- "us_benchmarks": {
-  "^NDQ": "COMP",
-  "^SPX": "SPY:etf",
-  "^SOX": "SOX"
- }
+ ]
 }
