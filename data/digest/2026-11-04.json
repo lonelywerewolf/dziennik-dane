@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 4
  },
- "duplicatesRemoved": 8,
- "total": 24,
+ "duplicatesRemoved": 9,
+ "total": 25,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -147,11 +147,11 @@
   "pozostale": [
    {
     "time": "07:39",
-    "kind": "pap",
+    "kind": "news",
     "ticker": null,
     "title": "Ceny ropy na świecie rosną, ale na razie nie mocno",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439084",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261104/ceny-ropy-na-swiecie-rosna-ale-na-razie-nie-mocno",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
