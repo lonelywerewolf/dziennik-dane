@@ -411,6 +411,28 @@ def nasdaq():
                     old[f"{y}-{m}-{d_}"] = str(v)
             with open(path, "w", encoding="utf-8") as f:
                 f.write("date,close\n" + "".join(f"{k},{v}\n" for k, v in sorted(old.items())))
+            if cls == "index":
+                # historia indeksów w Nasdaq aktualizuje się z opóźnieniem – dopisz zamknięcie z notowania bieżącego, gdy sesja w USA zamknięta
+                try:
+                    info = json.loads(get(f"https://api.nasdaq.com/api/quote/{sym}/info?assetclass=index", headers=NASDAQ_H))["data"]["primaryData"]
+                    ts = str(info.get("lastTradeTimestamp") or "")
+                    m = re.search(r"([A-Z][a-z]{2}) (\d{1,2}), (\d{4})", ts)
+                    px = usd(info.get("lastSalePrice"))
+                    ny = NOW.astimezone(ZoneInfo("America/New_York"))
+                    closed = ny.hour >= 17 or ny.hour < 9 or ny.weekday() >= 5
+                    if m and px and closed:
+                        d0 = dt.datetime.strptime(f"{m.group(1)} {m.group(2)} {m.group(3)}", "%b %d %Y").date().isoformat()
+                        if d0 not in old:
+                            old[d0] = str(px)
+                            with open(path, "w", encoding="utf-8") as f:
+                                f.write("date,close\n" + "".join(f"{k},{v}\n" for k, v in sorted(old.items())))
+                            st.setdefault("indexFromLive", []).append(f"{key} {d0}")
+                    live["q"][key] = {"price": px, "chgPct": plnum(str(info.get("percentageChange", "")).replace("%", "").replace("+", "")), "at": ts,
+                                      "src": f"https://www.nasdaq.com/market-activity/index/{sym.lower()}"}
+                except Exception as e:
+                    st["errors"].append(f"{key} info: {e!r}"[:200])
+                if len(old) == 0:
+                    st["errors"].append(f"{key}: pusta historia")
             st["history"] += 1
             time.sleep(0.5)
             if cls == "stocks":
@@ -436,7 +458,7 @@ def us_news():
     st = {"new": 0, "sources": {}, "errors": []}
     tick = [c["ticker"] for c in COMP + EXTRA_COMP if c.get("market") == "USA"]
     for t in tick:
-        for name, url in (("nasdaq", f"https://www.nasdaq.com/feed/rssoutbound?symbol={t}"), ("yahoo", f"https://feeds.finance.yahoo.com/rss/2.0/headline?s={t}&region=US&lang=en-US")):
+        for name, url in (("nasdaq", f"https://www.nasdaq.com/feed/rssoutbound?symbol={t}"),):   # Yahoo: 429 z adresów GitHuba
             try:
                 x = get(url, headers={"Accept": "application/rss+xml,application/xml,text/xml"}, timeout=20)
             except Exception as e:
