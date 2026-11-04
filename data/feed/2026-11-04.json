@@ -1,7 +1,55 @@
 {
  "date": "2026-11-04",
- "count": 195,
+ "count": 200,
  "items": [
+  {
+   "id": "bossa-pap-439216",
+   "date": "2026-11-04",
+   "time": "15:40",
+   "ts": "2026-11-04T15:40:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Po otwarciu sesji DJI rośnie 2,25 proc., a S&P500 zyskuje 1,45 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439216"
+  },
+  {
+   "id": "bossa-pap-439213",
+   "date": "2026-11-04",
+   "time": "15:35",
+   "ts": "2026-11-04T15:35:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Nationale-Nederlanden OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439213"
+  },
+  {
+   "id": "bossa-pap-439214",
+   "date": "2026-11-04",
+   "time": "15:34",
+   "ts": "2026-11-04T15:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "URE ustalił stawkę opłaty OZE w 2027 r. na 6,40 zł/MWh",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439214"
+  },
+  {
+   "id": "bossa-espi-23385",
+   "date": "2026-11-04",
+   "time": "15:33",
+   "ts": "2026-11-04T15:33:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "RYVU THERAPEUTICS S.A.",
+   "title": "Prezentacja pierwszych danych klinicznych z badania fazy II JASPIS-01 dapolsertibu (MEN1703, SEL24) oraz wstępnych danych dotyczących skuteczności z kohorty ekspansyjnej badania fazy II RIVER-81 romacyklibu (RVU120) w skojarzeniu z wenetoklaksem podczas konferencji ASH 2026 / First clinical data from the Phase II JASPIS-01 study of dapolsertib (MEN1703, SEL24) and initial data from the expansion cohort of the Phase II RIVER-81 study of romaciclib (RVU120) in combination with venetoclax to be presented at th",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23385"
+  },
   {
    "id": "bossa-pap-439212",
    "date": "2026-11-04",
@@ -85,6 +133,17 @@
    "title": "KPRM: Bliskie relacje, wspólne cele. Polska i Czechy rozwijają współpracę w Europie (komunikat)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439206"
+  },
+  {
+   "id": "strefa-3a696ba907f8",
+   "date": "2026-11-04",
+   "time": "14:59",
+   "ts": "2026-11-04T14:59:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Po otwarciu sesji DJI rośnie 2,25 proc., a S&P500 zyskuje 1,45 proc.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/po-otwarciu-sesji-dji-rosnie-225-proc-sp500-zyskuje-145-proc"
   },
   {
    "id": "bossa-pap-439205",

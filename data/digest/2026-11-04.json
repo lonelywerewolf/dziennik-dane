@@ -6,16 +6,16 @@
   "rekomendacje": 1,
   "korporacyjne": 26,
   "makro_pl": 19,
-  "swiat_rynki": 16,
-  "energetyka_surowce": 6,
+  "swiat_rynki": 17,
+  "energetyka_surowce": 7,
   "nieruchomosci": 1,
-  "fundusze_drobne": 6,
+  "fundusze_drobne": 7,
   "twoje_spolki": 3,
   "obserwowane": 0,
-  "pozostale": 27
+  "pozostale": 28
  },
- "duplicatesRemoved": 73,
- "total": 195,
+ "duplicatesRemoved": 74,
+ "total": 200,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -643,6 +643,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "14:59",
+    "kind": "news",
+    "ticker": null,
+    "title": "Po otwarciu sesji DJI rośnie 2,25 proc., a S&P500 zyskuje 1,45 proc.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261104/po-otwarciu-sesji-dji-rosnie-225-proc-sp500-zyskuje-145-proc",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "14:50",
     "kind": "pap",
     "ticker": null,
@@ -789,6 +798,15 @@
   ],
   "energetyka_surowce": [
    {
+    "time": "15:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "URE ustalił stawkę opłaty OZE w 2027 r. na 6,40 zł/MWh",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439214",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "11:54",
     "kind": "news",
     "ticker": null,
@@ -855,6 +873,15 @@
    }
   ],
   "fundusze_drobne": [
+   {
+    "time": "15:35",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Nationale-Nederlanden OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439213",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:28",
     "kind": "pap",
@@ -945,6 +972,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "15:33",
+    "kind": "espi",
+    "ticker": null,
+    "title": "RYVU THERAPEUTICS S.A.: Prezentacja pierwszych danych klinicznych z badania fazy II JASPIS-01 dapolsertibu (MEN1703, SEL24) oraz wstępnych danych dotyczących skuteczności z kohorty ekspansyjnej badania fazy II RIVER-81 romacyklibu (RVU120) w skojarzeniu z wenetoklaksem podczas konferencji ASH 2026 / First clinical data from the Phase II JASPIS-01 study of dapolsertib (MEN1703, SEL24) and initial data from the expansion cohort of the Phase II RIVER-81 study of romaciclib (RVU120) in combination with venetoclax to be presented at th",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23385",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:18",
     "kind": "pap",
