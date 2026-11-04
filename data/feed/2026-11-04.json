@@ -1,7 +1,42 @@
 {
  "date": "2026-11-04",
- "count": 40,
+ "count": 43,
  "items": [
+  {
+   "id": "bossa-pap-439094",
+   "date": "2026-11-04",
+   "time": "08:37",
+   "ts": "2026-11-04T08:37:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Po wyborach midterm w USA dolar mocno się osłabia",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439094"
+  },
+  {
+   "id": "bossa-espi-23325",
+   "date": "2026-11-04",
+   "time": "08:30",
+   "ts": "2026-11-04T08:30:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "STOHID TECHNOLOGY S.A.",
+   "title": "Zawarcie umowy o wspólnej inwestycji oraz zawiązanie spółki celowej w sektorze bezzałogowych systemów powietrznych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23325"
+  },
+  {
+   "id": "strefa-b0428a0c8a39",
+   "date": "2026-11-04",
+   "time": "08:26",
+   "ts": "2026-11-04T08:26:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Po wyborach midterm w USA dolar mocno się osłabia",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/dzien-na-rynkach-po-wyborach-midterm-w-usa-dolar-mocno-sie-oslabia"
+  },
   {
    "id": "bossa-pap-439092",
    "date": "2026-11-04",

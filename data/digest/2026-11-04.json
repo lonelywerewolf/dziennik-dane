@@ -1,10 +1,10 @@
 {
  "date": "2026-11-04",
  "counts": {
-  "podsumowania": 5,
+  "podsumowania": 6,
   "wyniki": 2,
   "rekomendacje": 0,
-  "korporacyjne": 2,
+  "korporacyjne": 3,
   "makro_pl": 4,
   "swiat_rynki": 5,
   "energetyka_surowce": 2,
@@ -14,11 +14,20 @@
   "obserwowane": 0,
   "pozostale": 4
  },
- "duplicatesRemoved": 15,
- "total": 40,
+ "duplicatesRemoved": 16,
+ "total": 43,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "08:26",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Po wyborach midterm w USA dolar mocno się osłabia",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261104/dzien-na-rynkach-po-wyborach-midterm-w-usa-dolar-mocno-sie-oslabia",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:17",
     "kind": "news",
@@ -91,6 +100,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "08:30",
+    "kind": "espi",
+    "ticker": null,
+    "title": "STOHID TECHNOLOGY S.A.: Zawarcie umowy o wspólnej inwestycji oraz zawiązanie spółki celowej w sektorze bezzałogowych systemów powietrznych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23325",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "08:08",
     "kind": "news",
