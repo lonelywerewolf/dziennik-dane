@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T06:17:29+01:00",
+ "updatedAt": "2026-11-04T06:29:10+01:00",
  "q": {
   "ASB": {
    "date": "2026-11-03",
@@ -210,6 +210,11 @@
   "^NDQ": {
    "date": "2026-11-03",
    "close": 25372.01,
+   "src": "https://www.nasdaq.com"
+  },
+  "^SPX": {
+   "date": "2026-11-03",
+   "close": 754.35,
    "src": "https://www.nasdaq.com"
   },
   "^SOX": {

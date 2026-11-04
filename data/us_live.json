@@ -47,7 +47,13 @@
    "chgPct": 2.63,
    "at": "Nov 3, 2026",
    "src": "https://www.nasdaq.com/market-activity/index/sox"
+  },
+  "^SPX": {
+   "price": 754.35,
+   "chgPct": 0.3,
+   "at": "Nov 3, 2026",
+   "src": "https://www.nasdaq.com/market-activity/index/spy"
   }
  },
- "updatedAt": "2026-11-04T06:17:29+01:00"
+ "updatedAt": "2026-11-04T06:29:10+01:00"
 }
