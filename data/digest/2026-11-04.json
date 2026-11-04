@@ -5,7 +5,7 @@
   "wyniki": 2,
   "rekomendacje": 1,
   "korporacyjne": 3,
-  "makro_pl": 4,
+  "makro_pl": 6,
   "swiat_rynki": 6,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 6
  },
- "duplicatesRemoved": 26,
- "total": 63,
+ "duplicatesRemoved": 27,
+ "total": 66,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -192,6 +192,24 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "09:41",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Szwedzki bank centralny podwyższył stopy procentowe",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439105",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "09:35",
+    "kind": "news",
+    "ticker": null,
+    "title": "Mediana wynagrodzeń w gospodarce narodowej w maju wyniosła 7.550,32 zł - GUS",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261104/mediana-wynagrodzen-w-gospodarce-narodowej-w-maju-wyniosla-755032-zl-gus",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "07:30",
     "kind": "pap",
