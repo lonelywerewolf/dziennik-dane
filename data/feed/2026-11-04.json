@@ -1,7 +1,55 @@
 {
  "date": "2026-11-04",
- "count": 1,
+ "count": 5,
  "items": [
+  {
+   "id": "bossa-pap-439072",
+   "date": "2026-11-04",
+   "time": "06:00",
+   "ts": "2026-11-04T06:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Kalendarium rynku kapitałowego GPW 2026-11-04",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439072"
+  },
+  {
+   "id": "bossa-pap-439071",
+   "date": "2026-11-04",
+   "time": "06:00",
+   "ts": "2026-11-04T06:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Kalendarium rynku NewConnect 2026-11-04",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439071"
+  },
+  {
+   "id": "bossa-pap-439070",
+   "date": "2026-11-04",
+   "time": "06:00",
+   "ts": "2026-11-04T06:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Kalendarium spółek z WIG30 2026-11-04",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439070"
+  },
+  {
+   "id": "bossa-pap-439069",
+   "date": "2026-11-04",
+   "time": "06:00",
+   "ts": "2026-11-04T06:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-04",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439069"
+  },
   {
    "id": "bossa-pap-439068",
    "date": "2026-11-04",
