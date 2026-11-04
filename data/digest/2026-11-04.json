@@ -1,31 +1,42 @@
 {
  "date": "2026-11-04",
  "counts": {
-  "podsumowania": 9,
+  "podsumowania": 10,
   "wyniki": 2,
   "rekomendacje": 1,
   "korporacyjne": 3,
   "makro_pl": 4,
-  "swiat_rynki": 5,
+  "swiat_rynki": 6,
   "energetyka_surowce": 2,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 5
+  "pozostale": 6
  },
- "duplicatesRemoved": 22,
- "total": 54,
+ "duplicatesRemoved": 24,
+ "total": 59,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
    {
-    "time": "09:15",
-    "kind": "pap",
+    "time": "09:16",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA FX/FI: W środę kluczowe dla PLN decyzja RPP i wyniki wyborów w USA",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261104/dzien-na-fxfi-w-srode-kluczowe-dla-pln-decyzja-rpp-i-wyniki-wyborow-w-usa",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "09:09",
+    "kind": "news",
     "ticker": null,
     "title": "WIG20 na otwarciu wyniósł 4136,87 pkt (-0,04%)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439100",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261104/wig20-na-otwarciu-wyniosl-413687-pkt-004",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -211,6 +222,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "09:26",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Zwiększona niepewność wokół budowy centrów danych w USA po wyborach (opinia)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439103",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "08:23",
     "kind": "news",
     "ticker": null,
@@ -291,6 +311,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:26",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Kurs DataWalk spada o 12,6 proc. do 87 zł przy niewielkiej zniżce sWIG80",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439102",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:05",
     "kind": "news",

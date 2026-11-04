@@ -1,7 +1,54 @@
 {
  "date": "2026-11-04",
- "count": 54,
+ "count": 59,
  "items": [
+  {
+   "id": "bossa-pap-439103",
+   "date": "2026-11-04",
+   "time": "09:26",
+   "ts": "2026-11-04T09:26:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zwiększona niepewność wokół budowy centrów danych w USA po wyborach (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439103"
+  },
+  {
+   "id": "bossa-pap-439102",
+   "date": "2026-11-04",
+   "time": "09:26",
+   "ts": "2026-11-04T09:26:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Kurs DataWalk spada o 12,6 proc. do 87 zł przy niewielkiej zniżce sWIG80",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439102"
+  },
+  {
+   "id": "bossa-pap-439101",
+   "date": "2026-11-04",
+   "time": "09:18",
+   "ts": "2026-11-04T09:18:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA FX/FI: W środę kluczowe dla PLN decyzja RPP i wyniki wyborów w USA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439101"
+  },
+  {
+   "id": "strefa-ab127c6ed28c",
+   "date": "2026-11-04",
+   "time": "09:16",
+   "ts": "2026-11-04T09:16:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA FX/FI: W środę kluczowe dla PLN decyzja RPP i wyniki wyborów w USA",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/dzien-na-fxfi-w-srode-kluczowe-dla-pln-decyzja-rpp-i-wyniki-wyborow-w-usa"
+  },
   {
    "id": "bossa-pap-439100",
    "date": "2026-11-04",
@@ -13,6 +60,17 @@
    "title": "WIG20 na otwarciu wyniósł 4136,87 pkt (-0,04%)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439100"
+  },
+  {
+   "id": "strefa-d3b5d81fb76f",
+   "date": "2026-11-04",
+   "time": "09:09",
+   "ts": "2026-11-04T09:09:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "WIG20 na otwarciu wyniósł 4136,87 pkt (-0,04%)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/wig20-na-otwarciu-wyniosl-413687-pkt-004"
   },
   {
    "id": "bossa-pap-439099",
