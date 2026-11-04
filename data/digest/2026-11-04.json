@@ -2,20 +2,20 @@
  "date": "2026-11-04",
  "counts": {
   "podsumowania": 14,
-  "wyniki": 4,
+  "wyniki": 5,
   "rekomendacje": 2,
   "korporacyjne": 27,
-  "makro_pl": 24,
-  "swiat_rynki": 20,
+  "makro_pl": 25,
+  "swiat_rynki": 21,
   "energetyka_surowce": 7,
   "nieruchomosci": 1,
   "fundusze_drobne": 10,
   "twoje_spolki": 3,
   "obserwowane": 0,
-  "pozostale": 29
+  "pozostale": 31
  },
  "duplicatesRemoved": 81,
- "total": 222,
+ "total": 227,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -151,6 +151,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "16:39",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Kombinat Konopny S.A.: Szacunkowe dane dotyczące sprzedaży detalicznej w kanale e-commerce w październiku 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23389",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "14:58",
     "kind": "pap",
@@ -499,6 +510,15 @@
   ],
   "makro_pl": [
    {
+    "time": "16:36",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MFiPR: Ponad 18 mld zł z KPO zainwestowanych w woj. wielkopolskim (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439234",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "16:20",
     "kind": "espi",
     "ticker": null,
@@ -716,6 +736,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "16:31",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Shein w '26 zainwestował łącznie 500 mln euro w rozbudowę centrum logistycznego niedaleko Wrocławia",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439231",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:13",
     "kind": "news",
@@ -1100,6 +1129,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "16:35",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MRiRW: Wschodnia Polska potrzebuje większego wsparcia; S. Krajewski na forum w Białymstoku (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439235",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MZ: „Ustal Prioryte(TY)” - kampania promocji profilaktyki i edukacji zdrowotnej skierowana do mężczyzn (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439232",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:47",
     "kind": "news",

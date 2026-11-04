@@ -1,7 +1,67 @@
 {
  "date": "2026-11-04",
- "count": 222,
+ "count": 227,
  "items": [
+  {
+   "id": "bossa-espi-23389",
+   "date": "2026-11-04",
+   "time": "16:39",
+   "ts": "2026-11-04T16:39:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Kombinat Konopny S.A.",
+   "title": "Szacunkowe dane dotyczące sprzedaży detalicznej w kanale e-commerce w październiku 2026 roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23389"
+  },
+  {
+   "id": "bossa-pap-439234",
+   "date": "2026-11-04",
+   "time": "16:36",
+   "ts": "2026-11-04T16:36:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MFiPR: Ponad 18 mld zł z KPO zainwestowanych w woj. wielkopolskim (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439234"
+  },
+  {
+   "id": "bossa-pap-439235",
+   "date": "2026-11-04",
+   "time": "16:35",
+   "ts": "2026-11-04T16:35:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MRiRW: Wschodnia Polska potrzebuje większego wsparcia; S. Krajewski na forum w Białymstoku (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439235"
+  },
+  {
+   "id": "bossa-pap-439232",
+   "date": "2026-11-04",
+   "time": "16:32",
+   "ts": "2026-11-04T16:32:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MZ: „Ustal Prioryte(TY)” - kampania promocji profilaktyki i edukacji zdrowotnej skierowana do mężczyzn (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439232"
+  },
+  {
+   "id": "bossa-pap-439231",
+   "date": "2026-11-04",
+   "time": "16:31",
+   "ts": "2026-11-04T16:31:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Shein w '26 zainwestował łącznie 500 mln euro w rozbudowę centrum logistycznego niedaleko Wrocławia",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439231"
+  },
   {
    "id": "bossa-pap-439229",
    "date": "2026-11-04",
