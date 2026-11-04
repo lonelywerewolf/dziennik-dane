@@ -1,7 +1,102 @@
 {
  "date": "2026-11-04",
- "count": 181,
+ "count": 189,
  "items": [
+  {
+   "id": "bossa-pap-439206",
+   "date": "2026-11-04",
+   "time": "15:01",
+   "ts": "2026-11-04T15:01:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KPRM: Bliskie relacje, wspólne cele. Polska i Czechy rozwijają współpracę w Europie (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439206"
+  },
+  {
+   "id": "bossa-pap-439205",
+   "date": "2026-11-04",
+   "time": "14:59",
+   "ts": "2026-11-04T14:59:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "ANWIM/Anwim Spółka Akcyjna (16/2026) Powołanie osoby zarządzającej lub nadzorującej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439205"
+  },
+  {
+   "id": "bossa-pap-439204",
+   "date": "2026-11-04",
+   "time": "14:58",
+   "ts": "2026-11-04T14:58:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "INTERCAPITAL PROPERTY/Intercapital Property Development ADSIC (10/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439204"
+  },
+  {
+   "id": "bossa-pap-439203",
+   "date": "2026-11-04",
+   "time": "14:58",
+   "ts": "2026-11-04T14:58:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "RPP utrzymała stopy proc. na niezmienionym poziomie - referencyjna 3,75 proc., zgodnie z oczekiwaniami",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439203"
+  },
+  {
+   "id": "bossa-espi-23380",
+   "date": "2026-11-04",
+   "time": "14:56",
+   "ts": "2026-11-04T14:56:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "VOLARIA AI S.A.",
+   "title": "Otrzymanie zawiadomienia o zmianie stanu posiadania akcji Spółki w trybie art. 69 Ustawy o ofercie publicznej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23380"
+  },
+  {
+   "id": "bossa-pap-439201",
+   "date": "2026-11-04",
+   "time": "14:55",
+   "ts": "2026-11-04T14:55:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Globalny rynek IPO utrzymał aktywność w III kw. '26; motorem rynku pozostaje sektor AI",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439201"
+  },
+  {
+   "id": "bossa-pap-439200",
+   "date": "2026-11-04",
+   "time": "14:50",
+   "ts": "2026-11-04T14:50:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "URE otrzymał wnioski taryfowe od spółek energetycznych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439200"
+  },
+  {
+   "id": "strefa-fa2764858cd5",
+   "date": "2026-11-04",
+   "time": "14:43",
+   "ts": "2026-11-04T14:43:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "RPP utrzymała stopy proc. na niezmienionym poziomie - referencyjna 3,75 proc., zgodnie z oczekiwaniami",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/rpp-utrzymala-stopy-proc-na-niezmienionym-poziomie-referencyjna-375-proc"
+  },
   {
    "id": "bossa-pap-439199",
    "date": "2026-11-04",

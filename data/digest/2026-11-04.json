@@ -2,20 +2,20 @@
  "date": "2026-11-04",
  "counts": {
   "podsumowania": 13,
-  "wyniki": 3,
+  "wyniki": 4,
   "rekomendacje": 1,
-  "korporacyjne": 22,
-  "makro_pl": 18,
-  "swiat_rynki": 15,
+  "korporacyjne": 25,
+  "makro_pl": 19,
+  "swiat_rynki": 16,
   "energetyka_surowce": 6,
   "nieruchomosci": 1,
   "fundusze_drobne": 4,
   "twoje_spolki": 3,
   "obserwowane": 0,
-  "pozostale": 25
+  "pozostale": 26
  },
- "duplicatesRemoved": 70,
- "total": 181,
+ "duplicatesRemoved": 71,
+ "total": 189,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -143,6 +143,15 @@
   ],
   "wyniki": [
    {
+    "time": "14:58",
+    "kind": "pap",
+    "ticker": null,
+    "title": "INTERCAPITAL PROPERTY/Intercapital Property Development ADSIC (10/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439204",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "10:11",
     "kind": "pap",
     "ticker": null,
@@ -188,6 +197,37 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "14:59",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ANWIM/Anwim Spółka Akcyjna (16/2026) Powołanie osoby zarządzającej lub nadzorującej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439205",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "14:56",
+    "kind": "espi",
+    "ticker": null,
+    "title": "VOLARIA AI S.A.: Otrzymanie zawiadomienia o zmianie stanu posiadania akcji Spółki w trybie art. 69 Ustawy o ofercie publicznej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23380",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
+   {
+    "time": "14:55",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Globalny rynek IPO utrzymał aktywność w III kw. '26; motorem rynku pozostaje sektor AI",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439201",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:03",
     "kind": "pap",
@@ -421,6 +461,15 @@
   ],
   "makro_pl": [
    {
+    "time": "14:43",
+    "kind": "news",
+    "ticker": null,
+    "title": "RPP utrzymała stopy proc. na niezmienionym poziomie - referencyjna 3,75 proc., zgodnie z oczekiwaniami",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261104/rpp-utrzymala-stopy-proc-na-niezmienionym-poziomie-referencyjna-375-proc",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "14:04",
     "kind": "news",
     "ticker": null,
@@ -584,6 +633,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "14:50",
+    "kind": "pap",
+    "ticker": null,
+    "title": "URE otrzymał wnioski taryfowe od spółek energetycznych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439200",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:34",
     "kind": "pap",
@@ -860,6 +918,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "15:01",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KPRM: Bliskie relacje, wspólne cele. Polska i Czechy rozwijają współpracę w Europie (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439206",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:39",
     "kind": "pap",
