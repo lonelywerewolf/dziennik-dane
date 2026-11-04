@@ -1,7 +1,100 @@
 {
  "date": "2026-11-04",
- "count": 210,
+ "count": 219,
  "items": [
+  {
+   "id": "bossa-pap-439228",
+   "date": "2026-11-04",
+   "time": "16:17",
+   "ts": "2026-11-04T16:17:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: Główne indeksy rosną przeważnie o ponad 1,5 proc.; w WIG20 spada tylko Orlen",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439228"
+  },
+  {
+   "id": "strefa-53dd3dce85c6",
+   "date": "2026-11-04",
+   "time": "16:16",
+   "ts": "2026-11-04T16:16:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: Główne indeksy rosną przeważnie o ponad 1,5 proc.; w WIG20 spada tylko Orlen",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/dzien-na-gpw-glowne-indeksy-rosna-przewaznie-o-ponad-15-proc-w-wig20-spada"
+  },
+  {
+   "id": "bossa-pap-439227",
+   "date": "2026-11-04",
+   "time": "16:15",
+   "ts": "2026-11-04T16:15:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Dalsze decyzje RPP nadal zależne od danych, wzrost III kw. PKB spowolnił",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439227"
+  },
+  {
+   "id": "strefa-41b0569c9b8c",
+   "date": "2026-11-04",
+   "time": "16:14",
+   "ts": "2026-11-04T16:14:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Dalsze decyzje RPP nadal zależne od danych, wzrost III kw. PKB spowolnił",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/dalsze-decyzje-rpp-nadal-zalezne-od-danych-wzrost-iii-kw-pkb-spowolnil"
+  },
+  {
+   "id": "strefa-a7ba230831e1",
+   "date": "2026-11-04",
+   "time": "16:13",
+   "ts": "2026-11-04T16:13:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Euro w EBC: 1,1267 USD i 178,30 JPY",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/euro-w-ebc-11267-usd-i-17830-jpy"
+  },
+  {
+   "id": "bossa-pap-439226",
+   "date": "2026-11-04",
+   "time": "16:13",
+   "ts": "2026-11-04T16:13:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Euro w EBC: 1,1267 USD i 178,30 JPY",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439226"
+  },
+  {
+   "id": "bossa-pap-439225",
+   "date": "2026-11-04",
+   "time": "16:12",
+   "ts": "2026-11-04T16:12:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DM BOŚ podniósł cenę docelową dla Polenergii do 50 zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439225"
+  },
+  {
+   "id": "bossa-pap-439224",
+   "date": "2026-11-04",
+   "time": "16:04",
+   "ts": "2026-11-04T16:04:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeks ISM w usługach w USA w X: 54,5 pkt. Konsensus: 54,8 pkt. Poprzednio: 54,9 pkt.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439224"
+  },
   {
    "id": "bossa-espi-23387",
    "date": "2026-11-04",
@@ -25,6 +118,17 @@
    "title": "Port Polska na początku 2027 r. rozpocznie proces zapytania ofertowego dot. finansowania",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439222"
+  },
+  {
+   "id": "strefa-4542a3b7f043",
+   "date": "2026-11-04",
+   "time": "15:49",
+   "ts": "2026-11-04T15:49:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DM BOŚ podniósł cenę docelową dla Polenergii do 50 zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/dm-bos-podniosl-cene-docelowa-dla-polenergii-do-50-zl"
   },
   {
    "id": "strefa-7ccfbbeec2be",

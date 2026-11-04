@@ -1,6 +1,21 @@
 {
  "items": [
   {
+   "date": "2026-11-04",
+   "company": "PEP (PEP)",
+   "code": "PEP",
+   "name": "PEP",
+   "isin": "PLPLSEP00013",
+   "rating": "Sprzedaj",
+   "price": "53.1",
+   "target": "50",
+   "upside": "-5.8380414312618",
+   "priceAtPub": "52.6",
+   "house": "DM BOŚ",
+   "report": "https://strefainwestorow.pl/sites/default/files/attachments/55441358_14068104_55441358_Polenergia_28_FU_80_2026_DM_BOŚ_PL_disclaimer.pdf",
+   "ticker": null
+  },
+  {
    "date": "2026-11-02",
    "company": "MCI (MCI)",
    "rating": "Kupuj",
@@ -4291,5 +4306,5 @@
    "ticker": "XTB"
   }
  ],
- "updatedAt": "2026-11-04T16:07:30+01:00"
+ "updatedAt": "2026-11-04T16:19:28+01:00"
 }
