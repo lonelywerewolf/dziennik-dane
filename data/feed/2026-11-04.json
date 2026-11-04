@@ -1,7 +1,30 @@
 {
  "date": "2026-11-04",
- "count": 43,
+ "count": 45,
  "items": [
+  {
+   "id": "bossa-pap-439095",
+   "date": "2026-11-04",
+   "time": "08:48",
+   "ts": "2026-11-04T08:48:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Auto Partner szacuje, że w I-III kw. miał 243,1 mln zł skonsolidowanego zysku netto (opis)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439095"
+  },
+  {
+   "id": "strefa-5154bc5178b1",
+   "date": "2026-11-04",
+   "time": "08:38",
+   "ts": "2026-11-04T08:38:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Auto Partner szacuje, że w I-III kw. miał 243,1 mln zł skonsolidowanego zysku netto (opis)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261104/auto-partner-szacuje-ze-w-i-iii-kw-mial-2431-mln-zl-skonsolidowanego-zysku-0"
+  },
   {
    "id": "bossa-pap-439094",
    "date": "2026-11-04",

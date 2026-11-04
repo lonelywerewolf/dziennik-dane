@@ -1,29 +1,29 @@
 {
  "last": {
-  "runAt": "2026-11-04T08:38:51+01:00",
+  "runAt": "2026-11-04T08:51:33+01:00",
   "sources": {
    "bossa": {
     "pages": 2,
-    "new": 2,
+    "new": 1,
     "complete": true,
-    "newest": "2026-11-04T08:37:00+01:00",
-    "oldestSeen": "2026-11-03T18:35:00+01:00",
+    "newest": "2026-11-04T08:48:00+01:00",
+    "oldestSeen": "2026-11-03T18:37:00+01:00",
     "ok": true,
-    "sec": 5.7
+    "sec": 3.5
    },
    "strefa": {
     "pages": 2,
     "new": 1,
-    "newest": "2026-11-04T08:26:01+01:00",
+    "newest": "2026-11-04T08:38:01+01:00",
     "oldestSeen": "2026-11-04T06:41:01+01:00",
     "complete": false,
     "ok": true,
-    "sec": 3.3
+    "sec": 4.5
    },
    "articles": {
-    "saved": 1,
+    "saved": 0,
     "ok": true,
-    "sec": 1.2
+    "sec": 0.0
    },
    "recs": {
     "new": 0,
@@ -32,12 +32,14 @@
     "oldest": "2025-11-05",
     "newest": "2026-11-02",
     "ok": true,
-    "sec": 3.3
+    "sec": 5.1
    },
    "gpw": {
-    "ok": false,
-    "error": "URLError(TimeoutError('timed out'))",
-    "sec": 30.3
+    "ok": true,
+    "items": 20,
+    "newest": "04-11-2026 08:21:48",
+    "oldestSeen": "03-11-2026 16:32:51",
+    "sec": 5.3
    },
    "gpw_archive": {
     "days": 0,
@@ -52,7 +54,7 @@
     "live": 6,
     "errors": [],
     "ok": true,
-    "sec": 47.1
+    "sec": 46.9
    },
    "us_news": {
     "new": 0,
@@ -61,7 +63,7 @@
     },
     "errors": [],
     "ok": true,
-    "sec": 15.0
+    "sec": 16.9
    },
    "quotes": {
     "ok": true,
@@ -78,13 +80,13 @@
      "2026-11-03",
      4.4233
     ],
-    "sec": 1.6
+    "sec": 1.4
    },
    "insiders": {
     "new": 0,
     "errors": [],
     "ok": true,
-    "sec": 5.2
+    "sec": 4.3
    },
    "conditions": {
     "checked": 0,
@@ -105,9 +107,13 @@
     "sec": 0.0
    },
    "pwpa": {
+    "new": 2,
+    "texts": 0,
+    "errors": [
+     "20261029_dom_maklerski_banku_ochrony_środowiska_dig_pl_aw.pdf: RemoteDisconnected('Remote end closed connection without response')"
+    ],
     "ok": false,
-    "error": "URLError(TimeoutError('timed out'))",
-    "sec": 30.3
+    "sec": 2.8
    },
    "macro": {
     "ok": true,
@@ -119,11 +125,141 @@
     "sent": 0,
     "first": false,
     "commands": [],
-    "sec": 0.5
+    "sec": 0.3
    }
   }
  },
  "runs": [
+  {
+   "runAt": "2026-11-04T08:51:33+01:00",
+   "sources": {
+    "bossa": {
+     "pages": 2,
+     "new": 1,
+     "complete": true,
+     "newest": "2026-11-04T08:48:00+01:00",
+     "oldestSeen": "2026-11-03T18:37:00+01:00",
+     "ok": true,
+     "sec": 3.5
+    },
+    "strefa": {
+     "pages": 2,
+     "new": 1,
+     "newest": "2026-11-04T08:38:01+01:00",
+     "oldestSeen": "2026-11-04T06:41:01+01:00",
+     "complete": false,
+     "ok": true,
+     "sec": 4.5
+    },
+    "articles": {
+     "saved": 0,
+     "ok": true,
+     "sec": 0.0
+    },
+    "recs": {
+     "new": 0,
+     "seen": 294,
+     "total": 286,
+     "oldest": "2025-11-05",
+     "newest": "2026-11-02",
+     "ok": true,
+     "sec": 5.1
+    },
+    "gpw": {
+     "ok": true,
+     "items": 20,
+     "newest": "04-11-2026 08:21:48",
+     "oldestSeen": "03-11-2026 16:32:51",
+     "sec": 5.3
+    },
+    "gpw_archive": {
+     "days": 0,
+     "errors": [],
+     "latest": "2026-11-03",
+     "stored": 262,
+     "ok": true,
+     "sec": 0.0
+    },
+    "nasdaq": {
+     "history": 9,
+     "live": 6,
+     "errors": [],
+     "ok": true,
+     "sec": 46.9
+    },
+    "us_news": {
+     "new": 0,
+     "sources": {
+      "nasdaq": 0
+     },
+     "errors": [],
+     "ok": true,
+     "sec": 16.9
+    },
+    "quotes": {
+     "ok": true,
+     "tickers": 25,
+     "sec": 0.1
+    },
+    "nbp": {
+     "ok": true,
+     "USD": [
+      "2026-11-03",
+      3.9526
+     ],
+     "EUR": [
+      "2026-11-03",
+      4.4233
+     ],
+     "sec": 1.4
+    },
+    "insiders": {
+     "new": 0,
+     "errors": [],
+     "ok": true,
+     "sec": 4.3
+    },
+    "conditions": {
+     "checked": 0,
+     "met": 0,
+     "ok": true,
+     "sec": 0.0
+    },
+    "fundamentals": {
+     "pl": 0,
+     "us": 0,
+     "errors": [],
+     "ok": true,
+     "sec": 0.0
+    },
+    "calendar": {
+     "errors": [],
+     "ok": true,
+     "sec": 0.0
+    },
+    "pwpa": {
+     "new": 2,
+     "texts": 0,
+     "errors": [
+      "20261029_dom_maklerski_banku_ochrony_środowiska_dig_pl_aw.pdf: RemoteDisconnected('Remote end closed connection without response')"
+     ],
+     "ok": false,
+     "sec": 2.8
+    },
+    "macro": {
+     "ok": true,
+     "skipped": true,
+     "sec": 0.0
+    },
+    "telegram": {
+     "ok": true,
+     "sent": 0,
+     "first": false,
+     "commands": [],
+     "sec": 0.3
+    }
+   }
+  },
   {
    "runAt": "2026-11-04T08:38:51+01:00",
    "sources": {
@@ -12032,97 +12168,6 @@
      "errors": [],
      "ok": true,
      "sec": 4.9
-    },
-    "conditions": {
-     "checked": 0,
-     "met": 0,
-     "ok": true,
-     "sec": 0.0
-    }
-   }
-  },
-  {
-   "runAt": "2026-11-02T17:48:46+01:00",
-   "sources": {
-    "bossa": {
-     "pages": 27,
-     "new": 810,
-     "complete": true,
-     "newest": "2026-11-02T17:48:00+01:00",
-     "oldestSeen": "2026-10-28T21:18:00+01:00",
-     "ok": true,
-     "sec": 80.8
-    },
-    "strefa": {
-     "pages": 4,
-     "new": 63,
-     "newest": "2026-11-02T17:31:01+01:00",
-     "oldestSeen": "2026-11-02T06:20:01+01:00",
-     "complete": false,
-     "ok": true,
-     "sec": 7.3
-    },
-    "recs": {
-     "new": 8,
-     "newest": "2026-11-02",
-     "ok": true,
-     "sec": 1.4
-    },
-    "gpw": {
-     "ok": true,
-     "items": 20,
-     "newest": "02-11-2026 17:23:13",
-     "oldestSeen": "02-11-2026 14:05:16",
-     "sec": 6.0
-    },
-    "quotes": {
-     "history": 0,
-     "latest": 0,
-     "errors": [
-      "ASB/ASB.WA: <HTTPError 429: 'Too Many Requests'>",
-      "CBF/CBF.WA: <HTTPError 429: 'Too Many Requests'>",
-      "DIG/DIG.WA: <HTTPError 429: 'Too Many Requests'>",
-      "SNT/SNT.WA: <HTTPError 429: 'Too Many Requests'>",
-      "VRC/VRC.WA: <HTTPError 429: 'Too Many Requests'>",
-      "XTB/XTB.WA: <HTTPError 429: 'Too Many Requests'>",
-      "ASML/ASML: <HTTPError 429: 'Too Many Requests'>",
-      "AVGO/AVGO: <HTTPError 429: 'Too Many Requests'>",
-      "MPWR/MPWR: <HTTPError 429: 'Too Many Requests'>",
-      "NVDA/NVDA: <HTTPError 429: 'Too Many Requests'>",
-      "TSM/TSM: <HTTPError 429: 'Too Many Requests'>",
-      "VRT/VRT: <HTTPError 429: 'Too Many Requests'>",
-      "^WIG/^WIG: <HTTPError 429: 'Too Many Requests'>",
-      "^SWIG80/^SWIG80: <HTTPError 429: 'Too Many Requests'>",
-      "^MWIG40/^MWIG40: <HTTPError 429: 'Too Many Requests'>",
-      "^NDQ/^IXIC: <HTTPError 429: 'Too Many Requests'>",
-      "^SPX/^GSPC: <HTTPError 429: 'Too Many Requests'>"
-     ],
-     "symbols": {},
-     "ok": false,
-     "sec": 7.8
-    },
-    "nbp": {
-     "ok": true,
-     "USD": [
-      "2026-11-02",
-      3.9389
-     ],
-     "EUR": [
-      "2026-11-02",
-      4.4185
-     ],
-     "sec": 6.5
-    },
-    "sec": {
-     "new": 0,
-     "errors": [
-      "AVGO: <HTTPError 403: 'Forbidden'>",
-      "MPWR: <HTTPError 403: 'Forbidden'>",
-      "NVDA: <HTTPError 403: 'Forbidden'>",
-      "VRT: <HTTPError 403: 'Forbidden'>"
-     ],
-     "ok": false,
-     "sec": 1.4
     },
     "conditions": {
      "checked": 0,
