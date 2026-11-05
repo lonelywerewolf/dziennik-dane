@@ -4,9 +4,9 @@
   "podsumowania": 10,
   "wyniki": 15,
   "rekomendacje": 2,
-  "korporacyjne": 16,
+  "korporacyjne": 17,
   "makro_pl": 9,
-  "swiat_rynki": 6,
+  "swiat_rynki": 7,
   "energetyka_surowce": 6,
   "nieruchomosci": 0,
   "fundusze_drobne": 2,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 24
  },
- "duplicatesRemoved": 56,
- "total": 152,
+ "duplicatesRemoved": 57,
+ "total": 155,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -284,6 +284,17 @@
   ],
   "korporacyjne": [
    {
+    "time": "12:33",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Finalizacja negocjacji EPC z Westinghouse-Bechtel do końca '26, ale podpisanie już w '27 - prezes PEJ",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439401",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
     "time": "12:23",
     "kind": "espi",
     "ticker": null,
@@ -536,6 +547,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "12:14",
+    "kind": "news",
+    "ticker": null,
+    "title": "PGE otrzyma 3,89 mld zł kredytu na budowę bloku gazowo-parowego CCGT o mocy 882 MW w Rybniku (opis)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/pge-otrzyma-389-mld-zl-kredytu-na-budowe-bloku-gazowo-parowego-ccgt-o-mocy-882",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "12:09",
     "kind": "pap",
