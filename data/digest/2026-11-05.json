@@ -4,8 +4,8 @@
   "podsumowania": 10,
   "wyniki": 16,
   "rekomendacje": 2,
-  "korporacyjne": 21,
-  "makro_pl": 9,
+  "korporacyjne": 22,
+  "makro_pl": 10,
   "swiat_rynki": 7,
   "energetyka_surowce": 7,
   "nieruchomosci": 0,
@@ -15,7 +15,7 @@
   "pozostale": 31
  },
  "duplicatesRemoved": 62,
- "total": 174,
+ "total": 176,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -298,6 +298,17 @@
     "time": "13:24",
     "kind": "espi",
     "ticker": null,
+    "title": "POLIMEX-MOSTOSTAL: Zatwierdzenie przez sąd ugody dot. istotnej umowy.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23458",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "13:24",
+    "kind": "espi",
+    "ticker": null,
     "title": "ATENDE S.A.: Przystąpienie PGE Systemy S.A. do mediacji dotyczącej rozliczenia istotnej umowy",
     "url": "https://bossa.pl/analizy/komunikaty#message-23457",
     "src": "bossa",
@@ -515,6 +526,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "13:31",
+    "kind": "espi",
+    "ticker": null,
+    "title": "DEKPOL S.A.: Wywołanie do realizacji opcjonalnego etapu budowy parku logistycznego w woj. małopolskim",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23459",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:50",
     "kind": "news",
