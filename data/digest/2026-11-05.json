@@ -5,8 +5,8 @@
   "wyniki": 39,
   "rekomendacje": 2,
   "korporacyjne": 57,
-  "makro_pl": 18,
-  "swiat_rynki": 16,
+  "makro_pl": 19,
+  "swiat_rynki": 17,
   "energetyka_surowce": 11,
   "nieruchomosci": 0,
   "fundusze_drobne": 11,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 51
  },
- "duplicatesRemoved": 165,
- "total": 395,
+ "duplicatesRemoved": 166,
+ "total": 398,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1226,6 +1226,15 @@
   ],
   "makro_pl": [
    {
+    "time": "22:49",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Alior Bank emituje euroobligacje o wartości 500 mln euro",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439573",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "20:23",
     "kind": "espi",
     "ticker": null,
@@ -1391,6 +1400,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "22:27",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa Azoty szacuje w III kw. ujemną EBITDĘ na 25 mln zł, odczuwa wysokie ceny gazu (opis)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/grupa-azoty-szacuje-w-iii-kw-ujemna-ebitde-na-25-mln-zl-odczuwa-wysokie-ceny",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "18:55",
     "kind": "pap",

@@ -1,7 +1,31 @@
 {
  "date": "2026-11-05",
- "count": 395,
+ "count": 398,
  "items": [
+  {
+   "id": "bossa-pap-439573",
+   "date": "2026-11-05",
+   "time": "22:49",
+   "ts": "2026-11-05T22:49:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Alior Bank emituje euroobligacje o wartości 500 mln euro",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439573"
+  },
+  {
+   "id": "bossa-pap-439572",
+   "date": "2026-11-05",
+   "time": "22:43",
+   "ts": "2026-11-05T22:43:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Grupa Azoty szacuje w III kw. ujemną EBITDĘ na 25 mln zł, odczuwa wysokie ceny gazu (opis)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439572"
+  },
   {
    "id": "bossa-pap-439571",
    "date": "2026-11-05",
@@ -13,6 +37,17 @@
    "title": "Grupa Azoty szacuje w III kw. ujemny wynik EBITDA 25 mln zł, rynek liczył na 155 mln zł zysku",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439571"
+  },
+  {
+   "id": "strefa-2fdfa46165d6",
+   "date": "2026-11-05",
+   "time": "22:27",
+   "ts": "2026-11-05T22:27:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grupa Azoty szacuje w III kw. ujemną EBITDĘ na 25 mln zł, odczuwa wysokie ceny gazu (opis)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/grupa-azoty-szacuje-w-iii-kw-ujemna-ebitde-na-25-mln-zl-odczuwa-wysokie-ceny"
   },
   {
    "id": "bossa-pap-439570",
