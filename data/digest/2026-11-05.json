@@ -4,18 +4,18 @@
   "podsumowania": 10,
   "wyniki": 16,
   "rekomendacje": 2,
-  "korporacyjne": 22,
-  "makro_pl": 10,
+  "korporacyjne": 24,
+  "makro_pl": 11,
   "swiat_rynki": 7,
   "energetyka_surowce": 7,
   "nieruchomosci": 0,
   "fundusze_drobne": 3,
   "twoje_spolki": 6,
   "obserwowane": 0,
-  "pozostale": 31
+  "pozostale": 32
  },
- "duplicatesRemoved": 62,
- "total": 176,
+ "duplicatesRemoved": 67,
+ "total": 185,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -295,6 +295,17 @@
   ],
   "korporacyjne": [
    {
+    "time": "13:41",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MENNICA: Zawiadomienia o transakcjach w trybie art. 19 MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23461",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
     "time": "13:24",
     "kind": "espi",
     "ticker": null,
@@ -312,6 +323,17 @@
     "title": "ATENDE S.A.: Przystąpienie PGE Systemy S.A. do mediacji dotyczącej rozliczenia istotnej umowy",
     "url": "https://bossa.pl/analizy/komunikaty#message-23457",
     "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "13:19",
+    "kind": "news",
+    "ticker": null,
+    "title": "Sąd zatwierdził ugodę dot. umowy Polimeksu z Lot Aircraft Maintenance Services",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/sad-zatwierdzil-ugode-dot-umowy-polimeksu-z-lot-aircraft-maintenance-services",
+    "src": "strefainwestorow",
     "flags": [
      "umowa"
     ]
@@ -526,6 +548,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "13:37",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PZU ETF OBLIGACJI SKARBOWYCH DŁUGOTERMINOWYCH PORTFELOWY FIZ: WANCI-E_30.04.18",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23460",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:31",
     "kind": "espi",
@@ -842,6 +873,26 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "13:39",
+    "kind": "news",
+    "ticker": null,
+    "title": "Cena maksymalna dla benzyny Pb95 wyniesie w piątek 6,20 zł/l, a dla ON 7,91 zł/l",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/cena-maksymalna-dla-benzyny-pb95-wyniesie-w-piatek-620-zll-dla-791-zll",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "13:38",
+    "kind": "news",
+    "ticker": null,
+    "title": "Komisja finansów przeciw m.in. rezygnacji z podwyżki CIT czy daniny solidarnościowej",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/komisja-finansow-przeciw-min-rezygnacji-z-podwyzki-cit-czy-daniny",
+    "src": "strefainwestorow",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
     "time": "13:16",
     "kind": "espi",
     "ticker": null,
@@ -883,15 +934,6 @@
     "ticker": null,
     "title": "Indeksy transakcyjne - WIRON",
     "url": "https://bossa.pl/analizy/komunikaty#message-439408",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "12:44",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Cena maksymalna dla benzyny Pb95 wyniesie w piątek 6,20 zł/l, a dla ON 7,91 zł/l",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439406",
     "src": "bossa",
     "flags": []
    },
