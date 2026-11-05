@@ -1,7 +1,43 @@
 {
  "date": "2026-11-05",
- "count": 185,
+ "count": 188,
  "items": [
+  {
+   "id": "bossa-espi-23466",
+   "date": "2026-11-05",
+   "time": "13:57",
+   "ts": "2026-11-05T13:57:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "APANET S.A.",
+   "title": "Korekty jednostkowego i skonsolidowanego sprawozdania finansowego za rok obrotowy 2025",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23466"
+  },
+  {
+   "id": "bossa-pap-439427",
+   "date": "2026-11-05",
+   "time": "13:51",
+   "ts": "2026-11-05T13:51:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "BGK podpisał memorandum o współpracy z włoską instytucją rozwoju CDP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439427"
+  },
+  {
+   "id": "bossa-espi-23465",
+   "date": "2026-11-05",
+   "time": "13:51",
+   "ts": "2026-11-05T13:51:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF WIG20 TR + mWIG40 TR PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23465"
+  },
   {
    "id": "bossa-espi-23464",
    "date": "2026-11-05",
