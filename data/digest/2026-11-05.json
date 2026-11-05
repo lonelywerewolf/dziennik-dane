@@ -4,18 +4,18 @@
   "podsumowania": 11,
   "wyniki": 17,
   "rekomendacje": 2,
-  "korporacyjne": 45,
+  "korporacyjne": 47,
   "makro_pl": 14,
-  "swiat_rynki": 12,
+  "swiat_rynki": 13,
   "energetyka_surowce": 8,
   "nieruchomosci": 0,
-  "fundusze_drobne": 7,
+  "fundusze_drobne": 8,
   "twoje_spolki": 6,
   "obserwowane": 0,
-  "pozostale": 38
+  "pozostale": 39
  },
- "duplicatesRemoved": 99,
- "total": 259,
+ "duplicatesRemoved": 103,
+ "total": 268,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -314,6 +314,28 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "16:13",
+    "kind": "news",
+    "ticker": null,
+    "title": "Prezes NBP nie widzi powodów, by w dalszym ciągu nie kupować złota po osiągnięciu pułapu 700 ton",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/prezes-nbp-nie-widzi-powodow-w-dalszym-ciagu-nie-kupowac-zlota-po-osiagnieciu",
+    "src": "strefainwestorow",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "16:13",
+    "kind": "news",
+    "ticker": null,
+    "title": "W XII RPP zwyczajowo nie podejmuje decyzji ws. zmiany stóp, wyjątkiem nadzwyczajne okoliczności - prezes NBP",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/w-xii-rpp-zwyczajowo-nie-podejmuje-decyzji-ws-zmiany-stop-wyjatkiem",
+    "src": "strefainwestorow",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "15:56",
     "kind": "espi",
@@ -926,6 +948,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "15:52",
+    "kind": "news",
+    "ticker": null,
+    "title": "Euro w EBC: 1,1224 USD i 177,85 JPY",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/euro-w-ebc-11224-usd-i-17785-jpy",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "15:36",
     "kind": "news",
     "ticker": null,
@@ -1115,6 +1146,15 @@
   "nieruchomosci": [],
   "fundusze_drobne": [
    {
+    "time": "16:14",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OFE PZU wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439487",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "15:28",
     "kind": "pap",
     "ticker": null,
@@ -1238,6 +1278,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "16:07",
+    "kind": "pap",
+    "ticker": null,
+    "title": "TECH ROBOTICS SA (26/2026) Zmiana harmonogramu publikacji raportów okresowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439483",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:30",
     "kind": "pap",

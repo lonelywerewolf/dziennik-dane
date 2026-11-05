@@ -1,7 +1,101 @@
 {
  "date": "2026-11-05",
- "count": 259,
+ "count": 268,
  "items": [
+  {
+   "id": "bossa-pap-439488",
+   "date": "2026-11-05",
+   "time": "16:14",
+   "ts": "2026-11-05T16:14:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "W XII RPP zwyczajowo nie podejmuje decyzji ws. zmiany stóp, wyjątkiem nadzwyczajne okoliczności - prezes NBP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439488"
+  },
+  {
+   "id": "bossa-pap-439487",
+   "date": "2026-11-05",
+   "time": "16:14",
+   "ts": "2026-11-05T16:14:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "OFE PZU wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439487"
+  },
+  {
+   "id": "strefa-7e8d3fbeebe2",
+   "date": "2026-11-05",
+   "time": "16:13",
+   "ts": "2026-11-05T16:13:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Prezes NBP nie widzi powodów, by w dalszym ciągu nie kupować złota po osiągnięciu pułapu 700 ton",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/prezes-nbp-nie-widzi-powodow-w-dalszym-ciagu-nie-kupowac-zlota-po-osiagnieciu"
+  },
+  {
+   "id": "strefa-22f98fe1af36",
+   "date": "2026-11-05",
+   "time": "16:13",
+   "ts": "2026-11-05T16:13:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "W XII RPP zwyczajowo nie podejmuje decyzji ws. zmiany stóp, wyjątkiem nadzwyczajne okoliczności - prezes NBP",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/w-xii-rpp-zwyczajowo-nie-podejmuje-decyzji-ws-zmiany-stop-wyjatkiem"
+  },
+  {
+   "id": "bossa-espi-23490",
+   "date": "2026-11-05",
+   "time": "16:12",
+   "ts": "2026-11-05T16:12:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MICHAEL/STRÖM OBLIGACJI KORPORACYJNYCH FIZ",
+   "title": "WCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23490"
+  },
+  {
+   "id": "bossa-pap-439485",
+   "date": "2026-11-05",
+   "time": "16:11",
+   "ts": "2026-11-05T16:11:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Euro w EBC: 1,1224 USD i 177,85 JPY",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439485"
+  },
+  {
+   "id": "bossa-pap-439484",
+   "date": "2026-11-05",
+   "time": "16:09",
+   "ts": "2026-11-05T16:09:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Prezes NBP nie widzi powodów, by w dalszym ciągu nie kupować złota po osiągnięciu pułapu 700 ton",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439484"
+  },
+  {
+   "id": "bossa-pap-439483",
+   "date": "2026-11-05",
+   "time": "16:07",
+   "ts": "2026-11-05T16:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "TECH ROBOTICS SA (26/2026) Zmiana harmonogramu publikacji raportów okresowych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439483"
+  },
   {
    "id": "bossa-espi-23488",
    "date": "2026-11-05",
@@ -25,6 +119,17 @@
    "title": "Erste Bank Polska chce wyemitować obligacje typu \"senior preferred\" i obligacje Tier II",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439481"
+  },
+  {
+   "id": "strefa-8c9295f3adf0",
+   "date": "2026-11-05",
+   "time": "15:52",
+   "ts": "2026-11-05T15:52:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Euro w EBC: 1,1224 USD i 177,85 JPY",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/euro-w-ebc-11224-usd-i-17785-jpy"
   },
   {
    "id": "bossa-pap-439480",

@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "f17d417091bd",
+   "ticker": "NVDA",
+   "time": "2026-11-05T16:14+01:00",
+   "title": "Dow Movers: NVDA, HONIV",
+   "url": "https://www.nasdaq.com/articles/dow-movers-nvda-honiv-4",
+   "src": "nasdaq",
+   "summary": "In early trading on Thursday, shares of Honeywell International topped the list of the day's best performing Dow Jones Industrial Average components, trading up 7.5%.  Year to date, Honeywell International registers a 42.2% gain.\n\nAnd the worst performing Dow component thus far"
+  },
+  {
    "id": "efd94c58edb6",
    "ticker": "ASML",
    "time": "2026-11-05T14:25+01:00",
@@ -71,6 +80,15 @@
    "url": "https://www.nasdaq.com/articles/credo-and-oracle-drive-ai-optical-innovation-crdo-set-benefit",
    "src": "nasdaq",
    "summary": "CRDO secures OCP approval with ORCL for two optical connectivity standards, advancing AI data center reliability and its role in next-generation infrastructure."
+  },
+  {
+   "id": "32979a98aa3c",
+   "ticker": "NVDA",
+   "time": "2026-11-05T11:43+01:00",
+   "title": "Nasdaq-100® Inside the Index: Nvidia (NVDA)",
+   "url": "https://www.nasdaq.com/articles/global-indexes/inside-the-index/nvda",
+   "src": "nasdaq",
+   "summary": "In this edition of Inside the Index, Nvidia (NVDA) is examined through its AI chips, networking and CUDA software, data center-led revenue mix, operating metrics, Vera Rubin platform and key risks."
   },
   {
    "id": "22180bc0097f",
@@ -1423,5 +1441,5 @@
    "summary": "Key PointsASML is one of the most important companies in the global semiconductor ecosystem, but its stock price performance has left a lot to be desired over the past three years."
   }
  ],
- "updatedAt": "2026-11-05T16:07:52+01:00"
+ "updatedAt": "2026-11-05T16:20:22+01:00"
 }
