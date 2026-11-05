@@ -12,10 +12,10 @@
   "fundusze_drobne": 3,
   "twoje_spolki": 6,
   "obserwowane": 0,
-  "pozostale": 33
+  "pozostale": 34
  },
  "duplicatesRemoved": 68,
- "total": 188,
+ "total": 189,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -883,6 +883,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "14:09",
+    "kind": "espi",
+    "ticker": null,
+    "title": "TENDERHUT S.A.: Zmiana terminu publikacji raportu okresowego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23467",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:51",
     "kind": "pap",
