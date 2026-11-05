@@ -2,20 +2,20 @@
  "date": "2026-11-05",
  "counts": {
   "podsumowania": 4,
-  "wyniki": 4,
+  "wyniki": 5,
   "rekomendacje": 0,
   "korporacyjne": 1,
-  "makro_pl": 0,
+  "makro_pl": 1,
   "swiat_rynki": 0,
-  "energetyka_surowce": 1,
+  "energetyka_surowce": 2,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 4
+  "pozostale": 5
  },
- "duplicatesRemoved": 6,
- "total": 20,
+ "duplicatesRemoved": 8,
+ "total": 26,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -57,6 +57,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "06:47",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wyniki Asbisu w III kwartale 2026 roku vs. konsensus PAP (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/wyniki-asbisu-w-iii-kwartale-2026-roku-vs-konsensus-pap-tabela",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "06:13",
     "kind": "news",
@@ -110,9 +121,28 @@
     "flags": []
    }
   ],
-  "makro_pl": [],
+  "makro_pl": [
+   {
+    "time": "06:43",
+    "kind": "news",
+    "ticker": null,
+    "title": "Rentowności obligacji wybranych państw (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/rentownosci-obligacji-wybranych-panstw-tabela",
+    "src": "strefainwestorow",
+    "flags": []
+   }
+  ],
   "swiat_rynki": [],
   "energetyka_surowce": [
+   {
+    "time": "06:45",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439312",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "06:00",
     "kind": "pap",
@@ -128,6 +158,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "06:47",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźniki referencyjne ON na wybranych rynkach rozwiniętych (tabela)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439315",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "06:37",
     "kind": "news",

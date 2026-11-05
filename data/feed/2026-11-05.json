@@ -1,7 +1,77 @@
 {
  "date": "2026-11-05",
- "count": 20,
+ "count": 26,
  "items": [
+  {
+   "id": "strefa-a917265b0dd1",
+   "date": "2026-11-05",
+   "time": "06:47",
+   "ts": "2026-11-05T06:47:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wyniki Asbisu w III kwartale 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/wyniki-asbisu-w-iii-kwartale-2026-roku-vs-konsensus-pap-tabela"
+  },
+  {
+   "id": "bossa-pap-439315",
+   "date": "2026-11-05",
+   "time": "06:47",
+   "ts": "2026-11-05T06:47:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne ON na wybranych rynkach rozwiniętych (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439315"
+  },
+  {
+   "id": "bossa-pap-439314",
+   "date": "2026-11-05",
+   "time": "06:47",
+   "ts": "2026-11-05T06:47:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wyniki Asbisu w III kwartale 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439314"
+  },
+  {
+   "id": "bossa-pap-439313",
+   "date": "2026-11-05",
+   "time": "06:46",
+   "ts": "2026-11-05T06:46:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Rentowności obligacji wybranych państw (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439313"
+  },
+  {
+   "id": "bossa-pap-439312",
+   "date": "2026-11-05",
+   "time": "06:45",
+   "ts": "2026-11-05T06:45:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439312"
+  },
+  {
+   "id": "strefa-cd7dcd251ee1",
+   "date": "2026-11-05",
+   "time": "06:43",
+   "ts": "2026-11-05T06:43:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Rentowności obligacji wybranych państw (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/rentownosci-obligacji-wybranych-panstw-tabela"
+  },
   {
    "id": "bossa-pap-439311",
    "date": "2026-11-05",
