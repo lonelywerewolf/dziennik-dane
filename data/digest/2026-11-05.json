@@ -1,10 +1,10 @@
 {
  "date": "2026-11-05",
  "counts": {
-  "podsumowania": 15,
-  "wyniki": 22,
+  "podsumowania": 16,
+  "wyniki": 24,
   "rekomendacje": 2,
-  "korporacyjne": 48,
+  "korporacyjne": 49,
   "makro_pl": 16,
   "swiat_rynki": 14,
   "energetyka_surowce": 8,
@@ -12,13 +12,22 @@
   "fundusze_drobne": 9,
   "twoje_spolki": 6,
   "obserwowane": 0,
-  "pozostale": 42
+  "pozostale": 46
  },
- "duplicatesRemoved": 115,
- "total": 297,
+ "duplicatesRemoved": 117,
+ "total": 307,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "17:28",
+    "kind": "news",
+    "ticker": null,
+    "title": "WIG20 na zamknięciu wyniósł 4209,15 pkt (0,46%)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/wig20-na-zamknieciu-wyniosl-420915-pkt-046",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:06",
     "kind": "news",
@@ -158,6 +167,26 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "17:25",
+    "kind": "pap",
+    "ticker": null,
+    "title": "CENTRUM FINANSOWE SA (13/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439509",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:23",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wyniki ORLEN za trzeci kwartał. Najtańsze w UE paliwa stabilizują polską gospodarkę",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/wyniki-orlen-za-trzeci-kwartal-najtansze-w-ue-paliwa-stabilizuja-polska",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "17:20",
     "kind": "news",
@@ -403,6 +432,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "17:27",
+    "kind": "espi",
+    "ticker": null,
+    "title": "B-Act S.A.: Zawarcie istotnej umowy przez konsorcjum",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23500",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "16:59",
     "kind": "espi",
@@ -1414,6 +1454,42 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:33",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Stawka Polonia wzrosła w czwartek do 3,79 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439515",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MNiSW: Poznaliśmy laureatów II edycji programu: Inicjatywa doskonałości - uczelnia badawcza (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439514",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:27",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MC: Ramy strategii przeciwdziałania dezinformacji na posiedzeniu CWD (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439512",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:27",
+    "kind": "espi",
+    "ticker": null,
+    "title": "3R Games S.A.: Premiera dwóch płatnych dodatków do gry „Cave Crave”: „Ancient Temple” oraz „Undead Pack”",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23499",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:22",
     "kind": "pap",
