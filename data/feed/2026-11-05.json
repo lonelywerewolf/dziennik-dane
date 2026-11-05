@@ -1,7 +1,90 @@
 {
  "date": "2026-11-05",
- "count": 6,
+ "count": 13,
  "items": [
+  {
+   "id": "bossa-pap-439307",
+   "date": "2026-11-05",
+   "time": "06:01",
+   "ts": "2026-11-05T06:01:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zysk netto grupy PKO BP w III kw. '26 wyniósł 2,93 mld zł, powyżej oczekiwań",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439307"
+  },
+  {
+   "id": "bossa-pap-439306",
+   "date": "2026-11-05",
+   "time": "06:00",
+   "ts": "2026-11-05T06:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Kalendarium rynku kapitałowego GPW 2026-11-05",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439306"
+  },
+  {
+   "id": "bossa-pap-439305",
+   "date": "2026-11-05",
+   "time": "06:00",
+   "ts": "2026-11-05T06:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Kalendarium rynku NewConnect 2026-11-05",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439305"
+  },
+  {
+   "id": "bossa-pap-439304",
+   "date": "2026-11-05",
+   "time": "06:00",
+   "ts": "2026-11-05T06:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Kalendarium spółek z WIG30 2026-11-05",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439304"
+  },
+  {
+   "id": "bossa-pap-439303",
+   "date": "2026-11-05",
+   "time": "06:00",
+   "ts": "2026-11-05T06:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-05",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439303"
+  },
+  {
+   "id": "bossa-pap-439302",
+   "date": "2026-11-05",
+   "time": "06:00",
+   "ts": "2026-11-05T06:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Polacy oczekują bardziej stabilnych lub niższych cen energii w związku z transformacją - ankieta EBI",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439302"
+  },
+  {
+   "id": "strefa-57dc884860e0",
+   "date": "2026-11-05",
+   "time": "05:55",
+   "ts": "2026-11-05T05:55:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Zysk netto grupy PKO BP w III kw. '26 wyniósł 2,93 mld zł, powyżej oczekiwań",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/zysk-netto-grupy-pko-bp-w-iii-kw-26-wyniosl-293-mld-zl-powyzej-oczekiwan"
+  },
   {
    "id": "bossa-pap-439301",
    "date": "2026-11-05",

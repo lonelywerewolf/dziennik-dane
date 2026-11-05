@@ -1,25 +1,62 @@
 {
  "date": "2026-11-05",
  "counts": {
-  "podsumowania": 0,
-  "wyniki": 1,
+  "podsumowania": 3,
+  "wyniki": 2,
   "rekomendacje": 0,
   "korporacyjne": 1,
   "makro_pl": 0,
   "swiat_rynki": 0,
-  "energetyka_surowce": 0,
+  "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 2
+  "pozostale": 3
  },
- "duplicatesRemoved": 2,
- "total": 6,
+ "duplicatesRemoved": 3,
+ "total": 13,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
-  "podsumowania": [],
+  "podsumowania": [
+   {
+    "time": "06:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Kalendarium rynku kapitałowego GPW 2026-11-05",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439306",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "06:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Kalendarium rynku NewConnect 2026-11-05",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439305",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "06:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Kalendarium spółek z WIG30 2026-11-05",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439304",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "wyniki": [
+   {
+    "time": "05:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zysk netto grupy PKO BP w III kw. '26 wyniósł 2,93 mld zł, powyżej oczekiwań",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/zysk-netto-grupy-pko-bp-w-iii-kw-26-wyniosl-293-mld-zl-powyzej-oczekiwan",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "05:52",
     "kind": "pap",
@@ -46,12 +83,31 @@
   ],
   "makro_pl": [],
   "swiat_rynki": [],
-  "energetyka_surowce": [],
+  "energetyka_surowce": [
+   {
+    "time": "06:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Polacy oczekują bardziej stabilnych lub niższych cen energii w związku z transformacją - ankieta EBI",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439302",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "nieruchomosci": [],
   "fundusze_drobne": [],
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "06:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-05",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439303",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "00:04",
     "kind": "espi",
