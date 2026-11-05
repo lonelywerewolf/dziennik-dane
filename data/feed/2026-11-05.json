@@ -1,7 +1,43 @@
 {
  "date": "2026-11-05",
- "count": 390,
+ "count": 393,
  "items": [
+  {
+   "id": "bossa-pap-439570",
+   "date": "2026-11-05",
+   "time": "22:16",
+   "ts": "2026-11-05T22:16:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Na Wall Street mocna wyprzedaż i najgorszy dzień od kwietnia 2025 roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439570"
+  },
+  {
+   "id": "bossa-espi-23519",
+   "date": "2026-11-05",
+   "time": "22:09",
+   "ts": "2026-11-05T22:09:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "POLICE",
+   "title": "Szacunkowe wybrane skonsolidowane wyniki finansowe Grupy Kapitałowej Grupa Azoty Zakłady Chemiczne „Police” S.A. za III kwartał 2026 roku oraz za 9 miesięcy 2026 roku.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23519"
+  },
+  {
+   "id": "bossa-espi-23518",
+   "date": "2026-11-05",
+   "time": "22:07",
+   "ts": "2026-11-05T22:07:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PUŁAWY",
+   "title": "Szacunkowe wybrane skonsolidowane wyniki finansowe Grupy Kapitałowej Grupy Azoty Zakłady Azotowe „Puławy” S.A. za III kwartał 2026 roku oraz za 9 miesięcy 2026 roku.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23518"
+  },
   {
    "id": "bossa-espi-23517",
    "date": "2026-11-05",
