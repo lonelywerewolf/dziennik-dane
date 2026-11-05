@@ -1,24 +1,35 @@
 {
  "date": "2026-11-05",
  "counts": {
-  "podsumowania": 5,
-  "wyniki": 11,
+  "podsumowania": 6,
+  "wyniki": 12,
   "rekomendacje": 2,
-  "korporacyjne": 5,
+  "korporacyjne": 7,
   "makro_pl": 2,
-  "swiat_rynki": 1,
+  "swiat_rynki": 2,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 7
+  "pozostale": 8
  },
- "duplicatesRemoved": 25,
- "total": 61,
+ "duplicatesRemoved": 27,
+ "total": 69,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "08:30",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: Przed otwarciem GPW rosną kontrakty w Europie, rynki analizują wybory w USA",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/dzien-na-gpw-przed-otwarciem-gpw-rosna-kontrakty-w-europie-rynki-analizuja",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "08:09",
     "kind": "news",
@@ -66,6 +77,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "08:38",
+    "kind": "news",
+    "ticker": null,
+    "title": "Arctic Paper w III kw. 2026 r. miał 9,7 mln zł EBITDA, mocno poniżej konsensusu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/arctic-paper-w-iii-kw-2026-r-mial-97-mln-zl-ebitda-mocno-ponizej-konsensusu",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:20",
     "kind": "pap",
@@ -198,6 +218,26 @@
   ],
   "korporacyjne": [
    {
+    "time": "08:36",
+    "kind": "pap",
+    "ticker": null,
+    "title": "SPACE FOX GAMES SA (26/2026) Powołanie osoby zarządzającej lub nadzorującej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439340",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "08:33",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Trump deklaruje współpracę z Demokratami w wielu kwestiach; wyklucza wycofanie ceł",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439339",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "08:27",
     "kind": "espi",
     "ticker": null,
@@ -273,6 +313,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "08:37",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Zapasy gazu w magazynach UE wynoszą 74,1 proc., w Polsce równo 99 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439341",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "08:05",
     "kind": "news",
     "ticker": null,
@@ -316,6 +365,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "08:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "SPACE FOX GAMES SA (25/2026) Informacje o walnym zgromadzeniu - informacje po odbyciu WZ (w tym ogłoszenie przerwy) - uchwały",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439338",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:06",
     "kind": "news",
