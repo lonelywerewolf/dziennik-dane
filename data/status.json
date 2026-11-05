@@ -1,6 +1,6 @@
 {
  "last": {
-  "runAt": "2026-11-05T04:21:23+01:00",
+  "runAt": "2026-11-05T04:33:18+01:00",
   "sources": {
    "bossa": {
     "pages": 2,
@@ -9,7 +9,7 @@
     "newest": "2026-11-05T01:00:00+01:00",
     "oldestSeen": "2026-11-04T17:15:00+01:00",
     "ok": true,
-    "sec": 4.1
+    "sec": 5.6
    },
    "strefa": {
     "pages": 1,
@@ -32,14 +32,14 @@
     "oldest": "2025-11-05",
     "newest": "2026-11-04",
     "ok": true,
-    "sec": 3.1
+    "sec": 3.4
    },
    "gpw": {
     "ok": true,
     "items": 20,
     "newest": "05-11-2026 01:00:26",
     "oldestSeen": "04-11-2026 16:03:37",
-    "sec": 6.6
+    "sec": 5.5
    },
    "gpw_archive": {
     "days": 0,
@@ -51,10 +51,11 @@
    },
    "nasdaq": {
     "history": 10,
-    "live": 1,
+    "live": 0,
     "errors": [
      "ASML: TypeError(\"'NoneType' object is not subscriptable\")",
      "AVGO: TypeError(\"'NoneType' object is not subscriptable\")",
+     "MPWR: TypeError(\"'NoneType' object is not subscriptable\")",
      "MRVL: TypeError(\"'NoneType' object is not subscriptable\")",
      "NVDA: TypeError(\"'NoneType' object is not subscriptable\")",
      "TSM: TypeError(\"'NoneType' object is not subscriptable\")",
@@ -62,7 +63,7 @@
      "^SPX info: TypeError(\"'NoneType' object is not subscriptable\")"
     ],
     "ok": false,
-    "sec": 51.4
+    "sec": 53.2
    },
    "us_news": {
     "new": 0,
@@ -71,7 +72,7 @@
     },
     "errors": [],
     "ok": true,
-    "sec": 12.5
+    "sec": 13.6
    },
    "quotes": {
     "ok": true,
@@ -88,13 +89,13 @@
      "2026-11-04",
      4.4014
     ],
-    "sec": 2.0
+    "sec": 1.2
    },
    "insiders": {
     "new": 0,
     "errors": [],
     "ok": true,
-    "sec": 5.9
+    "sec": 6.5
    },
    "conditions": {
     "checked": 0,
@@ -120,7 +121,7 @@
     "errors": [],
     "ok": true,
     "pdfPending": 0,
-    "sec": 3.1
+    "sec": 3.3
    },
    "macro": {
     "ok": true,
@@ -132,11 +133,149 @@
     "sent": 0,
     "first": false,
     "commands": [],
-    "sec": 0.4
+    "sec": 0.5
    }
   }
  },
  "runs": [
+  {
+   "runAt": "2026-11-05T04:33:18+01:00",
+   "sources": {
+    "bossa": {
+     "pages": 2,
+     "new": 0,
+     "complete": true,
+     "newest": "2026-11-05T01:00:00+01:00",
+     "oldestSeen": "2026-11-04T17:15:00+01:00",
+     "ok": true,
+     "sec": 5.6
+    },
+    "strefa": {
+     "pages": 1,
+     "new": 0,
+     "newest": null,
+     "oldestSeen": null,
+     "complete": false,
+     "ok": true,
+     "sec": 1.3
+    },
+    "articles": {
+     "saved": 0,
+     "ok": true,
+     "sec": 0.0
+    },
+    "recs": {
+     "new": 0,
+     "seen": 295,
+     "total": 287,
+     "oldest": "2025-11-05",
+     "newest": "2026-11-04",
+     "ok": true,
+     "sec": 3.4
+    },
+    "gpw": {
+     "ok": true,
+     "items": 20,
+     "newest": "05-11-2026 01:00:26",
+     "oldestSeen": "04-11-2026 16:03:37",
+     "sec": 5.5
+    },
+    "gpw_archive": {
+     "days": 0,
+     "errors": [],
+     "latest": "2026-11-04",
+     "stored": 263,
+     "ok": true,
+     "sec": 0.0
+    },
+    "nasdaq": {
+     "history": 10,
+     "live": 0,
+     "errors": [
+      "ASML: TypeError(\"'NoneType' object is not subscriptable\")",
+      "AVGO: TypeError(\"'NoneType' object is not subscriptable\")",
+      "MPWR: TypeError(\"'NoneType' object is not subscriptable\")",
+      "MRVL: TypeError(\"'NoneType' object is not subscriptable\")",
+      "NVDA: TypeError(\"'NoneType' object is not subscriptable\")",
+      "TSM: TypeError(\"'NoneType' object is not subscriptable\")",
+      "VRT: TypeError(\"'NoneType' object is not subscriptable\")",
+      "^SPX info: TypeError(\"'NoneType' object is not subscriptable\")"
+     ],
+     "ok": false,
+     "sec": 53.2
+    },
+    "us_news": {
+     "new": 0,
+     "sources": {
+      "nasdaq": 0
+     },
+     "errors": [],
+     "ok": true,
+     "sec": 13.6
+    },
+    "quotes": {
+     "ok": true,
+     "tickers": 26,
+     "sec": 0.1
+    },
+    "nbp": {
+     "ok": true,
+     "USD": [
+      "2026-11-04",
+      3.9097
+     ],
+     "EUR": [
+      "2026-11-04",
+      4.4014
+     ],
+     "sec": 1.2
+    },
+    "insiders": {
+     "new": 0,
+     "errors": [],
+     "ok": true,
+     "sec": 6.5
+    },
+    "conditions": {
+     "checked": 0,
+     "met": 0,
+     "ok": true,
+     "sec": 0.0
+    },
+    "fundamentals": {
+     "pl": 0,
+     "us": 0,
+     "errors": [],
+     "ok": true,
+     "sec": 0.0
+    },
+    "calendar": {
+     "errors": [],
+     "ok": true,
+     "sec": 0.0
+    },
+    "pwpa": {
+     "new": 0,
+     "texts": 0,
+     "errors": [],
+     "ok": true,
+     "pdfPending": 0,
+     "sec": 3.3
+    },
+    "macro": {
+     "ok": true,
+     "skipped": true,
+     "sec": 0.0
+    },
+    "telegram": {
+     "ok": true,
+     "sent": 0,
+     "first": false,
+     "commands": [],
+     "sec": 0.5
+    }
+   }
+  },
   {
    "runAt": "2026-11-05T04:21:23+01:00",
    "sources": {
@@ -12724,143 +12863,6 @@
      "first": false,
      "commands": [],
      "sec": 0.5
-    }
-   }
-  },
-  {
-   "runAt": "2026-11-03T19:44:58+01:00",
-   "sources": {
-    "bossa": {
-     "pages": 2,
-     "new": 3,
-     "complete": true,
-     "newest": "2026-11-03T19:38:00+01:00",
-     "oldestSeen": "2026-11-03T16:42:00+01:00",
-     "ok": true,
-     "sec": 5.2
-    },
-    "strefa": {
-     "pages": 2,
-     "new": 2,
-     "complete": true,
-     "newest": "2026-11-03T19:41:01+01:00",
-     "oldestSeen": "2026-11-03T09:50:14+01:00",
-     "ok": true,
-     "sec": 5.3
-    },
-    "articles": {
-     "saved": 0,
-     "ok": true,
-     "sec": 0.0
-    },
-    "recs": {
-     "new": 0,
-     "seen": 294,
-     "total": 286,
-     "oldest": "2025-11-05",
-     "newest": "2026-11-02",
-     "ok": true,
-     "sec": 3.0
-    },
-    "gpw": {
-     "ok": true,
-     "items": 20,
-     "newest": "03-11-2026 18:37:34",
-     "oldestSeen": "03-11-2026 15:58:44",
-     "sec": 13.5
-    },
-    "gpw_archive": {
-     "days": 0,
-     "errors": [],
-     "latest": "2026-11-03",
-     "stored": 262,
-     "ok": true,
-     "sec": 0.0
-    },
-    "nasdaq": {
-     "history": 9,
-     "live": 6,
-     "errors": [],
-     "ok": true,
-     "sec": 40.8
-    },
-    "us_news": {
-     "new": 0,
-     "sources": {
-      "nasdaq": 0
-     },
-     "errors": [
-      "yahoo ASML: <HTTPError 429: 'Too Many Requests'>",
-      "yahoo AVGO: <HTTPError 429: 'Too Many Requests'>",
-      "yahoo MPWR: <HTTPError 429: 'Too Many Requests'>",
-      "yahoo NVDA: <HTTPError 429: 'Too Many Requests'>",
-      "yahoo TSM: <HTTPError 429: 'Too Many Requests'>",
-      "yahoo VRT: <HTTPError 429: 'Too Many Requests'>"
-     ],
-     "ok": true,
-     "sec": 14.2
-    },
-    "quotes": {
-     "ok": true,
-     "tickers": 24,
-     "sec": 0.1
-    },
-    "nbp": {
-     "ok": true,
-     "USD": [
-      "2026-11-03",
-      3.9526
-     ],
-     "EUR": [
-      "2026-11-03",
-      4.4233
-     ],
-     "sec": 1.4
-    },
-    "insiders": {
-     "new": 0,
-     "errors": [],
-     "ok": true,
-     "sec": 10.6
-    },
-    "conditions": {
-     "checked": 0,
-     "met": 0,
-     "ok": true,
-     "sec": 0.0
-    },
-    "fundamentals": {
-     "pl": 0,
-     "us": 0,
-     "errors": [],
-     "ok": true,
-     "sec": 0.0
-    },
-    "calendar": {
-     "errors": [],
-     "ok": true,
-     "sec": 0.0
-    },
-    "pwpa": {
-     "new": 0,
-     "texts": 0,
-     "errors": [
-      "20261029_dom_maklerski_banku_ochrony_środowiska_dig_pl_aw.pdf: RemoteDisconnected('Remote end closed connection without response')"
-     ],
-     "ok": false,
-     "sec": 3.3
-    },
-    "macro": {
-     "ok": true,
-     "skipped": true,
-     "sec": 0.0
-    },
-    "telegram": {
-     "ok": true,
-     "sent": 0,
-     "first": false,
-     "commands": [],
-     "sec": 0.4
     }
    }
   }
