@@ -9,13 +9,13 @@
   "swiat_rynki": 3,
   "energetyka_surowce": 6,
   "nieruchomosci": 0,
-  "fundusze_drobne": 0,
+  "fundusze_drobne": 1,
   "twoje_spolki": 5,
   "obserwowane": 0,
-  "pozostale": 20
+  "pozostale": 22
  },
  "duplicatesRemoved": 47,
- "total": 127,
+ "total": 130,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -561,7 +561,17 @@
    }
   ],
   "nieruchomosci": [],
-  "fundusze_drobne": [],
+  "fundusze_drobne": [
+   {
+    "time": "11:39",
+    "kind": "pap",
+    "ticker": null,
+    "title": "W X wartość aktywów OFE spadła o 0,5 proc. do 370,5 mld zł - Analizy Online, IGTE",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439382",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "twoje_spolki": [
    {
     "time": "10:46",
@@ -613,6 +623,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:38",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MRiRW: Większa jawność wydatków, silniejsza promocja polskiej żywności. Minister Krajewski zapowiada zmiany w funduszach promocji (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439381",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:36",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MS: Od dziś nowe stawki taksy notarialnej. Pierwsza tak szeroka zmiana od ponad 20 lat (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439380",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:17",
     "kind": "espi",

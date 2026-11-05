@@ -1,7 +1,43 @@
 {
  "date": "2026-11-05",
- "count": 127,
+ "count": 130,
  "items": [
+  {
+   "id": "bossa-pap-439382",
+   "date": "2026-11-05",
+   "time": "11:39",
+   "ts": "2026-11-05T11:39:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "W X wartość aktywów OFE spadła o 0,5 proc. do 370,5 mld zł - Analizy Online, IGTE",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439382"
+  },
+  {
+   "id": "bossa-pap-439381",
+   "date": "2026-11-05",
+   "time": "11:38",
+   "ts": "2026-11-05T11:38:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MRiRW: Większa jawność wydatków, silniejsza promocja polskiej żywności. Minister Krajewski zapowiada zmiany w funduszach promocji (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439381"
+  },
+  {
+   "id": "bossa-pap-439380",
+   "date": "2026-11-05",
+   "time": "11:36",
+   "ts": "2026-11-05T11:36:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MS: Od dziś nowe stawki taksy notarialnej. Pierwsza tak szeroka zmiana od ponad 20 lat (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439380"
+  },
   {
    "id": "bossa-pap-439379",
    "date": "2026-11-05",
