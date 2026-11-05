@@ -1,7 +1,64 @@
 {
  "date": "2026-11-05",
- "count": 110,
+ "count": 115,
  "items": [
+  {
+   "id": "bossa-pap-439371",
+   "date": "2026-11-05",
+   "time": "10:52",
+   "ts": "2026-11-05T10:52:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PKO BP wiosną '27 przedstawi aktualizację strategii z ambitniejszymi celami biznesowymi (opis)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439371"
+  },
+  {
+   "id": "bossa-pap-439370",
+   "date": "2026-11-05",
+   "time": "10:50",
+   "ts": "2026-11-05T10:50:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Polska zabiega, by infrastruktura związana z atomem była uwzględniona w programach wsparcia UE - ME",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439370"
+  },
+  {
+   "id": "strefa-aa1e1c1fa8c1",
+   "date": "2026-11-05",
+   "time": "10:47",
+   "ts": "2026-11-05T10:47:39+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "PKO BP wiosną '27 przedstawi aktualizację strategii z ambitniejszymi celami biznesowymi (opis)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/pko-bp-wiosna-27-przedstawi-aktualizacje-strategii-z-ambitniejszymi-celami"
+  },
+  {
+   "id": "strefa-ccd0974495de",
+   "date": "2026-11-05",
+   "time": "10:46",
+   "ts": "2026-11-05T10:46:59+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "East Value Research obniżył wycenę Digital Network do 324 zł",
+   "ticker": "DIG",
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/east-value-research-obnizyl-wycene-digital-network-do-324-zl"
+  },
+  {
+   "id": "strefa-b2ba2782eb45",
+   "date": "2026-11-05",
+   "time": "10:45",
+   "ts": "2026-11-05T10:45:19+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Na rynkach ropy już prawie po spadkach (aktl.)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/na-rynkach-ropy-juz-prawie-po-spadkach-aktl"
+  },
   {
    "id": "bossa-pap-439369",
    "date": "2026-11-05",

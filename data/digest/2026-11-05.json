@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 5,
   "obserwowane": 0,
-  "pozostale": 14
+  "pozostale": 16
  },
- "duplicatesRemoved": 40,
- "total": 110,
+ "duplicatesRemoved": 43,
+ "total": 115,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -528,6 +528,15 @@
   "fundusze_drobne": [],
   "twoje_spolki": [
    {
+    "time": "10:46",
+    "kind": "news",
+    "ticker": "DIG",
+    "title": "East Value Research obniżył wycenę Digital Network do 324 zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/east-value-research-obnizyl-wycene-digital-network-do-324-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "10:31",
     "kind": "news",
     "ticker": "ASB",
@@ -543,15 +552,6 @@
     "title": "DM BOŚ podwyższył wycenę akcji Asbisu do 202 zł; podtrzymuje \"kupuj\"",
     "url": "https://strefainwestorow.pl/wiadomosci/20261105/dm-bos-podwyzszyl-wycene-akcji-asbisu-do-202-zl-podtrzymuje-kupuj",
     "src": "strefainwestorow",
-    "flags": []
-   },
-   {
-    "time": "08:52",
-    "kind": "pap",
-    "ticker": "DIG",
-    "title": "East Value Research obniżył wycenę Digital Network do 324 zł",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439346",
-    "src": "bossa",
     "flags": []
    },
    {
@@ -577,6 +577,33 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "10:50",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Polska zabiega, by infrastruktura związana z atomem była uwzględniona w programach wsparcia UE - ME",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439370",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:47",
+    "kind": "news",
+    "ticker": null,
+    "title": "PKO BP wiosną '27 przedstawi aktualizację strategii z ambitniejszymi celami biznesowymi (opis)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/pko-bp-wiosna-27-przedstawi-aktualizacje-strategii-z-ambitniejszymi-celami",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "10:45",
+    "kind": "news",
+    "ticker": null,
+    "title": "Na rynkach ropy już prawie po spadkach (aktl.)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/na-rynkach-ropy-juz-prawie-po-spadkach-aktl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "10:34",
     "kind": "pap",
@@ -620,15 +647,6 @@
     "title": "FDA pozytywnie oceniła kluczowe założenia rozwoju MabionCD20",
     "url": "https://strefainwestorow.pl/wiadomosci/20261105/fda-pozytywnie-ocenila-kluczowe-zalozenia-rozwoju-mabioncd20",
     "src": "strefainwestorow",
-    "flags": []
-   },
-   {
-    "time": "08:55",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Na rynkach ropy już prawie po spadkach (aktl.)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439348",
-    "src": "bossa",
     "flags": []
    },
    {
