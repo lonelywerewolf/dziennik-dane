@@ -1,7 +1,31 @@
 {
  "date": "2026-11-05",
- "count": 213,
+ "count": 215,
  "items": [
+  {
+   "id": "bossa-espi-23475",
+   "date": "2026-11-05",
+   "time": "14:59",
+   "ts": "2026-11-05T14:59:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF MWIG40TRsh PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 209 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23475"
+  },
+  {
+   "id": "bossa-pap-439449",
+   "date": "2026-11-05",
+   "time": "14:53",
+   "ts": "2026-11-05T14:53:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Nationale-Nederlanden OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439449"
+  },
   {
    "id": "bossa-pap-439448",
    "date": "2026-11-05",

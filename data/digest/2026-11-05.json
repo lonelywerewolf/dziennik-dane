@@ -9,13 +9,13 @@
   "swiat_rynki": 11,
   "energetyka_surowce": 8,
   "nieruchomosci": 0,
-  "fundusze_drobne": 4,
+  "fundusze_drobne": 5,
   "twoje_spolki": 6,
   "obserwowane": 0,
   "pozostale": 37
  },
- "duplicatesRemoved": 75,
- "total": 213,
+ "duplicatesRemoved": 76,
+ "total": 215,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -924,6 +924,15 @@
   ],
   "nieruchomosci": [],
   "fundusze_drobne": [
+   {
+    "time": "14:53",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Nationale-Nederlanden OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439449",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:20",
     "kind": "espi",
