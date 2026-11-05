@@ -4,18 +4,18 @@
   "podsumowania": 10,
   "wyniki": 16,
   "rekomendacje": 2,
-  "korporacyjne": 24,
+  "korporacyjne": 27,
   "makro_pl": 11,
-  "swiat_rynki": 8,
+  "swiat_rynki": 9,
   "energetyka_surowce": 7,
   "nieruchomosci": 0,
-  "fundusze_drobne": 3,
+  "fundusze_drobne": 4,
   "twoje_spolki": 6,
   "obserwowane": 0,
   "pozostale": 34
  },
- "duplicatesRemoved": 68,
- "total": 189,
+ "duplicatesRemoved": 69,
+ "total": 195,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -294,6 +294,39 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "14:16",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Nowe taryfy na prąd będą znane w II połowie grudnia - prezes URE",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439433",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "14:14",
+    "kind": "espi",
+    "ticker": null,
+    "title": "DEKPOL S.A.: Zawarcie umowy nabycia części nieruchomości gruntowych w Gdyni",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23469",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "14:14",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ADATEX S.A.: Utworzenie Programu Emisji Obligacji",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23468",
+    "src": "bossa",
+    "flags": [
+     "emisja"
+    ]
+   },
    {
     "time": "13:41",
     "kind": "espi",
@@ -652,6 +685,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "14:14",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GPW: w sprawie wprowadzenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów strukturyzowanych emitowanych przez ING BANK N.V.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439432",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "13:57",
     "kind": "espi",
     "ticker": null,
@@ -795,6 +837,15 @@
   ],
   "nieruchomosci": [],
   "fundusze_drobne": [
+   {
+    "time": "14:20",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BUMECH DEFENSE PARTNERS S.A.: Zmiana harmonogramu oferty publicznej akcji serii E",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23470",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:36",
     "kind": "pap",

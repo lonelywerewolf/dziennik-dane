@@ -1,7 +1,79 @@
 {
  "date": "2026-11-05",
- "count": 189,
+ "count": 195,
  "items": [
+  {
+   "id": "bossa-espi-23471",
+   "date": "2026-11-05",
+   "time": "14:20",
+   "ts": "2026-11-05T14:20:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF MWIG40TRlv PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 202 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23471"
+  },
+  {
+   "id": "bossa-espi-23470",
+   "date": "2026-11-05",
+   "time": "14:20",
+   "ts": "2026-11-05T14:20:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BUMECH DEFENSE PARTNERS S.A.",
+   "title": "Zmiana harmonogramu oferty publicznej akcji serii E",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23470"
+  },
+  {
+   "id": "bossa-pap-439433",
+   "date": "2026-11-05",
+   "time": "14:16",
+   "ts": "2026-11-05T14:16:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Nowe taryfy na prąd będą znane w II połowie grudnia - prezes URE",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439433"
+  },
+  {
+   "id": "bossa-pap-439432",
+   "date": "2026-11-05",
+   "time": "14:14",
+   "ts": "2026-11-05T14:14:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie wprowadzenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów strukturyzowanych emitowanych przez ING BANK N.V.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439432"
+  },
+  {
+   "id": "bossa-espi-23469",
+   "date": "2026-11-05",
+   "time": "14:14",
+   "ts": "2026-11-05T14:14:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "DEKPOL S.A.",
+   "title": "Zawarcie umowy nabycia części nieruchomości gruntowych w Gdyni",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23469"
+  },
+  {
+   "id": "bossa-espi-23468",
+   "date": "2026-11-05",
+   "time": "14:14",
+   "ts": "2026-11-05T14:14:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ADATEX S.A.",
+   "title": "Utworzenie Programu Emisji Obligacji",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23468"
+  },
   {
    "id": "bossa-espi-23467",
    "date": "2026-11-05",
