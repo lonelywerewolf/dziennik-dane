@@ -2,7 +2,7 @@
  "date": "2026-11-05",
  "counts": {
   "podsumowania": 18,
-  "wyniki": 30,
+  "wyniki": 32,
   "rekomendacje": 2,
   "korporacyjne": 55,
   "makro_pl": 17,
@@ -15,7 +15,7 @@
   "pozostale": 51
  },
  "duplicatesRemoved": 159,
- "total": 376,
+ "total": 378,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -187,6 +187,28 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "19:43",
+    "kind": "espi",
+    "ticker": null,
+    "title": "UNIMOT S.A.: Wstępne szacunkowe wybrane dane finansowe za 3 kwartał 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23511",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "19:34",
+    "kind": "news",
+    "ticker": null,
+    "title": "UNIMOT S.A. opublikował szacunkowe wyniki za III kwartał 2026 r.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/unimot-sa-opublikowal-szacunkowe-wyniki-za-iii-kwartal-2026-r",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "19:14",
     "kind": "espi",
