@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "1183ae2b1f9f",
+   "ticker": "NVDA",
+   "time": "2026-11-05T23:09+01:00",
+   "title": "Stock Market Today, Nov. 5: Nvidia Slides on AI Chip Selloff as Election Uncertainty Weighs",
+   "url": "https://www.nasdaq.com/articles/stock-market-today-nov-5-nvidia-slides-ai-chip-selloff-election-uncertainty-weighs",
+   "src": "nasdaq",
+   "summary": "Nvidia (NASDAQ:NVDA), the provider of AI accelerators, GPUs, and high-performance networking chips, closed at $181.60, down 9.26%. Investors were selling AI and chip names as election-related uncertainty and demand worries intensified, and they are watching the Nov. 17 quarterly"
+  },
+  {
    "id": "8bcf589b0efd",
    "ticker": "NVDA",
    "time": "2026-11-05T22:11+01:00",
@@ -1684,5 +1693,5 @@
    "summary": "Key PointsASML is one of the most important companies in the global semiconductor ecosystem, but its stock price performance has left a lot to be desired over the past three years."
   }
  ],
- "updatedAt": "2026-11-05T23:18:59+01:00"
+ "updatedAt": "2026-11-05T23:31:00+01:00"
 }

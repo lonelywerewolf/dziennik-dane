@@ -2,7 +2,7 @@
  "date": "2026-11-05",
  "counts": {
   "podsumowania": 19,
-  "wyniki": 39,
+  "wyniki": 40,
   "rekomendacje": 2,
   "korporacyjne": 57,
   "makro_pl": 20,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 53
  },
- "duplicatesRemoved": 168,
- "total": 403,
+ "duplicatesRemoved": 169,
+ "total": 405,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -196,6 +196,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "23:27",
+    "kind": "pap",
+    "ticker": null,
+    "title": "NOOBZ FROM POLAND SA (12/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439577",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "22:34",
     "kind": "pap",
@@ -1831,12 +1840,12 @@
   "obserwowane": [],
   "pozostale": [
    {
-    "time": "23:11",
-    "kind": "pap",
+    "time": "23:06",
+    "kind": "news",
     "ticker": null,
     "title": "Unidevelopment z grupy Unibep w III kwartale sprzedał 116 lokali",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439575",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/unidevelopment-z-grupy-unibep-w-iii-kwartale-sprzedal-116-lokali",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
