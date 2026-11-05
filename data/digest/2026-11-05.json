@@ -2,7 +2,7 @@
  "date": "2026-11-05",
  "counts": {
   "podsumowania": 3,
-  "wyniki": 2,
+  "wyniki": 3,
   "rekomendacje": 0,
   "korporacyjne": 1,
   "makro_pl": 0,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 3
  },
- "duplicatesRemoved": 3,
- "total": 13,
+ "duplicatesRemoved": 4,
+ "total": 15,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -48,6 +48,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "06:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wyniki Banku Handlowego w III kw. 2026 roku vs. konsensus PAP (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/wyniki-banku-handlowego-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "05:55",
     "kind": "news",

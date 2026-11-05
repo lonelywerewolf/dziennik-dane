@@ -1,7 +1,30 @@
 {
  "date": "2026-11-05",
- "count": 13,
+ "count": 15,
  "items": [
+  {
+   "id": "bossa-pap-439308",
+   "date": "2026-11-05",
+   "time": "06:12",
+   "ts": "2026-11-05T06:12:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wyniki Banku Handlowego w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439308"
+  },
+  {
+   "id": "strefa-b3637d2290ba",
+   "date": "2026-11-05",
+   "time": "06:02",
+   "ts": "2026-11-05T06:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wyniki Banku Handlowego w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/wyniki-banku-handlowego-w-iii-kw-2026-roku-vs-konsensus-pap-tabela"
+  },
   {
    "id": "bossa-pap-439307",
    "date": "2026-11-05",
