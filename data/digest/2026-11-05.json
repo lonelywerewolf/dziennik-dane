@@ -1,24 +1,33 @@
 {
  "date": "2026-11-05",
  "counts": {
-  "podsumowania": 13,
-  "wyniki": 17,
+  "podsumowania": 14,
+  "wyniki": 19,
   "rekomendacje": 2,
-  "korporacyjne": 47,
-  "makro_pl": 14,
-  "swiat_rynki": 13,
+  "korporacyjne": 48,
+  "makro_pl": 15,
+  "swiat_rynki": 14,
   "energetyka_surowce": 8,
   "nieruchomosci": 0,
-  "fundusze_drobne": 8,
+  "fundusze_drobne": 9,
   "twoje_spolki": 6,
   "obserwowane": 0,
-  "pozostale": 40
+  "pozostale": 41
  },
- "duplicatesRemoved": 105,
- "total": 273,
+ "duplicatesRemoved": 110,
+ "total": 286,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "16:58",
+    "kind": "skrot",
+    "ticker": null,
+    "title": "Skrót wiadomości - czwartek, 5 listopada, 17.00",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/skrot-wiadomosci-czwartek-5-listopada-1700",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "16:41",
     "kind": "news",
@@ -140,6 +149,28 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "17:11",
+    "kind": "espi",
+    "ticker": null,
+    "title": "POLENERGIA: WSTĘPNE WYBRANE SKONSOLIDOWANE WYNIKI FINANSOWE ZA DZIEWIĘĆ MIESIĘCY 2026 ROKU",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23496",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "17:07",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ZREMB-CHOJNICE S.A.: Szacunkowe wybrane dane finansowe ZBM \"ZREMB-CHOJNICE\"S.A. za okres I-III kwartał 2026 roku.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23495",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "14:32",
     "kind": "espi",
@@ -333,6 +364,28 @@
   ],
   "korporacyjne": [
    {
+    "time": "16:59",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SKARBIEC HOLDING S.A.: Wartość aktywów pod zarządzaniem Skarbiec TFI S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23492",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "16:44",
+    "kind": "news",
+    "ticker": null,
+    "title": "Nastawienie RPP jastrzębie; Rada boi się, że trzeba będzie podwyższać stopy - prezes NBP (opis)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/nastawienie-rpp-jastrzebie-rada-boi-sie-ze-trzeba-bedzie-podwyzszac-stopy",
+    "src": "strefainwestorow",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
     "time": "16:13",
     "kind": "news",
     "ticker": null,
@@ -392,17 +445,6 @@
     "title": "Jeśli ryzyka dla inflacji będą narastać, to RPP jest gotowa do działania, nie będzie zwlekać - prezes NBP",
     "url": "https://strefainwestorow.pl/wiadomosci/20261105/jesli-ryzyka-dla-inflacji-beda-narastac-rpp-jest-gotowa-do-dzialania-nie-bedzie",
     "src": "strefainwestorow",
-    "flags": [
-     "zarząd"
-    ]
-   },
-   {
-    "time": "15:47",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Nastawienie w RPP jest teraz jastrzębie, Rada boi się, że trzeba będzie podwyższać stopy - prezes NBP",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439478",
-    "src": "bossa",
     "flags": [
      "zarząd"
     ]
@@ -836,6 +878,15 @@
   ],
   "makro_pl": [
    {
+    "time": "16:54",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Sejm odrzucił poprawki Senatu do ustawy podnoszącej opłatę cukrową",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439494",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "15:53",
     "kind": "pap",
     "ticker": null,
@@ -965,6 +1016,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "16:48",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MSWiA: Coroczna odprawa MSWiA i służb przed Narodowym Świętem Niepodległości (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439492",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:52",
     "kind": "news",
@@ -1164,6 +1224,15 @@
   "nieruchomosci": [],
   "fundusze_drobne": [
    {
+    "time": "16:49",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Nationale-Nederlanden PTE SA informuje",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439493",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "16:14",
     "kind": "pap",
     "ticker": null,
@@ -1296,6 +1365,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ZENERIS PROJEKTY SA (10/2026) Zmiana harmonogramu publikacji raportów okresowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439498",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:33",
     "kind": "espi",
