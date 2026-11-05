@@ -1,39 +1,39 @@
 {
  "q": {
   "ASML": {
-   "price": 1470.51,
-   "chgPct": -1.72,
-   "at": "Nov 5, 2026 7:12 AM ET",
+   "price": 1467.54,
+   "chgPct": -1.92,
+   "at": "Nov 5, 2026 7:25 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/asml"
   },
   "AVGO": {
-   "price": 319.9355,
-   "chgPct": -1.7,
-   "at": "Nov 5, 2026 7:12 AM ET",
+   "price": 319.0,
+   "chgPct": -1.99,
+   "at": "Nov 5, 2026 7:25 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/avgo"
   },
   "MPWR": {
-   "price": 1261.08,
-   "chgPct": null,
-   "at": "Nov 5, 2026 7:12 AM ET",
+   "price": 1234.58,
+   "chgPct": -2.1,
+   "at": "Nov 5, 2026 7:25 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/mpwr"
   },
   "NVDA": {
-   "price": 198.35,
-   "chgPct": -0.89,
-   "at": "Nov 5, 2026 7:13 AM ET",
+   "price": 197.61,
+   "chgPct": -1.26,
+   "at": "Nov 5, 2026 7:25 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/nvda"
   },
   "TSM": {
-   "price": 387.24,
-   "chgPct": -2.15,
-   "at": "Nov 5, 2026 7:13 AM ET",
+   "price": 386.67,
+   "chgPct": -2.29,
+   "at": "Nov 5, 2026 7:26 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/tsm"
   },
   "VRT": {
-   "price": 198.83,
-   "chgPct": -3.27,
-   "at": "Nov 5, 2026 7:13 AM ET",
+   "price": 198.46,
+   "chgPct": -3.45,
+   "at": "Nov 5, 2026 7:26 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/vrt"
   },
   "^NDQ": {
@@ -49,17 +49,17 @@
    "src": "https://www.nasdaq.com/market-activity/index/sox"
   },
   "^SPX": {
-   "price": 768.48,
-   "chgPct": 0.22,
-   "at": "Nov 5, 2026 7:12 AM ET",
+   "price": 767.57,
+   "chgPct": 0.1,
+   "at": "Nov 5, 2026 7:26 AM ET",
    "src": "https://www.nasdaq.com/market-activity/index/spy"
   },
   "MRVL": {
    "price": 153.7,
    "chgPct": -3.82,
-   "at": "Nov 5, 2026 7:13 AM ET",
+   "at": "Nov 5, 2026 7:25 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/mrvl"
   }
  },
- "updatedAt": "2026-11-05T13:12:24+01:00"
+ "updatedAt": "2026-11-05T13:25:17+01:00"
 }

@@ -2,9 +2,9 @@
  "date": "2026-11-05",
  "counts": {
   "podsumowania": 10,
-  "wyniki": 15,
+  "wyniki": 16,
   "rekomendacje": 2,
-  "korporacyjne": 19,
+  "korporacyjne": 21,
   "makro_pl": 9,
   "swiat_rynki": 7,
   "energetyka_surowce": 7,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 3,
   "twoje_spolki": 6,
   "obserwowane": 0,
-  "pozostale": 30
+  "pozostale": 31
  },
  "duplicatesRemoved": 62,
- "total": 170,
+ "total": 174,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -113,6 +113,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "13:03",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wyniki Grupy Kapitałowej BNP Paribas Bank Polska za III kwartał 2026 r.: 689 mln zł zysku netto",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/wyniki-grupy-kapitalowej-bnp-paribas-bank-polska-za-iii-kwartal-2026-r-689-mln",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "10:00",
     "kind": "news",
@@ -283,6 +294,26 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "13:24",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ATENDE S.A.: Przystąpienie PGE Systemy S.A. do mediacji dotyczącej rozliczenia istotnej umowy",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23457",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "13:14",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SYN2BIO S.A.: Powiadomienie o transakcjach na akcjach Spolki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23455",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:11",
     "kind": "espi",
@@ -790,6 +821,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "13:16",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BEEIN S.A.: Otrzymanie zawiadomienia o zmianie udziału w ogólnej liczbie głosów Emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23456",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:12",
     "kind": "espi",
