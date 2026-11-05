@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "7b9c3edd86ea",
+   "ticker": "VRT",
+   "time": "2026-11-05T19:55+01:00",
+   "title": "Texas Could Host 41% of New U.S. Data Center Capacity in 2028, and Its Next Governor Wants a Pause",
+   "url": "https://www.nasdaq.com/articles/texas-could-host-41-new-us-data-center-capacity-2028-and-its-next-governor-wants-pause",
+   "src": "nasdaq",
+   "summary": "Key PointsGovernor-elect Gina Hinojosa plans to extend the suspension on new data center approvals and freeze electricity rates."
+  },
+  {
    "id": "e7d8182fbbe8",
    "ticker": "NVDA",
    "time": "2026-11-05T19:33+01:00",
@@ -55,6 +64,15 @@
    "summary": "The Nasdaq Composite is down more than 4% on Thursday as we write this. Stocks tied to the artificial intelligence (AI) trade, especially chipmakers and data center names, are sliding for a second day, both here and in Asia."
   },
   {
+   "id": "2e6807b0c999",
+   "ticker": "AVGO",
+   "time": "2026-11-05T18:09+01:00",
+   "title": "Snowflake Soars 32% Year to Date: Buy, Sell, or Hold the Stock?",
+   "url": "https://www.nasdaq.com/articles/snowflake-soars-32-year-date-buy-sell-or-hold-stock",
+   "src": "nasdaq",
+   "summary": "SNOW stock rallies 32.5% year-to-date, driven by strong AI adoption, customer growth, and raised revenue guidance despite a premium valuation."
+  },
+  {
    "id": "0124bb319b70",
    "ticker": "AVGO",
    "time": "2026-11-05T17:52+01:00",
@@ -62,6 +80,15 @@
    "url": "https://www.nasdaq.com/articles/stock-indexes-pressured-chipmakers-and-ai-stocks-plunge",
    "src": "nasdaq",
    "summary": "The S&P 500 Index ($SPX ) (SPY ) is down -1.70% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.76%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -3.60%.  December E-mini S&P futures (ESZ26 ) are down -1.76%, and December E-mini Nasdaq futures..."
+  },
+  {
+   "id": "9d6781aaae6f",
+   "ticker": "MRVL",
+   "time": "2026-11-05T17:50+01:00",
+   "title": "Should You Buy, Sell or Hold AXTI Stock After Its Strong Q3 Results?",
+   "url": "https://www.nasdaq.com/articles/should-you-buy-sell-or-hold-axti-stock-after-its-strong-q3-results",
+   "src": "nasdaq",
+   "summary": "AXT's 162% Q3 revenue jump and $500 million-plus backlog point to booming InP demand. Yet its 191% rally and valuation premium raise the stakes for investors."
   },
   {
    "id": "d7cd39fbe2ef",
@@ -1567,5 +1594,5 @@
    "summary": "Key PointsASML is one of the most important companies in the global semiconductor ecosystem, but its stock price performance has left a lot to be desired over the past three years."
   }
  ],
- "updatedAt": "2026-11-05T20:17:49+01:00"
+ "updatedAt": "2026-11-05T20:29:41+01:00"
 }

@@ -5,7 +5,7 @@
   "wyniki": 33,
   "rekomendacje": 2,
   "korporacyjne": 56,
-  "makro_pl": 17,
+  "makro_pl": 18,
   "swiat_rynki": 16,
   "energetyka_surowce": 11,
   "nieruchomosci": 0,
@@ -15,7 +15,7 @@
   "pozostale": 51
  },
  "duplicatesRemoved": 162,
- "total": 383,
+ "total": 384,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1141,6 +1141,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "20:23",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ALIOR BANK S.A.: Zakończenie subskrypcji obligacji senioralnych (Senior Notes) o łącznej wartości nominalnej 500.000.000 EUR emitowanych w ramach Programu EMTN",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23513",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:13",
     "kind": "news",
