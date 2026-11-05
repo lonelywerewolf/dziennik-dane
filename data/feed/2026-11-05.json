@@ -1,7 +1,149 @@
 {
  "date": "2026-11-05",
- "count": 245,
+ "count": 258,
  "items": [
+  {
+   "id": "bossa-pap-439481",
+   "date": "2026-11-05",
+   "time": "15:53",
+   "ts": "2026-11-05T15:53:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Erste Bank Polska chce wyemitować obligacje typu \"senior preferred\" i obligacje Tier II",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439481"
+  },
+  {
+   "id": "bossa-pap-439480",
+   "date": "2026-11-05",
+   "time": "15:51",
+   "ts": "2026-11-05T15:51:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Prezesa NBP nie martwi ostatnie osłabienie złotego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439480"
+  },
+  {
+   "id": "bossa-espi-23487",
+   "date": "2026-11-05",
+   "time": "15:50",
+   "ts": "2026-11-05T15:50:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PEKAO BANK HIPOTECZNY",
+   "title": "Powiadomienie o transakcji na instrumentach finansowych Pekao Banku Hipotecznego S.A. dokonanych przez Bank Polska Kasa Opieki S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23487"
+  },
+  {
+   "id": "strefa-96de345682f7",
+   "date": "2026-11-05",
+   "time": "15:48",
+   "ts": "2026-11-05T15:48:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Prezesa NBP nie martwi ostatnie osłabienie złotego",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/prezesa-nbp-nie-martwi-ostatnie-oslabienie-zlotego"
+  },
+  {
+   "id": "strefa-6c450e6f3cee",
+   "date": "2026-11-05",
+   "time": "15:48",
+   "ts": "2026-11-05T15:48:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Jeśli ryzyka dla inflacji będą narastać, to RPP jest gotowa do działania, nie będzie zwlekać - prezes NBP",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/jesli-ryzyka-dla-inflacji-beda-narastac-rpp-jest-gotowa-do-dzialania-nie-bedzie"
+  },
+  {
+   "id": "bossa-pap-439478",
+   "date": "2026-11-05",
+   "time": "15:47",
+   "ts": "2026-11-05T15:47:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Nastawienie w RPP jest teraz jastrzębie, Rada boi się, że trzeba będzie podwyższać stopy - prezes NBP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439478"
+  },
+  {
+   "id": "bossa-espi-23486",
+   "date": "2026-11-05",
+   "time": "15:46",
+   "ts": "2026-11-05T15:46:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ROCKBRIDGE FIZ MULTI INWESTYCJA",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23486"
+  },
+  {
+   "id": "bossa-espi-23485",
+   "date": "2026-11-05",
+   "time": "15:45",
+   "ts": "2026-11-05T15:45:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ERSTE BANK POLSKA S.A.",
+   "title": "Emisja obligacji Tier II serii 2/2026.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23485"
+  },
+  {
+   "id": "bossa-espi-23484",
+   "date": "2026-11-05",
+   "time": "15:44",
+   "ts": "2026-11-05T15:44:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "IPOPEMA INFRASTRUKTURY CYFROWEJ I ENERGII FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23484"
+  },
+  {
+   "id": "bossa-espi-23483",
+   "date": "2026-11-05",
+   "time": "15:44",
+   "ts": "2026-11-05T15:44:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ERSTE BANK POLSKA S.A.",
+   "title": "Emisja obligacji Tier II serii 2/2026.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23483"
+  },
+  {
+   "id": "bossa-pap-439472",
+   "date": "2026-11-05",
+   "time": "15:43",
+   "ts": "2026-11-05T15:43:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "W RPP obecnie nie dominują ani jastrzębie, ani gołębie, nastawienie jest mieszane - prezes NBP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439472"
+  },
+  {
+   "id": "bossa-espi-23482",
+   "date": "2026-11-05",
+   "time": "15:43",
+   "ts": "2026-11-05T15:43:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ERSTE BANK POLSKA S.A.",
+   "title": "Emisja obligacji typu \"senior preferred\" serii 1/2026.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23482"
+  },
   {
    "id": "bossa-pap-439470",
    "date": "2026-11-05",
@@ -37,6 +179,17 @@
    "title": "Jeśli ryzyka dla inflacji będą narastać, to RPP jest gotowa do działania, nie będzie zwlekać - prezes NBP",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439469"
+  },
+  {
+   "id": "strefa-f2a4aec592cd",
+   "date": "2026-11-05",
+   "time": "15:36",
+   "ts": "2026-11-05T15:36:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Po otwarciu sesji DJI rośnie 0,15 proc., a S&P500 traci 0,9 proc.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/po-otwarciu-sesji-dji-rosnie-015-proc-sp500-traci-09-proc"
   },
   {
    "id": "strefa-09fea371bc18",
