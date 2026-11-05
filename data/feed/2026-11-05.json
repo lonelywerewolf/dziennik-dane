@@ -1,7 +1,42 @@
 {
  "date": "2026-11-05",
- "count": 16,
+ "count": 20,
  "items": [
+  {
+   "id": "bossa-pap-439311",
+   "date": "2026-11-05",
+   "time": "06:42",
+   "ts": "2026-11-05T06:42:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439311"
+  },
+  {
+   "id": "strefa-8aae40bdffce",
+   "date": "2026-11-05",
+   "time": "06:37",
+   "ts": "2026-11-05T06:37:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela"
+  },
+  {
+   "id": "bossa-pap-439310",
+   "date": "2026-11-05",
+   "time": "06:36",
+   "ts": "2026-11-05T06:36:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zysk netto Banku Handlowego w III kw. '26 wyniósł 288,3 mln zł; zgodny z oczekiwaniami",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439310"
+  },
   {
    "id": "bossa-pap-439309",
    "date": "2026-11-05",
@@ -13,6 +48,17 @@
    "title": "Przegląd prasy gospodarczej w czwartek, 5 listopada",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439309"
+  },
+  {
+   "id": "strefa-8951efed1b69",
+   "date": "2026-11-05",
+   "time": "06:13",
+   "ts": "2026-11-05T06:13:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Zysk netto Banku Handlowego w III kw. '26 wyniósł 288,3 mln zł; zgodny z oczekiwaniami",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/zysk-netto-banku-handlowego-w-iii-kw-26-wyniosl-2883-mln-zl-zgodny-z"
   },
   {
    "id": "bossa-pap-439308",
