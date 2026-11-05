@@ -2,7 +2,7 @@
  "date": "2026-11-05",
  "counts": {
   "podsumowania": 18,
-  "wyniki": 35,
+  "wyniki": 36,
   "rekomendacje": 2,
   "korporacyjne": 57,
   "makro_pl": 18,
@@ -15,7 +15,7 @@
   "pozostale": 51
  },
  "duplicatesRemoved": 164,
- "total": 389,
+ "total": 390,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -187,6 +187,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "22:05",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GRUPA AZOTY SA: Szacunkowe wybrane skonsolidowane wyniki finansowe Grupy Azoty za III kwartał 2026 roku oraz za 9 miesięcy 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23517",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "20:45",
     "kind": "espi",
