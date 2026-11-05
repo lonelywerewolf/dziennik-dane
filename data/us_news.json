@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "id": "aa7502bc9a4d",
+   "ticker": "NVDA",
+   "time": "2026-11-06T00:20+01:00",
+   "title": "Cathie Wood Just Sold AMD Stock and Bought This AI Chip Stock Instead",
+   "url": "https://www.nasdaq.com/articles/cathie-wood-just-sold-amd-stock-and-bought-ai-chip-stock-instead",
+   "src": "nasdaq",
+   "summary": "Key PointsCathie Wood's Ark Invest recently sold shares of AMD and purchased shares of Nvidia."
+  },
+  {
+   "id": "40d4126d8587",
+   "ticker": "AVGO",
+   "time": "2026-11-06T00:19+01:00",
+   "title": "Stock Indexes Routed on Capitulation out of Chipmakers and AI Stocks",
+   "url": "https://www.nasdaq.com/articles/stock-indexes-routed-capitulation-out-chipmakers-and-ai-stocks",
+   "src": "nasdaq",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -4.36% on Thursday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -3.44%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -6.36%.  December E-mini S&P futures (ESZ26 ) fell -4.46%, and December E-mini Nasdaq futures..."
+  },
+  {
    "id": "1183ae2b1f9f",
    "ticker": "NVDA",
    "time": "2026-11-05T23:09+01:00",
@@ -1693,5 +1711,5 @@
    "summary": "Key PointsASML is one of the most important companies in the global semiconductor ecosystem, but its stock price performance has left a lot to be desired over the past three years."
   }
  ],
- "updatedAt": "2026-11-05T23:58:21+01:00"
+ "updatedAt": "2026-11-06T00:50:19+01:00"
 }

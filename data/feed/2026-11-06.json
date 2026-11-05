@@ -1,0 +1,30 @@
+{
+ "date": "2026-11-06",
+ "count": 2,
+ "items": [
+  {
+   "id": "bossa-espi-23522",
+   "date": "2026-11-06",
+   "time": "00:10",
+   "ts": "2026-11-06T00:10:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "IFIRMA S.A.",
+   "title": "SA-Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23522"
+  },
+  {
+   "id": "bossa-espi-23521",
+   "date": "2026-11-06",
+   "time": "00:00",
+   "ts": "2026-11-06T00:00:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MOL",
+   "title": "Publication of MOL Group’s Q3 2026 results",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23521"
+  }
+ ]
+}
