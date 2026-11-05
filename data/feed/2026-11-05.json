@@ -1,7 +1,19 @@
 {
  "date": "2026-11-05",
- "count": 15,
+ "count": 16,
  "items": [
+  {
+   "id": "bossa-pap-439309",
+   "date": "2026-11-05",
+   "time": "06:30",
+   "ts": "2026-11-05T06:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Przegląd prasy gospodarczej w czwartek, 5 listopada",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439309"
+  },
   {
    "id": "bossa-pap-439308",
    "date": "2026-11-05",
