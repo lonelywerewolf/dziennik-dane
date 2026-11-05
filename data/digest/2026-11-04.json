@@ -4,13 +4,13 @@
   "podsumowania": 20,
   "wyniki": 7,
   "rekomendacje": 2,
-  "korporacyjne": 40,
+  "korporacyjne": 39,
   "makro_pl": 31,
   "swiat_rynki": 26,
   "energetyka_surowce": 8,
   "nieruchomosci": 1,
   "fundusze_drobne": 12,
-  "twoje_spolki": 3,
+  "twoje_spolki": 4,
   "obserwowane": 0,
   "pozostale": 47
  },
@@ -670,17 +670,6 @@
     "src": "bossa",
     "flags": [
      "zarząd"
-    ]
-   },
-   {
-    "time": "09:58",
-    "kind": "espi",
-    "ticker": null,
-    "title": "ASBISc: Decyzja Rady Dyrektorów o wypłacie zaliczki na poczet dywidendy za 2026 rok.",
-    "url": "https://bossa.pl/analizy/komunikaty#message-23326",
-    "src": "bossa",
-    "flags": [
-     "dywidenda"
     ]
    },
    {
@@ -1437,6 +1426,17 @@
     "title": "Asbis wypłaci zaliczkę na dywidendę w wysokości 0,35 USD na akcję",
     "url": "https://strefainwestorow.pl/wiadomosci/20261104/asbis-wyplaci-zaliczke-na-dywidende-w-wysokosci-035-usd-na-akcje",
     "src": "strefainwestorow",
+    "flags": [
+     "dywidenda"
+    ]
+   },
+   {
+    "time": "09:58",
+    "kind": "espi",
+    "ticker": "ASB",
+    "title": "ASBISc: Decyzja Rady Dyrektorów o wypłacie zaliczki na poczet dywidendy za 2026 rok.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23326",
+    "src": "bossa",
     "flags": [
      "dywidenda"
     ]

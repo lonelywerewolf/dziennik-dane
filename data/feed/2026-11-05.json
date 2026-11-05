@@ -1,7 +1,90 @@
 {
  "date": "2026-11-05",
- "count": 69,
+ "count": 76,
  "items": [
+  {
+   "id": "bossa-pap-439349",
+   "date": "2026-11-05",
+   "time": "08:56",
+   "ts": "2026-11-05T08:56:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "VENDA SE/Venda Spółka Europejska w restrukturyzacji (15/2026) Zmiana harmonogramu publikacji raportów okresowych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439349"
+  },
+  {
+   "id": "bossa-pap-439348",
+   "date": "2026-11-05",
+   "time": "08:55",
+   "ts": "2026-11-05T08:55:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Na rynkach ropy już prawie po spadkach (aktl.)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439348"
+  },
+  {
+   "id": "bossa-espi-23430",
+   "date": "2026-11-05",
+   "time": "08:53",
+   "ts": "2026-11-05T08:53:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "LPP",
+   "title": "Wybrane wstępne dane operacyjne za III kwartał oraz narastająco za 3 kwartały 2026 roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23430"
+  },
+  {
+   "id": "bossa-pap-439346",
+   "date": "2026-11-05",
+   "time": "08:52",
+   "ts": "2026-11-05T08:52:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "East Value Research obniżył wycenę Digital Network do 324 zł",
+   "ticker": "DIG",
+   "url": "https://bossa.pl/analizy/komunikaty#message-439346"
+  },
+  {
+   "id": "bossa-espi-23429",
+   "date": "2026-11-05",
+   "time": "08:50",
+   "ts": "2026-11-05T08:50:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "IDM SA",
+   "title": "Informacja o zdarzeniu mającym wpływ na sytuację finansową IDMSA. Odnotowanie braku płatności wynagrodzenia",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23429"
+  },
+  {
+   "id": "bossa-pap-439344",
+   "date": "2026-11-05",
+   "time": "08:48",
+   "ts": "2026-11-05T08:48:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Produkcja przemysłowa we Francji w IX: -0,5 proc. mdm. Konsensus: +0,3 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439344"
+  },
+  {
+   "id": "strefa-0a979ae0dac4",
+   "date": "2026-11-05",
+   "time": "08:41",
+   "ts": "2026-11-05T08:41:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Arctic Paper podsumowuje III kwartał 2026 r.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/arctic-paper-podsumowuje-iii-kwartal-2026-r"
+  },
   {
    "id": "bossa-pap-439343",
    "date": "2026-11-05",
@@ -511,7 +594,7 @@
    "src": "strefainwestorow",
    "kind": "news",
    "title": "Wyniki Asbisu w III kwartale 2026 roku vs. konsensus PAP (tabela)",
-   "ticker": null,
+   "ticker": "ASB",
    "url": "https://strefainwestorow.pl/wiadomosci/20261105/wyniki-asbisu-w-iii-kwartale-2026-roku-vs-konsensus-pap-tabela"
   },
   {
@@ -535,7 +618,7 @@
    "kind": "pap",
    "company": null,
    "title": "Wyniki Asbisu w III kwartale 2026 roku vs. konsensus PAP (tabela)",
-   "ticker": null,
+   "ticker": "ASB",
    "url": "https://bossa.pl/analizy/komunikaty#message-439314"
   },
   {
@@ -794,7 +877,7 @@
    "kind": "espi",
    "company": "ASBISc",
    "title": "QS",
-   "ticker": null,
+   "ticker": "ASB",
    "url": "https://bossa.pl/analizy/komunikaty#message-23416"
   },
   {

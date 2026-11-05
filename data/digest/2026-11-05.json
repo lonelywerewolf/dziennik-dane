@@ -2,20 +2,20 @@
  "date": "2026-11-05",
  "counts": {
   "podsumowania": 6,
-  "wyniki": 12,
+  "wyniki": 11,
   "rekomendacje": 2,
-  "korporacyjne": 7,
-  "makro_pl": 2,
+  "korporacyjne": 9,
+  "makro_pl": 4,
   "swiat_rynki": 2,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
-  "twoje_spolki": 0,
+  "twoje_spolki": 3,
   "obserwowane": 0,
-  "pozostale": 8
+  "pozostale": 9
  },
  "duplicatesRemoved": 27,
- "total": 69,
+ "total": 76,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -145,17 +145,6 @@
     "flags": []
    },
    {
-    "time": "06:47",
-    "kind": "news",
-    "ticker": null,
-    "title": "Wyniki Asbisu w III kwartale 2026 roku vs. konsensus PAP (tabela)",
-    "url": "https://strefainwestorow.pl/wiadomosci/20261105/wyniki-asbisu-w-iii-kwartale-2026-roku-vs-konsensus-pap-tabela",
-    "src": "strefainwestorow",
-    "flags": [
-     "wyniki"
-    ]
-   },
-   {
     "time": "06:13",
     "kind": "news",
     "ticker": null,
@@ -217,6 +206,26 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "08:56",
+    "kind": "pap",
+    "ticker": null,
+    "title": "VENDA SE/Venda Spółka Europejska w restrukturyzacji (15/2026) Zmiana harmonogramu publikacji raportów okresowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439349",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "08:41",
+    "kind": "news",
+    "ticker": null,
+    "title": "Arctic Paper podsumowuje III kwartał 2026 r.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/arctic-paper-podsumowuje-iii-kwartal-2026-r",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "08:36",
     "kind": "pap",
@@ -293,6 +302,24 @@
   ],
   "makro_pl": [
    {
+    "time": "08:50",
+    "kind": "espi",
+    "ticker": null,
+    "title": "IDM SA: Informacja o zdarzeniu mającym wpływ na sytuację finansową IDMSA. Odnotowanie braku płatności wynagrodzenia",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23429",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "08:48",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Produkcja przemysłowa we Francji w IX: -0,5 proc. mdm. Konsensus: +0,3 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439344",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "07:32",
     "kind": "pap",
     "ticker": null,
@@ -362,9 +389,57 @@
   ],
   "nieruchomosci": [],
   "fundusze_drobne": [],
-  "twoje_spolki": [],
+  "twoje_spolki": [
+   {
+    "time": "08:52",
+    "kind": "pap",
+    "ticker": "DIG",
+    "title": "East Value Research obniżył wycenę Digital Network do 324 zł",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439346",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "06:47",
+    "kind": "news",
+    "ticker": "ASB",
+    "title": "Wyniki Asbisu w III kwartale 2026 roku vs. konsensus PAP (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/wyniki-asbisu-w-iii-kwartale-2026-roku-vs-konsensus-pap-tabela",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "00:04",
+    "kind": "espi",
+    "ticker": "ASB",
+    "title": "ASBISc: QS",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23416",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "08:55",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Na rynkach ropy już prawie po spadkach (aktl.)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439348",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "08:53",
+    "kind": "espi",
+    "ticker": null,
+    "title": "LPP: Wybrane wstępne dane operacyjne za III kwartał oraz narastająco za 3 kwartały 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23430",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:32",
     "kind": "pap",
@@ -417,15 +492,6 @@
     "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
     "url": "https://strefainwestorow.pl/wiadomosci/20261105/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela",
     "src": "strefainwestorow",
-    "flags": []
-   },
-   {
-    "time": "00:04",
-    "kind": "espi",
-    "ticker": null,
-    "title": "ASBISc: QS",
-    "url": "https://bossa.pl/analizy/komunikaty#message-23416",
-    "src": "bossa",
     "flags": []
    },
    {
