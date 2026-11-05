@@ -1,7 +1,31 @@
 {
  "date": "2026-11-05",
- "count": 369,
+ "count": 372,
  "items": [
+  {
+   "id": "bossa-espi-23508",
+   "date": "2026-11-05",
+   "time": "19:03",
+   "ts": "2026-11-05T19:03:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "READ-GENE S.A.",
+   "title": "Decyzja o ochronie patentowej na wynalazek",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23508"
+  },
+  {
+   "id": "bossa-pap-439553",
+   "date": "2026-11-05",
+   "time": "18:55",
+   "ts": "2026-11-05T18:55:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Aktualne wskaźniki giełdowe",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439553"
+  },
   {
    "id": "bossa-pap-439552",
    "date": "2026-11-05",
@@ -49,6 +73,17 @@
    "title": "Zawarcie umowy na dostawę urządzeń do kompensacji mocy biernej dla sektora publicznego",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23506"
+  },
+  {
+   "id": "strefa-8c0dd3642ae5",
+   "date": "2026-11-05",
+   "time": "18:44",
+   "ts": "2026-11-05T18:44:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wyniki Toya w III kw. 2026 r. vs konsensus PAP Biznes (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/wyniki-toya-w-iii-kw-2026-r-vs-konsensus-pap-biznes-tabela"
   },
   {
    "id": "bossa-pap-439548",

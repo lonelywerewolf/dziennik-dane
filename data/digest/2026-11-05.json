@@ -6,16 +6,16 @@
   "rekomendacje": 2,
   "korporacyjne": 55,
   "makro_pl": 17,
-  "swiat_rynki": 15,
+  "swiat_rynki": 16,
   "energetyka_surowce": 11,
   "nieruchomosci": 0,
   "fundusze_drobne": 11,
   "twoje_spolki": 6,
   "obserwowane": 0,
-  "pozostale": 49
+  "pozostale": 50
  },
- "duplicatesRemoved": 157,
- "total": 369,
+ "duplicatesRemoved": 158,
+ "total": 372,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -188,12 +188,12 @@
   ],
   "wyniki": [
    {
-    "time": "18:53",
-    "kind": "pap",
+    "time": "18:44",
+    "kind": "news",
     "ticker": null,
     "title": "Wyniki Toya w III kw. 2026 r. vs konsensus PAP Biznes (tabela)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439552",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/wyniki-toya-w-iii-kw-2026-r-vs-konsensus-pap-biznes-tabela",
+    "src": "strefainwestorow",
     "flags": [
      "wyniki"
     ]
@@ -1239,6 +1239,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "18:55",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Aktualne wskaźniki giełdowe",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439553",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "18:29",
     "kind": "news",
     "ticker": null,
@@ -1641,6 +1650,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "19:03",
+    "kind": "espi",
+    "ticker": null,
+    "title": "READ-GENE S.A.: Decyzja o ochronie patentowej na wynalazek",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23508",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:13",
     "kind": "news",
