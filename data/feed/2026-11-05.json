@@ -1,7 +1,43 @@
 {
  "date": "2026-11-05",
- "count": 34,
+ "count": 37,
  "items": [
+  {
+   "id": "bossa-espi-23421",
+   "date": "2026-11-05",
+   "time": "07:40",
+   "ts": "2026-11-05T07:40:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BNP PARIBAS BANK POLSKA SA",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23421"
+  },
+  {
+   "id": "bossa-pap-439320",
+   "date": "2026-11-05",
+   "time": "07:38",
+   "ts": "2026-11-05T07:38:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "‘26 rokiem prototypów dla Zremb-Chojnice, w ‘27 spółka liczy na znaczący wzrost przychodów (wywiad)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439320"
+  },
+  {
+   "id": "bossa-pap-439319",
+   "date": "2026-11-05",
+   "time": "07:32",
+   "ts": "2026-11-05T07:32:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Złotowe depozyty międzybankowe - WIBID, WIBOR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439319"
+  },
   {
    "id": "bossa-espi-23420",
    "date": "2026-11-05",

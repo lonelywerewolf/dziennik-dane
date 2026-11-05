@@ -2,10 +2,10 @@
  "date": "2026-11-05",
  "counts": {
   "podsumowania": 4,
-  "wyniki": 6,
+  "wyniki": 7,
   "rekomendacje": 0,
   "korporacyjne": 1,
-  "makro_pl": 1,
+  "makro_pl": 2,
   "swiat_rynki": 0,
   "energetyka_surowce": 2,
   "nieruchomosci": 0,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 5
  },
- "duplicatesRemoved": 15,
- "total": 34,
+ "duplicatesRemoved": 16,
+ "total": 37,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -57,6 +57,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "07:38",
+    "kind": "pap",
+    "ticker": null,
+    "title": "‘26 rokiem prototypów dla Zremb-Chojnice, w ‘27 spółka liczy na znaczący wzrost przychodów (wywiad)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439320",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "07:01",
     "kind": "news",
@@ -131,6 +140,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "07:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Złotowe depozyty międzybankowe - WIBID, WIBOR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439319",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "06:43",
     "kind": "news",
