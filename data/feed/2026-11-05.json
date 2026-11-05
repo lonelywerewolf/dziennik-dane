@@ -1,7 +1,136 @@
 {
  "date": "2026-11-05",
- "count": 233,
+ "count": 245,
  "items": [
+  {
+   "id": "bossa-pap-439470",
+   "date": "2026-11-05",
+   "time": "15:42",
+   "ts": "2026-11-05T15:42:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Po otwarciu sesji DJI rośnie 0,15 proc., a S&P500 traci 0,9 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439470"
+  },
+  {
+   "id": "bossa-espi-23481",
+   "date": "2026-11-05",
+   "time": "15:42",
+   "ts": "2026-11-05T15:42:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ERSTE BANK POLSKA S.A.",
+   "title": "Emisja obligacji typu \"senior preferred\" serii 1/2026.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23481"
+  },
+  {
+   "id": "bossa-pap-439469",
+   "date": "2026-11-05",
+   "time": "15:41",
+   "ts": "2026-11-05T15:41:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Jeśli ryzyka dla inflacji będą narastać, to RPP jest gotowa do działania, nie będzie zwlekać - prezes NBP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439469"
+  },
+  {
+   "id": "strefa-09fea371bc18",
+   "date": "2026-11-05",
+   "time": "15:35",
+   "ts": "2026-11-05T15:35:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "RPP dostrzega ryzyko, że w kolejnych miesiącach inflacja może ponownie wzrosnąć na skutek m.in. cen surowców - prezes NBP",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/rpp-dostrzega-ryzyko-ze-w-kolejnych-miesiacach-inflacja-moze-ponownie-wzrosnac"
+  },
+  {
+   "id": "strefa-ff0433ca2b22",
+   "date": "2026-11-05",
+   "time": "15:34",
+   "ts": "2026-11-05T15:34:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Projekcja NBP zakłada wygaśnięcie programu \"CPN\" od nowego roku - prezes NBP",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/projekcja-nbp-zaklada-wygasniecie-programu-cpn-od-nowego-roku-prezes-nbp"
+  },
+  {
+   "id": "strefa-1aa6b8de0646",
+   "date": "2026-11-05",
+   "time": "15:34",
+   "ts": "2026-11-05T15:34:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wzrost PPI w ostatnich miesiącach niepokoi; dodatkowym czynnikiem ryzyka dla inflacji ceny żywności - prezes NBP",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/wzrost-ppi-w-ostatnich-miesiacach-niepokoi-dodatkowym-czynnikiem-ryzyka-dla"
+  },
+  {
+   "id": "bossa-pap-439468",
+   "date": "2026-11-05",
+   "time": "15:34",
+   "ts": "2026-11-05T15:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "RPP dostrzega ryzyko, że w kolejnych miesiącach inflacja może ponownie wzrosnąć na skutek m.in. cen surowców - prezes NBP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439468"
+  },
+  {
+   "id": "bossa-pap-439467",
+   "date": "2026-11-05",
+   "time": "15:34",
+   "ts": "2026-11-05T15:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Projekcja NBP zakłada wygaśnięcie programu \"CPN\" od nowego roku - prezes NBP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439467"
+  },
+  {
+   "id": "bossa-pap-439466",
+   "date": "2026-11-05",
+   "time": "15:32",
+   "ts": "2026-11-05T15:32:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wzrost PPI w ostatnich miesiącach niepokoi; dodatkowym czynnikiem ryzyka dla inflacji ceny żywności - prezes NBP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439466"
+  },
+  {
+   "id": "bossa-espi-23480",
+   "date": "2026-11-05",
+   "time": "15:32",
+   "ts": "2026-11-05T15:32:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF sWIG80TR PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 223 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23480"
+  },
+  {
+   "id": "bossa-pap-439464",
+   "date": "2026-11-05",
+   "time": "15:30",
+   "ts": "2026-11-05T15:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MC: Polska i Korea Południowa łączą siły w obszarze AI (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439464"
+  },
   {
    "id": "bossa-pap-439463",
    "date": "2026-11-05",
@@ -37,6 +166,17 @@
    "title": "WANCI-E_30.04.18",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23478"
+  },
+  {
+   "id": "strefa-271031e46567",
+   "date": "2026-11-05",
+   "time": "15:22",
+   "ts": "2026-11-05T15:22:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "OKI pomogą przesuwać oszczędności z depozytów na rynek kapitałowy - PKO BP (opinia)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/oki-pomoga-przesuwac-oszczednosci-z-depozytow-na-rynek-kapitalowy-pko-bp-opinia"
   },
   {
    "id": "strefa-9590776704a9",
