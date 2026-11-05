@@ -4,8 +4,8 @@
   "podsumowania": 11,
   "wyniki": 17,
   "rekomendacje": 2,
-  "korporacyjne": 30,
-  "makro_pl": 12,
+  "korporacyjne": 33,
+  "makro_pl": 13,
   "swiat_rynki": 11,
   "energetyka_surowce": 8,
   "nieruchomosci": 0,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 37
  },
- "duplicatesRemoved": 76,
- "total": 215,
+ "duplicatesRemoved": 81,
+ "total": 224,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -314,6 +314,39 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "15:15",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Na razie nie widać wyraźnego rozlewania się cen paliw na pozostałe ceny - prezes NBP",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439457",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "15:14",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Dynamika płac pozostaje umiarkowana - prezes NBP",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439456",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "15:14",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Inflacja bazowa w X spadła, ale nie oznacza to, że okres podwyższonej inflacji minął - prezes NBP",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439455",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "14:47",
     "kind": "espi",
@@ -632,6 +665,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "14:49",
+    "kind": "news",
+    "ticker": null,
+    "title": "NBP zwiększył zasób złota do 700 ton - NBP",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/nbp-zwiekszyl-zasob-zlota-do-700-ton-nbp",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "14:41",
     "kind": "pap",

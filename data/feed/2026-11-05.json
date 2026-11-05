@@ -1,7 +1,102 @@
 {
  "date": "2026-11-05",
- "count": 215,
+ "count": 224,
  "items": [
+  {
+   "id": "bossa-pap-439457",
+   "date": "2026-11-05",
+   "time": "15:15",
+   "ts": "2026-11-05T15:15:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Na razie nie widać wyraźnego rozlewania się cen paliw na pozostałe ceny - prezes NBP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439457"
+  },
+  {
+   "id": "bossa-pap-439456",
+   "date": "2026-11-05",
+   "time": "15:14",
+   "ts": "2026-11-05T15:14:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Dynamika płac pozostaje umiarkowana - prezes NBP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439456"
+  },
+  {
+   "id": "bossa-pap-439455",
+   "date": "2026-11-05",
+   "time": "15:14",
+   "ts": "2026-11-05T15:14:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Inflacja bazowa w X spadła, ale nie oznacza to, że okres podwyższonej inflacji minął - prezes NBP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439455"
+  },
+  {
+   "id": "bossa-espi-23476",
+   "date": "2026-11-05",
+   "time": "15:09",
+   "ts": "2026-11-05T15:09:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF OBLIGACJI 6M PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 232 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23476"
+  },
+  {
+   "id": "strefa-ce6559a39603",
+   "date": "2026-11-05",
+   "time": "15:06",
+   "ts": "2026-11-05T15:06:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "NBP zwiększył zasób złota do 700 ton - NBP (aklt).",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/nbp-zwiekszyl-zasob-zlota-do-700-ton-nbp-aklt"
+  },
+  {
+   "id": "bossa-pap-439453",
+   "date": "2026-11-05",
+   "time": "15:06",
+   "ts": "2026-11-05T15:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "NBP zwiększył zasób złota do 700 ton - NBP (aklt).",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439453"
+  },
+  {
+   "id": "bossa-pap-439452",
+   "date": "2026-11-05",
+   "time": "15:06",
+   "ts": "2026-11-05T15:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "VIENNA OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439452"
+  },
+  {
+   "id": "bossa-pap-439451",
+   "date": "2026-11-05",
+   "time": "15:04",
+   "ts": "2026-11-05T15:04:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "NBP zwiększył zasób złota do 700 ton - NBP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439451"
+  },
   {
    "id": "bossa-espi-23475",
    "date": "2026-11-05",
@@ -25,6 +120,17 @@
    "title": "Nationale-Nederlanden OFE wartość jednostki rozrachunkowej",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439449"
+  },
+  {
+   "id": "strefa-d830ab99f705",
+   "date": "2026-11-05",
+   "time": "14:49",
+   "ts": "2026-11-05T14:49:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "NBP zwiększył zasób złota do 700 ton - NBP",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/nbp-zwiekszyl-zasob-zlota-do-700-ton-nbp"
   },
   {
    "id": "bossa-pap-439448",
