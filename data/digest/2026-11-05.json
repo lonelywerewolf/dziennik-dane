@@ -2,7 +2,7 @@
  "date": "2026-11-05",
  "counts": {
   "podsumowania": 4,
-  "wyniki": 5,
+  "wyniki": 6,
   "rekomendacje": 0,
   "korporacyjne": 1,
   "makro_pl": 1,
@@ -14,35 +14,35 @@
   "obserwowane": 0,
   "pozostale": 5
  },
- "duplicatesRemoved": 8,
- "total": 26,
+ "duplicatesRemoved": 12,
+ "total": 31,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kalendarium rynku kapitałowego GPW 2026-11-05",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/kalendarium-rynku-kapitalowego-gpw-2026-11-05",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kalendarium rynku NewConnect 2026-11-05",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/kalendarium-rynku-newconnect-2026-11-05",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "06:30",
     "kind": "pap",
     "ticker": null,
     "title": "Przegląd prasy gospodarczej w czwartek, 5 listopada",
     "url": "https://bossa.pl/analizy/komunikaty#message-439309",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "06:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Kalendarium rynku kapitałowego GPW 2026-11-05",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439306",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "06:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Kalendarium rynku NewConnect 2026-11-05",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439305",
     "src": "bossa",
     "flags": []
    },
@@ -57,6 +57,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "W I kw. 2026/2027 Ambra miała 186,4 mln zł przychodów, 4,3 proc. mniej rdr",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/w-i-kw-20262027-ambra-miala-1864-mln-zl-przychodow-43-proc-mniej-rdr",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "06:47",
     "kind": "news",
@@ -159,6 +168,15 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "06:48",
+    "kind": "news",
+    "ticker": null,
+    "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-05",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-05",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "06:47",
     "kind": "pap",
     "ticker": null,
@@ -174,15 +192,6 @@
     "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
     "url": "https://strefainwestorow.pl/wiadomosci/20261105/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela",
     "src": "strefainwestorow",
-    "flags": []
-   },
-   {
-    "time": "06:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-05",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439303",
-    "src": "bossa",
     "flags": []
    },
    {
