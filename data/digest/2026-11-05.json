@@ -2,9 +2,9 @@
  "date": "2026-11-05",
  "counts": {
   "podsumowania": 4,
-  "wyniki": 7,
+  "wyniki": 9,
   "rekomendacje": 0,
-  "korporacyjne": 1,
+  "korporacyjne": 2,
   "makro_pl": 2,
   "swiat_rynki": 0,
   "energetyka_surowce": 2,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 5
  },
- "duplicatesRemoved": 16,
- "total": 37,
+ "duplicatesRemoved": 19,
+ "total": 43,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -58,6 +58,17 @@
   ],
   "wyniki": [
    {
+    "time": "07:54",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wyniki BNP Paribas BP w III kw. 2026 roku vs. konsensus PAP (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/wyniki-bnp-paribas-bp-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
     "time": "07:38",
     "kind": "pap",
     "ticker": null,
@@ -65,6 +76,17 @@
     "url": "https://bossa.pl/analizy/komunikaty#message-439320",
     "src": "bossa",
     "flags": []
+   },
+   {
+    "time": "07:21",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wyniki Arctic Paper w III kw. 2026 roku vs. konsensus PAP (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/wyniki-arctic-paper-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
    },
    {
     "time": "07:01",
@@ -129,6 +151,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "07:54",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PKO BP chce utrzymać dwucyfrowy wzrost kredytów; wdroży modelową umowę kredytu hipotecznego (wywiad)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439324",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "00:04",
     "kind": "espi",

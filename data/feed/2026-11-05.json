@@ -1,7 +1,66 @@
 {
  "date": "2026-11-05",
- "count": 37,
+ "count": 43,
  "items": [
+  {
+   "id": "strefa-9445c06166b4",
+   "date": "2026-11-05",
+   "time": "07:54",
+   "ts": "2026-11-05T07:54:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wyniki BNP Paribas BP w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/wyniki-bnp-paribas-bp-w-iii-kw-2026-roku-vs-konsensus-pap-tabela"
+  },
+  {
+   "id": "bossa-pap-439325",
+   "date": "2026-11-05",
+   "time": "07:54",
+   "ts": "2026-11-05T07:54:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wyniki BNP Paribas BP w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439325"
+  },
+  {
+   "id": "bossa-pap-439324",
+   "date": "2026-11-05",
+   "time": "07:54",
+   "ts": "2026-11-05T07:54:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PKO BP chce utrzymać dwucyfrowy wzrost kredytów; wdroży modelową umowę kredytu hipotecznego (wywiad)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439324"
+  },
+  {
+   "id": "bossa-pap-439323",
+   "date": "2026-11-05",
+   "time": "07:53",
+   "ts": "2026-11-05T07:53:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wyniki Arctic Paper w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439323"
+  },
+  {
+   "id": "bossa-espi-23422",
+   "date": "2026-11-05",
+   "time": "07:46",
+   "ts": "2026-11-05T07:46:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "NOVITA",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23422"
+  },
   {
    "id": "bossa-espi-23421",
    "date": "2026-11-05",
@@ -49,6 +108,17 @@
    "title": "QSr",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23420"
+  },
+  {
+   "id": "strefa-83c734b5e8c8",
+   "date": "2026-11-05",
+   "time": "07:21",
+   "ts": "2026-11-05T07:21:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wyniki Arctic Paper w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/wyniki-arctic-paper-w-iii-kw-2026-roku-vs-konsensus-pap-tabela"
   },
   {
    "id": "bossa-pap-439317",
