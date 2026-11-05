@@ -1,7 +1,31 @@
 {
  "date": "2026-11-05",
- "count": 384,
+ "count": 386,
  "items": [
+  {
+   "id": "bossa-espi-23515",
+   "date": "2026-11-05",
+   "time": "20:45",
+   "ts": "2026-11-05T20:45:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "UNIBEP S.A.",
+   "title": "Informacja w sprawie wstępnych szacunkowych skonsolidowanych wyników finansowych Grupy Kapitałowej UNIBEP za III kwartał 2026 roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23515"
+  },
+  {
+   "id": "bossa-pap-439563",
+   "date": "2026-11-05",
+   "time": "20:42",
+   "ts": "2026-11-05T20:42:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "LETUS CAPITAL SA (11/2026) Skonsolidowany raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439563"
+  },
   {
    "id": "bossa-espi-23513",
    "date": "2026-11-05",

@@ -2,7 +2,7 @@
  "date": "2026-11-05",
  "counts": {
   "podsumowania": 18,
-  "wyniki": 33,
+  "wyniki": 35,
   "rekomendacje": 2,
   "korporacyjne": 56,
   "makro_pl": 18,
@@ -15,7 +15,7 @@
   "pozostale": 51
  },
  "duplicatesRemoved": 162,
- "total": 384,
+ "total": 386,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -187,6 +187,26 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "20:45",
+    "kind": "espi",
+    "ticker": null,
+    "title": "UNIBEP S.A.: Informacja w sprawie wstępnych szacunkowych skonsolidowanych wyników finansowych Grupy Kapitałowej UNIBEP za III kwartał 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23515",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "20:42",
+    "kind": "pap",
+    "ticker": null,
+    "title": "LETUS CAPITAL SA (11/2026) Skonsolidowany raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439563",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "19:52",
     "kind": "news",
