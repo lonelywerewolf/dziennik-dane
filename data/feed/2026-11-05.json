@@ -1,7 +1,19 @@
 {
  "date": "2026-11-05",
- "count": 381,
+ "count": 383,
  "items": [
+  {
+   "id": "bossa-pap-439561",
+   "date": "2026-11-05",
+   "time": "20:07",
+   "ts": "2026-11-05T20:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Skorygowana EBITDA Unimotu w III kw. wyniosła 133 mln zł wobec 108,8 mln zł konsensusu (opis)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439561"
+  },
   {
    "id": "bossa-espi-23512",
    "date": "2026-11-05",
@@ -13,6 +25,17 @@
    "title": "Złożenie przez Emitenta oferty w przetargu",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23512"
+  },
+  {
+   "id": "strefa-993deead334e",
+   "date": "2026-11-05",
+   "time": "20:02",
+   "ts": "2026-11-05T20:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Skorygowana EBITDA Unimotu w III kw. wyniosła 133 mln zł wobec 108,8 mln zł konsensusu (opis)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/skorygowana-ebitda-unimotu-w-iii-kw-wyniosla-133-mln-zl-wobec-1088-mln-zl-0"
   },
   {
    "id": "bossa-pap-439559",
