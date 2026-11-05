@@ -1,7 +1,90 @@
 {
  "date": "2026-11-05",
- "count": 361,
+ "count": 369,
  "items": [
+  {
+   "id": "bossa-pap-439552",
+   "date": "2026-11-05",
+   "time": "18:53",
+   "ts": "2026-11-05T18:53:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wyniki Toya w III kw. 2026 r. vs konsensus PAP Biznes (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439552"
+  },
+  {
+   "id": "bossa-espi-23507",
+   "date": "2026-11-05",
+   "time": "18:52",
+   "ts": "2026-11-05T18:52:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "POLSKA GRUPA FOTOWOLTAICZNA SA",
+   "title": "Podpisanie z firmą audytorską umów na badanie sprawozdań finansowych Spółki za lata 2026-2027.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23507"
+  },
+  {
+   "id": "bossa-pap-439550",
+   "date": "2026-11-05",
+   "time": "18:49",
+   "ts": "2026-11-05T18:49:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne - SARON",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439550"
+  },
+  {
+   "id": "bossa-espi-23506",
+   "date": "2026-11-05",
+   "time": "18:45",
+   "ts": "2026-11-05T18:45:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ENERGY S.A.",
+   "title": "Zawarcie umowy na dostawę urządzeń do kompensacji mocy biernej dla sektora publicznego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23506"
+  },
+  {
+   "id": "bossa-pap-439548",
+   "date": "2026-11-05",
+   "time": "18:43",
+   "ts": "2026-11-05T18:43:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie wprowadzenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów strukturyzowanych emitowanych przez ING BANK N.V.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439548"
+  },
+  {
+   "id": "strefa-3b157a68b8bf",
+   "date": "2026-11-05",
+   "time": "18:42",
+   "ts": "2026-11-05T18:42:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie wprowadzenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów strukturyzowanych emitowanych przez ING BANK N.V.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/gpw-w-sprawie-wprowadzenia-do-obrotu-gieldowego-na-glownym-rynku-gpw"
+  },
+  {
+   "id": "bossa-pap-439547",
+   "date": "2026-11-05",
+   "time": "18:41",
+   "ts": "2026-11-05T18:41:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie dopuszczenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów strukturyzowanych emitowanych przez ING BANK N.V.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439547"
+  },
   {
    "id": "bossa-pap-439546",
    "date": "2026-11-05",
@@ -13,6 +96,17 @@
    "title": "Transakcje pakietowe",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439546"
+  },
+  {
+   "id": "strefa-427b68ca0f32",
+   "date": "2026-11-05",
+   "time": "18:29",
+   "ts": "2026-11-05T18:29:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie dopuszczenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów strukturyzowanych emitowanych przez ING BANK N.V.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/gpw-w-sprawie-dopuszczenia-do-obrotu-gieldowego-na-glownym-rynku-gpw"
   },
   {
    "id": "strefa-eacd44b83271",

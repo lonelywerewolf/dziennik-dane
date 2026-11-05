@@ -2,20 +2,20 @@
  "date": "2026-11-05",
  "counts": {
   "podsumowania": 18,
-  "wyniki": 27,
+  "wyniki": 28,
   "rekomendacje": 2,
-  "korporacyjne": 54,
+  "korporacyjne": 55,
   "makro_pl": 17,
   "swiat_rynki": 15,
-  "energetyka_surowce": 10,
+  "energetyka_surowce": 11,
   "nieruchomosci": 0,
   "fundusze_drobne": 11,
   "twoje_spolki": 6,
   "obserwowane": 0,
   "pozostale": 49
  },
- "duplicatesRemoved": 152,
- "total": 361,
+ "duplicatesRemoved": 157,
+ "total": 369,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -187,6 +187,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "18:53",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wyniki Toya w III kw. 2026 r. vs konsensus PAP Biznes (tabela)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439552",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "18:02",
     "kind": "news",
@@ -483,6 +494,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "18:45",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ENERGY S.A.: Zawarcie umowy na dostawę urządzeń do kompensacji mocy biernej dla sektora publicznego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23506",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "18:31",
     "kind": "pap",
@@ -1217,6 +1239,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "18:29",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: w sprawie dopuszczenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów strukturyzowanych emitowanych przez ING BANK N.V.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/gpw-w-sprawie-dopuszczenia-do-obrotu-gieldowego-na-glownym-rynku-gpw",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "17:41",
     "kind": "pap",
     "ticker": null,
@@ -1267,15 +1298,6 @@
     "ticker": null,
     "title": "Narodowy Bank Czeski podniósł główną stopę proc. o 25 pb. do 4 proc.",
     "url": "https://bossa.pl/analizy/komunikaty#message-439442",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "14:14",
-    "kind": "pap",
-    "ticker": null,
-    "title": "GPW: w sprawie wprowadzenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów strukturyzowanych emitowanych przez ING BANK N.V.",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439432",
     "src": "bossa",
     "flags": []
    },
@@ -1357,6 +1379,15 @@
    }
   ],
   "energetyka_surowce": [
+   {
+    "time": "18:52",
+    "kind": "espi",
+    "ticker": null,
+    "title": "POLSKA GRUPA FOTOWOLTAICZNA SA: Podpisanie z firmą audytorską umów na badanie sprawozdań finansowych Spółki za lata 2026-2027.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23507",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:27",
     "kind": "news",
