@@ -5,17 +5,17 @@
   "wyniki": 39,
   "rekomendacje": 2,
   "korporacyjne": 57,
-  "makro_pl": 19,
+  "makro_pl": 20,
   "swiat_rynki": 17,
   "energetyka_surowce": 11,
   "nieruchomosci": 0,
   "fundusze_drobne": 11,
   "twoje_spolki": 6,
   "obserwowane": 0,
-  "pozostale": 52
+  "pozostale": 53
  },
  "duplicatesRemoved": 168,
- "total": 401,
+ "total": 403,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1226,6 +1226,15 @@
   ],
   "makro_pl": [
    {
+    "time": "23:14",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Sejmowa komisja rozpatrzy poprawkę do projektu odraczającego kary za błędy w KSeF",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439576",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "22:44",
     "kind": "news",
     "ticker": null,
@@ -1821,6 +1830,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "23:11",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Unidevelopment z grupy Unibep w III kwartale sprzedał 116 lokali",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439575",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "22:55",
     "kind": "news",

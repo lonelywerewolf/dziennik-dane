@@ -1,7 +1,31 @@
 {
  "date": "2026-11-05",
- "count": 401,
+ "count": 403,
  "items": [
+  {
+   "id": "bossa-pap-439576",
+   "date": "2026-11-05",
+   "time": "23:14",
+   "ts": "2026-11-05T23:14:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Sejmowa komisja rozpatrzy poprawkę do projektu odraczającego kary za błędy w KSeF",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439576"
+  },
+  {
+   "id": "bossa-pap-439575",
+   "date": "2026-11-05",
+   "time": "23:11",
+   "ts": "2026-11-05T23:11:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Unidevelopment z grupy Unibep w III kwartale sprzedał 116 lokali",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439575"
+  },
   {
    "id": "bossa-pap-439574",
    "date": "2026-11-05",
