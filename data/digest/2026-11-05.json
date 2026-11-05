@@ -2,7 +2,7 @@
  "date": "2026-11-05",
  "counts": {
   "podsumowania": 9,
-  "wyniki": 14,
+  "wyniki": 15,
   "rekomendacje": 2,
   "korporacyjne": 10,
   "makro_pl": 7,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 4,
   "obserwowane": 0,
-  "pozostale": 13
+  "pozostale": 14
  },
- "duplicatesRemoved": 39,
- "total": 106,
+ "duplicatesRemoved": 40,
+ "total": 109,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -104,6 +104,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "10:00",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wyniki Arctic Paper lekko negatywne; perspektywy rynkowe dla spółki pozostają niepewne - BM PKO BP",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/wyniki-arctic-paper-lekko-negatywne-perspektywy-rynkowe-dla-spolki-pozostaja",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "09:34",
     "kind": "pap",
@@ -557,6 +568,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "10:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźniki referencyjne - SONIA",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439369",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:07",
     "kind": "pap",
