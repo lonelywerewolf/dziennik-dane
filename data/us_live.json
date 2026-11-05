@@ -1,39 +1,39 @@
 {
  "q": {
   "ASML": {
-   "price": 1469.07,
-   "chgPct": -1.82,
-   "at": "Nov 5, 2026 7:00 AM ET",
+   "price": 1470.51,
+   "chgPct": -1.72,
+   "at": "Nov 5, 2026 7:12 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/asml"
   },
   "AVGO": {
-   "price": 319.5634,
-   "chgPct": -1.82,
-   "at": "Nov 5, 2026 7:00 AM ET",
+   "price": 319.9355,
+   "chgPct": -1.7,
+   "at": "Nov 5, 2026 7:12 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/avgo"
   },
   "MPWR": {
-   "price": 1239.0,
-   "chgPct": -1.75,
-   "at": "Nov 5, 2026 7:00 AM ET",
+   "price": 1261.08,
+   "chgPct": null,
+   "at": "Nov 5, 2026 7:12 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/mpwr"
   },
   "NVDA": {
-   "price": 198.2144,
-   "chgPct": -0.96,
-   "at": "Nov 5, 2026 7:01 AM ET",
+   "price": 198.35,
+   "chgPct": -0.89,
+   "at": "Nov 5, 2026 7:13 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/nvda"
   },
   "TSM": {
-   "price": 388.3,
-   "chgPct": -1.88,
-   "at": "Nov 5, 2026 7:01 AM ET",
+   "price": 387.24,
+   "chgPct": -2.15,
+   "at": "Nov 5, 2026 7:13 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/tsm"
   },
   "VRT": {
-   "price": 199.21,
-   "chgPct": -3.08,
-   "at": "Nov 5, 2026 7:01 AM ET",
+   "price": 198.83,
+   "chgPct": -3.27,
+   "at": "Nov 5, 2026 7:13 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/vrt"
   },
   "^NDQ": {
@@ -49,17 +49,17 @@
    "src": "https://www.nasdaq.com/market-activity/index/sox"
   },
   "^SPX": {
-   "price": 768.0553,
-   "chgPct": 0.16,
-   "at": "Nov 5, 2026 7:00 AM ET",
+   "price": 768.48,
+   "chgPct": 0.22,
+   "at": "Nov 5, 2026 7:12 AM ET",
    "src": "https://www.nasdaq.com/market-activity/index/spy"
   },
   "MRVL": {
-   "price": 153.9,
-   "chgPct": -3.69,
-   "at": "Nov 5, 2026 7:01 AM ET",
+   "price": 153.7,
+   "chgPct": -3.82,
+   "at": "Nov 5, 2026 7:13 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/mrvl"
   }
  },
- "updatedAt": "2026-11-05T13:00:11+01:00"
+ "updatedAt": "2026-11-05T13:12:24+01:00"
 }

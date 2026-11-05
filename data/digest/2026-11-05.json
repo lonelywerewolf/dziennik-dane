@@ -4,7 +4,7 @@
   "podsumowania": 10,
   "wyniki": 15,
   "rekomendacje": 2,
-  "korporacyjne": 17,
+  "korporacyjne": 19,
   "makro_pl": 9,
   "swiat_rynki": 7,
   "energetyka_surowce": 7,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 3,
   "twoje_spolki": 6,
   "obserwowane": 0,
-  "pozostale": 25
+  "pozostale": 30
  },
- "duplicatesRemoved": 61,
- "total": 162,
+ "duplicatesRemoved": 62,
+ "total": 170,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -283,6 +283,28 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "13:11",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PGE POLSKA GRUPA ENERGETYCZNA S.A.: Informacja o transakcji w trybie art. 19 Rozporządzenia MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23453",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
+    "time": "13:02",
+    "kind": "espi",
+    "ticker": null,
+    "title": "DELKO S.A.: Zwołanie Zwyczajnego Walnego Zgromadzenia Akcjonariuszy Delko S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23452",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "12:33",
     "kind": "pap",
@@ -769,12 +791,57 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "13:12",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ADATEX S.A.: Informacja o powołaniu spółek zależnych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23454",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:08",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Bank Anglii podniósł główną stopę proc. o 25 pb. do poziomu 4 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439412",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:03",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeksy transakcyjne - POLSTR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439411",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:02",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeksy transakcyjne - WIRON",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439408",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "12:44",
     "kind": "pap",
     "ticker": null,
     "title": "Cena maksymalna dla benzyny Pb95 wyniesie w piątek 6,20 zł/l, a dla ON 7,91 zł/l",
     "url": "https://bossa.pl/analizy/komunikaty#message-439406",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:41",
+    "kind": "news",
+    "ticker": null,
+    "title": "B. Handlowy spodziewa się stabilizacji kosztów operacyjnych i ok. 40 pb kosztów ryzyka",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/b-handlowy-spodziewa-sie-stabilizacji-kosztow-operacyjnych-i-ok-40-pb-kosztow",
+    "src": "strefainwestorow",
     "flags": []
    },
    {

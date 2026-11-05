@@ -1,7 +1,91 @@
 {
  "date": "2026-11-05",
- "count": 162,
+ "count": 170,
  "items": [
+  {
+   "id": "bossa-espi-23454",
+   "date": "2026-11-05",
+   "time": "13:12",
+   "ts": "2026-11-05T13:12:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ADATEX S.A.",
+   "title": "Informacja o powołaniu spółek zależnych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23454"
+  },
+  {
+   "id": "bossa-espi-23453",
+   "date": "2026-11-05",
+   "time": "13:11",
+   "ts": "2026-11-05T13:11:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PGE POLSKA GRUPA ENERGETYCZNA S.A.",
+   "title": "Informacja o transakcji w trybie art. 19 Rozporządzenia MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23453"
+  },
+  {
+   "id": "bossa-pap-439412",
+   "date": "2026-11-05",
+   "time": "13:08",
+   "ts": "2026-11-05T13:08:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Bank Anglii podniósł główną stopę proc. o 25 pb. do poziomu 4 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439412"
+  },
+  {
+   "id": "bossa-pap-439411",
+   "date": "2026-11-05",
+   "time": "13:03",
+   "ts": "2026-11-05T13:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeksy transakcyjne - POLSTR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439411"
+  },
+  {
+   "id": "bossa-pap-439409",
+   "date": "2026-11-05",
+   "time": "13:02",
+   "ts": "2026-11-05T13:02:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "B. Handlowy spodziewa się stabilizacji kosztów operacyjnych i ok. 40 pb kosztów ryzyka",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439409"
+  },
+  {
+   "id": "bossa-pap-439408",
+   "date": "2026-11-05",
+   "time": "13:02",
+   "ts": "2026-11-05T13:02:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeksy transakcyjne - WIRON",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439408"
+  },
+  {
+   "id": "bossa-espi-23452",
+   "date": "2026-11-05",
+   "time": "13:02",
+   "ts": "2026-11-05T13:02:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "DELKO S.A.",
+   "title": "Zwołanie Zwyczajnego Walnego Zgromadzenia Akcjonariuszy Delko S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23452"
+  },
   {
    "id": "bossa-espi-23451",
    "date": "2026-11-05",
@@ -25,6 +109,17 @@
    "title": "Cena maksymalna dla benzyny Pb95 wyniesie w piątek 6,20 zł/l, a dla ON 7,91 zł/l",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439406"
+  },
+  {
+   "id": "strefa-6120f56a948d",
+   "date": "2026-11-05",
+   "time": "12:41",
+   "ts": "2026-11-05T12:41:53+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "B. Handlowy spodziewa się stabilizacji kosztów operacyjnych i ok. 40 pb kosztów ryzyka",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/b-handlowy-spodziewa-sie-stabilizacji-kosztow-operacyjnych-i-ok-40-pb-kosztow"
   },
   {
    "id": "bossa-espi-23450",
