@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 5,
   "obserwowane": 0,
-  "pozostale": 16
+  "pozostale": 19
  },
- "duplicatesRemoved": 43,
- "total": 115,
+ "duplicatesRemoved": 44,
+ "total": 119,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -577,6 +577,33 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:09",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźniki referencyjne - EURIBOR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439374",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:06",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźnik PPI w strefie euro w IX: +2,5 proc. mdm. Konsensus: +2,5 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439373",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:53",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW zmieni zasady naliczania opłat dla emitentów akcji dostosowując je do skali notowanych spółek",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/gpw-zmieni-zasady-naliczania-oplat-dla-emitentow-akcji-dostosowujac-je-do-skali",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "10:50",
     "kind": "pap",
