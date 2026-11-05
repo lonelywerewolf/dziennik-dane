@@ -1,6 +1,21 @@
 {
  "items": [
   {
+   "date": "2026-11-05",
+   "company": "ASBIS (ASB)",
+   "code": "ASB",
+   "name": "ASBIS",
+   "isin": "CY1000031710",
+   "rating": "Kupuj",
+   "price": "156",
+   "target": "202",
+   "upside": "29.487179487179",
+   "priceAtPub": "157",
+   "house": "DM BOŚ",
+   "report": "https://strefainwestorow.pl/sites/default/files/attachments/55446404_14068847_55446404_Asbis_29_FU_82_2026_DM_BOS_PL_disclaimer.pdf",
+   "ticker": "ASB"
+  },
+  {
    "date": "2026-11-04",
    "company": "PEP (PEP)",
    "code": "PEP",
@@ -4306,5 +4321,5 @@
    "ticker": "XTB"
   }
  ],
- "updatedAt": "2026-11-05T09:33:30+01:00"
+ "updatedAt": "2026-11-05T09:45:26+01:00"
 }

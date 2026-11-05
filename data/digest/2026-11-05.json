@@ -1,8 +1,8 @@
 {
  "date": "2026-11-05",
  "counts": {
-  "podsumowania": 8,
-  "wyniki": 13,
+  "podsumowania": 9,
+  "wyniki": 14,
   "rekomendacje": 2,
   "korporacyjne": 10,
   "makro_pl": 4,
@@ -10,15 +10,24 @@
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
-  "twoje_spolki": 3,
+  "twoje_spolki": 4,
   "obserwowane": 0,
   "pozostale": 11
  },
- "duplicatesRemoved": 37,
- "total": 93,
+ "duplicatesRemoved": 39,
+ "total": 98,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "09:30",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: W Europie na giełdach indeksy na rekordowych poziomach",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/dzien-na-rynkach-w-europie-na-gieldach-indeksy-na-rekordowych-poziomach",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:19",
     "kind": "news",
@@ -95,6 +104,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "09:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "XBS PRO-LOG SA (12/2026) Raport roczny",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439359",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:03",
     "kind": "espi",
@@ -440,6 +458,15 @@
   "nieruchomosci": [],
   "fundusze_drobne": [],
   "twoje_spolki": [
+   {
+    "time": "09:34",
+    "kind": "news",
+    "ticker": "ASB",
+    "title": "DM BOŚ podwyższył wycenę akcji Asbisu do 202 zł; podtrzymuje \"kupuj\"",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/dm-bos-podwyzszyl-wycene-akcji-asbisu-do-202-zl-podtrzymuje-kupuj",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:52",
     "kind": "pap",
