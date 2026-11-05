@@ -12,10 +12,10 @@
   "fundusze_drobne": 11,
   "twoje_spolki": 6,
   "obserwowane": 0,
-  "pozostale": 51
+  "pozostale": 52
  },
- "duplicatesRemoved": 166,
- "total": 398,
+ "duplicatesRemoved": 168,
+ "total": 401,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1226,12 +1226,12 @@
   ],
   "makro_pl": [
    {
-    "time": "22:49",
-    "kind": "pap",
+    "time": "22:44",
+    "kind": "news",
     "ticker": null,
     "title": "Alior Bank emituje euroobligacje o wartości 500 mln euro",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439573",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/alior-bank-emituje-euroobligacje-o-wartosci-500-mln-euro",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -1821,6 +1821,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "22:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "Unibep ma 12,5 mln zł zysku netto po III kw., portfel zamówień wynosi 6,1 mld zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/unibep-ma-125-mln-zl-zysku-netto-po-iii-kw-portfel-zamowien-wynosi-61-mld-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "19:25",
     "kind": "espi",

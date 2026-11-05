@@ -1,7 +1,30 @@
 {
  "date": "2026-11-05",
- "count": 398,
+ "count": 401,
  "items": [
+  {
+   "id": "bossa-pap-439574",
+   "date": "2026-11-05",
+   "time": "23:04",
+   "ts": "2026-11-05T23:04:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Unibep ma 12,5 mln zł zysku netto po III kw., portfel zamówień wynosi 6,1 mld zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439574"
+  },
+  {
+   "id": "strefa-651ed4a511a0",
+   "date": "2026-11-05",
+   "time": "22:55",
+   "ts": "2026-11-05T22:55:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Unibep ma 12,5 mln zł zysku netto po III kw., portfel zamówień wynosi 6,1 mld zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/unibep-ma-125-mln-zl-zysku-netto-po-iii-kw-portfel-zamowien-wynosi-61-mld-zl"
+  },
   {
    "id": "bossa-pap-439573",
    "date": "2026-11-05",
@@ -13,6 +36,17 @@
    "title": "Alior Bank emituje euroobligacje o wartości 500 mln euro",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439573"
+  },
+  {
+   "id": "strefa-462f3f2e8a93",
+   "date": "2026-11-05",
+   "time": "22:44",
+   "ts": "2026-11-05T22:44:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Alior Bank emituje euroobligacje o wartości 500 mln euro",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/alior-bank-emituje-euroobligacje-o-wartosci-500-mln-euro"
   },
   {
    "id": "bossa-pap-439572",
