@@ -670,5 +670,5 @@ if __name__ == "__main__":
     except Exception as e:
         STATUS["sources"]["telegram"] = {"ok": False, "error": repr(e)[:200]}
     prev = jload(D("status.json"), {"runs": []})
-    runs = [STATUS] + prev.get("runs", [])[:95]
+    runs = [STATUS] + prev.get("runs", [])[:39]
     jsave(D("status.json"), {"last": STATUS, "runs": runs})
