@@ -58,9 +58,22 @@ def match_ticker(*texts):
         if any(re.search(x, blob, re.I) for x in c.get("exclude", [])):
             continue
         for k in c.get("match", []):
-            if re.search(r"(?<![A-Z0-9])" + re.escape(k.upper()) + r"(?![A-Z0-9])", blob):
+            if re.search(_kw_re(k), blob):
                 return c["ticker"]
     return None
+
+
+PL_UP = "A-ZĄĆĘŁŃÓŚŹŻ"
+
+
+def _kw_re(k):
+    """Nazwa spółki z polską odmianą: ASBIS → Asbisu/Asbisem, VERCOM → Vercomu, NVIDIA → Nvidii/Nvidią, MARVELL → Marvella.
+    Krótkie klucze (≤ 4 znaki, np. XTB, ASML) – tylko dokładnie, ewentualnie z łącznikiem (XTB-u)."""
+    k = k.upper()
+    if len(k) <= 4:
+        return r"(?<![A-Z0-9])" + re.escape(k) + rf"(?:-[{PL_UP}]{{1,3}})?(?![{PL_UP}0-9])"
+    stem = k[:-1] if k[-1] in "AEIOUY" else k
+    return r"(?<![A-Z0-9])" + re.escape(stem) + rf"[{PL_UP}]{{0,4}}(?![{PL_UP}0-9])"
 
 
 # ---------------- feed (per dzień) ----------------
@@ -71,6 +84,11 @@ def feed_day(day):
     if day not in FEED:
         FEED[day] = jload(D("feed", day + ".json"), {"date": day, "items": []})
         FEED[day]["_ids"] = {i["id"] for i in FEED[day]["items"]}
+        for i in FEED[day]["items"]:          # dopasuj spółki także w starszych pozycjach (np. po dodaniu spółki lub poprawce odmiany)
+            if not i.get("ticker"):
+                t = match_ticker(i.get("title"), i.get("company"))
+                if t:
+                    i["ticker"] = t
     return FEED[day]
 
 
