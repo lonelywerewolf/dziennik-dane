@@ -10,12 +10,12 @@
   "energetyka_surowce": 5,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
-  "twoje_spolki": 4,
+  "twoje_spolki": 5,
   "obserwowane": 0,
   "pozostale": 14
  },
  "duplicatesRemoved": 40,
- "total": 109,
+ "total": 110,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -527,6 +527,15 @@
   "nieruchomosci": [],
   "fundusze_drobne": [],
   "twoje_spolki": [
+   {
+    "time": "10:31",
+    "kind": "news",
+    "ticker": "ASB",
+    "title": "Po 3 kwartałach 2026 ASBIS przekroczył 5 mld USD przychodów",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/po-3-kwartalach-2026-asbis-przekroczyl-5-mld-usd-przychodow",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:34",
     "kind": "news",
