@@ -1,7 +1,101 @@
 {
  "date": "2026-11-05",
- "count": 224,
+ "count": 233,
  "items": [
+  {
+   "id": "bossa-pap-439463",
+   "date": "2026-11-05",
+   "time": "15:28",
+   "ts": "2026-11-05T15:28:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GENERALI OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439463"
+  },
+  {
+   "id": "bossa-espi-23479",
+   "date": "2026-11-05",
+   "time": "15:25",
+   "ts": "2026-11-05T15:25:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 2 x SHORT PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 223 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23479"
+  },
+  {
+   "id": "bossa-espi-23478",
+   "date": "2026-11-05",
+   "time": "15:24",
+   "ts": "2026-11-05T15:24:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "IPOPEMA BENEFIT 3 FIZ AN",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23478"
+  },
+  {
+   "id": "strefa-9590776704a9",
+   "date": "2026-11-05",
+   "time": "15:20",
+   "ts": "2026-11-05T15:20:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Czynnikiem ograniczającym ryzyko presji inflacyjnej jest spowalniający wzrost gosp. - prezes NBP",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/czynnikiem-ograniczajacym-ryzyko-presji-inflacyjnej-jest-spowalniajacy-wzrost"
+  },
+  {
+   "id": "strefa-61e604162bee",
+   "date": "2026-11-05",
+   "time": "15:20",
+   "ts": "2026-11-05T15:20:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Inflacja bazowa w X spadła, ale nie oznacza to, że okres podwyższonej inflacji minął - prezes NBP",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/inflacja-bazowa-w-x-spadla-ale-nie-oznacza-ze-okres-podwyzszonej-inflacji-minal"
+  },
+  {
+   "id": "bossa-pap-439460",
+   "date": "2026-11-05",
+   "time": "15:20",
+   "ts": "2026-11-05T15:20:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Czynnikiem ograniczającym ryzyko presji inflacyjnej jest spowalniający wzrost gosp. - prezes NBP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439460"
+  },
+  {
+   "id": "bossa-pap-439459",
+   "date": "2026-11-05",
+   "time": "15:17",
+   "ts": "2026-11-05T15:17:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "ALLIANZ POLSKA OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439459"
+  },
+  {
+   "id": "bossa-espi-23477",
+   "date": "2026-11-05",
+   "time": "15:17",
+   "ts": "2026-11-05T15:17:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF mWIG40TR PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 224 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23477"
+  },
   {
    "id": "bossa-pap-439457",
    "date": "2026-11-05",
@@ -49,6 +143,17 @@
    "title": "Raport bieżący nr 232 / 2026",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23476"
+  },
+  {
+   "id": "strefa-fddf68f831a2",
+   "date": "2026-11-05",
+   "time": "15:08",
+   "ts": "2026-11-05T15:08:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Na razie nie widać wyraźnego rozlewania się cen paliw na pozostałe ceny - prezes NBP",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/na-razie-nie-widac-wyraznego-rozlewania-sie-cen-paliw-na-pozostale-ceny-prezes"
   },
   {
    "id": "strefa-ce6559a39603",

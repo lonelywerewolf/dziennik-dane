@@ -4,18 +4,18 @@
   "podsumowania": 11,
   "wyniki": 17,
   "rekomendacje": 2,
-  "korporacyjne": 33,
+  "korporacyjne": 34,
   "makro_pl": 13,
   "swiat_rynki": 11,
   "energetyka_surowce": 8,
   "nieruchomosci": 0,
-  "fundusze_drobne": 5,
+  "fundusze_drobne": 7,
   "twoje_spolki": 6,
   "obserwowane": 0,
   "pozostale": 37
  },
- "duplicatesRemoved": 81,
- "total": 224,
+ "duplicatesRemoved": 87,
+ "total": 233,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -315,12 +315,23 @@
   ],
   "korporacyjne": [
    {
-    "time": "15:15",
-    "kind": "pap",
+    "time": "15:20",
+    "kind": "news",
     "ticker": null,
-    "title": "Na razie nie widać wyraźnego rozlewania się cen paliw na pozostałe ceny - prezes NBP",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439457",
-    "src": "bossa",
+    "title": "Czynnikiem ograniczającym ryzyko presji inflacyjnej jest spowalniający wzrost gosp. - prezes NBP",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/czynnikiem-ograniczajacym-ryzyko-presji-inflacyjnej-jest-spowalniajacy-wzrost",
+    "src": "strefainwestorow",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "15:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "Inflacja bazowa w X spadła, ale nie oznacza to, że okres podwyższonej inflacji minął - prezes NBP",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/inflacja-bazowa-w-x-spadla-ale-nie-oznacza-ze-okres-podwyzszonej-inflacji-minal",
+    "src": "strefainwestorow",
     "flags": [
      "zarząd"
     ]
@@ -337,12 +348,12 @@
     ]
    },
    {
-    "time": "15:14",
-    "kind": "pap",
+    "time": "15:08",
+    "kind": "news",
     "ticker": null,
-    "title": "Inflacja bazowa w X spadła, ale nie oznacza to, że okres podwyższonej inflacji minął - prezes NBP",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439455",
-    "src": "bossa",
+    "title": "Na razie nie widać wyraźnego rozlewania się cen paliw na pozostałe ceny - prezes NBP",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/na-razie-nie-widac-wyraznego-rozlewania-sie-cen-paliw-na-pozostale-ceny-prezes",
+    "src": "strefainwestorow",
     "flags": [
      "zarząd"
     ]
@@ -966,6 +977,24 @@
   ],
   "nieruchomosci": [],
   "fundusze_drobne": [
+   {
+    "time": "15:28",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GENERALI OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439463",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:17",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ALLIANZ POLSKA OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439459",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:53",
     "kind": "pap",
