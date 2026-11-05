@@ -2,7 +2,7 @@
  "date": "2026-11-05",
  "counts": {
   "podsumowania": 19,
-  "wyniki": 38,
+  "wyniki": 39,
   "rekomendacje": 2,
   "korporacyjne": 57,
   "makro_pl": 18,
@@ -15,7 +15,7 @@
   "pozostale": 51
  },
  "duplicatesRemoved": 165,
- "total": 394,
+ "total": 395,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -196,6 +196,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "22:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Grupa Azoty szacuje w III kw. ujemny wynik EBITDA 25 mln zł, rynek liczył na 155 mln zł zysku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439571",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "22:09",
     "kind": "espi",
