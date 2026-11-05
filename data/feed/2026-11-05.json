@@ -1,7 +1,87 @@
 {
  "date": "2026-11-05",
- "count": 82,
+ "count": 89,
  "items": [
+  {
+   "id": "strefa-d6a1a82f18f5",
+   "date": "2026-11-05",
+   "time": "09:19",
+   "ts": "2026-11-05T09:19:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA FX/FI: Dla złotego kluczowe pozostają tendencje na globalnych rynkach",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/dzien-na-fxfi-dla-zlotego-kluczowe-pozostaja-tendencje-na-globalnych-rynkach"
+  },
+  {
+   "id": "strefa-94004076f399",
+   "date": "2026-11-05",
+   "time": "09:18",
+   "ts": "2026-11-05T09:18:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "WIG20 na otwarciu wyniósł 4200,94 pkt (0,26%)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/wig20-na-otwarciu-wyniosl-420094-pkt-026"
+  },
+  {
+   "id": "bossa-pap-439355",
+   "date": "2026-11-05",
+   "time": "09:18",
+   "ts": "2026-11-05T09:18:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "WIG20 na otwarciu wyniósł 4200,94 pkt (0,26%)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439355"
+  },
+  {
+   "id": "bossa-pap-439354",
+   "date": "2026-11-05",
+   "time": "09:18",
+   "ts": "2026-11-05T09:18:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA FX/FI: Dla złotego kluczowe pozostają tendencje na globalnych rynkach",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439354"
+  },
+  {
+   "id": "bossa-pap-439353",
+   "date": "2026-11-05",
+   "time": "09:17",
+   "ts": "2026-11-05T09:17:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "LPP zanotowało w III kw. wzrost przychodów o 20 proc.; sprzedaż LFL wzrosła o 1,8 proc. (opis)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439353"
+  },
+  {
+   "id": "strefa-77156c209f01",
+   "date": "2026-11-05",
+   "time": "09:14",
+   "ts": "2026-11-05T09:14:05+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "LPP zanotowało w III kw. wzrost przychodów o 20 proc.; sprzedaż LFL wzrosła o 1,8 proc. (opis)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/lpp-zanotowalo-w-iii-kw-wzrost-przychodow-o-20-proc-sprzedaz-lfl-wzrosla-o-18-0"
+  },
+  {
+   "id": "strefa-629a21487015",
+   "date": "2026-11-05",
+   "time": "09:04",
+   "ts": "2026-11-05T09:04:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "beeIN S.A. z umową ramową o szacowanej wartości 2,5 mln zł brutto",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/beein-sa-z-umowa-ramowa-o-szacowanej-wartosci-25-mln-zl-brutto"
+  },
   {
    "id": "bossa-pap-439351",
    "date": "2026-11-05",

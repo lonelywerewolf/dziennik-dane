@@ -1,10 +1,10 @@
 {
  "date": "2026-11-05",
  "counts": {
-  "podsumowania": 6,
+  "podsumowania": 8,
   "wyniki": 13,
   "rekomendacje": 2,
-  "korporacyjne": 9,
+  "korporacyjne": 10,
   "makro_pl": 4,
   "swiat_rynki": 2,
   "energetyka_surowce": 3,
@@ -14,11 +14,29 @@
   "obserwowane": 0,
   "pozostale": 9
  },
- "duplicatesRemoved": 31,
- "total": 82,
+ "duplicatesRemoved": 35,
+ "total": 89,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "09:19",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA FX/FI: Dla złotego kluczowe pozostają tendencje na globalnych rynkach",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/dzien-na-fxfi-dla-zlotego-kluczowe-pozostaja-tendencje-na-globalnych-rynkach",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "09:18",
+    "kind": "news",
+    "ticker": null,
+    "title": "WIG20 na otwarciu wyniósł 4200,94 pkt (0,26%)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/wig20-na-otwarciu-wyniosl-420094-pkt-026",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:30",
     "kind": "news",
@@ -227,6 +245,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "09:04",
+    "kind": "news",
+    "ticker": null,
+    "title": "beeIN S.A. z umową ramową o szacowanej wartości 2,5 mln zł brutto",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/beein-sa-z-umowa-ramowa-o-szacowanej-wartosci-25-mln-zl-brutto",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "08:56",
     "kind": "pap",
