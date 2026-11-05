@@ -2,20 +2,20 @@
  "date": "2026-11-05",
  "counts": {
   "podsumowania": 4,
-  "wyniki": 9,
-  "rekomendacje": 0,
-  "korporacyjne": 2,
+  "wyniki": 10,
+  "rekomendacje": 2,
+  "korporacyjne": 3,
   "makro_pl": 2,
-  "swiat_rynki": 0,
+  "swiat_rynki": 1,
   "energetyka_surowce": 2,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 5
+  "pozostale": 7
  },
- "duplicatesRemoved": 19,
- "total": 43,
+ "duplicatesRemoved": 23,
+ "total": 54,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -57,6 +57,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "07:59",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zysk netto grupy BNP Paribas BP w III kw. '26 wyniósł 689,1 mln zł, powyżej konsensusu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/zysk-netto-grupy-bnp-paribas-bp-w-iii-kw-26-wyniosl-6891-mln-zl-powyzej",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "07:54",
     "kind": "news",
@@ -149,8 +158,38 @@
     ]
    }
   ],
-  "rekomendacje": [],
+  "rekomendacje": [
+   {
+    "time": "08:06",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wood & Company podniósł rekomendację dla PGE do \"kupuj\", cena docelowa 18,50 zł",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439331",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "08:04",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wood podniósł rekomendację dla Enei do \"kupuj\", cena docelowa 28,10 zł",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439328",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "korporacyjne": [
+   {
+    "time": "08:05",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Zamówienia w przemyśle Niemiec we IX: +4,4 proc. mdm. Konsensus: +4,5 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439330",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "07:54",
     "kind": "pap",
@@ -192,7 +231,17 @@
     "flags": []
    }
   ],
-  "swiat_rynki": [],
+  "swiat_rynki": [
+   {
+    "time": "08:05",
+    "kind": "news",
+    "ticker": null,
+    "title": "Najważniejsze indeksy giełdowe w Azji",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/najwazniejsze-indeksy-gieldowe-w-azji",
+    "src": "strefainwestorow",
+    "flags": []
+   }
+  ],
   "energetyka_surowce": [
    {
     "time": "06:45",
@@ -218,6 +267,24 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "08:06",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny miedzi w Londynie rosną",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/ceny-miedzi-w-londynie-rosna",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "07:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny ropy na świecie kontynuują spadki po stracie w środę ponad 8 proc.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/ceny-ropy-na-swiecie-kontynuuja-spadki-po-stracie-w-srode-ponad-8-proc",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "06:48",
     "kind": "news",
