@@ -4,7 +4,7 @@
   "podsumowania": 18,
   "wyniki": 35,
   "rekomendacje": 2,
-  "korporacyjne": 56,
+  "korporacyjne": 57,
   "makro_pl": 18,
   "swiat_rynki": 16,
   "energetyka_surowce": 11,
@@ -15,7 +15,7 @@
   "pozostale": 51
  },
  "duplicatesRemoved": 164,
- "total": 388,
+ "total": 389,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -565,6 +565,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "21:49",
+    "kind": "espi",
+    "ticker": null,
+    "title": "VOOLT S.A.: Zawiadomienie w trybie art. 69 ustawy o ofercie publicznej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23516",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "20:03",
     "kind": "espi",
