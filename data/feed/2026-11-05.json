@@ -1,7 +1,43 @@
 {
  "date": "2026-11-05",
- "count": 54,
+ "count": 57,
  "items": [
+  {
+   "id": "bossa-pap-439335",
+   "date": "2026-11-05",
+   "time": "08:20",
+   "ts": "2026-11-05T08:20:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "WILDLANDS INTERACTIVE SA (16/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439335"
+  },
+  {
+   "id": "bossa-espi-23424",
+   "date": "2026-11-05",
+   "time": "08:18",
+   "ts": "2026-11-05T08:18:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "LENA LIGHTING",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23424"
+  },
+  {
+   "id": "bossa-espi-23423",
+   "date": "2026-11-05",
+   "time": "08:10",
+   "ts": "2026-11-05T08:10:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "GRODNO S.A.",
+   "title": "Otrzymanie powiadomienia w trybie art. 19 ust. 1 MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23423"
+  },
   {
    "id": "bossa-pap-439332",
    "date": "2026-11-05",
