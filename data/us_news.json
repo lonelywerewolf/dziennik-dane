@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "bdc8d37a4f08",
+   "ticker": "AVGO",
+   "time": "2026-11-05T02:43+01:00",
+   "title": "Is Broadcom Stock a Buy After Marvell's $115 Billion Deal?",
+   "url": "https://www.nasdaq.com/articles/broadcom-stock-buy-after-marvells-115-billion-deal",
+   "src": "nasdaq",
+   "summary": "Key PointsMarvell agreed to buy Lumentum in an all-stock deal that puts Lumentum's enterprise value at $115 billion."
+  },
+  {
    "id": "825cf33f5a98",
    "ticker": "NVDA",
    "time": "2026-11-05T01:49+01:00",
@@ -8,6 +17,24 @@
    "url": "https://www.nasdaq.com/articles/heres-what-10000-invested-spacex-and-nvidia-could-be-worth-2030",
    "src": "nasdaq",
    "summary": "Key PointsSpaceX is now an AI application investment."
+  },
+  {
+   "id": "1ce5a8742bae",
+   "ticker": "NVDA",
+   "time": "2026-11-05T00:39+01:00",
+   "title": "Q3 Earnings Scorecard: Solid Beats, Upward Revisions, and AI Drivers",
+   "url": "https://www.nasdaq.com/articles/q3-earnings-scorecard-solid-beats-upward-revisions-and-ai-drivers-0",
+   "src": "nasdaq",
+   "summary": "Roughly 75% of S&P 500 members have reported results in the Q3 cycle, with earnings up +24.8% from the same period last year on +14.0% higher revenues. The Tech sector remains a strong contributor, as earnings for the sector are on pace to grow +44.2% year-over-year on +35.0% higher revenues."
+  },
+  {
+   "id": "8ad908eaa894",
+   "ticker": "NVDA",
+   "time": "2026-11-05T00:35+01:00",
+   "title": "Q3 Earnings Scorecard: Solid Beats, Upward Revisions, and AI Drivers",
+   "url": "https://www.nasdaq.com/articles/q3-earnings-scorecard-solid-beats-upward-revisions-and-ai-drivers",
+   "src": "nasdaq",
+   "summary": "Roughly 75% of S&P 500 members have reported results in the Q3 cycle, with earnings up +24.8% from the same period last year on +14.0% higher revenues. The Tech sector remains a strong contributor, as earnings for the sector are on pace to grow +44.2% year-over-year on +35.0% higher revenues."
   },
   {
    "id": "1f3a6f1edaa3",
@@ -1252,5 +1279,5 @@
    "summary": "Key PointsASML is one of the most important companies in the global semiconductor ecosystem, but its stock price performance has left a lot to be desired over the past three years."
   }
  ],
- "updatedAt": "2026-11-05T02:35:46+01:00"
+ "updatedAt": "2026-11-05T03:27:38+01:00"
 }
