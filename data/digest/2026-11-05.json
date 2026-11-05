@@ -1,7 +1,7 @@
 {
  "date": "2026-11-05",
  "counts": {
-  "podsumowania": 12,
+  "podsumowania": 13,
   "wyniki": 17,
   "rekomendacje": 2,
   "korporacyjne": 47,
@@ -12,20 +12,29 @@
   "fundusze_drobne": 8,
   "twoje_spolki": 6,
   "obserwowane": 0,
-  "pozostale": 39
+  "pozostale": 40
  },
- "duplicatesRemoved": 103,
- "total": 269,
+ "duplicatesRemoved": 105,
+ "total": 273,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
    {
-    "time": "16:31",
-    "kind": "pap",
+    "time": "16:41",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Nasdaq traci 4 proc., wyprzedaż spółek IT trwa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/dzien-na-rynkach-nasdaq-traci-4-proc-wyprzedaz-spolek-it-trwa",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "16:16",
+    "kind": "news",
     "ticker": null,
     "title": "DZIEŃ NA GPW: WIG20 zwyżkuje m. in. dzięki LPP, Orlenowi i bankom; KGHM powrócił do spadków",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439489",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/dzien-na-gpw-wig20-zwyzkuje-m-dzieki-lpp-orlenowi-i-bankom-kghm-powrocil-do",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -1287,6 +1296,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "16:33",
+    "kind": "espi",
+    "ticker": null,
+    "title": "CARBON STUDIO S.A.: Rozpoczęcie prac nad odświeżoną wersją gry „The Wizards”",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23491",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:07",
     "kind": "pap",

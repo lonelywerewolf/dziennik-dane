@@ -1,7 +1,42 @@
 {
  "date": "2026-11-05",
- "count": 269,
+ "count": 273,
  "items": [
+  {
+   "id": "bossa-pap-439491",
+   "date": "2026-11-05",
+   "time": "16:43",
+   "ts": "2026-11-05T16:43:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Nasdaq traci 4 proc., wyprzedaż spółek IT trwa",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439491"
+  },
+  {
+   "id": "strefa-77eb700f916b",
+   "date": "2026-11-05",
+   "time": "16:41",
+   "ts": "2026-11-05T16:41:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Nasdaq traci 4 proc., wyprzedaż spółek IT trwa",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/dzien-na-rynkach-nasdaq-traci-4-proc-wyprzedaz-spolek-it-trwa"
+  },
+  {
+   "id": "bossa-espi-23491",
+   "date": "2026-11-05",
+   "time": "16:33",
+   "ts": "2026-11-05T16:33:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "CARBON STUDIO S.A.",
+   "title": "Rozpoczęcie prac nad odświeżoną wersją gry „The Wizards”",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23491"
+  },
   {
    "id": "bossa-pap-439489",
    "date": "2026-11-05",
@@ -13,6 +48,17 @@
    "title": "DZIEŃ NA GPW: WIG20 zwyżkuje m. in. dzięki LPP, Orlenowi i bankom; KGHM powrócił do spadków",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439489"
+  },
+  {
+   "id": "strefa-121430934d12",
+   "date": "2026-11-05",
+   "time": "16:16",
+   "ts": "2026-11-05T16:16:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: WIG20 zwyżkuje m. in. dzięki LPP, Orlenowi i bankom; KGHM powrócił do spadków",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/dzien-na-gpw-wig20-zwyzkuje-m-dzieki-lpp-orlenowi-i-bankom-kghm-powrocil-do"
   },
   {
    "id": "bossa-pap-439488",
