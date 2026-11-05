@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "e7d8182fbbe8",
+   "ticker": "NVDA",
+   "time": "2026-11-05T19:33+01:00",
+   "title": "Not Nvidia. Not AMD. 2 Chip Stocks I'd Buy Before the End of the Year.",
+   "url": "https://www.nasdaq.com/articles/not-nvidia-not-amd-2-chip-stocks-id-buy-end-year",
+   "src": "nasdaq",
+   "summary": "Key PointsTaiwan Semiconductor is the leader in its sector."
+  },
+  {
    "id": "52b411226243",
    "ticker": "ASML",
    "time": "2026-11-05T19:09+01:00",
@@ -53,6 +62,15 @@
    "url": "https://www.nasdaq.com/articles/stock-indexes-pressured-chipmakers-and-ai-stocks-plunge",
    "src": "nasdaq",
    "summary": "The S&P 500 Index ($SPX ) (SPY ) is down -1.70% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.76%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -3.60%.  December E-mini S&P futures (ESZ26 ) are down -1.76%, and December E-mini Nasdaq futures..."
+  },
+  {
+   "id": "d7cd39fbe2ef",
+   "ticker": "NVDA",
+   "time": "2026-11-05T17:20+01:00",
+   "title": "Datadog Q3 Earnings & Revenues Surpass Estimates, Both Rise Y/Y",
+   "url": "https://www.nasdaq.com/articles/datadog-q3-earnings-revenues-surpass-estimates-both-rise-y-y",
+   "src": "nasdaq",
+   "summary": "DDOG's Q3 EPS rises 47.3% and revenues climb 35.2%, beating estimates as AI adoption widens. Q4 guidance assumes its largest customer's minimum commitment."
   },
   {
    "id": "687930e99a63",
@@ -1549,5 +1567,5 @@
    "summary": "Key PointsASML is one of the most important companies in the global semiconductor ecosystem, but its stock price performance has left a lot to be desired over the past three years."
   }
  ],
- "updatedAt": "2026-11-05T19:29:55+01:00"
+ "updatedAt": "2026-11-05T19:42:04+01:00"
 }

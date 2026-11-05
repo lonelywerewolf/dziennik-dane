@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 51
  },
- "duplicatesRemoved": 158,
- "total": 375,
+ "duplicatesRemoved": 159,
+ "total": 376,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -188,15 +188,6 @@
   ],
   "wyniki": [
    {
-    "time": "19:26",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Artifex Mundi szacuje zysk netto w III kw. '26 na 3 mln zł",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439557",
-    "src": "bossa",
-    "flags": []
-   },
-   {
     "time": "19:14",
     "kind": "espi",
     "ticker": null,
@@ -206,6 +197,15 @@
     "flags": [
      "wyniki"
     ]
+   },
+   {
+    "time": "18:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "Artifex Mundi szacuje zysk netto w III kw. '26 na 3 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/artifex-mundi-szacuje-zysk-netto-w-iii-kw-26-na-3-mln-zl",
+    "src": "strefainwestorow",
+    "flags": []
    },
    {
     "time": "18:44",
