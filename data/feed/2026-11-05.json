@@ -1,7 +1,77 @@
 {
  "date": "2026-11-05",
- "count": 120,
+ "count": 127,
  "items": [
+  {
+   "id": "bossa-pap-439379",
+   "date": "2026-11-05",
+   "time": "11:33",
+   "ts": "2026-11-05T11:33:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PGE chce do połowy '27 przygotować pre-feasibility study dla lokalizacji II EJ w Bełchatowie i Koninie",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439379"
+  },
+  {
+   "id": "strefa-3cf17be5bdae",
+   "date": "2026-11-05",
+   "time": "11:32",
+   "ts": "2026-11-05T11:32:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "PGE chce do połowy '27 przygotować pre-feasibility study dla lokalizacji II EJ w Bełchatowie i Koninie",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/pge-chce-do-polowy-27-przygotowac-pre-feasibility-study-dla-lokalizacji-ii-ej-w"
+  },
+  {
+   "id": "bossa-pap-439378",
+   "date": "2026-11-05",
+   "time": "11:31",
+   "ts": "2026-11-05T11:31:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "OFAC przyznał MOL dodatkową licencję w związku z potencjalnym nabyciem udziałów w spółce NIS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439378"
+  },
+  {
+   "id": "bossa-pap-439377",
+   "date": "2026-11-05",
+   "time": "11:29",
+   "ts": "2026-11-05T11:29:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "BOM: Wizyta przewodniczącej Parlamentu Europejskiego w Sejmie (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439377"
+  },
+  {
+   "id": "strefa-8b0aa78395ba",
+   "date": "2026-11-05",
+   "time": "11:26",
+   "ts": "2026-11-05T11:26:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "OFAC przyznał MOL dodatkową licencję w związku z potencjalnym nabyciem udziałów w spółce NIS",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/ofac-przyznal-mol-dodatkowa-licencje-w-zwiazku-z-potencjalnym-nabyciem-udzialow"
+  },
+  {
+   "id": "bossa-pap-439376",
+   "date": "2026-11-05",
+   "time": "11:25",
+   "ts": "2026-11-05T11:25:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: Większość głównych indeksów rośnie; zyskują odzież i energetyka, ale zniżkuje Orlen",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439376"
+  },
   {
    "id": "bossa-espi-23436",
    "date": "2026-11-05",
@@ -37,6 +107,17 @@
    "title": "Wskaźnik PPI w strefie euro w IX: +2,5 proc. mdm. Konsensus: +2,5 proc.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439373"
+  },
+  {
+   "id": "strefa-f8f0a03ad4e7",
+   "date": "2026-11-05",
+   "time": "11:02",
+   "ts": "2026-11-05T11:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: Większość głównych indeksów rośnie; zyskują odzież i energetyka, ale zniżkuje Orlen",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/dzien-na-gpw-wiekszosc-glownych-indeksow-rosnie-zyskuja-odziez-i-energetyka-ale"
   },
   {
    "id": "bossa-pap-439372",
