@@ -1,24 +1,33 @@
 {
  "date": "2026-11-05",
  "counts": {
-  "podsumowania": 14,
-  "wyniki": 19,
+  "podsumowania": 15,
+  "wyniki": 22,
   "rekomendacje": 2,
   "korporacyjne": 48,
-  "makro_pl": 15,
+  "makro_pl": 16,
   "swiat_rynki": 14,
   "energetyka_surowce": 8,
   "nieruchomosci": 0,
   "fundusze_drobne": 9,
   "twoje_spolki": 6,
   "obserwowane": 0,
-  "pozostale": 41
+  "pozostale": 42
  },
- "duplicatesRemoved": 110,
- "total": 286,
+ "duplicatesRemoved": 115,
+ "total": 297,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "17:06",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA FX/FI: Złoty osłabił się do 4,40/EUR; prawdopodobnie utrzyma się trend deprecjacji",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/dzien-na-fxfi-zloty-oslabil-sie-do-440eur-prawdopodobnie-utrzyma-sie-trend",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "16:58",
     "kind": "skrot",
@@ -149,6 +158,48 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "17:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wyniki Orlenu w III kw. 2026 roku vs. konsensus PAP (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/wyniki-orlenu-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "17:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "EBITDA LIFO Orlen w III kw. 14,78 mld zł, wynik pod wpływem zmienności cen surowców i geopolityki",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/ebitda-lifo-orlen-w-iii-kw-1478-mld-zl-wynik-pod-wplywem-zmiennosci-cen",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "17:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "Polenergia szacuje wynik EBITDA po trzech kw. na 332,5 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/polenergia-szacuje-wynik-ebitda-po-trzech-kw-na-3325-mln-zl",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "17:16",
+    "kind": "pap",
+    "ticker": null,
+    "title": "INCUVO SA (11/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439505",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:11",
     "kind": "espi",
@@ -329,17 +380,6 @@
     "url": "https://strefainwestorow.pl/wiadomosci/20261105/zysk-netto-grupy-pko-bp-w-iii-kw-26-wyniosl-293-mld-zl-powyzej-oczekiwan",
     "src": "strefainwestorow",
     "flags": []
-   },
-   {
-    "time": "05:52",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Wyniki PKO BP w III kw. 2026 roku vs. konsensus PAP (tabela)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439301",
-    "src": "bossa",
-    "flags": [
-     "wyniki"
-    ]
    }
   ],
   "rekomendacje": [
@@ -878,6 +918,15 @@
   ],
   "makro_pl": [
    {
+    "time": "17:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "Prezentacja listopadowej projekcji NBP w piątek o godz. 12.30",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/prezentacja-listopadowej-projekcji-nbp-w-piatek-o-godz-1230",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "16:54",
     "kind": "pap",
     "ticker": null,
@@ -1365,6 +1414,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:22",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MS: Minister Waldemar Żurek na kongresie LegalTech & Cyber 2026 (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439508",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:00",
     "kind": "pap",

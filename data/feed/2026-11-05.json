@@ -1,7 +1,123 @@
 {
  "date": "2026-11-05",
- "count": 286,
+ "count": 297,
  "items": [
+  {
+   "id": "bossa-pap-439508",
+   "date": "2026-11-05",
+   "time": "17:22",
+   "ts": "2026-11-05T17:22:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MS: Minister Waldemar Żurek na kongresie LegalTech & Cyber 2026 (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439508"
+  },
+  {
+   "id": "bossa-pap-439507",
+   "date": "2026-11-05",
+   "time": "17:22",
+   "ts": "2026-11-05T17:22:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Polenergia szacuje wynik EBITDA po trzech kw. na 332,5 mln zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439507"
+  },
+  {
+   "id": "strefa-ea84205b2847",
+   "date": "2026-11-05",
+   "time": "17:20",
+   "ts": "2026-11-05T17:20:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wyniki Orlenu w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/wyniki-orlenu-w-iii-kw-2026-roku-vs-konsensus-pap-tabela"
+  },
+  {
+   "id": "strefa-9c990df0e767",
+   "date": "2026-11-05",
+   "time": "17:20",
+   "ts": "2026-11-05T17:20:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "EBITDA LIFO Orlen w III kw. 14,78 mld zł, wynik pod wpływem zmienności cen surowców i geopolityki",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/ebitda-lifo-orlen-w-iii-kw-1478-mld-zl-wynik-pod-wplywem-zmiennosci-cen"
+  },
+  {
+   "id": "strefa-6d3abe58e6dd",
+   "date": "2026-11-05",
+   "time": "17:20",
+   "ts": "2026-11-05T17:20:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Prezentacja listopadowej projekcji NBP w piątek o godz. 12.30",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/prezentacja-listopadowej-projekcji-nbp-w-piatek-o-godz-1230"
+  },
+  {
+   "id": "strefa-474087dc56ac",
+   "date": "2026-11-05",
+   "time": "17:20",
+   "ts": "2026-11-05T17:20:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Polenergia szacuje wynik EBITDA po trzech kw. na 332,5 mln zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/polenergia-szacuje-wynik-ebitda-po-trzech-kw-na-3325-mln-zl"
+  },
+  {
+   "id": "bossa-pap-439506",
+   "date": "2026-11-05",
+   "time": "17:16",
+   "ts": "2026-11-05T17:16:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA FX/FI: Złoty osłabił się do 4,40/EUR; prawdopodobnie utrzyma się trend deprecjacji",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439506"
+  },
+  {
+   "id": "bossa-pap-439505",
+   "date": "2026-11-05",
+   "time": "17:16",
+   "ts": "2026-11-05T17:16:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "INCUVO SA (11/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439505"
+  },
+  {
+   "id": "bossa-pap-439504",
+   "date": "2026-11-05",
+   "time": "17:14",
+   "ts": "2026-11-05T17:14:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Prezentacja listopadowej projekcji NBP w piątek o godz. 12.30",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439504"
+  },
+  {
+   "id": "bossa-pap-439503",
+   "date": "2026-11-05",
+   "time": "17:14",
+   "ts": "2026-11-05T17:14:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "EBITDA LIFO Orlen w III kw. 14,78 mld zł, wynik pod wpływem zmienności cen surowców i geopolityki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439503"
+  },
   {
    "id": "bossa-espi-23496",
    "date": "2026-11-05",
@@ -37,6 +153,17 @@
    "title": "Szacunkowe wybrane dane finansowe ZBM \"ZREMB-CHOJNICE\"S.A. za okres I-III kwartał 2026 roku.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23495"
+  },
+  {
+   "id": "strefa-03be0575e6ad",
+   "date": "2026-11-05",
+   "time": "17:06",
+   "ts": "2026-11-05T17:06:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA FX/FI: Złoty osłabił się do 4,40/EUR; prawdopodobnie utrzyma się trend deprecjacji",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/dzien-na-fxfi-zloty-oslabil-sie-do-440eur-prawdopodobnie-utrzyma-sie-trend"
   },
   {
    "id": "bossa-espi-23494",
