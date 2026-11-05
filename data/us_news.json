@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "22180bc0097f",
+   "ticker": "AVGO",
+   "time": "2026-11-05T11:35+01:00",
+   "title": "Better Foundry Stock: Taiwan Semiconductor vs. Intel",
+   "url": "https://www.nasdaq.com/articles/better-foundry-stock-taiwan-semiconductor-vs-intel",
+   "src": "nasdaq",
+   "summary": "Key PointsTSMC is the foundry leader and has a near monopoly on manufacturing advanced logic chips."
+  },
+  {
    "id": "f9ec61eef824",
    "ticker": "NVDA",
    "time": "2026-11-05T08:10+01:00",
@@ -1333,5 +1342,5 @@
    "summary": "Key PointsASML is one of the most important companies in the global semiconductor ecosystem, but its stock price performance has left a lot to be desired over the past three years."
   }
  ],
- "updatedAt": "2026-11-05T11:59:03+01:00"
+ "updatedAt": "2026-11-05T12:12:25+01:00"
 }

@@ -4,18 +4,18 @@
   "podsumowania": 10,
   "wyniki": 15,
   "rekomendacje": 2,
-  "korporacyjne": 13,
+  "korporacyjne": 15,
   "makro_pl": 9,
-  "swiat_rynki": 4,
+  "swiat_rynki": 5,
   "energetyka_surowce": 6,
   "nieruchomosci": 0,
   "fundusze_drobne": 2,
-  "twoje_spolki": 5,
+  "twoje_spolki": 6,
   "obserwowane": 0,
-  "pozostale": 23
+  "pozostale": 24
  },
- "duplicatesRemoved": 50,
- "total": 139,
+ "duplicatesRemoved": 53,
+ "total": 147,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -284,6 +284,26 @@
   ],
   "korporacyjne": [
    {
+    "time": "12:05",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PGE POLSKA GRUPA ENERGETYCZNA S.A.: Zawarcie umowy kredytu terminowego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23442",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "12:03",
+    "kind": "espi",
+    "ticker": null,
+    "title": "CPD S.A.: Treść uchwał podjętych przez Zwyczajne Walne Zgromadzenie CPD S.A. w dniu 4 listopada 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23441",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "11:56",
     "kind": "espi",
     "ticker": null,
@@ -506,6 +526,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "12:09",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Liczba zapowiadanych zwolnień w USA w październiku spadła o 71,3 proc. rdr - Challenger",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439395",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "11:48",
     "kind": "espi",
     "ticker": null,
@@ -623,6 +652,15 @@
   ],
   "twoje_spolki": [
    {
+    "time": "11:58",
+    "kind": "news",
+    "ticker": "ASB",
+    "title": "Asbis zwiększa zaangażowanie w AI, popyt na komponenty daje dobrą perspektywę zamówień",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/asbis-zwieksza-zaangazowanie-w-ai-popyt-na-komponenty-daje-dobra-perspektywe",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "10:46",
     "kind": "news",
     "ticker": "DIG",
@@ -672,6 +710,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:08",
+    "kind": "espi",
+    "ticker": null,
+    "title": "CPD S.A.: Powołanie Członków Rady Nadzorczej na nową kadencję",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23444",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:47",
     "kind": "espi",
