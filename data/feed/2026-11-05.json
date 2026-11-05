@@ -1,7 +1,31 @@
 {
  "date": "2026-11-05",
- "count": 32,
+ "count": 34,
  "items": [
+  {
+   "id": "bossa-espi-23420",
+   "date": "2026-11-05",
+   "time": "07:30",
+   "ts": "2026-11-05T07:30:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ARCTIC PAPER S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23420"
+  },
+  {
+   "id": "bossa-pap-439317",
+   "date": "2026-11-05",
+   "time": "07:20",
+   "ts": "2026-11-05T07:20:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zysk netto grupy PKO BP w III kw. '26 wyniósł 2,93 mld zł, powyżej oczekiwań (opis)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439317"
+  },
   {
    "id": "strefa-f135c4a64315",
    "date": "2026-11-05",
