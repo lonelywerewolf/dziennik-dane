@@ -1,7 +1,19 @@
 {
  "date": "2026-11-05",
- "count": 258,
+ "count": 259,
  "items": [
+  {
+   "id": "bossa-espi-23488",
+   "date": "2026-11-05",
+   "time": "15:56",
+   "ts": "2026-11-05T15:56:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "CASPAR AM SA",
+   "title": "Wartość aktywów pod zarządzaniem i administracją Grupy Kapitałowej Caspar na 31 października 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23488"
+  },
   {
    "id": "bossa-pap-439481",
    "date": "2026-11-05",
