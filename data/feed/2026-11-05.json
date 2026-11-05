@@ -1,7 +1,66 @@
 {
  "date": "2026-11-05",
- "count": 207,
+ "count": 213,
  "items": [
+  {
+   "id": "bossa-pap-439448",
+   "date": "2026-11-05",
+   "time": "14:48",
+   "ts": "2026-11-05T14:48:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Grupa Erste, Bank Pekao i PKO BP przeznaczą łącznie 500 mln zł na inwestycje w ramach Innovate Poland (popr.)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439448"
+  },
+  {
+   "id": "bossa-espi-23474",
+   "date": "2026-11-05",
+   "time": "14:47",
+   "ts": "2026-11-05T14:47:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PASSUS S.A.",
+   "title": "Zawarcie umowy znaczącej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23474"
+  },
+  {
+   "id": "strefa-c4ad67c22522",
+   "date": "2026-11-05",
+   "time": "14:46",
+   "ts": "2026-11-05T14:46:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grupa Erste, Bank Pekao i PKO BP przeznaczą łącznie 500 mln zł na inwestycje w ramach Innovate Poland (popr.)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/grupa-erste-bank-pekao-i-pko-bp-przeznacza-lacznie-500-mln-zl-na-inwestycje-w-0"
+  },
+  {
+   "id": "bossa-pap-439446",
+   "date": "2026-11-05",
+   "time": "14:45",
+   "ts": "2026-11-05T14:45:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Grupa Erste, Bank Pekao i PKO BP przeznaczą łącznie 500 mln zł na inwestycje w ramach Innovate Poland",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439446"
+  },
+  {
+   "id": "bossa-pap-439445",
+   "date": "2026-11-05",
+   "time": "14:41",
+   "ts": "2026-11-05T14:41:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MC: Bezpieczniejszy internet na ostatniej prostej. Ustawa czeka na podpis Prezydenta (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439445"
+  },
   {
    "id": "bossa-pap-439444",
    "date": "2026-11-05",
@@ -25,6 +84,17 @@
    "title": "Zawarcie części umów przyrzeczonych dotyczących nabycia udziałów w nieruchomościach gruntowych położonych w gminie Żukowo",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23473"
+  },
+  {
+   "id": "strefa-0d43135359e0",
+   "date": "2026-11-05",
+   "time": "14:34",
+   "ts": "2026-11-05T14:34:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grupa Erste, Bank Pekao i PKO BP przeznaczą łącznie 500 mln zł na inwestycje w ramach Innovate Poland",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/grupa-erste-bank-pekao-i-pko-bp-przeznacza-lacznie-500-mln-zl-na-inwestycje-w"
   },
   {
    "id": "bossa-pap-439442",

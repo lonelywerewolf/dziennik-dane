@@ -4,18 +4,18 @@
   "podsumowania": 11,
   "wyniki": 17,
   "rekomendacje": 2,
-  "korporacyjne": 29,
-  "makro_pl": 11,
+  "korporacyjne": 30,
+  "makro_pl": 12,
   "swiat_rynki": 11,
   "energetyka_surowce": 8,
   "nieruchomosci": 0,
   "fundusze_drobne": 4,
   "twoje_spolki": 6,
   "obserwowane": 0,
-  "pozostale": 36
+  "pozostale": 37
  },
- "duplicatesRemoved": 72,
- "total": 207,
+ "duplicatesRemoved": 75,
+ "total": 213,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -314,6 +314,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "14:47",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PASSUS S.A.: Zawarcie umowy znaczącej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23474",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "14:35",
     "kind": "espi",
@@ -621,6 +632,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "14:41",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MC: Bezpieczniejszy internet na ostatniej prostej. Ustawa czeka na podpis Prezydenta (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439445",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:37",
     "kind": "espi",
@@ -1001,6 +1021,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "14:34",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa Erste, Bank Pekao i PKO BP przeznaczą łącznie 500 mln zł na inwestycje w ramach Innovate Poland",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/grupa-erste-bank-pekao-i-pko-bp-przeznacza-lacznie-500-mln-zl-na-inwestycje-w",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "14:29",
     "kind": "news",
