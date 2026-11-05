@@ -2,7 +2,7 @@
  "date": "2026-11-05",
  "counts": {
   "podsumowania": 6,
-  "wyniki": 11,
+  "wyniki": 13,
   "rekomendacje": 2,
   "korporacyjne": 9,
   "makro_pl": 4,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 9
  },
- "duplicatesRemoved": 27,
- "total": 76,
+ "duplicatesRemoved": 31,
+ "total": 82,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -77,6 +77,27 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "09:03",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BEEIN S.A.: Zawarcie umowy ramowej o współpracy handlowej o szacunkowej wartości 2,5 mln zł brutto",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23431",
+    "src": "bossa",
+    "flags": [
+     "wyniki",
+     "umowa"
+    ]
+   },
+   {
+    "time": "09:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "LPP zanotowało w III kw. wzrost przychodów o 20 proc.; sprzedaż LFL wzrosła o 1,8 proc.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/lpp-zanotowalo-w-iii-kw-wzrost-przychodow-o-20-proc-sprzedaz-lfl-wzrosla-o-18",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:38",
     "kind": "news",
@@ -216,6 +237,17 @@
     "flags": []
    },
    {
+    "time": "08:45",
+    "kind": "news",
+    "ticker": null,
+    "title": "PKO BP chce utrzymać dwucyfrowy wzrost kredytów; wdroży modelową umowę kredytu hipotecznego (wywiad)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/pko-bp-chce-utrzymac-dwucyfrowy-wzrost-kredytow-wdrozy-modelowa-umowe-kredytu",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
     "time": "08:41",
     "kind": "news",
     "ticker": null,
@@ -274,17 +306,6 @@
     "ticker": null,
     "title": "Zamówienia w przemyśle Niemiec we IX: +4,4 proc. mdm. Konsensus: +4,5 proc.",
     "url": "https://bossa.pl/analizy/komunikaty#message-439330",
-    "src": "bossa",
-    "flags": [
-     "umowa"
-    ]
-   },
-   {
-    "time": "07:54",
-    "kind": "pap",
-    "ticker": null,
-    "title": "PKO BP chce utrzymać dwucyfrowy wzrost kredytów; wdroży modelową umowę kredytu hipotecznego (wywiad)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439324",
     "src": "bossa",
     "flags": [
      "umowa"
