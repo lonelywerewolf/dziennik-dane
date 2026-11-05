@@ -1,0 +1,63 @@
+{
+ "date": "2026-11-05",
+ "counts": {
+  "podsumowania": 0,
+  "wyniki": 0,
+  "rekomendacje": 0,
+  "korporacyjne": 1,
+  "makro_pl": 0,
+  "swiat_rynki": 0,
+  "energetyka_surowce": 0,
+  "nieruchomosci": 0,
+  "fundusze_drobne": 0,
+  "twoje_spolki": 0,
+  "obserwowane": 0,
+  "pozostale": 2
+ },
+ "duplicatesRemoved": 2,
+ "total": 5,
+ "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
+ "groups": {
+  "podsumowania": [],
+  "wyniki": [],
+  "rekomendacje": [],
+  "korporacyjne": [
+   {
+    "time": "00:04",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PKO BANK HIPOTECZNY S.A.: Q",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23417",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
+  "makro_pl": [],
+  "swiat_rynki": [],
+  "energetyka_surowce": [],
+  "nieruchomosci": [],
+  "fundusze_drobne": [],
+  "twoje_spolki": [],
+  "obserwowane": [],
+  "pozostale": [
+   {
+    "time": "00:04",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ASBISc: QS",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23416",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "00:03",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PKO BANK POLSKI S.A.: QSr",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23415",
+    "src": "bossa",
+    "flags": []
+   }
+  ]
+ }
+}
