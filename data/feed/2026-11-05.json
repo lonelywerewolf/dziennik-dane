@@ -1,7 +1,42 @@
 {
  "date": "2026-11-05",
- "count": 378,
+ "count": 381,
  "items": [
+  {
+   "id": "bossa-espi-23512",
+   "date": "2026-11-05",
+   "time": "20:03",
+   "ts": "2026-11-05T20:03:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MENNICA",
+   "title": "Złożenie przez Emitenta oferty w przetargu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23512"
+  },
+  {
+   "id": "bossa-pap-439559",
+   "date": "2026-11-05",
+   "time": "19:57",
+   "ts": "2026-11-05T19:57:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Skorygowana EBITDA Unimotu w III kw. wyniosła 133 mln zł wobec 108,8 mln zł konsensusu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439559"
+  },
+  {
+   "id": "strefa-b76f8fe975a9",
+   "date": "2026-11-05",
+   "time": "19:52",
+   "ts": "2026-11-05T19:52:57+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Skorygowana EBITDA Unimotu w III kw. wyniosła 133 mln zł wobec 108,8 mln zł konsensusu",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/skorygowana-ebitda-unimotu-w-iii-kw-wyniosla-133-mln-zl-wobec-1088-mln-zl"
+  },
   {
    "id": "bossa-espi-23511",
    "date": "2026-11-05",

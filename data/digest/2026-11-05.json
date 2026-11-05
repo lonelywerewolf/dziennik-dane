@@ -2,9 +2,9 @@
  "date": "2026-11-05",
  "counts": {
   "podsumowania": 18,
-  "wyniki": 32,
+  "wyniki": 33,
   "rekomendacje": 2,
-  "korporacyjne": 55,
+  "korporacyjne": 56,
   "makro_pl": 17,
   "swiat_rynki": 16,
   "energetyka_surowce": 11,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 51
  },
- "duplicatesRemoved": 159,
- "total": 378,
+ "duplicatesRemoved": 160,
+ "total": 381,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -187,6 +187,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "19:52",
+    "kind": "news",
+    "ticker": null,
+    "title": "Skorygowana EBITDA Unimotu w III kw. wyniosła 133 mln zł wobec 108,8 mln zł konsensusu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/skorygowana-ebitda-unimotu-w-iii-kw-wyniosla-133-mln-zl-wobec-1088-mln-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "19:43",
     "kind": "espi",
@@ -536,6 +545,15 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "20:03",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MENNICA: Złożenie przez Emitenta oferty w przetargu",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23512",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:45",
     "kind": "espi",
