@@ -1,24 +1,33 @@
 {
  "date": "2026-11-05",
  "counts": {
-  "podsumowania": 10,
-  "wyniki": 16,
+  "podsumowania": 11,
+  "wyniki": 17,
   "rekomendacje": 2,
-  "korporacyjne": 27,
+  "korporacyjne": 29,
   "makro_pl": 11,
-  "swiat_rynki": 9,
-  "energetyka_surowce": 7,
+  "swiat_rynki": 11,
+  "energetyka_surowce": 8,
   "nieruchomosci": 0,
   "fundusze_drobne": 4,
   "twoje_spolki": 6,
   "obserwowane": 0,
-  "pozostale": 34
+  "pozostale": 36
  },
- "duplicatesRemoved": 69,
- "total": 195,
+ "duplicatesRemoved": 72,
+ "total": 207,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "14:29",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Futures w USA głównie zyskują; wyprzedaż spółek IT",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/dzien-na-rynkach-futures-w-usa-glownie-zyskuja-wyprzedaz-spolek-it",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "11:02",
     "kind": "news",
@@ -113,6 +122,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "14:32",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Bowim: Wstępne dane o przychodach netto ze sprzedaży oraz o wynikach finansowych Grupy Kapitałowej Emitenta za III kwartały 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23472",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "13:03",
     "kind": "news",
@@ -295,6 +315,15 @@
   ],
   "korporacyjne": [
    {
+    "time": "14:35",
+    "kind": "espi",
+    "ticker": null,
+    "title": "INPRO S.A.: Zawarcie części umów przyrzeczonych dotyczących nabycia udziałów w nieruchomościach gruntowych położonych w gminie Żukowo",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23473",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "14:16",
     "kind": "pap",
     "ticker": null,
@@ -323,6 +352,17 @@
     "title": "ADATEX S.A.: Utworzenie Programu Emisji Obligacji",
     "url": "https://bossa.pl/analizy/komunikaty#message-23468",
     "src": "bossa",
+    "flags": [
+     "emisja"
+    ]
+   },
+   {
+    "time": "13:41",
+    "kind": "news",
+    "ticker": null,
+    "title": "Adatex chce utworzyć program emisji obligacji o wartości do 70 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/adatex-chce-utworzyc-program-emisji-obligacji-o-wartosci-do-70-mln-zl",
+    "src": "strefainwestorow",
     "flags": [
      "emisja"
     ]
@@ -685,6 +725,24 @@
   ],
   "swiat_rynki": [
    {
+    "time": "14:36",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Liczba nowych bezrobotnych w USA w ub. tyg.: 189 tys. Konsensus: 196 tys. Poprzednio: 195 tys.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439444",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Narodowy Bank Czeski podniósł główną stopę proc. o 25 pb. do 4 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439442",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "14:14",
     "kind": "pap",
     "ticker": null,
@@ -771,6 +829,15 @@
    }
   ],
   "energetyka_surowce": [
+   {
+    "time": "14:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Premier Litwy poinformował Orlen o planach wprowadzenia podatku od nadzwyczajnych zysków",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439439",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:36",
     "kind": "news",
@@ -934,6 +1001,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "14:29",
+    "kind": "news",
+    "ticker": null,
+    "title": "BNP Paribas BP ocenia, że wzrost w kredytach dla MŚP jest dobrym prognostykiem na przyszłość",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/bnp-paribas-bp-ocenia-ze-wzrost-w-kredytach-dla-msp-jest-dobrym-prognostykiem",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "14:27",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OKI pomogą przesuwać oszczędności z depozytów na rynek kapitałowy - PKO BP (opinia)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439437",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:09",
     "kind": "espi",

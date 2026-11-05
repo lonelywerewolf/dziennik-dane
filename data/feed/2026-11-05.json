@@ -1,7 +1,137 @@
 {
  "date": "2026-11-05",
- "count": 195,
+ "count": 207,
  "items": [
+  {
+   "id": "bossa-pap-439444",
+   "date": "2026-11-05",
+   "time": "14:36",
+   "ts": "2026-11-05T14:36:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Liczba nowych bezrobotnych w USA w ub. tyg.: 189 tys. Konsensus: 196 tys. Poprzednio: 195 tys.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439444"
+  },
+  {
+   "id": "bossa-espi-23473",
+   "date": "2026-11-05",
+   "time": "14:35",
+   "ts": "2026-11-05T14:35:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "INPRO S.A.",
+   "title": "Zawarcie części umów przyrzeczonych dotyczących nabycia udziałów w nieruchomościach gruntowych położonych w gminie Żukowo",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23473"
+  },
+  {
+   "id": "bossa-pap-439442",
+   "date": "2026-11-05",
+   "time": "14:34",
+   "ts": "2026-11-05T14:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Narodowy Bank Czeski podniósł główną stopę proc. o 25 pb. do 4 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439442"
+  },
+  {
+   "id": "bossa-pap-439441",
+   "date": "2026-11-05",
+   "time": "14:33",
+   "ts": "2026-11-05T14:33:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Futures w USA głównie zyskują; wyprzedaż spółek IT",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439441"
+  },
+  {
+   "id": "bossa-espi-23472",
+   "date": "2026-11-05",
+   "time": "14:32",
+   "ts": "2026-11-05T14:32:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Bowim",
+   "title": "Wstępne dane o przychodach netto ze sprzedaży oraz o wynikach finansowych Grupy Kapitałowej Emitenta za III kwartały 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23472"
+  },
+  {
+   "id": "bossa-pap-439439",
+   "date": "2026-11-05",
+   "time": "14:30",
+   "ts": "2026-11-05T14:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Premier Litwy poinformował Orlen o planach wprowadzenia podatku od nadzwyczajnych zysków",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439439"
+  },
+  {
+   "id": "strefa-3e2e34cc540c",
+   "date": "2026-11-05",
+   "time": "14:29",
+   "ts": "2026-11-05T14:29:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "BNP Paribas BP ocenia, że wzrost w kredytach dla MŚP jest dobrym prognostykiem na przyszłość",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/bnp-paribas-bp-ocenia-ze-wzrost-w-kredytach-dla-msp-jest-dobrym-prognostykiem"
+  },
+  {
+   "id": "strefa-15c4be8e38b1",
+   "date": "2026-11-05",
+   "time": "14:29",
+   "ts": "2026-11-05T14:29:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Futures w USA głównie zyskują; wyprzedaż spółek IT",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/dzien-na-rynkach-futures-w-usa-glownie-zyskuja-wyprzedaz-spolek-it"
+  },
+  {
+   "id": "bossa-pap-439438",
+   "date": "2026-11-05",
+   "time": "14:28",
+   "ts": "2026-11-05T14:28:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Adatex chce utworzyć program emisji obligacji o wartości do 70 mln zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439438"
+  },
+  {
+   "id": "bossa-pap-439436",
+   "date": "2026-11-05",
+   "time": "14:28",
+   "ts": "2026-11-05T14:28:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "BNP Paribas BP ocenia, że wzrost w kredytach dla MŚP jest dobrym prognostykiem na przyszłość",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439436"
+  },
+  {
+   "id": "bossa-pap-439437",
+   "date": "2026-11-05",
+   "time": "14:27",
+   "ts": "2026-11-05T14:27:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "OKI pomogą przesuwać oszczędności z depozytów na rynek kapitałowy - PKO BP (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439437"
+  },
   {
    "id": "bossa-espi-23471",
    "date": "2026-11-05",
@@ -157,6 +287,17 @@
    "title": "WANCI-E_30.04.18",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23462"
+  },
+  {
+   "id": "strefa-ef0c3e0b78d0",
+   "date": "2026-11-05",
+   "time": "13:41",
+   "ts": "2026-11-05T13:41:44+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Adatex chce utworzyć program emisji obligacji o wartości do 70 mln zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/adatex-chce-utworzyc-program-emisji-obligacji-o-wartosci-do-70-mln-zl"
   },
   {
    "id": "bossa-espi-23461",
