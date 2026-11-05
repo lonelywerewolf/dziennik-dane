@@ -1,7 +1,7 @@
 {
  "date": "2026-11-05",
  "counts": {
-  "podsumowania": 11,
+  "podsumowania": 12,
   "wyniki": 17,
   "rekomendacje": 2,
   "korporacyjne": 47,
@@ -15,10 +15,19 @@
   "pozostale": 39
  },
  "duplicatesRemoved": 103,
- "total": 268,
+ "total": 269,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "16:31",
+    "kind": "pap",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: WIG20 zwyżkuje m. in. dzięki LPP, Orlenowi i bankom; KGHM powrócił do spadków",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439489",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:29",
     "kind": "news",
