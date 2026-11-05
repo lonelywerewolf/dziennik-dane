@@ -45,10 +45,11 @@ jobs:
           if [ "$D" -ge 2 ] && [ "$D" -le 6 ] && [ "$H" -ge 4 ] && [ "$H" -lt 6 ]; then WAIT=600; fi   # świeże dane przed raportem zagranicznym 5:17
           # Łańcuch ZAWSZE planuje następny przebieg (cron GitHuba bywa nieregularny – 03.11 jeden spóźniony
           # przebieg z harmonogramu zatrzymał łańcuch na 5 h). Duplikaty: po odczekaniu sprawdzamy, czy inny
-          # przebieg już czeka lub trwa – wtedy nie dokładamy kolejnego.
+          # przebieg NOWSZY od tego już czeka lub trwa – wtedy nie dokładamy kolejnego. Starsze przebiegi się nie liczą:
+          # 04.11 poprzedni przebieg miał jeszcze status „w toku” (GitHub aktualizuje go z opóźnieniem), przez co łańcuch stanął na 4 h.
           sleep $WAIT
-          BUSY=$(gh api "repos/${{ github.repository }}/actions/workflows/collect.yml/runs?per_page=10" --jq "[.workflow_runs[] | select((.status==\"queued\" or .status==\"in_progress\" or .status==\"pending\" or .status==\"waiting\") and .id != ${{ github.run_id }})] | length")
+          BUSY=$(gh api "repos/${{ github.repository }}/actions/workflows/collect.yml/runs?per_page=10" --jq "[.workflow_runs[] | select((.status==\"queued\" or .status==\"in_progress\" or .status==\"pending\" or .status==\"waiting\") and .id > ${{ github.run_id }})] | length")
           if [ "$BUSY" -gt 0 ]; then echo "inny przebieg już czeka/trwa – nie dokładam"; exit 0; fi
-          gh workflow run collect.yml --ref main -R ${{ github.repository }}
+          for i in 1 2 3 4 5; do gh workflow run collect.yml --ref main -R ${{ github.repository }} && break; echo "próba $i nieudana"; sleep 30; done
           echo "zaplanowano kolejny przebieg"
 
