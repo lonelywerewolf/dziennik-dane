@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "0124bb319b70",
+   "ticker": "AVGO",
+   "time": "2026-11-05T17:52+01:00",
+   "title": "Stock Indexes Pressured as Chipmakers and AI Stocks Plunge",
+   "url": "https://www.nasdaq.com/articles/stock-indexes-pressured-chipmakers-and-ai-stocks-plunge",
+   "src": "nasdaq",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is down -1.70% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.76%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -3.60%.  December E-mini S&P futures (ESZ26 ) are down -1.76%, and December E-mini Nasdaq futures..."
+  },
+  {
    "id": "687930e99a63",
    "ticker": "NVDA",
    "time": "2026-11-05T17:13+01:00",
@@ -1468,5 +1477,5 @@
    "summary": "Key PointsASML is one of the most important companies in the global semiconductor ecosystem, but its stock price performance has left a lot to be desired over the past three years."
   }
  ],
- "updatedAt": "2026-11-05T18:00:17+01:00"
+ "updatedAt": "2026-11-05T18:12:47+01:00"
 }

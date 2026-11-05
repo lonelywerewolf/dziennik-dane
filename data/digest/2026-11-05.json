@@ -2,20 +2,20 @@
  "date": "2026-11-05",
  "counts": {
   "podsumowania": 17,
-  "wyniki": 26,
+  "wyniki": 27,
   "rekomendacje": 2,
-  "korporacyjne": 49,
+  "korporacyjne": 52,
   "makro_pl": 16,
   "swiat_rynki": 15,
   "energetyka_surowce": 9,
   "nieruchomosci": 0,
-  "fundusze_drobne": 10,
+  "fundusze_drobne": 11,
   "twoje_spolki": 6,
   "obserwowane": 0,
-  "pozostale": 46
+  "pozostale": 49
  },
- "duplicatesRemoved": 122,
- "total": 318,
+ "duplicatesRemoved": 128,
+ "total": 332,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -179,13 +179,24 @@
   ],
   "wyniki": [
    {
-    "time": "17:54",
-    "kind": "pap",
+    "time": "18:02",
+    "kind": "news",
     "ticker": null,
     "title": "Grupa Atende szacuje zysk EBITDA w III kw. na 1,6 mln zł",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439524",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/grupa-atende-szacuje-zysk-ebitda-w-iii-kw-na-16-mln-zl",
+    "src": "strefainwestorow",
     "flags": []
+   },
+   {
+    "time": "17:48",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wyniki Dino Polska w III kw. 2026 roku vs. konsensus PAP (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/wyniki-dino-polska-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
    },
    {
     "time": "17:47",
@@ -463,6 +474,39 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "18:08",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MILITARY GROUP SA (15/2026) Podpisanie przez emitenta z firmą audytorską umowy o badanie sprawozdań finansowych lub skonsolidowanych sprawozdań finansowych emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439533",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "18:07",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Sprzedaż gazu w grupie Orlen w czwartym kwartale może wzrosnąć - prezes",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439532",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "18:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "Orlen liczy na porozumienie z partnerami przy SMR w w ciągu miesiąca - prezes",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/orlen-liczy-na-porozumienie-z-partnerami-przy-smr-w-w-ciagu-miesiaca-prezes",
+    "src": "strefainwestorow",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "17:27",
     "kind": "espi",
@@ -1362,6 +1406,15 @@
   "nieruchomosci": [],
   "fundusze_drobne": [
    {
+    "time": "18:05",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OFE POCZTYLION wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439530",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "17:48",
     "kind": "news",
     "ticker": null,
@@ -1512,6 +1565,33 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "18:10",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GPW: w sprawie szczególnego oznaczania instrumentów finansowych spółki PREFA GROUP S.A. notowanych na rynku NewConnect",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439534",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "18:05",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Dino Polska miało w III kw. 483 mln zł zysku netto j.d. wobec konsensusu 484,5 mln zł zysku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439529",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "18:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zamknięcia na giełdach w Europie (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/zamkniecia-na-gieldach-w-europie-tabela",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:33",
     "kind": "pap",
