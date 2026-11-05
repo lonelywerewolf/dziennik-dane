@@ -1,7 +1,19 @@
 {
  "date": "2026-11-05",
- "count": 119,
+ "count": 120,
  "items": [
+  {
+   "id": "bossa-espi-23436",
+   "date": "2026-11-05",
+   "time": "11:17",
+   "ts": "2026-11-05T11:17:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MOL",
+   "title": "MOL received OFAC license to execute preparatory transactions in relation to NIS acquisition process",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23436"
+  },
   {
    "id": "bossa-pap-439374",
    "date": "2026-11-05",

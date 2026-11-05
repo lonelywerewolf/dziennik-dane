@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 5,
   "obserwowane": 0,
-  "pozostale": 19
+  "pozostale": 20
  },
  "duplicatesRemoved": 44,
- "total": 119,
+ "total": 120,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -577,6 +577,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:17",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MOL: MOL received OFAC license to execute preparatory transactions in relation to NIS acquisition process",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23436",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:09",
     "kind": "pap",
