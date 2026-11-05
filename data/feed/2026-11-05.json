@@ -1,7 +1,31 @@
 {
  "date": "2026-11-05",
- "count": 373,
+ "count": 375,
  "items": [
+  {
+   "id": "bossa-pap-439557",
+   "date": "2026-11-05",
+   "time": "19:26",
+   "ts": "2026-11-05T19:26:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Artifex Mundi szacuje zysk netto w III kw. '26 na 3 mln zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439557"
+  },
+  {
+   "id": "bossa-espi-23510",
+   "date": "2026-11-05",
+   "time": "19:25",
+   "ts": "2026-11-05T19:25:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KERNEL HOLDING S.A.",
+   "title": "RESIGNATION OF DARIA ANNA DANILCZUK MASRI FROM THE BOARD OF DIRECTORS OF KERNEL HOLDING S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23510"
+  },
   {
    "id": "bossa-espi-23509",
    "date": "2026-11-05",

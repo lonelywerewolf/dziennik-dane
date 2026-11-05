@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "52b411226243",
+   "ticker": "ASML",
+   "time": "2026-11-05T19:09+01:00",
+   "title": "Stock Indexes Plummet on Mass Exodus from Chipmakers and AI Stocks",
+   "url": "https://www.nasdaq.com/articles/stock-indexes-plummet-mass-exodus-chipmakers-and-ai-stocks",
+   "src": "nasdaq",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is down -3.46% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -2.38%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -5.82%.  December E-mini S&P futures (ESZ26 ) are down -3.09%, and December E-mini Nasdaq futures..."
+  },
+  {
    "id": "0800a820d15e",
    "ticker": "NVDA",
    "time": "2026-11-05T18:57+01:00",
@@ -1540,5 +1549,5 @@
    "summary": "Key PointsASML is one of the most important companies in the global semiconductor ecosystem, but its stock price performance has left a lot to be desired over the past three years."
   }
  ],
- "updatedAt": "2026-11-05T19:17:46+01:00"
+ "updatedAt": "2026-11-05T19:29:55+01:00"
 }

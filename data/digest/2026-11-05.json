@@ -2,7 +2,7 @@
  "date": "2026-11-05",
  "counts": {
   "podsumowania": 18,
-  "wyniki": 29,
+  "wyniki": 30,
   "rekomendacje": 2,
   "korporacyjne": 55,
   "makro_pl": 17,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 11,
   "twoje_spolki": 6,
   "obserwowane": 0,
-  "pozostale": 50
+  "pozostale": 51
  },
  "duplicatesRemoved": 158,
- "total": 373,
+ "total": 375,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -187,6 +187,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "19:26",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Artifex Mundi szacuje zysk netto w III kw. '26 na 3 mln zł",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439557",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "19:14",
     "kind": "espi",
@@ -1661,6 +1670,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "19:25",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KERNEL HOLDING S.A.: RESIGNATION OF DARIA ANNA DANILCZUK MASRI FROM THE BOARD OF DIRECTORS OF KERNEL HOLDING S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23510",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "19:03",
     "kind": "espi",
