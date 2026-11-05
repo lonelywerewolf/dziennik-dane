@@ -5,17 +5,17 @@
   "wyniki": 14,
   "rekomendacje": 2,
   "korporacyjne": 10,
-  "makro_pl": 5,
-  "swiat_rynki": 2,
-  "energetyka_surowce": 3,
+  "makro_pl": 6,
+  "swiat_rynki": 3,
+  "energetyka_surowce": 4,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 4,
   "obserwowane": 0,
-  "pozostale": 11
+  "pozostale": 13
  },
  "duplicatesRemoved": 39,
- "total": 99,
+ "total": 104,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -370,6 +370,15 @@
   ],
   "makro_pl": [
    {
+    "time": "09:59",
+    "kind": "pap",
+    "ticker": null,
+    "title": "RPP może wstrzymywać podwyżki stóp czekając na decyzje regulacyjne - BOŚ (opinia)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439362",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "09:47",
     "kind": "pap",
     "ticker": null,
@@ -419,6 +428,17 @@
   ],
   "swiat_rynki": [
    {
+    "time": "10:02",
+    "kind": "espi",
+    "ticker": null,
+    "title": "DB ENERGY S.A.: Korekta skonsolidowanego raportu rocznego 2025/2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23433",
+    "src": "bossa",
+    "flags": [
+     "prognoza"
+    ]
+   },
+   {
     "time": "08:37",
     "kind": "pap",
     "ticker": null,
@@ -438,6 +458,15 @@
    }
   ],
   "energetyka_surowce": [
+   {
+    "time": "10:08",
+    "kind": "espi",
+    "ticker": null,
+    "title": "DB ENERGY S.A.: SRR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23434",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:24",
     "kind": "news",
@@ -510,6 +539,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "10:07",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Bank centralny Norwegii utrzymał główną stopę proc. bez zmian",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439364",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "09:37",
+    "kind": "news",
+    "ticker": null,
+    "title": "Stohid Technology wchodzi na rynek odrzutowych dronów dalekiego zasięgu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/stohid-technology-wchodzi-na-rynek-odrzutowych-dronow-dalekiego-zasiegu",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:28",
     "kind": "news",

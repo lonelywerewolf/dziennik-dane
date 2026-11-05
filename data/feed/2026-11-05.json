@@ -1,7 +1,55 @@
 {
  "date": "2026-11-05",
- "count": 99,
+ "count": 104,
  "items": [
+  {
+   "id": "bossa-espi-23434",
+   "date": "2026-11-05",
+   "time": "10:08",
+   "ts": "2026-11-05T10:08:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "DB ENERGY S.A.",
+   "title": "SRR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23434"
+  },
+  {
+   "id": "bossa-pap-439364",
+   "date": "2026-11-05",
+   "time": "10:07",
+   "ts": "2026-11-05T10:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Bank centralny Norwegii utrzymał główną stopę proc. bez zmian",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439364"
+  },
+  {
+   "id": "bossa-espi-23433",
+   "date": "2026-11-05",
+   "time": "10:02",
+   "ts": "2026-11-05T10:02:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "DB ENERGY S.A.",
+   "title": "Korekta skonsolidowanego raportu rocznego 2025/2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23433"
+  },
+  {
+   "id": "bossa-pap-439362",
+   "date": "2026-11-05",
+   "time": "09:59",
+   "ts": "2026-11-05T09:59:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "RPP może wstrzymywać podwyżki stóp czekając na decyzje regulacyjne - BOŚ (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439362"
+  },
   {
    "id": "bossa-pap-439361",
    "date": "2026-11-05",
@@ -13,6 +61,17 @@
    "title": "Głosowanie Senatu ws. odwołania Litwiniuka i Koteckiego z RPP po ich rezygnacji w piątek 6 XI",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439361"
+  },
+  {
+   "id": "strefa-73e985448321",
+   "date": "2026-11-05",
+   "time": "09:37",
+   "ts": "2026-11-05T09:37:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Stohid Technology wchodzi na rynek odrzutowych dronów dalekiego zasięgu",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/stohid-technology-wchodzi-na-rynek-odrzutowych-dronow-dalekiego-zasiegu"
   },
   {
    "id": "bossa-pap-439360",
