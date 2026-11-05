@@ -2,7 +2,7 @@
  "date": "2026-11-05",
  "counts": {
   "podsumowania": 0,
-  "wyniki": 0,
+  "wyniki": 1,
   "rekomendacje": 0,
   "korporacyjne": 1,
   "makro_pl": 0,
@@ -15,11 +15,23 @@
   "pozostale": 2
  },
  "duplicatesRemoved": 2,
- "total": 5,
+ "total": 6,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [],
-  "wyniki": [],
+  "wyniki": [
+   {
+    "time": "05:52",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wyniki PKO BP w III kw. 2026 roku vs. konsensus PAP (tabela)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439301",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   }
+  ],
   "rekomendacje": [],
   "korporacyjne": [
    {

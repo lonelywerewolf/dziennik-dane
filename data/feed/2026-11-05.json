@@ -1,7 +1,19 @@
 {
  "date": "2026-11-05",
- "count": 5,
+ "count": 6,
  "items": [
+  {
+   "id": "bossa-pap-439301",
+   "date": "2026-11-05",
+   "time": "05:52",
+   "ts": "2026-11-05T05:52:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wyniki PKO BP w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439301"
+  },
   {
    "id": "bossa-espi-23419",
    "date": "2026-11-05",
