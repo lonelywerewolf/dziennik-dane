@@ -1,7 +1,19 @@
 {
  "date": "2026-11-05",
- "count": 98,
+ "count": 99,
  "items": [
+  {
+   "id": "bossa-pap-439361",
+   "date": "2026-11-05",
+   "time": "09:47",
+   "ts": "2026-11-05T09:47:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Głosowanie Senatu ws. odwołania Litwiniuka i Koteckiego z RPP po ich rezygnacji w piątek 6 XI",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439361"
+  },
   {
    "id": "bossa-pap-439360",
    "date": "2026-11-05",
