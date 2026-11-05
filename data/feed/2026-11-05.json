@@ -1,7 +1,31 @@
 {
  "date": "2026-11-05",
- "count": 104,
+ "count": 106,
  "items": [
+  {
+   "id": "bossa-pap-439367",
+   "date": "2026-11-05",
+   "time": "10:15",
+   "ts": "2026-11-05T10:15:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Bloki węglowe mogą jeszcze przez lata stabilizować polski system - szef MAP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439367"
+  },
+  {
+   "id": "bossa-espi-23435",
+   "date": "2026-11-05",
+   "time": "10:13",
+   "ts": "2026-11-05T10:13:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MICHAEL/STRÖM OBLIGACJI KORPORACYJNYCH FIZ",
+   "title": "FIZ-Q-E_01.07.21",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23435"
+  },
   {
    "id": "bossa-espi-23434",
    "date": "2026-11-05",

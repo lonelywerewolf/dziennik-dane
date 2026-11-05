@@ -5,9 +5,9 @@
   "wyniki": 14,
   "rekomendacje": 2,
   "korporacyjne": 10,
-  "makro_pl": 6,
+  "makro_pl": 7,
   "swiat_rynki": 3,
-  "energetyka_surowce": 4,
+  "energetyka_surowce": 5,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 4,
@@ -15,7 +15,7 @@
   "pozostale": 13
  },
  "duplicatesRemoved": 39,
- "total": 104,
+ "total": 106,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -370,6 +370,15 @@
   ],
   "makro_pl": [
    {
+    "time": "10:13",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MICHAEL/STRÖM OBLIGACJI KORPORACYJNYCH FIZ: FIZ-Q-E_01.07.21",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23435",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "09:59",
     "kind": "pap",
     "ticker": null,
@@ -458,6 +467,15 @@
    }
   ],
   "energetyka_surowce": [
+   {
+    "time": "10:15",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Bloki węglowe mogą jeszcze przez lata stabilizować polski system - szef MAP",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439367",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:08",
     "kind": "espi",
