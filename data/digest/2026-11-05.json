@@ -1,24 +1,35 @@
 {
  "date": "2026-11-05",
  "counts": {
-  "podsumowania": 16,
-  "wyniki": 24,
+  "podsumowania": 17,
+  "wyniki": 25,
   "rekomendacje": 2,
   "korporacyjne": 49,
   "makro_pl": 16,
-  "swiat_rynki": 14,
-  "energetyka_surowce": 8,
+  "swiat_rynki": 15,
+  "energetyka_surowce": 9,
   "nieruchomosci": 0,
-  "fundusze_drobne": 9,
+  "fundusze_drobne": 10,
   "twoje_spolki": 6,
   "obserwowane": 0,
   "pozostale": 46
  },
- "duplicatesRemoved": 117,
- "total": 307,
+ "duplicatesRemoved": 121,
+ "total": 316,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "17:39",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Notowania ciągłe - podsumowanie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439517",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "17:28",
     "kind": "news",
@@ -167,6 +178,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "17:47",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ATENDE S.A.: : Szacunkowe wybrane wyniki finansowe Atende S.A. i Grupy Atende za 3 kwartały 2026 r. oraz III kwartał 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23502",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "17:25",
     "kind": "pap",
@@ -1106,6 +1128,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "17:41",
+    "kind": "pap",
+    "ticker": null,
+    "title": "S&P potwierdził rating Synthosu na poziomie \"BB\", perspektywa stabilna",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439518",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "16:48",
     "kind": "pap",
     "ticker": null,
@@ -1238,6 +1269,15 @@
   ],
   "energetyka_surowce": [
    {
+    "time": "17:35",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wydatki inwestycyjne grupy Orlen w 2026 roku mogą być niższe niż zakładane 36 mld zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/wydatki-inwestycyjne-grupy-orlen-w-2026-roku-moga-byc-nizsze-niz-zakladane-36",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "14:30",
     "kind": "pap",
     "ticker": null,
@@ -1312,6 +1352,15 @@
   ],
   "nieruchomosci": [],
   "fundusze_drobne": [
+   {
+    "time": "17:48",
+    "kind": "news",
+    "ticker": null,
+    "title": "OFE wartości jednostek rozrachunkowych z 2026.11.04",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/ofe-wartosci-jednostek-rozrachunkowych-z-20261104",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "16:49",
     "kind": "pap",
