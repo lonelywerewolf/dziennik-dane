@@ -4,18 +4,18 @@
   "podsumowania": 10,
   "wyniki": 15,
   "rekomendacje": 2,
-  "korporacyjne": 11,
-  "makro_pl": 8,
-  "swiat_rynki": 3,
+  "korporacyjne": 13,
+  "makro_pl": 9,
+  "swiat_rynki": 4,
   "energetyka_surowce": 6,
   "nieruchomosci": 0,
-  "fundusze_drobne": 1,
+  "fundusze_drobne": 2,
   "twoje_spolki": 5,
   "obserwowane": 0,
-  "pozostale": 22
+  "pozostale": 23
  },
- "duplicatesRemoved": 47,
- "total": 130,
+ "duplicatesRemoved": 50,
+ "total": 139,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -284,6 +284,28 @@
   ],
   "korporacyjne": [
    {
+    "time": "11:56",
+    "kind": "espi",
+    "ticker": null,
+    "title": "CPD S.A.: Wykaz akcjonariuszy posiadających co najmniej 5 % liczby głosów na Zwyczajnym Walnym Zgromadzeniu CPD S.A. odbytym w dniu 5 listopada 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23439",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
+   {
+    "time": "11:53",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Głosowanie Sejmu ws. TS dla prezes NBP ma zostać przesunięte na początek stycznia - media",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439387",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
     "time": "11:26",
     "kind": "news",
     "ticker": null,
@@ -399,6 +421,26 @@
   ],
   "makro_pl": [
    {
+    "time": "11:50",
+    "kind": "news",
+    "ticker": null,
+    "title": "Tabela kursów średnich NBP nr 216/A/NBP/2026",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/tabela-kursow-srednich-nbp-nr-216anbp2026",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "11:34",
+    "kind": "news",
+    "ticker": null,
+    "title": "Głosowanie Senatu ws. odwołania Litwiniuka i Koteckiego z RPP po ich rezygnacji w piątek 6 XI",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261105/glosowanie-senatu-ws-odwolania-litwiniuka-i-koteckiego-z-rpp-po-ich-rezygnacji",
+    "src": "strefainwestorow",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
     "time": "11:29",
     "kind": "pap",
     "ticker": null,
@@ -424,17 +466,6 @@
     "url": "https://bossa.pl/analizy/komunikaty#message-439362",
     "src": "bossa",
     "flags": []
-   },
-   {
-    "time": "09:47",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Głosowanie Senatu ws. odwołania Litwiniuka i Koteckiego z RPP po ich rezygnacji w piątek 6 XI",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439361",
-    "src": "bossa",
-    "flags": [
-     "zarząd"
-    ]
    },
    {
     "time": "08:50",
@@ -474,6 +505,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "11:48",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BETA ETF NASDAQ-100 3 x LEVERAGED PORTFELOWY FIZ: Raport bieżący nr 224 / 2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23438",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:02",
     "kind": "espi",
@@ -563,6 +603,15 @@
   "nieruchomosci": [],
   "fundusze_drobne": [
    {
+    "time": "11:52",
+    "kind": "pap",
+    "ticker": null,
+    "title": "UNIQA OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439386",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "11:39",
     "kind": "pap",
     "ticker": null,
@@ -623,6 +672,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:47",
+    "kind": "espi",
+    "ticker": null,
+    "title": "VOLARIA AI S.A.: Podpisanie listu intencyjnego z MM Cars Premium sp. z o.o.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23437",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:38",
     "kind": "pap",

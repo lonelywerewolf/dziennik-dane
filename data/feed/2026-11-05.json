@@ -1,7 +1,101 @@
 {
  "date": "2026-11-05",
- "count": 130,
+ "count": 139,
  "items": [
+  {
+   "id": "bossa-espi-23439",
+   "date": "2026-11-05",
+   "time": "11:56",
+   "ts": "2026-11-05T11:56:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "CPD S.A.",
+   "title": "Wykaz akcjonariuszy posiadających co najmniej 5 % liczby głosów na Zwyczajnym Walnym Zgromadzeniu CPD S.A. odbytym w dniu 5 listopada 2026 roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23439"
+  },
+  {
+   "id": "bossa-pap-439387",
+   "date": "2026-11-05",
+   "time": "11:53",
+   "ts": "2026-11-05T11:53:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Głosowanie Sejmu ws. TS dla prezes NBP ma zostać przesunięte na początek stycznia - media",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439387"
+  },
+  {
+   "id": "bossa-pap-439386",
+   "date": "2026-11-05",
+   "time": "11:52",
+   "ts": "2026-11-05T11:52:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "UNIQA OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439386"
+  },
+  {
+   "id": "strefa-94a4d7f4042b",
+   "date": "2026-11-05",
+   "time": "11:50",
+   "ts": "2026-11-05T11:50:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Tabela kursów średnich NBP nr 216/A/NBP/2026",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/tabela-kursow-srednich-nbp-nr-216anbp2026"
+  },
+  {
+   "id": "strefa-188d18050c6a",
+   "date": "2026-11-05",
+   "time": "11:50",
+   "ts": "2026-11-05T11:50:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "PKO BP chce utrzymać dwucyfrowy wzrost kredytów; wdroży modelową umowę kredytu hipotecznego (wywiad)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/pko-bp-chce-utrzymac-dwucyfrowy-wzrost-kredytow-wdrozy-modelowa-umowe-kredytu-0"
+  },
+  {
+   "id": "bossa-pap-439385",
+   "date": "2026-11-05",
+   "time": "11:49",
+   "ts": "2026-11-05T11:49:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Tabela kursów średnich NBP nr 216/A/NBP/2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439385"
+  },
+  {
+   "id": "bossa-espi-23438",
+   "date": "2026-11-05",
+   "time": "11:48",
+   "ts": "2026-11-05T11:48:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 3 x LEVERAGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 224 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23438"
+  },
+  {
+   "id": "bossa-espi-23437",
+   "date": "2026-11-05",
+   "time": "11:47",
+   "ts": "2026-11-05T11:47:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "VOLARIA AI S.A.",
+   "title": "Podpisanie listu intencyjnego z MM Cars Premium sp. z o.o.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23437"
+  },
   {
    "id": "bossa-pap-439382",
    "date": "2026-11-05",
@@ -37,6 +131,17 @@
    "title": "MS: Od dziś nowe stawki taksy notarialnej. Pierwsza tak szeroka zmiana od ponad 20 lat (komunikat)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439380"
+  },
+  {
+   "id": "strefa-676e34175e7d",
+   "date": "2026-11-05",
+   "time": "11:34",
+   "ts": "2026-11-05T11:34:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Głosowanie Senatu ws. odwołania Litwiniuka i Koteckiego z RPP po ich rezygnacji w piątek 6 XI",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261105/glosowanie-senatu-ws-odwolania-litwiniuka-i-koteckiego-z-rpp-po-ich-rezygnacji"
   },
   {
    "id": "bossa-pap-439379",
