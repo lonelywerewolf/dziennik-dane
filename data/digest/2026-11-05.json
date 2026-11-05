@@ -2,7 +2,7 @@
  "date": "2026-11-05",
  "counts": {
   "podsumowania": 17,
-  "wyniki": 25,
+  "wyniki": 26,
   "rekomendacje": 2,
   "korporacyjne": 49,
   "makro_pl": 16,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 46
  },
- "duplicatesRemoved": 121,
- "total": 316,
+ "duplicatesRemoved": 122,
+ "total": 318,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -178,6 +178,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "17:54",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Grupa Atende szacuje zysk EBITDA w III kw. na 1,6 mln zł",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439524",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:47",
     "kind": "espi",
