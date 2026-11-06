@@ -2,7 +2,7 @@
  "date": "2026-11-06",
  "counts": {
   "podsumowania": 18,
-  "wyniki": 20,
+  "wyniki": 21,
   "rekomendacje": 1,
   "korporacyjne": 44,
   "makro_pl": 38,
@@ -15,7 +15,7 @@
   "pozostale": 59
  },
  "duplicatesRemoved": 132,
- "total": 346,
+ "total": 347,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -185,6 +185,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "19:43",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GREEN LANES SA (33/2026) Raport kwartalny za II kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439825",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:10",
     "kind": "pap",
