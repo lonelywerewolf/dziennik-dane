@@ -5,17 +5,17 @@
   "wyniki": 14,
   "rekomendacje": 1,
   "korporacyjne": 23,
-  "makro_pl": 29,
-  "swiat_rynki": 5,
+  "makro_pl": 30,
+  "swiat_rynki": 7,
   "energetyka_surowce": 4,
   "nieruchomosci": 1,
   "fundusze_drobne": 2,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 38
+  "pozostale": 39
  },
- "duplicatesRemoved": 83,
- "total": 211,
+ "duplicatesRemoved": 88,
+ "total": 220,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -512,11 +512,11 @@
   ],
   "makro_pl": [
    {
-    "time": "13:53",
+    "time": "14:08",
     "kind": "pap",
     "ticker": null,
-    "title": "Efekty II rundy w Polsce na razie niewielkie albo prawie niewidoczne - DABE NBP",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439722",
+    "title": "W październiku RPP oceniała, że na początku '27 r. możliwy jest istotny wzrost inflacji - minutes",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439730",
     "src": "bossa",
     "flags": []
    },
@@ -527,6 +527,15 @@
     "title": "Senat przyjął bez poprawek ustawę wprowadzającą nowy próg podatkowy i nową stawkę w PIT",
     "url": "https://bossa.pl/analizy/komunikaty#message-439721",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:47",
+    "kind": "news",
+    "ticker": null,
+    "title": "Efekty II rundy w Polsce na razie niewielkie albo prawie niewidoczne - DABE NBP",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/efekty-ii-rundy-w-polsce-na-razie-niewielkie-albo-prawie-niewidoczne-dabe-nbp",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -775,6 +784,24 @@
   ],
   "swiat_rynki": [
    {
+    "time": "14:02",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BUDIMEX: Budowa Zakładu Odzysku Energii (ZOE) w Łodzi - wybór oferty konsorcjum",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23580",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:54",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: w sprawie dopuszczenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów strukturyzowanych wyemitowanych przez RAIFFEISEN BANK INTERNATIONAL AG",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/gpw-w-sprawie-dopuszczenia-do-obrotu-gieldowego-na-glownym-rynku-gpw",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "10:29",
     "kind": "pap",
     "ticker": null,
@@ -903,6 +930,15 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "14:00",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MEDTECH SOLUTIONS S.A.: Informacja o zapisach złożonych na akcje serii E w wykonaniu prawa poboru",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23579",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "13:56",
     "kind": "espi",
     "ticker": null,
@@ -930,12 +966,12 @@
     "flags": []
    },
    {
-    "time": "13:46",
-    "kind": "pap",
+    "time": "13:24",
+    "kind": "news",
     "ticker": null,
     "title": "Modivo chce w '27 skupić się na rozwoju szyldów off-price; CAPEX na otwarcia ma wynieść 300-350 mln zł",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439720",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/modivo-chce-w-27-skupic-sie-na-rozwoju-szyldow-price-capex-na-otwarcia-ma",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
