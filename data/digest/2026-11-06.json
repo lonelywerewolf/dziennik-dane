@@ -12,10 +12,10 @@
   "fundusze_drobne": 10,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 60
+  "pozostale": 61
  },
  "duplicatesRemoved": 132,
- "total": 348,
+ "total": 349,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1531,6 +1531,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "20:02",
+    "kind": "espi",
+    "ticker": null,
+    "title": "EKO EXPORT S.A.: PSr",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23621",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "19:52",
     "kind": "espi",
