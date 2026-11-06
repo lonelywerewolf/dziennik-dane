@@ -1,7 +1,78 @@
 {
  "date": "2026-11-06",
- "count": 172,
+ "count": 178,
  "items": [
+  {
+   "id": "bossa-espi-23567",
+   "date": "2026-11-06",
+   "time": "12:53",
+   "ts": "2026-11-06T12:53:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF S&P 500 PLN-HEDGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 224 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23567"
+  },
+  {
+   "id": "bossa-pap-439699",
+   "date": "2026-11-06",
+   "time": "12:51",
+   "ts": "2026-11-06T12:51:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Elektrotim ma umowy z PGE Energia Odnawialna za łącznie 331,6 mln zł netto",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439699"
+  },
+  {
+   "id": "bossa-espi-23566",
+   "date": "2026-11-06",
+   "time": "12:48",
+   "ts": "2026-11-06T12:48:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "EQUNICO SE",
+   "title": "Informacja o szacunkowych wynikach finansowych za III kwartał 2026 roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23566"
+  },
+  {
+   "id": "bossa-pap-439696",
+   "date": "2026-11-06",
+   "time": "12:46",
+   "ts": "2026-11-06T12:46:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PARTNER-NIERUCHOMOŚCI SA (28/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439696"
+  },
+  {
+   "id": "bossa-espi-23565",
+   "date": "2026-11-06",
+   "time": "12:46",
+   "ts": "2026-11-06T12:46:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF WIG20TR PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 225 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23565"
+  },
+  {
+   "id": "strefa-1795d20f3337",
+   "date": "2026-11-06",
+   "time": "12:41",
+   "ts": "2026-11-06T12:41:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Elektrotim ma umowy z PGE Energia Odnawialna za łącznie 331,6 mln zł netto",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/elektrotim-ma-umowy-z-pge-energia-odnawialna-za-lacznie-3316-mln-zl-netto"
+  },
   {
    "id": "bossa-pap-439694",
    "date": "2026-11-06",

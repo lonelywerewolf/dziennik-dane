@@ -2,9 +2,9 @@
  "date": "2026-11-06",
  "counts": {
   "podsumowania": 10,
-  "wyniki": 12,
+  "wyniki": 14,
   "rekomendacje": 1,
-  "korporacyjne": 17,
+  "korporacyjne": 18,
   "makro_pl": 25,
   "swiat_rynki": 5,
   "energetyka_surowce": 3,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 28
  },
- "duplicatesRemoved": 69,
- "total": 172,
+ "duplicatesRemoved": 72,
+ "total": 178,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -111,6 +111,26 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "12:48",
+    "kind": "espi",
+    "ticker": null,
+    "title": "EQUNICO SE: Informacja o szacunkowych wynikach finansowych za III kwartał 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23566",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "12:46",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PARTNER-NIERUCHOMOŚCI SA (28/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439696",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:08",
     "kind": "pap",
@@ -242,6 +262,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "12:41",
+    "kind": "news",
+    "ticker": null,
+    "title": "Elektrotim ma umowy z PGE Energia Odnawialna za łącznie 331,6 mln zł netto",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/elektrotim-ma-umowy-z-pge-energia-odnawialna-za-lacznie-3316-mln-zl-netto",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "12:35",
     "kind": "espi",
