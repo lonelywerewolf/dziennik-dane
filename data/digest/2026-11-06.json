@@ -5,17 +5,17 @@
   "wyniki": 6,
   "rekomendacje": 0,
   "korporacyjne": 6,
-  "makro_pl": 8,
-  "swiat_rynki": 3,
+  "makro_pl": 15,
+  "swiat_rynki": 4,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 7
+  "pozostale": 8
  },
- "duplicatesRemoved": 15,
- "total": 52,
+ "duplicatesRemoved": 22,
+ "total": 68,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -205,6 +205,69 @@
   ],
   "makro_pl": [
    {
+    "time": "09:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Projekcja NBP zakłada dynamikę płac w 2027 r. 6,3 proc., a w 2028 r. 6,4 proc.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/projekcja-nbp-zaklada-dynamike-plac-w-2027-r-63-proc-w-2028-r-64-proc",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "09:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Bilans czynników niepewności w projekcji NBP w górę dla CPI w '28, symetryczny ogółem dla PKB",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/bilans-czynnikow-niepewnosci-w-projekcji-nbp-w-gore-dla-cpi-w-28-symetryczny",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "09:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "W latach 2027-28, wraz ze spadkiem wykorzystania funduszy UE, dynamika inwestycji obniży się - projekcja NBP",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/w-latach-2027-28-wraz-ze-spadkiem-wykorzystania-funduszy-ue-dynamika-inwestycji",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "09:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Projekcja NBP zakłada inflację bazową średnio w 2027 r. 3,3 proc., a w 2028 r. 2,8 proc.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/projekcja-nbp-zaklada-inflacje-bazowa-srednio-w-2027-r-33-proc-w-2028-r-28-proc",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "09:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Luka popytowa w latach 2027-28, przy osłabieniu dynamiki PKB, obniży się poniżej zera - projekcja NBP",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/luka-popytowa-w-latach-2027-28-przy-oslabieniu-dynamiki-pkb-obnizy-sie-ponizej",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "09:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Projekcja NBP zakłada wzrost PKB w 2027 r. na poziomie 2,8 proc. i w 2028 r. na poziomie 2,8 proc.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/projekcja-nbp-zaklada-wzrost-pkb-w-2027-r-na-poziomie-28-proc-i-w-2028-r-na",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "08:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "NBP opublikował listopadową projekcję inflacji i PKB (dokumentacja)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/nbp-opublikowal-listopadowa-projekcje-inflacji-i-pkb-dokumentacja",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "08:39",
     "kind": "news",
     "ticker": null,
@@ -279,6 +342,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "08:41",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny ropy w USA zwyżkują wobec niepewności co do wojny Izraela i USA z Iranem",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/ceny-ropy-w-usa-zwyzkuja-wobec-niepewnosci-co-do-wojny-izraela-i-usa-z-iranem",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "08:25",
     "kind": "news",
     "ticker": null,
@@ -322,6 +394,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "08:54",
+    "kind": "pap",
+    "ticker": null,
+    "title": "LUG SA (16/2026) Zmiana harmonogramu publikacji raportów okresowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439611",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:30",
     "kind": "espi",
