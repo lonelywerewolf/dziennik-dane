@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "cee9309f0591",
+   "ticker": "NVDA",
+   "time": "2026-11-06T21:19+01:00",
+   "title": "Noteworthy Friday Option Activity: NVDA, AAPL, WABC",
+   "url": "https://www.nasdaq.com/articles/noteworthy-friday-option-activity-nvda-aapl-wabc",
+   "src": "nasdaq",
+   "summary": "Among the underlying components of the Russell 3000 index, we saw noteworthy options trading volume today in NVIDIA Corp (Symbol: NVDA), where a total of 3.8 million contracts have traded so far, representing approximately 377.1 million underlying shares.  That amounts to about"
+  },
+  {
    "id": "a91f2c5e19a4",
    "ticker": "NVDA",
    "time": "2026-11-06T20:50+01:00",
@@ -28,6 +37,15 @@
    "summary": "Key PointsTSMC makes chips for clients that are competitors to each other."
   },
   {
+   "id": "c308141f5636",
+   "ticker": "NVDA",
+   "time": "2026-11-06T18:55+01:00",
+   "title": "Is ANET Worth Buying as AI Growth Meets a Rich Valuation Premium?",
+   "url": "https://www.nasdaq.com/articles/anet-worth-buying-ai-growth-meets-rich-valuation-premium",
+   "src": "nasdaq",
+   "summary": "Arista Networks' surging earnings and AI networking demand fuel growth prospects, but its 32.0X forward P/E and customer concentration raise questions for buyers."
+  },
+  {
    "id": "30368ac61de5",
    "ticker": "MRVL",
    "time": "2026-11-06T18:50+01:00",
@@ -35,6 +53,15 @@
    "url": "https://www.nasdaq.com/articles/stock-indexes-push-higher-chipmakers-roar-back",
    "src": "nasdaq",
    "summary": "The S&P 500 Index ($SPX ) (SPY ) is up +1.07% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.21%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +2.09%.  December E-mini S&P futures (ESZ26 ) are up +0.90%, and December E-mini Nasdaq futures..."
+  },
+  {
+   "id": "b38152e8d53a",
+   "ticker": "NVDA",
+   "time": "2026-11-06T18:32+01:00",
+   "title": "ANET Falls 21.2% in a Month: Is This Now a Buying Opportunity?",
+   "url": "https://www.nasdaq.com/articles/anet-falls-212-month-now-buying-opportunity",
+   "src": "nasdaq",
+   "summary": "Arista Networks has fallen 21.2% despite surging revenues and AI growth prospects. Is the dip a buying opportunity, or do valuation and execution risks loom?"
   },
   {
    "id": "dd4b6f6001cb",
@@ -2089,5 +2116,5 @@
    "summary": "Key PointsASML is one of the most important companies in the global semiconductor ecosystem, but its stock price performance has left a lot to be desired over the past three years."
   }
  ],
- "updatedAt": "2026-11-06T21:36:27+01:00"
+ "updatedAt": "2026-11-06T21:48:32+01:00"
 }
