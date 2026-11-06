@@ -4,7 +4,7 @@
   "podsumowania": 10,
   "wyniki": 14,
   "rekomendacje": 1,
-  "korporacyjne": 19,
+  "korporacyjne": 22,
   "makro_pl": 27,
   "swiat_rynki": 5,
   "energetyka_surowce": 3,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 1,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 31
+  "pozostale": 32
  },
- "duplicatesRemoved": 79,
- "total": 191,
+ "duplicatesRemoved": 80,
+ "total": 196,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -262,6 +262,37 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "13:17",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ADATEX S.A.: Zawarcie umowy wniesienia wkładu niepieniężnego (aportu) w postaci zorganizowanej części przedsiębiorstwa z podmiotem zależnym",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23572",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "13:16",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PROTEKTOR: Rejestracja połączenia spółek zależnych Emitenta oraz zmiany firmy spółki przejmującej na ABEBA GmbH",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23570",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:10",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KRAKCHEMIA S.A.: Uchwały podjęte na Nadzwyczajnym Walnym Zgromadzeniu Akcjonariuszy KRAKCHEMIA S.A. w dniu 6 listopada 2026 roku.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23569",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "13:03",
     "kind": "pap",
@@ -814,6 +845,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "13:15",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Włączenie tzw. małpek do systemu kaucyjnego obciąży małe sklepy - PIH (opinia)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439710",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:58",
     "kind": "pap",

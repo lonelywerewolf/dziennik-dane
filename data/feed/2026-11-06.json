@@ -1,7 +1,67 @@
 {
  "date": "2026-11-06",
- "count": 191,
+ "count": 196,
  "items": [
+  {
+   "id": "bossa-espi-23572",
+   "date": "2026-11-06",
+   "time": "13:17",
+   "ts": "2026-11-06T13:17:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ADATEX S.A.",
+   "title": "Zawarcie umowy wniesienia wkładu niepieniężnego (aportu) w postaci zorganizowanej części przedsiębiorstwa z podmiotem zależnym",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23572"
+  },
+  {
+   "id": "bossa-espi-23571",
+   "date": "2026-11-06",
+   "time": "13:16",
+   "ts": "2026-11-06T13:16:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 PLN-HEDGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 224 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23571"
+  },
+  {
+   "id": "bossa-espi-23570",
+   "date": "2026-11-06",
+   "time": "13:16",
+   "ts": "2026-11-06T13:16:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PROTEKTOR",
+   "title": "Rejestracja połączenia spółek zależnych Emitenta oraz zmiany firmy spółki przejmującej na ABEBA GmbH",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23570"
+  },
+  {
+   "id": "bossa-pap-439710",
+   "date": "2026-11-06",
+   "time": "13:15",
+   "ts": "2026-11-06T13:15:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Włączenie tzw. małpek do systemu kaucyjnego obciąży małe sklepy - PIH (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439710"
+  },
+  {
+   "id": "bossa-espi-23569",
+   "date": "2026-11-06",
+   "time": "13:10",
+   "ts": "2026-11-06T13:10:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KRAKCHEMIA S.A.",
+   "title": "Uchwały podjęte na Nadzwyczajnym Walnym Zgromadzeniu Akcjonariuszy KRAKCHEMIA S.A. w dniu 6 listopada 2026 roku.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23569"
+  },
   {
    "id": "strefa-b0045fd6aa9e",
    "date": "2026-11-06",
