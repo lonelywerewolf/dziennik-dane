@@ -1,7 +1,99 @@
 {
  "date": "2026-11-06",
- "count": 220,
+ "count": 229,
  "items": [
+  {
+   "id": "bossa-pap-439734",
+   "date": "2026-11-06",
+   "time": "14:22",
+   "ts": "2026-11-06T14:22:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "OVID WORKS SA (27/2026) Odwołanie lub rezygnacja osoby zarządzającej lub nadzorującej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439734"
+  },
+  {
+   "id": "strefa-608e823970fd",
+   "date": "2026-11-06",
+   "time": "14:20",
+   "ts": "2026-11-06T14:20:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "W październiku RPP oceniała, że na początku '27 r. możliwy jest istotny wzrost inflacji - minutes",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/w-pazdzierniku-rpp-oceniala-ze-na-poczatku-27-r-mozliwy-jest-istotny-wzrost"
+  },
+  {
+   "id": "strefa-561c1dab95c0",
+   "date": "2026-11-06",
+   "time": "14:20",
+   "ts": "2026-11-06T14:20:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Oficjalne aktywa rezerwowe w październiku wzrosły do 266,36 mld euro - NBP",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/oficjalne-aktywa-rezerwowe-w-pazdzierniku-wzrosly-do-26636-mld-euro-nbp-0"
+  },
+  {
+   "id": "strefa-24a6d4866535",
+   "date": "2026-11-06",
+   "time": "14:20",
+   "ts": "2026-11-06T14:20:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Oficjalne aktywa rezerwowe w październiku wzrosły do 266,36 mld euro - NBP",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/oficjalne-aktywa-rezerwowe-w-pazdzierniku-wzrosly-do-26636-mld-euro-nbp"
+  },
+  {
+   "id": "bossa-pap-439733",
+   "date": "2026-11-06",
+   "time": "14:20",
+   "ts": "2026-11-06T14:20:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Oficjalne aktywa rezerwowe w październiku wzrosły do 266,36 mld euro - NBP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439733"
+  },
+  {
+   "id": "bossa-espi-23581",
+   "date": "2026-11-06",
+   "time": "14:17",
+   "ts": "2026-11-06T14:17:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ZUE S.A.",
+   "title": "Informacja o wyborze najkorzystniejszej oferty.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23581"
+  },
+  {
+   "id": "bossa-pap-439731",
+   "date": "2026-11-06",
+   "time": "14:14",
+   "ts": "2026-11-06T14:14:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Oficjalne aktywa rezerwowe w październiku wzrosły do 266,36 mld euro - NBP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439731"
+  },
+  {
+   "id": "strefa-d76b8911d27b",
+   "date": "2026-11-06",
+   "time": "14:13",
+   "ts": "2026-11-06T14:13:24+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ryvu spodziewa się wyników z kolejnej grupy pacjentów w badaniu JASPIS-01 w poł. '27 (wywiad)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/ryvu-spodziewa-sie-wynikow-z-kolejnej-grupy-pacjentow-w-badaniu-jaspis-01-w-0"
+  },
   {
    "id": "bossa-pap-439730",
    "date": "2026-11-06",
@@ -13,6 +105,17 @@
    "title": "W październiku RPP oceniała, że na początku '27 r. możliwy jest istotny wzrost inflacji - minutes",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439730"
+  },
+  {
+   "id": "strefa-b9dfe1dce386",
+   "date": "2026-11-06",
+   "time": "14:05",
+   "ts": "2026-11-06T14:05:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "MedTech Solutions pozyskała 15,1 mln zł na rozwój robotyki ortopedycznej i dalszą ekspansję Grupy",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/medtech-solutions-pozyskala-151-mln-zl-na-rozwoj-robotyki-ortopedycznej-i"
   },
   {
    "id": "bossa-pap-439729",

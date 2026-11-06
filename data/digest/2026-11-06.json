@@ -4,18 +4,18 @@
   "podsumowania": 10,
   "wyniki": 14,
   "rekomendacje": 1,
-  "korporacyjne": 23,
-  "makro_pl": 30,
+  "korporacyjne": 24,
+  "makro_pl": 31,
   "swiat_rynki": 7,
   "energetyka_surowce": 4,
   "nieruchomosci": 1,
-  "fundusze_drobne": 2,
+  "fundusze_drobne": 3,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 39
+  "pozostale": 40
  },
- "duplicatesRemoved": 88,
- "total": 220,
+ "duplicatesRemoved": 93,
+ "total": 229,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -262,6 +262,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "14:22",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OVID WORKS SA (27/2026) Odwołanie lub rezygnacja osoby zarządzającej lub nadzorującej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439734",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "13:30",
     "kind": "espi",
@@ -512,12 +523,21 @@
   ],
   "makro_pl": [
    {
-    "time": "14:08",
-    "kind": "pap",
+    "time": "14:20",
+    "kind": "news",
     "ticker": null,
     "title": "W październiku RPP oceniała, że na początku '27 r. możliwy jest istotny wzrost inflacji - minutes",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439730",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/w-pazdzierniku-rpp-oceniala-ze-na-poczatku-27-r-mozliwy-jest-istotny-wzrost",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "14:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "Oficjalne aktywa rezerwowe w październiku wzrosły do 266,36 mld euro - NBP",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/oficjalne-aktywa-rezerwowe-w-pazdzierniku-wzrosly-do-26636-mld-euro-nbp-0",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -898,6 +918,15 @@
   ],
   "fundusze_drobne": [
    {
+    "time": "14:17",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ZUE S.A.: Informacja o wyborze najkorzystniejszej oferty.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23581",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "13:43",
     "kind": "pap",
     "ticker": null,
@@ -929,6 +958,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "14:05",
+    "kind": "news",
+    "ticker": null,
+    "title": "MedTech Solutions pozyskała 15,1 mln zł na rozwój robotyki ortopedycznej i dalszą ekspansję Grupy",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/medtech-solutions-pozyskala-151-mln-zl-na-rozwoj-robotyki-ortopedycznej-i",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "14:00",
     "kind": "espi",
