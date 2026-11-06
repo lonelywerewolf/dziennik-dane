@@ -1,10 +1,10 @@
 {
  "date": "2026-11-06",
  "counts": {
-  "podsumowania": 6,
-  "wyniki": 7,
+  "podsumowania": 8,
+  "wyniki": 8,
   "rekomendacje": 0,
-  "korporacyjne": 6,
+  "korporacyjne": 8,
   "makro_pl": 16,
   "swiat_rynki": 4,
   "energetyka_surowce": 1,
@@ -12,13 +12,31 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 9
+  "pozostale": 11
  },
- "duplicatesRemoved": 26,
- "total": 75,
+ "duplicatesRemoved": 37,
+ "total": 93,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "09:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA FX/FI: W piątek PLN pozostanie pod dominującym wpływem czynników globalnych",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/dzien-na-fxfi-w-piatek-pln-pozostanie-pod-dominujacym-wplywem-czynnikow",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "09:16",
+    "kind": "news",
+    "ticker": null,
+    "title": "WIG20 na otwarciu wyniósł 4166,27 pkt (-1,02%)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/wig20-na-otwarciu-wyniosl-416627-pkt-102",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:39",
     "kind": "news",
@@ -75,6 +93,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "09:19",
+    "kind": "pap",
+    "ticker": null,
+    "title": "SEVENET SA (6/2026) Raport roczny",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439629",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:02",
     "kind": "pap",
@@ -147,6 +174,26 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "09:20",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BETA ETF MWIG40TRlv PORTFELOWY FIZ: Informacja o transakcjach uzyskanych w trybie art. 19 ust. 3 rozporządzenia MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23535",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
+    "time": "09:17",
+    "kind": "espi",
+    "ticker": null,
+    "title": "REMAK: Wydanie wyroku w sprawie nieważności uchwały Walnego Zgromadzenia Remak – Energomontaż Spółce Akcyjnej z siedzibą w Warszawie z dnia 7 grudnia 2021 roku.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23533",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:30",
     "kind": "espi",
@@ -415,12 +462,30 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "09:16",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kurs Modivo rośnie o 5,9 proc. przy spadku WIG20 o 1,3 proc.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/kurs-modivo-rosnie-o-59-proc-przy-spadku-wig20-o-13-proc",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "09:07",
     "kind": "pap",
     "ticker": null,
     "title": "MC: Ramy strategii przeciwdziałania dezinformacji na posiedzeniu CWD (komunikat)",
     "url": "https://bossa.pl/analizy/komunikaty#message-439623",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "09:06",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny miedzi na LME spadają; na rynkach pogorszenie nastrojów",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/ceny-miedzi-na-lme-spadaja-na-rynkach-pogorszenie-nastrojow",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
