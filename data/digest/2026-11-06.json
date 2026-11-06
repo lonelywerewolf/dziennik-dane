@@ -5,7 +5,7 @@
   "wyniki": 21,
   "rekomendacje": 1,
   "korporacyjne": 45,
-  "makro_pl": 38,
+  "makro_pl": 39,
   "swiat_rynki": 18,
   "energetyka_surowce": 4,
   "nieruchomosci": 1,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 63
  },
- "duplicatesRemoved": 132,
- "total": 352,
+ "duplicatesRemoved": 134,
+ "total": 355,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -881,6 +881,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "21:10",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KPRM: Premier w Sejmie: Marcin Kierwiński będzie dalej szefem MSWiA, bo ściga bandytów, chroni bezpieczeństwo Polaków i polskie granice (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439832",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:24",
     "kind": "pap",
