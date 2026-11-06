@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T02:36:12+01:00",
+ "updatedAt": "2026-11-06T03:28:05+01:00",
  "q": {
   "ASB": {
    "date": "2026-11-05",
@@ -130,93 +130,93 @@
    "src": "https://www.gpw.pl/archiwum-notowan"
   },
   "ASML": {
-   "date": "2026-11-04",
-   "close": 1496.3,
+   "date": "2026-11-05",
+   "close": 1356.65,
    "ccy": "USD",
    "src": "https://www.nasdaq.com/market-activity/stocks/asml",
-   "chg": -3.6,
+   "chg": -9.33,
    "live": {
-    "price": 1366.8167,
-    "chgPct": 0.65,
-    "at": "Nov 5, 2026 7:47 PM ET",
+    "price": 1496.3,
+    "chgPct": -3.6,
+    "at": "Nov 4, 2026",
     "src": "https://www.nasdaq.com/market-activity/stocks/asml"
    }
   },
   "AVGO": {
-   "date": "2026-11-04",
-   "close": 325.48,
+   "date": "2026-11-05",
+   "close": 291.53,
    "ccy": "USD",
    "src": "https://www.nasdaq.com/market-activity/stocks/avgo",
-   "chg": -2.0,
+   "chg": -10.43,
    "live": {
-    "price": 292.398,
-    "chgPct": -0.01,
-    "at": "Nov 5, 2026 7:59 PM ET",
+    "price": 325.48,
+    "chgPct": -2.0,
+    "at": "Nov 4, 2026",
     "src": "https://www.nasdaq.com/market-activity/stocks/avgo"
    }
   },
   "MPWR": {
-   "date": "2026-11-04",
-   "close": 1261.08,
+   "date": "2026-11-05",
+   "close": 1131.43,
    "ccy": "USD",
    "src": "https://www.nasdaq.com/market-activity/stocks/mpwr",
-   "chg": -5.06,
+   "chg": -10.28,
    "live": {
-    "price": 1128.6,
-    "chgPct": null,
-    "at": "Nov 5, 2026 7:52 PM ET",
+    "price": 1261.08,
+    "chgPct": -5.06,
+    "at": "Nov 4, 2026",
     "src": "https://www.nasdaq.com/market-activity/stocks/mpwr"
    }
   },
   "MRVL": {
-   "date": "2026-11-04",
-   "close": 159.8,
+   "date": "2026-11-05",
+   "close": 133.55,
    "ccy": "USD",
    "src": "https://www.nasdaq.com/market-activity/stocks/mrvl",
-   "chg": -7.08,
+   "chg": -16.43,
    "live": {
-    "price": 133.1405,
-    "chgPct": -0.06,
-    "at": "Nov 5, 2026 7:48 PM ET",
+    "price": 159.8,
+    "chgPct": -7.08,
+    "at": "Nov 4, 2026",
     "src": "https://www.nasdaq.com/market-activity/stocks/mrvl"
    }
   },
   "NVDA": {
-   "date": "2026-11-04",
-   "close": 200.13,
+   "date": "2026-11-05",
+   "close": 181.6,
    "ccy": "USD",
    "src": "https://www.nasdaq.com/market-activity/stocks/nvda",
-   "chg": -3.17,
+   "chg": -9.26,
    "live": {
-    "price": 182.3,
-    "chgPct": 0.01,
-    "at": "Nov 5, 2026 7:59 PM ET",
+    "price": 200.13,
+    "chgPct": -3.17,
+    "at": "Nov 4, 2026",
     "src": "https://www.nasdaq.com/market-activity/stocks/nvda"
    }
   },
   "TSM": {
-   "date": "2026-11-04",
-   "close": 395.75,
+   "date": "2026-11-05",
+   "close": 353.1,
    "ccy": "USD",
    "src": "https://www.nasdaq.com/market-activity/stocks/tsm",
-   "chg": -2.24,
+   "chg": -10.78,
    "live": {
-    "price": 351.57,
-    "chgPct": -0.01,
-    "at": "Nov 5, 2026 7:55 PM ET",
+    "price": 395.75,
+    "chgPct": -2.24,
+    "at": "Nov 4, 2026",
     "src": "https://www.nasdaq.com/market-activity/stocks/tsm"
    }
   },
   "VRT": {
-   "date": "2026-11-04",
-   "close": 205.55,
+   "date": "2026-11-05",
+   "close": 176.73,
    "ccy": "USD",
    "src": "https://www.nasdaq.com/market-activity/stocks/vrt",
-   "chg": -12.89,
+   "chg": -14.02,
    "live": {
-    "price": 175.675,
-    "chgPct": -0.0,
-    "at": "Nov 5, 2026 7:42 PM ET",
+    "price": 205.55,
+    "chgPct": -12.89,
+    "at": "Nov 4, 2026",
     "src": "https://www.nasdaq.com/market-activity/stocks/vrt"
    }
   },
@@ -227,7 +227,7 @@
   },
   "^SPX": {
    "date": "2026-11-05",
-   "close": 766.0285,
+   "close": 733.0,
    "src": "https://www.nasdaq.com"
   },
   "^SOX": {
