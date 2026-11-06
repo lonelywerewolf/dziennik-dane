@@ -10,6 +10,15 @@
    "summary": "The S&P 500 Index ($SPX ) (SPY ) is up +0.89% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.42%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +2.12%.  December E-mini S&P futures (ESZ26 ) are up +0.90%, and December E-mini Nasdaq futures..."
   },
   {
+   "id": "256f31ecbd54",
+   "ticker": "NVDA",
+   "time": "2026-11-06T18:10+01:00",
+   "title": "Friday's ETF with Unusual Volume: SOXX",
+   "url": "https://www.nasdaq.com/articles/fridays-etf-unusual-volume-soxx",
+   "src": "nasdaq",
+   "summary": "The iShares Semiconductor ETF is seeing unusually high volume in afternoon trading Friday, with over 37.5 million shares traded versus three month average volume of about 3.7 million.  Shares of SOXX were up about 3.7% on the day.\n\nComponents of that ETF with the highest volume"
+  },
+  {
    "id": "1b6e36bec7aa",
    "ticker": "NVDA",
    "time": "2026-11-06T17:26+01:00",
@@ -44,6 +53,60 @@
    "url": "https://www.nasdaq.com/articles/nasdaq-stock-market-correction-heres-most-attractive-bargain-magnificent-seven",
    "src": "nasdaq",
    "summary": "Key PointsAlphabet stock is nearly 30% below its record high and trades for about 18 times forward earnings."
+  },
+  {
+   "id": "1079dd75e7ba",
+   "ticker": "NVDA",
+   "time": "2026-11-06T16:15+01:00",
+   "title": "AAOI Q3 Earnings Beat Estimates on Strong Datacenter and CATV Sales",
+   "url": "https://www.nasdaq.com/articles/aaoi-q3-earnings-beat-estimates-strong-datacenter-and-catv-sales",
+   "src": "nasdaq",
+   "summary": "Applied Optoelectronics' Q3 earnings beat estimates as datacenter and CATV sales surge, driven by 800G demand and record broadband equipment shipments."
+  },
+  {
+   "id": "618f33e2ab1e",
+   "ticker": "NVDA",
+   "time": "2026-11-06T16:12+01:00",
+   "title": "Akamai Q3 Earnings Beat Estimates on Security and Cloud Growth",
+   "url": "https://www.nasdaq.com/articles/akamai-q3-earnings-beat-estimates-security-and-cloud-growth",
+   "src": "nasdaq",
+   "summary": "AKAM beats Q3 2026 earnings and revenue estimates as cybersecurity and cloud demand drive growth, but rising infrastructure costs squeeze profit margins."
+  },
+  {
+   "id": "803a1023180f",
+   "ticker": "NVDA",
+   "time": "2026-11-06T16:11+01:00",
+   "title": "Teradata Q3 Earnings Surpass Estimates, Revenues Decrease Y/Y",
+   "url": "https://www.nasdaq.com/articles/teradata-q3-earnings-surpass-estimates-revenues-decrease-y-y",
+   "src": "nasdaq",
+   "summary": "TDC beats Q3 earnings estimates despite lower revenues, fueled by strong cloud ARR growth, AI innovation and a raised 2026 earnings outlook."
+  },
+  {
+   "id": "56146e8fcf05",
+   "ticker": "NVDA",
+   "time": "2026-11-06T16:09+01:00",
+   "title": "Datadog's Infrastructure Monitoring Tops $2B ARR in Q3, Revenues Beat",
+   "url": "https://www.nasdaq.com/articles/datadogs-infrastructure-monitoring-tops-2b-arr-q3-revenues-beat",
+   "src": "nasdaq",
+   "summary": "DDOG's Infrastructure Monitoring surpasses $2B in ARR as Q3 revenues beat estimates, with broad-based growth, rising AI adoption and expanding platform usage."
+  },
+  {
+   "id": "da20cf1564ad",
+   "ticker": "NVDA",
+   "time": "2026-11-06T16:00+01:00",
+   "title": "Digital Turbine to Report Q2 Earnings: What's in Store for the Stock?",
+   "url": "https://www.nasdaq.com/articles/digital-turbine-report-q2-earnings-whats-store-stock",
+   "src": "nasdaq",
+   "summary": "APPS Q2 results are likely to reflect revenue growth of 19%, driven by ODS and AGP momentum, AI-powered advertising, and expanding partnerships amid device-volume pressures."
+  },
+  {
+   "id": "be8573fc13f7",
+   "ticker": "NVDA",
+   "time": "2026-11-06T15:52+01:00",
+   "title": "Arrow Electronics Q3 Earnings Beat Estimates, Revenues Rise Y/Y",
+   "url": "https://www.nasdaq.com/articles/arrow-electronics-q3-earnings-beat-estimates-revenues-rise-y-y",
+   "src": "nasdaq",
+   "summary": "ARW posts record Q3 earnings of $6.22 per share and revenues of $10.72 billion, beating guidance and consensus estimates."
   },
   {
    "id": "cd1b87e39fd5",
@@ -1918,5 +1981,5 @@
    "summary": "Key PointsASML is one of the most important companies in the global semiconductor ecosystem, but its stock price performance has left a lot to be desired over the past three years."
   }
  ],
- "updatedAt": "2026-11-06T18:20:22+01:00"
+ "updatedAt": "2026-11-06T18:32:48+01:00"
 }
