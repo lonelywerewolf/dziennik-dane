@@ -4,18 +4,18 @@
   "podsumowania": 10,
   "wyniki": 14,
   "rekomendacje": 1,
-  "korporacyjne": 18,
-  "makro_pl": 25,
+  "korporacyjne": 19,
+  "makro_pl": 27,
   "swiat_rynki": 5,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 1,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 28
+  "pozostale": 31
  },
- "duplicatesRemoved": 72,
- "total": 178,
+ "duplicatesRemoved": 79,
+ "total": 191,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -112,6 +112,17 @@
   ],
   "wyniki": [
    {
+    "time": "13:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ryvu spodziewa się wyników z kolejnej grupy pacjentów w badaniu JASPIS-01 w poł. '27 (wywiad)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/ryvu-spodziewa-sie-wynikow-z-kolejnej-grupy-pacjentow-w-badaniu-jaspis-01-w-pol",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
     "time": "12:48",
     "kind": "espi",
     "ticker": null,
@@ -155,17 +166,6 @@
     "ticker": null,
     "title": "TAMEX OBIEKTY SPORTOWE S.A.: Szacunkowe wybrane dane finansowe TAMEX Obiekty Sportowe S.A. za III kwartał 2026 r.",
     "url": "https://bossa.pl/analizy/komunikaty#message-23541",
-    "src": "bossa",
-    "flags": [
-     "wyniki"
-    ]
-   },
-   {
-    "time": "10:13",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Ryvu spodziewa się wyników z kolejnej grupy pacjentów w badaniu JASPIS-01 w poł. '27 (wywiad)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439645",
     "src": "bossa",
     "flags": [
      "wyniki"
@@ -262,6 +262,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "13:03",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wartość emisji obligacji korporacyjnych na Catalyst po III kw. '26 wyniosła 110,9 mld zł, więcej o 28 proc. rdr",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439705",
+    "src": "bossa",
+    "flags": [
+     "emisja"
+    ]
+   },
    {
     "time": "12:41",
     "kind": "news",
@@ -458,6 +469,24 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "13:08",
+    "kind": "news",
+    "ticker": null,
+    "title": "Presja płacowa pozostaje niska i badania wskazują, że utrzyma się to przez jakiś czas - DABE NBP",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/presja-placowa-pozostaje-niska-i-badania-wskazuja-ze-utrzyma-sie-przez-jakis",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "13:06",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wprowadzenie EU ETS2 od 2028 r. podbiłoby inflację w Polsce o ok. 2 pp. - DABE NBP",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/wprowadzenie-eu-ets2-od-2028-r-podbiloby-inflacje-w-polsce-o-ok-2-pp-dabe-nbp",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "12:30",
     "kind": "news",
@@ -785,6 +814,33 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:58",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeksy transakcyjne - POLSTR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439702",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:58",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeksy transakcyjne - WIRON",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439701",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:52",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa Modivo otwiera pierwszy sklep ShockPrice za granicą",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/grupa-modivo-otwiera-pierwszy-sklep-shockprice-za-granica",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "12:39",
     "kind": "news",

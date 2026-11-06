@@ -1,7 +1,147 @@
 {
  "date": "2026-11-06",
- "count": 178,
+ "count": 191,
  "items": [
+  {
+   "id": "strefa-b0045fd6aa9e",
+   "date": "2026-11-06",
+   "time": "13:08",
+   "ts": "2026-11-06T13:08:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Presja płacowa pozostaje niska i badania wskazują, że utrzyma się to przez jakiś czas - DABE NBP",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/presja-placowa-pozostaje-niska-i-badania-wskazuja-ze-utrzyma-sie-przez-jakis"
+  },
+  {
+   "id": "bossa-pap-439708",
+   "date": "2026-11-06",
+   "time": "13:07",
+   "ts": "2026-11-06T13:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wprowadzenie EU ETS2 od 2028 r. podbiłoby inflację w Polsce o ok. 2 pp. - DABE NBP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439708"
+  },
+  {
+   "id": "bossa-pap-439707",
+   "date": "2026-11-06",
+   "time": "13:07",
+   "ts": "2026-11-06T13:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Presja płacowa pozostaje niska i badania wskazują, że utrzyma się to przez jakiś czas - DABE NBP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439707"
+  },
+  {
+   "id": "strefa-b590bed05df4",
+   "date": "2026-11-06",
+   "time": "13:06",
+   "ts": "2026-11-06T13:06:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wprowadzenie EU ETS2 od 2028 r. podbiłoby inflację w Polsce o ok. 2 pp. - DABE NBP",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/wprowadzenie-eu-ets2-od-2028-r-podbiloby-inflacje-w-polsce-o-ok-2-pp-dabe-nbp"
+  },
+  {
+   "id": "bossa-pap-439706",
+   "date": "2026-11-06",
+   "time": "13:05",
+   "ts": "2026-11-06T13:05:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Utrzymanie programu CPN obniżyłoby w '27 inflację CPI o 0,9 pp. - DABE NBP (opis)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439706"
+  },
+  {
+   "id": "bossa-pap-439705",
+   "date": "2026-11-06",
+   "time": "13:03",
+   "ts": "2026-11-06T13:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wartość emisji obligacji korporacyjnych na Catalyst po III kw. '26 wyniosła 110,9 mld zł, więcej o 28 proc. rdr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439705"
+  },
+  {
+   "id": "strefa-ec55b01271a4",
+   "date": "2026-11-06",
+   "time": "13:01",
+   "ts": "2026-11-06T13:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Utrzymanie programu CPN obniżyłoby w '27 inflację CPI o 0,9 pp. - DABE NBP (opis)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/utrzymanie-programu-cpn-obnizyloby-w-27-inflacje-cpi-o-09-pp-dabe-nbp-opis"
+  },
+  {
+   "id": "strefa-0b9796e2f0b9",
+   "date": "2026-11-06",
+   "time": "13:01",
+   "ts": "2026-11-06T13:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ryvu spodziewa się wyników z kolejnej grupy pacjentów w badaniu JASPIS-01 w poł. '27 (wywiad)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/ryvu-spodziewa-sie-wynikow-z-kolejnej-grupy-pacjentow-w-badaniu-jaspis-01-w-pol"
+  },
+  {
+   "id": "bossa-espi-23568",
+   "date": "2026-11-06",
+   "time": "13:00",
+   "ts": "2026-11-06T13:00:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 2 x SHORT PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 224 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23568"
+  },
+  {
+   "id": "bossa-pap-439703",
+   "date": "2026-11-06",
+   "time": "12:59",
+   "ts": "2026-11-06T12:59:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Grupa Modivo otwiera pierwszy sklep ShockPrice za granicą",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439703"
+  },
+  {
+   "id": "bossa-pap-439702",
+   "date": "2026-11-06",
+   "time": "12:58",
+   "ts": "2026-11-06T12:58:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeksy transakcyjne - POLSTR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439702"
+  },
+  {
+   "id": "bossa-pap-439701",
+   "date": "2026-11-06",
+   "time": "12:58",
+   "ts": "2026-11-06T12:58:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeksy transakcyjne - WIRON",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439701"
+  },
   {
    "id": "bossa-espi-23567",
    "date": "2026-11-06",
@@ -13,6 +153,17 @@
    "title": "Raport bieżący nr 224 / 2026",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23567"
+  },
+  {
+   "id": "strefa-ef4573bbdfba",
+   "date": "2026-11-06",
+   "time": "12:52",
+   "ts": "2026-11-06T12:52:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grupa Modivo otwiera pierwszy sklep ShockPrice za granicą",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/grupa-modivo-otwiera-pierwszy-sklep-shockprice-za-granica"
   },
   {
    "id": "bossa-pap-439699",
