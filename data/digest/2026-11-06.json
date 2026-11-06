@@ -6,7 +6,7 @@
   "rekomendacje": 1,
   "korporacyjne": 46,
   "makro_pl": 39,
-  "swiat_rynki": 18,
+  "swiat_rynki": 19,
   "energetyka_surowce": 4,
   "nieruchomosci": 1,
   "fundusze_drobne": 10,
@@ -15,7 +15,7 @@
   "pozostale": 63
  },
  "duplicatesRemoved": 136,
- "total": 361,
+ "total": 362,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1270,6 +1270,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "22:16",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Agencja S&P potwierdziła rating Polski w walucie obcej na poziomie \"A-\", obniżyła perspektywę do negatywnej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439838",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:57",
     "kind": "pap",
