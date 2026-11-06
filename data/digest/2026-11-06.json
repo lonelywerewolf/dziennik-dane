@@ -7,15 +7,15 @@
   "korporacyjne": 23,
   "makro_pl": 27,
   "swiat_rynki": 5,
-  "energetyka_surowce": 3,
+  "energetyka_surowce": 4,
   "nieruchomosci": 1,
-  "fundusze_drobne": 1,
+  "fundusze_drobne": 2,
   "twoje_spolki": 1,
   "obserwowane": 0,
   "pozostale": 34
  },
  "duplicatesRemoved": 83,
- "total": 203,
+ "total": 205,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -804,6 +804,15 @@
   ],
   "energetyka_surowce": [
    {
+    "time": "13:40",
+    "kind": "espi",
+    "ticker": null,
+    "title": "C&C ENERGY SA: Zmiana publikacji raportu okresowego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23575",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "09:39",
     "kind": "news",
     "ticker": null,
@@ -843,6 +852,15 @@
    }
   ],
   "fundusze_drobne": [
+   {
+    "time": "13:43",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OFE POCZTYLION wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439719",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:58",
     "kind": "pap",
