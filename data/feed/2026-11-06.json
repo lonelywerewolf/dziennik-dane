@@ -1,7 +1,78 @@
 {
  "date": "2026-11-06",
- "count": 287,
+ "count": 294,
  "items": [
+  {
+   "id": "bossa-espi-23602",
+   "date": "2026-11-06",
+   "time": "17:04",
+   "ts": "2026-11-06T17:04:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Kolejkowo S.A.",
+   "title": "Aktualizacja prognozy wyników finansowych na 2026 rok",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23602"
+  },
+  {
+   "id": "strefa-7424014bc373",
+   "date": "2026-11-06",
+   "time": "17:02",
+   "ts": "2026-11-06T17:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "RPP przestrzega przed ryzykiem pogorszenia warunków finansowania potrzeb pożyczkowych państwa",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/rpp-przestrzega-przed-ryzykiem-pogorszenia-warunkow-finansowania-potrzeb"
+  },
+  {
+   "id": "bossa-espi-23601",
+   "date": "2026-11-06",
+   "time": "17:02",
+   "ts": "2026-11-06T17:02:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "4MASS S.A.",
+   "title": "Otrzymanie zawiadomienia o zawarciu porozumienia akcjonariuszy w trybie art. 87 ust. 1 pkt 5 i 6 w związku z art. 69 ust.1 pkt 1 Ustawy o ofercie publicznej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23601"
+  },
+  {
+   "id": "bossa-pap-439784",
+   "date": "2026-11-06",
+   "time": "17:00",
+   "ts": "2026-11-06T17:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Skrót wiadomości - piątek, 6 listopada, 17.00",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439784"
+  },
+  {
+   "id": "bossa-espi-23600",
+   "date": "2026-11-06",
+   "time": "17:00",
+   "ts": "2026-11-06T17:00:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "GAMING FACTORY S.A.",
+   "title": "Komunikat KDPW w sprawie daty rejestracji zwykłych na okaziciela serii H",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23600"
+  },
+  {
+   "id": "bossa-pap-439782",
+   "date": "2026-11-06",
+   "time": "16:58",
+   "ts": "2026-11-06T16:58:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "RPP przestrzega przed ryzykiem pogorszenia warunków finansowania potrzeb pożyczkowych państwa",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439782"
+  },
   {
    "id": "bossa-pap-439781",
    "date": "2026-11-06",
@@ -13,6 +84,17 @@
    "title": "MS: Rusza nabór wniosków na kampanie informacyjne i działania edukacyjne dotyczące niezależnego sądownictwa (komunikat)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439781"
+  },
+  {
+   "id": "strefa-f832d04717a5",
+   "date": "2026-11-06",
+   "time": "16:48",
+   "ts": "2026-11-06T16:48:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "skrot",
+   "title": "Skrót wiadomości - piątek, 6 listopada, 17.00",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/skrot-wiadomosci-piatek-6-listopada-1700"
   },
   {
    "id": "bossa-pap-439780",

@@ -1,24 +1,33 @@
 {
  "date": "2026-11-06",
  "counts": {
-  "podsumowania": 13,
-  "wyniki": 17,
+  "podsumowania": 14,
+  "wyniki": 18,
   "rekomendacje": 1,
-  "korporacyjne": 29,
-  "makro_pl": 35,
+  "korporacyjne": 30,
+  "makro_pl": 36,
   "swiat_rynki": 16,
   "energetyka_surowce": 4,
   "nieruchomosci": 1,
   "fundusze_drobne": 10,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 52
+  "pozostale": 53
  },
- "duplicatesRemoved": 108,
- "total": 287,
+ "duplicatesRemoved": 110,
+ "total": 294,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "16:48",
+    "kind": "skrot",
+    "ticker": null,
+    "title": "Skrót wiadomości - piątek, 6 listopada, 17.00",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/skrot-wiadomosci-piatek-6-listopada-1700",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "16:34",
     "kind": "news",
@@ -138,6 +147,18 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "17:04",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Kolejkowo S.A.: Aktualizacja prognozy wyników finansowych na 2026 rok",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23602",
+    "src": "bossa",
+    "flags": [
+     "wyniki",
+     "prognoza"
+    ]
+   },
    {
     "time": "15:40",
     "kind": "pap",
@@ -316,6 +337,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "17:02",
+    "kind": "espi",
+    "ticker": null,
+    "title": "4MASS S.A.: Otrzymanie zawiadomienia o zawarciu porozumienia akcjonariuszy w trybie art. 87 ust. 1 pkt 5 i 6 w związku z art. 69 ust.1 pkt 1 Ustawy o ofercie publicznej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23601",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "16:15",
     "kind": "espi",
@@ -630,6 +662,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "17:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "RPP przestrzega przed ryzykiem pogorszenia warunków finansowania potrzeb pożyczkowych państwa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/rpp-przestrzega-przed-ryzykiem-pogorszenia-warunkow-finansowania-potrzeb",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "15:36",
     "kind": "pap",
@@ -1246,6 +1287,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:00",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GAMING FACTORY S.A.: Komunikat KDPW w sprawie daty rejestracji zwykłych na okaziciela serii H",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23600",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:34",
     "kind": "pap",
