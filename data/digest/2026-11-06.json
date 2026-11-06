@@ -2,11 +2,11 @@
  "date": "2026-11-06",
  "counts": {
   "podsumowania": 11,
-  "wyniki": 15,
+  "wyniki": 16,
   "rekomendacje": 1,
   "korporacyjne": 28,
   "makro_pl": 34,
-  "swiat_rynki": 10,
+  "swiat_rynki": 11,
   "energetyka_surowce": 4,
   "nieruchomosci": 1,
   "fundusze_drobne": 4,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 47
  },
- "duplicatesRemoved": 100,
- "total": 256,
+ "duplicatesRemoved": 102,
+ "total": 260,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -120,6 +120,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "15:27",
+    "kind": "pap",
+    "ticker": null,
+    "title": "YOSHI INNOVATION SA (24/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439759",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:21",
     "kind": "news",
@@ -891,6 +900,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "15:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Po otwarciu sesji DJI spada 0,92 proc., a S&P500 rośnie 0,38 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439760",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:58",
     "kind": "pap",

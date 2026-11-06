@@ -1,7 +1,43 @@
 {
  "date": "2026-11-06",
- "count": 256,
+ "count": 260,
  "items": [
+  {
+   "id": "bossa-pap-439760",
+   "date": "2026-11-06",
+   "time": "15:34",
+   "ts": "2026-11-06T15:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Po otwarciu sesji DJI spada 0,92 proc., a S&P500 rośnie 0,38 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439760"
+  },
+  {
+   "id": "bossa-pap-439759",
+   "date": "2026-11-06",
+   "time": "15:27",
+   "ts": "2026-11-06T15:27:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "YOSHI INNOVATION SA (24/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439759"
+  },
+  {
+   "id": "bossa-pap-439758",
+   "date": "2026-11-06",
+   "time": "15:26",
+   "ts": "2026-11-06T15:26:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Dino zakłada poprawę marży brutto w IV kw., ale będzie się skupiać na wolumenach sprzedaży (opis)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439758"
+  },
   {
    "id": "bossa-pap-439757",
    "date": "2026-11-06",
@@ -121,6 +157,17 @@
    "title": "Zwołanie Nadzwyczajnego Walnego Zgromadzenia Akcjonariuszy na dzień 03.12.2026 r.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23585"
+  },
+  {
+   "id": "strefa-e0a0c230d37b",
+   "date": "2026-11-06",
+   "time": "15:02",
+   "ts": "2026-11-06T15:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Dino zakłada poprawę marży brutto w IV kw., ale będzie się skupiać na wolumenach sprzedaży (opis)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/dino-zaklada-poprawe-marzy-brutto-w-iv-kw-ale-bedzie-sie-skupiac-na-0"
   },
   {
    "id": "bossa-pap-439747",
