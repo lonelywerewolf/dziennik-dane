@@ -4,18 +4,18 @@
   "podsumowania": 10,
   "wyniki": 12,
   "rekomendacje": 1,
-  "korporacyjne": 15,
-  "makro_pl": 24,
+  "korporacyjne": 17,
+  "makro_pl": 25,
   "swiat_rynki": 5,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 1,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 26
+  "pozostale": 28
  },
- "duplicatesRemoved": 61,
- "total": 159,
+ "duplicatesRemoved": 69,
+ "total": 172,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -243,6 +243,28 @@
   ],
   "korporacyjne": [
    {
+    "time": "12:35",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ELEKTROTIM S.A.: Informacja o zawarciu umowy z PGE Energia Odnawialna na wykonanie prac instalacyjnych, elektroenergetycznych oraz teleinformatycznych z powierzonych Jednostek Magazynowych oraz Stacji Transformatorowych SN/nN dla Magazynów Energii MEE Lotnisko, MEE Ścieki, MEE Wojciechowo, MEE Pelplin",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23560",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "12:33",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ELEKTROTIM S.A.: Informacja o zawarciu umowy z PGE Energia Odnawialna na dostawę jednostek magazynowych oraz stacji transformatorowych SN/nN dla Magazynów Energii MEE Lotnisko, MEE Ścieki, MEE Wojciechowo, MEE Pelplin",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23557",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
     "time": "11:43",
     "kind": "espi",
     "ticker": null,
@@ -405,6 +427,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "12:30",
+    "kind": "news",
+    "ticker": null,
+    "title": "Utrzymanie programu CPN obniżyłoby w '27 inflację CPI o 0,9 pp. - DABE NBP",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/utrzymanie-programu-cpn-obnizyloby-w-27-inflacje-cpi-o-09-pp-dabe-nbp",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "12:25",
     "kind": "espi",
@@ -723,6 +754,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:39",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa Modivo ocenia, że początek IV kw. jest bardzo dobry sprzedażowo",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/grupa-modivo-ocenia-ze-poczatek-iv-kw-jest-bardzo-dobry-sprzedazowo",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "12:37",
+    "kind": "news",
+    "ticker": null,
+    "title": "Goldman Sachs liderem obrotów na rynku akcji GPW w październiku, drugi Bank of America",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/goldman-sachs-liderem-obrotow-na-rynku-akcji-gpw-w-pazdzierniku-drugi-bank",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "12:15",
     "kind": "news",
