@@ -1,24 +1,33 @@
 {
  "date": "2026-11-06",
  "counts": {
-  "podsumowania": 10,
+  "podsumowania": 11,
   "wyniki": 15,
   "rekomendacje": 1,
   "korporacyjne": 26,
   "makro_pl": 32,
-  "swiat_rynki": 9,
+  "swiat_rynki": 10,
   "energetyka_surowce": 4,
   "nieruchomosci": 1,
-  "fundusze_drobne": 3,
+  "fundusze_drobne": 4,
   "twoje_spolki": 1,
   "obserwowane": 0,
   "pozostale": 42
  },
  "duplicatesRemoved": 97,
- "total": 241,
+ "total": 244,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "14:55",
+    "kind": "pap",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Futures w USA głównie rosną po wyprzedaży w czwartek",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439745",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:47",
     "kind": "news",
@@ -843,6 +852,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "14:58",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MKiŚ: Senat poparł uproszczenie procedur w ochronie środowiska (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439746",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "14:35",
     "kind": "pap",
     "ticker": null,
@@ -974,6 +992,15 @@
    }
   ],
   "fundusze_drobne": [
+   {
+    "time": "14:54",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OFE PZU wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439744",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:17",
     "kind": "espi",

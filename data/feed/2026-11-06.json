@@ -1,7 +1,43 @@
 {
  "date": "2026-11-06",
- "count": 241,
+ "count": 244,
  "items": [
+  {
+   "id": "bossa-pap-439746",
+   "date": "2026-11-06",
+   "time": "14:58",
+   "ts": "2026-11-06T14:58:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MKiŚ: Senat poparł uproszczenie procedur w ochronie środowiska (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439746"
+  },
+  {
+   "id": "bossa-pap-439745",
+   "date": "2026-11-06",
+   "time": "14:55",
+   "ts": "2026-11-06T14:55:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Futures w USA głównie rosną po wyprzedaży w czwartek",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439745"
+  },
+  {
+   "id": "bossa-pap-439744",
+   "date": "2026-11-06",
+   "time": "14:54",
+   "ts": "2026-11-06T14:54:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "OFE PZU wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439744"
+  },
   {
    "id": "bossa-pap-439743",
    "date": "2026-11-06",
