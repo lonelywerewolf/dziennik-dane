@@ -12,10 +12,10 @@
   "fundusze_drobne": 10,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 58
+  "pozostale": 59
  },
  "duplicatesRemoved": 132,
- "total": 345,
+ "total": 346,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1522,6 +1522,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "19:33",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MADNETIC GAMES SA (14/2026) Zmiana harmonogramu publikacji raportów okresowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439824",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:55",
     "kind": "espi",
