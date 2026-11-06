@@ -1,7 +1,43 @@
 {
  "date": "2026-11-06",
- "count": 120,
+ "count": 124,
  "items": [
+  {
+   "id": "bossa-pap-439658",
+   "date": "2026-11-06",
+   "time": "11:02",
+   "ts": "2026-11-06T11:02:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Sprzedaż detaliczna w Polsce we wrześniu wzrosła o 2,2 proc. rdr - Eurostat",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439658"
+  },
+  {
+   "id": "bossa-pap-439657",
+   "date": "2026-11-06",
+   "time": "10:57",
+   "ts": "2026-11-06T10:57:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeks cen żywności na świecie w X spadł o 1,2 proc. mdm do 133,9 pkt. - FAO",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439657"
+  },
+  {
+   "id": "bossa-pap-439656",
+   "date": "2026-11-06",
+   "time": "10:55",
+   "ts": "2026-11-06T10:55:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MIDVEN SA (14/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439656"
+  },
   {
    "id": "bossa-pap-439655",
    "date": "2026-11-06",
@@ -13,6 +49,17 @@
    "title": "KE zatwierdzi ostatni Polski wniosek o wypłatę z KPO na 55 mld zł w okolicy 20 XI - MFiPR",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439655"
+  },
+  {
+   "id": "strefa-f440d32996e5",
+   "date": "2026-11-06",
+   "time": "10:41",
+   "ts": "2026-11-06T10:41:23+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Sprzedaż detaliczna w Polsce we wrześniu wzrosła o 2,2 proc. rdr - Eurostat",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/sprzedaz-detaliczna-w-polsce-we-wrzesniu-wzrosla-o-22-proc-rdr-eurostat"
   },
   {
    "id": "bossa-pap-439654",

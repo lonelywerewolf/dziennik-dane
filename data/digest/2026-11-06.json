@@ -2,20 +2,20 @@
  "date": "2026-11-06",
  "counts": {
   "podsumowania": 8,
-  "wyniki": 10,
+  "wyniki": 11,
   "rekomendacje": 1,
   "korporacyjne": 12,
-  "makro_pl": 19,
+  "makro_pl": 20,
   "swiat_rynki": 5,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 17
+  "pozostale": 18
  },
- "duplicatesRemoved": 44,
- "total": 120,
+ "duplicatesRemoved": 45,
+ "total": 124,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -93,6 +93,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "10:55",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MIDVEN SA (14/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439656",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:21",
     "kind": "espi",
@@ -343,6 +352,15 @@
     "title": "KE zatwierdzi ostatni Polski wniosek o wypłatę z KPO na 55 mld zł w okolicy 20 XI - MFiPR",
     "url": "https://bossa.pl/analizy/komunikaty#message-439655",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:41",
+    "kind": "news",
+    "ticker": null,
+    "title": "Sprzedaż detaliczna w Polsce we wrześniu wzrosła o 2,2 proc. rdr - Eurostat",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/sprzedaz-detaliczna-w-polsce-we-wrzesniu-wzrosla-o-22-proc-rdr-eurostat",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -599,6 +617,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "10:57",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeks cen żywności na świecie w X spadł o 1,2 proc. mdm do 133,9 pkt. - FAO",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439657",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:34",
     "kind": "pap",
