@@ -4,7 +4,7 @@
   "podsumowania": 18,
   "wyniki": 21,
   "rekomendacje": 1,
-  "korporacyjne": 44,
+  "korporacyjne": 45,
   "makro_pl": 38,
   "swiat_rynki": 18,
   "energetyka_surowce": 4,
@@ -15,7 +15,7 @@
   "pozostale": 63
  },
  "duplicatesRemoved": 132,
- "total": 351,
+ "total": 352,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -404,6 +404,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "20:55",
+    "kind": "espi",
+    "ticker": null,
+    "title": "JRH ASI S.A.: Podpisanie umowy ramowej o współpracy z kontrahentem z Ukrainy",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23624",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "19:19",
     "kind": "espi",
