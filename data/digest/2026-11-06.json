@@ -1,7 +1,7 @@
 {
  "date": "2026-11-06",
  "counts": {
-  "podsumowania": 18,
+  "podsumowania": 19,
   "wyniki": 23,
   "rekomendacje": 1,
   "korporacyjne": 46,
@@ -14,11 +14,20 @@
   "obserwowane": 0,
   "pozostale": 63
  },
- "duplicatesRemoved": 135,
- "total": 359,
+ "duplicatesRemoved": 136,
+ "total": 361,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "21:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Na Wall Street przewaga wzrostów i odrabianie strat po wyprzedaży",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/dzien-na-rynkach-na-wall-street-przewaga-wzrostow-i-odrabianie-strat-po",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "18:20",
     "kind": "news",

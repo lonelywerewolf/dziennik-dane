@@ -1,7 +1,19 @@
 {
  "date": "2026-11-06",
- "count": 359,
+ "count": 361,
  "items": [
+  {
+   "id": "bossa-pap-439837",
+   "date": "2026-11-06",
+   "time": "22:07",
+   "ts": "2026-11-06T22:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Na Wall Street przewaga wzrostów i odrabianie strat po wyprzedaży",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439837"
+  },
   {
    "id": "bossa-espi-23628",
    "date": "2026-11-06",
@@ -61,6 +73,17 @@
    "title": "KPRM: Premier w Sejmie: Marcin Kierwiński będzie dalej szefem MSWiA, bo ściga bandytów, chroni bezpieczeństwo Polaków i polskie granice (komunikat)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439832"
+  },
+  {
+   "id": "strefa-f2df22080c2e",
+   "date": "2026-11-06",
+   "time": "21:02",
+   "ts": "2026-11-06T21:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Na Wall Street przewaga wzrostów i odrabianie strat po wyprzedaży",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/dzien-na-rynkach-na-wall-street-przewaga-wzrostow-i-odrabianie-strat-po"
   },
   {
    "id": "bossa-pap-439831",
