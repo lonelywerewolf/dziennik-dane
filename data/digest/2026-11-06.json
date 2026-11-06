@@ -5,8 +5,8 @@
   "wyniki": 15,
   "rekomendacje": 1,
   "korporacyjne": 26,
-  "makro_pl": 31,
-  "swiat_rynki": 8,
+  "makro_pl": 32,
+  "swiat_rynki": 9,
   "energetyka_surowce": 4,
   "nieruchomosci": 1,
   "fundusze_drobne": 3,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 42
  },
- "duplicatesRemoved": 96,
- "total": 238,
+ "duplicatesRemoved": 97,
+ "total": 241,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -553,6 +553,15 @@
   ],
   "makro_pl": [
    {
+    "time": "14:40",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MS: Ustawa o praworządności w sądownictwie przyjęta przez Senat (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439742",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "14:20",
     "kind": "news",
     "ticker": null,
@@ -833,6 +842,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "14:35",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Liczba nowych miejsc pracy w USA w X: +165 tys. Konsensus: +70 tys. Poprzednio: +29 tys.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439741",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:34",
     "kind": "news",
