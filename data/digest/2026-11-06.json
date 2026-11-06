@@ -4,28 +4,28 @@
   "podsumowania": 11,
   "wyniki": 15,
   "rekomendacje": 1,
-  "korporacyjne": 26,
-  "makro_pl": 32,
+  "korporacyjne": 28,
+  "makro_pl": 33,
   "swiat_rynki": 10,
   "energetyka_surowce": 4,
   "nieruchomosci": 1,
   "fundusze_drobne": 4,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 42
+  "pozostale": 43
  },
- "duplicatesRemoved": 97,
- "total": 244,
+ "duplicatesRemoved": 99,
+ "total": 250,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
    {
-    "time": "14:55",
-    "kind": "pap",
+    "time": "14:34",
+    "kind": "news",
     "ticker": null,
     "title": "DZIEŃ NA RYNKACH: Futures w USA głównie rosną po wyprzedaży w czwartek",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439745",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/dzien-na-rynkach-futures-w-usa-glownie-rosna-po-wyprzedazy-w-czwartek",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -280,6 +280,28 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "15:09",
+    "kind": "espi",
+    "ticker": null,
+    "title": "WAWEL SA: Nadzwyczajne Walne Zgromadzenie Akcjonariuszy Wawel S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23586",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
+   {
+    "time": "15:03",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GAMIVO S.A.: Zwołanie Nadzwyczajnego Walnego Zgromadzenia Akcjonariuszy na dzień 03.12.2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23585",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "14:28",
     "kind": "espi",
@@ -561,6 +583,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "15:01",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MKiŚ: Senat poparł ustawę o wsparciu poszkodowanych przez wykonawców w programie Czyste Powietrze (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439747",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:40",
     "kind": "pap",
@@ -1042,6 +1073,17 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "15:09",
+    "kind": "pap",
+    "ticker": null,
+    "title": "YOSHI INNOVATION SA (23/2026) Korekta raportu okresowego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439751",
+    "src": "bossa",
+    "flags": [
+     "prognoza"
+    ]
+   },
    {
     "time": "14:27",
     "kind": "espi",
