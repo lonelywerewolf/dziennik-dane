@@ -1,7 +1,55 @@
 {
  "date": "2026-11-06",
- "count": 144,
+ "count": 149,
  "items": [
+  {
+   "id": "bossa-espi-23551",
+   "date": "2026-11-06",
+   "time": "12:04",
+   "ts": "2026-11-06T12:04:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF OBLIGACJI 6M PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 233 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23551"
+  },
+  {
+   "id": "bossa-pap-439675",
+   "date": "2026-11-06",
+   "time": "11:58",
+   "ts": "2026-11-06T11:58:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "UNIQA OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439675"
+  },
+  {
+   "id": "bossa-espi-23550",
+   "date": "2026-11-06",
+   "time": "11:58",
+   "ts": "2026-11-06T11:58:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF MWIG40TRsh PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 211 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23550"
+  },
+  {
+   "id": "bossa-pap-439674",
+   "date": "2026-11-06",
+   "time": "11:57",
+   "ts": "2026-11-06T11:57:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Arctic Paper w '27 planuje ok. 80 mln zł CAPEXU; nie szuka okazji akwizycyjnych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439674"
+  },
   {
    "id": "bossa-espi-23549",
    "date": "2026-11-06",
@@ -13,6 +61,17 @@
    "title": "Raport bieżący nr 204 / 2026",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23549"
+  },
+  {
+   "id": "strefa-2f83653a1fd1",
+   "date": "2026-11-06",
+   "time": "11:52",
+   "ts": "2026-11-06T11:52:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Arctic Paper w '27 planuje ok. 80 mln zł CAPEXU; nie szuka okazji akwizycyjnych",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/arctic-paper-w-27-planuje-ok-80-mln-zl-capexu-nie-szuka-okazji-akwizycyjnych"
   },
   {
    "id": "bossa-pap-439672",

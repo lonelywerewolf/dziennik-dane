@@ -9,13 +9,13 @@
   "swiat_rynki": 5,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
-  "fundusze_drobne": 0,
+  "fundusze_drobne": 1,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 22
+  "pozostale": 23
  },
- "duplicatesRemoved": 52,
- "total": 144,
+ "duplicatesRemoved": 55,
+ "total": 149,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -690,7 +690,17 @@
    }
   ],
   "nieruchomosci": [],
-  "fundusze_drobne": [],
+  "fundusze_drobne": [
+   {
+    "time": "11:58",
+    "kind": "pap",
+    "ticker": null,
+    "title": "UNIQA OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439675",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "twoje_spolki": [
    {
     "time": "10:02",
@@ -704,6 +714,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:52",
+    "kind": "news",
+    "ticker": null,
+    "title": "Arctic Paper w '27 planuje ok. 80 mln zł CAPEXU; nie szuka okazji akwizycyjnych",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/arctic-paper-w-27-planuje-ok-80-mln-zl-capexu-nie-szuka-okazji-akwizycyjnych",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "11:24",
     "kind": "news",
