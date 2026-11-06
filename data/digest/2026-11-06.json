@@ -9,13 +9,13 @@
   "swiat_rynki": 11,
   "energetyka_surowce": 4,
   "nieruchomosci": 1,
-  "fundusze_drobne": 6,
+  "fundusze_drobne": 9,
   "twoje_spolki": 1,
   "obserwowane": 0,
   "pozostale": 48
  },
  "duplicatesRemoved": 103,
- "total": 266,
+ "total": 269,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1068,6 +1068,33 @@
    }
   ],
   "fundusze_drobne": [
+   {
+    "time": "16:04",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OFE wartości jednostek rozrachunkowych z 2026.11.05",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439768",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:03",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Nationale-Nederlanden OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439767",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:53",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GENERALI OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439766",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:45",
     "kind": "pap",
