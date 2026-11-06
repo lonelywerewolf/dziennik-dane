@@ -4,18 +4,18 @@
   "podsumowania": 10,
   "wyniki": 14,
   "rekomendacje": 1,
-  "korporacyjne": 22,
+  "korporacyjne": 23,
   "makro_pl": 27,
   "swiat_rynki": 5,
   "energetyka_surowce": 3,
-  "nieruchomosci": 0,
+  "nieruchomosci": 1,
   "fundusze_drobne": 1,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 32
+  "pozostale": 34
  },
- "duplicatesRemoved": 80,
- "total": 196,
+ "duplicatesRemoved": 83,
+ "total": 203,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -262,6 +262,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "13:30",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PROGUNS GROUP S.A.: Zawarcie umowy na dostawę broni dla Straży Granicznej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23574",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "13:17",
     "kind": "espi",
@@ -820,7 +831,17 @@
     "flags": []
    }
   ],
-  "nieruchomosci": [],
+  "nieruchomosci": [
+   {
+    "time": "13:08",
+    "kind": "news",
+    "ticker": null,
+    "title": "Otodom: AI będzie wsparciem, ale nie zastąpi zaufania na rynku nieruchomości (MediaRoom)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/otodom-ai-bedzie-wsparciem-ale-nie-zastapi-zaufania-na-rynku-nieruchomosci",
+    "src": "strefainwestorow",
+    "flags": []
+   }
+  ],
   "fundusze_drobne": [
    {
     "time": "11:58",
@@ -845,6 +866,26 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "13:21",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa Modivo podtrzymuje, że Worldbox powinien osiągnąć rentowność w IV kw.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/grupa-modivo-podtrzymuje-ze-worldbox-powinien-osiagnac-rentownosc-w-iv-kw",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "13:21",
+    "kind": "news",
+    "ticker": null,
+    "title": "Senat odwołał Ludwika Koteckiego i Przemysława Litwiniuka z Rady Polityki Pieniężnej",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/senat-odwolal-ludwika-koteckiego-i-przemyslawa-litwiniuka-z-rady-polityki",
+    "src": "strefainwestorow",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "13:15",
     "kind": "pap",
