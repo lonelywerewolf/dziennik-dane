@@ -5,7 +5,7 @@
   "wyniki": 5,
   "rekomendacje": 0,
   "korporacyjne": 0,
-  "makro_pl": 2,
+  "makro_pl": 3,
   "swiat_rynki": 2,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 5
  },
- "duplicatesRemoved": 8,
- "total": 27,
+ "duplicatesRemoved": 9,
+ "total": 29,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -115,6 +115,15 @@
     "title": "Złotowe depozyty międzybankowe - WIBID, WIBOR",
     "url": "https://bossa.pl/analizy/komunikaty#message-439596",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "07:29",
+    "kind": "news",
+    "ticker": null,
+    "title": "Deficyt w tym roku niższy niż planowano, na poziomie ok. 6,7 proc. PKB – Domański",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/deficyt-w-tym-roku-nizszy-niz-planowano-na-poziomie-ok-67-proc-pkb-domanski",
+    "src": "strefainwestorow",
     "flags": []
    },
    {

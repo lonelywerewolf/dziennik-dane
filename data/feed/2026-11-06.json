@@ -1,7 +1,19 @@
 {
  "date": "2026-11-06",
- "count": 27,
+ "count": 29,
  "items": [
+  {
+   "id": "bossa-pap-439597",
+   "date": "2026-11-06",
+   "time": "07:41",
+   "ts": "2026-11-06T07:41:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Deficyt w tym roku niższy niż planowano, na poziomie ok. 6,7 proc. PKB – Domański",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439597"
+  },
   {
    "id": "bossa-pap-439596",
    "date": "2026-11-06",
@@ -13,6 +25,17 @@
    "title": "Złotowe depozyty międzybankowe - WIBID, WIBOR",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439596"
+  },
+  {
+   "id": "strefa-d77d31e00882",
+   "date": "2026-11-06",
+   "time": "07:29",
+   "ts": "2026-11-06T07:29:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Deficyt w tym roku niższy niż planowano, na poziomie ok. 6,7 proc. PKB – Domański",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/deficyt-w-tym-roku-nizszy-niz-planowano-na-poziomie-ok-67-proc-pkb-domanski"
   },
   {
    "id": "bossa-pap-439595",
