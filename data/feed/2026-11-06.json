@@ -1,7 +1,31 @@
 {
  "date": "2026-11-06",
- "count": 29,
+ "count": 31,
  "items": [
+  {
+   "id": "bossa-pap-439599",
+   "date": "2026-11-06",
+   "time": "07:58",
+   "ts": "2026-11-06T07:58:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Istotne, aby NBP sprawnie funkcjonował; prezydent powinien niezwłocznie podpisać wnioski dot. zarządu - Domański",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439599"
+  },
+  {
+   "id": "bossa-espi-23526",
+   "date": "2026-11-06",
+   "time": "07:51",
+   "ts": "2026-11-06T07:51:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ULTIMATE GAMES S.A.",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23526"
+  },
   {
    "id": "bossa-pap-439597",
    "date": "2026-11-06",
