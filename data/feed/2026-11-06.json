@@ -1,7 +1,19 @@
 {
  "date": "2026-11-06",
- "count": 134,
+ "count": 135,
  "items": [
+  {
+   "id": "bossa-espi-23546",
+   "date": "2026-11-06",
+   "time": "11:36",
+   "ts": "2026-11-06T11:36:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PGE POLSKA GRUPA ENERGETYCZNA S.A.",
+   "title": "Informacja o transakcjach w trybie art. 19 Rozporządzenia MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23546"
+  },
   {
    "id": "bossa-pap-439666",
    "date": "2026-11-06",
