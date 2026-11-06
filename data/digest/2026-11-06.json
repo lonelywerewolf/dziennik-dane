@@ -1,10 +1,10 @@
 {
  "date": "2026-11-06",
  "counts": {
-  "podsumowania": 17,
+  "podsumowania": 18,
   "wyniki": 20,
   "rekomendacje": 1,
-  "korporacyjne": 35,
+  "korporacyjne": 36,
   "makro_pl": 37,
   "swiat_rynki": 17,
   "energetyka_surowce": 4,
@@ -14,11 +14,20 @@
   "obserwowane": 0,
   "pozostale": 58
  },
- "duplicatesRemoved": 115,
- "total": 316,
+ "duplicatesRemoved": 117,
+ "total": 320,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "18:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Indeksy w Europie spadły mimo odbicia amerykańskich spółek",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/dzien-na-rynkach-indeksy-w-europie-spadly-mimo-odbicia-amerykanskich-spolek",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:36",
     "kind": "pap",
@@ -393,6 +402,15 @@
     "title": "Transakcje pakietowe",
     "url": "https://bossa.pl/analizy/komunikaty#message-439804",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "18:06",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: w sprawie dopuszczenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów inwestycyjnych serii AAS emitowanych przez IPOPEMA BENEFIT 3 FUNDUSZ INWESTYCYJNY ZAMKNIĘTY AKTYWÓW NIEPUBLICZNYCH",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/gpw-w-sprawie-dopuszczenia-do-obrotu-gieldowego-na-glownym-rynku-gpw-0",
+    "src": "strefainwestorow",
     "flags": []
    },
    {

@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "dd4b6f6001cb",
+   "ticker": "AVGO",
+   "time": "2026-11-06T18:14+01:00",
+   "title": "Stocks Supported by Chipmaker Strength and a Blowout US Payroll Report",
+   "url": "https://www.nasdaq.com/articles/stocks-supported-chipmaker-strength-and-blowout-us-payroll-report",
+   "src": "nasdaq",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up +0.89% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.42%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +2.12%.  December E-mini S&P futures (ESZ26 ) are up +0.90%, and December E-mini Nasdaq futures..."
+  },
+  {
    "id": "1b6e36bec7aa",
    "ticker": "NVDA",
    "time": "2026-11-06T17:26+01:00",
@@ -1909,5 +1918,5 @@
    "summary": "Key PointsASML is one of the most important companies in the global semiconductor ecosystem, but its stock price performance has left a lot to be desired over the past three years."
   }
  ],
- "updatedAt": "2026-11-06T18:08:17+01:00"
+ "updatedAt": "2026-11-06T18:20:22+01:00"
 }

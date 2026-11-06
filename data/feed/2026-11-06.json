@@ -1,7 +1,42 @@
 {
  "date": "2026-11-06",
- "count": 316,
+ "count": 320,
  "items": [
+  {
+   "id": "strefa-f58833790594",
+   "date": "2026-11-06",
+   "time": "18:20",
+   "ts": "2026-11-06T18:20:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Indeksy w Europie spadły mimo odbicia amerykańskich spółek",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/dzien-na-rynkach-indeksy-w-europie-spadly-mimo-odbicia-amerykanskich-spolek"
+  },
+  {
+   "id": "bossa-pap-439806",
+   "date": "2026-11-06",
+   "time": "18:15",
+   "ts": "2026-11-06T18:15:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Indeksy w Europie spadły mimo odbicia amerykańskich spółek",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439806"
+  },
+  {
+   "id": "bossa-pap-439805",
+   "date": "2026-11-06",
+   "time": "18:09",
+   "ts": "2026-11-06T18:09:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie dopuszczenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów inwestycyjnych serii AAS emitowanych przez IPOPEMA BENEFIT 3 FUNDUSZ INWESTYCYJNY ZAMKNIĘTY AKTYWÓW NIEPUBLICZNYCH",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439805"
+  },
   {
    "id": "bossa-pap-439804",
    "date": "2026-11-06",
@@ -13,6 +48,17 @@
    "title": "Transakcje pakietowe",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439804"
+  },
+  {
+   "id": "strefa-707e6a958b06",
+   "date": "2026-11-06",
+   "time": "18:06",
+   "ts": "2026-11-06T18:06:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie dopuszczenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów inwestycyjnych serii AAS emitowanych przez IPOPEMA BENEFIT 3 FUNDUSZ INWESTYCYJNY ZAMKNIĘTY AKTYWÓW NIEPUBLICZNYCH",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/gpw-w-sprawie-dopuszczenia-do-obrotu-gieldowego-na-glownym-rynku-gpw-0"
   },
   {
    "id": "bossa-pap-439803",
