@@ -5,7 +5,7 @@
   "wyniki": 10,
   "rekomendacje": 1,
   "korporacyjne": 12,
-  "makro_pl": 18,
+  "makro_pl": 19,
   "swiat_rynki": 5,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
@@ -15,7 +15,7 @@
   "pozostale": 17
  },
  "duplicatesRemoved": 44,
- "total": 119,
+ "total": 120,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -336,6 +336,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "10:48",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KE zatwierdzi ostatni Polski wniosek o wypłatę z KPO na 55 mld zł w okolicy 20 XI - MFiPR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439655",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:38",
     "kind": "pap",
