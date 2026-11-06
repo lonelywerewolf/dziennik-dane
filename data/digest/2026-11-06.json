@@ -12,10 +12,10 @@
   "fundusze_drobne": 10,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 59
+  "pozostale": 60
  },
  "duplicatesRemoved": 132,
- "total": 347,
+ "total": 348,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1531,6 +1531,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "19:52",
+    "kind": "espi",
+    "ticker": null,
+    "title": "HiProMine S.A.: Zawiadomienie o zmianie udziału w ogólnej liczbie głosów na Walnym Zgromadzeniu Emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23620",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "19:33",
     "kind": "pap",
