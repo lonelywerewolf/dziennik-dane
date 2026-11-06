@@ -1,7 +1,67 @@
 {
  "date": "2026-11-06",
- "count": 269,
+ "count": 275,
  "items": [
+  {
+   "id": "bossa-espi-23598",
+   "date": "2026-11-06",
+   "time": "16:15",
+   "ts": "2026-11-06T16:15:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Lichthund S.A.",
+   "title": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu Lichthund S.A. zwołanym na 6 listopada 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23598"
+  },
+  {
+   "id": "bossa-pap-439772",
+   "date": "2026-11-06",
+   "time": "16:11",
+   "ts": "2026-11-06T16:11:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "LICHTHUND SA (9/2026) Informacje o walnym zgromadzeniu - treść uchwał podjętych przez WZ (w tym informacje o ogłoszeniu przerwy w obradach)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439772"
+  },
+  {
+   "id": "bossa-pap-439771",
+   "date": "2026-11-06",
+   "time": "16:10",
+   "ts": "2026-11-06T16:10:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "INTERNETOWY FUNDUSZ LEASINGOWY (16/2026) Zmiana harmonogramu publikacji raportów okresowych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439771"
+  },
+  {
+   "id": "bossa-pap-439770",
+   "date": "2026-11-06",
+   "time": "16:10",
+   "ts": "2026-11-06T16:10:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Euro w EBC: 1,1165 USD i 176,77 JPY",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439770"
+  },
+  {
+   "id": "bossa-pap-439769",
+   "date": "2026-11-06",
+   "time": "16:06",
+   "ts": "2026-11-06T16:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeks nastrojów konsumentów w USA Uniwersytetu Michigan w listopadzie wyniósł 51,0 pkt.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439769"
+  },
   {
    "id": "bossa-pap-439768",
    "date": "2026-11-06",
@@ -73,6 +133,17 @@
    "title": "PKO BP BANKOWY OFE wartość jednostki rozrachunkowej",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439763"
+  },
+  {
+   "id": "strefa-1e7c5048a893",
+   "date": "2026-11-06",
+   "time": "15:41",
+   "ts": "2026-11-06T15:41:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "OFE wartości jednostek rozrachunkowych z 2026.11.05",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/ofe-wartosci-jednostek-rozrachunkowych-z-20261105"
   },
   {
    "id": "bossa-pap-439762",
