@@ -1,39 +1,39 @@
 {
  "q": {
   "ASML": {
-   "price": 1427.45,
-   "chgPct": 0.19,
-   "at": "Nov 6, 2026 5:52 PM ET",
+   "price": 1427.0,
+   "chgPct": 0.16,
+   "at": "Nov 6, 2026 6:04 PM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/asml"
   },
   "AVGO": {
-   "price": 294.88,
-   "chgPct": 0.41,
-   "at": "Nov 6, 2026 5:52 PM ET",
+   "price": 294.4859,
+   "chgPct": 0.27,
+   "at": "Nov 6, 2026 6:04 PM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/avgo"
   },
   "MPWR": {
    "price": 1195.0,
    "chgPct": 0.38,
-   "at": "Nov 6, 2026 5:52 PM ET",
+   "at": "Nov 6, 2026 6:04 PM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/mpwr"
   },
   "NVDA": {
-   "price": 188.09,
-   "chgPct": 0.78,
-   "at": "Nov 6, 2026 5:52 PM ET",
+   "price": 187.9301,
+   "chgPct": 0.69,
+   "at": "Nov 6, 2026 6:04 PM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/nvda"
   },
   "TSM": {
-   "price": 377.2,
-   "chgPct": 0.53,
-   "at": "Nov 6, 2026 5:52 PM ET",
+   "price": 377.98,
+   "chgPct": 0.74,
+   "at": "Nov 6, 2026 6:05 PM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/tsm"
   },
   "VRT": {
-   "price": 184.33,
-   "chgPct": 0.85,
-   "at": "Nov 6, 2026 5:53 PM ET",
+   "price": 183.9001,
+   "chgPct": 0.61,
+   "at": "Nov 6, 2026 6:05 PM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/vrt"
   },
   "^NDQ": {
@@ -51,15 +51,15 @@
   "^SPX": {
    "price": 736.5,
    "chgPct": 0.16,
-   "at": "Nov 6, 2026 5:53 PM ET",
+   "at": "Nov 6, 2026 6:04 PM ET",
    "src": "https://www.nasdaq.com/market-activity/index/spy"
   },
   "MRVL": {
-   "price": 141.47,
-   "chgPct": 0.19,
-   "at": "Nov 6, 2026 5:52 PM ET",
+   "price": 141.35,
+   "chgPct": 0.11,
+   "at": "Nov 6, 2026 6:04 PM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/mrvl"
   }
  },
- "updatedAt": "2026-11-06T23:52:04+01:00"
+ "updatedAt": "2026-11-07T00:04:16+01:00"
 }
