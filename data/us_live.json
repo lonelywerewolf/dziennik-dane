@@ -1,39 +1,39 @@
 {
  "q": {
   "ASML": {
-   "price": 1429.97,
-   "chgPct": 0.37,
-   "at": "Nov 6, 2026 5:16 PM ET",
+   "price": 1424.75,
+   "chgPct": null,
+   "at": "Nov 6, 2026 5:28 PM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/asml"
   },
   "AVGO": {
-   "price": 294.76,
-   "chgPct": 0.36,
-   "at": "Nov 6, 2026 5:16 PM ET",
+   "price": 294.6316,
+   "chgPct": 0.32,
+   "at": "Nov 6, 2026 5:28 PM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/avgo"
   },
   "MPWR": {
    "price": 1190.44,
    "chgPct": null,
-   "at": "Nov 6, 2026 5:16 PM ET",
+   "at": "Nov 6, 2026 5:28 PM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/mpwr"
   },
   "NVDA": {
-   "price": 187.63,
-   "chgPct": 0.53,
-   "at": "Nov 6, 2026 5:16 PM ET",
+   "price": 187.6512,
+   "chgPct": 0.54,
+   "at": "Nov 6, 2026 5:28 PM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/nvda"
   },
   "TSM": {
-   "price": 377.558,
-   "chgPct": 0.62,
-   "at": "Nov 6, 2026 5:17 PM ET",
+   "price": 377.2,
+   "chgPct": 0.53,
+   "at": "Nov 6, 2026 5:28 PM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/tsm"
   },
   "VRT": {
-   "price": 184.25,
-   "chgPct": 0.8,
-   "at": "Nov 6, 2026 5:17 PM ET",
+   "price": 184.2,
+   "chgPct": 0.78,
+   "at": "Nov 6, 2026 5:29 PM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/vrt"
   },
   "^NDQ": {
@@ -49,17 +49,17 @@
    "src": "https://www.nasdaq.com/market-activity/index/sox"
   },
   "^SPX": {
-   "price": 735.75,
-   "chgPct": 0.05,
-   "at": "Nov 6, 2026 5:16 PM ET",
+   "price": 735.8583,
+   "chgPct": 0.07,
+   "at": "Nov 6, 2026 5:28 PM ET",
    "src": "https://www.nasdaq.com/market-activity/index/spy"
   },
   "MRVL": {
-   "price": 141.36,
-   "chgPct": 0.11,
-   "at": "Nov 6, 2026 5:16 PM ET",
+   "price": 141.2,
+   "chgPct": null,
+   "at": "Nov 6, 2026 5:28 PM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/mrvl"
   }
  },
- "updatedAt": "2026-11-06T23:16:17+01:00"
+ "updatedAt": "2026-11-06T23:28:09+01:00"
 }

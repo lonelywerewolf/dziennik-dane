@@ -1,7 +1,19 @@
 {
  "date": "2026-11-06",
- "count": 365,
+ "count": 366,
  "items": [
+  {
+   "id": "bossa-pap-439842",
+   "date": "2026-11-06",
+   "time": "23:16",
+   "ts": "2026-11-06T23:16:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Agencja DBRS obniżyła rating Polski w walucie obcej do \"A-\" z \"A\", perspektywa stabilna",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439842"
+  },
   {
    "id": "bossa-pap-439841",
    "date": "2026-11-06",
