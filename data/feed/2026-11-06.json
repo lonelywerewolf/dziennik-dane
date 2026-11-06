@@ -1,7 +1,54 @@
 {
  "date": "2026-11-06",
- "count": 35,
+ "count": 40,
  "items": [
+  {
+   "id": "strefa-6f55a604c8bd",
+   "date": "2026-11-06",
+   "time": "08:25",
+   "ts": "2026-11-06T08:25:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Zremb Chojnice inwestuje w przyszły wzrost",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/zremb-chojnice-inwestuje-w-przyszly-wzrost"
+  },
+  {
+   "id": "bossa-pap-439606",
+   "date": "2026-11-06",
+   "time": "08:24",
+   "ts": "2026-11-06T08:24:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Stopy proc. w Polsce są obecnie za niskie; w '27 inflacja wyższa niż w tym roku - Tyrowicz, RPP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439606"
+  },
+  {
+   "id": "bossa-pap-439605",
+   "date": "2026-11-06",
+   "time": "08:20",
+   "ts": "2026-11-06T08:20:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wyniki Dino Polska za III kw. zgodne z oczekiwaniami (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439605"
+  },
+  {
+   "id": "bossa-pap-439604",
+   "date": "2026-11-06",
+   "time": "08:19",
+   "ts": "2026-11-06T08:19:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "VOLARIA AI SA (16/2026) Powołanie osoby zarządzającej lub nadzorującej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439604"
+  },
   {
    "id": "bossa-pap-439603",
    "date": "2026-11-06",
@@ -73,6 +120,17 @@
    "title": "Q",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23526"
+  },
+  {
+   "id": "strefa-b87e04e77097",
+   "date": "2026-11-06",
+   "time": "07:42",
+   "ts": "2026-11-06T07:42:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Stopy proc. w Polsce są obecnie za niskie; w '27 inflacja wyższa niż w tym roku - Tyrowicz, RPP",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/stopy-proc-w-polsce-sa-obecnie-za-niskie-w-27-inflacja-wyzsza-niz-w-tym-roku"
   },
   {
    "id": "bossa-pap-439597",

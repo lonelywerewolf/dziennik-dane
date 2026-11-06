@@ -2,20 +2,20 @@
  "date": "2026-11-06",
  "counts": {
   "podsumowania": 4,
-  "wyniki": 5,
+  "wyniki": 6,
   "rekomendacje": 0,
-  "korporacyjne": 3,
-  "makro_pl": 5,
+  "korporacyjne": 4,
+  "makro_pl": 6,
   "swiat_rynki": 2,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 5
+  "pozostale": 6
  },
- "duplicatesRemoved": 10,
- "total": 35,
+ "duplicatesRemoved": 11,
+ "total": 40,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -57,6 +57,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "08:20",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wyniki Dino Polska za III kw. zgodne z oczekiwaniami (opinia)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439605",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "07:04",
     "kind": "news",
@@ -108,6 +119,17 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "08:19",
+    "kind": "pap",
+    "ticker": null,
+    "title": "VOLARIA AI SA (16/2026) Powołanie osoby zarządzającej lub nadzorującej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439604",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
     "time": "08:13",
     "kind": "pap",
     "ticker": null,
@@ -158,6 +180,15 @@
     "title": "W ciągu 10 dni rząd przedstawi rozwiązania zw. z sytuacją na rynku gazu – Domański",
     "url": "https://bossa.pl/analizy/komunikaty#message-439600",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "07:42",
+    "kind": "news",
+    "ticker": null,
+    "title": "Stopy proc. w Polsce są obecnie za niskie; w '27 inflacja wyższa niż w tym roku - Tyrowicz, RPP",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/stopy-proc-w-polsce-sa-obecnie-za-niskie-w-27-inflacja-wyzsza-niz-w-tym-roku",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -224,6 +255,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "08:25",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zremb Chojnice inwestuje w przyszły wzrost",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/zremb-chojnice-inwestuje-w-przyszly-wzrost",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "07:25",
     "kind": "news",
