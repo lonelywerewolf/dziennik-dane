@@ -1,7 +1,54 @@
 {
  "date": "2026-11-06",
- "count": 323,
+ "count": 328,
  "items": [
+  {
+   "id": "bossa-espi-23614",
+   "date": "2026-11-06",
+   "time": "18:43",
+   "ts": "2026-11-06T18:43:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "POLICE",
+   "title": "Zatwierdzenie przez sąd układu częściowego spółki stowarzyszonej.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23614"
+  },
+  {
+   "id": "bossa-espi-23613",
+   "date": "2026-11-06",
+   "time": "18:42",
+   "ts": "2026-11-06T18:42:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "GRUPA AZOTY SA",
+   "title": "Zatwierdzenie przez sąd układu częściowego spółki zależnej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23613"
+  },
+  {
+   "id": "strefa-1a071efda6eb",
+   "date": "2026-11-06",
+   "time": "18:34",
+   "ts": "2026-11-06T18:34:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A21 wyemitowanymi przez GMINĘ MIEJSKĄ MIELEC",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/gpw-w-sprawie-zawieszenia-obrotu-gieldowego-na-catalyst-obligacjami-na"
+  },
+  {
+   "id": "bossa-pap-439810",
+   "date": "2026-11-06",
+   "time": "18:32",
+   "ts": "2026-11-06T18:32:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A21 wyemitowanymi przez GMINĘ MIEJSKĄ MIELEC",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439810"
+  },
   {
    "id": "bossa-pap-439809",
    "date": "2026-11-06",
@@ -48,6 +95,17 @@
    "title": "DZIEŃ NA RYNKACH: Indeksy w Europie spadły mimo odbicia amerykańskich spółek",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261106/dzien-na-rynkach-indeksy-w-europie-spadly-mimo-odbicia-amerykanskich-spolek"
+  },
+  {
+   "id": "strefa-273af57ebaaa",
+   "date": "2026-11-06",
+   "time": "18:20",
+   "ts": "2026-11-06T18:20:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie dopuszczenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów inwestycyjnych serii 2610 emitowanych przez MICHAEL/STRÖM OBLIGACJI KORPORACYJNYCH FUNDUSZ INWESTYCYJNY ZAMKNIĘTY",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/gpw-w-sprawie-dopuszczenia-do-obrotu-gieldowego-na-glownym-rynku-gpw-1"
   },
   {
    "id": "bossa-pap-439806",
