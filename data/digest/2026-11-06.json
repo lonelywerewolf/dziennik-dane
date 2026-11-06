@@ -2,11 +2,11 @@
  "date": "2026-11-06",
  "counts": {
   "podsumowania": 4,
-  "wyniki": 0,
+  "wyniki": 1,
   "rekomendacje": 0,
   "korporacyjne": 0,
   "makro_pl": 0,
-  "swiat_rynki": 0,
+  "swiat_rynki": 1,
   "energetyka_surowce": 0,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
@@ -15,7 +15,7 @@
   "pozostale": 3
  },
  "duplicatesRemoved": 0,
- "total": 7,
+ "total": 9,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -56,11 +56,31 @@
     "flags": []
    }
   ],
-  "wyniki": [],
+  "wyniki": [
+   {
+    "time": "06:29",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MOL miał w III kw. 2026 r. 1,76 mld USD oczyszczonej EBITDA",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439585",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "rekomendacje": [],
   "korporacyjne": [],
   "makro_pl": [],
-  "swiat_rynki": [],
+  "swiat_rynki": [
+   {
+    "time": "06:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "S&P może obniżyć perspektywę ratingu Polski, w centrum uwagi kwestie fiskalne i instytucje (analiza)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439586",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "energetyka_surowce": [],
   "nieruchomosci": [],
   "fundusze_drobne": [],

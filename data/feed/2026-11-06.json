@@ -1,7 +1,31 @@
 {
  "date": "2026-11-06",
- "count": 7,
+ "count": 9,
  "items": [
+  {
+   "id": "bossa-pap-439586",
+   "date": "2026-11-06",
+   "time": "06:30",
+   "ts": "2026-11-06T06:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "S&P może obniżyć perspektywę ratingu Polski, w centrum uwagi kwestie fiskalne i instytucje (analiza)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439586"
+  },
+  {
+   "id": "bossa-pap-439585",
+   "date": "2026-11-06",
+   "time": "06:29",
+   "ts": "2026-11-06T06:29:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MOL miał w III kw. 2026 r. 1,76 mld USD oczyszczonej EBITDA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439585"
+  },
   {
    "id": "bossa-pap-439584",
    "date": "2026-11-06",
