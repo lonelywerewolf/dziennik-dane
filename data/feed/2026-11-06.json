@@ -1,7 +1,31 @@
 {
  "date": "2026-11-06",
- "count": 93,
+ "count": 95,
  "items": [
+  {
+   "id": "bossa-pap-439636",
+   "date": "2026-11-06",
+   "time": "09:37",
+   "ts": "2026-11-06T09:37:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Kurs Orlenu spada o 3,7 proc. przy wysokich obrotach; WIG20 zniżkuje o 1,3 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439636"
+  },
+  {
+   "id": "bossa-pap-439635",
+   "date": "2026-11-06",
+   "time": "09:36",
+   "ts": "2026-11-06T09:36:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "ECO5TECH SA (15/2026) Rejestracja przez sąd zmiany statutu emitenta lub odmowie takiej rejestracji, z podaniem przyczyn odmowy",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439635"
+  },
   {
    "id": "bossa-espi-23536",
    "date": "2026-11-06",

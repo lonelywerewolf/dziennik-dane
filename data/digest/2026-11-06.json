@@ -7,15 +7,15 @@
   "korporacyjne": 8,
   "makro_pl": 16,
   "swiat_rynki": 4,
-  "energetyka_surowce": 1,
+  "energetyka_surowce": 2,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 11
+  "pozostale": 12
  },
  "duplicatesRemoved": 37,
- "total": 93,
+ "total": 95,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -447,6 +447,15 @@
   ],
   "energetyka_surowce": [
    {
+    "time": "09:37",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Kurs Orlenu spada o 3,7 proc. przy wysokich obrotach; WIG20 zniżkuje o 1,3 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439636",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "08:28",
     "kind": "news",
     "ticker": null,
@@ -461,6 +470,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:36",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ECO5TECH SA (15/2026) Rejestracja przez sąd zmiany statutu emitenta lub odmowie takiej rejestracji, z podaniem przyczyn odmowy",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439635",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:16",
     "kind": "news",
