@@ -1,7 +1,100 @@
 {
  "date": "2026-11-06",
- "count": 97,
+ "count": 107,
  "items": [
+  {
+   "id": "bossa-pap-439642",
+   "date": "2026-11-06",
+   "time": "10:03",
+   "ts": "2026-11-06T10:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zarzecki z RPP nie wyklucza podwyżki stóp proc. w grudniu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439642"
+  },
+  {
+   "id": "bossa-espi-23540",
+   "date": "2026-11-06",
+   "time": "10:03",
+   "ts": "2026-11-06T10:03:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Yoshi lnnovation S.A.",
+   "title": ": Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu Yoshi Innovation S.A., które odbyło się w dniu 30 października 2026 roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23540"
+  },
+  {
+   "id": "bossa-pap-439641",
+   "date": "2026-11-06",
+   "time": "10:02",
+   "ts": "2026-11-06T10:02:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Odsetek \"byków\" na GPW wzrósł do 44,1 proc., spadków oczekuje 37,3 proc. - INI",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439641"
+  },
+  {
+   "id": "strefa-1d1fc1adaa87",
+   "date": "2026-11-06",
+   "time": "10:01",
+   "ts": "2026-11-06T10:01:44+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Odsetek \"byków\" na GPW wzrósł do 44,1 proc., spadków oczekuje 37,3 proc. - INI",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/odsetek-bykow-na-gpw-wzrosl-do-441-proc-spadkow-oczekuje-373-proc-ini"
+  },
+  {
+   "id": "strefa-fdbaca7b9b0b",
+   "date": "2026-11-06",
+   "time": "10:00",
+   "ts": "2026-11-06T10:00:39+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Farm Innovations S.A. pozyskuje Medivet jako dystrybutora. Produkty spółki trafią do największej hurtowni weterynaryjnej w Polsce",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/farm-innovations-sa-pozyskuje-medivet-jako-dystrybutora-produkty-spolki-trafia"
+  },
+  {
+   "id": "strefa-565cb8d48fc9",
+   "date": "2026-11-06",
+   "time": "09:54",
+   "ts": "2026-11-06T09:54:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "W ciągu 10 dni rząd przedstawi rozwiązania zw. z sytuacją na rynku gazu – Domański (aktl.)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/w-ciagu-10-dni-rzad-przedstawi-rozwiazania-zw-z-sytuacja-na-rynku-gazu-0"
+  },
+  {
+   "id": "bossa-pap-439640",
+   "date": "2026-11-06",
+   "time": "09:53",
+   "ts": "2026-11-06T09:53:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "W październiku trzeci miesiąc wzrostów cen węgla na światowych rynkach - ARP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439640"
+  },
+  {
+   "id": "bossa-pap-439639",
+   "date": "2026-11-06",
+   "time": "09:51",
+   "ts": "2026-11-06T09:51:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "W ciągu 10 dni rząd przedstawi rozwiązania zw. z sytuacją na rynku gazu – Domański (aktl.)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439639"
+  },
   {
    "id": "bossa-espi-23539",
    "date": "2026-11-06",
@@ -13,6 +106,17 @@
    "title": "Informacja poufna – łączna wartość aktywów netto zgromadzonych na platformie KupFundusz.pl na dzień 31 października 2026 r.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23539"
+  },
+  {
+   "id": "strefa-2ffc57c94c9a",
+   "date": "2026-11-06",
+   "time": "09:39",
+   "ts": "2026-11-06T09:39:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "W październiku trzeci miesiąc wzrostów cen węgla na światowych rynkach - ARP",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/w-pazdzierniku-trzeci-miesiac-wzrostow-cen-wegla-na-swiatowych-rynkach-arp"
   },
   {
    "id": "bossa-espi-23538",
@@ -61,6 +165,17 @@
    "title": "Informacja o transakcjach uzyskanych w trybie art. 19 ust. 3 rozporządzenia MAR",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23536"
+  },
+  {
+   "id": "strefa-a18031426d63",
+   "date": "2026-11-06",
+   "time": "09:23",
+   "ts": "2026-11-06T09:23:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Kurs Orlenu spada o 3,7 proc. przy wysokich obrotach; WIG20 zniżkuje o 1,3 proc.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/kurs-orlenu-spada-o-37-proc-przy-wysokich-obrotach-wig20-znizkuje-o-13-proc"
   },
   {
    "id": "strefa-3e8b7ec11a47",

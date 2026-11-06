@@ -4,18 +4,18 @@
   "podsumowania": 8,
   "wyniki": 8,
   "rekomendacje": 0,
-  "korporacyjne": 9,
+  "korporacyjne": 11,
   "makro_pl": 16,
   "swiat_rynki": 4,
-  "energetyka_surowce": 2,
+  "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 13
+  "pozostale": 15
  },
- "duplicatesRemoved": 37,
- "total": 97,
+ "duplicatesRemoved": 42,
+ "total": 107,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -174,6 +174,26 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "10:03",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Zarzecki z RPP nie wyklucza podwyżki stóp proc. w grudniu",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439642",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:03",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Yoshi lnnovation S.A.: : Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu Yoshi Innovation S.A., które odbyło się w dniu 30 października 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23540",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "09:39",
     "kind": "espi",
@@ -458,12 +478,21 @@
   ],
   "energetyka_surowce": [
    {
-    "time": "09:37",
-    "kind": "pap",
+    "time": "09:39",
+    "kind": "news",
+    "ticker": null,
+    "title": "W październiku trzeci miesiąc wzrostów cen węgla na światowych rynkach - ARP",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/w-pazdzierniku-trzeci-miesiac-wzrostow-cen-wegla-na-swiatowych-rynkach-arp",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "09:23",
+    "kind": "news",
     "ticker": null,
     "title": "Kurs Orlenu spada o 3,7 proc. przy wysokich obrotach; WIG20 zniżkuje o 1,3 proc.",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439636",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/kurs-orlenu-spada-o-37-proc-przy-wysokich-obrotach-wig20-znizkuje-o-13-proc",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -481,6 +510,24 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "10:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Odsetek \"byków\" na GPW wzrósł do 44,1 proc., spadków oczekuje 37,3 proc. - INI",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/odsetek-bykow-na-gpw-wzrosl-do-441-proc-spadkow-oczekuje-373-proc-ini",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "10:00",
+    "kind": "news",
+    "ticker": null,
+    "title": "Farm Innovations S.A. pozyskuje Medivet jako dystrybutora. Produkty spółki trafią do największej hurtowni weterynaryjnej w Polsce",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/farm-innovations-sa-pozyskuje-medivet-jako-dystrybutora-produkty-spolki-trafia",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:43",
     "kind": "espi",
