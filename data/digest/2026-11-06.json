@@ -2,7 +2,7 @@
  "date": "2026-11-06",
  "counts": {
   "podsumowania": 18,
-  "wyniki": 21,
+  "wyniki": 22,
   "rekomendacje": 1,
   "korporacyjne": 45,
   "makro_pl": 39,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 63
  },
- "duplicatesRemoved": 134,
- "total": 355,
+ "duplicatesRemoved": 135,
+ "total": 357,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -185,6 +185,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "21:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "NOTORIA SA (8/2026) Raport kwartalny za I kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439833",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "19:43",
     "kind": "pap",
