@@ -2,20 +2,20 @@
  "date": "2026-11-06",
  "counts": {
   "podsumowania": 6,
-  "wyniki": 6,
+  "wyniki": 7,
   "rekomendacje": 0,
   "korporacyjne": 6,
-  "makro_pl": 15,
+  "makro_pl": 16,
   "swiat_rynki": 4,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 8
+  "pozostale": 9
  },
- "duplicatesRemoved": 22,
- "total": 68,
+ "duplicatesRemoved": 26,
+ "total": 75,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -75,6 +75,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "09:02",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wyniki Modivo wskazują na poprawę działalności handlowej (opinia)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439620",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "08:20",
     "kind": "pap",
@@ -204,6 +215,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "09:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "Centralna ścieżka projekcji NBP zakłada CPI w 2027 r. na poziomie 4,2 proc. i w 2028 r. na poziomie 2,8 proc.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/centralna-sciezka-projekcji-nbp-zaklada-cpi-w-2027-r-na-poziomie-42-proc-i-w",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:01",
     "kind": "news",
@@ -394,6 +414,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:07",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MC: Ramy strategii przeciwdziałania dezinformacji na posiedzeniu CWD (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439623",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:54",
     "kind": "pap",

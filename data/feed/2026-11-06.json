@@ -1,7 +1,77 @@
 {
  "date": "2026-11-06",
- "count": 68,
+ "count": 75,
  "items": [
+  {
+   "id": "bossa-pap-439623",
+   "date": "2026-11-06",
+   "time": "09:07",
+   "ts": "2026-11-06T09:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MC: Ramy strategii przeciwdziałania dezinformacji na posiedzeniu CWD (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439623"
+  },
+  {
+   "id": "bossa-pap-439622",
+   "date": "2026-11-06",
+   "time": "09:05",
+   "ts": "2026-11-06T09:05:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Projekcja NBP zakłada inflację bazową średnio w 2027 r. 3,3 proc., a w 2028 r. 2,8 proc. (opis)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439622"
+  },
+  {
+   "id": "strefa-1468d628a07e",
+   "date": "2026-11-06",
+   "time": "09:04",
+   "ts": "2026-11-06T09:04:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Projekcja NBP zakłada inflację bazową średnio w 2027 r. 3,3 proc., a w 2028 r. 2,8 proc. (opis)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/projekcja-nbp-zaklada-inflacje-bazowa-srednio-w-2027-r-33-proc-w-2028-r-28-0"
+  },
+  {
+   "id": "bossa-pap-439621",
+   "date": "2026-11-06",
+   "time": "09:03",
+   "ts": "2026-11-06T09:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Centralna ścieżka projekcji NBP zakłada CPI w 2027 r. na poziomie 4,2 proc. i w 2028 r. na poziomie 2,8 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439621"
+  },
+  {
+   "id": "strefa-9ae536985773",
+   "date": "2026-11-06",
+   "time": "09:02",
+   "ts": "2026-11-06T09:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Centralna ścieżka projekcji NBP zakłada CPI w 2027 r. na poziomie 4,2 proc. i w 2028 r. na poziomie 2,8 proc.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/centralna-sciezka-projekcji-nbp-zaklada-cpi-w-2027-r-na-poziomie-42-proc-i-w"
+  },
+  {
+   "id": "bossa-pap-439620",
+   "date": "2026-11-06",
+   "time": "09:02",
+   "ts": "2026-11-06T09:02:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wyniki Modivo wskazują na poprawę działalności handlowej (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439620"
+  },
   {
    "id": "strefa-b08027a42955",
    "date": "2026-11-06",
@@ -67,6 +137,18 @@
    "title": "Projekcja NBP zakłada wzrost PKB w 2027 r. na poziomie 2,8 proc. i w 2028 r. na poziomie 2,8 proc.",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261106/projekcja-nbp-zaklada-wzrost-pkb-w-2027-r-na-poziomie-28-proc-i-w-2028-r-na"
+  },
+  {
+   "id": "bossa-pap-439619",
+   "date": "2026-11-06",
+   "time": "09:01",
+   "ts": "2026-11-06T09:01:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "W latach 2027-28, wraz ze spadkiem wykorzystania funduszy UE, dynamika inwestycji obniży się - projekcja NBP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439619"
   },
   {
    "id": "bossa-pap-439618",
