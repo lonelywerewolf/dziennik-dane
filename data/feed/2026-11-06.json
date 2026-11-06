@@ -1,7 +1,19 @@
 {
  "date": "2026-11-06",
- "count": 18,
+ "count": 19,
  "items": [
+  {
+   "id": "bossa-espi-23525",
+   "date": "2026-11-06",
+   "time": "07:15",
+   "ts": "2026-11-06T07:15:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "LIBET S.A.",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23525"
+  },
   {
    "id": "bossa-pap-439590",
    "date": "2026-11-06",
