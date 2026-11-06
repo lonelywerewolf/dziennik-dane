@@ -2,20 +2,20 @@
  "date": "2026-11-06",
  "counts": {
   "podsumowania": 8,
-  "wyniki": 11,
+  "wyniki": 12,
   "rekomendacje": 1,
   "korporacyjne": 12,
-  "makro_pl": 20,
+  "makro_pl": 21,
   "swiat_rynki": 5,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 18
+  "pozostale": 20
  },
- "duplicatesRemoved": 45,
- "total": 124,
+ "duplicatesRemoved": 46,
+ "total": 129,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -93,6 +93,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "11:08",
+    "kind": "pap",
+    "ticker": null,
+    "title": "VENDA SE/Venda Spółka Europejska w restrukturyzacji (16/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439660",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:55",
     "kind": "pap",
@@ -345,6 +354,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "11:04",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Sprzedaż detaliczna w strefie euro w IX: -0,7 proc. mdm. Konsensus: -0,1 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439659",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:48",
     "kind": "pap",
@@ -617,6 +635,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:11",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźniki referencyjne - EURIBOR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439661",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:04",
+    "kind": "news",
+    "ticker": null,
+    "title": "Po III kw. wartość nowego biznesu mLeasingu wzrosła o 16 proc. rdr, wobec 8,8 proc. wzrostu rynku",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/po-iii-kw-wartosc-nowego-biznesu-mleasingu-wzrosla-o-16-proc-rdr-wobec-88-proc",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "10:57",
     "kind": "pap",
