@@ -3,19 +3,19 @@
  "counts": {
   "podsumowania": 8,
   "wyniki": 10,
-  "rekomendacje": 0,
+  "rekomendacje": 1,
   "korporacyjne": 12,
-  "makro_pl": 16,
+  "makro_pl": 18,
   "swiat_rynki": 5,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
-  "twoje_spolki": 0,
+  "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 16
+  "pozostale": 17
  },
- "duplicatesRemoved": 43,
- "total": 113,
+ "duplicatesRemoved": 44,
+ "total": 119,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -194,7 +194,17 @@
     "flags": []
    }
   ],
-  "rekomendacje": [],
+  "rekomendacje": [
+   {
+    "time": "10:31",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Oddo BHF obniżył rekomendację dla PKO BP do \"neutralnie\"",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439650",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "korporacyjne": [
    {
     "time": "10:13",
@@ -326,6 +336,24 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "10:38",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MFiPR: 52,89 mld zł z KPO zainwestowanych w województwie mazowieckim (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439653",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:33",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PEKABEX: Raport miesięczny wielkości produkcji w październiku 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23542",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:02",
     "kind": "news",
@@ -549,9 +577,28 @@
   ],
   "nieruchomosci": [],
   "fundusze_drobne": [],
-  "twoje_spolki": [],
+  "twoje_spolki": [
+   {
+    "time": "10:02",
+    "kind": "news",
+    "ticker": "XTB",
+    "title": "GPW wraz XTB zwiększają dostępność polskiego rynku dla zagranicznych inwestorów indywidualnych",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/gpw-wraz-xtb-zwiekszaja-dostepnosc-polskiego-rynku-dla-zagranicznych-inwestorow",
+    "src": "strefainwestorow",
+    "flags": []
+   }
+  ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "10:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźniki referencyjne - SONIA",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439651",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:11",
     "kind": "pap",

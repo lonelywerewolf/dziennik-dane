@@ -1,7 +1,67 @@
 {
  "date": "2026-11-06",
- "count": 113,
+ "count": 119,
  "items": [
+  {
+   "id": "bossa-pap-439654",
+   "date": "2026-11-06",
+   "time": "10:41",
+   "ts": "2026-11-06T10:41:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Prezydent powołał Kightley, Litwiniuka, Koteckiego i Zarzeckiego do zarządu NBP (opis)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439654"
+  },
+  {
+   "id": "bossa-pap-439653",
+   "date": "2026-11-06",
+   "time": "10:38",
+   "ts": "2026-11-06T10:38:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MFiPR: 52,89 mld zł z KPO zainwestowanych w województwie mazowieckim (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439653"
+  },
+  {
+   "id": "bossa-pap-439651",
+   "date": "2026-11-06",
+   "time": "10:34",
+   "ts": "2026-11-06T10:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne - SONIA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439651"
+  },
+  {
+   "id": "bossa-espi-23542",
+   "date": "2026-11-06",
+   "time": "10:33",
+   "ts": "2026-11-06T10:33:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PEKABEX",
+   "title": "Raport miesięczny wielkości produkcji w październiku 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23542"
+  },
+  {
+   "id": "bossa-pap-439650",
+   "date": "2026-11-06",
+   "time": "10:31",
+   "ts": "2026-11-06T10:31:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Oddo BHF obniżył rekomendację dla PKO BP do \"neutralnie\"",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439650"
+  },
   {
    "id": "bossa-pap-439649",
    "date": "2026-11-06",
@@ -97,6 +157,17 @@
    "title": ": Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu Yoshi Innovation S.A., które odbyło się w dniu 30 października 2026 roku",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23540"
+  },
+  {
+   "id": "strefa-b1b61a36d61d",
+   "date": "2026-11-06",
+   "time": "10:02",
+   "ts": "2026-11-06T10:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW wraz XTB zwiększają dostępność polskiego rynku dla zagranicznych inwestorów indywidualnych",
+   "ticker": "XTB",
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/gpw-wraz-xtb-zwiekszaja-dostepnosc-polskiego-rynku-dla-zagranicznych-inwestorow"
   },
   {
    "id": "bossa-pap-439641",
