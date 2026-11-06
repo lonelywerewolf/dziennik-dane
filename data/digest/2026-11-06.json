@@ -4,7 +4,7 @@
   "podsumowania": 18,
   "wyniki": 23,
   "rekomendacje": 1,
-  "korporacyjne": 45,
+  "korporacyjne": 46,
   "makro_pl": 39,
   "swiat_rynki": 18,
   "energetyka_surowce": 4,
@@ -15,7 +15,7 @@
   "pozostale": 63
  },
  "duplicatesRemoved": 135,
- "total": 358,
+ "total": 359,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -422,6 +422,15 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "21:50",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KBJ S.A.: Informacje o walnym zgromadzeniu - zwołanie NWZ z projektami uchwał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23628",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "20:55",
     "kind": "espi",
