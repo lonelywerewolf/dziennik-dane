@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "30368ac61de5",
+   "ticker": "MRVL",
+   "time": "2026-11-06T18:50+01:00",
+   "title": "Stock Indexes Push Higher as Chipmakers Roar Back",
+   "url": "https://www.nasdaq.com/articles/stock-indexes-push-higher-chipmakers-roar-back",
+   "src": "nasdaq",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up +1.07% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.21%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +2.09%.  December E-mini S&P futures (ESZ26 ) are up +0.90%, and December E-mini Nasdaq futures..."
+  },
+  {
    "id": "dd4b6f6001cb",
    "ticker": "AVGO",
    "time": "2026-11-06T18:14+01:00",
@@ -53,6 +62,69 @@
    "url": "https://www.nasdaq.com/articles/nasdaq-stock-market-correction-heres-most-attractive-bargain-magnificent-seven",
    "src": "nasdaq",
    "summary": "Key PointsAlphabet stock is nearly 30% below its record high and trades for about 18 times forward earnings."
+  },
+  {
+   "id": "d97313cb5f9c",
+   "ticker": "MRVL",
+   "time": "2026-11-06T16:40+01:00",
+   "title": "GFS or MRVL: Which Is the Better Value Stock Right Now?",
+   "url": "https://www.nasdaq.com/articles/gfs-or-mrvl-which-better-value-stock-right-now",
+   "src": "nasdaq",
+   "summary": "GFS vs. MRVL: Which Stock Is the Better Value Option?"
+  },
+  {
+   "id": "8e39e55ad706",
+   "ticker": "NVDA",
+   "time": "2026-11-06T16:35+01:00",
+   "title": "FIVN Q3 Earnings & Revenues Surpass Estimates, Both Increase Y/Y",
+   "url": "https://www.nasdaq.com/articles/fivn-q3-earnings-revenues-surpass-estimates-both-increase-y-y",
+   "src": "nasdaq",
+   "summary": "Five9 tops Q3 earnings and revenue estimates on 16% subscription growth, but gross margins narrow as it unveils a $325 million AI acquisition plan."
+  },
+  {
+   "id": "4ae3eeb63cf6",
+   "ticker": "NVDA",
+   "time": "2026-11-06T16:24+01:00",
+   "title": "SYNA Q1 Earnings Beat Estimates, Revenues Miss on Weak Demand",
+   "url": "https://www.nasdaq.com/articles/syna-q1-earnings-beat-estimates-revenues-miss-weak-demand",
+   "src": "nasdaq",
+   "summary": "Synaptics' fiscal Q1 2027 earnings beat estimates, but revenues missed estimates amid weak demand and supply constraints. Edge AI initiatives gain momentum."
+  },
+  {
+   "id": "d8a56d006e93",
+   "ticker": "NVDA",
+   "time": "2026-11-06T16:24+01:00",
+   "title": "MCHP Q2 Earnings Beat Estimates, Revenues Rise on Demand Recovery",
+   "url": "https://www.nasdaq.com/articles/mchp-q2-earnings-beat-estimates-revenues-rise-demand-recovery",
+   "src": "nasdaq",
+   "summary": "Microchip's Q2 fiscal 2027 earnings beat estimates as revenues surge 42.2%, fueled by industrial and data center demand recovery and expanding margins."
+  },
+  {
+   "id": "029cb4c141fd",
+   "ticker": "NVDA",
+   "time": "2026-11-06T16:23+01:00",
+   "title": "Unity Q3 Earnings Beat Estimates on Vector Strength and Margin Gains",
+   "url": "https://www.nasdaq.com/articles/unity-q3-earnings-beat-estimates-vector-strength-and-margin-gains",
+   "src": "nasdaq",
+   "summary": "U's Q3 adjusted earnings rise 120% as AI-powered Vector revenues surge 126%, margins widen, and the company posts its first GAAP profit since its IPO."
+  },
+  {
+   "id": "18433e223295",
+   "ticker": "NVDA",
+   "time": "2026-11-06T16:21+01:00",
+   "title": "Appian Q3 Earnings Beat Estimates, Revenues Increase Y/Y",
+   "url": "https://www.nasdaq.com/articles/appian-q3-earnings-beat-estimates-revenues-increase-y-y",
+   "src": "nasdaq",
+   "summary": "APPN's Q3'26 earnings and revenues beat estimates, fueled by strong subscription growth and AI adoption, prompting a higher 2026 outlook despite cash flow weakness."
+  },
+  {
+   "id": "00ddd0345f7e",
+   "ticker": "NVDA",
+   "time": "2026-11-06T16:21+01:00",
+   "title": "Airbnb Q3 Earnings Beat Estimates as Booking Demand Accelerates",
+   "url": "https://www.nasdaq.com/articles/airbnb-q3-earnings-beat-estimates-booking-demand-accelerates",
+   "src": "nasdaq",
+   "summary": "Airbnb's Q3 2026 earnings beat estimates as bookings surge, margins expand, and AI improves efficiency, prompting a higher full-year revenue growth outlook."
   },
   {
    "id": "1079dd75e7ba",
@@ -1981,5 +2053,5 @@
    "summary": "Key PointsASML is one of the most important companies in the global semiconductor ecosystem, but its stock price performance has left a lot to be desired over the past three years."
   }
  ],
- "updatedAt": "2026-11-06T18:44:55+01:00"
+ "updatedAt": "2026-11-06T18:58:08+01:00"
 }

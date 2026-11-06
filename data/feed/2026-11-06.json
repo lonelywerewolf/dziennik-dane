@@ -1,7 +1,125 @@
 {
  "date": "2026-11-06",
- "count": 328,
+ "count": 339,
  "items": [
+  {
+   "id": "bossa-pap-439820",
+   "date": "2026-11-06",
+   "time": "18:57",
+   "ts": "2026-11-06T18:57:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Aktualne wskaźniki giełdowe",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439820"
+  },
+  {
+   "id": "bossa-pap-439819",
+   "date": "2026-11-06",
+   "time": "18:52",
+   "ts": "2026-11-06T18:52:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A21 wyemitowanymi przez GMINĘ PODGÓRZYN",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439819"
+  },
+  {
+   "id": "bossa-espi-23616",
+   "date": "2026-11-06",
+   "time": "18:52",
+   "ts": "2026-11-06T18:52:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ONE2TRIBE S.A.",
+   "title": "Zawarcie aneksu do znaczącej umowy",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23616"
+  },
+  {
+   "id": "bossa-espi-23615",
+   "date": "2026-11-06",
+   "time": "18:52",
+   "ts": "2026-11-06T18:52:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "QUERCUS TFI S.A.",
+   "title": "Wykaz akcjonariuszy posiadających co najmniej 5% głosów na Walnym Zgromadzeniu Quercus TFI S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23615"
+  },
+  {
+   "id": "bossa-pap-439816",
+   "date": "2026-11-06",
+   "time": "18:51",
+   "ts": "2026-11-06T18:51:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A19 wyemitowanymi przez GMINĘ PODGÓRZYN",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439816"
+  },
+  {
+   "id": "strefa-052ead14e775",
+   "date": "2026-11-06",
+   "time": "18:49",
+   "ts": "2026-11-06T18:49:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii B23 wyemitowanymi przez GMINĘ NIEPOŁOMICE",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/gpw-w-sprawie-zawieszenia-obrotu-gieldowego-na-catalyst-obligacjami-na-2"
+  },
+  {
+   "id": "bossa-pap-439815",
+   "date": "2026-11-06",
+   "time": "18:49",
+   "ts": "2026-11-06T18:49:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii B23 wyemitowanymi przez GMINĘ NIEPOŁOMICE",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439815"
+  },
+  {
+   "id": "strefa-769f46fc4239",
+   "date": "2026-11-06",
+   "time": "18:48",
+   "ts": "2026-11-06T18:48:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A24 wyemitowanymi przez GMINĘ MIEJSKĄ MIELEC",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/gpw-w-sprawie-zawieszenia-obrotu-gieldowego-na-catalyst-obligacjami-na-1"
+  },
+  {
+   "id": "bossa-pap-439814",
+   "date": "2026-11-06",
+   "time": "18:48",
+   "ts": "2026-11-06T18:48:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A24 wyemitowanymi przez GMINĘ MIEJSKĄ MIELEC",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439814"
+  },
+  {
+   "id": "bossa-pap-439813",
+   "date": "2026-11-06",
+   "time": "18:47",
+   "ts": "2026-11-06T18:47:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A23 wyemitowanymi przez GMINĘ MIEJSKĄ MIELEC",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439813"
+  },
   {
    "id": "bossa-espi-23614",
    "date": "2026-11-06",
@@ -25,6 +143,17 @@
    "title": "Zatwierdzenie przez sąd układu częściowego spółki zależnej",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23613"
+  },
+  {
+   "id": "strefa-2cd179425b7c",
+   "date": "2026-11-06",
+   "time": "18:34",
+   "ts": "2026-11-06T18:34:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A23 wyemitowanymi przez GMINĘ MIEJSKĄ MIELEC",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/gpw-w-sprawie-zawieszenia-obrotu-gieldowego-na-catalyst-obligacjami-na-0"
   },
   {
    "id": "strefa-1a071efda6eb",
