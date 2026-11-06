@@ -4,7 +4,7 @@
   "podsumowania": 17,
   "wyniki": 20,
   "rekomendacje": 1,
-  "korporacyjne": 33,
+  "korporacyjne": 35,
   "makro_pl": 37,
   "swiat_rynki": 17,
   "energetyka_surowce": 4,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 10,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 56
+  "pozostale": 58
  },
- "duplicatesRemoved": 114,
- "total": 311,
+ "duplicatesRemoved": 115,
+ "total": 316,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -386,6 +386,26 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "18:07",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Transakcje pakietowe",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439804",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:56",
+    "kind": "espi",
+    "ticker": null,
+    "title": "AGORA: Przystąpienie spółek zależnych do umowy kredytów terminowych oraz kredytów obrotowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23612",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "17:13",
     "kind": "espi",
@@ -1387,12 +1407,30 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "17:55",
+    "kind": "espi",
+    "ticker": null,
+    "title": "NIEWIADÓW POLSKA GRUPA MILITARNA S.A.: Rejestracja przez Sąd Rejestrowy zmiany Statutu Spółki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23611",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "17:42",
     "kind": "espi",
     "ticker": null,
     "title": "NOVATURAS AB: Update regarding the Company’s principal shareholder",
     "url": "https://bossa.pl/analizy/komunikaty#message-23610",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:41",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zamknięcia na giełdach w Europie (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/zamkniecia-na-gieldach-w-europie-tabela",
+    "src": "strefainwestorow",
     "flags": []
    },
    {

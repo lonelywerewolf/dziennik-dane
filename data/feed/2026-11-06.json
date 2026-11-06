@@ -1,7 +1,55 @@
 {
  "date": "2026-11-06",
- "count": 311,
+ "count": 316,
  "items": [
+  {
+   "id": "bossa-pap-439804",
+   "date": "2026-11-06",
+   "time": "18:07",
+   "ts": "2026-11-06T18:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Transakcje pakietowe",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439804"
+  },
+  {
+   "id": "bossa-pap-439803",
+   "date": "2026-11-06",
+   "time": "18:02",
+   "ts": "2026-11-06T18:02:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zamknięcia na giełdach w Europie (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439803"
+  },
+  {
+   "id": "bossa-espi-23612",
+   "date": "2026-11-06",
+   "time": "17:56",
+   "ts": "2026-11-06T17:56:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "AGORA",
+   "title": "Przystąpienie spółek zależnych do umowy kredytów terminowych oraz kredytów obrotowych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23612"
+  },
+  {
+   "id": "bossa-espi-23611",
+   "date": "2026-11-06",
+   "time": "17:55",
+   "ts": "2026-11-06T17:55:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "NIEWIADÓW POLSKA GRUPA MILITARNA S.A.",
+   "title": "Rejestracja przez Sąd Rejestrowy zmiany Statutu Spółki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23611"
+  },
   {
    "id": "bossa-pap-439800",
    "date": "2026-11-06",
@@ -25,6 +73,17 @@
    "title": "Update regarding the Company’s principal shareholder",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23610"
+  },
+  {
+   "id": "strefa-b4b903ce5309",
+   "date": "2026-11-06",
+   "time": "17:41",
+   "ts": "2026-11-06T17:41:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Zamknięcia na giełdach w Europie (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/zamkniecia-na-gieldach-w-europie-tabela"
   },
   {
    "id": "bossa-pap-439798",
