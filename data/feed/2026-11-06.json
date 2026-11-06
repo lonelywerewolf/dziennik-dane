@@ -1,7 +1,55 @@
 {
  "date": "2026-11-06",
- "count": 305,
+ "count": 310,
  "items": [
+  {
+   "id": "bossa-espi-23610",
+   "date": "2026-11-06",
+   "time": "17:42",
+   "ts": "2026-11-06T17:42:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "NOVATURAS AB",
+   "title": "Update regarding the Company’s principal shareholder",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23610"
+  },
+  {
+   "id": "bossa-pap-439798",
+   "date": "2026-11-06",
+   "time": "17:36",
+   "ts": "2026-11-06T17:36:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Notowania ciągłe - podsumowanie",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439798"
+  },
+  {
+   "id": "bossa-pap-439797",
+   "date": "2026-11-06",
+   "time": "17:32",
+   "ts": "2026-11-06T17:32:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "WIG20 na zamknięciu wyniósł 4131,37 pkt (-1,85%)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439797"
+  },
+  {
+   "id": "bossa-espi-23609",
+   "date": "2026-11-06",
+   "time": "17:32",
+   "ts": "2026-11-06T17:32:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ALTUS S.A.",
+   "title": "QS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23609"
+  },
   {
    "id": "bossa-pap-439795",
    "date": "2026-11-06",
@@ -13,6 +61,17 @@
    "title": "Stawka Polonia wzrosła w piątek do 3,8 proc.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439795"
+  },
+  {
+   "id": "strefa-9e448ce179e2",
+   "date": "2026-11-06",
+   "time": "17:27",
+   "ts": "2026-11-06T17:27:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "WIG20 na zamknięciu wyniósł 4131,37 pkt (-1,85%)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/wig20-na-zamknieciu-wyniosl-413137-pkt-185"
   },
   {
    "id": "strefa-7f402f3b4a32",

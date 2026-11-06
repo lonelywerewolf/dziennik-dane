@@ -1,7 +1,7 @@
 {
  "date": "2026-11-06",
  "counts": {
-  "podsumowania": 15,
+  "podsumowania": 17,
   "wyniki": 20,
   "rekomendacje": 1,
   "korporacyjne": 33,
@@ -12,13 +12,33 @@
   "fundusze_drobne": 10,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 55
+  "pozostale": 56
  },
- "duplicatesRemoved": 112,
- "total": 305,
+ "duplicatesRemoved": 114,
+ "total": 310,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "17:36",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Notowania ciągłe - podsumowanie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439798",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "17:27",
+    "kind": "news",
+    "ticker": null,
+    "title": "WIG20 na zamknięciu wyniósł 4131,37 pkt (-1,85%)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/wig20-na-zamknieciu-wyniosl-413137-pkt-185",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:26",
     "kind": "news",
@@ -1357,6 +1377,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:42",
+    "kind": "espi",
+    "ticker": null,
+    "title": "NOVATURAS AB: Update regarding the Company’s principal shareholder",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23610",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:30",
     "kind": "pap",
