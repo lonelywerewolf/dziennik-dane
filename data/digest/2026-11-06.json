@@ -2,7 +2,7 @@
  "date": "2026-11-06",
  "counts": {
   "podsumowania": 19,
-  "wyniki": 23,
+  "wyniki": 24,
   "rekomendacje": 1,
   "korporacyjne": 46,
   "makro_pl": 39,
@@ -15,7 +15,7 @@
   "pozostale": 63
  },
  "duplicatesRemoved": 136,
- "total": 362,
+ "total": 363,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -194,6 +194,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "22:37",
+    "kind": "espi",
+    "ticker": null,
+    "title": "LUG S.A.: Szacunkowe skonsolidowane wybrane dane finansowe Grupy Kapitałowej LUG S.A. za III kwartał 2026 roku oraz narastająco za trzy kwartały 2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23629",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "21:37",
     "kind": "pap",
