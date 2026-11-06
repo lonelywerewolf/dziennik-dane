@@ -2,7 +2,7 @@
  "date": "2026-11-06",
  "counts": {
   "podsumowania": 19,
-  "wyniki": 24,
+  "wyniki": 25,
   "rekomendacje": 1,
   "korporacyjne": 46,
   "makro_pl": 39,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 63
  },
- "duplicatesRemoved": 136,
- "total": 363,
+ "duplicatesRemoved": 137,
+ "total": 365,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -194,6 +194,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "22:59",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ABS INVESTMENT ASI SA (9/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439840",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "22:37",
     "kind": "espi",
