@@ -2,20 +2,20 @@
  "date": "2026-11-06",
  "counts": {
   "podsumowania": 14,
-  "wyniki": 18,
+  "wyniki": 20,
   "rekomendacje": 1,
-  "korporacyjne": 30,
-  "makro_pl": 36,
+  "korporacyjne": 33,
+  "makro_pl": 37,
   "swiat_rynki": 16,
   "energetyka_surowce": 4,
   "nieruchomosci": 1,
   "fundusze_drobne": 10,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 53
+  "pozostale": 54
  },
  "duplicatesRemoved": 110,
- "total": 294,
+ "total": 301,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -147,6 +147,26 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "17:13",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Kolejkowo spodziewa się osiągnięcia w 2026 r. wyników niższych od zakładanych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439793",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "17:10",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KOLEJKOWO SA (13/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439789",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:04",
     "kind": "espi",
@@ -337,6 +357,38 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "17:13",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SZAR S.A.: Zawarcie umowy inwestycyjnej dotyczącej pozyskania finansowania oraz planowanego objęcia akcji lub obligacji nowej emisji",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23607",
+    "src": "bossa",
+    "flags": [
+     "emisja",
+     "umowa"
+    ]
+   },
+   {
+    "time": "17:11",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BETACOM: Zawarcie znaczącej umowy",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23606",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "17:07",
+    "kind": "espi",
+    "ticker": null,
+    "title": "COMP: Zwołanie Nadzwyczajnego Walnego Zgromadzenia COMP S.A. na dzień 4 grudnia 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23604",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:02",
     "kind": "espi",
@@ -662,6 +714,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "17:08",
+    "kind": "pap",
+    "ticker": null,
+    "title": "WB ELECTRONICS/WB Electronics Spółka Akcyjna (9/2026) Umorzenie obligacji emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439787",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:02",
     "kind": "news",
@@ -1287,6 +1348,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:10",
+    "kind": "espi",
+    "ticker": null,
+    "title": "EFEKT: QS",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23605",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:00",
     "kind": "espi",

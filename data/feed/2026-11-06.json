@@ -1,7 +1,91 @@
 {
  "date": "2026-11-06",
- "count": 294,
+ "count": 301,
  "items": [
+  {
+   "id": "bossa-pap-439793",
+   "date": "2026-11-06",
+   "time": "17:13",
+   "ts": "2026-11-06T17:13:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Kolejkowo spodziewa się osiągnięcia w 2026 r. wyników niższych od zakładanych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439793"
+  },
+  {
+   "id": "bossa-espi-23607",
+   "date": "2026-11-06",
+   "time": "17:13",
+   "ts": "2026-11-06T17:13:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "SZAR S.A.",
+   "title": "Zawarcie umowy inwestycyjnej dotyczącej pozyskania finansowania oraz planowanego objęcia akcji lub obligacji nowej emisji",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23607"
+  },
+  {
+   "id": "bossa-espi-23606",
+   "date": "2026-11-06",
+   "time": "17:11",
+   "ts": "2026-11-06T17:11:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETACOM",
+   "title": "Zawarcie znaczącej umowy",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23606"
+  },
+  {
+   "id": "bossa-pap-439789",
+   "date": "2026-11-06",
+   "time": "17:10",
+   "ts": "2026-11-06T17:10:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KOLEJKOWO SA (13/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439789"
+  },
+  {
+   "id": "bossa-espi-23605",
+   "date": "2026-11-06",
+   "time": "17:10",
+   "ts": "2026-11-06T17:10:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "EFEKT",
+   "title": "QS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23605"
+  },
+  {
+   "id": "bossa-pap-439787",
+   "date": "2026-11-06",
+   "time": "17:08",
+   "ts": "2026-11-06T17:08:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "WB ELECTRONICS/WB Electronics Spółka Akcyjna (9/2026) Umorzenie obligacji emitenta",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439787"
+  },
+  {
+   "id": "bossa-espi-23604",
+   "date": "2026-11-06",
+   "time": "17:07",
+   "ts": "2026-11-06T17:07:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "COMP",
+   "title": "Zwołanie Nadzwyczajnego Walnego Zgromadzenia COMP S.A. na dzień 4 grudnia 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23604"
+  },
   {
    "id": "bossa-espi-23602",
    "date": "2026-11-06",
