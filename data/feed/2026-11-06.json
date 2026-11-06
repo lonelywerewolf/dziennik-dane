@@ -1,7 +1,101 @@
 {
  "date": "2026-11-06",
- "count": 135,
+ "count": 144,
  "items": [
+  {
+   "id": "bossa-espi-23549",
+   "date": "2026-11-06",
+   "time": "11:54",
+   "ts": "2026-11-06T11:54:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF MWIG40TRlv PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 204 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23549"
+  },
+  {
+   "id": "bossa-pap-439672",
+   "date": "2026-11-06",
+   "time": "11:51",
+   "ts": "2026-11-06T11:51:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Tabela kursów średnich NBP nr 217/A/NBP/2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439672"
+  },
+  {
+   "id": "strefa-09cc3e5f84b7",
+   "date": "2026-11-06",
+   "time": "11:50",
+   "ts": "2026-11-06T11:50:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Tabela kursów średnich NBP nr 217/A/NBP/2026",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/tabela-kursow-srednich-nbp-nr-217anbp2026"
+  },
+  {
+   "id": "bossa-pap-439671",
+   "date": "2026-11-06",
+   "time": "11:49",
+   "ts": "2026-11-06T11:49:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Indeksy w Europie spadają po wyprzedaży w USA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439671"
+  },
+  {
+   "id": "strefa-f9006e5eb69a",
+   "date": "2026-11-06",
+   "time": "11:47",
+   "ts": "2026-11-06T11:47:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Indeksy w Europie spadają po wyprzedaży w USA",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/dzien-na-rynkach-indeksy-w-europie-spadaja-po-wyprzedazy-w-usa"
+  },
+  {
+   "id": "bossa-espi-23548",
+   "date": "2026-11-06",
+   "time": "11:47",
+   "ts": "2026-11-06T11:47:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF mWIG40TR PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 225 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23548"
+  },
+  {
+   "id": "bossa-pap-439669",
+   "date": "2026-11-06",
+   "time": "11:46",
+   "ts": "2026-11-06T11:46:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Organizacje związkowe PKP Cargo wzywają do zawarcia ZUZP oraz wypłaty świadczeń",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439669"
+  },
+  {
+   "id": "bossa-espi-23547",
+   "date": "2026-11-06",
+   "time": "11:43",
+   "ts": "2026-11-06T11:43:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF DYWIDENDA PLUS PORTFELOW FIZ",
+   "title": "Raport bieżący nr 230 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23547"
+  },
   {
    "id": "bossa-espi-23546",
    "date": "2026-11-06",
@@ -37,6 +131,17 @@
    "title": "LIVE MOTION GAMES SA (11/2026) Podpisanie przez emitenta z firmą audytorską umowy o badanie sprawozdań finansowych lub skonsolidowanych sprawozdań finansowych emitenta",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439665"
+  },
+  {
+   "id": "strefa-63496c67ef33",
+   "date": "2026-11-06",
+   "time": "11:24",
+   "ts": "2026-11-06T11:24:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Organizacje związkowe PKP Cargo wzywają do zawarcia ZUZP oraz wypłaty świadczeń",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/organizacje-zwiazkowe-pkp-cargo-wzywaja-do-zawarcia-zuzp-oraz-wyplaty-swiadczen"
   },
   {
    "id": "bossa-pap-439664",
