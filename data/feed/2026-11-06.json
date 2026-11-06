@@ -1,7 +1,79 @@
 {
  "date": "2026-11-06",
- "count": 205,
+ "count": 211,
  "items": [
+  {
+   "id": "bossa-espi-23578",
+   "date": "2026-11-06",
+   "time": "13:56",
+   "ts": "2026-11-06T13:56:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "DANKS S.A.",
+   "title": "Udzielenie pożyczki spółce zależnej Emitenta",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23578"
+  },
+  {
+   "id": "bossa-espi-23577",
+   "date": "2026-11-06",
+   "time": "13:54",
+   "ts": "2026-11-06T13:54:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KRKA",
+   "title": "Acquisition of treasury shares",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23577"
+  },
+  {
+   "id": "bossa-pap-439722",
+   "date": "2026-11-06",
+   "time": "13:53",
+   "ts": "2026-11-06T13:53:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Efekty II rundy w Polsce na razie niewielkie albo prawie niewidoczne - DABE NBP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439722"
+  },
+  {
+   "id": "bossa-espi-23576",
+   "date": "2026-11-06",
+   "time": "13:53",
+   "ts": "2026-11-06T13:53:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "IRON WOLF STUDIO S.A.",
+   "title": "Zawarcie umów inwestycyjnych dotyczących objęcia akcji serii F",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23576"
+  },
+  {
+   "id": "bossa-pap-439721",
+   "date": "2026-11-06",
+   "time": "13:51",
+   "ts": "2026-11-06T13:51:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Senat przyjął bez poprawek ustawę wprowadzającą nowy próg podatkowy i nową stawkę w PIT",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439721"
+  },
+  {
+   "id": "bossa-pap-439720",
+   "date": "2026-11-06",
+   "time": "13:46",
+   "ts": "2026-11-06T13:46:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Modivo chce w '27 skupić się na rozwoju szyldów off-price; CAPEX na otwarcia ma wynieść 300-350 mln zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439720"
+  },
   {
    "id": "bossa-pap-439719",
    "date": "2026-11-06",

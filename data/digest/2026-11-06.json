@@ -5,17 +5,17 @@
   "wyniki": 14,
   "rekomendacje": 1,
   "korporacyjne": 23,
-  "makro_pl": 27,
+  "makro_pl": 29,
   "swiat_rynki": 5,
   "energetyka_surowce": 4,
   "nieruchomosci": 1,
   "fundusze_drobne": 2,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 34
+  "pozostale": 38
  },
  "duplicatesRemoved": 83,
- "total": 205,
+ "total": 211,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -512,6 +512,24 @@
   ],
   "makro_pl": [
    {
+    "time": "13:53",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Efekty II rundy w Polsce na razie niewielkie albo prawie niewidoczne - DABE NBP",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439722",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:51",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Senat przyjął bez poprawek ustawę wprowadzającą nowy próg podatkowy i nową stawkę w PIT",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439721",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "13:08",
     "kind": "news",
     "ticker": null,
@@ -884,6 +902,42 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "13:56",
+    "kind": "espi",
+    "ticker": null,
+    "title": "DANKS S.A.: Udzielenie pożyczki spółce zależnej Emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23578",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:54",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KRKA: Acquisition of treasury shares",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23577",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:53",
+    "kind": "espi",
+    "ticker": null,
+    "title": "IRON WOLF STUDIO S.A.: Zawarcie umów inwestycyjnych dotyczących objęcia akcji serii F",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23576",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:46",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Modivo chce w '27 skupić się na rozwoju szyldów off-price; CAPEX na otwarcia ma wynieść 300-350 mln zł",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439720",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:21",
     "kind": "news",
