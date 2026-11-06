@@ -4,8 +4,8 @@
   "podsumowania": 4,
   "wyniki": 5,
   "rekomendacje": 0,
-  "korporacyjne": 1,
-  "makro_pl": 3,
+  "korporacyjne": 3,
+  "makro_pl": 5,
   "swiat_rynki": 2,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
@@ -15,7 +15,7 @@
   "pozostale": 5
  },
  "duplicatesRemoved": 10,
- "total": 31,
+ "total": 35,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -108,6 +108,28 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "08:13",
+    "kind": "pap",
+    "ticker": null,
+    "title": "VOLARIA AI SA (15/2026) Odwołanie lub rezygnacja osoby zarządzającej lub nadzorującej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439603",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "08:08",
+    "kind": "espi",
+    "ticker": null,
+    "title": "AGENCJA ROZWOJU INNOWACJI S.A.: Uzupełnienie raportu bieżącego nr 27/2024 – wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Zwyczajnym Walnym Zgromadzeniu w dniu 1 lipca 2024 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23527",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
+   {
     "time": "07:58",
     "kind": "pap",
     "ticker": null,
@@ -120,6 +142,24 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "08:08",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Produkcja przemysłowa w Niemczech w IX: +0,7 proc. mdm. Konsensus: -0,1 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439602",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "08:03",
+    "kind": "pap",
+    "ticker": null,
+    "title": "W ciągu 10 dni rząd przedstawi rozwiązania zw. z sytuacją na rynku gazu – Domański",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439600",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "07:30",
     "kind": "pap",
