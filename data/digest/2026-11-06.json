@@ -6,7 +6,7 @@
   "rekomendacje": 1,
   "korporacyjne": 29,
   "makro_pl": 35,
-  "swiat_rynki": 15,
+  "swiat_rynki": 16,
   "energetyka_surowce": 4,
   "nieruchomosci": 1,
   "fundusze_drobne": 10,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 52
  },
- "duplicatesRemoved": 107,
- "total": 285,
+ "duplicatesRemoved": 108,
+ "total": 287,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -948,12 +948,21 @@
   ],
   "swiat_rynki": [
    {
-    "time": "16:39",
+    "time": "16:52",
     "kind": "pap",
     "ticker": null,
-    "title": "DataWalk uzyskało patent w USA",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439780",
+    "title": "MS: Rusza nabór wniosków na kampanie informacyjne i działania edukacyjne dotyczące niezależnego sądownictwa (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439781",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:38",
+    "kind": "news",
+    "ticker": null,
+    "title": "DataWalk uzyskało patent w USA",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/datawalk-uzyskalo-patent-w-usa",
+    "src": "strefainwestorow",
     "flags": []
    },
    {

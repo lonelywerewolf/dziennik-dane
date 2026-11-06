@@ -1,7 +1,19 @@
 {
  "date": "2026-11-06",
- "count": 285,
+ "count": 287,
  "items": [
+  {
+   "id": "bossa-pap-439781",
+   "date": "2026-11-06",
+   "time": "16:52",
+   "ts": "2026-11-06T16:52:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MS: Rusza nabór wniosków na kampanie informacyjne i działania edukacyjne dotyczące niezależnego sądownictwa (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439781"
+  },
   {
    "id": "bossa-pap-439780",
    "date": "2026-11-06",
@@ -13,6 +25,17 @@
    "title": "DataWalk uzyskało patent w USA",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439780"
+  },
+  {
+   "id": "strefa-1e4116da9fd8",
+   "date": "2026-11-06",
+   "time": "16:38",
+   "ts": "2026-11-06T16:38:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DataWalk uzyskało patent w USA",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/datawalk-uzyskalo-patent-w-usa"
   },
   {
    "id": "bossa-pap-439779",
