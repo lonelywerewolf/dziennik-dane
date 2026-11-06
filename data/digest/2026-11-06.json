@@ -12,10 +12,10 @@
   "fundusze_drobne": 10,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 62
+  "pozostale": 63
  },
  "duplicatesRemoved": 132,
- "total": 350,
+ "total": 351,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1531,6 +1531,17 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "20:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GREEN LANES SA (34/2026) Korekta raportu okresowego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439829",
+    "src": "bossa",
+    "flags": [
+     "prognoza"
+    ]
+   },
    {
     "time": "20:14",
     "kind": "espi",
