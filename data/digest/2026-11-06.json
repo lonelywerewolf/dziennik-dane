@@ -5,17 +5,17 @@
   "wyniki": 15,
   "rekomendacje": 1,
   "korporacyjne": 28,
-  "makro_pl": 33,
+  "makro_pl": 34,
   "swiat_rynki": 10,
   "energetyka_surowce": 4,
   "nieruchomosci": 1,
   "fundusze_drobne": 4,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 43
+  "pozostale": 47
  },
- "duplicatesRemoved": 99,
- "total": 250,
+ "duplicatesRemoved": 100,
+ "total": 256,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -584,6 +584,15 @@
   ],
   "makro_pl": [
    {
+    "time": "15:16",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GAMIVO SA (13/2026) Informacje o walnym zgromadzeniu - zwołanie WZ z projektami uchwał, zmiany w porządku obrad WZ",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439752",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "15:01",
     "kind": "pap",
     "ticker": null,
@@ -1073,6 +1082,42 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "15:23",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Na koniec II kw. aktywa finansowe gospodarstw domowych wzrosły do ponad 4,2 bln zł - PFR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439757",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:22",
+    "kind": "espi",
+    "ticker": null,
+    "title": "UNIFIED FACTORY S.A.: Zmiana terminu publikacji raportu kwartalnego za III KW 2026 rok",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23592",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:21",
+    "kind": "pap",
+    "ticker": null,
+    "title": "IRON WOLF STUDIO SA (8/2026) Zmiana harmonogramu publikacji raportów okresowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439755",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:17",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ALIOR BANK S.A.: Terminy publikacji raportów okresowych w 2027 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23590",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:09",
     "kind": "pap",
