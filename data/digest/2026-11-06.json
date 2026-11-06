@@ -2,11 +2,11 @@
  "date": "2026-11-06",
  "counts": {
   "podsumowania": 8,
-  "wyniki": 9,
+  "wyniki": 10,
   "rekomendacje": 0,
   "korporacyjne": 12,
   "makro_pl": 16,
-  "swiat_rynki": 4,
+  "swiat_rynki": 5,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 16
  },
- "duplicatesRemoved": 42,
- "total": 110,
+ "duplicatesRemoved": 43,
+ "total": 113,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -93,6 +93,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "10:21",
+    "kind": "espi",
+    "ticker": null,
+    "title": "TAMEX OBIEKTY SPORTOWE S.A.: Szacunkowe wybrane dane finansowe TAMEX Obiekty Sportowe S.A. za III kwartał 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23541",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "10:13",
     "kind": "pap",
@@ -461,6 +472,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "10:29",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Dyskusja o przyszłości rynku budowlanego - III Kongres Budownictwa Polskiego 16-17 XI",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439649",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:41",
     "kind": "news",

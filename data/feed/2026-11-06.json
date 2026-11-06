@@ -1,7 +1,43 @@
 {
  "date": "2026-11-06",
- "count": 110,
+ "count": 113,
  "items": [
+  {
+   "id": "bossa-pap-439649",
+   "date": "2026-11-06",
+   "time": "10:29",
+   "ts": "2026-11-06T10:29:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Dyskusja o przyszłości rynku budowlanego - III Kongres Budownictwa Polskiego 16-17 XI",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439649"
+  },
+  {
+   "id": "bossa-espi-23541",
+   "date": "2026-11-06",
+   "time": "10:21",
+   "ts": "2026-11-06T10:21:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "TAMEX OBIEKTY SPORTOWE S.A.",
+   "title": "Szacunkowe wybrane dane finansowe TAMEX Obiekty Sportowe S.A. za III kwartał 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23541"
+  },
+  {
+   "id": "bossa-pap-439647",
+   "date": "2026-11-06",
+   "time": "10:19",
+   "ts": "2026-11-06T10:19:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zarzecki z RPP nie wyklucza podwyżki stóp proc. w grudniu (aktl.)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439647"
+  },
   {
    "id": "bossa-pap-439646",
    "date": "2026-11-06",
