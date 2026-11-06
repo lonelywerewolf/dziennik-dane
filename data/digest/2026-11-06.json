@@ -1,7 +1,7 @@
 {
  "date": "2026-11-06",
  "counts": {
-  "podsumowania": 14,
+  "podsumowania": 15,
   "wyniki": 20,
   "rekomendacje": 1,
   "korporacyjne": 33,
@@ -12,13 +12,22 @@
   "fundusze_drobne": 10,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 54
+  "pozostale": 55
  },
- "duplicatesRemoved": 110,
- "total": 301,
+ "duplicatesRemoved": 112,
+ "total": 305,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "17:26",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA FX/FI: EUR/PLN pozostaje poniżej 4,40; rentowności SPW wzrosły w ślad za amerykańskimi UST",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/dzien-na-fxfi-eurpln-pozostaje-ponizej-440-rentownosci-spw-wzrosly-w-slad-za",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "16:48",
     "kind": "skrot",
@@ -148,17 +157,6 @@
   ],
   "wyniki": [
    {
-    "time": "17:13",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Kolejkowo spodziewa się osiągnięcia w 2026 r. wyników niższych od zakładanych",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439793",
-    "src": "bossa",
-    "flags": [
-     "wyniki"
-    ]
-   },
-   {
     "time": "17:10",
     "kind": "pap",
     "ticker": null,
@@ -177,6 +175,17 @@
     "flags": [
      "wyniki",
      "prognoza"
+    ]
+   },
+   {
+    "time": "17:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kolejkowo spodziewa się osiągnięcia w 2026 r. wyników niższych od zakładanych",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/kolejkowo-spodziewa-sie-osiagniecia-w-2026-r-wynikow-nizszych-od-zakladanych",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
     ]
    },
    {
@@ -1348,6 +1357,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Stawka Polonia wzrosła w piątek do 3,8 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439795",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:10",
     "kind": "espi",
