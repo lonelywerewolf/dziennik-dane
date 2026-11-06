@@ -5,17 +5,17 @@
   "wyniki": 12,
   "rekomendacje": 1,
   "korporacyjne": 15,
-  "makro_pl": 23,
+  "makro_pl": 24,
   "swiat_rynki": 5,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 1,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 25
+  "pozostale": 26
  },
- "duplicatesRemoved": 58,
- "total": 154,
+ "duplicatesRemoved": 61,
+ "total": 159,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -406,6 +406,15 @@
   ],
   "makro_pl": [
    {
+    "time": "12:25",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PZU ETF OBLIGACJI SKARBOWYCH DŁUGOTERMINOWYCH PORTFELOWY FIZ: WANCI-E_30.04.18",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23555",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "11:50",
     "kind": "news",
     "ticker": null,
@@ -714,6 +723,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:15",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa Modivo chce obniżyć zapasy o ok. 1 mld zł do końca 2027 r.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/grupa-modivo-chce-obnizyc-zapasy-o-ok-1-mld-zl-do-konca-2027-r",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "12:09",
     "kind": "pap",

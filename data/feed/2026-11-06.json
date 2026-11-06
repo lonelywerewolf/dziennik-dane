@@ -1,7 +1,66 @@
 {
  "date": "2026-11-06",
- "count": 154,
+ "count": 159,
  "items": [
+  {
+   "id": "bossa-espi-23556",
+   "date": "2026-11-06",
+   "time": "12:30",
+   "ts": "2026-11-06T12:30:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF OBLIGACJI SKARBOWYCH ZMIENNOKUPONOWYCH PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23556"
+  },
+  {
+   "id": "bossa-pap-439684",
+   "date": "2026-11-06",
+   "time": "12:29",
+   "ts": "2026-11-06T12:29:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Grupa Modivo chce obniżyć zapasy o ok. 1 mld zł do końca 2027 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439684"
+  },
+  {
+   "id": "bossa-espi-23555",
+   "date": "2026-11-06",
+   "time": "12:25",
+   "ts": "2026-11-06T12:25:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF OBLIGACJI SKARBOWYCH DŁUGOTERMINOWYCH PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23555"
+  },
+  {
+   "id": "bossa-espi-23554",
+   "date": "2026-11-06",
+   "time": "12:20",
+   "ts": "2026-11-06T12:20:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF BITCOIN PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 227 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23554"
+  },
+  {
+   "id": "strefa-275ef06e467f",
+   "date": "2026-11-06",
+   "time": "12:15",
+   "ts": "2026-11-06T12:15:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grupa Modivo chce obniżyć zapasy o ok. 1 mld zł do końca 2027 r.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/grupa-modivo-chce-obnizyc-zapasy-o-ok-1-mld-zl-do-konca-2027-r"
+  },
   {
    "id": "bossa-espi-23553",
    "date": "2026-11-06",
