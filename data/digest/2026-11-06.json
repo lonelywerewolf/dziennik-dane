@@ -2,9 +2,9 @@
  "date": "2026-11-06",
  "counts": {
   "podsumowania": 8,
-  "wyniki": 8,
+  "wyniki": 9,
   "rekomendacje": 0,
-  "korporacyjne": 11,
+  "korporacyjne": 12,
   "makro_pl": 16,
   "swiat_rynki": 4,
   "energetyka_surowce": 3,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 15
+  "pozostale": 16
  },
  "duplicatesRemoved": 42,
- "total": 107,
+ "total": 110,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -93,6 +93,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "10:13",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Ryvu spodziewa się wyników z kolejnej grupy pacjentów w badaniu JASPIS-01 w poł. '27 (wywiad)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439645",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "09:19",
     "kind": "pap",
@@ -174,6 +185,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "10:13",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Prezydent powołał Kightley, Litwiniuka, Koteckiego i Zarzeckiego do zarządu NBP - Leśkiewicz",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439646",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "10:03",
     "kind": "pap",
@@ -510,6 +532,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "10:11",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Chiński resort handlu wszczął postępowania antydumpingowe wobec UE",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439644",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:01",
     "kind": "news",

@@ -1,7 +1,43 @@
 {
  "date": "2026-11-06",
- "count": 107,
+ "count": 110,
  "items": [
+  {
+   "id": "bossa-pap-439646",
+   "date": "2026-11-06",
+   "time": "10:13",
+   "ts": "2026-11-06T10:13:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Prezydent powołał Kightley, Litwiniuka, Koteckiego i Zarzeckiego do zarządu NBP - Leśkiewicz",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439646"
+  },
+  {
+   "id": "bossa-pap-439645",
+   "date": "2026-11-06",
+   "time": "10:13",
+   "ts": "2026-11-06T10:13:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ryvu spodziewa się wyników z kolejnej grupy pacjentów w badaniu JASPIS-01 w poł. '27 (wywiad)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439645"
+  },
+  {
+   "id": "bossa-pap-439644",
+   "date": "2026-11-06",
+   "time": "10:11",
+   "ts": "2026-11-06T10:11:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Chiński resort handlu wszczął postępowania antydumpingowe wobec UE",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439644"
+  },
   {
    "id": "bossa-pap-439642",
    "date": "2026-11-06",
