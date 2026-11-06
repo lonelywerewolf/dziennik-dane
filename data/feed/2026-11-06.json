@@ -1,7 +1,66 @@
 {
  "date": "2026-11-06",
- "count": 129,
+ "count": 134,
  "items": [
+  {
+   "id": "bossa-pap-439666",
+   "date": "2026-11-06",
+   "time": "11:27",
+   "ts": "2026-11-06T11:27:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ceny energii i stopień rządowego wsparcia kluczowe dla decyzji dot. podwyżki stóp proc. - Citi (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439666"
+  },
+  {
+   "id": "bossa-pap-439665",
+   "date": "2026-11-06",
+   "time": "11:27",
+   "ts": "2026-11-06T11:27:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "LIVE MOTION GAMES SA (11/2026) Podpisanie przez emitenta z firmą audytorską umowy o badanie sprawozdań finansowych lub skonsolidowanych sprawozdań finansowych emitenta",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439665"
+  },
+  {
+   "id": "bossa-pap-439664",
+   "date": "2026-11-06",
+   "time": "11:24",
+   "ts": "2026-11-06T11:24:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Na rynkach obawy o koniec rajdu wokół sztucznej inteligencji (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439664"
+  },
+  {
+   "id": "bossa-pap-439663",
+   "date": "2026-11-06",
+   "time": "11:22",
+   "ts": "2026-11-06T11:22:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: WIG20 spada m. in. przez zniżki Orlenu i Dino; Modivo zyskuje 6,6 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439663"
+  },
+  {
+   "id": "strefa-96e10f655114",
+   "date": "2026-11-06",
+   "time": "11:17",
+   "ts": "2026-11-06T11:17:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: WIG20 spada m. in. przez zniżki Orlenu i Dino; Modivo zyskuje 6,6 proc.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/dzien-na-gpw-wig20-spada-m-przez-znizki-orlenu-i-dino-modivo-zyskuje-66-proc"
+  },
   {
    "id": "bossa-pap-439662",
    "date": "2026-11-06",
