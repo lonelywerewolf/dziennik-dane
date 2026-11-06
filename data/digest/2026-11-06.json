@@ -2,20 +2,20 @@
  "date": "2026-11-06",
  "counts": {
   "podsumowania": 10,
-  "wyniki": 14,
+  "wyniki": 15,
   "rekomendacje": 1,
-  "korporacyjne": 24,
+  "korporacyjne": 26,
   "makro_pl": 31,
-  "swiat_rynki": 7,
+  "swiat_rynki": 8,
   "energetyka_surowce": 4,
   "nieruchomosci": 1,
   "fundusze_drobne": 3,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 40
+  "pozostale": 42
  },
- "duplicatesRemoved": 93,
- "total": 229,
+ "duplicatesRemoved": 96,
+ "total": 238,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -111,6 +111,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "14:21",
+    "kind": "news",
+    "ticker": null,
+    "title": "Dino zakłada poprawę marży brutto w IV kw., ale będzie się skupiać na wolumenach sprzedaży",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/dino-zaklada-poprawe-marzy-brutto-w-iv-kw-ale-bedzie-sie-skupiac-na-wolumenach",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "13:01",
     "kind": "news",
@@ -262,6 +271,27 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "14:28",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ONICO S.A.: Spłata siódmej raty układowej przez Spółkę",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23584",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:24",
+    "kind": "news",
+    "ticker": null,
+    "title": "Dino analizuje możliwości wypłaty dywidendy – członek zarządu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/dino-analizuje-mozliwosci-wyplaty-dywidendy-czlonek-zarzadu",
+    "src": "strefainwestorow",
+    "flags": [
+     "dywidenda",
+     "zarząd"
+    ]
+   },
    {
     "time": "14:22",
     "kind": "pap",
@@ -804,6 +834,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "14:34",
+    "kind": "news",
+    "ticker": null,
+    "title": "Oferta konsorcjum z Budimeksem najkorzystniejsza na budowę zakładu odzysku energii w Łodzi",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/oferta-konsorcjum-z-budimeksem-najkorzystniejsza-na-budowe-zakladu-odzysku",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "14:02",
     "kind": "espi",
     "ticker": null,
@@ -958,6 +997,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "14:27",
+    "kind": "espi",
+    "ticker": null,
+    "title": "CFI HOLDING S.A.: Zmiana terminu publikacji raportu okresowego.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23583",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:25",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Ceny LPG mogą dalej rosnąć, ale tempo i skala podwyżek powinny się zmniejszyć - BM Reflex",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439736",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:05",
     "kind": "news",
