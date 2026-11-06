@@ -1,7 +1,53 @@
 {
  "date": "2026-11-06",
- "count": 339,
+ "count": 344,
  "items": [
+  {
+   "id": "strefa-cbf81a9b1b7a",
+   "date": "2026-11-06",
+   "time": "19:02",
+   "ts": "2026-11-06T19:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A19 wyemitowanymi przez GMINĘ PODGÓRZYN",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/gpw-w-sprawie-zawieszenia-obrotu-gieldowego-na-catalyst-obligacjami-na-4"
+  },
+  {
+   "id": "strefa-b61bce2f640d",
+   "date": "2026-11-06",
+   "time": "19:02",
+   "ts": "2026-11-06T19:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Sąd zatwierdził układ częściowy z wierzycielami Grupy Azoty Polyolefins",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/sad-zatwierdzil-uklad-czesciowy-z-wierzycielami-grupy-azoty-polyolefins"
+  },
+  {
+   "id": "bossa-pap-439822",
+   "date": "2026-11-06",
+   "time": "19:00",
+   "ts": "2026-11-06T19:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne - SARON",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439822"
+  },
+  {
+   "id": "bossa-pap-439821",
+   "date": "2026-11-06",
+   "time": "18:57",
+   "ts": "2026-11-06T18:57:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Sąd zatwierdził układ częściowy z wierzycielami Grupy Azoty Polyolefins",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439821"
+  },
   {
    "id": "bossa-pap-439820",
    "date": "2026-11-06",
@@ -49,6 +95,17 @@
    "title": "Wykaz akcjonariuszy posiadających co najmniej 5% głosów na Walnym Zgromadzeniu Quercus TFI S.A.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23615"
+  },
+  {
+   "id": "strefa-ef8ae6ae1573",
+   "date": "2026-11-06",
+   "time": "18:51",
+   "ts": "2026-11-06T18:51:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A21 wyemitowanymi przez GMINĘ PODGÓRZYN",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/gpw-w-sprawie-zawieszenia-obrotu-gieldowego-na-catalyst-obligacjami-na-3"
   },
   {
    "id": "bossa-pap-439816",
