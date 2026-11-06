@@ -12,10 +12,10 @@
   "fundusze_drobne": 10,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 61
+  "pozostale": 62
  },
  "duplicatesRemoved": 132,
- "total": 349,
+ "total": 350,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1531,6 +1531,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "20:14",
+    "kind": "espi",
+    "ticker": null,
+    "title": "CI GAMES S.E.: Całkowita spłata kredytów w PKO Bank Polski S.A. oraz Erste Bank Polska S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23622",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "20:02",
     "kind": "espi",
