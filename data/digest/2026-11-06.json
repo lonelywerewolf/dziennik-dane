@@ -4,18 +4,18 @@
   "podsumowania": 4,
   "wyniki": 6,
   "rekomendacje": 0,
-  "korporacyjne": 4,
-  "makro_pl": 6,
-  "swiat_rynki": 2,
+  "korporacyjne": 6,
+  "makro_pl": 7,
+  "swiat_rynki": 3,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 6
+  "pozostale": 7
  },
- "duplicatesRemoved": 11,
- "total": 40,
+ "duplicatesRemoved": 13,
+ "total": 47,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -119,6 +119,28 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "08:30",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GRODNO S.A.: Otrzymanie powiadomienia w trybie art. 19 ust. 1 MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23531",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
+    "time": "08:29",
+    "kind": "news",
+    "ticker": null,
+    "title": "Nowe taryfy na prąd będą znane w II połowie grudnia - prezes URE",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/nowe-taryfy-na-prad-beda-znane-w-ii-polowie-grudnia-prezes-ure",
+    "src": "strefainwestorow",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
     "time": "08:19",
     "kind": "pap",
     "ticker": null,
@@ -165,20 +187,29 @@
   ],
   "makro_pl": [
    {
+    "time": "08:29",
+    "kind": "news",
+    "ticker": null,
+    "title": "Erste Bank Polska chce wyemitować obligacje typu \"senior preferred\" i obligacje Tier II",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/erste-bank-polska-chce-wyemitowac-obligacje-typu-senior-preferred-i-obligacje",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "08:26",
+    "kind": "news",
+    "ticker": null,
+    "title": "W ciągu 10 dni rząd przedstawi rozwiązania zw. z sytuacją na rynku gazu – Domański",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/w-ciagu-10-dni-rzad-przedstawi-rozwiazania-zw-z-sytuacja-na-rynku-gazu-domanski",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "08:08",
     "kind": "pap",
     "ticker": null,
     "title": "Produkcja przemysłowa w Niemczech w IX: +0,7 proc. mdm. Konsensus: -0,1 proc.",
     "url": "https://bossa.pl/analizy/komunikaty#message-439602",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "08:03",
-    "kind": "pap",
-    "ticker": null,
-    "title": "W ciągu 10 dni rząd przedstawi rozwiązania zw. z sytuacją na rynku gazu – Domański",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439600",
     "src": "bossa",
     "flags": []
    },
@@ -221,6 +252,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "08:25",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa Unibep z rekordowym portfelem zamówień o wartości 6,1 mld zł po trzech kwartałach 2026 roku",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/grupa-unibep-z-rekordowym-portfelem-zamowien-o-wartosci-61-mld-zl-po-trzech",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "06:51",
     "kind": "espi",
     "ticker": null,
@@ -241,12 +281,12 @@
   ],
   "energetyka_surowce": [
    {
-    "time": "07:27",
-    "kind": "pap",
+    "time": "08:28",
+    "kind": "news",
     "ticker": null,
     "title": "Notowania metali bazowych, węgla i paliw (tabela)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439594",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/notowania-metali-bazowych-wegla-i-paliw-tabela",
+    "src": "strefainwestorow",
     "flags": []
    }
   ],
@@ -255,6 +295,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "08:30",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MEDINICE S.A.: QSr",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23530",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:25",
     "kind": "news",

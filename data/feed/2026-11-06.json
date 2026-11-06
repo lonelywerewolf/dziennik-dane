@@ -1,7 +1,75 @@
 {
  "date": "2026-11-06",
- "count": 40,
+ "count": 47,
  "items": [
+  {
+   "id": "bossa-espi-23531",
+   "date": "2026-11-06",
+   "time": "08:30",
+   "ts": "2026-11-06T08:30:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "GRODNO S.A.",
+   "title": "Otrzymanie powiadomienia w trybie art. 19 ust. 1 MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23531"
+  },
+  {
+   "id": "bossa-espi-23530",
+   "date": "2026-11-06",
+   "time": "08:30",
+   "ts": "2026-11-06T08:30:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MEDINICE S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23530"
+  },
+  {
+   "id": "strefa-d9ecd1907eec",
+   "date": "2026-11-06",
+   "time": "08:29",
+   "ts": "2026-11-06T08:29:12+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Erste Bank Polska chce wyemitować obligacje typu \"senior preferred\" i obligacje Tier II",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/erste-bank-polska-chce-wyemitowac-obligacje-typu-senior-preferred-i-obligacje"
+  },
+  {
+   "id": "strefa-8f0950e04898",
+   "date": "2026-11-06",
+   "time": "08:29",
+   "ts": "2026-11-06T08:29:41+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Nowe taryfy na prąd będą znane w II połowie grudnia - prezes URE",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/nowe-taryfy-na-prad-beda-znane-w-ii-polowie-grudnia-prezes-ure"
+  },
+  {
+   "id": "strefa-4c62c9904d1b",
+   "date": "2026-11-06",
+   "time": "08:28",
+   "ts": "2026-11-06T08:28:39+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/notowania-metali-bazowych-wegla-i-paliw-tabela"
+  },
+  {
+   "id": "strefa-8e70e09c0aca",
+   "date": "2026-11-06",
+   "time": "08:26",
+   "ts": "2026-11-06T08:26:50+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "W ciągu 10 dni rząd przedstawi rozwiązania zw. z sytuacją na rynku gazu – Domański",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/w-ciagu-10-dni-rzad-przedstawi-rozwiazania-zw-z-sytuacja-na-rynku-gazu-domanski"
+  },
   {
    "id": "strefa-6f55a604c8bd",
    "date": "2026-11-06",
@@ -12,6 +80,17 @@
    "title": "Zremb Chojnice inwestuje w przyszły wzrost",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261106/zremb-chojnice-inwestuje-w-przyszly-wzrost"
+  },
+  {
+   "id": "strefa-5f38363f0322",
+   "date": "2026-11-06",
+   "time": "08:25",
+   "ts": "2026-11-06T08:25:16+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grupa Unibep z rekordowym portfelem zamówień o wartości 6,1 mld zł po trzech kwartałach 2026 roku",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/grupa-unibep-z-rekordowym-portfelem-zamowien-o-wartosci-61-mld-zl-po-trzech"
   },
   {
    "id": "bossa-pap-439606",
