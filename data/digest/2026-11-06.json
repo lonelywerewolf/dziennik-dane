@@ -2,7 +2,7 @@
  "date": "2026-11-06",
  "counts": {
   "podsumowania": 4,
-  "wyniki": 1,
+  "wyniki": 4,
   "rekomendacje": 0,
   "korporacyjne": 0,
   "makro_pl": 0,
@@ -14,35 +14,35 @@
   "obserwowane": 0,
   "pozostale": 3
  },
- "duplicatesRemoved": 0,
- "total": 10,
+ "duplicatesRemoved": 5,
+ "total": 18,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kalendarium rynku kapitałowego GPW 2026-11-06",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/kalendarium-rynku-kapitalowego-gpw-2026-11-06",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "07:00",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kalendarium rynku NewConnect 2026-11-06",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/kalendarium-rynku-newconnect-2026-11-06",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "06:11",
     "kind": "pap",
     "ticker": null,
     "title": "Przegląd prasy gospodarczej w piątek, 6 listopada",
     "url": "https://bossa.pl/analizy/komunikaty#message-439584",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "06:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Kalendarium rynku kapitałowego GPW 2026-11-06",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439583",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "06:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Kalendarium rynku NewConnect 2026-11-06",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439582",
     "src": "bossa",
     "flags": []
    },
@@ -57,6 +57,35 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Modivo szacuje zysk EBITDA w III kw. na 372 mln zł wobec konsensusu 380,1 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/modivo-szacuje-zysk-ebitda-w-iii-kw-na-372-mln-zl-wobec-konsensusu-3801-mln-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "06:57",
+    "kind": "pap",
+    "ticker": null,
+    "title": "POLSKI HOLDING ROZWOJU SA (18/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439588",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "06:34",
+    "kind": "news",
+    "ticker": null,
+    "title": "Szacunkowe wyniki Modivo w III kwartale vs. konsensus PAP (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/szacunkowe-wyniki-modivo-w-iii-kwartale-vs-konsensus-pap-tabela",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "06:29",
     "kind": "pap",
@@ -97,12 +126,12 @@
   "obserwowane": [],
   "pozostale": [
    {
-    "time": "06:00",
-    "kind": "pap",
+    "time": "07:01",
+    "kind": "news",
     "ticker": null,
     "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-06",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439580",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-06",
+    "src": "strefainwestorow",
     "flags": []
    },
    {

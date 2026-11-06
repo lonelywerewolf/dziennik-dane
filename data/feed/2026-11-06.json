@@ -1,7 +1,87 @@
 {
  "date": "2026-11-06",
- "count": 10,
+ "count": 18,
  "items": [
+  {
+   "id": "bossa-pap-439590",
+   "date": "2026-11-06",
+   "time": "07:03",
+   "ts": "2026-11-06T07:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Modivo szacuje zysk EBITDA w III kw. na 372 mln zł wobec konsensusu 380,1 mln zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439590"
+  },
+  {
+   "id": "strefa-ff9a9065f3e4",
+   "date": "2026-11-06",
+   "time": "07:01",
+   "ts": "2026-11-06T07:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-06",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-06"
+  },
+  {
+   "id": "strefa-d6617f40dfb4",
+   "date": "2026-11-06",
+   "time": "07:01",
+   "ts": "2026-11-06T07:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Modivo szacuje zysk EBITDA w III kw. na 372 mln zł wobec konsensusu 380,1 mln zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/modivo-szacuje-zysk-ebitda-w-iii-kw-na-372-mln-zl-wobec-konsensusu-3801-mln-zl"
+  },
+  {
+   "id": "strefa-778597d918b0",
+   "date": "2026-11-06",
+   "time": "07:01",
+   "ts": "2026-11-06T07:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Kalendarium rynku kapitałowego GPW 2026-11-06",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/kalendarium-rynku-kapitalowego-gpw-2026-11-06"
+  },
+  {
+   "id": "strefa-822e78911bb1",
+   "date": "2026-11-06",
+   "time": "07:00",
+   "ts": "2026-11-06T07:00:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Kalendarium rynku NewConnect 2026-11-06",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/kalendarium-rynku-newconnect-2026-11-06"
+  },
+  {
+   "id": "bossa-pap-439589",
+   "date": "2026-11-06",
+   "time": "06:58",
+   "ts": "2026-11-06T06:58:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Szacunkowe wyniki Modivo w III kwartale vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439589"
+  },
+  {
+   "id": "bossa-pap-439588",
+   "date": "2026-11-06",
+   "time": "06:57",
+   "ts": "2026-11-06T06:57:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "POLSKI HOLDING ROZWOJU SA (18/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439588"
+  },
   {
    "id": "bossa-espi-23523",
    "date": "2026-11-06",
@@ -13,6 +93,17 @@
    "title": "Wstępne wybrane skonsolidowane dane finansowe Grupy Kapitałowej MODIVO za III kwartał 2026 roku",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23523"
+  },
+  {
+   "id": "strefa-c00b34635908",
+   "date": "2026-11-06",
+   "time": "06:34",
+   "ts": "2026-11-06T06:34:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Szacunkowe wyniki Modivo w III kwartale vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/szacunkowe-wyniki-modivo-w-iii-kwartale-vs-konsensus-pap-tabela"
   },
   {
    "id": "bossa-pap-439586",
