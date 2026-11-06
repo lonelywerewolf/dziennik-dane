@@ -4,7 +4,7 @@
   "podsumowania": 8,
   "wyniki": 8,
   "rekomendacje": 0,
-  "korporacyjne": 8,
+  "korporacyjne": 9,
   "makro_pl": 16,
   "swiat_rynki": 4,
   "energetyka_surowce": 2,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 12
+  "pozostale": 13
  },
  "duplicatesRemoved": 37,
- "total": 95,
+ "total": 97,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -174,6 +174,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "09:39",
+    "kind": "espi",
+    "ticker": null,
+    "title": "FARM INNOVATIONS S.A.: Zawarcie istotnej umowy dystrybucyjnej z Medivet S.A. - największą hurtownią weterynaryjną w Polsce",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23538",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "09:20",
     "kind": "espi",
@@ -470,6 +481,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:43",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ANALIZY ONLINE S.A.: Informacja poufna – łączna wartość aktywów netto zgromadzonych na platformie KupFundusz.pl na dzień 31 października 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23539",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:36",
     "kind": "pap",

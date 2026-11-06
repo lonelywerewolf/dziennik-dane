@@ -1,7 +1,31 @@
 {
  "date": "2026-11-06",
- "count": 95,
+ "count": 97,
  "items": [
+  {
+   "id": "bossa-espi-23539",
+   "date": "2026-11-06",
+   "time": "09:43",
+   "ts": "2026-11-06T09:43:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ANALIZY ONLINE S.A.",
+   "title": "Informacja poufna – łączna wartość aktywów netto zgromadzonych na platformie KupFundusz.pl na dzień 31 października 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23539"
+  },
+  {
+   "id": "bossa-espi-23538",
+   "date": "2026-11-06",
+   "time": "09:39",
+   "ts": "2026-11-06T09:39:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "FARM INNOVATIONS S.A.",
+   "title": "Zawarcie istotnej umowy dystrybucyjnej z Medivet S.A. - największą hurtownią weterynaryjną w Polsce",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23538"
+  },
   {
    "id": "bossa-pap-439636",
    "date": "2026-11-06",
