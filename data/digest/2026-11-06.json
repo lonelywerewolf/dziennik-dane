@@ -6,7 +6,7 @@
   "rekomendacje": 1,
   "korporacyjne": 33,
   "makro_pl": 37,
-  "swiat_rynki": 16,
+  "swiat_rynki": 17,
   "energetyka_surowce": 4,
   "nieruchomosci": 1,
   "fundusze_drobne": 10,
@@ -15,7 +15,7 @@
   "pozostale": 56
  },
  "duplicatesRemoved": 114,
- "total": 310,
+ "total": 311,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1078,6 +1078,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "17:45",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ME planuje zagwarantowanie w '27 maksymalnej ceny gazu m.in. dla gospodarstw domowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439800",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:52",
     "kind": "pap",
