@@ -1,24 +1,42 @@
 {
  "date": "2026-11-06",
  "counts": {
-  "podsumowania": 11,
+  "podsumowania": 13,
   "wyniki": 17,
   "rekomendacje": 1,
   "korporacyjne": 29,
   "makro_pl": 35,
-  "swiat_rynki": 14,
+  "swiat_rynki": 15,
   "energetyka_surowce": 4,
   "nieruchomosci": 1,
   "fundusze_drobne": 10,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 50
+  "pozostale": 52
  },
- "duplicatesRemoved": 105,
- "total": 278,
+ "duplicatesRemoved": 107,
+ "total": 285,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "16:34",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: Piątkowa sesja pod znakiem spadków; rynek ciągnie w dół Orlen",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/dzien-na-gpw-piatkowa-sesja-pod-znakiem-spadkow-rynek-ciagnie-w-dol-orlen",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "16:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Indeksy w USA rosną, Nasdaq w górę o prawie 2 proc. po największych spadkach od 19 miesięcy",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/dzien-na-rynkach-indeksy-w-usa-rosna-nasdaq-w-gore-o-prawie-2-proc-po",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "14:34",
     "kind": "news",
@@ -930,6 +948,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "16:39",
+    "kind": "pap",
+    "ticker": null,
+    "title": "DataWalk uzyskało patent w USA",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439780",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "16:25",
     "kind": "espi",
     "ticker": null,
@@ -1210,6 +1237,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "16:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MF: Zapraszamy na XXII Forum Cen Transferowych (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439778",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:33",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MS: Senat za rozszerzeniem Systemu Dozoru Elektronicznego (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439777",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:11",
     "kind": "pap",

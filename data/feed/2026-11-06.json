@@ -1,7 +1,78 @@
 {
  "date": "2026-11-06",
- "count": 278,
+ "count": 285,
  "items": [
+  {
+   "id": "bossa-pap-439780",
+   "date": "2026-11-06",
+   "time": "16:39",
+   "ts": "2026-11-06T16:39:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DataWalk uzyskało patent w USA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439780"
+  },
+  {
+   "id": "bossa-pap-439779",
+   "date": "2026-11-06",
+   "time": "16:37",
+   "ts": "2026-11-06T16:37:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: Piątkowa sesja pod znakiem spadków; rynek ciągnie w dół Orlen",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439779"
+  },
+  {
+   "id": "strefa-a453a6e289d3",
+   "date": "2026-11-06",
+   "time": "16:34",
+   "ts": "2026-11-06T16:34:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: Piątkowa sesja pod znakiem spadków; rynek ciągnie w dół Orlen",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/dzien-na-gpw-piatkowa-sesja-pod-znakiem-spadkow-rynek-ciagnie-w-dol-orlen"
+  },
+  {
+   "id": "bossa-pap-439778",
+   "date": "2026-11-06",
+   "time": "16:34",
+   "ts": "2026-11-06T16:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MF: Zapraszamy na XXII Forum Cen Transferowych (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439778"
+  },
+  {
+   "id": "bossa-pap-439777",
+   "date": "2026-11-06",
+   "time": "16:33",
+   "ts": "2026-11-06T16:33:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MS: Senat za rozszerzeniem Systemu Dozoru Elektronicznego (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439777"
+  },
+  {
+   "id": "bossa-pap-439776",
+   "date": "2026-11-06",
+   "time": "16:31",
+   "ts": "2026-11-06T16:31:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Indeksy w USA rosną, Nasdaq w górę o prawie 2 proc. po największych spadkach od 19 miesięcy",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439776"
+  },
   {
    "id": "bossa-espi-23599",
    "date": "2026-11-06",
@@ -13,6 +84,17 @@
    "title": "Uzyskanie patentu w USA. Patent obtaining in US.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23599"
+  },
+  {
+   "id": "strefa-147d37f9fb6f",
+   "date": "2026-11-06",
+   "time": "16:20",
+   "ts": "2026-11-06T16:20:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Indeksy w USA rosną, Nasdaq w górę o prawie 2 proc. po największych spadkach od 19 miesięcy",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261106/dzien-na-rynkach-indeksy-w-usa-rosna-nasdaq-w-gore-o-prawie-2-proc-po"
   },
   {
    "id": "bossa-pap-439774",
