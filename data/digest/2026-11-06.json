@@ -2,20 +2,20 @@
  "date": "2026-11-06",
  "counts": {
   "podsumowania": 4,
-  "wyniki": 4,
+  "wyniki": 5,
   "rekomendacje": 0,
   "korporacyjne": 0,
-  "makro_pl": 0,
+  "makro_pl": 2,
   "swiat_rynki": 2,
-  "energetyka_surowce": 0,
+  "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 4
+  "pozostale": 5
  },
- "duplicatesRemoved": 5,
- "total": 19,
+ "duplicatesRemoved": 8,
+ "total": 27,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -58,6 +58,15 @@
   ],
   "wyniki": [
    {
+    "time": "07:04",
+    "kind": "news",
+    "ticker": null,
+    "title": "Modivo szacuje zysk EBITDA w III kw. na 372 mln zł; skorygowana EBITDA wzrosła o 48 proc. rdr (opis)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/modivo-szacuje-zysk-ebitda-w-iii-kw-na-372-mln-zl-skorygowana-ebitda-wzrosla-o",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "07:01",
     "kind": "news",
     "ticker": null,
@@ -98,7 +107,26 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [],
-  "makro_pl": [],
+  "makro_pl": [
+   {
+    "time": "07:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Złotowe depozyty międzybankowe - WIBID, WIBOR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439596",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "07:27",
+    "kind": "news",
+    "ticker": null,
+    "title": "Rentowności obligacji wybranych państw (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/rentownosci-obligacji-wybranych-panstw-tabela",
+    "src": "strefainwestorow",
+    "flags": []
+   }
+  ],
   "swiat_rynki": [
    {
     "time": "06:51",
@@ -119,12 +147,31 @@
     "flags": []
    }
   ],
-  "energetyka_surowce": [],
+  "energetyka_surowce": [
+   {
+    "time": "07:27",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439594",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "nieruchomosci": [],
   "fundusze_drobne": [],
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "07:25",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261106/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "07:15",
     "kind": "espi",
