@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "fd236269518d",
+   "ticker": "NVDA",
+   "time": "2026-11-07T01:22+01:00",
+   "title": "Q3 Earnings Update: Broad-Based Growth, Key Sector Outliers, and What's Ahead for Q4",
+   "url": "https://www.nasdaq.com/articles/q3-earnings-update-broad-based-growth-key-sector-outliers-and-whats-ahead-q4",
+   "src": "nasdaq",
+   "summary": "The bulk of the Q3 earnings season is over, with results from roughly 12% of S&P 500 members remaining. Including the still-to-come reports, Q3 earnings are on pace to grow +28.4% year-over-year on +14.4% higher revenues, the 8th straight quarter of double-digit earnings growth for the index."
+  },
+  {
    "id": "f3416de3a4da",
    "ticker": "ASML",
    "time": "2026-11-07T00:32+01:00",
@@ -2161,5 +2170,5 @@
    "summary": "Key PointsASML is one of the most important companies in the global semiconductor ecosystem, but its stock price performance has left a lot to be desired over the past three years."
   }
  ],
- "updatedAt": "2026-11-07T03:32:36+01:00"
+ "updatedAt": "2026-11-07T04:24:47+01:00"
 }
