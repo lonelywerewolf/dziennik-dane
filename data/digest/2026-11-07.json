@@ -2,7 +2,7 @@
  "date": "2026-11-07",
  "counts": {
   "podsumowania": 0,
-  "wyniki": 0,
+  "wyniki": 2,
   "rekomendacje": 0,
   "korporacyjne": 0,
   "makro_pl": 0,
@@ -12,14 +12,35 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 0
+  "pozostale": 1
  },
  "duplicatesRemoved": 0,
- "total": 0,
+ "total": 3,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [],
-  "wyniki": [],
+  "wyniki": [
+   {
+    "time": "11:10",
+    "kind": "pap",
+    "ticker": null,
+    "title": "SZAR SA (15/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439846",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:52",
+    "kind": "espi",
+    "ticker": null,
+    "title": "EQUNICO SE: Uzupełniona i skorygowana informacja o szacunkowych wynikach finansowych za III kwartał 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23632",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   }
+  ],
   "rekomendacje": [],
   "korporacyjne": [],
   "makro_pl": [],
@@ -29,6 +50,16 @@
   "fundusze_drobne": [],
   "twoje_spolki": [],
   "obserwowane": [],
-  "pozostale": []
+  "pozostale": [
+   {
+    "time": "10:56",
+    "kind": "espi",
+    "ticker": null,
+    "title": "LUNA GLOBAL S.A.: PSr",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23633",
+    "src": "bossa",
+    "flags": []
+   }
+  ]
  }
 }
