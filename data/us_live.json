@@ -1,39 +1,39 @@
 {
  "q": {
   "ASML": {
-   "price": 1427.0,
-   "chgPct": 0.16,
-   "at": "Nov 6, 2026 7:48 PM ET",
+   "price": 1429.99,
+   "chgPct": 0.37,
+   "at": "Nov 6, 2026 7:59 PM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/asml"
   },
   "AVGO": {
-   "price": 294.85,
-   "chgPct": 0.39,
-   "at": "Nov 6, 2026 7:48 PM ET",
+   "price": 295.5,
+   "chgPct": 0.62,
+   "at": "Nov 6, 2026 7:58 PM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/avgo"
   },
   "MPWR": {
    "price": 1192.0,
    "chgPct": 0.13,
-   "at": "Nov 6, 2026 7:49 PM ET",
+   "at": "Nov 6, 2026 7:43 PM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/mpwr"
   },
   "NVDA": {
-   "price": 188.35,
-   "chgPct": 0.92,
-   "at": "Nov 6, 2026 7:49 PM ET",
+   "price": 188.65,
+   "chgPct": 1.08,
+   "at": "Nov 6, 2026 7:58 PM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/nvda"
   },
   "TSM": {
-   "price": 378.01,
-   "chgPct": 0.74,
-   "at": "Nov 6, 2026 7:49 PM ET",
+   "price": 378.19,
+   "chgPct": 0.79,
+   "at": "Nov 6, 2026 7:52 PM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/tsm"
   },
   "VRT": {
-   "price": 183.5,
-   "chgPct": 0.39,
-   "at": "Nov 6, 2026 7:49 PM ET",
+   "price": 184.04,
+   "chgPct": 0.69,
+   "at": "Nov 6, 2026 7:56 PM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/vrt"
   },
   "^NDQ": {
@@ -49,17 +49,17 @@
    "src": "https://www.nasdaq.com/market-activity/index/sox"
   },
   "^SPX": {
-   "price": 736.26,
+   "price": 736.2745,
    "chgPct": 0.12,
-   "at": "Nov 6, 2026 7:49 PM ET",
+   "at": "Nov 6, 2026 7:55 PM ET",
    "src": "https://www.nasdaq.com/market-activity/index/spy"
   },
   "MRVL": {
-   "price": 141.51,
-   "chgPct": 0.22,
-   "at": "Nov 6, 2026 7:49 PM ET",
+   "price": 141.9985,
+   "chgPct": 0.57,
+   "at": "Nov 6, 2026 7:59 PM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/mrvl"
   }
  },
- "updatedAt": "2026-11-07T01:48:36+01:00"
+ "updatedAt": "2026-11-07T02:40:36+01:00"
 }
