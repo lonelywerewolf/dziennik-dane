@@ -5,17 +5,17 @@
   "wyniki": 2,
   "rekomendacje": 0,
   "korporacyjne": 0,
-  "makro_pl": 0,
-  "swiat_rynki": 0,
+  "makro_pl": 1,
+  "swiat_rynki": 1,
   "energetyka_surowce": 0,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 1
+  "pozostale": 2
  },
  "duplicatesRemoved": 0,
- "total": 3,
+ "total": 6,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [],
@@ -43,14 +43,43 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [],
-  "makro_pl": [],
-  "swiat_rynki": [],
+  "makro_pl": [
+   {
+    "time": "13:20",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Rozmowy handlowe Chiny-USA na szczeblu rządowym; obie stolice wymieniają zastrzeżenia",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439849",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
+  "swiat_rynki": [
+   {
+    "time": "13:15",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Decyzja S&P o obniżce perspektywy ratingu to mocny sygnał ostrzegawczy - PKO BP (opinia)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439847",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "energetyka_surowce": [],
   "nieruchomosci": [],
   "fundusze_drobne": [],
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "13:18",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Resort infrastruktury chce uzyskać 15 mld euro na transport z nowej perspektywy UE",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439848",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:56",
     "kind": "espi",

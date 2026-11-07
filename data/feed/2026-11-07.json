@@ -1,7 +1,43 @@
 {
  "date": "2026-11-07",
- "count": 3,
+ "count": 6,
  "items": [
+  {
+   "id": "bossa-pap-439849",
+   "date": "2026-11-07",
+   "time": "13:20",
+   "ts": "2026-11-07T13:20:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Rozmowy handlowe Chiny-USA na szczeblu rządowym; obie stolice wymieniają zastrzeżenia",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439849"
+  },
+  {
+   "id": "bossa-pap-439848",
+   "date": "2026-11-07",
+   "time": "13:18",
+   "ts": "2026-11-07T13:18:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Resort infrastruktury chce uzyskać 15 mld euro na transport z nowej perspektywy UE",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439848"
+  },
+  {
+   "id": "bossa-pap-439847",
+   "date": "2026-11-07",
+   "time": "13:15",
+   "ts": "2026-11-07T13:15:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Decyzja S&P o obniżce perspektywy ratingu to mocny sygnał ostrzegawczy - PKO BP (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439847"
+  },
   {
    "id": "bossa-pap-439846",
    "date": "2026-11-07",
