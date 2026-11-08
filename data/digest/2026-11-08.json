@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 0
+  "pozostale": 1
  },
  "duplicatesRemoved": 0,
- "total": 0,
+ "total": 1,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [],
@@ -29,6 +29,16 @@
   "fundusze_drobne": [],
   "twoje_spolki": [],
   "obserwowane": [],
-  "pozostale": []
+  "pozostale": [
+   {
+    "time": "01:51",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KPRM: Premier po odprawie ze służbami: w obliczu tragedii w Krakowie zobaczyliśmy to, co w ludziach najlepsze - odwagę policjantów, poświęcenie ratowników i bezinteresowną pomoc ludzi (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439851",
+    "src": "bossa",
+    "flags": []
+   }
+  ]
  }
 }
