@@ -1,24 +1,34 @@
 {
  "date": "2026-11-08",
  "counts": {
-  "podsumowania": 0,
+  "podsumowania": 1,
   "wyniki": 2,
   "rekomendacje": 0,
   "korporacyjne": 0,
-  "makro_pl": 0,
+  "makro_pl": 2,
   "swiat_rynki": 0,
   "energetyka_surowce": 0,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 4
+  "pozostale": 5
  },
- "duplicatesRemoved": 0,
- "total": 6,
+ "duplicatesRemoved": 1,
+ "total": 11,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
-  "podsumowania": [],
+  "podsumowania": [
+   {
+    "time": "19:20",
+    "kind": "skrot",
+    "ticker": null,
+    "title": "Skrót wiadomości: sobota-niedziela, 7-8 listopada",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261108/skrot-wiadomosci-sobota-niedziela-7-8-listopada",
+    "src": "strefainwestorow",
+    "flags": []
+   }
+  ],
   "wyniki": [
    {
     "time": "17:46",
@@ -43,7 +53,26 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [],
-  "makro_pl": [],
+  "makro_pl": [
+   {
+    "time": "19:16",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kolejna agencja tnie rating Polski. Morningstar DBRS bije na alarm w sprawie deficytu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261108/kolejna-agencja-tnie-rating-polski-morningstar-dbrs-bije-na-alarm-w-sprawie",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "19:14",
+    "kind": "news",
+    "ticker": null,
+    "title": "Czarne chmury nad finansami Polski. Agencja S&P tnie rating i ostrzega przed deficytem",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261108/czarne-chmury-nad-finansami-polski-agencja-sp-tnie-rating-i-ostrzega-przed",
+    "src": "strefainwestorow",
+    "flags": []
+   }
+  ],
   "swiat_rynki": [],
   "energetyka_surowce": [],
   "nieruchomosci": [],
@@ -51,6 +80,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "19:19",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zaskakujący zwrot w Gigafactory Texas. Elon Musk robi miejsce dla autonomicznych taksówek",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261108/zaskakujacy-zwrot-w-gigafactory-texas-elon-musk-robi-miejsce-dla-autonomicznych",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "19:03",
     "kind": "news",
