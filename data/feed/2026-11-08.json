@@ -1,7 +1,19 @@
 {
  "date": "2026-11-08",
- "count": 13,
+ "count": 14,
  "items": [
+  {
+   "id": "bossa-pap-439859",
+   "date": "2026-11-08",
+   "time": "22:25",
+   "ts": "2026-11-08T22:25:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "POLKAP SA (17/2026) Zmiana harmonogramu publikacji raportów okresowych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439859"
+  },
   {
    "id": "bossa-espi-23638",
    "date": "2026-11-08",
