@@ -1,7 +1,19 @@
 {
  "date": "2026-11-08",
- "count": 15,
+ "count": 16,
  "items": [
+  {
+   "id": "bossa-espi-23641",
+   "date": "2026-11-08",
+   "time": "23:54",
+   "ts": "2026-11-08T23:54:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Prefa Group S.A.",
+   "title": "Zwołanie Zwyczajnego Walnego Zgromadzenia PREFA GROUP S.A. na dzień 4 grudnia 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23641"
+  },
   {
    "id": "bossa-pap-439860",
    "date": "2026-11-08",
