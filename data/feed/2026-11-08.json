@@ -1,7 +1,19 @@
 {
  "date": "2026-11-08",
- "count": 3,
+ "count": 4,
  "items": [
+  {
+   "id": "bossa-espi-23636",
+   "date": "2026-11-08",
+   "time": "16:18",
+   "ts": "2026-11-08T16:18:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETACOM",
+   "title": "Korekta numeracji raportu bieżącego numer 13/2026 - Zawiadomienie o przekroczeniu progu 10% ogólnej liczby głosów w Betacom S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23636"
+  },
   {
    "id": "bossa-espi-4318",
    "date": "2026-11-08",

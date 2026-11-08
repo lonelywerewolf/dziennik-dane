@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 2
+  "pozostale": 3
  },
  "duplicatesRemoved": 0,
- "total": 3,
+ "total": 4,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [],
@@ -42,6 +42,17 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "16:18",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BETACOM: Korekta numeracji raportu bieżącego numer 13/2026 - Zawiadomienie o przekroczeniu progu 10% ogólnej liczby głosów w Betacom S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23636",
+    "src": "bossa",
+    "flags": [
+     "prognoza"
+    ]
+   },
    {
     "time": "15:39",
     "kind": "espi",
