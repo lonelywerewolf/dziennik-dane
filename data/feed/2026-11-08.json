@@ -1,7 +1,31 @@
 {
  "date": "2026-11-08",
- "count": 1,
+ "count": 3,
  "items": [
+  {
+   "id": "bossa-espi-4318",
+   "date": "2026-11-08",
+   "time": "15:39",
+   "ts": "2026-11-08T15:39:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETACOM",
+   "title": "Zawiadomienie o przekroczeniu progu 10% ogólnej liczby głosów w Betacom S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-4318"
+  },
+  {
+   "id": "bossa-pap-439852",
+   "date": "2026-11-08",
+   "time": "15:24",
+   "ts": "2026-11-08T15:24:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wyniki spółek z S&P 500 w III kwartale wciąż powyżej oczekiwań, ale różnice mniejsze - FactSet",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439852"
+  },
   {
    "id": "bossa-pap-439851",
    "date": "2026-11-08",
