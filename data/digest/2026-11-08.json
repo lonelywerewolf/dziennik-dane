@@ -5,7 +5,7 @@
   "wyniki": 2,
   "rekomendacje": 0,
   "korporacyjne": 1,
-  "makro_pl": 2,
+  "makro_pl": 3,
   "swiat_rynki": 0,
   "energetyka_surowce": 0,
   "nieruchomosci": 0,
@@ -15,7 +15,7 @@
   "pozostale": 7
  },
  "duplicatesRemoved": 1,
- "total": 14,
+ "total": 15,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -66,6 +66,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "23:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PREFA GROUP SA (16/2026) Informacje o walnym zgromadzeniu - zwołanie WZ z projektami uchwał, zmiany w porządku obrad WZ",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439860",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "19:16",
     "kind": "news",
