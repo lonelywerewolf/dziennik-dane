@@ -1,10 +1,10 @@
 {
  "date": "2026-11-09",
  "counts": {
-  "podsumowania": 17,
+  "podsumowania": 18,
   "wyniki": 18,
   "rekomendacje": 1,
-  "korporacyjne": 48,
+  "korporacyjne": 49,
   "makro_pl": 18,
   "swiat_rynki": 14,
   "energetyka_surowce": 7,
@@ -12,13 +12,22 @@
   "fundusze_drobne": 11,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 48
+  "pozostale": 53
  },
- "duplicatesRemoved": 87,
- "total": 274,
+ "duplicatesRemoved": 97,
+ "total": 291,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "18:14",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Indeksy w Europie wzrosły; banki na plusach",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/dzien-na-rynkach-indeksy-w-europie-wzrosly-banki-na-plusach",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:36",
     "kind": "pap",
@@ -179,12 +188,12 @@
   ],
   "wyniki": [
    {
-    "time": "18:02",
-    "kind": "pap",
+    "time": "17:59",
+    "kind": "news",
     "ticker": null,
     "title": "Zakład przetwarzania soi Astarty został uszkodzony w wyniku ataku lotniczego z 8 XI",
-    "url": "https://bossa.pl/analizy/komunikaty#message-440059",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/zaklad-przetwarzania-soi-astarty-zostal-uszkodzony-w-wyniku-ataku-lotniczego-z",
+    "src": "strefainwestorow",
     "flags": [
      "wyniki"
     ]
@@ -363,6 +372,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "18:18",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ANWIM S.A.: Powiadomienia o transakcjach na akcjach Emitenta otrzymane w trybie art. 19 ust. 1 Rozporządzenia MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23731",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
    {
     "time": "18:07",
     "kind": "pap",
@@ -870,12 +890,12 @@
   ],
   "makro_pl": [
    {
-    "time": "18:11",
-    "kind": "pap",
+    "time": "18:13",
+    "kind": "news",
     "ticker": null,
     "title": "GPW: w sprawie wprowadzenia do obrotu giełdowego na Catalyst obligacji na okaziciela serii AF4 spółki BEST",
-    "url": "https://bossa.pl/analizy/komunikaty#message-440063",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/gpw-w-sprawie-wprowadzenia-do-obrotu-gieldowego-na-catalyst-obligacji-na",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -1379,6 +1399,51 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "18:27",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: w sprawie wznowienia obrotu na Głównym Rynku GPW akcjami spółki LUNA GLOBAL S.A. (dawniej LESS S.A.)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/gpw-w-sprawie-wznowienia-obrotu-na-glownym-rynku-gpw-akcjami-spolki-luna-global",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "18:27",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: komunikat - BEST",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/gpw-komunikat-best",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "18:27",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: komunikat - OLIVIA FIN",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/gpw-komunikat-olivia-fin",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "18:27",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: komunikat - CAPITAL PARK",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/gpw-komunikat-capital-park",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "18:17",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: komunikat - POLSKA GRUPA FARMACEUTYCZNA",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/gpw-komunikat-polska-grupa-farmaceutyczna",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "18:09",
     "kind": "pap",
