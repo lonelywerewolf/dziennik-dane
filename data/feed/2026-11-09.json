@@ -1,7 +1,30 @@
 {
  "date": "2026-11-09",
- "count": 105,
+ "count": 107,
  "items": [
+  {
+   "id": "bossa-pap-439929",
+   "date": "2026-11-09",
+   "time": "11:49",
+   "ts": "2026-11-09T11:49:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Tabela kursów średnich NBP nr 218/A/NBP/2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439929"
+  },
+  {
+   "id": "strefa-d212c2db5f9d",
+   "date": "2026-11-09",
+   "time": "11:43",
+   "ts": "2026-11-09T11:43:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Tabela kursów średnich NBP nr 218/A/NBP/2026",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/tabela-kursow-srednich-nbp-nr-218anbp2026"
+  },
   {
    "id": "bossa-espi-23658",
    "date": "2026-11-09",

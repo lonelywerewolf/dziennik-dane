@@ -5,7 +5,7 @@
   "wyniki": 3,
   "rekomendacje": 1,
   "korporacyjne": 14,
-  "makro_pl": 8,
+  "makro_pl": 9,
   "swiat_rynki": 6,
   "energetyka_surowce": 6,
   "nieruchomosci": 2,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 23
  },
- "duplicatesRemoved": 28,
- "total": 105,
+ "duplicatesRemoved": 29,
+ "total": 107,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -328,6 +328,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "11:43",
+    "kind": "news",
+    "ticker": null,
+    "title": "Tabela kursów średnich NBP nr 218/A/NBP/2026",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/tabela-kursow-srednich-nbp-nr-218anbp2026",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "11:11",
     "kind": "news",
