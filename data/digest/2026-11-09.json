@@ -6,7 +6,7 @@
   "rekomendacje": 1,
   "korporacyjne": 49,
   "makro_pl": 18,
-  "swiat_rynki": 14,
+  "swiat_rynki": 15,
   "energetyka_surowce": 7,
   "nieruchomosci": 3,
   "fundusze_drobne": 11,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 53
  },
- "duplicatesRemoved": 99,
- "total": 294,
+ "duplicatesRemoved": 100,
+ "total": 296,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -899,6 +899,15 @@
   ],
   "makro_pl": [
    {
+    "time": "18:28",
+    "kind": "news",
+    "ticker": null,
+    "title": "Marszałek Senatu wyznaczyła senatorom termin na składanie kandydatur do RPP w dn. 9-25 listopada (aktl.)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/marszalek-senatu-wyznaczyla-senatorom-termin-na-skladanie-kandydatur-do-rpp-w",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "18:13",
     "kind": "news",
     "ticker": null,
@@ -913,15 +922,6 @@
     "ticker": null,
     "title": "MFiPR: Ponad 102 mln zł z KPO dla Gdyńskiego Centrum Onkologii (komunikat)",
     "url": "https://bossa.pl/analizy/komunikaty#message-440037",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "15:02",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Marszałek Senatu wyznaczyła senatorom termin na składanie kandydatur do RPP w dn. 9-25 listopada",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439999",
     "src": "bossa",
     "flags": []
    },
@@ -1062,6 +1062,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "18:47",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Aktualne wskaźniki giełdowe",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440075",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:01",
     "kind": "news",

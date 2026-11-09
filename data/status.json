@@ -1,24 +1,24 @@
 {
  "last": {
-  "runAt": "2026-11-09T18:40:57+01:00",
+  "runAt": "2026-11-09T18:55:39+01:00",
   "sources": {
    "bossa": {
     "pages": 2,
-    "new": 3,
+    "new": 1,
     "complete": true,
-    "newest": "2026-11-09T18:39:00+01:00",
-    "oldestSeen": "2026-11-09T16:03:00+01:00",
+    "newest": "2026-11-09T18:47:00+01:00",
+    "oldestSeen": "2026-11-09T16:04:00+01:00",
     "ok": true,
-    "sec": 4.7
+    "sec": 5.4
    },
    "strefa": {
     "pages": 2,
-    "new": 0,
+    "new": 1,
     "complete": true,
-    "newest": "2026-11-09T18:27:01+01:00",
-    "oldestSeen": "2026-11-09T08:50:00+01:00",
+    "newest": "2026-11-09T18:28:02+01:00",
+    "oldestSeen": "2026-11-09T08:50:22+01:00",
     "ok": true,
-    "sec": 2.9
+    "sec": 3.3
    },
    "articles": {
     "saved": 0,
@@ -32,29 +32,29 @@
     "oldest": "2025-11-05",
     "newest": "2026-11-05",
     "ok": true,
-    "sec": 2.1
+    "sec": 3.4
    },
    "gpw": {
     "ok": true,
     "items": 20,
     "newest": "09-11-2026 18:05:53",
     "oldestSeen": "09-11-2026 13:36:42",
-    "sec": 5.3
+    "sec": 5.5
    },
    "gpw_archive": {
-    "days": 0,
+    "days": 1,
     "errors": [],
-    "latest": "2026-11-06",
-    "stored": 265,
+    "latest": "2026-11-09",
+    "stored": 266,
     "ok": true,
-    "sec": 3.5
+    "sec": 6.9
    },
    "nasdaq": {
     "history": 10,
     "live": 7,
     "errors": [],
     "ok": true,
-    "sec": 57.2
+    "sec": 56.7
    },
    "us_news": {
     "new": 1,
@@ -63,7 +63,7 @@
     },
     "errors": [],
     "ok": true,
-    "sec": 13.4
+    "sec": 21.3
    },
    "quotes": {
     "ok": true,
@@ -80,17 +80,16 @@
      "2026-11-09",
      4.3873
     ],
-    "sec": 1.5
+    "sec": 1.4
    },
    "insiders": {
     "new": 0,
     "errors": [
      "AVGO: URLError(OSError(101, 'Network is unreachable'))",
-     "NVDA: TimeoutError('timed out')",
-     "VRT: URLError(OSError(101, 'Network is unreachable'))"
+     "MPWR: TimeoutError('timed out')"
     ],
     "ok": false,
-    "sec": 169.8
+    "sec": 108.9
    },
    "conditions": {
     "checked": 0,
@@ -116,7 +115,7 @@
     "errors": [],
     "ok": true,
     "pdfPending": 0,
-    "sec": 4.0
+    "sec": 3.0
    },
    "macro": {
     "ok": true,
@@ -133,6 +132,138 @@
   }
  },
  "runs": [
+  {
+   "runAt": "2026-11-09T18:55:39+01:00",
+   "sources": {
+    "bossa": {
+     "pages": 2,
+     "new": 1,
+     "complete": true,
+     "newest": "2026-11-09T18:47:00+01:00",
+     "oldestSeen": "2026-11-09T16:04:00+01:00",
+     "ok": true,
+     "sec": 5.4
+    },
+    "strefa": {
+     "pages": 2,
+     "new": 1,
+     "complete": true,
+     "newest": "2026-11-09T18:28:02+01:00",
+     "oldestSeen": "2026-11-09T08:50:22+01:00",
+     "ok": true,
+     "sec": 3.3
+    },
+    "articles": {
+     "saved": 0,
+     "ok": true,
+     "sec": 0.0
+    },
+    "recs": {
+     "new": 0,
+     "seen": 289,
+     "total": 288,
+     "oldest": "2025-11-05",
+     "newest": "2026-11-05",
+     "ok": true,
+     "sec": 3.4
+    },
+    "gpw": {
+     "ok": true,
+     "items": 20,
+     "newest": "09-11-2026 18:05:53",
+     "oldestSeen": "09-11-2026 13:36:42",
+     "sec": 5.5
+    },
+    "gpw_archive": {
+     "days": 1,
+     "errors": [],
+     "latest": "2026-11-09",
+     "stored": 266,
+     "ok": true,
+     "sec": 6.9
+    },
+    "nasdaq": {
+     "history": 10,
+     "live": 7,
+     "errors": [],
+     "ok": true,
+     "sec": 56.7
+    },
+    "us_news": {
+     "new": 1,
+     "sources": {
+      "nasdaq": 1
+     },
+     "errors": [],
+     "ok": true,
+     "sec": 21.3
+    },
+    "quotes": {
+     "ok": true,
+     "tickers": 26,
+     "sec": 0.1
+    },
+    "nbp": {
+     "ok": true,
+     "USD": [
+      "2026-11-09",
+      3.9199
+     ],
+     "EUR": [
+      "2026-11-09",
+      4.3873
+     ],
+     "sec": 1.4
+    },
+    "insiders": {
+     "new": 0,
+     "errors": [
+      "AVGO: URLError(OSError(101, 'Network is unreachable'))",
+      "MPWR: TimeoutError('timed out')"
+     ],
+     "ok": false,
+     "sec": 108.9
+    },
+    "conditions": {
+     "checked": 0,
+     "met": 0,
+     "ok": true,
+     "sec": 0.0
+    },
+    "fundamentals": {
+     "pl": 0,
+     "us": 0,
+     "errors": [],
+     "ok": true,
+     "sec": 0.0
+    },
+    "calendar": {
+     "errors": [],
+     "ok": true,
+     "sec": 0.0
+    },
+    "pwpa": {
+     "new": 0,
+     "texts": 0,
+     "errors": [],
+     "ok": true,
+     "pdfPending": 0,
+     "sec": 3.0
+    },
+    "macro": {
+     "ok": true,
+     "skipped": true,
+     "sec": 0.0
+    },
+    "telegram": {
+     "ok": true,
+     "sent": 0,
+     "first": false,
+     "commands": [],
+     "sec": 0.4
+    }
+   }
+  },
   {
    "runAt": "2026-11-09T18:40:57+01:00",
    "sources": {
@@ -5192,135 +5323,6 @@
      "first": false,
      "commands": [],
      "sec": 0.4
-    }
-   }
-  },
-  {
-   "runAt": "2026-11-09T10:40:54+01:00",
-   "sources": {
-    "bossa": {
-     "pages": 2,
-     "new": 3,
-     "complete": true,
-     "newest": "2026-11-09T10:36:00+01:00",
-     "oldestSeen": "2026-11-08T23:54:00+01:00",
-     "ok": true,
-     "sec": 4.7
-    },
-    "strefa": {
-     "pages": 2,
-     "new": 1,
-     "complete": true,
-     "newest": "2026-11-09T09:51:01+01:00",
-     "oldestSeen": "2026-11-09T06:31:02+01:00",
-     "ok": true,
-     "sec": 5.6
-    },
-    "articles": {
-     "saved": 0,
-     "ok": true,
-     "sec": 0.0
-    },
-    "recs": {
-     "new": 0,
-     "seen": 289,
-     "total": 288,
-     "oldest": "2025-11-05",
-     "newest": "2026-11-05",
-     "ok": true,
-     "sec": 4.9
-    },
-    "gpw": {
-     "ok": true,
-     "items": 20,
-     "newest": "09-11-2026 10:34:25",
-     "oldestSeen": "06-11-2026 20:02:58",
-     "sec": 10.4
-    },
-    "gpw_archive": {
-     "days": 0,
-     "errors": [],
-     "latest": "2026-11-06",
-     "stored": 265,
-     "ok": true,
-     "sec": 0.0
-    },
-    "nasdaq": {
-     "history": 10,
-     "live": 7,
-     "errors": [],
-     "ok": true,
-     "sec": 46.8
-    },
-    "us_news": {
-     "new": 0,
-     "sources": {
-      "nasdaq": 0
-     },
-     "errors": [],
-     "ok": true,
-     "sec": 14.3
-    },
-    "quotes": {
-     "ok": true,
-     "tickers": 26,
-     "sec": 0.1
-    },
-    "nbp": {
-     "ok": true,
-     "USD": [
-      "2026-11-06",
-      3.9321
-     ],
-     "EUR": [
-      "2026-11-06",
-      4.3925
-     ],
-     "sec": 1.5
-    },
-    "insiders": {
-     "new": 0,
-     "errors": [],
-     "ok": true,
-     "sec": 6.6
-    },
-    "conditions": {
-     "checked": 0,
-     "met": 0,
-     "ok": true,
-     "sec": 0.0
-    },
-    "fundamentals": {
-     "pl": 0,
-     "us": 0,
-     "errors": [],
-     "ok": true,
-     "sec": 0.0
-    },
-    "calendar": {
-     "errors": [],
-     "ok": true,
-     "sec": 0.0
-    },
-    "pwpa": {
-     "new": 0,
-     "texts": 0,
-     "errors": [],
-     "ok": true,
-     "pdfPending": 0,
-     "sec": 3.5
-    },
-    "macro": {
-     "ok": true,
-     "skipped": true,
-     "sec": 0.0
-    },
-    "telegram": {
-     "ok": true,
-     "sent": 0,
-     "first": false,
-     "commands": [],
-     "sec": 0.6
     }
    }
   }
