@@ -1,7 +1,43 @@
 {
  "date": "2026-11-09",
- "count": 90,
+ "count": 94,
  "items": [
+  {
+   "id": "bossa-pap-439920",
+   "date": "2026-11-09",
+   "time": "10:36",
+   "ts": "2026-11-09T10:36:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne - SONIA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439920"
+  },
+  {
+   "id": "bossa-espi-23656",
+   "date": "2026-11-09",
+   "time": "10:34",
+   "ts": "2026-11-09T10:34:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "AB INTER RAO LIETUVA",
+   "title": "Regarding the Judgement of the Court of Justice of the European Union in Case C-147/25 between AB INTER RAO Lietuva and the Financial Crime Investigation Service",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23656"
+  },
+  {
+   "id": "bossa-espi-23655",
+   "date": "2026-11-09",
+   "time": "10:30",
+   "ts": "2026-11-09T10:30:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "4MASS S.A.",
+   "title": "Otrzymanie korekty zawiadomienia o zawarciu porozumienia akcjonariuszy w trybie art. 87 ust. 1 pkt 5 i 6 w związku z art. 69 ust.1 pkt 1 Ustawy o ofercie publicznej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23655"
+  },
   {
    "id": "bossa-pap-439917",
    "date": "2026-11-09",
@@ -255,6 +291,17 @@
    "title": "ME proponuje wzrost opłaty kogeneracyjnej w rachunkach za energię do 3,83 zł/MWh w 2027 r.",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261109/me-proponuje-wzrost-oplaty-kogeneracyjnej-w-rachunkach-za-energie-do-383-zlmwh"
+  },
+  {
+   "id": "strefa-a407fb45c063",
+   "date": "2026-11-09",
+   "time": "08:51",
+   "ts": "2026-11-09T08:51:40+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Analitycy Trigon wskazali najlepsze spółki z GPW: 15 faworytów na listopad",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/analitycy-trigon-wskazali-najlepsze-spolki-z-gpw-15-faworytow-na-listopad"
   },
   {
    "id": "strefa-1e8ca279db4a",

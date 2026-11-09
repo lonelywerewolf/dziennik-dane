@@ -4,7 +4,7 @@
   "podsumowania": 11,
   "wyniki": 3,
   "rekomendacje": 1,
-  "korporacyjne": 11,
+  "korporacyjne": 12,
   "makro_pl": 6,
   "swiat_rynki": 6,
   "energetyka_surowce": 5,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 1,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 17
+  "pozostale": 20
  },
  "duplicatesRemoved": 26,
- "total": 90,
+ "total": 94,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -164,6 +164,18 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "10:30",
+    "kind": "espi",
+    "ticker": null,
+    "title": "4MASS S.A.: Otrzymanie korekty zawiadomienia o zawarciu porozumienia akcjonariuszy w trybie art. 87 ust. 1 pkt 5 i 6 w związku z art. 69 ust.1 pkt 1 Ustawy o ofercie publicznej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23655",
+    "src": "bossa",
+    "flags": [
+     "prognoza",
+     "akcjonariat"
+    ]
+   },
    {
     "time": "09:51",
     "kind": "news",
@@ -488,6 +500,24 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "10:36",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźniki referencyjne - SONIA",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439920",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:34",
+    "kind": "espi",
+    "ticker": null,
+    "title": "AB INTER RAO LIETUVA: Regarding the Judgement of the Court of Justice of the European Union in Case C-147/25 between AB INTER RAO Lietuva and the Financial Crime Investigation Service",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23656",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "09:55",
     "kind": "pap",
     "ticker": null,
@@ -512,6 +542,15 @@
     "title": "Bitspiration VC rusza z funduszem biotechnologicznym o docelowej wielkości 50 mln euro",
     "url": "https://bossa.pl/analizy/komunikaty#message-439906",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "08:51",
+    "kind": "news",
+    "ticker": null,
+    "title": "Analitycy Trigon wskazali najlepsze spółki z GPW: 15 faworytów na listopad",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/analitycy-trigon-wskazali-najlepsze-spolki-z-gpw-15-faworytow-na-listopad",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
