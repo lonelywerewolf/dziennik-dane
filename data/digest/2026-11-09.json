@@ -1,24 +1,33 @@
 {
  "date": "2026-11-09",
  "counts": {
-  "podsumowania": 18,
-  "wyniki": 19,
+  "podsumowania": 19,
+  "wyniki": 23,
   "rekomendacje": 1,
-  "korporacyjne": 49,
+  "korporacyjne": 55,
   "makro_pl": 18,
-  "swiat_rynki": 15,
+  "swiat_rynki": 16,
   "energetyka_surowce": 7,
   "nieruchomosci": 3,
-  "fundusze_drobne": 11,
+  "fundusze_drobne": 12,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 53
+  "pozostale": 58
  },
- "duplicatesRemoved": 100,
- "total": 296,
+ "duplicatesRemoved": 103,
+ "total": 317,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "21:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Na Wall Street mocne wzrosty, w centrum uwagi sektor technologiczny",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/dzien-na-rynkach-na-wall-street-mocne-wzrosty-w-centrum-uwagi-sektor",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "18:14",
     "kind": "news",
@@ -187,6 +196,46 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "23:02",
+    "kind": "pap",
+    "ticker": null,
+    "title": "APANET SA (18/2026) Skonsolidowany raport roczny",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440092",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "22:58",
+    "kind": "pap",
+    "ticker": null,
+    "title": "APANET SA (17/2026) Raport roczny",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440093",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "21:28",
+    "kind": "espi",
+    "ticker": null,
+    "title": "XPLUS S.A.: Wybrane szacunkowe dane finansowe Emitenta za III kwartał 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23740",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "20:09",
+    "kind": "espi",
+    "ticker": null,
+    "title": "FOREVER ENTERTAINMENT S.A.: Szacunkowe wybrane wyniki finansowe za III kwartał 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23735",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "18:37",
     "kind": "pap",
@@ -381,6 +430,68 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "23:51",
+    "kind": "espi",
+    "ticker": null,
+    "title": "LEXBONO S.A.: Nabycie i umorzenie części obligacji serii P",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23746",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "22:37",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BINARY HELIX S.A.: Zawarcie Umowy Konsorcjum Binary Helix S.A. - RBL Defence Polska Sp. z o.o.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23743",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "22:24",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BINARY HELIX S.A.: Zawarcie umowy na wykonanie prac projektowo-rozwojowych z RBL Defence Polska Sp. z o.o.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23742",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "20:57",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SANOK RC SA: Żądanie zwołania Nadzwyczajnego Walnego Zgromadzenia",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23738",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "20:36",
+    "kind": "pap",
+    "ticker": null,
+    "title": "EUVIC SA (27/2026) Podjęcie przez zarząd emitenta decyzji o podwyższeniu kapitału zakładowego emitenta w granicach kapitału docelowego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440082",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "20:30",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SIMTERACT S.A.: Zawarcie aneksu do umowy kredytu w rachunku bieżącym z mBank S.A. oraz zamknięcie kredytu w Alior Bank S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23736",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "18:18",
     "kind": "espi",
@@ -1063,6 +1174,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "20:01",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KPRP: Obchody Narodowego Święta Niepodległości z udziałem Pary Prezydenckiej (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440079",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "18:47",
     "kind": "pap",
     "ticker": null,
@@ -1294,6 +1414,15 @@
   ],
   "fundusze_drobne": [
    {
+    "time": "19:27",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Nationale-Nederlanden PTE SA informuje",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440077",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "17:13",
     "kind": "news",
     "ticker": null,
@@ -1417,6 +1546,53 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "22:08",
+    "kind": "pap",
+    "ticker": null,
+    "title": "RCB: Rosyjski atak powietrzny na Ukrainie (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440088",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "21:51",
+    "kind": "espi",
+    "ticker": null,
+    "title": "AGORA: Zamiar przedłużenia okresu funkcjonowania Podatkowej Grupy Kapitałowej Agora na rok 2027",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23741",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "21:01",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BEST FASHION MEDIA SA (20/2026) Zmiana harmonogramu publikacji raportów okresowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440084",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "19:36",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Unfold.vc ASI: Q",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23734",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "18:57",
+    "kind": "espi",
+    "ticker": null,
+    "title": "VRG S.A.: Zawiadomienie w sprawie znacznego pakietu akcji.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23733",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "18:27",
     "kind": "news",
