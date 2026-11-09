@@ -2,7 +2,7 @@
  "date": "2026-11-09",
  "counts": {
   "podsumowania": 12,
-  "wyniki": 3,
+  "wyniki": 5,
   "rekomendacje": 1,
   "korporacyjne": 20,
   "makro_pl": 12,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 1,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 25
+  "pozostale": 26
  },
- "duplicatesRemoved": 40,
- "total": 129,
+ "duplicatesRemoved": 43,
+ "total": 135,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -131,6 +131,26 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "12:50",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MENTZEN SA (16/2026) Skonsolidowany raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439953",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:41",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ZUE S.A.: Wstępne wyniki finansowe za III kwartały 2026 roku.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23669",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "09:43",
     "kind": "pap",
@@ -655,6 +675,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:49",
+    "kind": "espi",
+    "ticker": null,
+    "title": "EQUNICO SE: Podpisanie przez Emitenta Listu Intencyjnego dotyczącego współpracy na rynku Uzbekistanu i w Azji Centralnej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23672",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:24",
     "kind": "news",
