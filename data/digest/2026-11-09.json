@@ -4,10 +4,10 @@
   "podsumowania": 6,
   "wyniki": 0,
   "rekomendacje": 0,
-  "korporacyjne": 0,
+  "korporacyjne": 1,
   "makro_pl": 2,
-  "swiat_rynki": 0,
-  "energetyka_surowce": 1,
+  "swiat_rynki": 1,
+  "energetyka_surowce": 2,
   "nieruchomosci": 1,
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
@@ -15,7 +15,7 @@
   "pozostale": 6
  },
  "duplicatesRemoved": 7,
- "total": 24,
+ "total": 27,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -78,7 +78,19 @@
   ],
   "wyniki": [],
   "rekomendacje": [],
-  "korporacyjne": [],
+  "korporacyjne": [
+   {
+    "time": "07:26",
+    "kind": "espi",
+    "ticker": null,
+    "title": "LIBET S.A.: Doręczenie Spółce zawiadomień, o których mowa w art. 69 i 69a ustawy o ofercie publicznej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23643",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   }
+  ],
   "makro_pl": [
    {
     "time": "07:10",
@@ -99,8 +111,27 @@
     "flags": []
    }
   ],
-  "swiat_rynki": [],
+  "swiat_rynki": [
+   {
+    "time": "07:24",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Ceny konsumpcyjne w Chinach w X: +0,7 proc. rdr. Konsensus: +0,8 proc. Poprzednio: +0,9 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439879",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "energetyka_surowce": [
+   {
+    "time": "07:25",
+    "kind": "espi",
+    "ticker": null,
+    "title": "COAL ENERGY S.A.: Update of the Development Strategy of Coal Energy S.A. for the years 2026-2028",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23642",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "06:33",
     "kind": "pap",
