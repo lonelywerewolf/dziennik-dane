@@ -2,7 +2,7 @@
  "date": "2026-11-09",
  "counts": {
   "podsumowania": 17,
-  "wyniki": 16,
+  "wyniki": 17,
   "rekomendacje": 1,
   "korporacyjne": 46,
   "makro_pl": 17,
@@ -15,7 +15,7 @@
   "pozostale": 46
  },
  "duplicatesRemoved": 86,
- "total": 266,
+ "total": 267,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -178,6 +178,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "17:34",
+    "kind": "news",
+    "ticker": null,
+    "title": "TSG miało w III kw. 8,9 mln zł skor. EBITDA, wobec 12,6 mln zł konsensusu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/tsg-mialo-w-iii-kw-89-mln-zl-skor-ebitda-wobec-126-mln-zl-konsensusu",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:30",
     "kind": "pap",
