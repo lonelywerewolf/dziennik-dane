@@ -1,31 +1,40 @@
 {
  "date": "2026-11-09",
  "counts": {
-  "podsumowania": 14,
-  "wyniki": 13,
+  "podsumowania": 15,
+  "wyniki": 14,
   "rekomendacje": 1,
-  "korporacyjne": 43,
+  "korporacyjne": 46,
   "makro_pl": 17,
-  "swiat_rynki": 13,
+  "swiat_rynki": 14,
   "energetyka_surowce": 7,
   "nieruchomosci": 3,
-  "fundusze_drobne": 9,
+  "fundusze_drobne": 11,
   "twoje_spolki": 2,
   "obserwowane": 0,
   "pozostale": 44
  },
- "duplicatesRemoved": 80,
- "total": 246,
+ "duplicatesRemoved": 85,
+ "total": 259,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
    {
-    "time": "17:07",
-    "kind": "pap",
+    "time": "17:13",
+    "kind": "skrot",
     "ticker": null,
     "title": "Skrót wiadomości - poniedziałek, 9 listopada, 17.00",
-    "url": "https://bossa.pl/analizy/komunikaty#message-440042",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/skrot-wiadomosci-poniedzialek-9-listopada-1700",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "17:13",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA FX/FI: Złoty umocnił się przy osłabiającym się dolarze; EUR/PLN poniżej 4,39",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/dzien-na-fxfi-zloty-umocnil-sie-przy-oslabiajacym-sie-dolarze-eurpln-ponizej",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -149,6 +158,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "17:18",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wyniki Ten Square Games w III kw. 2026 roku vs. konsensus PAP (tabela)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440050",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "16:45",
     "kind": "pap",
@@ -285,6 +305,33 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "17:15",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Zabka: Informacje o transakcjach przeprowadzonych w ramach programu skupu akcji własnych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23725",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:10",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GRUPA AZOTY SA: Projekty uchwał Nadzwyczajnego Walnego Zgromadzenia Grupy Azoty S.A. zwołanego na dzień 7 grudnia 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23724",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:09",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GRUPA AZOTY SA: Zwołanie Nadzwyczajnego Walnego Zgromadzenia Grupy Azoty S.A. na dzień 7 grudnia 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23723",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:57",
     "kind": "pap",
@@ -900,6 +947,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "17:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "S&P GR zmieniło perspektywę Pekao na negatywną po zmianie ratingu Polski",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/sp-gr-zmienilo-perspektywe-pekao-na-negatywna-po-zmianie-ratingu-polski",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "16:04",
     "kind": "pap",
     "ticker": null,
@@ -1112,6 +1168,24 @@
    }
   ],
   "fundusze_drobne": [
+   {
+    "time": "17:13",
+    "kind": "news",
+    "ticker": null,
+    "title": "OFE wartości jednostek rozrachunkowych z 2026.11.06",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/ofe-wartosci-jednostek-rozrachunkowych-z-20261106",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "17:13",
+    "kind": "news",
+    "ticker": null,
+    "title": "Tygodniowa zmiana wartości jednostek OFE",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/tygodniowa-zmiana-wartosci-jednostek-ofe",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:06",
     "kind": "pap",
