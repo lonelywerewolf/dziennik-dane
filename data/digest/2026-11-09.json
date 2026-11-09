@@ -2,20 +2,20 @@
  "date": "2026-11-09",
  "counts": {
   "podsumowania": 8,
-  "wyniki": 0,
+  "wyniki": 1,
   "rekomendacje": 1,
-  "korporacyjne": 5,
+  "korporacyjne": 8,
   "makro_pl": 4,
-  "swiat_rynki": 4,
-  "energetyka_surowce": 3,
+  "swiat_rynki": 5,
+  "energetyka_surowce": 4,
   "nieruchomosci": 2,
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 13
+  "pozostale": 14
  },
- "duplicatesRemoved": 15,
- "total": 56,
+ "duplicatesRemoved": 21,
+ "total": 69,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -94,7 +94,17 @@
     "flags": []
    }
   ],
-  "wyniki": [],
+  "wyniki": [
+   {
+    "time": "08:50",
+    "kind": "pap",
+    "ticker": null,
+    "title": "TELESTRADA SA (45/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439905",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "rekomendacje": [
    {
     "time": "07:45",
@@ -107,6 +117,39 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "08:45",
+    "kind": "news",
+    "ticker": null,
+    "title": "JRH sfinansuje produkcję systemów radarowych ukraińskiego partnera. Przełomowa umowa otwiera kolejny etap ORBITEO",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/jrh-sfinansuje-produkcje-systemow-radarowych-ukrainskiego-partnera-przelomowa",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "08:45",
+    "kind": "news",
+    "ticker": null,
+    "title": "Medicalgorithmics zawarł umowę z nowym amerykańskim partnerem z obszaru ambulatoryjnego monitorowania pracy serca",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/medicalgorithmics-zawarl-umowe-z-nowym-amerykanskim-partnerem-z-obszaru",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "08:43",
+    "kind": "news",
+    "ticker": null,
+    "title": "Gaming Factory podpisuje umowę z Teyon Japan. JDM: Japanese Drift Master w pierwszej połowie 2027 r. trafi na Nintendo Switch 2",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/gaming-factory-podpisuje-umowe-z-teyon-japan-jdm-japanese-drift-master-w",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "08:19",
     "kind": "espi",
@@ -203,12 +246,21 @@
   ],
   "swiat_rynki": [
    {
-    "time": "08:38",
-    "kind": "pap",
+    "time": "08:47",
+    "kind": "news",
+    "ticker": null,
+    "title": "Enea: bloki gazowo-parowe w Kozienicach będą gotowe w 2029 r., 75 proc. prac przypadnie polskim firmom (MediaRoom)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/enea-bloki-gazowo-parowe-w-kozienicach-beda-gotowe-w-2029-r-75-proc-prac",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "08:46",
+    "kind": "news",
     "ticker": null,
     "title": "Zapasy gazu w magazynach UE poniżej 73 proc., w Polsce mniej niż 98 proc.",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439902",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/zapasy-gazu-w-magazynach-ue-ponizej-73-proc-w-polsce-mniej-niz-98-proc",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -241,12 +293,30 @@
   ],
   "energetyka_surowce": [
    {
-    "time": "08:08",
-    "kind": "pap",
+    "time": "08:52",
+    "kind": "news",
+    "ticker": null,
+    "title": "ME proponuje wzrost opłaty kogeneracyjnej w rachunkach za energię do 3,83 zł/MWh w 2027 r.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/me-proponuje-wzrost-oplaty-kogeneracyjnej-w-rachunkach-za-energie-do-383-zlmwh",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "08:50",
+    "kind": "news",
     "ticker": null,
     "title": "Coal Energy chce skupić się na modelu „Asset-Light” oraz projektach zrównoważonej energetyki",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439893",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/coal-energy-chce-skupic-sie-na-modelu-asset-light-oraz-projektach-zrownowazonej",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "08:50",
+    "kind": "news",
+    "ticker": null,
+    "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/notowania-metali-bazowych-wegla-i-paliw-tabela",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -255,15 +325,6 @@
     "ticker": null,
     "title": "COAL ENERGY S.A.: Update of the Development Strategy of Coal Energy S.A. for the years 2026-2028",
     "url": "https://bossa.pl/analizy/komunikaty#message-23642",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "06:33",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Notowania metali bazowych, węgla i paliw (tabela)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439872",
     "src": "bossa",
     "flags": []
    }
@@ -302,6 +363,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "08:51",
+    "kind": "news",
+    "ticker": null,
+    "title": "Trigon DM bardziej pozytywnie nastawiony do akcji, typuje 15 spółek na listopad (opinia)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/trigon-dm-bardziej-pozytywnie-nastawiony-do-akcji-typuje-15-spolek-na-listopad",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "08:49",
+    "kind": "espi",
+    "ticker": null,
+    "title": "UniCredit: Distribution of an interim dividend for the year 2026 by UniCredit S.p.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23650",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:25",
     "kind": "pap",
@@ -408,15 +487,6 @@
     "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
     "url": "https://strefainwestorow.pl/wiadomosci/20261109/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela",
     "src": "strefainwestorow",
-    "flags": []
-   },
-   {
-    "time": "06:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Trigon DM bardziej pozytywnie nastawiony do akcji, typuje 15 spółek na listopad (opinia)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439866",
-    "src": "bossa",
     "flags": []
    }
   ]

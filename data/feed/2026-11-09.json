@@ -1,7 +1,142 @@
 {
  "date": "2026-11-09",
- "count": 56,
+ "count": 69,
  "items": [
+  {
+   "id": "strefa-2edb7a195852",
+   "date": "2026-11-09",
+   "time": "08:52",
+   "ts": "2026-11-09T08:52:33+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "ME proponuje wzrost opłaty kogeneracyjnej w rachunkach za energię do 3,83 zł/MWh w 2027 r.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/me-proponuje-wzrost-oplaty-kogeneracyjnej-w-rachunkach-za-energie-do-383-zlmwh"
+  },
+  {
+   "id": "strefa-1e8ca279db4a",
+   "date": "2026-11-09",
+   "time": "08:51",
+   "ts": "2026-11-09T08:51:40+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Trigon DM bardziej pozytywnie nastawiony do akcji, typuje 15 spółek na listopad (opinia)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/trigon-dm-bardziej-pozytywnie-nastawiony-do-akcji-typuje-15-spolek-na-listopad"
+  },
+  {
+   "id": "strefa-e8a02921ca79",
+   "date": "2026-11-09",
+   "time": "08:50",
+   "ts": "2026-11-09T08:50:00+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Coal Energy chce skupić się na modelu „Asset-Light” oraz projektach zrównoważonej energetyki",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/coal-energy-chce-skupic-sie-na-modelu-asset-light-oraz-projektach-zrownowazonej"
+  },
+  {
+   "id": "strefa-241ddfae084c",
+   "date": "2026-11-09",
+   "time": "08:50",
+   "ts": "2026-11-09T08:50:22+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/notowania-metali-bazowych-wegla-i-paliw-tabela"
+  },
+  {
+   "id": "bossa-pap-439905",
+   "date": "2026-11-09",
+   "time": "08:50",
+   "ts": "2026-11-09T08:50:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "TELESTRADA SA (45/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439905"
+  },
+  {
+   "id": "bossa-espi-23650",
+   "date": "2026-11-09",
+   "time": "08:49",
+   "ts": "2026-11-09T08:49:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "UniCredit",
+   "title": "Distribution of an interim dividend for the year 2026 by UniCredit S.p.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23650"
+  },
+  {
+   "id": "strefa-f1f9c9650337",
+   "date": "2026-11-09",
+   "time": "08:47",
+   "ts": "2026-11-09T08:47:58+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Enea: bloki gazowo-parowe w Kozienicach będą gotowe w 2029 r., 75 proc. prac przypadnie polskim firmom (MediaRoom)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/enea-bloki-gazowo-parowe-w-kozienicach-beda-gotowe-w-2029-r-75-proc-prac"
+  },
+  {
+   "id": "strefa-d56a431e0723",
+   "date": "2026-11-09",
+   "time": "08:46",
+   "ts": "2026-11-09T08:46:19+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Zapasy gazu w magazynach UE poniżej 73 proc., w Polsce mniej niż 98 proc.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/zapasy-gazu-w-magazynach-ue-ponizej-73-proc-w-polsce-mniej-niz-98-proc"
+  },
+  {
+   "id": "strefa-65e8b91be44b",
+   "date": "2026-11-09",
+   "time": "08:45",
+   "ts": "2026-11-09T08:45:11+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "JRH sfinansuje produkcję systemów radarowych ukraińskiego partnera. Przełomowa umowa otwiera kolejny etap ORBITEO",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/jrh-sfinansuje-produkcje-systemow-radarowych-ukrainskiego-partnera-przelomowa"
+  },
+  {
+   "id": "strefa-5fdd9584ae9f",
+   "date": "2026-11-09",
+   "time": "08:45",
+   "ts": "2026-11-09T08:45:43+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Medicalgorithmics zawarł umowę z nowym amerykańskim partnerem z obszaru ambulatoryjnego monitorowania pracy serca",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/medicalgorithmics-zawarl-umowe-z-nowym-amerykanskim-partnerem-z-obszaru"
+  },
+  {
+   "id": "strefa-3573629cf405",
+   "date": "2026-11-09",
+   "time": "08:43",
+   "ts": "2026-11-09T08:43:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Gaming Factory podpisuje umowę z Teyon Japan. JDM: Japanese Drift Master w pierwszej połowie 2027 r. trafi na Nintendo Switch 2",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/gaming-factory-podpisuje-umowe-z-teyon-japan-jdm-japanese-drift-master-w"
+  },
+  {
+   "id": "bossa-pap-439903",
+   "date": "2026-11-09",
+   "time": "08:42",
+   "ts": "2026-11-09T08:42:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Stopa bezrobocia w październiku wyniosła 5,8 proc., tyle samo co miesiąc wcześniej - MRPiPS (opis)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439903"
+  },
   {
    "id": "bossa-pap-439902",
    "date": "2026-11-09",
@@ -13,6 +148,17 @@
    "title": "Zapasy gazu w magazynach UE poniżej 73 proc., w Polsce mniej niż 98 proc.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439902"
+  },
+  {
+   "id": "strefa-4774d41a4432",
+   "date": "2026-11-09",
+   "time": "08:34",
+   "ts": "2026-11-09T08:34:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Stopa bezrobocia w październiku wyniosła 5,8 proc., tyle samo co miesiąc wcześniej - MRPiPS (opis)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/stopa-bezrobocia-w-pazdzierniku-wyniosla-58-proc-tyle-samo-co-miesiac-0"
   },
   {
    "id": "bossa-pap-439901",
