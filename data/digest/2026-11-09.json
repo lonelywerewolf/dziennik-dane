@@ -4,7 +4,7 @@
   "podsumowania": 12,
   "wyniki": 3,
   "rekomendacje": 1,
-  "korporacyjne": 17,
+  "korporacyjne": 18,
   "makro_pl": 9,
   "swiat_rynki": 6,
   "energetyka_surowce": 6,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 23
  },
- "duplicatesRemoved": 29,
- "total": 110,
+ "duplicatesRemoved": 30,
+ "total": 112,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -173,6 +173,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "12:08",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BETA ETF DYWIDENDA PLUS PORTFELOW FIZ: Raport bieżący nr 231 / 2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23660",
+    "src": "bossa",
+    "flags": [
+     "dywidenda"
+    ]
+   },
    {
     "time": "11:55",
     "kind": "espi",
