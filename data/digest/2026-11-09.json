@@ -1,8 +1,8 @@
 {
  "date": "2026-11-09",
  "counts": {
-  "podsumowania": 15,
-  "wyniki": 14,
+  "podsumowania": 16,
+  "wyniki": 16,
   "rekomendacje": 1,
   "korporacyjne": 46,
   "makro_pl": 17,
@@ -15,10 +15,19 @@
   "pozostale": 44
  },
  "duplicatesRemoved": 85,
- "total": 259,
+ "total": 262,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "17:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "WIG20 na zamknięciu wyniósł 4165,30 pkt (0,82%)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440053",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:13",
     "kind": "skrot",
@@ -158,6 +167,24 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "17:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "B-ACT SA (15/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440052",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:25",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GEOTRANS SA (10/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440051",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:18",
     "kind": "pap",

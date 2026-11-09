@@ -1,7 +1,43 @@
 {
  "date": "2026-11-09",
- "count": 259,
+ "count": 262,
  "items": [
+  {
+   "id": "bossa-pap-440053",
+   "date": "2026-11-09",
+   "time": "17:30",
+   "ts": "2026-11-09T17:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "WIG20 na zamknięciu wyniósł 4165,30 pkt (0,82%)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440053"
+  },
+  {
+   "id": "bossa-pap-440052",
+   "date": "2026-11-09",
+   "time": "17:30",
+   "ts": "2026-11-09T17:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "B-ACT SA (15/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440052"
+  },
+  {
+   "id": "bossa-pap-440051",
+   "date": "2026-11-09",
+   "time": "17:25",
+   "ts": "2026-11-09T17:25:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GEOTRANS SA (10/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440051"
+  },
   {
    "id": "bossa-pap-440050",
    "date": "2026-11-09",

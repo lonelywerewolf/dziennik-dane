@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "8b518eb50683",
+   "ticker": "NVDA",
+   "time": "2026-11-09T16:55+01:00",
+   "title": "Nasdaq 100 Movers: NVDA, HONIV",
+   "url": "https://www.nasdaq.com/articles/nasdaq-100-movers-nvda-honiv",
+   "src": "nasdaq",
+   "summary": "In early trading on Monday, shares of Honeywell International topped the list of the day's best performing components of the Nasdaq 100 index, trading up 7.5%.  Year to date, Honeywell International registers a 42.2% gain.\n\nAnd the worst performing Nasdaq 100 component thus far"
+  },
+  {
+   "id": "308d54c0038c",
+   "ticker": "NVDA",
+   "time": "2026-11-09T16:54+01:00",
+   "title": "S&P 500 Movers: NVDA, FERG",
+   "url": "https://www.nasdaq.com/articles/sp-500-movers-nvda-ferg",
+   "src": "nasdaq",
+   "summary": "In early trading on Monday, shares of Ferguson Enterprises topped the list of the day's best performing components of the S&amp;P 500 index, trading up 10.8%.  Year to date, Ferguson Enterprises registers a 16.4% gain.\n\nAnd the worst performing S&amp;P 500 component thus far on"
+  },
+  {
+   "id": "1e9d0712339c",
+   "ticker": "NVDA",
+   "time": "2026-11-09T16:54+01:00",
+   "title": "Dow Movers: NVDA, HONIV",
+   "url": "https://www.nasdaq.com/articles/dow-movers-nvda-honiv-5",
+   "src": "nasdaq",
+   "summary": "In early trading on Monday, shares of Honeywell International topped the list of the day's best performing Dow Jones Industrial Average components, trading up 7.5%.  Year to date, Honeywell International registers a 42.2% gain.\n\nAnd the worst performing Dow component thus far on"
+  },
+  {
    "id": "8d5f58eff895",
    "ticker": "VRT",
    "time": "2026-11-09T16:49+01:00",
@@ -2512,5 +2539,5 @@
    "summary": "Key PointsASML is one of the most important companies in the global semiconductor ecosystem, but its stock price performance has left a lot to be desired over the past three years."
   }
  ],
- "updatedAt": "2026-11-09T17:21:52+01:00"
+ "updatedAt": "2026-11-09T17:34:01+01:00"
 }
