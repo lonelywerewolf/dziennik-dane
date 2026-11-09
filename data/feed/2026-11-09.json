@@ -1,7 +1,89 @@
 {
  "date": "2026-11-09",
- "count": 34,
+ "count": 41,
  "items": [
+  {
+   "id": "bossa-espi-23647",
+   "date": "2026-11-09",
+   "time": "08:05",
+   "ts": "2026-11-09T08:05:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "UniCredit",
+   "title": "2026 interim dividend approval",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23647"
+  },
+  {
+   "id": "bossa-pap-439891",
+   "date": "2026-11-09",
+   "time": "08:04",
+   "ts": "2026-11-09T08:04:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Eksport Niemiec w IX: +2,0 proc. mdm. Konsensus: +0,5 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439891"
+  },
+  {
+   "id": "bossa-pap-439890",
+   "date": "2026-11-09",
+   "time": "07:59",
+   "ts": "2026-11-09T07:59:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Najważniejsze indeksy giełdowe w Azji",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439890"
+  },
+  {
+   "id": "strefa-825995afdf41",
+   "date": "2026-11-09",
+   "time": "07:56",
+   "ts": "2026-11-09T07:56:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Najważniejsze indeksy giełdowe w Azji",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/najwazniejsze-indeksy-gieldowe-w-azji"
+  },
+  {
+   "id": "bossa-pap-439888",
+   "date": "2026-11-09",
+   "time": "07:55",
+   "ts": "2026-11-09T07:55:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ceny ropy powiększają najmocniejszy tygodniowy spadek od 2020 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439888"
+  },
+  {
+   "id": "bossa-espi-23646",
+   "date": "2026-11-09",
+   "time": "07:55",
+   "ts": "2026-11-09T07:55:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "UniCredit",
+   "title": "3Q26 AND 9M26 GROUP RESULTS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23646"
+  },
+  {
+   "id": "strefa-9013d7ae6a9d",
+   "date": "2026-11-09",
+   "time": "07:53",
+   "ts": "2026-11-09T07:53:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ceny ropy powiększają najmocniejszy tygodniowy spadek od 2020 r.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/ceny-ropy-powiekszaja-najmocniejszy-tygodniowy-spadek-od-2020-r"
+  },
   {
    "id": "bossa-pap-439887",
    "date": "2026-11-09",

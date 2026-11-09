@@ -6,16 +6,16 @@
   "rekomendacje": 1,
   "korporacyjne": 3,
   "makro_pl": 4,
-  "swiat_rynki": 1,
+  "swiat_rynki": 2,
   "energetyka_surowce": 2,
   "nieruchomosci": 2,
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 6
+  "pozostale": 10
  },
- "duplicatesRemoved": 8,
- "total": 34,
+ "duplicatesRemoved": 10,
+ "total": 41,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -163,6 +163,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "07:56",
+    "kind": "news",
+    "ticker": null,
+    "title": "Najważniejsze indeksy giełdowe w Azji",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/najwazniejsze-indeksy-gieldowe-w-azji",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "07:24",
     "kind": "pap",
     "ticker": null,
@@ -226,6 +235,42 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "08:05",
+    "kind": "espi",
+    "ticker": null,
+    "title": "UniCredit: 2026 interim dividend approval",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23647",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "08:04",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Eksport Niemiec w IX: +2,0 proc. mdm. Konsensus: +0,5 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439891",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "07:55",
+    "kind": "espi",
+    "ticker": null,
+    "title": "UniCredit: 3Q26 AND 9M26 GROUP RESULTS",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23646",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "07:53",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny ropy powiększają najmocniejszy tygodniowy spadek od 2020 r.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/ceny-ropy-powiekszaja-najmocniejszy-tygodniowy-spadek-od-2020-r",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "06:39",
     "kind": "news",
