@@ -4,18 +4,18 @@
   "podsumowania": 12,
   "wyniki": 6,
   "rekomendacje": 1,
-  "korporacyjne": 22,
+  "korporacyjne": 23,
   "makro_pl": 12,
-  "swiat_rynki": 6,
+  "swiat_rynki": 7,
   "energetyka_surowce": 6,
-  "nieruchomosci": 2,
+  "nieruchomosci": 3,
   "fundusze_drobne": 1,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 28
+  "pozostale": 29
  },
- "duplicatesRemoved": 44,
- "total": 141,
+ "duplicatesRemoved": 47,
+ "total": 148,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -202,6 +202,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "12:57",
+    "kind": "news",
+    "ticker": null,
+    "title": "B-Act z umową o wartości 3,3 mln zł w zakładach QEMETICA Soda Polska",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/b-act-z-umowa-o-wartosci-33-mln-zl-w-zakladach-qemetica-soda-polska",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "12:56",
     "kind": "pap",
@@ -552,6 +563,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "13:18",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PŚO rozszerzył w X zasięg sieci światłowodowej o ponad 40 tys. gospodarstw domowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439960",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "08:53",
     "kind": "news",
     "ticker": null,
@@ -664,6 +684,15 @@
   ],
   "nieruchomosci": [
    {
+    "time": "13:28",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Develia rozpoczęła przedsprzedaż 107 mieszkań w Warszawie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439964",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "07:36",
     "kind": "pap",
     "ticker": null,
@@ -706,6 +735,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "13:24",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Cena maksymalna dla benzyny Pb95 wyniesie we wtorek 6,04 zł/l, a dla ON 7,74 zł/l",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439962",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:01",
     "kind": "pap",

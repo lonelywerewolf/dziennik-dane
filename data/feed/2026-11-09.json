@@ -1,7 +1,79 @@
 {
  "date": "2026-11-09",
- "count": 141,
+ "count": 148,
  "items": [
+  {
+   "id": "bossa-pap-439964",
+   "date": "2026-11-09",
+   "time": "13:28",
+   "ts": "2026-11-09T13:28:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Develia rozpoczęła przedsprzedaż 107 mieszkań w Warszawie",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439964"
+  },
+  {
+   "id": "bossa-espi-23679",
+   "date": "2026-11-09",
+   "time": "13:25",
+   "ts": "2026-11-09T13:25:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF WIG20lev PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 225 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23679"
+  },
+  {
+   "id": "bossa-pap-439962",
+   "date": "2026-11-09",
+   "time": "13:24",
+   "ts": "2026-11-09T13:24:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Cena maksymalna dla benzyny Pb95 wyniesie we wtorek 6,04 zł/l, a dla ON 7,74 zł/l",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439962"
+  },
+  {
+   "id": "bossa-espi-23678",
+   "date": "2026-11-09",
+   "time": "13:21",
+   "ts": "2026-11-09T13:21:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF S&P 500 PLN-HEDGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 225 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23678"
+  },
+  {
+   "id": "bossa-pap-439960",
+   "date": "2026-11-09",
+   "time": "13:18",
+   "ts": "2026-11-09T13:18:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PŚO rozszerzył w X zasięg sieci światłowodowej o ponad 40 tys. gospodarstw domowych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439960"
+  },
+  {
+   "id": "bossa-espi-23677",
+   "date": "2026-11-09",
+   "time": "13:17",
+   "ts": "2026-11-09T13:17:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 PLN-HEDGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 225 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23677"
+  },
   {
    "id": "bossa-pap-439958",
    "date": "2026-11-09",
@@ -25,6 +97,17 @@
    "title": "Indeksy transakcyjne - WIRON",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439957"
+  },
+  {
+   "id": "strefa-49ea2e21d900",
+   "date": "2026-11-09",
+   "time": "12:57",
+   "ts": "2026-11-09T12:57:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "B-Act z umową o wartości 3,3 mln zł w zakładach QEMETICA Soda Polska",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/b-act-z-umowa-o-wartosci-33-mln-zl-w-zakladach-qemetica-soda-polska"
   },
   {
    "id": "bossa-pap-439955",
