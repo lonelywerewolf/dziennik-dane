@@ -1,12 +1,12 @@
 {
  "date": "2026-11-09",
  "counts": {
-  "podsumowania": 7,
+  "podsumowania": 8,
   "wyniki": 0,
   "rekomendacje": 1,
   "korporacyjne": 5,
   "makro_pl": 4,
-  "swiat_rynki": 3,
+  "swiat_rynki": 4,
   "energetyka_surowce": 3,
   "nieruchomosci": 2,
   "fundusze_drobne": 0,
@@ -14,11 +14,20 @@
   "obserwowane": 0,
   "pozostale": 13
  },
- "duplicatesRemoved": 14,
- "total": 53,
+ "duplicatesRemoved": 15,
+ "total": 56,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "08:25",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: Poniedziałkowa sesja może rozpocząć się od lekkich spadków",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/dzien-na-gpw-poniedzialkowa-sesja-moze-rozpoczac-sie-od-lekkich-spadkow",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:14",
     "kind": "news",
@@ -193,6 +202,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "08:38",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Zapasy gazu w magazynach UE poniżej 73 proc., w Polsce mniej niż 98 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439902",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:29",
     "kind": "pap",

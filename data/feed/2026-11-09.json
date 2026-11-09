@@ -1,7 +1,31 @@
 {
  "date": "2026-11-09",
- "count": 53,
+ "count": 56,
  "items": [
+  {
+   "id": "bossa-pap-439902",
+   "date": "2026-11-09",
+   "time": "08:38",
+   "ts": "2026-11-09T08:38:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zapasy gazu w magazynach UE poniżej 73 proc., w Polsce mniej niż 98 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439902"
+  },
+  {
+   "id": "bossa-pap-439901",
+   "date": "2026-11-09",
+   "time": "08:33",
+   "ts": "2026-11-09T08:33:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: Poniedziałkowa sesja może rozpocząć się od lekkich spadków",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439901"
+  },
   {
    "id": "bossa-pap-439900",
    "date": "2026-11-09",
@@ -13,6 +37,17 @@
    "title": "Onodrim Industries pozyskał 300 mln USD na zbrojenia i przemysł w Europie",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439900"
+  },
+  {
+   "id": "strefa-a2ce9a90cd97",
+   "date": "2026-11-09",
+   "time": "08:25",
+   "ts": "2026-11-09T08:25:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: Poniedziałkowa sesja może rozpocząć się od lekkich spadków",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/dzien-na-gpw-poniedzialkowa-sesja-moze-rozpoczac-sie-od-lekkich-spadkow"
   },
   {
    "id": "bossa-pap-439898",
