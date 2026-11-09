@@ -6,16 +6,16 @@
   "rekomendacje": 1,
   "korporacyjne": 24,
   "makro_pl": 13,
-  "swiat_rynki": 7,
+  "swiat_rynki": 8,
   "energetyka_surowce": 6,
   "nieruchomosci": 3,
   "fundusze_drobne": 1,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 29
+  "pozostale": 31
  },
- "duplicatesRemoved": 52,
- "total": 157,
+ "duplicatesRemoved": 58,
+ "total": 166,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -603,6 +603,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "13:29",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: w sprawie dopuszczenia do obrotu giełdowego na Głównym Rynku GPW warrantów opcyjnych wyemitowanych przez RAIFFEISEN BANK INTERNATIONAL AG",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/gpw-w-sprawie-dopuszczenia-do-obrotu-gieldowego-na-glownym-rynku-gpw-warrantow",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "13:18",
     "kind": "pap",
     "ticker": null,
@@ -775,6 +784,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "13:47",
+    "kind": "news",
+    "ticker": null,
+    "title": "Lubawa szacuje jednostkową stratę netto za trzy kwartały '26 na 0,1 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/lubawa-szacuje-jednostkowa-strate-netto-za-trzy-kwartaly-26-na-01-mln-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "13:40",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MF: Nowa forma płatności w eUrzędzie Skarbowym (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439973",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:24",
     "kind": "pap",
