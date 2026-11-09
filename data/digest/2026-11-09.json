@@ -4,18 +4,18 @@
   "podsumowania": 12,
   "wyniki": 9,
   "rekomendacje": 1,
-  "korporacyjne": 25,
+  "korporacyjne": 26,
   "makro_pl": 13,
   "swiat_rynki": 9,
   "energetyka_surowce": 6,
   "nieruchomosci": 3,
-  "fundusze_drobne": 1,
+  "fundusze_drobne": 4,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 31
+  "pozostale": 33
  },
  "duplicatesRemoved": 60,
- "total": 171,
+ "total": 177,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -231,6 +231,15 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "14:15",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KRUK S.A.: Informacja o transakcjach na akcjach KRUK S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23693",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:59",
     "kind": "espi",
@@ -789,6 +798,33 @@
   ],
   "fundusze_drobne": [
    {
+    "time": "14:06",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PKO BP BANKOWY OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439985",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:05",
+    "kind": "pap",
+    "ticker": null,
+    "title": "UNIQA OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439984",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:05",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OFE POCZTYLION wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439983",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "09:51",
     "kind": "espi",
     "ticker": null,
@@ -811,6 +847,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "14:15",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BALTICON SA (13/2026) Zmiana harmonogramu publikacji raportów okresowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439988",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:11",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GPW wciąż nie jest naturalnym źródłem finansowania dla spółek technologicznych - Innova Capital (wywiad)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439986",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:47",
     "kind": "news",

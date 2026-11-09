@@ -1,7 +1,79 @@
 {
  "date": "2026-11-09",
- "count": 171,
+ "count": 177,
  "items": [
+  {
+   "id": "bossa-pap-439988",
+   "date": "2026-11-09",
+   "time": "14:15",
+   "ts": "2026-11-09T14:15:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "BALTICON SA (13/2026) Zmiana harmonogramu publikacji raportów okresowych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439988"
+  },
+  {
+   "id": "bossa-espi-23693",
+   "date": "2026-11-09",
+   "time": "14:15",
+   "ts": "2026-11-09T14:15:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KRUK S.A.",
+   "title": "Informacja o transakcjach na akcjach KRUK S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23693"
+  },
+  {
+   "id": "bossa-pap-439986",
+   "date": "2026-11-09",
+   "time": "14:11",
+   "ts": "2026-11-09T14:11:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW wciąż nie jest naturalnym źródłem finansowania dla spółek technologicznych - Innova Capital (wywiad)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439986"
+  },
+  {
+   "id": "bossa-pap-439985",
+   "date": "2026-11-09",
+   "time": "14:06",
+   "ts": "2026-11-09T14:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PKO BP BANKOWY OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439985"
+  },
+  {
+   "id": "bossa-pap-439984",
+   "date": "2026-11-09",
+   "time": "14:05",
+   "ts": "2026-11-09T14:05:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "UNIQA OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439984"
+  },
+  {
+   "id": "bossa-pap-439983",
+   "date": "2026-11-09",
+   "time": "14:05",
+   "ts": "2026-11-09T14:05:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "OFE POCZTYLION wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439983"
+  },
   {
    "id": "bossa-espi-23692",
    "date": "2026-11-09",
