@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "2575a1ded80c",
+   "ticker": "NVDA",
+   "time": "2026-11-09T14:50+01:00",
+   "title": "The AI Trade Is Splitting in 2: Here Are the Winners and Losers",
+   "url": "https://www.nasdaq.com/articles/ai-trade-splitting-2-here-are-winners-and-losers",
+   "src": "nasdaq",
+   "summary": "Key PointsCompanies building data centers face increased cost of capital, if they can access additional capital at all."
+  },
+  {
    "id": "644f390e39b4",
    "ticker": "NVDA",
    "time": "2026-11-09T14:29+01:00",
@@ -26,6 +35,15 @@
    "url": "https://www.nasdaq.com/articles/not-amd-not-intel-artificial-intelligence-ai-chip-stock-nvidia-should-fear-most",
    "src": "nasdaq",
    "summary": "Key PointsNvidia dominates the artificial intelligence (AI) data center industry thanks to its roster of GPUs."
+  },
+  {
+   "id": "4579d4309c62",
+   "ticker": "NVDA",
+   "time": "2026-11-09T13:00+01:00",
+   "title": "Is Apple the Best Mag-7 Stock Now? ETFs in Focus",
+   "url": "https://www.nasdaq.com/articles/apple-best-mag-7-stock-now-etfs-focus",
+   "src": "nasdaq",
+   "summary": "Apple's limited AI exposure, strong iPhone demand and solid cash position could make it a winner as the AI trade falters."
   },
   {
    "id": "b597e1b5cb14",
@@ -2395,5 +2413,5 @@
    "summary": "Key PointsASML is one of the most important companies in the global semiconductor ecosystem, but its stock price performance has left a lot to be desired over the past three years."
   }
  ],
- "updatedAt": "2026-11-09T15:17:15+01:00"
+ "updatedAt": "2026-11-09T15:29:10+01:00"
 }
