@@ -1,7 +1,67 @@
 {
  "date": "2026-11-09",
- "count": 240,
+ "count": 246,
  "items": [
+  {
+   "id": "bossa-pap-440042",
+   "date": "2026-11-09",
+   "time": "17:07",
+   "ts": "2026-11-09T17:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Skrót wiadomości - poniedziałek, 9 listopada, 17.00",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440042"
+  },
+  {
+   "id": "bossa-pap-440041",
+   "date": "2026-11-09",
+   "time": "17:06",
+   "ts": "2026-11-09T17:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Nationale-Nederlanden OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440041"
+  },
+  {
+   "id": "bossa-espi-23722",
+   "date": "2026-11-09",
+   "time": "17:04",
+   "ts": "2026-11-09T17:04:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "TEN SQUARE GAMES S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23722"
+  },
+  {
+   "id": "bossa-pap-440039",
+   "date": "2026-11-09",
+   "time": "16:58",
+   "ts": "2026-11-09T16:58:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zestawienie publikowanych w ostatnim czasie cen wybranych towarów (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440039"
+  },
+  {
+   "id": "bossa-pap-440038",
+   "date": "2026-11-09",
+   "time": "16:57",
+   "ts": "2026-11-09T16:57:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KOOL2PLAY SA (15/2026) Powołanie osoby zarządzającej lub nadzorującej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440038"
+  },
   {
    "id": "bossa-pap-440037",
    "date": "2026-11-09",
@@ -133,6 +193,17 @@
    "title": "MENTZEN SA (17/2026) Podpisanie przez emitenta z firmą audytorską umowy o badanie sprawozdań finansowych lub skonsolidowanych sprawozdań finansowych emitenta",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440027"
+  },
+  {
+   "id": "strefa-ae859d3fd2d6",
+   "date": "2026-11-09",
+   "time": "16:35",
+   "ts": "2026-11-09T16:35:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Zeneris Projekty z 5 mln zł przychodów po trzech kwartałach 2026 r. Spółka rozwija portfel projektów hydrotechnicznych",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/zeneris-projekty-z-5-mln-zl-przychodow-po-trzech-kwartalach-2026-r-spolka"
   },
   {
    "id": "bossa-pap-440026",
