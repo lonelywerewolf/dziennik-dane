@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "id": "8d5f58eff895",
+   "ticker": "VRT",
+   "time": "2026-11-09T16:49+01:00",
+   "title": "VOT, NET, PWR, VRT: Large Outflows Detected at ETF",
+   "url": "https://www.nasdaq.com/articles/vot-net-pwr-vrt-large-outflows-detected-etf",
+   "src": "nasdaq",
+   "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the Vanguard Morningstar Mid-Cap Growth ETF (Symbol: VOT) where we have detected an approximate $146.1 million dollar outflow -- that's a 0.8% decrease"
+  },
+  {
+   "id": "4ea6ae8e29c6",
+   "ticker": "NVDA",
+   "time": "2026-11-09T16:20+01:00",
+   "title": "Nvidia Stock Falls Below $180: Is It a Bargain Buy?",
+   "url": "https://www.nasdaq.com/articles/nvidia-stock-falls-below-180-it-bargain-buy",
+   "src": "nasdaq",
+   "summary": "Key PointsNvidia is reportedly investigating an affair involving CEO Jensen Huang and a potential Chinese spy."
+  },
+  {
    "id": "9d23c29e1a44",
    "ticker": "NVDA",
    "time": "2026-11-09T15:37+01:00",
@@ -26,6 +44,15 @@
    "url": "https://www.nasdaq.com/articles/ai-trade-splitting-2-here-are-winners-and-losers",
    "src": "nasdaq",
    "summary": "Key PointsCompanies building data centers face increased cost of capital, if they can access additional capital at all."
+  },
+  {
+   "id": "b319be357da7",
+   "ticker": "NVDA",
+   "time": "2026-11-09T14:30+01:00",
+   "title": "Is Nvidia (NVDA) a Buy as Wall Street Analysts Look Optimistic?",
+   "url": "https://www.nasdaq.com/articles/nvidia-nvda-buy-wall-street-analysts-look-optimistic",
+   "src": "nasdaq",
+   "summary": "The average brokerage recommendation (ABR) for Nvidia (NVDA) is equivalent to a Buy. The overly optimistic recommendations of Wall Street analysts make the effectiveness of this highly sought-after metric questionable. So, is it worth buying the stock?"
   },
   {
    "id": "644f390e39b4",
@@ -2467,5 +2494,5 @@
    "summary": "Key PointsASML is one of the most important companies in the global semiconductor ecosystem, but its stock price performance has left a lot to be desired over the past three years."
   }
  ],
- "updatedAt": "2026-11-09T16:45:26+01:00"
+ "updatedAt": "2026-11-09T16:57:20+01:00"
 }

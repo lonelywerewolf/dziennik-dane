@@ -1,7 +1,55 @@
 {
  "date": "2026-11-09",
- "count": 236,
+ "count": 240,
  "items": [
+  {
+   "id": "bossa-pap-440037",
+   "date": "2026-11-09",
+   "time": "16:55",
+   "ts": "2026-11-09T16:55:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MFiPR: Ponad 102 mln zł z KPO dla Gdyńskiego Centrum Onkologii (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440037"
+  },
+  {
+   "id": "bossa-pap-440034",
+   "date": "2026-11-09",
+   "time": "16:45",
+   "ts": "2026-11-09T16:45:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "CONSOLEWAY SA (13/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440034"
+  },
+  {
+   "id": "bossa-espi-23720",
+   "date": "2026-11-09",
+   "time": "16:45",
+   "ts": "2026-11-09T16:45:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "EQUES AKUMULACJI MAJĄTKU FIZ",
+   "title": "PC-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23720"
+  },
+  {
+   "id": "bossa-espi-23719",
+   "date": "2026-11-09",
+   "time": "16:45",
+   "ts": "2026-11-09T16:45:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PCC ROKITA S.A.",
+   "title": "Zawarcie aneksu do umowy kredytowej z EBI",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23719"
+  },
   {
    "id": "bossa-pap-440033",
    "date": "2026-11-09",

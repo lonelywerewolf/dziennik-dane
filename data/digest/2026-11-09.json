@@ -2,10 +2,10 @@
  "date": "2026-11-09",
  "counts": {
   "podsumowania": 13,
-  "wyniki": 11,
+  "wyniki": 12,
   "rekomendacje": 1,
-  "korporacyjne": 41,
-  "makro_pl": 16,
+  "korporacyjne": 42,
+  "makro_pl": 17,
   "swiat_rynki": 13,
   "energetyka_surowce": 7,
   "nieruchomosci": 3,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 43
  },
- "duplicatesRemoved": 78,
- "total": 236,
+ "duplicatesRemoved": 79,
+ "total": 240,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -141,6 +141,15 @@
   ],
   "wyniki": [
    {
+    "time": "16:45",
+    "kind": "pap",
+    "ticker": null,
+    "title": "CONSOLEWAY SA (13/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440034",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "15:54",
     "kind": "pap",
     "ticker": null,
@@ -258,6 +267,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "16:45",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PCC ROKITA S.A.: Zawarcie aneksu do umowy kredytowej z EBI",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23719",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "16:44",
     "kind": "pap",
@@ -695,6 +715,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "16:55",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MFiPR: Ponad 102 mln zł z KPO dla Gdyńskiego Centrum Onkologii (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440037",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:02",
     "kind": "pap",
