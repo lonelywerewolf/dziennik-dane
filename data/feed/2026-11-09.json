@@ -1,7 +1,66 @@
 {
  "date": "2026-11-09",
- "count": 166,
+ "count": 171,
  "items": [
+  {
+   "id": "bossa-espi-23692",
+   "date": "2026-11-09",
+   "time": "13:59",
+   "ts": "2026-11-09T13:59:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KGL S.A.",
+   "title": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia KGL S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23692"
+  },
+  {
+   "id": "bossa-espi-23691",
+   "date": "2026-11-09",
+   "time": "13:57",
+   "ts": "2026-11-09T13:57:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MILTON ESSEX S.A.",
+   "title": "Zakończenie etapu oceny środowiskowej dla planowanej inwestycji laboratoryjno-produkcyjnej spółki zależnej Sanford Biotech",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23691"
+  },
+  {
+   "id": "bossa-pap-439980",
+   "date": "2026-11-09",
+   "time": "13:54",
+   "ts": "2026-11-09T13:54:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Grupa Inter Cars miała w październiku 2.335,1 mln zł przychodów, wzrost rdr o 11,2 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439980"
+  },
+  {
+   "id": "bossa-espi-23690",
+   "date": "2026-11-09",
+   "time": "13:52",
+   "ts": "2026-11-09T13:52:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF WIG20 TR + mWIG40 TR PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23690"
+  },
+  {
+   "id": "strefa-0e1b41a0e51d",
+   "date": "2026-11-09",
+   "time": "13:51",
+   "ts": "2026-11-09T13:51:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grupa Inter Cars miała w październiku 2.335,1 mln zł przychodów, wzrost rdr o 11,2 proc.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/grupa-inter-cars-miala-w-pazdzierniku-23351-mln-zl-przychodow-wzrost-rdr-o-112"
+  },
   {
    "id": "bossa-pap-439977",
    "date": "2026-11-09",
