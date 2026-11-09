@@ -1,24 +1,33 @@
 {
  "date": "2026-11-09",
  "counts": {
-  "podsumowania": 6,
+  "podsumowania": 7,
   "wyniki": 0,
   "rekomendacje": 1,
-  "korporacyjne": 4,
+  "korporacyjne": 5,
   "makro_pl": 4,
-  "swiat_rynki": 2,
+  "swiat_rynki": 3,
   "energetyka_surowce": 3,
   "nieruchomosci": 2,
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 11
+  "pozostale": 13
  },
- "duplicatesRemoved": 13,
- "total": 47,
+ "duplicatesRemoved": 14,
+ "total": 53,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "08:14",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: W Azji na giełdach odbicie po najmocniejszej wyprzedaży od ponad 18 miesięcy",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/dzien-na-rynkach-w-azji-na-gieldach-odbicie-po-najmocniejszej-wyprzedazy-od",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "07:01",
     "kind": "news",
@@ -89,6 +98,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "08:19",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GAMING FACTORY S.A.: Podpisanie umowy licencyjnej na wykonanie i dystrybucję portu gry „JDM: Japanese Drift Master” w wersji na Nintendo Switch 2",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23648",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "08:11",
     "kind": "news",
@@ -174,6 +194,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "08:29",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Onodrim Industries pozyskał 300 mln USD na zbrojenia i przemysł w Europie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439900",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "07:56",
     "kind": "news",
     "ticker": null,
@@ -255,6 +284,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "08:25",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Eksport z Polski do Niemiec we wrześniu wzrósł o 3,5 proc. mdm - Destatis",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439898",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "08:25",
+    "kind": "espi",
+    "ticker": null,
+    "title": "TENDERHUT S.A.: QSr",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23649",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:05",
     "kind": "espi",

@@ -1,7 +1,78 @@
 {
  "date": "2026-11-09",
- "count": 47,
+ "count": 53,
  "items": [
+  {
+   "id": "bossa-pap-439900",
+   "date": "2026-11-09",
+   "time": "08:29",
+   "ts": "2026-11-09T08:29:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Onodrim Industries pozyskał 300 mln USD na zbrojenia i przemysł w Europie",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439900"
+  },
+  {
+   "id": "bossa-pap-439898",
+   "date": "2026-11-09",
+   "time": "08:25",
+   "ts": "2026-11-09T08:25:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Eksport z Polski do Niemiec we wrześniu wzrósł o 3,5 proc. mdm - Destatis",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439898"
+  },
+  {
+   "id": "bossa-espi-23649",
+   "date": "2026-11-09",
+   "time": "08:25",
+   "ts": "2026-11-09T08:25:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "TENDERHUT S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23649"
+  },
+  {
+   "id": "bossa-pap-439897",
+   "date": "2026-11-09",
+   "time": "08:24",
+   "ts": "2026-11-09T08:24:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: W Azji na giełdach odbicie po najmocniejszej wyprzedaży od ponad 18 miesięcy",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439897"
+  },
+  {
+   "id": "bossa-espi-23648",
+   "date": "2026-11-09",
+   "time": "08:19",
+   "ts": "2026-11-09T08:19:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "GAMING FACTORY S.A.",
+   "title": "Podpisanie umowy licencyjnej na wykonanie i dystrybucję portu gry „JDM: Japanese Drift Master” w wersji na Nintendo Switch 2",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23648"
+  },
+  {
+   "id": "strefa-3d975baea4cb",
+   "date": "2026-11-09",
+   "time": "08:14",
+   "ts": "2026-11-09T08:14:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: W Azji na giełdach odbicie po najmocniejszej wyprzedaży od ponad 18 miesięcy",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/dzien-na-rynkach-w-azji-na-gieldach-odbicie-po-najmocniejszej-wyprzedazy-od"
+  },
   {
    "id": "bossa-pap-439895",
    "date": "2026-11-09",
