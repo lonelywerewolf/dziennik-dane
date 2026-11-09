@@ -4,7 +4,7 @@
   "podsumowania": 12,
   "wyniki": 3,
   "rekomendacje": 1,
-  "korporacyjne": 18,
+  "korporacyjne": 20,
   "makro_pl": 12,
   "swiat_rynki": 6,
   "energetyka_surowce": 6,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 25
  },
- "duplicatesRemoved": 37,
- "total": 124,
+ "duplicatesRemoved": 40,
+ "total": 129,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -173,6 +173,26 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "12:35",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SPYROSOFT S.A.: Treść uchwał podjętych przez Nadzwyczajne Walne Zgromadzenie Spyrosoft S.A. w dniu 9 listopada 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23667",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:29",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SPYROSOFT S.A.: Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu Spyrosoft S.A. w dniu 9 listopada 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23664",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "12:08",
     "kind": "espi",

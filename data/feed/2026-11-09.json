@@ -1,7 +1,67 @@
 {
  "date": "2026-11-09",
- "count": 124,
+ "count": 129,
  "items": [
+  {
+   "id": "bossa-espi-23668",
+   "date": "2026-11-09",
+   "time": "12:37",
+   "ts": "2026-11-09T12:37:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 3 x LEVERAGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 226 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23668"
+  },
+  {
+   "id": "bossa-espi-23667",
+   "date": "2026-11-09",
+   "time": "12:35",
+   "ts": "2026-11-09T12:35:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "SPYROSOFT S.A.",
+   "title": "Treść uchwał podjętych przez Nadzwyczajne Walne Zgromadzenie Spyrosoft S.A. w dniu 9 listopada 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23667"
+  },
+  {
+   "id": "bossa-espi-23666",
+   "date": "2026-11-09",
+   "time": "12:34",
+   "ts": "2026-11-09T12:34:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 2 x SHORT PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 225 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23666"
+  },
+  {
+   "id": "bossa-espi-23665",
+   "date": "2026-11-09",
+   "time": "12:31",
+   "ts": "2026-11-09T12:31:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF MWIG40TRsh PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 212 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23665"
+  },
+  {
+   "id": "bossa-espi-23664",
+   "date": "2026-11-09",
+   "time": "12:29",
+   "ts": "2026-11-09T12:29:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "SPYROSOFT S.A.",
+   "title": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu Spyrosoft S.A. w dniu 9 listopada 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23664"
+  },
   {
    "id": "bossa-pap-439942",
    "date": "2026-11-09",
