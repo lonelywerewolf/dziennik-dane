@@ -1,7 +1,31 @@
 {
  "date": "2026-11-09",
- "count": 31,
+ "count": 34,
  "items": [
+  {
+   "id": "bossa-pap-439887",
+   "date": "2026-11-09",
+   "time": "07:52",
+   "ts": "2026-11-09T07:52:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Stopa bezrobocia w październiku wyniosła 5,8 proc., tyle samo co miesiąc wcześniej - MRPiPS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439887"
+  },
+  {
+   "id": "bossa-pap-439886",
+   "date": "2026-11-09",
+   "time": "07:45",
+   "ts": "2026-11-09T07:45:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Erste Group obniżył rekomendację dla Banku Handlowego do \"redukuj\"",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439886"
+  },
   {
    "id": "bossa-pap-439885",
    "date": "2026-11-09",
@@ -108,6 +132,17 @@
    "title": "Kalendarium rynku NewConnect 2026-11-09",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261109/kalendarium-rynku-newconnect-2026-11-09"
+  },
+  {
+   "id": "strefa-48cd2e20e2d0",
+   "date": "2026-11-09",
+   "time": "07:01",
+   "ts": "2026-11-09T07:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Stopa bezrobocia w październiku wyniosła 5,8 proc., tyle samo co miesiąc wcześniej - MRPiPS",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/stopa-bezrobocia-w-pazdzierniku-wyniosla-58-proc-tyle-samo-co-miesiac-wczesniej"
   },
   {
    "id": "strefa-0f57e095f822",
