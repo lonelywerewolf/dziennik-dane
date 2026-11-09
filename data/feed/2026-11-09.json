@@ -1,7 +1,78 @@
 {
  "date": "2026-11-09",
- "count": 96,
+ "count": 103,
  "items": [
+  {
+   "id": "bossa-pap-439927",
+   "date": "2026-11-09",
+   "time": "11:14",
+   "ts": "2026-11-09T11:14:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźnik nastrojów inwestorów w strefie euro w XI: +2,4 pkt. Konsensus: +2,1 pkt.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439927"
+  },
+  {
+   "id": "strefa-05876de7012e",
+   "date": "2026-11-09",
+   "time": "11:11",
+   "ts": "2026-11-09T11:11:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "mTFI chce w 2-3 lata podwoić udział w rynku; liczy na odwilż na rynku obligacji (wywiad)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/mtfi-chce-w-2-3-lata-podwoic-udzial-w-rynku-liczy-na-odwilz-na-rynku-obligacji"
+  },
+  {
+   "id": "bossa-pap-439926",
+   "date": "2026-11-09",
+   "time": "11:10",
+   "ts": "2026-11-09T11:10:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: Tydzień rozpoczął się od zwyżek; WIG20 rośnie o 0,7 proc. m. in. dzięki KGHM",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439926"
+  },
+  {
+   "id": "bossa-pap-439925",
+   "date": "2026-11-09",
+   "time": "11:06",
+   "ts": "2026-11-09T11:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne - EURIBOR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439925"
+  },
+  {
+   "id": "bossa-pap-439924",
+   "date": "2026-11-09",
+   "time": "11:05",
+   "ts": "2026-11-09T11:05:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Produkcja usług w sierpniu w Polsce wzrosła o 5,6 proc. rdr - Eurostat",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439924"
+  },
+  {
+   "id": "bossa-espi-23657",
+   "date": "2026-11-09",
+   "time": "11:05",
+   "ts": "2026-11-09T11:05:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ENERGOINSTAL S.A.",
+   "title": "Podjęcie decyzji o reorientacji profilu działalności oraz zamiar przeprowadzenia rebrandingu i zmiany firmy Emitenta",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23657"
+  },
   {
    "id": "bossa-pap-439922",
    "date": "2026-11-09",
@@ -61,6 +132,17 @@
    "title": "Otrzymanie korekty zawiadomienia o zawarciu porozumienia akcjonariuszy w trybie art. 87 ust. 1 pkt 5 i 6 w związku z art. 69 ust.1 pkt 1 Ustawy o ofercie publicznej",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23655"
+  },
+  {
+   "id": "strefa-862d5b67d5a7",
+   "date": "2026-11-09",
+   "time": "10:05",
+   "ts": "2026-11-09T10:05:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: Tydzień rozpoczął się od zwyżek; WIG20 rośnie o 0,7 proc. m. in. dzięki KGHM",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/dzien-na-gpw-tydzien-rozpoczal-sie-od-zwyzek-wig20-rosnie-o-07-proc-m-dzieki"
   },
   {
    "id": "bossa-pap-439917",

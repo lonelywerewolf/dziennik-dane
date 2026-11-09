@@ -1,24 +1,33 @@
 {
  "date": "2026-11-09",
  "counts": {
-  "podsumowania": 11,
+  "podsumowania": 12,
   "wyniki": 3,
   "rekomendacje": 1,
   "korporacyjne": 13,
-  "makro_pl": 6,
+  "makro_pl": 7,
   "swiat_rynki": 6,
-  "energetyka_surowce": 5,
+  "energetyka_surowce": 6,
   "nieruchomosci": 2,
   "fundusze_drobne": 1,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 21
+  "pozostale": 23
  },
- "duplicatesRemoved": 26,
- "total": 96,
+ "duplicatesRemoved": 28,
+ "total": 103,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "10:05",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: Tydzień rozpoczął się od zwyżek; WIG20 rośnie o 0,7 proc. m. in. dzięki KGHM",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/dzien-na-gpw-tydzien-rozpoczal-sie-od-zwyzek-wig20-rosnie-o-07-proc-m-dzieki",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:50",
     "kind": "news",
@@ -309,6 +318,24 @@
   ],
   "makro_pl": [
    {
+    "time": "11:11",
+    "kind": "news",
+    "ticker": null,
+    "title": "mTFI chce w 2-3 lata podwoić udział w rynku; liczy na odwilż na rynku obligacji (wywiad)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/mtfi-chce-w-2-3-lata-podwoic-udzial-w-rynku-liczy-na-odwilz-na-rynku-obligacji",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "11:05",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Produkcja usług w sierpniu w Polsce wzrosła o 5,6 proc. rdr - Eurostat",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439924",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "09:40",
     "kind": "pap",
     "ticker": null,
@@ -332,15 +359,6 @@
     "ticker": null,
     "title": "Złotowe depozyty międzybankowe - WIBID, WIBOR",
     "url": "https://bossa.pl/analizy/komunikaty#message-439883",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "07:10",
-    "kind": "pap",
-    "ticker": null,
-    "title": "mTFI chce w 2-3 lata podwoić udział w rynku; liczy na odwilż na rynku obligacji (wywiad)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439878",
     "src": "bossa",
     "flags": []
    },
@@ -420,6 +438,15 @@
    }
   ],
   "energetyka_surowce": [
+   {
+    "time": "11:05",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ENERGOINSTAL S.A.: Podjęcie decyzji o reorientacji profilu działalności oraz zamiar przeprowadzenia rebrandingu i zmiany firmy Emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23657",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:44",
     "kind": "news",
@@ -510,6 +537,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:14",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźnik nastrojów inwestorów w strefie euro w XI: +2,4 pkt. Konsensus: +2,1 pkt.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439927",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:06",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźniki referencyjne - EURIBOR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439925",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:48",
     "kind": "pap",
