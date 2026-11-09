@@ -1,7 +1,55 @@
 {
  "date": "2026-11-09",
- "count": 184,
+ "count": 188,
  "items": [
+  {
+   "id": "bossa-espi-23699",
+   "date": "2026-11-09",
+   "time": "14:44",
+   "ts": "2026-11-09T14:44:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BOŚ SA",
+   "title": "Pismo BFG w sprawie minimalnego wymogu dotyczącego funduszy własnych i zobowiązań kwalifikowanych - MREL",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23699"
+  },
+  {
+   "id": "bossa-espi-23698",
+   "date": "2026-11-09",
+   "time": "14:44",
+   "ts": "2026-11-09T14:44:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU SA",
+   "title": "Drugie zawiadomienie akcjonariuszy o zamiarze połączenia PZU SA z LINK4",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23698"
+  },
+  {
+   "id": "bossa-espi-23697",
+   "date": "2026-11-09",
+   "time": "14:43",
+   "ts": "2026-11-09T14:43:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "JSW S.A.",
+   "title": "Zawarcie przez Spółkę Umowy Pożyczki z Agencją Rozwoju Przemysłu S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23697"
+  },
+  {
+   "id": "bossa-pap-439993",
+   "date": "2026-11-09",
+   "time": "14:42",
+   "ts": "2026-11-09T14:42:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "HORTICO SA (14/2026) Informacje o walnym zgromadzeniu - zwołanie WZ z projektami uchwał, zmiany w porządku obrad WZ",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439993"
+  },
   {
    "id": "bossa-pap-439992",
    "date": "2026-11-09",

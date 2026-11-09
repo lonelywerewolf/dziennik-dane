@@ -4,9 +4,9 @@
   "podsumowania": 12,
   "wyniki": 9,
   "rekomendacje": 1,
-  "korporacyjne": 27,
-  "makro_pl": 14,
-  "swiat_rynki": 9,
+  "korporacyjne": 29,
+  "makro_pl": 15,
+  "swiat_rynki": 10,
   "energetyka_surowce": 6,
   "nieruchomosci": 3,
   "fundusze_drobne": 5,
@@ -15,7 +15,7 @@
   "pozostale": 33
  },
  "duplicatesRemoved": 63,
- "total": 184,
+ "total": 188,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -231,6 +231,28 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "14:44",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PZU SA: Drugie zawiadomienie akcjonariuszy o zamiarze połączenia PZU SA z LINK4",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23698",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
+   {
+    "time": "14:43",
+    "kind": "espi",
+    "ticker": null,
+    "title": "JSW S.A.: Zawarcie przez Spółkę Umowy Pożyczki z Agencją Rozwoju Przemysłu S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23697",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "14:17",
     "kind": "espi",
@@ -523,6 +545,15 @@
   ],
   "makro_pl": [
    {
+    "time": "14:42",
+    "kind": "pap",
+    "ticker": null,
+    "title": "HORTICO SA (14/2026) Informacje o walnym zgromadzeniu - zwołanie WZ z projektami uchwał, zmiany w porządku obrad WZ",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439993",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "14:35",
     "kind": "news",
     "ticker": null,
@@ -650,6 +681,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "14:44",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BOŚ SA: Pismo BFG w sprawie minimalnego wymogu dotyczącego funduszy własnych i zobowiązań kwalifikowanych - MREL",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23699",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:57",
     "kind": "espi",
