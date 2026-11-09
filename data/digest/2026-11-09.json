@@ -4,7 +4,7 @@
   "podsumowania": 12,
   "wyniki": 10,
   "rekomendacje": 1,
-  "korporacyjne": 31,
+  "korporacyjne": 32,
   "makro_pl": 16,
   "swiat_rynki": 10,
   "energetyka_surowce": 7,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 7,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 35
+  "pozostale": 36
  },
- "duplicatesRemoved": 67,
- "total": 201,
+ "duplicatesRemoved": 68,
+ "total": 204,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -240,6 +240,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "15:39",
+    "kind": "pap",
+    "ticker": null,
+    "title": "SOLAR INNOVATION SA (10/2026) Podpisanie przez emitenta z firmą audytorską umowy o badanie sprawozdań finansowych lub skonsolidowanych sprawozdań finansowych emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440008",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "14:54",
     "kind": "espi",
@@ -998,6 +1009,15 @@
     "title": "GRUPA PRACUJ S.A.: Zmiana terminu publikacji raportu okresowego za III kwartał 2026 r.",
     "url": "https://bossa.pl/analizy/komunikaty#message-23701",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:10",
+    "kind": "news",
+    "ticker": null,
+    "title": "Dochody Polski z ETS wyniosły w 2025 r. ok. 3,8 mld euro - KE",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/dochody-polski-z-ets-wyniosly-w-2025-r-ok-38-mld-euro-ke",
+    "src": "strefainwestorow",
     "flags": []
    },
    {

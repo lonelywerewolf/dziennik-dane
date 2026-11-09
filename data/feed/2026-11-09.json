@@ -1,7 +1,31 @@
 {
  "date": "2026-11-09",
- "count": 201,
+ "count": 204,
  "items": [
+  {
+   "id": "bossa-pap-440008",
+   "date": "2026-11-09",
+   "time": "15:39",
+   "ts": "2026-11-09T15:39:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "SOLAR INNOVATION SA (10/2026) Podpisanie przez emitenta z firmą audytorską umowy o badanie sprawozdań finansowych lub skonsolidowanych sprawozdań finansowych emitenta",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440008"
+  },
+  {
+   "id": "bossa-pap-440007",
+   "date": "2026-11-09",
+   "time": "15:36",
+   "ts": "2026-11-09T15:36:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Dochody Polski z ETS wyniosły w 2025 r. ok. 3,8 mld euro - KE",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440007"
+  },
   {
    "id": "bossa-pap-440006",
    "date": "2026-11-09",
@@ -25,6 +49,17 @@
    "title": "Zmiana terminu publikacji raportu okresowego za III kwartał 2026 r.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23701"
+  },
+  {
+   "id": "strefa-01d70bb8ef09",
+   "date": "2026-11-09",
+   "time": "15:10",
+   "ts": "2026-11-09T15:10:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Dochody Polski z ETS wyniosły w 2025 r. ok. 3,8 mld euro - KE",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/dochody-polski-z-ets-wyniosly-w-2025-r-ok-38-mld-euro-ke"
   },
   {
    "id": "bossa-pap-440004",

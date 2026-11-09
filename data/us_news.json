@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "d4b0d5fb8596",
+   "ticker": "AVGO",
+   "time": "2026-11-09T15:03+01:00",
+   "title": "Nasdaq Stock Market Correction: 3 AI Stocks You Can Buy Right Now and Hold Forever",
+   "url": "https://www.nasdaq.com/articles/nasdaq-stock-market-correction-3-ai-stocks-you-can-buy-right-now-and-hold-forever",
+   "src": "nasdaq",
+   "summary": "Key PointsThe Nasdaq Composite closed in correction territory on Nov. 5, and chip stocks fell more than 12% in a single day."
+  },
+  {
    "id": "2575a1ded80c",
    "ticker": "NVDA",
    "time": "2026-11-09T14:50+01:00",
@@ -35,6 +44,15 @@
    "url": "https://www.nasdaq.com/articles/not-amd-not-intel-artificial-intelligence-ai-chip-stock-nvidia-should-fear-most",
    "src": "nasdaq",
    "summary": "Key PointsNvidia dominates the artificial intelligence (AI) data center industry thanks to its roster of GPUs."
+  },
+  {
+   "id": "ee2b754b9526",
+   "ticker": "ASML",
+   "time": "2026-11-09T13:06+01:00",
+   "title": "LRCX Gains 8% on a $25B Buyback Plan: Is the Stock Worth Holding Now?",
+   "url": "https://www.nasdaq.com/articles/lrcx-gains-8-25b-buyback-plan-stock-worth-holding-now",
+   "src": "nasdaq",
+   "summary": "Lam Research shares jump 8.2% on a $25B buyback plan. Strong AI demand, record earnings and a lower valuation support holding the stock."
   },
   {
    "id": "4579d4309c62",
@@ -2413,5 +2431,5 @@
    "summary": "Key PointsASML is one of the most important companies in the global semiconductor ecosystem, but its stock price performance has left a lot to be desired over the past three years."
   }
  ],
- "updatedAt": "2026-11-09T15:29:10+01:00"
+ "updatedAt": "2026-11-09T15:44:01+01:00"
 }
