@@ -1,7 +1,54 @@
 {
  "date": "2026-11-09",
- "count": 75,
+ "count": 80,
  "items": [
+  {
+   "id": "bossa-pap-439911",
+   "date": "2026-11-09",
+   "time": "09:40",
+   "ts": "2026-11-09T09:40:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Presja na rating skłoni w końcu rząd do konsolidacji fiskalnej mimo kosztów politycznych - CA (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439911"
+  },
+  {
+   "id": "bossa-pap-439910",
+   "date": "2026-11-09",
+   "time": "09:33",
+   "ts": "2026-11-09T09:33:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Przeciętne wynagrodzenie w III kw. 2026 r. wzrosło o 6,2 proc. rdr i wyniosło 9.317,01 zł - GUS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439910"
+  },
+  {
+   "id": "strefa-d202a22e95c5",
+   "date": "2026-11-09",
+   "time": "09:31",
+   "ts": "2026-11-09T09:31:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Przeciętne wynagrodzenie w III kw. 2026 r. wzrosło o 6,2 proc. rdr i wyniosło 9.317,01 zł - GUS",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/przecietne-wynagrodzenie-w-iii-kw-2026-r-wzroslo-o-62-proc-rdr-i-wynioslo"
+  },
+  {
+   "id": "bossa-pap-439909",
+   "date": "2026-11-09",
+   "time": "09:30",
+   "ts": "2026-11-09T09:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: W Europie na giełdach małe zmiany indeksów",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439909"
+  },
   {
    "id": "bossa-pap-439908",
    "date": "2026-11-09",
@@ -13,6 +60,17 @@
    "title": "WIG20 na otwarciu wyniósł 4140,17 pkt (0,21%)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439908"
+  },
+  {
+   "id": "strefa-e42f02b37807",
+   "date": "2026-11-09",
+   "time": "09:09",
+   "ts": "2026-11-09T09:09:40+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: W Europie na giełdach małe zmiany indeksów",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/dzien-na-rynkach-w-europie-na-gieldach-male-zmiany-indeksow"
   },
   {
    "id": "strefa-ec21b42d145e",
