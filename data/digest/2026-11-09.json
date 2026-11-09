@@ -14,11 +14,29 @@
   "obserwowane": 0,
   "pozostale": 6
  },
- "duplicatesRemoved": 4,
- "total": 20,
+ "duplicatesRemoved": 7,
+ "total": 23,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kalendarium rynku NewConnect 2026-11-09",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/kalendarium-rynku-newconnect-2026-11-09",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kalendarium rynku kapitałowego GPW 2026-11-09",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/kalendarium-rynku-kapitalowego-gpw-2026-11-09",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "06:31",
     "kind": "news",
@@ -45,24 +63,6 @@
     "ticker": null,
     "title": "Przegląd prasy gospodarczej w poniedziałek, 9 listopada",
     "url": "https://bossa.pl/analizy/komunikaty#message-439867",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "06:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Kalendarium rynku kapitałowego GPW 2026-11-09",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439865",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "06:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Kalendarium rynku NewConnect 2026-11-09",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439864",
     "src": "bossa",
     "flags": []
    },
@@ -128,6 +128,15 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "06:39",
+    "kind": "news",
+    "ticker": null,
+    "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-09",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-09",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "06:35",
     "kind": "pap",
     "ticker": null,
@@ -169,15 +178,6 @@
     "ticker": null,
     "title": "Trigon DM bardziej pozytywnie nastawiony do akcji, typuje 15 spółek na listopad (opinia)",
     "url": "https://bossa.pl/analizy/komunikaty#message-439866",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "06:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-09",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439862",
     "src": "bossa",
     "flags": []
    }
