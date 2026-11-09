@@ -1,7 +1,7 @@
 {
  "date": "2026-11-09",
  "counts": {
-  "podsumowania": 8,
+  "podsumowania": 9,
   "wyniki": 2,
   "rekomendacje": 1,
   "korporacyjne": 9,
@@ -12,13 +12,22 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 15
+  "pozostale": 16
  },
  "duplicatesRemoved": 21,
- "total": 73,
+ "total": 75,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "09:16",
+    "kind": "pap",
+    "ticker": null,
+    "title": "WIG20 na otwarciu wyniósł 4140,17 pkt (0,21%)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439908",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:25",
     "kind": "news",
@@ -392,6 +401,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "50 mln EUR na biotech. Bitspiration VC rusza z nowym funduszem inwestycyjnym",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/50-mln-eur-na-biotech-bitspiration-vc-rusza-z-nowym-funduszem-inwestycyjnym",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:53",
     "kind": "pap",
