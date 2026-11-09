@@ -5,17 +5,17 @@
   "wyniki": 9,
   "rekomendacje": 1,
   "korporacyjne": 27,
-  "makro_pl": 13,
+  "makro_pl": 14,
   "swiat_rynki": 9,
   "energetyka_surowce": 6,
   "nieruchomosci": 3,
-  "fundusze_drobne": 4,
-  "twoje_spolki": 1,
+  "fundusze_drobne": 5,
+  "twoje_spolki": 2,
   "obserwowane": 0,
   "pozostale": 33
  },
- "duplicatesRemoved": 60,
- "total": 178,
+ "duplicatesRemoved": 63,
+ "total": 184,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -523,6 +523,15 @@
   ],
   "makro_pl": [
    {
+    "time": "14:35",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPM Vindexus wyemituje do 500 tys. obligacji serii A3 za maks. 50 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/gpm-vindexus-wyemituje-do-500-tys-obligacji-serii-a3-za-maks-50-mln-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "13:35",
     "kind": "espi",
     "ticker": null,
@@ -810,6 +819,15 @@
   ],
   "fundusze_drobne": [
    {
+    "time": "14:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OFE PZU wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439990",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "14:06",
     "kind": "pap",
     "ticker": null,
@@ -848,6 +866,17 @@
   ],
   "twoje_spolki": [
    {
+    "time": "14:31",
+    "kind": "news",
+    "ticker": "NVDA",
+    "title": "DZIEŃ NA RYNKACH: Kontrakty w USA rosną; na rynku niepokój o Nvidię",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/dzien-na-rynkach-kontrakty-w-usa-rosna-na-rynku-niepokoj-o-nvidie",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
     "time": "06:22",
     "kind": "pap",
     "ticker": "NVDA",
@@ -878,6 +907,15 @@
     "flags": []
    },
    {
+    "time": "13:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "Cena maksymalna dla benzyny Pb95 wyniesie we wtorek 6,04 zł/l, a dla ON 7,74 zł/l",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/cena-maksymalna-dla-benzyny-pb95-wyniesie-we-wtorek-604-zll-dla-774-zll",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "13:47",
     "kind": "news",
     "ticker": null,
@@ -892,15 +930,6 @@
     "ticker": null,
     "title": "MF: Nowa forma płatności w eUrzędzie Skarbowym (komunikat)",
     "url": "https://bossa.pl/analizy/komunikaty#message-439973",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "13:24",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Cena maksymalna dla benzyny Pb95 wyniesie we wtorek 6,04 zł/l, a dla ON 7,74 zł/l",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439962",
     "src": "bossa",
     "flags": []
    },

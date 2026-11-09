@@ -1,7 +1,65 @@
 {
  "date": "2026-11-09",
- "count": 178,
+ "count": 184,
  "items": [
+  {
+   "id": "bossa-pap-439992",
+   "date": "2026-11-09",
+   "time": "14:38",
+   "ts": "2026-11-09T14:38:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPM Vindexus wyemituje do 500 tys. obligacji serii A3 za maks. 50 mln zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439992"
+  },
+  {
+   "id": "strefa-ed927d63816a",
+   "date": "2026-11-09",
+   "time": "14:35",
+   "ts": "2026-11-09T14:35:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPM Vindexus wyemituje do 500 tys. obligacji serii A3 za maks. 50 mln zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/gpm-vindexus-wyemituje-do-500-tys-obligacji-serii-a3-za-maks-50-mln-zl"
+  },
+  {
+   "id": "bossa-pap-439991",
+   "date": "2026-11-09",
+   "time": "14:34",
+   "ts": "2026-11-09T14:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Kontrakty w USA rosną; na rynku niepokój o Nvidię",
+   "ticker": "NVDA",
+   "url": "https://bossa.pl/analizy/komunikaty#message-439991"
+  },
+  {
+   "id": "bossa-pap-439990",
+   "date": "2026-11-09",
+   "time": "14:34",
+   "ts": "2026-11-09T14:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "OFE PZU wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439990"
+  },
+  {
+   "id": "strefa-c14f9f1dbd07",
+   "date": "2026-11-09",
+   "time": "14:31",
+   "ts": "2026-11-09T14:31:40+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Kontrakty w USA rosną; na rynku niepokój o Nvidię",
+   "ticker": "NVDA",
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/dzien-na-rynkach-kontrakty-w-usa-rosna-na-rynku-niepokoj-o-nvidie"
+  },
   {
    "id": "bossa-espi-23695",
    "date": "2026-11-09",
@@ -109,6 +167,17 @@
    "title": "Zakończenie etapu oceny środowiskowej dla planowanej inwestycji laboratoryjno-produkcyjnej spółki zależnej Sanford Biotech",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23691"
+  },
+  {
+   "id": "strefa-25a49810a51d",
+   "date": "2026-11-09",
+   "time": "13:55",
+   "ts": "2026-11-09T13:55:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Cena maksymalna dla benzyny Pb95 wyniesie we wtorek 6,04 zł/l, a dla ON 7,74 zł/l",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/cena-maksymalna-dla-benzyny-pb95-wyniesie-we-wtorek-604-zll-dla-774-zll"
   },
   {
    "id": "bossa-pap-439980",
