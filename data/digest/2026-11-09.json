@@ -2,20 +2,20 @@
  "date": "2026-11-09",
  "counts": {
   "podsumowania": 17,
-  "wyniki": 17,
+  "wyniki": 18,
   "rekomendacje": 1,
-  "korporacyjne": 46,
-  "makro_pl": 17,
+  "korporacyjne": 48,
+  "makro_pl": 18,
   "swiat_rynki": 14,
   "energetyka_surowce": 7,
   "nieruchomosci": 3,
   "fundusze_drobne": 11,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 46
+  "pozostale": 48
  },
- "duplicatesRemoved": 86,
- "total": 267,
+ "duplicatesRemoved": 87,
+ "total": 274,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -178,6 +178,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "18:02",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Zakład przetwarzania soi Astarty został uszkodzony w wyniku ataku lotniczego z 8 XI",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440059",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "17:34",
     "kind": "news",
@@ -352,6 +363,26 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "18:07",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Transakcje pakietowe",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440061",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:59",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Longterm Games S.A.: Otrzymanie zawiadomienia na podstawie art. 69 ustawy o ofercie publicznej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-9037",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "17:15",
     "kind": "espi",
@@ -838,6 +869,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "18:11",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GPW: w sprawie wprowadzenia do obrotu giełdowego na Catalyst obligacji na okaziciela serii AF4 spółki BEST",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440063",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:55",
     "kind": "pap",
@@ -1339,6 +1379,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "18:09",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Stawka Polonia spadła w poniedziałek do 3,67 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440062",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "18:05",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MBWS: MONTHLY DECLARATION OF THE TOTAL NUMBER OF VOTING RIGHTS AND SHARES",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23730",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:42",
     "kind": "espi",
