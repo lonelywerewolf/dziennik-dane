@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "9d23c29e1a44",
+   "ticker": "NVDA",
+   "time": "2026-11-09T15:37+01:00",
+   "title": "Cathie Wood Goes Bargain Hunting: 3 Stocks She Bought Last Week",
+   "url": "https://www.nasdaq.com/articles/cathie-wood-goes-bargain-hunting-3-stocks-she-bought-last-week",
+   "src": "nasdaq",
+   "summary": "Key PointsCathie Wood added to her positions in Nvidia, MercadoLibre, and AMD during last Thursday's sell-off."
+  },
+  {
    "id": "d4b0d5fb8596",
    "ticker": "AVGO",
    "time": "2026-11-09T15:03+01:00",
@@ -26,6 +35,15 @@
    "url": "https://www.nasdaq.com/articles/prediction-nvidia-stock-going-soar-after-nov-17-0",
    "src": "nasdaq",
    "summary": "Key PointsInvestors dumped semiconductor stocks after last week's midterm Congressional elections, because new data center projects will now face more scrutiny."
+  },
+  {
+   "id": "73bb94990ce8",
+   "ticker": "NVDA",
+   "time": "2026-11-09T13:36+01:00",
+   "title": "Nebius Stock Ahead of Q3 Earnings: Should You Buy, Hold or Sell?",
+   "url": "https://www.nasdaq.com/articles/nebius-stock-ahead-q3-earnings-should-you-buy-hold-or-sell",
+   "src": "nasdaq",
+   "summary": "NBIS heads into Q3 earnings with strong AI cloud demand, expanding capacity and favorable GPU pricing, but heavy investments pose profitability challenges."
   },
   {
    "id": "27473ae87426",
@@ -2440,5 +2458,5 @@
    "summary": "Key PointsASML is one of the most important companies in the global semiconductor ecosystem, but its stock price performance has left a lot to be desired over the past three years."
   }
  ],
- "updatedAt": "2026-11-09T15:56:54+01:00"
+ "updatedAt": "2026-11-09T16:08:56+01:00"
 }

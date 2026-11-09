@@ -1,7 +1,79 @@
 {
  "date": "2026-11-09",
- "count": 208,
+ "count": 215,
  "items": [
+  {
+   "id": "bossa-espi-23708",
+   "date": "2026-11-09",
+   "time": "16:06",
+   "ts": "2026-11-09T16:06:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PKO BANK HIPOTECZNY S.A.",
+   "title": "Zgoda Komisji Nadzoru Finansowego na powołanie Pani Katarzyny Kurkowskiej-Szczechowicz na Prezesa Zarządu PKO Banku Hipotecznego S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23708"
+  },
+  {
+   "id": "bossa-pap-440016",
+   "date": "2026-11-09",
+   "time": "16:04",
+   "ts": "2026-11-09T16:04:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zapasy hurtowników w USA w IX: +0,7 proc. mdm. Konsensus: +0,6 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440016"
+  },
+  {
+   "id": "bossa-pap-440015",
+   "date": "2026-11-09",
+   "time": "16:03",
+   "ts": "2026-11-09T16:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "FORBUILD SA (14/2026) Zmiana harmonogramu publikacji raportów okresowych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440015"
+  },
+  {
+   "id": "bossa-espi-23706",
+   "date": "2026-11-09",
+   "time": "16:01",
+   "ts": "2026-11-09T16:01:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BANK POCZTOWY S.A.",
+   "title": "Zgoda Komisji Nadzoru Finansowego na powołanie Pana Jędrzeja Marciniaka na stanowisko Prezesa Zarządu Banku Pocztowego S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23706"
+  },
+  {
+   "id": "bossa-pap-440013",
+   "date": "2026-11-09",
+   "time": "16:00",
+   "ts": "2026-11-09T16:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MEN: Szkoła do hymnu 2026. Jutro wspólnie zaśpiewamy Mazurka Dąbrowskiego (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440013"
+  },
+  {
+   "id": "bossa-pap-440012",
+   "date": "2026-11-09",
+   "time": "15:56",
+   "ts": "2026-11-09T15:56:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Dochody Polski z ETS wyniosły w 2025 r. ok. 3,8 mld euro - KE (aktl.)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440012"
+  },
   {
    "id": "bossa-pap-440011",
    "date": "2026-11-09",
@@ -25,6 +97,17 @@
    "title": "RB_FI_E_30.04.18",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23704"
+  },
+  {
+   "id": "strefa-cda941b5dbf7",
+   "date": "2026-11-09",
+   "time": "15:45",
+   "ts": "2026-11-09T15:45:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Dochody Polski z ETS wyniosły w 2025 r. ok. 3,8 mld euro - KE (aktl.)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/dochody-polski-z-ets-wyniosly-w-2025-r-ok-38-mld-euro-ke-aktl"
   },
   {
    "id": "bossa-pap-440009",

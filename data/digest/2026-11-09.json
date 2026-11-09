@@ -4,18 +4,18 @@
   "podsumowania": 12,
   "wyniki": 11,
   "rekomendacje": 1,
-  "korporacyjne": 33,
+  "korporacyjne": 35,
   "makro_pl": 16,
-  "swiat_rynki": 11,
+  "swiat_rynki": 12,
   "energetyka_surowce": 7,
   "nieruchomosci": 3,
   "fundusze_drobne": 7,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 36
+  "pozostale": 38
  },
- "duplicatesRemoved": 69,
- "total": 208,
+ "duplicatesRemoved": 71,
+ "total": 215,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -249,6 +249,28 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "16:06",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PKO BANK HIPOTECZNY S.A.: Zgoda Komisji Nadzoru Finansowego na powołanie Pani Katarzyny Kurkowskiej-Szczechowicz na Prezesa Zarządu PKO Banku Hipotecznego S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23708",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "16:01",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BANK POCZTOWY S.A.: Zgoda Komisji Nadzoru Finansowego na powołanie Pana Jędrzeja Marciniaka na stanowisko Prezesa Zarządu Banku Pocztowego S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23706",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "15:51",
     "kind": "espi",
@@ -747,6 +769,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "16:04",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Zapasy hurtowników w USA w IX: +0,7 proc. mdm. Konsensus: +0,6 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440016",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "15:37",
     "kind": "news",
     "ticker": null,
@@ -1029,6 +1060,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "16:03",
+    "kind": "pap",
+    "ticker": null,
+    "title": "FORBUILD SA (14/2026) Zmiana harmonogramu publikacji raportów okresowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440015",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MEN: Szkoła do hymnu 2026. Jutro wspólnie zaśpiewamy Mazurka Dąbrowskiego (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440013",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:15",
     "kind": "espi",
