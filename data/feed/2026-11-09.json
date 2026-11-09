@@ -1,7 +1,43 @@
 {
  "date": "2026-11-09",
- "count": 107,
+ "count": 110,
  "items": [
+  {
+   "id": "bossa-espi-23659",
+   "date": "2026-11-09",
+   "time": "11:55",
+   "ts": "2026-11-09T11:55:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ENERGOINSTAL S.A.",
+   "title": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia Akcjonariuszy",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23659"
+  },
+  {
+   "id": "bossa-pap-439931",
+   "date": "2026-11-09",
+   "time": "11:54",
+   "ts": "2026-11-09T11:54:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "URE czeka na kryteria pozacenowe dla przyszłorocznych aukcji dla offshore'u - prezes",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439931"
+  },
+  {
+   "id": "bossa-espi-11225",
+   "date": "2026-11-09",
+   "time": "11:54",
+   "ts": "2026-11-09T11:54:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "DITIX S.A.",
+   "title": "Skup akcji własnych. Uchwalenie przze Radę Nadzorczą Regulaminu skupu akcji własnych.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-11225"
+  },
   {
    "id": "bossa-pap-439929",
    "date": "2026-11-09",
