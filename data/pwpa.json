@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "date": "2026-11-09",
+   "ticker": "ZUE",
+   "company": "ZUE S.A.",
+   "file": "20261109_dom_maklerski_bdm_zue_pl_aw.pdf",
+   "url": "https://www.gpw.pl/pub/pwpa/20261109_dom_maklerski_bdm_zue_pl_aw.pdf",
+   "type": "analiza wyników",
+   "house": "Dom Maklerski BDM S.A."
+  },
+  {
    "date": "2026-11-06",
    "ticker": "ART",
    "company": "ARTIFEX MUNDI S.A.",
@@ -354,5 +363,5 @@
    "house": "Noble Securities S.A."
   }
  ],
- "updatedAt": "2026-11-09T16:08:56+01:00"
+ "updatedAt": "2026-11-09T16:21:15+01:00"
 }

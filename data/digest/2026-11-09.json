@@ -4,9 +4,9 @@
   "podsumowania": 12,
   "wyniki": 11,
   "rekomendacje": 1,
-  "korporacyjne": 35,
+  "korporacyjne": 38,
   "makro_pl": 16,
-  "swiat_rynki": 12,
+  "swiat_rynki": 13,
   "energetyka_surowce": 7,
   "nieruchomosci": 3,
   "fundusze_drobne": 7,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 38
  },
- "duplicatesRemoved": 71,
- "total": 215,
+ "duplicatesRemoved": 72,
+ "total": 220,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -249,6 +249,39 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "16:17",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ONDE S.A.: Zawarcie przez spółkę zależną OLMEX S.A. umowy o wartości 23,6 mln zł netto z PSE S.A. oraz informacja o łącznej wartości umów zawartych przez OLMEX S.A. z PSE S.A. w roku kalendarzowym 2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23710",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "16:16",
+    "kind": "espi",
+    "ticker": null,
+    "title": "URTESTE S.A.: Podsumowanie subskrypcji akcji serii I",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23709",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "16:08",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KNF wyraziła zgodę na powołanie Jędrzeja Marciniaka na prezesa Banku Pocztowego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440018",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "16:06",
     "kind": "espi",
@@ -775,6 +808,15 @@
     "title": "Zapasy hurtowników w USA w IX: +0,7 proc. mdm. Konsensus: +0,6 proc.",
     "url": "https://bossa.pl/analizy/komunikaty#message-440016",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:57",
+    "kind": "news",
+    "ticker": null,
+    "title": "Euro w EBC: 1,1193 USD i 176,79 JPY",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/euro-w-ebc-11193-usd-i-17679-jpy",
+    "src": "strefainwestorow",
     "flags": []
    },
    {

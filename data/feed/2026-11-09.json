@@ -1,7 +1,55 @@
 {
  "date": "2026-11-09",
- "count": 215,
+ "count": 220,
  "items": [
+  {
+   "id": "bossa-espi-23710",
+   "date": "2026-11-09",
+   "time": "16:17",
+   "ts": "2026-11-09T16:17:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ONDE S.A.",
+   "title": "Zawarcie przez spółkę zależną OLMEX S.A. umowy o wartości 23,6 mln zł netto z PSE S.A. oraz informacja o łącznej wartości umów zawartych przez OLMEX S.A. z PSE S.A. w roku kalendarzowym 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23710"
+  },
+  {
+   "id": "bossa-espi-23709",
+   "date": "2026-11-09",
+   "time": "16:16",
+   "ts": "2026-11-09T16:16:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "URTESTE S.A.",
+   "title": "Podsumowanie subskrypcji akcji serii I",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23709"
+  },
+  {
+   "id": "bossa-pap-440019",
+   "date": "2026-11-09",
+   "time": "16:12",
+   "ts": "2026-11-09T16:12:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Euro w EBC: 1,1193 USD i 176,79 JPY",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440019"
+  },
+  {
+   "id": "bossa-pap-440018",
+   "date": "2026-11-09",
+   "time": "16:08",
+   "ts": "2026-11-09T16:08:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KNF wyraziła zgodę na powołanie Jędrzeja Marciniaka na prezesa Banku Pocztowego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440018"
+  },
   {
    "id": "bossa-espi-23708",
    "date": "2026-11-09",
@@ -61,6 +109,17 @@
    "title": "MEN: Szkoła do hymnu 2026. Jutro wspólnie zaśpiewamy Mazurka Dąbrowskiego (komunikat)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440013"
+  },
+  {
+   "id": "strefa-6777f3eff4e5",
+   "date": "2026-11-09",
+   "time": "15:57",
+   "ts": "2026-11-09T15:57:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Euro w EBC: 1,1193 USD i 176,79 JPY",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/euro-w-ebc-11193-usd-i-17679-jpy"
   },
   {
    "id": "bossa-pap-440012",
