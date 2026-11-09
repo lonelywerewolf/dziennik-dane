@@ -4,7 +4,7 @@
   "podsumowania": 11,
   "wyniki": 3,
   "rekomendacje": 1,
-  "korporacyjne": 10,
+  "korporacyjne": 11,
   "makro_pl": 6,
   "swiat_rynki": 6,
   "energetyka_surowce": 5,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 1,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 16
+  "pozostale": 17
  },
- "duplicatesRemoved": 25,
- "total": 87,
+ "duplicatesRemoved": 26,
+ "total": 90,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -164,6 +164,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "09:51",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kontrakty i umowy spółek - przegląd tygodniowy",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/kontrakty-i-umowy-spolek-przeglad-tygodniowy",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "09:35",
     "kind": "news",
@@ -476,6 +487,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:55",
+    "kind": "pap",
+    "ticker": null,
+    "title": "WIERZYCIEL SA (10/2026) Zmiana harmonogramu publikacji raportów okresowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439916",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:01",
     "kind": "news",
