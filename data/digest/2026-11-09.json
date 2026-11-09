@@ -2,20 +2,20 @@
  "date": "2026-11-09",
  "counts": {
   "podsumowania": 8,
-  "wyniki": 1,
+  "wyniki": 2,
   "rekomendacje": 1,
-  "korporacyjne": 8,
+  "korporacyjne": 9,
   "makro_pl": 4,
-  "swiat_rynki": 5,
+  "swiat_rynki": 6,
   "energetyka_surowce": 4,
   "nieruchomosci": 2,
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 14
+  "pozostale": 15
  },
  "duplicatesRemoved": 21,
- "total": 69,
+ "total": 73,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -96,6 +96,15 @@
   ],
   "wyniki": [
    {
+    "time": "08:54",
+    "kind": "pap",
+    "ticker": null,
+    "title": "TELESTRADA SA (46/2026) Skonsolidowany raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439907",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "08:50",
     "kind": "pap",
     "ticker": null,
@@ -117,6 +126,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "08:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa Green Lanes podpisała przedwstępną umowę handlową z Paged Meble",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/grupa-green-lanes-podpisala-przedwstepna-umowe-handlowa-z-paged-meble",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "08:45",
     "kind": "news",
@@ -246,6 +266,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "08:53",
+    "kind": "news",
+    "ticker": null,
+    "title": "ME planuje zagwarantowanie w '27 maksymalnej ceny gazu m.in. dla gospodarstw domowych",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/me-planuje-zagwarantowanie-w-27-maksymalnej-ceny-gazu-min-dla-gospodarstw",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "08:47",
     "kind": "news",
     "ticker": null,
@@ -363,6 +392,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "08:53",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Bitspiration VC rusza z funduszem biotechnologicznym o docelowej wielkości 50 mln euro",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439906",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:51",
     "kind": "news",
