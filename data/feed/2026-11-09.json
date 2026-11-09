@@ -1,7 +1,54 @@
 {
  "date": "2026-11-09",
- "count": 41,
+ "count": 47,
  "items": [
+  {
+   "id": "bossa-pap-439895",
+   "date": "2026-11-09",
+   "time": "08:13",
+   "ts": "2026-11-09T08:13:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "UniCredit wypłaci zaliczkę na poczet dywidendy w wysokości ok. 3 euro na akcję",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439895"
+  },
+  {
+   "id": "strefa-7de8352ba164",
+   "date": "2026-11-09",
+   "time": "08:11",
+   "ts": "2026-11-09T08:11:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "UniCredit wypłaci zaliczkę na poczet dywidendy w wysokości ok. 3 euro na akcję",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/unicredit-wyplaci-zaliczke-na-poczet-dywidendy-w-wysokosci-ok-3-euro-na-akcje"
+  },
+  {
+   "id": "bossa-pap-439894",
+   "date": "2026-11-09",
+   "time": "08:10",
+   "ts": "2026-11-09T08:10:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ceny miedzi w Londynie rosną z 3-miesięcznego minimum",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439894"
+  },
+  {
+   "id": "bossa-pap-439893",
+   "date": "2026-11-09",
+   "time": "08:08",
+   "ts": "2026-11-09T08:08:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Coal Energy chce skupić się na modelu „Asset-Light” oraz projektach zrównoważonej energetyki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439893"
+  },
   {
    "id": "bossa-espi-23647",
    "date": "2026-11-09",
@@ -25,6 +72,17 @@
    "title": "Eksport Niemiec w IX: +2,0 proc. mdm. Konsensus: +0,5 proc.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439891"
+  },
+  {
+   "id": "strefa-b26869b16466",
+   "date": "2026-11-09",
+   "time": "08:00",
+   "ts": "2026-11-09T08:00:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ceny miedzi w Londynie rosną z 3-miesięcznego minimum",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/ceny-miedzi-w-londynie-rosna-z-3-miesiecznego-minimum"
   },
   {
    "id": "bossa-pap-439890",
@@ -364,6 +422,17 @@
    "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261109/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela"
+  },
+  {
+   "id": "strefa-344e284f4881",
+   "date": "2026-11-09",
+   "time": "06:31",
+   "ts": "2026-11-09T06:31:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "TYDZIEŃ W KRAJU: PKB za III kw., szczegóły CPI za X, saldo C/A za IX, wyniki Allegro i Amrest",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/tydzien-w-kraju-pkb-za-iii-kw-szczegoly-cpi-za-x-saldo-ca-za-ix-wyniki-allegro"
   },
   {
    "id": "strefa-1fca247a8f7e",

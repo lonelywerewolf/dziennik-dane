@@ -4,18 +4,18 @@
   "podsumowania": 6,
   "wyniki": 0,
   "rekomendacje": 1,
-  "korporacyjne": 3,
+  "korporacyjne": 4,
   "makro_pl": 4,
   "swiat_rynki": 2,
-  "energetyka_surowce": 2,
+  "energetyka_surowce": 3,
   "nieruchomosci": 2,
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 10
+  "pozostale": 11
  },
- "duplicatesRemoved": 10,
- "total": 41,
+ "duplicatesRemoved": 13,
+ "total": 47,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -41,21 +41,21 @@
     "time": "06:31",
     "kind": "news",
     "ticker": null,
+    "title": "TYDZIEŃ W KRAJU: PKB za III kw., szczegóły CPI za X, saldo C/A za IX, wyniki Allegro i Amrest",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/tydzien-w-kraju-pkb-za-iii-kw-szczegoly-cpi-za-x-saldo-ca-za-ix-wyniki-allegro",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "06:31",
+    "kind": "news",
+    "ticker": null,
     "title": "TYDZIEŃ NA RYNKACH: Odczyty inflacji za X i PKB za III kw., bankierzy z Fed, stop proc. w Rumunii",
     "url": "https://strefainwestorow.pl/wiadomosci/20261109/tydzien-na-rynkach-odczyty-inflacji-za-x-i-pkb-za-iii-kw-bankierzy-z-fed-stop",
     "src": "strefainwestorow",
     "flags": []
-   },
-   {
-    "time": "06:30",
-    "kind": "pap",
-    "ticker": null,
-    "title": "TYDZIEŃ W KRAJU: PKB za III kw., szczegóły CPI za X, saldo C/A za IX, wyniki Allegro i Amrest",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439870",
-    "src": "bossa",
-    "flags": [
-     "wyniki"
-    ]
    },
    {
     "time": "06:13",
@@ -89,6 +89,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "08:11",
+    "kind": "news",
+    "ticker": null,
+    "title": "UniCredit wypłaci zaliczkę na poczet dywidendy w wysokości ok. 3 euro na akcję",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/unicredit-wyplaci-zaliczke-na-poczet-dywidendy-w-wysokosci-ok-3-euro-na-akcje",
+    "src": "strefainwestorow",
+    "flags": [
+     "dywidenda"
+    ]
+   },
    {
     "time": "07:35",
     "kind": "espi",
@@ -183,6 +194,15 @@
   ],
   "energetyka_surowce": [
    {
+    "time": "08:08",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Coal Energy chce skupić się na modelu „Asset-Light” oraz projektach zrównoważonej energetyki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439893",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "07:25",
     "kind": "espi",
     "ticker": null,
@@ -251,6 +271,15 @@
     "title": "Eksport Niemiec w IX: +2,0 proc. mdm. Konsensus: +0,5 proc.",
     "url": "https://bossa.pl/analizy/komunikaty#message-439891",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "08:00",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny miedzi w Londynie rosną z 3-miesięcznego minimum",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/ceny-miedzi-w-londynie-rosna-z-3-miesiecznego-minimum",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
