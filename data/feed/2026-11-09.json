@@ -1,7 +1,77 @@
 {
  "date": "2026-11-09",
- "count": 220,
+ "count": 227,
  "items": [
+  {
+   "id": "bossa-pap-440025",
+   "date": "2026-11-09",
+   "time": "16:32",
+   "ts": "2026-11-09T16:32:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: Na GPW uspokojenie po burzliwym tygodniu; Modivo zyskuje 7 proc., spada Orlen",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440025"
+  },
+  {
+   "id": "bossa-espi-23711",
+   "date": "2026-11-09",
+   "time": "16:31",
+   "ts": "2026-11-09T16:31:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PEPCO GROUP N.V.",
+   "title": "Share buyback programme: Acquisition of shares from 2 – 6 November 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23711"
+  },
+  {
+   "id": "strefa-7e51ef214f42",
+   "date": "2026-11-09",
+   "time": "16:30",
+   "ts": "2026-11-09T16:30:17+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: Na GPW uspokojenie po burzliwym tygodniu; Modivo zyskuje 7 proc., spada Orlen",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/dzien-na-gpw-na-gpw-uspokojenie-po-burzliwym-tygodniu-modivo-zyskuje-7-proc"
+  },
+  {
+   "id": "bossa-pap-440023",
+   "date": "2026-11-09",
+   "time": "16:30",
+   "ts": "2026-11-09T16:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MSWiA: Odprawa ze służbami po tragicznym zamachu w Krakowie (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440023"
+  },
+  {
+   "id": "strefa-1ce203154154",
+   "date": "2026-11-09",
+   "time": "16:29",
+   "ts": "2026-11-09T16:29:03+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "KNF wyraziła zgodę na powołanie Jędrzeja Marciniaka na prezesa Banku Pocztowego",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/knf-wyrazila-zgode-na-powolanie-jedrzeja-marciniaka-na-prezesa-banku-pocztowego"
+  },
+  {
+   "id": "bossa-pap-440022",
+   "date": "2026-11-09",
+   "time": "16:22",
+   "ts": "2026-11-09T16:22:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Pekabex planuje wydłużyć program wewn. transformacji w zw. z sytuacją rynkową - prezes",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440022"
+  },
   {
    "id": "bossa-espi-23710",
    "date": "2026-11-09",
@@ -25,6 +95,17 @@
    "title": "Podsumowanie subskrypcji akcji serii I",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23709"
+  },
+  {
+   "id": "strefa-2c724b3980f5",
+   "date": "2026-11-09",
+   "time": "16:13",
+   "ts": "2026-11-09T16:13:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ten Square Games rozszerza portfolio gier wędkarskich o Fishing Trip - grę dającą radość łowienia we własnym tempie",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/ten-square-games-rozszerza-portfolio-gier-wedkarskich-o-fishing-trip-gre-dajaca"
   },
   {
    "id": "bossa-pap-440019",

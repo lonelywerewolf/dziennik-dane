@@ -1,10 +1,10 @@
 {
  "date": "2026-11-09",
  "counts": {
-  "podsumowania": 12,
+  "podsumowania": 13,
   "wyniki": 11,
   "rekomendacje": 1,
-  "korporacyjne": 38,
+  "korporacyjne": 39,
   "makro_pl": 16,
   "swiat_rynki": 13,
   "energetyka_surowce": 7,
@@ -12,13 +12,22 @@
   "fundusze_drobne": 7,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 38
+  "pozostale": 41
  },
- "duplicatesRemoved": 72,
- "total": 220,
+ "duplicatesRemoved": 74,
+ "total": 227,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "16:30",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: Na GPW uspokojenie po burzliwym tygodniu; Modivo zyskuje 7 proc., spada Orlen",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/dzien-na-gpw-na-gpw-uspokojenie-po-burzliwym-tygodniu-modivo-zyskuje-7-proc",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "10:05",
     "kind": "news",
@@ -250,6 +259,28 @@
   ],
   "korporacyjne": [
    {
+    "time": "16:29",
+    "kind": "news",
+    "ticker": null,
+    "title": "KNF wyraziła zgodę na powołanie Jędrzeja Marciniaka na prezesa Banku Pocztowego",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/knf-wyrazila-zgode-na-powolanie-jedrzeja-marciniaka-na-prezesa-banku-pocztowego",
+    "src": "strefainwestorow",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "16:22",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Pekabex planuje wydłużyć program wewn. transformacji w zw. z sytuacją rynkową - prezes",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440022",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
     "time": "16:17",
     "kind": "espi",
     "ticker": null,
@@ -269,17 +300,6 @@
     "src": "bossa",
     "flags": [
      "umowa"
-    ]
-   },
-   {
-    "time": "16:08",
-    "kind": "pap",
-    "ticker": null,
-    "title": "KNF wyraziła zgodę na powołanie Jędrzeja Marciniaka na prezesa Banku Pocztowego",
-    "url": "https://bossa.pl/analizy/komunikaty#message-440018",
-    "src": "bossa",
-    "flags": [
-     "zarząd"
     ]
    },
    {
@@ -1102,6 +1122,33 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "16:31",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PEPCO GROUP N.V.: Share buyback programme: Acquisition of shares from 2 – 6 November 2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23711",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MSWiA: Odprawa ze służbami po tragicznym zamachu w Krakowie (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440023",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:13",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ten Square Games rozszerza portfolio gier wędkarskich o Fishing Trip - grę dającą radość łowienia we własnym tempie",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/ten-square-games-rozszerza-portfolio-gier-wedkarskich-o-fishing-trip-gre-dajaca",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "16:03",
     "kind": "pap",
