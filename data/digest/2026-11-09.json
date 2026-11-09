@@ -1,7 +1,7 @@
 {
  "date": "2026-11-09",
  "counts": {
-  "podsumowania": 0,
+  "podsumowania": 6,
   "wyniki": 0,
   "rekomendacje": 0,
   "korporacyjne": 0,
@@ -10,15 +10,72 @@
   "energetyka_surowce": 0,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
-  "twoje_spolki": 0,
+  "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 0
+  "pozostale": 2
  },
- "duplicatesRemoved": 0,
- "total": 0,
+ "duplicatesRemoved": 1,
+ "total": 10,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
-  "podsumowania": [],
+  "podsumowania": [
+   {
+    "time": "06:31",
+    "kind": "news",
+    "ticker": null,
+    "title": "TYDZIEŃ NA RYNKACH: Odczyty inflacji za X i PKB za III kw., bankierzy z Fed, stop proc. w Rumunii",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/tydzien-na-rynkach-odczyty-inflacji-za-x-i-pkb-za-iii-kw-bankierzy-z-fed-stop",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "06:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "TYDZIEŃ W KRAJU: PKB za III kw., szczegóły CPI za X, saldo C/A za IX, wyniki Allegro i Amrest",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439870",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "06:13",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Przegląd prasy gospodarczej w poniedziałek, 9 listopada",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439867",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "06:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Kalendarium rynku kapitałowego GPW 2026-11-09",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439865",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "06:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Kalendarium rynku NewConnect 2026-11-09",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439864",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "06:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Kalendarium spółek z WIG30 2026-11-09",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439863",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "wyniki": [],
   "rekomendacje": [],
   "korporacyjne": [],
@@ -27,8 +84,37 @@
   "energetyka_surowce": [],
   "nieruchomosci": [],
   "fundusze_drobne": [],
-  "twoje_spolki": [],
+  "twoje_spolki": [
+   {
+    "time": "06:22",
+    "kind": "pap",
+    "ticker": "NVDA",
+    "title": "Nvidia wszczyna dochodzenie w związku z romansem jej szefa z domniemaną chińską agentką",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439868",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "obserwowane": [],
-  "pozostale": []
+  "pozostale": [
+   {
+    "time": "06:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Trigon DM bardziej pozytywnie nastawiony do akcji, typuje 15 spółek na listopad (opinia)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439866",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "06:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-09",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439862",
+    "src": "bossa",
+    "flags": []
+   }
+  ]
  }
 }

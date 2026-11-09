@@ -1,5 +1,125 @@
 {
  "date": "2026-11-09",
- "count": 0,
- "items": []
+ "count": 10,
+ "items": [
+  {
+   "id": "strefa-1fca247a8f7e",
+   "date": "2026-11-09",
+   "time": "06:31",
+   "ts": "2026-11-09T06:31:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "TYDZIEŃ NA RYNKACH: Odczyty inflacji za X i PKB za III kw., bankierzy z Fed, stop proc. w Rumunii",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/tydzien-na-rynkach-odczyty-inflacji-za-x-i-pkb-za-iii-kw-bankierzy-z-fed-stop"
+  },
+  {
+   "id": "bossa-pap-439870",
+   "date": "2026-11-09",
+   "time": "06:30",
+   "ts": "2026-11-09T06:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "TYDZIEŃ W KRAJU: PKB za III kw., szczegóły CPI za X, saldo C/A za IX, wyniki Allegro i Amrest",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439870"
+  },
+  {
+   "id": "bossa-pap-439869",
+   "date": "2026-11-09",
+   "time": "06:30",
+   "ts": "2026-11-09T06:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "TYDZIEŃ NA RYNKACH: Odczyty inflacji za X i PKB za III kw., bankierzy z Fed, stop proc. w Rumunii",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439869"
+  },
+  {
+   "id": "bossa-pap-439868",
+   "date": "2026-11-09",
+   "time": "06:22",
+   "ts": "2026-11-09T06:22:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Nvidia wszczyna dochodzenie w związku z romansem jej szefa z domniemaną chińską agentką",
+   "ticker": "NVDA",
+   "url": "https://bossa.pl/analizy/komunikaty#message-439868"
+  },
+  {
+   "id": "bossa-pap-439867",
+   "date": "2026-11-09",
+   "time": "06:13",
+   "ts": "2026-11-09T06:13:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Przegląd prasy gospodarczej w poniedziałek, 9 listopada",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439867"
+  },
+  {
+   "id": "bossa-pap-439866",
+   "date": "2026-11-09",
+   "time": "06:00",
+   "ts": "2026-11-09T06:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Trigon DM bardziej pozytywnie nastawiony do akcji, typuje 15 spółek na listopad (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439866"
+  },
+  {
+   "id": "bossa-pap-439865",
+   "date": "2026-11-09",
+   "time": "06:00",
+   "ts": "2026-11-09T06:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Kalendarium rynku kapitałowego GPW 2026-11-09",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439865"
+  },
+  {
+   "id": "bossa-pap-439864",
+   "date": "2026-11-09",
+   "time": "06:00",
+   "ts": "2026-11-09T06:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Kalendarium rynku NewConnect 2026-11-09",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439864"
+  },
+  {
+   "id": "bossa-pap-439863",
+   "date": "2026-11-09",
+   "time": "06:00",
+   "ts": "2026-11-09T06:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Kalendarium spółek z WIG30 2026-11-09",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439863"
+  },
+  {
+   "id": "bossa-pap-439862",
+   "date": "2026-11-09",
+   "time": "06:00",
+   "ts": "2026-11-09T06:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-09",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439862"
+  }
+ ]
 }
