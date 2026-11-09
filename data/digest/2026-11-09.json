@@ -4,18 +4,18 @@
   "podsumowania": 13,
   "wyniki": 11,
   "rekomendacje": 1,
-  "korporacyjne": 39,
+  "korporacyjne": 41,
   "makro_pl": 16,
   "swiat_rynki": 13,
   "energetyka_surowce": 7,
   "nieruchomosci": 3,
-  "fundusze_drobne": 7,
+  "fundusze_drobne": 8,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 41
+  "pozostale": 43
  },
- "duplicatesRemoved": 74,
- "total": 227,
+ "duplicatesRemoved": 78,
+ "total": 236,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -258,6 +258,26 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "16:44",
+    "kind": "pap",
+    "ticker": null,
+    "title": "HIPOWER ENERGY SA (17/2026) Zmiana harmonogramu publikacji raportów okresowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440033",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:33",
+    "kind": "news",
+    "ticker": null,
+    "title": "Spółka zależna Onde ma Umowę z PSE za 23,6 mln zł netto",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/spolka-zalezna-onde-ma-umowe-z-pse-za-236-mln-zl-netto",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "16:29",
     "kind": "news",
@@ -1035,6 +1055,15 @@
   ],
   "fundusze_drobne": [
    {
+    "time": "16:41",
+    "kind": "espi",
+    "ticker": null,
+    "title": "EQUES AKCJI SEKTORA PRYWATNEGO FIZ: PC-E_30.04.18",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23715",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "15:04",
     "kind": "pap",
     "ticker": null,
@@ -1122,6 +1151,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "16:38",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MOVIE GAMES S.A.: Złożenie zażalenia na postanowienie Sądu",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23714",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:36",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KOOL2PLAY SA (14/2026) Informacje o walnym zgromadzeniu - treść uchwał podjętych przez WZ (w tym informacje o ogłoszeniu przerwy w obradach)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440028",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:31",
     "kind": "espi",
