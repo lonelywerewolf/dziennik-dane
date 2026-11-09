@@ -2,10 +2,10 @@
  "date": "2026-11-09",
  "counts": {
   "podsumowania": 12,
-  "wyniki": 6,
+  "wyniki": 8,
   "rekomendacje": 1,
-  "korporacyjne": 23,
-  "makro_pl": 12,
+  "korporacyjne": 24,
+  "makro_pl": 13,
   "swiat_rynki": 7,
   "energetyka_surowce": 6,
   "nieruchomosci": 3,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 29
  },
- "duplicatesRemoved": 47,
- "total": 148,
+ "duplicatesRemoved": 52,
+ "total": 157,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -132,6 +132,26 @@
   ],
   "wyniki": [
    {
+    "time": "13:36",
+    "kind": "espi",
+    "ticker": null,
+    "title": "INTERCARS: Informacja o miesięcznych przychodach ze sprzedaży Grupy Kapitałowej Inter Cars",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23684",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:34",
+    "kind": "espi",
+    "ticker": null,
+    "title": "LUBAWA: Szacunkowe skonsolidowane i jednostkowe wyniki finansowe za I-III kw. 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23681",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
     "time": "12:50",
     "kind": "pap",
     "ticker": null,
@@ -202,6 +222,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "13:38",
+    "kind": "pap",
+    "ticker": null,
+    "title": "AXIA SA (13/2026) Podpisanie przez emitenta z firmą audytorską umowy o badanie sprawozdań finansowych lub skonsolidowanych sprawozdań finansowych emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439971",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "12:57",
     "kind": "news",
@@ -453,6 +484,15 @@
   ],
   "makro_pl": [
    {
+    "time": "13:35",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PZU ETF OBLIGACJI SKARBOWYCH DŁUGOTERMINOWYCH PORTFELOWY FIZ: WANCI-E_30.04.18",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23683",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "12:28",
     "kind": "pap",
     "ticker": null,
@@ -684,12 +724,12 @@
   ],
   "nieruchomosci": [
    {
-    "time": "13:28",
-    "kind": "pap",
+    "time": "13:18",
+    "kind": "news",
     "ticker": null,
     "title": "Develia rozpoczęła przedsprzedaż 107 mieszkań w Warszawie",
-    "url": "https://bossa.pl/analizy/komunikaty#message-439964",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/develia-rozpoczela-przedsprzedaz-107-mieszkan-w-warszawie",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
