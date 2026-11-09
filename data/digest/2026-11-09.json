@@ -5,17 +5,17 @@
   "wyniki": 3,
   "rekomendacje": 1,
   "korporacyjne": 18,
-  "makro_pl": 9,
+  "makro_pl": 12,
   "swiat_rynki": 6,
   "energetyka_surowce": 6,
   "nieruchomosci": 2,
   "fundusze_drobne": 1,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 23
+  "pozostale": 25
  },
- "duplicatesRemoved": 30,
- "total": 112,
+ "duplicatesRemoved": 37,
+ "total": 124,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -371,6 +371,33 @@
   ],
   "makro_pl": [
    {
+    "time": "12:28",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Do końca listopada decyzja w sprawie ewentualnych kolejnych pożyczek z SAFE - Domański",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439942",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:22",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: w sprawie wyznaczenia pierwszego dnia notowania w alternatywnym systemie obrotu na Catalyst obligacji na okaziciela serii OSNP1034 spółki POWSZECHNA KASA OSZCZĘDNOŚCI BANK POLSKI S.A.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/gpw-w-sprawie-wyznaczenia-pierwszego-dnia-notowania-w-alternatywnym-systemie",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "11:51",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: w sprawie wprowadzenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów inwestycyjnych serii 2610 emitowanych przez MICHAEL/STRÖM OBLIGACJI KORPORACYJNYCH FIZ",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/gpw-w-sprawie-wprowadzenia-do-obrotu-gieldowego-na-glownym-rynku-gpw",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "11:43",
     "kind": "news",
     "ticker": null,
@@ -608,6 +635,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:24",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: komunikat - POWSZECHNA KASA OSZCZĘDNOŚCI BANK POLSKI",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/gpw-komunikat-powszechna-kasa-oszczednosci-bank-polski",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "12:23",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Biedronka uruchamia własną aplikację Biek do zakupów online; będzie dostępna w 16 miastach",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439939",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:14",
     "kind": "pap",

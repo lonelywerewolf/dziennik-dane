@@ -1,7 +1,136 @@
 {
  "date": "2026-11-09",
- "count": 112,
+ "count": 124,
  "items": [
+  {
+   "id": "bossa-pap-439942",
+   "date": "2026-11-09",
+   "time": "12:28",
+   "ts": "2026-11-09T12:28:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Do końca listopada decyzja w sprawie ewentualnych kolejnych pożyczek z SAFE - Domański",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439942"
+  },
+  {
+   "id": "bossa-pap-439940",
+   "date": "2026-11-09",
+   "time": "12:25",
+   "ts": "2026-11-09T12:25:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: komunikat - POWSZECHNA KASA OSZCZĘDNOŚCI BANK POLSKI",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439940"
+  },
+  {
+   "id": "bossa-espi-23663",
+   "date": "2026-11-09",
+   "time": "12:25",
+   "ts": "2026-11-09T12:25:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF MWIG40TRlv PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 205 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23663"
+  },
+  {
+   "id": "strefa-860991ae8699",
+   "date": "2026-11-09",
+   "time": "12:24",
+   "ts": "2026-11-09T12:24:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: komunikat - POWSZECHNA KASA OSZCZĘDNOŚCI BANK POLSKI",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/gpw-komunikat-powszechna-kasa-oszczednosci-bank-polski"
+  },
+  {
+   "id": "bossa-pap-439939",
+   "date": "2026-11-09",
+   "time": "12:23",
+   "ts": "2026-11-09T12:23:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Biedronka uruchamia własną aplikację Biek do zakupów online; będzie dostępna w 16 miastach",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439939"
+  },
+  {
+   "id": "bossa-pap-439938",
+   "date": "2026-11-09",
+   "time": "12:23",
+   "ts": "2026-11-09T12:23:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie wyznaczenia pierwszego dnia notowania w alternatywnym systemie obrotu na Catalyst obligacji na okaziciela serii OSNP1034 spółki POWSZECHNA KASA OSZCZĘDNOŚCI BANK POLSKI S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439938"
+  },
+  {
+   "id": "strefa-a67f206d13fc",
+   "date": "2026-11-09",
+   "time": "12:22",
+   "ts": "2026-11-09T12:22:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie wyznaczenia pierwszego dnia notowania w alternatywnym systemie obrotu na Catalyst obligacji na okaziciela serii OSNP1034 spółki POWSZECHNA KASA OSZCZĘDNOŚCI BANK POLSKI S.A.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/gpw-w-sprawie-wyznaczenia-pierwszego-dnia-notowania-w-alternatywnym-systemie"
+  },
+  {
+   "id": "bossa-pap-439937",
+   "date": "2026-11-09",
+   "time": "12:21",
+   "ts": "2026-11-09T12:21:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie wprowadzenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów inwestycyjnych serii AAS emitowanych przez IPOPEMA BENEFIT 3 FIZ AKTYWÓW NIEPUBLICZNYCH",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439937"
+  },
+  {
+   "id": "strefa-a687d71afea1",
+   "date": "2026-11-09",
+   "time": "12:20",
+   "ts": "2026-11-09T12:20:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie wprowadzenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów inwestycyjnych serii AAS emitowanych przez IPOPEMA BENEFIT 3 FIZ AKTYWÓW NIEPUBLICZNYCH",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/gpw-w-sprawie-wprowadzenia-do-obrotu-gieldowego-na-glownym-rynku-gpw-0"
+  },
+  {
+   "id": "bossa-pap-439936",
+   "date": "2026-11-09",
+   "time": "12:18",
+   "ts": "2026-11-09T12:18:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie wprowadzenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów inwestycyjnych serii 2610 emitowanych przez MICHAEL/STRÖM OBLIGACJI KORPORACYJNYCH FIZ",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439936"
+  },
+  {
+   "id": "bossa-espi-23662",
+   "date": "2026-11-09",
+   "time": "12:17",
+   "ts": "2026-11-09T12:17:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF mWIG40TR PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 226 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23662"
+  },
   {
    "id": "bossa-espi-23661",
    "date": "2026-11-09",
@@ -61,6 +190,17 @@
    "title": "Skup akcji własnych. Uchwalenie przze Radę Nadzorczą Regulaminu skupu akcji własnych.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-11225"
+  },
+  {
+   "id": "strefa-c654389126d0",
+   "date": "2026-11-09",
+   "time": "11:51",
+   "ts": "2026-11-09T11:51:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie wprowadzenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów inwestycyjnych serii 2610 emitowanych przez MICHAEL/STRÖM OBLIGACJI KORPORACYJNYCH FIZ",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/gpw-w-sprawie-wprowadzenia-do-obrotu-gieldowego-na-glownym-rynku-gpw"
   },
   {
    "id": "bossa-pap-439929",
