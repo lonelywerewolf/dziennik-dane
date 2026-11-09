@@ -1,7 +1,67 @@
 {
  "date": "2026-11-09",
- "count": 135,
+ "count": 141,
  "items": [
+  {
+   "id": "bossa-pap-439958",
+   "date": "2026-11-09",
+   "time": "13:01",
+   "ts": "2026-11-09T13:01:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeksy transakcyjne - POLSTR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439958"
+  },
+  {
+   "id": "bossa-pap-439957",
+   "date": "2026-11-09",
+   "time": "13:00",
+   "ts": "2026-11-09T13:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeksy transakcyjne - WIRON",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439957"
+  },
+  {
+   "id": "bossa-pap-439955",
+   "date": "2026-11-09",
+   "time": "12:56",
+   "ts": "2026-11-09T12:56:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Grupa ZUE szacuje zysk netto po III kw. '26 na 5,5 mln zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439955"
+  },
+  {
+   "id": "bossa-pap-439954",
+   "date": "2026-11-09",
+   "time": "12:56",
+   "ts": "2026-11-09T12:56:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MARKA SA W RESTRUKTURYZACJI (11/2026) Podpisanie przez emitenta z firmą audytorską umowy o badanie sprawozdań finansowych lub skonsolidowanych sprawozdań finansowych emitenta",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439954"
+  },
+  {
+   "id": "bossa-espi-23676",
+   "date": "2026-11-09",
+   "time": "12:56",
+   "ts": "2026-11-09T12:56:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "LENTEX",
+   "title": "Powzięcie przez Spółkę informacji o wydaniu wyroku oddalającego powództwo akcjonariusza Spółki przeciwko Spółce, dotyczące zaskarżenia Uchwały nr 6 Zwyczajnego Walnego Zgromadzenia Spółki z dnia 24 maja 2022 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23676"
+  },
   {
    "id": "bossa-pap-439953",
    "date": "2026-11-09",
@@ -145,6 +205,17 @@
    "title": "Do końca listopada decyzja w sprawie ewentualnych kolejnych pożyczek z SAFE - Domański",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439942"
+  },
+  {
+   "id": "strefa-1014b111ac46",
+   "date": "2026-11-09",
+   "time": "12:26",
+   "ts": "2026-11-09T12:26:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grupa ZUE szacuje zysk netto po III kw. '26 na 5,5 mln zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/grupa-zue-szacuje-zysk-netto-po-iii-kw-26-na-55-mln-zl"
   },
   {
    "id": "bossa-pap-439940",
