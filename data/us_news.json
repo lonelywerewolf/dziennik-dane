@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "id": "c0d4ad2d066a",
+   "ticker": "ASML",
+   "time": "2026-11-10T00:43+01:00",
+   "title": "Stock Indexes Surge as Buyers Return to Chipmakers and AI Stocks",
+   "url": "https://www.nasdaq.com/articles/stock-indexes-surge-buyers-return-chipmakers-and-ai-stocks",
+   "src": "nasdaq",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed up +2.35% on Monday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +2.15%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +3.40%.  December E-mini S&P futures (ESZ26 ) rose +2.35%, and December E-mini Nasdaq futures..."
+  },
+  {
+   "id": "31894911323f",
+   "ticker": "NVDA",
+   "time": "2026-11-10T00:30+01:00",
+   "title": "Why Nvidia Stock Was Down Today",
+   "url": "https://www.nasdaq.com/articles/why-nvidia-stock-was-down-today",
+   "src": "nasdaq",
+   "summary": "Key PointsNvidia's board opened an investigation into reports that CEO Jensen Huang was the target of a foreign intelligence effort, after he admitted to intimate relations with Megaspeed CEO Alice Huang."
+  },
+  {
    "id": "5f983f1b3a0d",
    "ticker": "NVDA",
    "time": "2026-11-09T23:30+01:00",
@@ -17,6 +35,15 @@
    "url": "https://www.nasdaq.com/articles/stock-indexes-sharply-higher-tech-stocks-rally-and-crude-oil-falls",
    "src": "nasdaq",
    "summary": "The S&P 500 Index ($SPX ) (SPY ) is up +2.16% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +1.79%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +3.28%.  December E-mini S&P futures (ESZ26 ) are up +2.05%, and December E-mini Nasdaq futures..."
+  },
+  {
+   "id": "08df98a6f6e0",
+   "ticker": "NVDA",
+   "time": "2026-11-09T22:45+01:00",
+   "title": "Nvidia (NVDA) Stock Dips While Market Gains: Key Facts",
+   "url": "https://www.nasdaq.com/articles/nvidia-nvda-stock-dips-while-market-gains-key-facts",
+   "src": "nasdaq",
+   "summary": "Nvidia (NVDA) closed the most recent trading day at $178.67, moving 4.27% from the previous trading session."
   },
   {
    "id": "3d3c28e45bff",
@@ -44,6 +71,15 @@
    "url": "https://www.nasdaq.com/articles/notable-monday-option-activity-joe-avgo-googl",
    "src": "nasdaq",
    "summary": "Among the underlying components of the Russell 3000 index, we saw noteworthy options trading volume today in St. Joe Co. (Symbol: JOE), where a total of 3,492 contracts have traded so far, representing approximately 349,200 underlying shares.  That amounts to about 154.4% of JOE"
+  },
+  {
+   "id": "e53f1036568a",
+   "ticker": "NVDA",
+   "time": "2026-11-09T22:10+01:00",
+   "title": "Sanmina (SANM) Beats Q4 Earnings and Revenue Estimates",
+   "url": "https://www.nasdaq.com/articles/sanmina-sanm-beats-q4-earnings-and-revenue-estimates",
+   "src": "nasdaq",
+   "summary": "Sanmina (SANM) delivered earnings and revenue surprises of +35.47% and +10.92%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?"
   },
   {
    "id": "e2fbceb0df15",
@@ -2746,5 +2782,5 @@
    "summary": "Key PointsASML is one of the most important companies in the global semiconductor ecosystem, but its stock price performance has left a lot to be desired over the past three years."
   }
  ],
- "updatedAt": "2026-11-10T00:06:16+01:00"
+ "updatedAt": "2026-11-10T00:58:11+01:00"
 }
