@@ -1,7 +1,77 @@
 {
  "date": "2026-11-09",
- "count": 80,
+ "count": 87,
  "items": [
+  {
+   "id": "bossa-espi-23653",
+   "date": "2026-11-09",
+   "time": "09:51",
+   "ts": "2026-11-09T09:51:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MICHAEL/STRÖM TFI S.A.",
+   "title": "PLIKI",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23653"
+  },
+  {
+   "id": "strefa-10a4d0780836",
+   "date": "2026-11-09",
+   "time": "09:50",
+   "ts": "2026-11-09T09:50:44+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA FX/FI: Decyzja S&P może osłabić PLN jedynie na krótko, później możliwe dalsze umocnienie waluty",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/dzien-na-fxfi-decyzja-sp-moze-oslabic-pln-jedynie-na-krotko-pozniej-mozliwe"
+  },
+  {
+   "id": "bossa-pap-439914",
+   "date": "2026-11-09",
+   "time": "09:50",
+   "ts": "2026-11-09T09:50:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA FX/FI: Decyzja S&P może osłabić PLN jedynie na krótko, później możliwe dalsze umocnienie waluty",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439914"
+  },
+  {
+   "id": "strefa-600081aabc6b",
+   "date": "2026-11-09",
+   "time": "09:44",
+   "ts": "2026-11-09T09:44:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Coal Energy ogłasza aktualizację strategii i stawia na ekspansję usług górniczych w Azji Centralnej oraz projekty w Hiszpanii",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/coal-energy-oglasza-aktualizacje-strategii-i-stawia-na-ekspansje-uslug"
+  },
+  {
+   "id": "bossa-pap-439913",
+   "date": "2026-11-09",
+   "time": "09:43",
+   "ts": "2026-11-09T09:43:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Chiny przedłużają o dwa miesiące zawieszenie 24-proc. ceł odwetowych na towary z USA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439913"
+  },
+  {
+   "id": "bossa-pap-439912",
+   "date": "2026-11-09",
+   "time": "09:43",
+   "ts": "2026-11-09T09:43:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MS: Bezpłatna pomoc psychologiczna dla osób pokrzywdzonych w wyniku tragicznych wydarzeń w Krakowie (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439912"
+  },
   {
    "id": "bossa-pap-439911",
    "date": "2026-11-09",
@@ -13,6 +83,17 @@
    "title": "Presja na rating skłoni w końcu rząd do konsolidacji fiskalnej mimo kosztów politycznych - CA (opinia)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439911"
+  },
+  {
+   "id": "strefa-c7af7b9ba9db",
+   "date": "2026-11-09",
+   "time": "09:35",
+   "ts": "2026-11-09T09:35:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Chiny przedłużają o dwa miesiące zawieszenie 24-proc. ceł odwetowych na towary z USA",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/chiny-przedluzaja-o-dwa-miesiace-zawieszenie-24-proc-cel-odwetowych-na-towary-z"
   },
   {
    "id": "bossa-pap-439910",

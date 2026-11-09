@@ -1,24 +1,33 @@
 {
  "date": "2026-11-09",
  "counts": {
-  "podsumowania": 10,
-  "wyniki": 2,
+  "podsumowania": 11,
+  "wyniki": 3,
   "rekomendacje": 1,
-  "korporacyjne": 9,
+  "korporacyjne": 10,
   "makro_pl": 6,
   "swiat_rynki": 6,
-  "energetyka_surowce": 4,
+  "energetyka_surowce": 5,
   "nieruchomosci": 2,
-  "fundusze_drobne": 0,
+  "fundusze_drobne": 1,
   "twoje_spolki": 1,
   "obserwowane": 0,
   "pozostale": 16
  },
- "duplicatesRemoved": 23,
- "total": 80,
+ "duplicatesRemoved": 25,
+ "total": 87,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "09:50",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA FX/FI: Decyzja S&P może osłabić PLN jedynie na krótko, później możliwe dalsze umocnienie waluty",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/dzien-na-fxfi-decyzja-sp-moze-oslabic-pln-jedynie-na-krotko-pozniej-mozliwe",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:16",
     "kind": "pap",
@@ -114,6 +123,17 @@
   ],
   "wyniki": [
    {
+    "time": "09:43",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MS: Bezpłatna pomoc psychologiczna dla osób pokrzywdzonych w wyniku tragicznych wydarzeń w Krakowie (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439912",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
     "time": "08:54",
     "kind": "pap",
     "ticker": null,
@@ -144,6 +164,15 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "09:35",
+    "kind": "news",
+    "ticker": null,
+    "title": "Chiny przedłużają o dwa miesiące zawieszenie 24-proc. ceł odwetowych na towary z USA",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/chiny-przedluzaja-o-dwa-miesiace-zawieszenie-24-proc-cel-odwetowych-na-towary-z",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:55",
     "kind": "news",
@@ -358,6 +387,15 @@
   ],
   "energetyka_surowce": [
    {
+    "time": "09:44",
+    "kind": "news",
+    "ticker": null,
+    "title": "Coal Energy ogłasza aktualizację strategii i stawia na ekspansję usług górniczych w Azji Centralnej oraz projekty w Hiszpanii",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/coal-energy-oglasza-aktualizacje-strategii-i-stawia-na-ekspansje-uslug",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "08:52",
     "kind": "news",
     "ticker": null,
@@ -414,7 +452,17 @@
     "flags": []
    }
   ],
-  "fundusze_drobne": [],
+  "fundusze_drobne": [
+   {
+    "time": "09:51",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MICHAEL/STRÖM TFI S.A.: PLIKI",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23653",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "twoje_spolki": [
    {
     "time": "06:22",
