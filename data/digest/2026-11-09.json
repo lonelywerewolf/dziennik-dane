@@ -7,15 +7,15 @@
   "korporacyjne": 31,
   "makro_pl": 16,
   "swiat_rynki": 10,
-  "energetyka_surowce": 6,
+  "energetyka_surowce": 7,
   "nieruchomosci": 3,
   "fundusze_drobne": 7,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 33
+  "pozostale": 35
  },
- "duplicatesRemoved": 64,
- "total": 194,
+ "duplicatesRemoved": 67,
+ "total": 200,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -801,6 +801,15 @@
   ],
   "energetyka_surowce": [
    {
+    "time": "15:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Agencja Rozwoju Przemysłu udzieli JSW do 1.066 mln zł pożyczki",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/agencja-rozwoju-przemyslu-udzieli-jsw-do-1066-mln-zl-pozyczki",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "11:05",
     "kind": "espi",
     "ticker": null,
@@ -973,6 +982,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "15:15",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GRUPA PRACUJ S.A.: Zmiana terminu publikacji raportu okresowego za III kwartał 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23701",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:07",
+    "kind": "news",
+    "ticker": null,
+    "title": "BFG wyznaczył BOŚ Bankowi wymóg MREL - nadal wynosi 12 proc. TREA",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/bfg-wyznaczyl-bos-bankowi-wymog-mrel-nadal-wynosi-12-proc-trea",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "14:15",
     "kind": "pap",

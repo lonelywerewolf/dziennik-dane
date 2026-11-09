@@ -1,7 +1,66 @@
 {
  "date": "2026-11-09",
- "count": 194,
+ "count": 200,
  "items": [
+  {
+   "id": "bossa-espi-23701",
+   "date": "2026-11-09",
+   "time": "15:15",
+   "ts": "2026-11-09T15:15:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "GRUPA PRACUJ S.A.",
+   "title": "Zmiana terminu publikacji raportu okresowego za III kwartał 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23701"
+  },
+  {
+   "id": "bossa-pap-440004",
+   "date": "2026-11-09",
+   "time": "15:09",
+   "ts": "2026-11-09T15:09:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "BFG wyznaczył BOŚ Bankowi wymóg MREL - nadal wynosi 12 proc. TREA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440004"
+  },
+  {
+   "id": "strefa-bf1675b1dc09",
+   "date": "2026-11-09",
+   "time": "15:07",
+   "ts": "2026-11-09T15:07:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "BFG wyznaczył BOŚ Bankowi wymóg MREL - nadal wynosi 12 proc. TREA",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/bfg-wyznaczyl-bos-bankowi-wymog-mrel-nadal-wynosi-12-proc-trea"
+  },
+  {
+   "id": "bossa-pap-440003",
+   "date": "2026-11-09",
+   "time": "15:06",
+   "ts": "2026-11-09T15:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "VIENNA OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440003"
+  },
+  {
+   "id": "bossa-pap-440002",
+   "date": "2026-11-09",
+   "time": "15:06",
+   "ts": "2026-11-09T15:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Agencja Rozwoju Przemysłu udzieli JSW do 1.066 mln zł pożyczki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440002"
+  },
   {
    "id": "bossa-pap-440001",
    "date": "2026-11-09",
@@ -37,6 +96,17 @@
    "title": "Marszałek Senatu wyznaczyła senatorom termin na składanie kandydatur do RPP w dn. 9-25 listopada",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439999"
+  },
+  {
+   "id": "strefa-f0e7d939498b",
+   "date": "2026-11-09",
+   "time": "15:01",
+   "ts": "2026-11-09T15:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Agencja Rozwoju Przemysłu udzieli JSW do 1.066 mln zł pożyczki",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/agencja-rozwoju-przemyslu-udzieli-jsw-do-1066-mln-zl-pozyczki"
   },
   {
    "id": "bossa-pap-439998",
