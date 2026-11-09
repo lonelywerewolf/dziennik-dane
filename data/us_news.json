@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "568873774359",
+   "ticker": "MRVL",
+   "time": "2026-11-09T17:42+01:00",
+   "title": "Strength in Tech and Weakness in Crude Oil Boost Stocks",
+   "url": "https://www.nasdaq.com/articles/strength-tech-and-weakness-crude-oil-boost-stocks",
+   "src": "nasdaq",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up +1.56% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +1.39%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +2.17%.  December E-mini S&P futures (ESZ26 ) are up +1.53%, and December E-mini Nasdaq futures..."
+  },
+  {
    "id": "8b518eb50683",
    "ticker": "NVDA",
    "time": "2026-11-09T16:55+01:00",
@@ -71,6 +80,15 @@
    "url": "https://www.nasdaq.com/articles/cathie-wood-goes-bargain-hunting-3-stocks-she-bought-last-week",
    "src": "nasdaq",
    "summary": "Key PointsCathie Wood added to her positions in Nvidia, MercadoLibre, and AMD during last Thursday's sell-off."
+  },
+  {
+   "id": "26e0f48db5c7",
+   "ticker": "NVDA",
+   "time": "2026-11-09T15:11+01:00",
+   "title": "INTC Stock Down 57% in the Past 6 Months: Should You Exercise Caution?",
+   "url": "https://www.nasdaq.com/articles/intc-stock-down-57-past-6-months-should-you-exercise-caution",
+   "src": "nasdaq",
+   "summary": "Intel's 56.5% stock plunge, weak Q4 outlook and China headwinds raise concerns, even as foundry growth and AI investments bolster its turnaround prospects."
   },
   {
    "id": "d4b0d5fb8596",
@@ -2539,5 +2557,5 @@
    "summary": "Key PointsASML is one of the most important companies in the global semiconductor ecosystem, but its stock price performance has left a lot to be desired over the past three years."
   }
  ],
- "updatedAt": "2026-11-09T17:34:01+01:00"
+ "updatedAt": "2026-11-09T17:46:30+01:00"
 }

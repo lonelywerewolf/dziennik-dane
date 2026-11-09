@@ -1,7 +1,7 @@
 {
  "date": "2026-11-09",
  "counts": {
-  "podsumowania": 16,
+  "podsumowania": 17,
   "wyniki": 16,
   "rekomendacje": 1,
   "korporacyjne": 46,
@@ -12,13 +12,24 @@
   "fundusze_drobne": 11,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 44
+  "pozostale": 46
  },
- "duplicatesRemoved": 85,
- "total": 262,
+ "duplicatesRemoved": 86,
+ "total": 266,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "17:36",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Notowania ciągłe - podsumowanie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440055",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "17:30",
     "kind": "pap",
@@ -186,12 +197,12 @@
     "flags": []
    },
    {
-    "time": "17:18",
-    "kind": "pap",
+    "time": "17:15",
+    "kind": "news",
     "ticker": null,
     "title": "Wyniki Ten Square Games w III kw. 2026 roku vs. konsensus PAP (tabela)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-440050",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261109/wyniki-ten-square-games-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+    "src": "strefainwestorow",
     "flags": [
      "wyniki"
     ]
@@ -1319,6 +1330,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:42",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SFINKS POLSKA S.A.: Rejestracja zmian w Statucie Sfinks Polska S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23729",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:35",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ASTARTA HOLDING: Damage to the Soybean processing plant following an air attack",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23728",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:58",
     "kind": "pap",
