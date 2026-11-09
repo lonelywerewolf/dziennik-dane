@@ -4,18 +4,18 @@
   "podsumowania": 6,
   "wyniki": 0,
   "rekomendacje": 0,
-  "korporacyjne": 1,
-  "makro_pl": 2,
+  "korporacyjne": 3,
+  "makro_pl": 3,
   "swiat_rynki": 1,
   "energetyka_surowce": 2,
-  "nieruchomosci": 1,
+  "nieruchomosci": 2,
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
   "pozostale": 6
  },
  "duplicatesRemoved": 7,
- "total": 27,
+ "total": 31,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -80,6 +80,28 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "07:35",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MULTIQURE S.A.: Zawarcie umowy z Apertura Gene Therapy, LLC",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23645",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "07:32",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MEDICALGORITHMICS S.A.: Zawarcie z partnerem z USA umowy przewidującej łączne wynagrodzenie w pierwszym roku współpracy w wysokości co najmniej 786 tys. PLN",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23644",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
     "time": "07:26",
     "kind": "espi",
     "ticker": null,
@@ -92,6 +114,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "07:33",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Złotowe depozyty międzybankowe - WIBID, WIBOR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439883",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "07:10",
     "kind": "pap",
@@ -143,6 +174,15 @@
    }
   ],
   "nieruchomosci": [
+   {
+    "time": "07:36",
+    "kind": "pap",
+    "ticker": null,
+    "title": "W X najwyższa sprzedaż mieszkań w tym roku, ceny pozostają stabilne - Tabelaofert",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439885",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "06:35",
     "kind": "news",

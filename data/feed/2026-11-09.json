@@ -1,7 +1,55 @@
 {
  "date": "2026-11-09",
- "count": 27,
+ "count": 31,
  "items": [
+  {
+   "id": "bossa-pap-439885",
+   "date": "2026-11-09",
+   "time": "07:36",
+   "ts": "2026-11-09T07:36:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "W X najwyższa sprzedaż mieszkań w tym roku, ceny pozostają stabilne - Tabelaofert",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439885"
+  },
+  {
+   "id": "bossa-espi-23645",
+   "date": "2026-11-09",
+   "time": "07:35",
+   "ts": "2026-11-09T07:35:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MULTIQURE S.A.",
+   "title": "Zawarcie umowy z Apertura Gene Therapy, LLC",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23645"
+  },
+  {
+   "id": "bossa-pap-439883",
+   "date": "2026-11-09",
+   "time": "07:33",
+   "ts": "2026-11-09T07:33:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Złotowe depozyty międzybankowe - WIBID, WIBOR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-439883"
+  },
+  {
+   "id": "bossa-espi-23644",
+   "date": "2026-11-09",
+   "time": "07:32",
+   "ts": "2026-11-09T07:32:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MEDICALGORITHMICS S.A.",
+   "title": "Zawarcie z partnerem z USA umowy przewidującej łączne wynagrodzenie w pierwszym roku współpracy w wysokości co najmniej 786 tys. PLN",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23644"
+  },
   {
    "id": "bossa-espi-23643",
    "date": "2026-11-09",
