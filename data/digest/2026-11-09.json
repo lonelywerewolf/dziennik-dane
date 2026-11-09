@@ -4,7 +4,7 @@
   "podsumowania": 12,
   "wyniki": 9,
   "rekomendacje": 1,
-  "korporacyjne": 26,
+  "korporacyjne": 27,
   "makro_pl": 13,
   "swiat_rynki": 9,
   "energetyka_surowce": 6,
@@ -15,7 +15,7 @@
   "pozostale": 33
  },
  "duplicatesRemoved": 60,
- "total": 177,
+ "total": 178,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -231,6 +231,18 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "14:17",
+    "kind": "espi",
+    "ticker": null,
+    "title": "VINDEXUS S.A.: Podjęcie uchwały Zarządu Spółki w sprawie emisji obligacji serii A3 w ramach Programu",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23695",
+    "src": "bossa",
+    "flags": [
+     "emisja",
+     "zarząd"
+    ]
+   },
    {
     "time": "14:15",
     "kind": "espi",
