@@ -5,7 +5,7 @@
   "wyniki": 0,
   "rekomendacje": 0,
   "korporacyjne": 0,
-  "makro_pl": 1,
+  "makro_pl": 2,
   "swiat_rynki": 0,
   "energetyka_surowce": 1,
   "nieruchomosci": 1,
@@ -15,7 +15,7 @@
   "pozostale": 6
  },
  "duplicatesRemoved": 7,
- "total": 23,
+ "total": 24,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -80,6 +80,15 @@
   "rekomendacje": [],
   "korporacyjne": [],
   "makro_pl": [
+   {
+    "time": "07:10",
+    "kind": "pap",
+    "ticker": null,
+    "title": "mTFI chce w 2-3 lata podwoić udział w rynku; liczy na odwilż na rynku obligacji (wywiad)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-439878",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "06:33",
     "kind": "news",
