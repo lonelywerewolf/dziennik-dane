@@ -1,7 +1,19 @@
 {
  "date": "2026-11-09",
- "count": 103,
+ "count": 105,
  "items": [
+  {
+   "id": "bossa-espi-23658",
+   "date": "2026-11-09",
+   "time": "11:28",
+   "ts": "2026-11-09T11:28:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "UNIFIED FACTORY S.A.",
+   "title": "Sprostowanie akcjonariusza dot. przekroczenia progu 5% w ogólnej liczbie głosów",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23658"
+  },
   {
    "id": "bossa-pap-439927",
    "date": "2026-11-09",
@@ -13,6 +25,17 @@
    "title": "Wskaźnik nastrojów inwestorów w strefie euro w XI: +2,4 pkt. Konsensus: +2,1 pkt.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-439927"
+  },
+  {
+   "id": "strefa-ddf94dd198b7",
+   "date": "2026-11-09",
+   "time": "11:11",
+   "ts": "2026-11-09T11:11:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Polskie obligacje skarbowe w 2027. Szef mTFI liczy na przełom i przedstawia plany biura",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261109/polskie-obligacje-skarbowe-w-2027-szef-mtfi-liczy-na-przelom-i-przedstawia"
   },
   {
    "id": "strefa-05876de7012e",
