@@ -2,20 +2,20 @@
  "date": "2026-11-10",
  "counts": {
   "podsumowania": 17,
-  "wyniki": 17,
+  "wyniki": 18,
   "rekomendacje": 0,
-  "korporacyjne": 49,
+  "korporacyjne": 53,
   "makro_pl": 20,
   "swiat_rynki": 15,
   "energetyka_surowce": 4,
   "nieruchomosci": 2,
-  "fundusze_drobne": 11,
+  "fundusze_drobne": 12,
   "twoje_spolki": 1,
   "obserwowane": 0,
   "pozostale": 62
  },
  "duplicatesRemoved": 120,
- "total": 318,
+ "total": 324,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -178,6 +178,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "18:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ONE SOLUTION SA (14/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440347",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:01",
     "kind": "pap",
@@ -345,6 +354,51 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "18:36",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SZAR S.A.: infformacja o transakcjach wykonywanych przez osoby pełniące obowiązki zarządcze",
+    "url": "https://bossa.pl/analizy/komunikaty#message-26148",
+    "src": "bossa",
+    "flags": [
+     "zarząd",
+     "insider"
+    ]
+   },
+   {
+    "time": "18:34",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ECO5TECH S.A.: Otrzymanie zawiadomienia w trybie art. 69 ustawy o ofercie publicznej – zmniejszenie stanu posiadania",
+    "url": "https://bossa.pl/analizy/komunikaty#message-26146",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
+   {
+    "time": "18:34",
+    "kind": "espi",
+    "ticker": null,
+    "title": "UNIBEP S.A.: Zawarcie przez Unibep S.A. umowy na budowę instalacji kogeneracji na rzecz MPEC w Tarnowie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-26145",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "18:32",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PZU SA: Zawarcie Aneksu nr 3 do Umowy zlecenia o okresowe udzielanie gwarancji ochrony kredytowej nierzeczywistej oraz Aneksu nr 3 do Umowy ramowej zlecenia o okresowe udzielanie kontrgwarancji",
+    "url": "https://bossa.pl/analizy/komunikaty#message-26144",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "18:13",
     "kind": "news",
@@ -1236,6 +1290,15 @@
    }
   ],
   "fundusze_drobne": [
+   {
+    "time": "18:27",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Nationale-Nederlanden PTE SA informuje",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440343",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:59",
     "kind": "news",

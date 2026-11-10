@@ -1,7 +1,79 @@
 {
  "date": "2026-11-10",
- "count": 318,
+ "count": 324,
  "items": [
+  {
+   "id": "bossa-espi-26148",
+   "date": "2026-11-10",
+   "time": "18:36",
+   "ts": "2026-11-10T18:36:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "SZAR S.A.",
+   "title": "infformacja o transakcjach wykonywanych przez osoby pełniące obowiązki zarządcze",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-26148"
+  },
+  {
+   "id": "bossa-pap-440347",
+   "date": "2026-11-10",
+   "time": "18:34",
+   "ts": "2026-11-10T18:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "ONE SOLUTION SA (14/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440347"
+  },
+  {
+   "id": "bossa-espi-26146",
+   "date": "2026-11-10",
+   "time": "18:34",
+   "ts": "2026-11-10T18:34:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ECO5TECH S.A.",
+   "title": "Otrzymanie zawiadomienia w trybie art. 69 ustawy o ofercie publicznej – zmniejszenie stanu posiadania",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-26146"
+  },
+  {
+   "id": "bossa-espi-26145",
+   "date": "2026-11-10",
+   "time": "18:34",
+   "ts": "2026-11-10T18:34:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "UNIBEP S.A.",
+   "title": "Zawarcie przez Unibep S.A. umowy na budowę instalacji kogeneracji na rzecz MPEC w Tarnowie",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-26145"
+  },
+  {
+   "id": "bossa-espi-26144",
+   "date": "2026-11-10",
+   "time": "18:32",
+   "ts": "2026-11-10T18:32:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU SA",
+   "title": "Zawarcie Aneksu nr 3 do Umowy zlecenia o okresowe udzielanie gwarancji ochrony kredytowej nierzeczywistej oraz Aneksu nr 3 do Umowy ramowej zlecenia o okresowe udzielanie kontrgwarancji",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-26144"
+  },
+  {
+   "id": "bossa-pap-440343",
+   "date": "2026-11-10",
+   "time": "18:27",
+   "ts": "2026-11-10T18:27:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Nationale-Nederlanden PTE SA informuje",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440343"
+  },
   {
    "id": "bossa-pap-440342",
    "date": "2026-11-10",
