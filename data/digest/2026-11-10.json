@@ -4,18 +4,18 @@
   "podsumowania": 17,
   "wyniki": 20,
   "rekomendacje": 0,
-  "korporacyjne": 59,
+  "korporacyjne": 60,
   "makro_pl": 20,
   "swiat_rynki": 17,
   "energetyka_surowce": 5,
   "nieruchomosci": 2,
   "fundusze_drobne": 12,
-  "twoje_spolki": 1,
+  "twoje_spolki": 2,
   "obserwowane": 0,
   "pozostale": 69
  },
- "duplicatesRemoved": 128,
- "total": 350,
+ "duplicatesRemoved": 129,
+ "total": 353,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -372,6 +372,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "22:12",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GHELAMCO INVEST SP. Z O.O.: Otrzymanie przez Sobieski Towers sp. z o.o. od obligatariuszy obligacji ST2 oświadczenia dot. potwierdzenia braku naruszenia warunków emisji obligacji ST2 oraz wystąpienia przypadku naruszenia w związku z brakiem rozpoczęcia notowań obligacji ST2 w ASO GPW w terminie określonym w warunkach emisji obligacji ST2",
+    "url": "https://bossa.pl/analizy/komunikaty#message-48252",
+    "src": "bossa",
+    "flags": [
+     "emisja"
+    ]
+   },
    {
     "time": "21:19",
     "kind": "espi",
@@ -1514,6 +1525,15 @@
    }
   ],
   "twoje_spolki": [
+   {
+    "time": "21:13",
+    "kind": "news",
+    "ticker": "NVDA",
+    "title": "DZIEŃ NA RYNKACH: Na Wall Street spadki, w centrum uwagi Nvidia i dane o inflacji",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/dzien-na-rynkach-na-wall-street-spadki-w-centrum-uwagi-nvidia-i-dane-o-inflacji",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:31",
     "kind": "news",

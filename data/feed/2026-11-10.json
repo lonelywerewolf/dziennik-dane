@@ -1,7 +1,31 @@
 {
  "date": "2026-11-10",
- "count": 350,
+ "count": 353,
  "items": [
+  {
+   "id": "bossa-pap-440374",
+   "date": "2026-11-10",
+   "time": "22:18",
+   "ts": "2026-11-10T22:18:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Na Wall Street spadki, w centrum uwagi Nvidia i dane o inflacji",
+   "ticker": "NVDA",
+   "url": "https://bossa.pl/analizy/komunikaty#message-440374"
+  },
+  {
+   "id": "bossa-espi-48252",
+   "date": "2026-11-10",
+   "time": "22:12",
+   "ts": "2026-11-10T22:12:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "GHELAMCO INVEST SP. Z O.O.",
+   "title": "Otrzymanie przez Sobieski Towers sp. z o.o. od obligatariuszy obligacji ST2 oświadczenia dot. potwierdzenia braku naruszenia warunków emisji obligacji ST2 oraz wystąpienia przypadku naruszenia w związku z brakiem rozpoczęcia notowań obligacji ST2 w ASO GPW w terminie określonym w warunkach emisji obligacji ST2",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-48252"
+  },
   {
    "id": "bossa-espi-48251",
    "date": "2026-11-10",
@@ -49,6 +73,17 @@
    "title": "Żądanie akcjonariusza umieszczenia określonej sprawy w porządku obrad Nadzwyczajnego Walnego Zgromadzenia wraz z projektami uchwał",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-46829"
+  },
+  {
+   "id": "strefa-fa7977694206",
+   "date": "2026-11-10",
+   "time": "21:13",
+   "ts": "2026-11-10T21:13:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Na Wall Street spadki, w centrum uwagi Nvidia i dane o inflacji",
+   "ticker": "NVDA",
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/dzien-na-rynkach-na-wall-street-spadki-w-centrum-uwagi-nvidia-i-dane-o-inflacji"
   },
   {
    "id": "bossa-pap-440368",
