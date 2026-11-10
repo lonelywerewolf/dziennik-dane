@@ -1,7 +1,54 @@
 {
  "date": "2026-11-10",
- "count": 65,
+ "count": 70,
  "items": [
+  {
+   "id": "bossa-pap-440144",
+   "date": "2026-11-10",
+   "time": "09:56",
+   "ts": "2026-11-10T09:56:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Monitor kadrowy - zestawienie od 3 do 9 listopada",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440144"
+  },
+  {
+   "id": "strefa-f762888a5629",
+   "date": "2026-11-10",
+   "time": "09:50",
+   "ts": "2026-11-10T09:50:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Monitor kadrowy - zestawienie od 3 do 9 listopada",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/monitor-kadrowy-zestawienie-od-3-do-9-listopada"
+  },
+  {
+   "id": "bossa-pap-440143",
+   "date": "2026-11-10",
+   "time": "09:49",
+   "ts": "2026-11-10T09:49:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "XTB w ciągu roku pozyskało 620,262 tys. rachunków maklerskich - KDPW",
+   "ticker": "XTB",
+   "url": "https://bossa.pl/analizy/komunikaty#message-440143"
+  },
+  {
+   "id": "bossa-pap-440142",
+   "date": "2026-11-10",
+   "time": "09:48",
+   "ts": "2026-11-10T09:48:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Sevenet chce wypłacić 1,05 zł dywidendy na akcję",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440142"
+  },
   {
    "id": "bossa-pap-440141",
    "date": "2026-11-10",
@@ -61,6 +108,17 @@
    "title": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia Akcjonariuszy SEVENET S.A. na dzień 07 grudnia 2026 roku",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23764"
+  },
+  {
+   "id": "strefa-8d2cae6261d4",
+   "date": "2026-11-10",
+   "time": "09:31",
+   "ts": "2026-11-10T09:31:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "XTB w ciągu roku pozyskało 620,262 tys. rachunków maklerskich - KDPW",
+   "ticker": "XTB",
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/xtb-w-ciagu-roku-pozyskalo-620262-tys-rachunkow-maklerskich-kdpw"
   },
   {
    "id": "bossa-pap-440136",

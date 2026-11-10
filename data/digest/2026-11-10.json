@@ -4,18 +4,18 @@
   "podsumowania": 9,
   "wyniki": 5,
   "rekomendacje": 0,
-  "korporacyjne": 6,
+  "korporacyjne": 7,
   "makro_pl": 4,
   "swiat_rynki": 4,
   "energetyka_surowce": 1,
   "nieruchomosci": 1,
   "fundusze_drobne": 0,
-  "twoje_spolki": 0,
+  "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 14
+  "pozostale": 15
  },
- "duplicatesRemoved": 21,
- "total": 65,
+ "duplicatesRemoved": 23,
+ "total": 70,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -156,6 +156,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "09:48",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Sevenet chce wypłacić 1,05 zł dywidendy na akcję",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440142",
+    "src": "bossa",
+    "flags": [
+     "dywidenda"
+    ]
+   },
    {
     "time": "09:36",
     "kind": "espi",
@@ -322,9 +333,28 @@
    }
   ],
   "fundusze_drobne": [],
-  "twoje_spolki": [],
+  "twoje_spolki": [
+   {
+    "time": "09:31",
+    "kind": "news",
+    "ticker": "XTB",
+    "title": "XTB w ciągu roku pozyskało 620,262 tys. rachunków maklerskich - KDPW",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/xtb-w-ciagu-roku-pozyskalo-620262-tys-rachunkow-maklerskich-kdpw",
+    "src": "strefainwestorow",
+    "flags": []
+   }
+  ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:50",
+    "kind": "news",
+    "ticker": null,
+    "title": "Monitor kadrowy - zestawienie od 3 do 9 listopada",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/monitor-kadrowy-zestawienie-od-3-do-9-listopada",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:45",
     "kind": "pap",
