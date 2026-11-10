@@ -1,10 +1,10 @@
 {
  "date": "2026-11-10",
  "counts": {
-  "podsumowania": 9,
+  "podsumowania": 10,
   "wyniki": 7,
   "rekomendacje": 0,
-  "korporacyjne": 9,
+  "korporacyjne": 10,
   "makro_pl": 6,
   "swiat_rynki": 4,
   "energetyka_surowce": 1,
@@ -12,13 +12,22 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 18
+  "pozostale": 19
  },
- "duplicatesRemoved": 30,
- "total": 86,
+ "duplicatesRemoved": 32,
+ "total": 91,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "10:31",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: WIG20 i WIG lekko rosną, ale spada mWIG40; odbija kurs Orlenu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/dzien-na-gpw-wig20-i-wig-lekko-rosna-ale-spada-mwig40-odbija-kurs-orlenu",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:26",
     "kind": "news",
@@ -176,6 +185,15 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "10:43",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MBANK HIPOTECZNY: Powiadomienie o transakcjach na instrumentach finansowych mBanku Hipotecznego S.A. dokonanych przez mBank S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23769",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:08",
     "kind": "news",
@@ -404,6 +422,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "10:39",
+    "kind": "espi",
+    "ticker": null,
+    "title": "A.P.N. PROMISE S.A.: Złożenie pozwu o zapłatę",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23768",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:34",
     "kind": "pap",

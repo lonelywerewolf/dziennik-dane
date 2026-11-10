@@ -1,7 +1,55 @@
 {
  "date": "2026-11-10",
- "count": 86,
+ "count": 91,
  "items": [
+  {
+   "id": "bossa-espi-23770",
+   "date": "2026-11-10",
+   "time": "10:44",
+   "ts": "2026-11-10T10:44:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MBANK HIPOTECZNY",
+   "title": "Powiadomienie o transakcjach na instrumentach finansowych mBanku Hipotecznego S.A. dokonanych przez mBank S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23770"
+  },
+  {
+   "id": "bossa-espi-23769",
+   "date": "2026-11-10",
+   "time": "10:43",
+   "ts": "2026-11-10T10:43:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MBANK HIPOTECZNY",
+   "title": "Powiadomienie o transakcjach na instrumentach finansowych mBanku Hipotecznego S.A. dokonanych przez mBank S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23769"
+  },
+  {
+   "id": "bossa-espi-23768",
+   "date": "2026-11-10",
+   "time": "10:39",
+   "ts": "2026-11-10T10:39:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "A.P.N. PROMISE S.A.",
+   "title": "Złożenie pozwu o zapłatę",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23768"
+  },
+  {
+   "id": "bossa-pap-440153",
+   "date": "2026-11-10",
+   "time": "10:38",
+   "ts": "2026-11-10T10:38:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: WIG20 i WIG lekko rosną, ale spada mWIG40; odbija kurs Orlenu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440153"
+  },
   {
    "id": "bossa-pap-440152",
    "date": "2026-11-10",
@@ -25,6 +73,17 @@
    "title": "MF: Wyniki sprzedaży obligacji oszczędnościowych w październiku 2026 roku (komunikat)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440151"
+  },
+  {
+   "id": "strefa-d60c0623b748",
+   "date": "2026-11-10",
+   "time": "10:31",
+   "ts": "2026-11-10T10:31:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: WIG20 i WIG lekko rosną, ale spada mWIG40; odbija kurs Orlenu",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/dzien-na-gpw-wig20-i-wig-lekko-rosna-ale-spada-mwig40-odbija-kurs-orlenu"
   },
   {
    "id": "bossa-pap-440150",
