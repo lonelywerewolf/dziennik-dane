@@ -12,10 +12,10 @@
   "fundusze_drobne": 12,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 67
+  "pozostale": 68
  },
  "duplicatesRemoved": 127,
- "total": 347,
+ "total": 348,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1526,6 +1526,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "21:48",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PYRAMID GAMES S.A.: Informacja o dokonaniu częściowego odpisu aktualizującego z tytułu utraty wartości gry pt. Occupy Mars: The Game",
+    "url": "https://bossa.pl/analizy/komunikaty#message-48249",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "20:27",
     "kind": "pap",
