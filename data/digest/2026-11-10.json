@@ -4,18 +4,18 @@
   "podsumowania": 10,
   "wyniki": 11,
   "rekomendacje": 0,
-  "korporacyjne": 27,
-  "makro_pl": 11,
-  "swiat_rynki": 7,
+  "korporacyjne": 28,
+  "makro_pl": 13,
+  "swiat_rynki": 8,
   "energetyka_surowce": 2,
   "nieruchomosci": 2,
-  "fundusze_drobne": 5,
+  "fundusze_drobne": 6,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 39
+  "pozostale": 40
  },
- "duplicatesRemoved": 70,
- "total": 185,
+ "duplicatesRemoved": 78,
+ "total": 199,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -225,11 +225,22 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "14:08",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Kino Polska TV S.A.: Zgłoszenie akcjonariusza dotyczące umieszczenia określonych spraw w porządku obrad Nadzwyczajnego Walnego Zgromadzenia Akcjonariuszy Kino Polska TV S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23831",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
+   {
     "time": "13:43",
     "kind": "news",
     "ticker": null,
     "title": "Trans Polonia osiągnęła wyłączność negocjacyjną w transakcji przejęcia wiodącego Europejskiego podmiotu działającego na rynku transportu płynnych surowców w Europie Zachodniej.",
-    "url": "https://strefainwestorow.pl/wiadomosci/20261110/trans-polonia-osiagnela-wylacznosc-negocjacyjna-w-transakcji-przejecia",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/polska-spolka-z-gpw-szykuje-potezne-przejecie-na-zachodzie-w-grze-setki",
     "src": "strefainwestorow",
     "flags": []
    },
@@ -500,6 +511,24 @@
   ],
   "makro_pl": [
    {
+    "time": "14:04",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BANK GOSPODARSTWA KRAJOWEGO: Oprocentowanie obligacji serii BGK1127S019A",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23827",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:02",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Projekcja daje przesłanki za podwyżką stóp, lepiej czekać z decyzją do stycznia - Masłowska, RPP",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440239",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "12:39",
     "kind": "news",
     "ticker": null,
@@ -600,6 +629,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "14:10",
+    "kind": "pap",
+    "ticker": null,
+    "title": "CIS: Marszałek Senatu na obchodach Narodowego Święta Niepodległości (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440247",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:16",
     "kind": "news",
@@ -708,6 +746,15 @@
   ],
   "fundusze_drobne": [
    {
+    "time": "14:02",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OFE POCZTYLION wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440238",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "13:27",
     "kind": "espi",
     "ticker": null,
@@ -766,6 +813,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "14:10",
+    "kind": "espi",
+    "ticker": null,
+    "title": "EURO-TAX S.A.: Liczba podpisanych umów – dane o działalności usługowej.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23835",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:59",
     "kind": "pap",

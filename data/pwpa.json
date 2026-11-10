@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "date": "2026-11-10",
+   "ticker": "11B",
+   "company": "11BIT STUIOS S.A.",
+   "file": "20261110_bank_millennium_11b_pl_pw.pdf",
+   "url": "https://www.gpw.pl/pub/pwpa/20261110_bank_millennium_11b_pl_pw.pdf",
+   "type": "prognoza wyników",
+   "house": "Bank Millennium S.A."
+  },
+  {
    "date": "2026-11-09",
    "ticker": "ZUE",
    "company": "ZUE S.A.",
@@ -363,5 +372,5 @@
    "house": "Noble Securities S.A."
   }
  ],
- "updatedAt": "2026-11-10T14:00:22+01:00"
+ "updatedAt": "2026-11-10T14:11:26+01:00"
 }
