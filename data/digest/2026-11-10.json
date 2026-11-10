@@ -1,24 +1,33 @@
 {
  "date": "2026-11-10",
  "counts": {
-  "podsumowania": 5,
+  "podsumowania": 6,
   "wyniki": 3,
   "rekomendacje": 0,
-  "korporacyjne": 3,
+  "korporacyjne": 4,
   "makro_pl": 2,
-  "swiat_rynki": 2,
+  "swiat_rynki": 3,
   "energetyka_surowce": 1,
   "nieruchomosci": 1,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 8
+  "pozostale": 10
  },
- "duplicatesRemoved": 14,
- "total": 39,
+ "duplicatesRemoved": 16,
+ "total": 46,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "08:25",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: Wtorkowa sesja może przynieść kontynuację poniedziałkowych wzrostów",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/dzien-na-gpw-wtorkowa-sesja-moze-przyniesc-kontynuacje-poniedzialkowych",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:18",
     "kind": "news",
@@ -101,6 +110,17 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "08:54",
+    "kind": "news",
+    "ticker": null,
+    "title": "Echo Investment chce wypłacić zaliczkę na poczet dywidendy za '26 w wys. 0,40 zł na akcję",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/echo-investment-chce-wyplacic-zaliczke-na-poczet-dywidendy-za-26-w-wys-040-zl",
+    "src": "strefainwestorow",
+    "flags": [
+     "dywidenda"
+    ]
+   },
+   {
     "time": "08:41",
     "kind": "espi",
     "ticker": null,
@@ -156,6 +176,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "08:56",
+    "kind": "pap",
+    "ticker": null,
+    "title": "W Niemczech może zabraknąć gazu tej zimy",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440127",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "07:54",
     "kind": "news",
     "ticker": null,
@@ -200,6 +229,24 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "08:55",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KERNEL HOLDING S.A.: PROPOSED RESOLUTIONS – ANNUAL AND EXTRAORDINARY GENERAL MEETINGS OF SHAREHOLDERS TO BE HELD ON 10 DECEMBER 2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23760",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "08:51",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KERNEL HOLDING S.A.: NOTICE TO THE SHAREHOLDERS – ANNUAL AND EXTRAORDINARY GENERAL MEETINGS OF SHAREHOLDERS",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23759",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:46",
     "kind": "pap",

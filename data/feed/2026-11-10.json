@@ -1,7 +1,78 @@
 {
  "date": "2026-11-10",
- "count": 39,
+ "count": 46,
  "items": [
+  {
+   "id": "bossa-pap-440128",
+   "date": "2026-11-10",
+   "time": "08:58",
+   "ts": "2026-11-10T08:58:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Echo Investment chce wypłacić zaliczkę na poczet dywidendy za '26 w wys. 0,40 zł na akcję",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440128"
+  },
+  {
+   "id": "bossa-pap-440127",
+   "date": "2026-11-10",
+   "time": "08:56",
+   "ts": "2026-11-10T08:56:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "W Niemczech może zabraknąć gazu tej zimy",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440127"
+  },
+  {
+   "id": "bossa-espi-23760",
+   "date": "2026-11-10",
+   "time": "08:55",
+   "ts": "2026-11-10T08:55:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KERNEL HOLDING S.A.",
+   "title": "PROPOSED RESOLUTIONS – ANNUAL AND EXTRAORDINARY GENERAL MEETINGS OF SHAREHOLDERS TO BE HELD ON 10 DECEMBER 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23760"
+  },
+  {
+   "id": "strefa-5573d9ba5dfe",
+   "date": "2026-11-10",
+   "time": "08:54",
+   "ts": "2026-11-10T08:54:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Echo Investment chce wypłacić zaliczkę na poczet dywidendy za '26 w wys. 0,40 zł na akcję",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/echo-investment-chce-wyplacic-zaliczke-na-poczet-dywidendy-za-26-w-wys-040-zl"
+  },
+  {
+   "id": "bossa-pap-440125",
+   "date": "2026-11-10",
+   "time": "08:53",
+   "ts": "2026-11-10T08:53:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: Wtorkowa sesja może przynieść kontynuację poniedziałkowych wzrostów",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440125"
+  },
+  {
+   "id": "bossa-espi-23759",
+   "date": "2026-11-10",
+   "time": "08:51",
+   "ts": "2026-11-10T08:51:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KERNEL HOLDING S.A.",
+   "title": "NOTICE TO THE SHAREHOLDERS – ANNUAL AND EXTRAORDINARY GENERAL MEETINGS OF SHAREHOLDERS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23759"
+  },
   {
    "id": "bossa-pap-440123",
    "date": "2026-11-10",
@@ -49,6 +120,17 @@
    "title": "BIZTECH KONSULTING SA (11/2026) Raport kwartalny za III kwartał",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440120"
+  },
+  {
+   "id": "strefa-e9c069d74329",
+   "date": "2026-11-10",
+   "time": "08:25",
+   "ts": "2026-11-10T08:25:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: Wtorkowa sesja może przynieść kontynuację poniedziałkowych wzrostów",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/dzien-na-gpw-wtorkowa-sesja-moze-przyniesc-kontynuacje-poniedzialkowych"
   },
   {
    "id": "bossa-pap-440119",
