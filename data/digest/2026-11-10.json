@@ -2,9 +2,9 @@
  "date": "2026-11-10",
  "counts": {
   "podsumowania": 10,
-  "wyniki": 9,
+  "wyniki": 10,
   "rekomendacje": 0,
-  "korporacyjne": 13,
+  "korporacyjne": 14,
   "makro_pl": 6,
   "swiat_rynki": 4,
   "energetyka_surowce": 1,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 2,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 24
+  "pozostale": 27
  },
- "duplicatesRemoved": 33,
- "total": 104,
+ "duplicatesRemoved": 34,
+ "total": 110,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -114,6 +114,15 @@
   ],
   "wyniki": [
    {
+    "time": "11:27",
+    "kind": "pap",
+    "ticker": null,
+    "title": "YBS SA (27/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440166",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "10:52",
     "kind": "news",
     "ticker": null,
@@ -206,6 +215,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "11:32",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PGE POLSKA GRUPA ENERGETYCZNA S.A.: Informacja o transakcjach w trybie art. 19 Rozporządzenia MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23776",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
    {
     "time": "11:16",
     "kind": "espi",
@@ -493,6 +513,33 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:36",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MF: Posiedzenie Rady do Spraw Gospodarczych i Finansowych (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440171",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MF: Złóż wniosek o zwrot niewykorzystanych środków z konta e-TOLL do 21 marca 2027 r. (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440168",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:28",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Litwa zaostrzy kontrole zboża spożywczego z Rosji i Białorusi",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440167",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:20",
     "kind": "pap",

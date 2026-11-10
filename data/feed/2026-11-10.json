@@ -1,7 +1,79 @@
 {
  "date": "2026-11-10",
- "count": 104,
+ "count": 110,
  "items": [
+  {
+   "id": "bossa-pap-440171",
+   "date": "2026-11-10",
+   "time": "11:36",
+   "ts": "2026-11-10T11:36:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MF: Posiedzenie Rady do Spraw Gospodarczych i Finansowych (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440171"
+  },
+  {
+   "id": "bossa-espi-23777",
+   "date": "2026-11-10",
+   "time": "11:34",
+   "ts": "2026-11-10T11:34:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF BITCOIN PORTFELOWY FIZ",
+   "title": "ZFP-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23777"
+  },
+  {
+   "id": "bossa-pap-440168",
+   "date": "2026-11-10",
+   "time": "11:32",
+   "ts": "2026-11-10T11:32:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MF: Złóż wniosek o zwrot niewykorzystanych środków z konta e-TOLL do 21 marca 2027 r. (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440168"
+  },
+  {
+   "id": "bossa-espi-23776",
+   "date": "2026-11-10",
+   "time": "11:32",
+   "ts": "2026-11-10T11:32:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PGE POLSKA GRUPA ENERGETYCZNA S.A.",
+   "title": "Informacja o transakcjach w trybie art. 19 Rozporządzenia MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23776"
+  },
+  {
+   "id": "bossa-pap-440167",
+   "date": "2026-11-10",
+   "time": "11:28",
+   "ts": "2026-11-10T11:28:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Litwa zaostrzy kontrole zboża spożywczego z Rosji i Białorusi",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440167"
+  },
+  {
+   "id": "bossa-pap-440166",
+   "date": "2026-11-10",
+   "time": "11:27",
+   "ts": "2026-11-10T11:27:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "YBS SA (27/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440166"
+  },
   {
    "id": "bossa-pap-440165",
    "date": "2026-11-10",
