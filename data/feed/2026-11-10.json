@@ -1,7 +1,66 @@
 {
  "date": "2026-11-10",
- "count": 81,
+ "count": 86,
  "items": [
+  {
+   "id": "bossa-pap-440152",
+   "date": "2026-11-10",
+   "time": "10:34",
+   "ts": "2026-11-10T10:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne - SONIA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440152"
+  },
+  {
+   "id": "bossa-pap-440151",
+   "date": "2026-11-10",
+   "time": "10:33",
+   "ts": "2026-11-10T10:33:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MF: Wyniki sprzedaży obligacji oszczędnościowych w październiku 2026 roku (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440151"
+  },
+  {
+   "id": "bossa-pap-440150",
+   "date": "2026-11-10",
+   "time": "10:27",
+   "ts": "2026-11-10T10:27:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Projekt ustawy o maksymalnej cenie gazu może trafić do parlamentu jeszcze w XI - Motyka",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440150"
+  },
+  {
+   "id": "bossa-pap-440149",
+   "date": "2026-11-10",
+   "time": "10:24",
+   "ts": "2026-11-10T10:24:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "RCB: Rosyjski atak powietrzny na Ukrainie (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440149"
+  },
+  {
+   "id": "strefa-50788d042697",
+   "date": "2026-11-10",
+   "time": "10:22",
+   "ts": "2026-11-10T10:22:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Elemental czeka z wyborem partnera do projektu Polvolt; realizację projektu chce rozpocząć w '27 (wywiad)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/elemental-czeka-z-wyborem-partnera-do-projektu-polvolt-realizacje-projektu-0"
+  },
   {
    "id": "strefa-2282ea6a7e21",
    "date": "2026-11-10",

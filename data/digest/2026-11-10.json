@@ -2,20 +2,20 @@
  "date": "2026-11-10",
  "counts": {
   "podsumowania": 9,
-  "wyniki": 6,
+  "wyniki": 7,
   "rekomendacje": 0,
   "korporacyjne": 9,
-  "makro_pl": 5,
+  "makro_pl": 6,
   "swiat_rynki": 4,
   "energetyka_surowce": 1,
   "nieruchomosci": 1,
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 16
+  "pozostale": 18
  },
- "duplicatesRemoved": 29,
- "total": 81,
+ "duplicatesRemoved": 30,
+ "total": 86,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -104,6 +104,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "10:33",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MF: Wyniki sprzedaży obligacji oszczędnościowych w październiku 2026 roku (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440151",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "10:12",
     "kind": "news",
@@ -265,6 +276,15 @@
   ],
   "makro_pl": [
    {
+    "time": "10:27",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Projekt ustawy o maksymalnej cenie gazu może trafić do parlamentu jeszcze w XI - Motyka",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440150",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "10:21",
     "kind": "news",
     "ticker": null,
@@ -384,6 +404,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "10:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźniki referencyjne - SONIA",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440152",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:24",
+    "kind": "pap",
+    "ticker": null,
+    "title": "RCB: Rosyjski atak powietrzny na Ukrainie (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440149",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:07",
     "kind": "news",
