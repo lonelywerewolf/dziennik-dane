@@ -4,18 +4,18 @@
   "podsumowania": 11,
   "wyniki": 13,
   "rekomendacje": 0,
-  "korporacyjne": 31,
+  "korporacyjne": 32,
   "makro_pl": 16,
-  "swiat_rynki": 8,
+  "swiat_rynki": 9,
   "energetyka_surowce": 2,
   "nieruchomosci": 2,
   "fundusze_drobne": 6,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 41
+  "pozostale": 42
  },
- "duplicatesRemoved": 90,
- "total": 221,
+ "duplicatesRemoved": 92,
+ "total": 226,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -253,6 +253,15 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "14:54",
+    "kind": "news",
+    "ticker": null,
+    "title": "BGK zaoferuje na przetargu 13 listopada cztery serie obligacji FPC za minimalnie 500 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/bgk-zaoferuje-na-przetargu-13-listopada-cztery-serie-obligacji-fpc-za",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "14:54",
     "kind": "espi",
@@ -718,6 +727,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "15:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MRiRW: Susze i zmiany klimatu coraz mocniej wpływają na rolnictwo. 2,8 mld zł na inwestycje w ochronę środowiska i klimatu (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440270",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "14:10",
     "kind": "pap",
     "ticker": null,
@@ -901,6 +919,17 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "15:03",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BIZTECH KONSULTING SA (12/2026) Korekta raportu okresowego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440271",
+    "src": "bossa",
+    "flags": [
+     "prognoza"
+    ]
+   },
    {
     "time": "14:15",
     "kind": "news",

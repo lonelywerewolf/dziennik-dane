@@ -1,7 +1,66 @@
 {
  "date": "2026-11-10",
- "count": 221,
+ "count": 226,
  "items": [
+  {
+   "id": "bossa-pap-440272",
+   "date": "2026-11-10",
+   "time": "15:06",
+   "ts": "2026-11-10T15:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "VIENNA OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440272"
+  },
+  {
+   "id": "bossa-pap-440271",
+   "date": "2026-11-10",
+   "time": "15:03",
+   "ts": "2026-11-10T15:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "BIZTECH KONSULTING SA (12/2026) Korekta raportu okresowego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440271"
+  },
+  {
+   "id": "bossa-pap-440270",
+   "date": "2026-11-10",
+   "time": "15:00",
+   "ts": "2026-11-10T15:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MRiRW: Susze i zmiany klimatu coraz mocniej wpływają na rolnictwo. 2,8 mld zł na inwestycje w ochronę środowiska i klimatu (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440270"
+  },
+  {
+   "id": "bossa-pap-440269",
+   "date": "2026-11-10",
+   "time": "15:00",
+   "ts": "2026-11-10T15:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "BGK zaoferuje na przetargu 13 listopada cztery serie obligacji FPC za minimalnie 500 mln zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440269"
+  },
+  {
+   "id": "strefa-ad1a1d6df2d2",
+   "date": "2026-11-10",
+   "time": "14:54",
+   "ts": "2026-11-10T14:54:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "BGK zaoferuje na przetargu 13 listopada cztery serie obligacji FPC za minimalnie 500 mln zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/bgk-zaoferuje-na-przetargu-13-listopada-cztery-serie-obligacji-fpc-za"
+  },
   {
    "id": "bossa-espi-23847",
    "date": "2026-11-10",
