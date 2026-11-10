@@ -1,7 +1,159 @@
 {
  "date": "2026-11-10",
- "count": 277,
+ "count": 291,
  "items": [
+  {
+   "id": "strefa-fa709d959da1",
+   "date": "2026-11-10",
+   "time": "17:30",
+   "ts": "2026-11-10T17:30:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A23 wyemitowanymi przez MIASTO ZAMOŚĆ",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/gpw-w-sprawie-zawieszenia-obrotu-gieldowego-na-catalyst-obligacjami-na-2"
+  },
+  {
+   "id": "bossa-pap-440321",
+   "date": "2026-11-10",
+   "time": "17:30",
+   "ts": "2026-11-10T17:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A23 wyemitowanymi przez MIASTO ZAMOŚĆ",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440321"
+  },
+  {
+   "id": "bossa-pap-440320",
+   "date": "2026-11-10",
+   "time": "17:30",
+   "ts": "2026-11-10T17:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KPRM: Komunikat po posiedzeniu Rady Ministrów (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440320"
+  },
+  {
+   "id": "bossa-espi-25028",
+   "date": "2026-11-10",
+   "time": "17:30",
+   "ts": "2026-11-10T17:30:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BOŚ SA",
+   "title": "Zmiana terminu publikacji raportu okresowego za 3Q 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-25028"
+  },
+  {
+   "id": "strefa-41121bc7cc3f",
+   "date": "2026-11-10",
+   "time": "17:29",
+   "ts": "2026-11-10T17:29:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A19 wyemitowanymi przez MIASTO USTKA",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/gpw-w-sprawie-zawieszenia-obrotu-gieldowego-na-catalyst-obligacjami-na-1"
+  },
+  {
+   "id": "bossa-pap-440319",
+   "date": "2026-11-10",
+   "time": "17:29",
+   "ts": "2026-11-10T17:29:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A19 wyemitowanymi przez MIASTO USTKA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440319"
+  },
+  {
+   "id": "bossa-pap-440318",
+   "date": "2026-11-10",
+   "time": "17:28",
+   "ts": "2026-11-10T17:28:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A21 wyemitowanymi przez GMINĘ MOSINA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440318"
+  },
+  {
+   "id": "strefa-1cb871856eca",
+   "date": "2026-11-10",
+   "time": "17:27",
+   "ts": "2026-11-10T17:27:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A21 wyemitowanymi przez GMINĘ MOSINA",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/gpw-w-sprawie-zawieszenia-obrotu-gieldowego-na-catalyst-obligacjami-na-0"
+  },
+  {
+   "id": "bossa-pap-440317",
+   "date": "2026-11-10",
+   "time": "17:26",
+   "ts": "2026-11-10T17:26:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A24 wyemitowanymi przez GMINĘ MIASTO SOPOT",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440317"
+  },
+  {
+   "id": "strefa-49aedef9f95e",
+   "date": "2026-11-10",
+   "time": "17:25",
+   "ts": "2026-11-10T17:25:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A24 wyemitowanymi przez GMINĘ MIASTO SOPOT",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/gpw-w-sprawie-zawieszenia-obrotu-gieldowego-na-catalyst-obligacjami-na"
+  },
+  {
+   "id": "bossa-espi-24020",
+   "date": "2026-11-10",
+   "time": "17:25",
+   "ts": "2026-11-10T17:25:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "IDM SA",
+   "title": "Informacja o zdarzeniu mającym wpływ na sytuację finansową IDMSA. Istotna wartość wynagrodzenia należnego Spółce.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-24020"
+  },
+  {
+   "id": "bossa-pap-440315",
+   "date": "2026-11-10",
+   "time": "17:24",
+   "ts": "2026-11-10T17:24:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie dopuszczenia i wprowadzenia do obrotu giełdowego na Głównym Rynku GPW akcji zwykłych na okaziciela serii L oraz P spółki MEDICALGORITHMICS S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440315"
+  },
+  {
+   "id": "bossa-pap-440314",
+   "date": "2026-11-10",
+   "time": "17:21",
+   "ts": "2026-11-10T17:21:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "CPI w USA w październiku: +0,4 proc. mdm. Konsensus: +0,3 proc. Poprzednio +0,6 proc. (opis)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440314"
+  },
   {
    "id": "bossa-espi-23870",
    "date": "2026-11-10",
@@ -37,6 +189,17 @@
    "title": "Q",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23869"
+  },
+  {
+   "id": "strefa-8180b60f864c",
+   "date": "2026-11-10",
+   "time": "17:13",
+   "ts": "2026-11-10T17:13:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie dopuszczenia i wprowadzenia do obrotu giełdowego na Głównym Rynku GPW akcji zwykłych na okaziciela serii L oraz P spółki MEDICALGORITHMICS S.A.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/gpw-w-sprawie-dopuszczenia-i-wprowadzenia-do-obrotu-gieldowego-na-glownym-rynku"
   },
   {
    "id": "bossa-espi-23868",

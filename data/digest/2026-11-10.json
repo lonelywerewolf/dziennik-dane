@@ -4,18 +4,18 @@
   "podsumowania": 14,
   "wyniki": 16,
   "rekomendacje": 0,
-  "korporacyjne": 40,
-  "makro_pl": 19,
-  "swiat_rynki": 14,
+  "korporacyjne": 41,
+  "makro_pl": 20,
+  "swiat_rynki": 15,
   "energetyka_surowce": 2,
   "nieruchomosci": 2,
   "fundusze_drobne": 9,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 55
+  "pozostale": 57
  },
- "duplicatesRemoved": 105,
- "total": 277,
+ "duplicatesRemoved": 114,
+ "total": 291,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -307,6 +307,15 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "17:25",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A24 wyemitowanymi przez GMINĘ MIASTO SOPOT",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/gpw-w-sprawie-zawieszenia-obrotu-gieldowego-na-catalyst-obligacjami-na",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:13",
     "kind": "espi",
@@ -723,6 +732,15 @@
   ],
   "makro_pl": [
    {
+    "time": "17:25",
+    "kind": "espi",
+    "ticker": null,
+    "title": "IDM SA: Informacja o zdarzeniu mającym wpływ na sytuację finansową IDMSA. Istotna wartość wynagrodzenia należnego Spółce.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-24020",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "16:24",
     "kind": "pap",
     "ticker": null,
@@ -895,6 +913,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "17:13",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: w sprawie dopuszczenia i wprowadzenia do obrotu giełdowego na Głównym Rynku GPW akcji zwykłych na okaziciela serii L oraz P spółki MEDICALGORITHMICS S.A.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/gpw-w-sprawie-dopuszczenia-i-wprowadzenia-do-obrotu-gieldowego-na-glownym-rynku",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "16:52",
     "kind": "espi",
@@ -1160,6 +1187,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KPRM: Komunikat po posiedzeniu Rady Ministrów (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440320",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:30",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BOŚ SA: Zmiana terminu publikacji raportu okresowego za 3Q 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-25028",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:17",
     "kind": "espi",
