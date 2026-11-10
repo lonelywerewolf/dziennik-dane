@@ -1,7 +1,55 @@
 {
  "date": "2026-11-10",
- "count": 140,
+ "count": 145,
  "items": [
+  {
+   "id": "bossa-pap-440202",
+   "date": "2026-11-10",
+   "time": "12:50",
+   "ts": "2026-11-10T12:50:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PKO BP BANKOWY OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440202"
+  },
+  {
+   "id": "bossa-espi-23798",
+   "date": "2026-11-10",
+   "time": "12:48",
+   "ts": "2026-11-10T12:48:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF DYWIDENDA PLUS PORTFELOW FIZ",
+   "title": "Raport bieżący nr 232 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23798"
+  },
+  {
+   "id": "bossa-espi-23797",
+   "date": "2026-11-10",
+   "time": "12:39",
+   "ts": "2026-11-10T12:39:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "IMS S.A.",
+   "title": "Zawarcie umów nabycia udziałów Closer Music Sp. z o.o. od JRH i EKIPA w ramach realizacji prawa konwersji",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23797"
+  },
+  {
+   "id": "bossa-pap-440199",
+   "date": "2026-11-10",
+   "time": "12:38",
+   "ts": "2026-11-10T12:38:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "BNP Paribas BP chce przeprowadzić zwolnienia grupowe w latach 2027-29, które obejmą do 400 osób",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440199"
+  },
   {
    "id": "bossa-espi-23796",
    "date": "2026-11-10",
@@ -145,6 +193,17 @@
    "title": "Zwołanie Nadzwyczajnego Walnego Zgromadzenia BIOTON S.A.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23787"
+  },
+  {
+   "id": "strefa-492e8b831971",
+   "date": "2026-11-10",
+   "time": "12:22",
+   "ts": "2026-11-10T12:22:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "BNP Paribas BP chce przeprowadzić zwolnienia grupowe w latach 2027-29, które obejmą do 400 osób",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/bnp-paribas-bp-chce-przeprowadzic-zwolnienia-grupowe-w-latach-2027-29-ktore"
   },
   {
    "id": "bossa-pap-440186",
