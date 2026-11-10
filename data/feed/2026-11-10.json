@@ -1,7 +1,91 @@
 {
  "date": "2026-11-10",
- "count": 149,
+ "count": 157,
  "items": [
+  {
+   "id": "bossa-pap-440213",
+   "date": "2026-11-10",
+   "time": "13:15",
+   "ts": "2026-11-10T13:15:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Rząd przyjmie rozporządzenie ws. dodatkowych 6 mld zł m.in. dla Policji dzięki SAFE - premier",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440213"
+  },
+  {
+   "id": "bossa-pap-440212",
+   "date": "2026-11-10",
+   "time": "13:13",
+   "ts": "2026-11-10T13:13:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "W USA indeks optymizmu małych firm w X: 97,8 pkt. Konsensus: 98,2 pkt. Poprzednio: 97,9 pkt.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440212"
+  },
+  {
+   "id": "bossa-espi-23804",
+   "date": "2026-11-10",
+   "time": "13:13",
+   "ts": "2026-11-10T13:13:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF DYWIDENDA PLUS PORTFELOW FIZ",
+   "title": "ZFP-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23804"
+  },
+  {
+   "id": "bossa-espi-23803",
+   "date": "2026-11-10",
+   "time": "13:11",
+   "ts": "2026-11-10T13:11:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "FASING",
+   "title": "Rezygnacja Członka Rady Nadzorczej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23803"
+  },
+  {
+   "id": "bossa-pap-440209",
+   "date": "2026-11-10",
+   "time": "13:07",
+   "ts": "2026-11-10T13:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Anthropic chce uzyskać 64,4 mld USD podczas IPO",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440209"
+  },
+  {
+   "id": "bossa-espi-23802",
+   "date": "2026-11-10",
+   "time": "13:06",
+   "ts": "2026-11-10T13:06:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "FASING",
+   "title": "Podjęte uchwały na Nadzwyczajnym Walnym Zgromadzeniu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23802"
+  },
+  {
+   "id": "bossa-espi-23801",
+   "date": "2026-11-10",
+   "time": "13:05",
+   "ts": "2026-11-10T13:05:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF WIG20short PORTFELOWY FIZ",
+   "title": "ZFP-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23801"
+  },
   {
    "id": "bossa-espi-23800",
    "date": "2026-11-10",
@@ -73,6 +157,17 @@
    "title": "Raport bieżący nr 232 / 2026",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23798"
+  },
+  {
+   "id": "strefa-3e7b719e8d81",
+   "date": "2026-11-10",
+   "time": "12:39",
+   "ts": "2026-11-10T12:39:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Rząd przyjmie rozporządzenie ws. dodatkowych 6 mld zł m.in. dla Policji dzięki SAFE - premier",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/rzad-przyjmie-rozporzadzenie-ws-dodatkowych-6-mld-zl-min-dla-policji-dzieki"
   },
   {
    "id": "bossa-espi-23797",
