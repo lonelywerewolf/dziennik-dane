@@ -1,7 +1,19 @@
 {
  "date": "2026-11-10",
- "count": 4,
+ "count": 5,
  "items": [
+  {
+   "id": "bossa-pap-440099",
+   "date": "2026-11-10",
+   "time": "06:10",
+   "ts": "2026-11-10T06:10:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Przegląd prasy gospodarczej we wtorek, 10 listopada",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440099"
+  },
   {
    "id": "bossa-pap-440098",
    "date": "2026-11-10",

@@ -1,7 +1,7 @@
 {
  "date": "2026-11-10",
  "counts": {
-  "podsumowania": 3,
+  "podsumowania": 4,
   "wyniki": 0,
   "rekomendacje": 0,
   "korporacyjne": 0,
@@ -15,10 +15,19 @@
   "pozostale": 1
  },
  "duplicatesRemoved": 0,
- "total": 4,
+ "total": 5,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "06:10",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Przegląd prasy gospodarczej we wtorek, 10 listopada",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440099",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "06:00",
     "kind": "pap",
