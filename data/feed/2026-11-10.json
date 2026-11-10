@@ -1,7 +1,19 @@
 {
  "date": "2026-11-10",
- "count": 232,
+ "count": 233,
  "items": [
+  {
+   "id": "bossa-pap-440277",
+   "date": "2026-11-10",
+   "time": "15:20",
+   "ts": "2026-11-10T15:20:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MFiPR: Nowe pociągi na Śląsku (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440277"
+  },
   {
    "id": "bossa-pap-440276",
    "date": "2026-11-10",

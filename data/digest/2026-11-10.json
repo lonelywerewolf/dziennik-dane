@@ -12,10 +12,10 @@
   "fundusze_drobne": 6,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 44
+  "pozostale": 45
  },
  "duplicatesRemoved": 94,
- "total": 232,
+ "total": 233,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -937,6 +937,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "15:20",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MFiPR: Nowe pociągi na Śląsku (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440277",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:10",
     "kind": "news",
