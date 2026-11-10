@@ -12,10 +12,10 @@
   "fundusze_drobne": 12,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 63
+  "pozostale": 64
  },
  "duplicatesRemoved": 124,
- "total": 337,
+ "total": 338,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1495,6 +1495,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "20:15",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GRUPA AZOTY SA: Podpisanie listu intencyjnego ze spółką zależną dotyczącego jej dokapitalizowania.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-38144",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "19:25",
     "kind": "pap",
