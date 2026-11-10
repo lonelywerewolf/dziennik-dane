@@ -1,7 +1,30 @@
 {
  "date": "2026-11-10",
- "count": 11,
+ "count": 13,
  "items": [
+  {
+   "id": "bossa-pap-440105",
+   "date": "2026-11-10",
+   "time": "06:55",
+   "ts": "2026-11-10T06:55:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ożywienie na europejskim rynku nieruchomości będzie nierównomierne i potrwa dłużej - raport",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440105"
+  },
+  {
+   "id": "strefa-d5bdf9cfe865",
+   "date": "2026-11-10",
+   "time": "06:41",
+   "ts": "2026-11-10T06:41:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ożywienie na europejskim rynku nieruchomości będzie nierównomierne i potrwa dłużej - raport",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/ozywienie-na-europejskim-rynku-nieruchomosci-bedzie-nierownomierne-i-potrwa"
+  },
   {
    "id": "strefa-019c06d9aef0",
    "date": "2026-11-10",

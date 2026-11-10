@@ -8,14 +8,14 @@
   "makro_pl": 1,
   "swiat_rynki": 0,
   "energetyka_surowce": 1,
-  "nieruchomosci": 0,
+  "nieruchomosci": 1,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
   "pozostale": 4
  },
- "duplicatesRemoved": 1,
- "total": 11,
+ "duplicatesRemoved": 2,
+ "total": 13,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -82,7 +82,17 @@
     "flags": []
    }
   ],
-  "nieruchomosci": [],
+  "nieruchomosci": [
+   {
+    "time": "06:41",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ożywienie na europejskim rynku nieruchomości będzie nierównomierne i potrwa dłużej - raport",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/ozywienie-na-europejskim-rynku-nieruchomosci-bedzie-nierownomierne-i-potrwa",
+    "src": "strefainwestorow",
+    "flags": []
+   }
+  ],
   "fundusze_drobne": [],
   "twoje_spolki": [],
   "obserwowane": [],
