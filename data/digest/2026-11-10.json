@@ -12,10 +12,10 @@
   "fundusze_drobne": 12,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 64
+  "pozostale": 67
  },
  "duplicatesRemoved": 124,
- "total": 338,
+ "total": 341,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1495,6 +1495,33 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "20:27",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MEDICOFARMA BIOTECH SA (13/2026) Zmiana harmonogramu publikacji raportów okresowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440365",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "20:20",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BTCS S.A.: Ujawnienie alternatywnej spółki inwestycyjnej w rejestrze Komisji Nadzoru Finansowego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-38853",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "20:17",
+    "kind": "espi",
+    "ticker": null,
+    "title": "POLICE: Podpisanie listu intencyjnego z jednostką dominującą dotyczącego dokapitalizowania Grupy Azoty Zakłady Chemiczne „Police” S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-38555",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "20:15",
     "kind": "espi",
