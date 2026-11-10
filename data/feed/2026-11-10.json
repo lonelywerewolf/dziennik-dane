@@ -1,7 +1,79 @@
 {
  "date": "2026-11-10",
- "count": 178,
+ "count": 185,
  "items": [
+  {
+   "id": "bossa-pap-440236",
+   "date": "2026-11-10",
+   "time": "13:59",
+   "ts": "2026-11-10T13:59:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KOMBINAT KONOPNY SA (15/2026) Rejestracja przez sąd zmiany statutu emitenta lub odmowie takiej rejestracji, z podaniem przyczyn odmowy",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440236"
+  },
+  {
+   "id": "bossa-espi-23824",
+   "date": "2026-11-10",
+   "time": "13:56",
+   "ts": "2026-11-10T13:56:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF WIG20 TR + mWIG40 TR PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23824"
+  },
+  {
+   "id": "bossa-espi-23823",
+   "date": "2026-11-10",
+   "time": "13:56",
+   "ts": "2026-11-10T13:56:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "IPOPEMA BENEFIT 3 FIZ AN",
+   "title": "RB_FI_E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23823"
+  },
+  {
+   "id": "bossa-espi-23822",
+   "date": "2026-11-10",
+   "time": "13:54",
+   "ts": "2026-11-10T13:54:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF MSCI WORLD PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23822"
+  },
+  {
+   "id": "bossa-pap-440232",
+   "date": "2026-11-10",
+   "time": "13:53",
+   "ts": "2026-11-10T13:53:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ten Square Games ma kilka gier na etapie testów rynkowych lub chwilę przed nimi",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440232"
+  },
+  {
+   "id": "bossa-espi-23821",
+   "date": "2026-11-10",
+   "time": "13:51",
+   "ts": "2026-11-10T13:51:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF GOLD PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23821"
+  },
   {
    "id": "bossa-pap-440229",
    "date": "2026-11-10",
@@ -37,6 +109,17 @@
    "title": "Raport bieżący nr 228 / 2026",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23818"
+  },
+  {
+   "id": "strefa-24fb54a7a0b9",
+   "date": "2026-11-10",
+   "time": "13:43",
+   "ts": "2026-11-10T13:43:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Trans Polonia osiągnęła wyłączność negocjacyjną w transakcji przejęcia wiodącego Europejskiego podmiotu działającego na rynku transportu płynnych surowców w Europie Zachodniej.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/trans-polonia-osiagnela-wylacznosc-negocjacyjna-w-transakcji-przejecia"
   },
   {
    "id": "bossa-espi-23817",
