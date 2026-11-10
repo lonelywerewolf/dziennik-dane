@@ -12,10 +12,10 @@
   "fundusze_drobne": 12,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 69
+  "pozostale": 70
  },
- "duplicatesRemoved": 130,
- "total": 354,
+ "duplicatesRemoved": 131,
+ "total": 356,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1546,6 +1546,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "22:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "ZCh Police podpisały list intencyjny z Grupą Azoty dot. dokapitalizowania spółki",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/zch-police-podpisaly-list-intencyjny-z-grupa-azoty-dot-dokapitalizowania-spolki",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "22:06",
     "kind": "espi",

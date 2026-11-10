@@ -1,7 +1,19 @@
 {
  "date": "2026-11-10",
- "count": 354,
+ "count": 356,
  "items": [
+  {
+   "id": "bossa-pap-440376",
+   "date": "2026-11-10",
+   "time": "23:31",
+   "ts": "2026-11-10T23:31:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "ZCh Police podpisały list intencyjny z Grupą Azoty dot. dokapitalizowania spółki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440376"
+  },
   {
    "id": "bossa-pap-440375",
    "date": "2026-11-10",
@@ -13,6 +25,17 @@
    "title": "BRAS SA (10/2026) Skonsolidowany raport kwartalny za III kwartał",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440375"
+  },
+  {
+   "id": "strefa-78915c6634ad",
+   "date": "2026-11-10",
+   "time": "22:20",
+   "ts": "2026-11-10T22:20:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "ZCh Police podpisały list intencyjny z Grupą Azoty dot. dokapitalizowania spółki",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/zch-police-podpisaly-list-intencyjny-z-grupa-azoty-dot-dokapitalizowania-spolki"
   },
   {
    "id": "bossa-pap-440374",
