@@ -1,7 +1,52 @@
 {
  "date": "2026-11-10",
- "count": 13,
+ "count": 17,
  "items": [
+  {
+   "id": "bossa-espi-23747",
+   "date": "2026-11-10",
+   "time": "07:09",
+   "ts": "2026-11-10T07:09:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "DECORA",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23747"
+  },
+  {
+   "id": "strefa-9c11fad8c80e",
+   "date": "2026-11-10",
+   "time": "07:01",
+   "ts": "2026-11-10T07:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Kalendarium rynku kapitałowego GPW 2026-11-10",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/kalendarium-rynku-kapitalowego-gpw-2026-11-10"
+  },
+  {
+   "id": "strefa-8e5319b7aece",
+   "date": "2026-11-10",
+   "time": "07:01",
+   "ts": "2026-11-10T07:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-10",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-10"
+  },
+  {
+   "id": "strefa-11858392dcef",
+   "date": "2026-11-10",
+   "time": "06:57",
+   "ts": "2026-11-10T06:57:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Kalendarium rynku NewConnect 2026-11-10",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/kalendarium-rynku-newconnect-2026-11-10"
+  },
   {
    "id": "bossa-pap-440105",
    "date": "2026-11-10",

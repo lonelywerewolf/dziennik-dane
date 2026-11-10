@@ -12,37 +12,37 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 4
+  "pozostale": 5
  },
- "duplicatesRemoved": 2,
- "total": 13,
+ "duplicatesRemoved": 5,
+ "total": 17,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kalendarium rynku kapitałowego GPW 2026-11-10",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/kalendarium-rynku-kapitalowego-gpw-2026-11-10",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "06:57",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kalendarium rynku NewConnect 2026-11-10",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/kalendarium-rynku-newconnect-2026-11-10",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "06:10",
     "kind": "pap",
     "ticker": null,
     "title": "Przegląd prasy gospodarczej we wtorek, 10 listopada",
     "url": "https://bossa.pl/analizy/komunikaty#message-440099",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "06:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Kalendarium rynku kapitałowego GPW 2026-11-10",
-    "url": "https://bossa.pl/analizy/komunikaty#message-440098",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "06:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Kalendarium rynku NewConnect 2026-11-10",
-    "url": "https://bossa.pl/analizy/komunikaty#message-440097",
     "src": "bossa",
     "flags": []
    },
@@ -98,6 +98,24 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "07:09",
+    "kind": "espi",
+    "ticker": null,
+    "title": "DECORA: QSr",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23747",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-10",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-10",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "06:41",
     "kind": "pap",
     "ticker": null,
@@ -121,15 +139,6 @@
     "ticker": null,
     "title": "Elemental czeka z wyborem partnera do projektu Polvolt; realizację projektu chce rozpocząć w '27 (wywiad)",
     "url": "https://bossa.pl/analizy/komunikaty#message-440100",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "06:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-10",
-    "url": "https://bossa.pl/analizy/komunikaty#message-440095",
     "src": "bossa",
     "flags": []
    }
