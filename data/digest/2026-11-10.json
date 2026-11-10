@@ -2,10 +2,10 @@
  "date": "2026-11-10",
  "counts": {
   "podsumowania": 10,
-  "wyniki": 11,
+  "wyniki": 12,
   "rekomendacje": 0,
   "korporacyjne": 28,
-  "makro_pl": 13,
+  "makro_pl": 15,
   "swiat_rynki": 8,
   "energetyka_surowce": 2,
   "nieruchomosci": 2,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 40
  },
- "duplicatesRemoved": 78,
- "total": 199,
+ "duplicatesRemoved": 85,
+ "total": 209,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -113,6 +113,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "14:16",
+    "kind": "espi",
+    "ticker": null,
+    "title": "LENTEX: Szacunkowe wyniki Grupy Kapitałowej Lentex za III kwartały 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23838",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "11:54",
     "kind": "pap",
@@ -510,6 +521,24 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "14:16",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Źródłem niepewności dla inflacji w '27 pozostają m.in. decyzje taryfowe i działania ochronne - PKO BP (opinia)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440254",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:11",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Rząd przyjął projekt usprawniający przygotowanie budowy pierwszej elektrowni jądrowej - rzecznik",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440250",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:04",
     "kind": "espi",

@@ -1,7 +1,115 @@
 {
  "date": "2026-11-10",
- "count": 199,
+ "count": 209,
  "items": [
+  {
+   "id": "bossa-espi-23841",
+   "date": "2026-11-10",
+   "time": "14:19",
+   "ts": "2026-11-10T14:19:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF MWIG40TRsh PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 214 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23841"
+  },
+  {
+   "id": "bossa-espi-23840",
+   "date": "2026-11-10",
+   "time": "14:18",
+   "ts": "2026-11-10T14:18:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "IPOPEMA BENEFIT 3 FIZ AN",
+   "title": "RB_FI_E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23840"
+  },
+  {
+   "id": "bossa-pap-440255",
+   "date": "2026-11-10",
+   "time": "14:16",
+   "ts": "2026-11-10T14:16:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "CCS SA (9/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440255"
+  },
+  {
+   "id": "bossa-pap-440254",
+   "date": "2026-11-10",
+   "time": "14:16",
+   "ts": "2026-11-10T14:16:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Źródłem niepewności dla inflacji w '27 pozostają m.in. decyzje taryfowe i działania ochronne - PKO BP (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440254"
+  },
+  {
+   "id": "bossa-espi-23838",
+   "date": "2026-11-10",
+   "time": "14:16",
+   "ts": "2026-11-10T14:16:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "LENTEX",
+   "title": "Szacunkowe wyniki Grupy Kapitałowej Lentex za III kwartały 2026 roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23838"
+  },
+  {
+   "id": "bossa-pap-440252",
+   "date": "2026-11-10",
+   "time": "14:14",
+   "ts": "2026-11-10T14:14:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Trans Polonia ma wyłączność na negocjacje nabycia podmiotu z branży transportowo-logistycznej (opis)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440252"
+  },
+  {
+   "id": "bossa-espi-23837",
+   "date": "2026-11-10",
+   "time": "14:14",
+   "ts": "2026-11-10T14:14:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF mWIG40TR PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 228 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23837"
+  },
+  {
+   "id": "bossa-espi-23836",
+   "date": "2026-11-10",
+   "time": "14:12",
+   "ts": "2026-11-10T14:12:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF OBLIGACJI 6M PORTFELOWY FIZ",
+   "title": "ZFP-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23836"
+  },
+  {
+   "id": "bossa-pap-440250",
+   "date": "2026-11-10",
+   "time": "14:11",
+   "ts": "2026-11-10T14:11:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Rząd przyjął projekt usprawniający przygotowanie budowy pierwszej elektrowni jądrowej - rzecznik",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440250"
+  },
   {
    "id": "bossa-pap-440247",
    "date": "2026-11-10",
@@ -193,6 +301,17 @@
    "title": "RB_FI_E_30.04.18",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23823"
+  },
+  {
+   "id": "strefa-b05826cd3d5a",
+   "date": "2026-11-10",
+   "time": "13:54",
+   "ts": "2026-11-10T13:54:46+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Trans Polonia ma wyłączność na negocjacje nabycia podmiotu z branży transportowo-logistycznej (opis)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/trans-polonia-ma-wylacznosc-na-negocjacje-nabycia-podmiotu-z-branzy-0"
   },
   {
    "id": "bossa-espi-23822",
