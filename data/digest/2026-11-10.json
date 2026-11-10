@@ -4,18 +4,18 @@
   "podsumowania": 10,
   "wyniki": 11,
   "rekomendacje": 0,
-  "korporacyjne": 25,
+  "korporacyjne": 26,
   "makro_pl": 11,
   "swiat_rynki": 7,
-  "energetyka_surowce": 1,
+  "energetyka_surowce": 2,
   "nieruchomosci": 2,
   "fundusze_drobne": 5,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 36
+  "pozostale": 37
  },
- "duplicatesRemoved": 60,
- "total": 169,
+ "duplicatesRemoved": 66,
+ "total": 178,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -224,6 +224,15 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "13:41",
+    "kind": "news",
+    "ticker": null,
+    "title": "Trans Polonia ma wyłączność na negocjacje nabycia podmiotu z branży transportowo-logistycznej",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/trans-polonia-ma-wylacznosc-na-negocjacje-nabycia-podmiotu-z-branzy",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "13:31",
     "kind": "espi",
@@ -648,6 +657,17 @@
   ],
   "energetyka_surowce": [
    {
+    "time": "13:42",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ENEA: Rezygnacja Członka Rady Nadzorczej Enea S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23816",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
     "time": "10:07",
     "kind": "news",
     "ticker": null,
@@ -738,6 +758,24 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "13:46",
+    "kind": "pap",
+    "ticker": null,
+    "title": "FASING SA (2/2026) Informacja o stanie stosowania Dobrych Praktyk 2021",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440229",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:34",
+    "kind": "news",
+    "ticker": null,
+    "title": "Unibep liczy na wyższy backlog w '27, ale najważniejsza pozostaje rentowność (wywiad)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/unibep-liczy-na-wyzszy-backlog-w-27-ale-najwazniejsza-pozostaje-rentownosc",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "13:30",
     "kind": "espi",
     "ticker": null,
@@ -806,15 +844,6 @@
     "ticker": null,
     "title": "83 proc. firm zamierza zwiększyć inwestycje w zrównoważony rozwój w ciągu 12-18 mies. - raport",
     "url": "https://bossa.pl/analizy/komunikaty#message-440177",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "11:41",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Unibep liczy na wyższy backlog w '27, ale najważniejsza pozostaje rentowność (wywiad)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-440173",
     "src": "bossa",
     "flags": []
    },
