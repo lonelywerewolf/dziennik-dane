@@ -1,7 +1,67 @@
 {
  "date": "2026-11-10",
- "count": 324,
+ "count": 329,
  "items": [
+  {
+   "id": "bossa-espi-26521",
+   "date": "2026-11-10",
+   "time": "18:47",
+   "ts": "2026-11-10T18:47:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ZE PAK S.A.",
+   "title": "Stanowisko Zarządu ZE PAK S.A. dotyczące wezwania do zapisywania się na sprzedaż akcji ZE PAK S.A., ogłoszonego w dniu 28 października 2026 roku przez Argumenol Investment Company Limited",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-26521"
+  },
+  {
+   "id": "bossa-pap-440352",
+   "date": "2026-11-10",
+   "time": "18:45",
+   "ts": "2026-11-10T18:45:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Aktualne wskaźniki giełdowe",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440352"
+  },
+  {
+   "id": "bossa-pap-440351",
+   "date": "2026-11-10",
+   "time": "18:39",
+   "ts": "2026-11-10T18:39:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "SDS OPTIC SA (24/2026) Skonsolidowany raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440351"
+  },
+  {
+   "id": "bossa-espi-26149",
+   "date": "2026-11-10",
+   "time": "18:39",
+   "ts": "2026-11-10T18:39:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "LW BOGDANKA S.A.",
+   "title": "Rezygnacja członka Rady Nadzorczej Lubelskiego Węgla Bogdanka S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-26149"
+  },
+  {
+   "id": "bossa-pap-440349",
+   "date": "2026-11-10",
+   "time": "18:38",
+   "ts": "2026-11-10T18:38:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne - SARON",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440349"
+  },
   {
    "id": "bossa-espi-26148",
    "date": "2026-11-10",
