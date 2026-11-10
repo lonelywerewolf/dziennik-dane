@@ -4,18 +4,18 @@
   "podsumowania": 11,
   "wyniki": 14,
   "rekomendacje": 0,
-  "korporacyjne": 33,
+  "korporacyjne": 34,
   "makro_pl": 18,
-  "swiat_rynki": 11,
+  "swiat_rynki": 13,
   "energetyka_surowce": 2,
   "nieruchomosci": 2,
   "fundusze_drobne": 7,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 47
+  "pozostale": 49
  },
- "duplicatesRemoved": 96,
- "total": 242,
+ "duplicatesRemoved": 97,
+ "total": 248,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -262,6 +262,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "15:57",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PASSUS S.A.: Zawarcie umowy znaczącej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23853",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "15:51",
     "kind": "espi",
@@ -763,6 +774,24 @@
   ],
   "swiat_rynki": [
    {
+    "time": "16:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MRiRW: Projekt MIGRACJE/26: wspieramy odbudowę populacji węgorza europejskiego (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440287",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:42",
+    "kind": "news",
+    "ticker": null,
+    "title": "Euro w EBC: 1,1214 USD i 177,38 JPY",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/euro-w-ebc-11214-usd-i-17738-jpy",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "15:41",
     "kind": "pap",
     "ticker": null,
@@ -982,6 +1011,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "16:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MRiT: Bezpieczniejsze zakupy biżuterii przez internet i prostsze procedury (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440289",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:57",
+    "kind": "espi",
+    "ticker": null,
+    "title": "AIRWAY MEDIX S.A.: Pozytywne zakończenie ostatniego etapu procesu certyfikacyjnego wyrobu medycznego – szczoteczki ssącej z rodziny B-Care Oral Care.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23854",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:51",
     "kind": "espi",

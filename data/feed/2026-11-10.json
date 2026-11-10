@@ -1,7 +1,67 @@
 {
  "date": "2026-11-10",
- "count": 242,
+ "count": 248,
  "items": [
+  {
+   "id": "bossa-pap-440288",
+   "date": "2026-11-10",
+   "time": "16:02",
+   "ts": "2026-11-10T16:02:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Euro w EBC: 1,1214 USD i 177,38 JPY",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440288"
+  },
+  {
+   "id": "bossa-pap-440289",
+   "date": "2026-11-10",
+   "time": "16:00",
+   "ts": "2026-11-10T16:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MRiT: Bezpieczniejsze zakupy biżuterii przez internet i prostsze procedury (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440289"
+  },
+  {
+   "id": "bossa-pap-440287",
+   "date": "2026-11-10",
+   "time": "16:00",
+   "ts": "2026-11-10T16:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MRiRW: Projekt MIGRACJE/26: wspieramy odbudowę populacji węgorza europejskiego (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440287"
+  },
+  {
+   "id": "bossa-espi-23854",
+   "date": "2026-11-10",
+   "time": "15:57",
+   "ts": "2026-11-10T15:57:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "AIRWAY MEDIX S.A.",
+   "title": "Pozytywne zakończenie ostatniego etapu procesu certyfikacyjnego wyrobu medycznego – szczoteczki ssącej z rodziny B-Care Oral Care.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23854"
+  },
+  {
+   "id": "bossa-espi-23853",
+   "date": "2026-11-10",
+   "time": "15:57",
+   "ts": "2026-11-10T15:57:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PASSUS S.A.",
+   "title": "Zawarcie umowy znaczącej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23853"
+  },
   {
    "id": "bossa-espi-23852",
    "date": "2026-11-10",
@@ -37,6 +97,17 @@
    "title": "OFE PZU wartość jednostki rozrachunkowej",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440282"
+  },
+  {
+   "id": "strefa-7cb44bfdf5d4",
+   "date": "2026-11-10",
+   "time": "15:42",
+   "ts": "2026-11-10T15:42:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Euro w EBC: 1,1214 USD i 177,38 JPY",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/euro-w-ebc-11214-usd-i-17738-jpy"
   },
   {
    "id": "bossa-pap-440281",
