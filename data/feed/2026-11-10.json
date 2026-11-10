@@ -1,7 +1,127 @@
 {
  "date": "2026-11-10",
- "count": 120,
+ "count": 131,
  "items": [
+  {
+   "id": "bossa-espi-8710",
+   "date": "2026-11-10",
+   "time": "12:23",
+   "ts": "2026-11-10T12:23:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF sWIG80TR PORTFELOWY FIZ",
+   "title": "ZFP-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-8710"
+  },
+  {
+   "id": "bossa-espi-23788",
+   "date": "2026-11-10",
+   "time": "12:23",
+   "ts": "2026-11-10T12:23:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MICHAEL/STRÖM OBLIGACJI KORPORACYJNYCH FIZ",
+   "title": "RB_FI_E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23788"
+  },
+  {
+   "id": "bossa-espi-23787",
+   "date": "2026-11-10",
+   "time": "12:23",
+   "ts": "2026-11-10T12:23:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BIOTON",
+   "title": "Zwołanie Nadzwyczajnego Walnego Zgromadzenia BIOTON S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23787"
+  },
+  {
+   "id": "bossa-pap-440186",
+   "date": "2026-11-10",
+   "time": "12:22",
+   "ts": "2026-11-10T12:22:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "NOVINA POZYCZKIHIPOTECZNE.EU SA (25/2026) Zmiana harmonogramu publikacji raportów okresowych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440186"
+  },
+  {
+   "id": "bossa-pap-440185",
+   "date": "2026-11-10",
+   "time": "12:20",
+   "ts": "2026-11-10T12:20:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "NBP opublikował stanowisko ws. sprawozdania komisji Sejmu o postawieniu prezesa NBP przed TS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440185"
+  },
+  {
+   "id": "bossa-espi-23785",
+   "date": "2026-11-10",
+   "time": "12:18",
+   "ts": "2026-11-10T12:18:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 PLN-HEDGED PORTFELOWY FIZ",
+   "title": "ZFP-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23785"
+  },
+  {
+   "id": "bossa-espi-23784",
+   "date": "2026-11-10",
+   "time": "12:17",
+   "ts": "2026-11-10T12:17:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF WIG20TR PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 228 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23784"
+  },
+  {
+   "id": "bossa-espi-23783",
+   "date": "2026-11-10",
+   "time": "12:14",
+   "ts": "2026-11-10T12:14:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 3 x LEVERAGED PORTFELOWY FIZ",
+   "title": "ZFP-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23783"
+  },
+  {
+   "id": "bossa-espi-23782",
+   "date": "2026-11-10",
+   "time": "12:14",
+   "ts": "2026-11-10T12:14:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ASSECO SOUTH EASTERN EUROPE S.A.",
+   "title": "Informacja o transakcji w trybie art. 19 MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23782"
+  },
+  {
+   "id": "bossa-espi-23781",
+   "date": "2026-11-10",
+   "time": "12:12",
+   "ts": "2026-11-10T12:12:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF BITCOIN PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 230 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23781"
+  },
   {
    "id": "bossa-pap-440179",
    "date": "2026-11-10",
@@ -37,6 +157,17 @@
    "title": "83 proc. firm zamierza zwiększyć inwestycje w zrównoważony rozwój w ciągu 12-18 mies. - raport",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440177"
+  },
+  {
+   "id": "strefa-53ed3706f0b6",
+   "date": "2026-11-10",
+   "time": "12:04",
+   "ts": "2026-11-10T12:04:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "NBP opublikował stanowisko ws. sprawozdania komisji Sejmu o postawieniu prezesa NBP przed TS",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/nbp-opublikowal-stanowisko-ws-sprawozdania-komisji-sejmu-o-postawieniu-prezesa"
   },
   {
    "id": "bossa-pap-440176",

@@ -4,9 +4,9 @@
   "podsumowania": 10,
   "wyniki": 11,
   "rekomendacje": 0,
-  "korporacyjne": 15,
-  "makro_pl": 8,
-  "swiat_rynki": 4,
+  "korporacyjne": 19,
+  "makro_pl": 9,
+  "swiat_rynki": 5,
   "energetyka_surowce": 1,
   "nieruchomosci": 2,
   "fundusze_drobne": 2,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 29
  },
- "duplicatesRemoved": 37,
- "total": 120,
+ "duplicatesRemoved": 42,
+ "total": 131,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -225,6 +225,46 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "12:23",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BIOTON: Zwołanie Nadzwyczajnego Walnego Zgromadzenia BIOTON S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23787",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:22",
+    "kind": "pap",
+    "ticker": null,
+    "title": "NOVINA POZYCZKIHIPOTECZNE.EU SA (25/2026) Zmiana harmonogramu publikacji raportów okresowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440186",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:14",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ASSECO SOUTH EASTERN EUROPE S.A.: Informacja o transakcji w trybie art. 19 MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23782",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
+    "time": "12:04",
+    "kind": "news",
+    "ticker": null,
+    "title": "NBP opublikował stanowisko ws. sprawozdania komisji Sejmu o postawieniu prezesa NBP przed TS",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/nbp-opublikowal-stanowisko-ws-sprawozdania-komisji-sejmu-o-postawieniu-prezesa",
+    "src": "strefainwestorow",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
     "time": "11:58",
     "kind": "news",
     "ticker": null,
@@ -384,6 +424,15 @@
   ],
   "makro_pl": [
    {
+    "time": "12:23",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MICHAEL/STRÖM OBLIGACJI KORPORACYJNYCH FIZ: RB_FI_E_30.04.18",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23788",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "12:11",
     "kind": "pap",
     "ticker": null,
@@ -457,6 +506,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "12:12",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BETA ETF BITCOIN PORTFELOWY FIZ: Raport bieżący nr 230 / 2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23781",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:59",
     "kind": "news",
