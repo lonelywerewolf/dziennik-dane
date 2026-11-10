@@ -1,7 +1,7 @@
 {
  "date": "2026-11-10",
  "counts": {
-  "podsumowania": 12,
+  "podsumowania": 13,
   "wyniki": 14,
   "rekomendacje": 0,
   "korporacyjne": 39,
@@ -12,13 +12,22 @@
   "fundusze_drobne": 8,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 52
+  "pozostale": 53
  },
- "duplicatesRemoved": 100,
- "total": 263,
+ "duplicatesRemoved": 104,
+ "total": 269,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "16:49",
+    "kind": "skrot",
+    "ticker": null,
+    "title": "Skrót wiadomości - wtorek, 10 listopada, 17.00",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/skrot-wiadomosci-wtorek-10-listopada-1700",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "16:03",
     "kind": "news",
@@ -1104,6 +1113,17 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:01",
+    "kind": "pap",
+    "ticker": null,
+    "title": "SEDIVIO SA (13/2026) Korekta raportu okresowego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440303",
+    "src": "bossa",
+    "flags": [
+     "prognoza"
+    ]
+   },
    {
     "time": "16:41",
     "kind": "espi",

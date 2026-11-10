@@ -1,7 +1,67 @@
 {
  "date": "2026-11-10",
- "count": 263,
+ "count": 269,
  "items": [
+  {
+   "id": "bossa-pap-440305",
+   "date": "2026-11-10",
+   "time": "17:07",
+   "ts": "2026-11-10T17:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "SEDIVIO SA (14/2026) Korekta raportu okresowego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440305"
+  },
+  {
+   "id": "bossa-espi-23866",
+   "date": "2026-11-10",
+   "time": "17:07",
+   "ts": "2026-11-10T17:07:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "DATAWALK S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23866"
+  },
+  {
+   "id": "bossa-espi-23863",
+   "date": "2026-11-10",
+   "time": "17:03",
+   "ts": "2026-11-10T17:03:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BIOTON",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23863"
+  },
+  {
+   "id": "bossa-pap-440303",
+   "date": "2026-11-10",
+   "time": "17:01",
+   "ts": "2026-11-10T17:01:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "SEDIVIO SA (13/2026) Korekta raportu okresowego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440303"
+  },
+  {
+   "id": "bossa-pap-440302",
+   "date": "2026-11-10",
+   "time": "17:00",
+   "ts": "2026-11-10T17:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Skrót wiadomości - wtorek, 10 listopada, 17.00",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440302"
+  },
   {
    "id": "bossa-espi-23861",
    "date": "2026-11-10",
@@ -25,6 +85,17 @@
    "title": "Rejestracja w KRS podwyższenia kapitału zakładowego spółki zależnej ComfinoPay Sp. z o.o. w związku z przeniesieniem zorganizowanej części przedsiębiorstwa Spółki (w ramach wniesienia przez Spółkę wkładu niepieniężnego do ComfinoPay Sp. z o.o.)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23860"
+  },
+  {
+   "id": "strefa-126ca80324e3",
+   "date": "2026-11-10",
+   "time": "16:49",
+   "ts": "2026-11-10T16:49:55+01:00",
+   "src": "strefainwestorow",
+   "kind": "skrot",
+   "title": "Skrót wiadomości - wtorek, 10 listopada, 17.00",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/skrot-wiadomosci-wtorek-10-listopada-1700"
   },
   {
    "id": "bossa-espi-23859",
