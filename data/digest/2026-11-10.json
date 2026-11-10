@@ -12,10 +12,10 @@
   "fundusze_drobne": 8,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 51
+  "pozostale": 52
  },
  "duplicatesRemoved": 99,
- "total": 259,
+ "total": 260,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1083,6 +1083,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "16:41",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ROCKGAME S.A.: Raport popremierowy pełnej wersji gry pt. Saloon Simulator",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23859",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:35",
     "kind": "pap",
