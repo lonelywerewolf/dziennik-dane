@@ -1,7 +1,55 @@
 {
  "date": "2026-11-10",
- "count": 237,
+ "count": 242,
  "items": [
+  {
+   "id": "bossa-espi-23852",
+   "date": "2026-11-10",
+   "time": "15:51",
+   "ts": "2026-11-10T15:51:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BEEIN S.A.",
+   "title": "Otrzymanie zawiadomienia o zmianie udziału w ogólnej liczbie głosów Emitenta",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23852"
+  },
+  {
+   "id": "bossa-espi-23851",
+   "date": "2026-11-10",
+   "time": "15:51",
+   "ts": "2026-11-10T15:51:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "RAFAMET",
+   "title": "Uchwały podjęte przez Nadzwyczajne Walne Zgromadzenie RAFAMET S.A. w restrukturyzacji w dniu 10 listopada 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23851"
+  },
+  {
+   "id": "bossa-pap-440282",
+   "date": "2026-11-10",
+   "time": "15:47",
+   "ts": "2026-11-10T15:47:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "OFE PZU wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440282"
+  },
+  {
+   "id": "bossa-pap-440281",
+   "date": "2026-11-10",
+   "time": "15:41",
+   "ts": "2026-11-10T15:41:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "SKRM zajmie się projektem dot. maksymalnej ceny gazu w poniedziałek 16 XI",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440281"
+  },
   {
    "id": "bossa-pap-440280",
    "date": "2026-11-10",
@@ -13,6 +61,17 @@
    "title": "Rząd przyjął uchwałę ws. programu dot. kierunków działań na rzecz poprawy jakości prawa gospodarczego",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440280"
+  },
+  {
+   "id": "strefa-b4a2521c6ae6",
+   "date": "2026-11-10",
+   "time": "15:35",
+   "ts": "2026-11-10T15:35:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Unibep liczy na wyższy backlog w '27, ale najważniejsza pozostaje rentowność (wywiad)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/unibep-liczy-na-wyzszy-backlog-w-27-ale-najwazniejsza-pozostaje-rentownosc-0"
   },
   {
    "id": "bossa-pap-440279",

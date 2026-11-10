@@ -4,18 +4,18 @@
   "podsumowania": 11,
   "wyniki": 14,
   "rekomendacje": 0,
-  "korporacyjne": 32,
+  "korporacyjne": 33,
   "makro_pl": 18,
-  "swiat_rynki": 10,
+  "swiat_rynki": 11,
   "energetyka_surowce": 2,
   "nieruchomosci": 2,
-  "fundusze_drobne": 6,
+  "fundusze_drobne": 7,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 46
+  "pozostale": 47
  },
- "duplicatesRemoved": 95,
- "total": 237,
+ "duplicatesRemoved": 96,
+ "total": 242,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -262,6 +262,15 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "15:51",
+    "kind": "espi",
+    "ticker": null,
+    "title": "RAFAMET: Uchwały podjęte przez Nadzwyczajne Walne Zgromadzenie RAFAMET S.A. w restrukturyzacji w dniu 10 listopada 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23851",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:54",
     "kind": "news",
@@ -754,6 +763,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "15:41",
+    "kind": "pap",
+    "ticker": null,
+    "title": "SKRM zajmie się projektem dot. maksymalnej ceny gazu w poniedziałek 16 XI",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440281",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "15:18",
     "kind": "news",
     "ticker": null,
@@ -888,6 +906,15 @@
   ],
   "fundusze_drobne": [
    {
+    "time": "15:47",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OFE PZU wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440282",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "14:02",
     "kind": "pap",
     "ticker": null,
@@ -955,6 +982,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "15:51",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BEEIN S.A.: Otrzymanie zawiadomienia o zmianie udziału w ogólnej liczbie głosów Emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23852",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:32",
     "kind": "pap",
