@@ -4,18 +4,18 @@
   "podsumowania": 12,
   "wyniki": 14,
   "rekomendacje": 0,
-  "korporacyjne": 36,
+  "korporacyjne": 38,
   "makro_pl": 19,
   "swiat_rynki": 13,
   "energetyka_surowce": 2,
   "nieruchomosci": 2,
-  "fundusze_drobne": 7,
+  "fundusze_drobne": 8,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 50
+  "pozostale": 51
  },
- "duplicatesRemoved": 98,
- "total": 254,
+ "duplicatesRemoved": 99,
+ "total": 259,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -272,6 +272,17 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "16:28",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ENIMSO EUROPE S.A.: Podpisanie umowy EPC [Engineering - Procurement – Construction] - aktualizacja informacji.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23858",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
     "time": "16:21",
     "kind": "espi",
     "ticker": null,
@@ -279,6 +290,18 @@
     "url": "https://bossa.pl/analizy/komunikaty#message-23857",
     "src": "bossa",
     "flags": [
+     "akcjonariat"
+    ]
+   },
+   {
+    "time": "16:19",
+    "kind": "news",
+    "ticker": null,
+    "title": "Akcjonariusz Delko chce, by spółka wypłaciła 0,65 zł dywidendy nadzwyczajnej na akcję",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/akcjonariusz-delko-chce-spolka-wyplacila-065-zl-dywidendy-nadzwyczajnej-na",
+    "src": "strefainwestorow",
+    "flags": [
+     "dywidenda",
      "akcjonariat"
     ]
    },
@@ -975,6 +998,15 @@
   ],
   "fundusze_drobne": [
    {
+    "time": "16:35",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ALLIANZ POLSKA OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440298",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "15:47",
     "kind": "pap",
     "ticker": null,
@@ -1051,6 +1083,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "16:35",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MRiT: Mniej barier i prostsze prawo - Program regulacyjny na lata 2026-2028 przyjęty (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440297",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:11",
     "kind": "espi",
