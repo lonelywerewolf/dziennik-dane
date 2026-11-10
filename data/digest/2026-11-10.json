@@ -1,10 +1,10 @@
 {
  "date": "2026-11-10",
  "counts": {
-  "podsumowania": 14,
+  "podsumowania": 16,
   "wyniki": 16,
   "rekomendacje": 0,
-  "korporacyjne": 41,
+  "korporacyjne": 43,
   "makro_pl": 20,
   "swiat_rynki": 15,
   "energetyka_surowce": 2,
@@ -12,13 +12,33 @@
   "fundusze_drobne": 9,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 57
+  "pozostale": 60
  },
- "duplicatesRemoved": 114,
- "total": 291,
+ "duplicatesRemoved": 115,
+ "total": 299,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "17:36",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Notowania ciągłe - podsumowanie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440326",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "17:31",
+    "kind": "pap",
+    "ticker": null,
+    "title": "WIG20 na zamknięciu wyniósł 4208,46 pkt (1,04%)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440323",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:01",
     "kind": "news",
@@ -307,6 +327,26 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "17:38",
+    "kind": "espi",
+    "ticker": null,
+    "title": "IFIRMA S.A.: Zaliczka na poczet dywidendy Q3 2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-26137",
+    "src": "bossa",
+    "flags": [
+     "dywidenda"
+    ]
+   },
+   {
+    "time": "17:35",
+    "kind": "espi",
+    "ticker": null,
+    "title": "COGNOR HOLDING S.A.: Zwołanie Nadzwyczajnego Walnego Zgromadzenia oraz projekty uchwał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-25959",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:25",
     "kind": "news",
@@ -1187,6 +1227,33 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:42",
+    "kind": "pap",
+    "ticker": null,
+    "title": "NEW TECH VENTURE SA (16/2026) Zmiana harmonogramu publikacji raportów okresowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440329",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:33",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Stawka Polonia spadła we wtorek do 3,64 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440324",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:31",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: komunikat - WISE FINANCE",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/gpw-komunikat-wise-finance",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:30",
     "kind": "pap",

@@ -1,7 +1,102 @@
 {
  "date": "2026-11-10",
- "count": 291,
+ "count": 299,
  "items": [
+  {
+   "id": "bossa-pap-440329",
+   "date": "2026-11-10",
+   "time": "17:42",
+   "ts": "2026-11-10T17:42:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "NEW TECH VENTURE SA (16/2026) Zmiana harmonogramu publikacji raportów okresowych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440329"
+  },
+  {
+   "id": "bossa-pap-440328",
+   "date": "2026-11-10",
+   "time": "17:38",
+   "ts": "2026-11-10T17:38:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: komunikat - WISE FINANCE",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440328"
+  },
+  {
+   "id": "bossa-espi-26137",
+   "date": "2026-11-10",
+   "time": "17:38",
+   "ts": "2026-11-10T17:38:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "IFIRMA S.A.",
+   "title": "Zaliczka na poczet dywidendy Q3 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-26137"
+  },
+  {
+   "id": "bossa-pap-440326",
+   "date": "2026-11-10",
+   "time": "17:36",
+   "ts": "2026-11-10T17:36:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Notowania ciągłe - podsumowanie",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440326"
+  },
+  {
+   "id": "bossa-espi-25959",
+   "date": "2026-11-10",
+   "time": "17:35",
+   "ts": "2026-11-10T17:35:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "COGNOR HOLDING S.A.",
+   "title": "Zwołanie Nadzwyczajnego Walnego Zgromadzenia oraz projekty uchwał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-25959"
+  },
+  {
+   "id": "bossa-pap-440324",
+   "date": "2026-11-10",
+   "time": "17:33",
+   "ts": "2026-11-10T17:33:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Stawka Polonia spadła we wtorek do 3,64 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440324"
+  },
+  {
+   "id": "strefa-624acfd87453",
+   "date": "2026-11-10",
+   "time": "17:31",
+   "ts": "2026-11-10T17:31:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: komunikat - WISE FINANCE",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/gpw-komunikat-wise-finance"
+  },
+  {
+   "id": "bossa-pap-440323",
+   "date": "2026-11-10",
+   "time": "17:31",
+   "ts": "2026-11-10T17:31:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "WIG20 na zamknięciu wyniósł 4208,46 pkt (1,04%)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440323"
+  },
   {
    "id": "strefa-fa709d959da1",
    "date": "2026-11-10",
