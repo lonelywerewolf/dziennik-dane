@@ -1,7 +1,31 @@
 {
  "date": "2026-11-10",
- "count": 97,
+ "count": 99,
  "items": [
+  {
+   "id": "bossa-pap-440160",
+   "date": "2026-11-10",
+   "time": "11:07",
+   "ts": "2026-11-10T11:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne - EURIBOR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440160"
+  },
+  {
+   "id": "bossa-pap-440159",
+   "date": "2026-11-10",
+   "time": "11:05",
+   "ts": "2026-11-10T11:05:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Waller z Fedu popiera grudniową podwyżkę stóp proc.; nie wyklucza większego ruchu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440159"
+  },
   {
    "id": "bossa-pap-440158",
    "date": "2026-11-10",
