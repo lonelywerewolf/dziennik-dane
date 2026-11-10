@@ -4,7 +4,7 @@
   "podsumowania": 11,
   "wyniki": 14,
   "rekomendacje": 0,
-  "korporacyjne": 34,
+  "korporacyjne": 35,
   "makro_pl": 18,
   "swiat_rynki": 13,
   "energetyka_surowce": 2,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 7,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 49
+  "pozostale": 50
  },
  "duplicatesRemoved": 97,
- "total": 248,
+ "total": 250,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -262,6 +262,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "16:03",
+    "kind": "espi",
+    "ticker": null,
+    "title": "RAFAMET: Wykaz akcjonariuszy posiadających co najmniej 5% głosów na Nadzwyczajnym Walnym Zgromadzeniu RAFAMET S.A. w restrukturyzacji w dniu 10 listopada 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23855",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "15:57",
     "kind": "espi",
@@ -1011,6 +1022,17 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "16:11",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PUŁAWY: Korekta metadanych ESAP w raporcie bieżącym nr 44/2026 z dnia 5 listopada 2026 roku.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23856",
+    "src": "bossa",
+    "flags": [
+     "prognoza"
+    ]
+   },
    {
     "time": "16:00",
     "kind": "pap",
