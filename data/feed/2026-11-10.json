@@ -1,7 +1,64 @@
 {
  "date": "2026-11-10",
- "count": 46,
+ "count": 52,
  "items": [
+  {
+   "id": "bossa-pap-440130",
+   "date": "2026-11-10",
+   "time": "09:09",
+   "ts": "2026-11-10T09:09:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Kurs akcji Ten Square Games spada o 8,4 proc. do 84,5 zł; indeks mWIG40 lekko rośnie",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440130"
+  },
+  {
+   "id": "strefa-df335213de4b",
+   "date": "2026-11-10",
+   "time": "09:03",
+   "ts": "2026-11-10T09:03:00+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Kurs akcji Ten Square Games spada o 8,4 proc. do 84,5 zł; indeks mWIG40 lekko rośnie",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/kurs-akcji-ten-square-games-spada-o-84-proc-do-845-zl-indeks-mwig40-lekko"
+  },
+  {
+   "id": "strefa-2d1c38e9fe66",
+   "date": "2026-11-10",
+   "time": "09:01",
+   "ts": "2026-11-10T09:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grupa PCC Rokita z lepszymi wynikami po trzech kwartałach 2026 roku. Wzrost EBITDA o ponad 20 proc 3q26/3q25.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/grupa-pcc-rokita-z-lepszymi-wynikami-po-trzech-kwartalach-2026-roku-wzrost"
+  },
+  {
+   "id": "bossa-pap-440129",
+   "date": "2026-11-10",
+   "time": "09:00",
+   "ts": "2026-11-10T09:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "W IV kw. pogorszenie koniunktury w budownictwie, oczekiwania pesymistyczne - IRG SGH",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440129"
+  },
+  {
+   "id": "strefa-ad3587865b2d",
+   "date": "2026-11-10",
+   "time": "08:59",
+   "ts": "2026-11-10T08:59:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "W IV kw. pogorszenie koniunktury w budownictwie, oczekiwania pesymistyczne - IRG SGH",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/w-iv-kw-pogorszenie-koniunktury-w-budownictwie-oczekiwania-pesymistyczne-irg"
+  },
   {
    "id": "bossa-pap-440128",
    "date": "2026-11-10",
@@ -410,6 +467,17 @@
    "title": "Ożywienie na europejskim rynku nieruchomości będzie nierównomierne i potrwa dłużej - raport",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261110/ozywienie-na-europejskim-rynku-nieruchomosci-bedzie-nierownomierne-i-potrwa"
+  },
+  {
+   "id": "strefa-04d235730bf1",
+   "date": "2026-11-10",
+   "time": "06:41",
+   "ts": "2026-11-10T06:41:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela"
   },
   {
    "id": "strefa-019c06d9aef0",
