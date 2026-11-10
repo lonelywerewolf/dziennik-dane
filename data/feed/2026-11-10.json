@@ -1,7 +1,43 @@
 {
  "date": "2026-11-10",
- "count": 217,
+ "count": 221,
  "items": [
+  {
+   "id": "bossa-espi-23847",
+   "date": "2026-11-10",
+   "time": "14:54",
+   "ts": "2026-11-10T14:54:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "LENTEX",
+   "title": "Uzupełnienie dokumentu będącego przedmiotem obrad Nadzwyczajnego Walnego Zgromadzenia Spółki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23847"
+  },
+  {
+   "id": "bossa-pap-440267",
+   "date": "2026-11-10",
+   "time": "14:53",
+   "ts": "2026-11-10T14:53:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Futures w USA spadają; CPI w USA za X w centrum uwagi",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440267"
+  },
+  {
+   "id": "bossa-pap-440266",
+   "date": "2026-11-10",
+   "time": "14:46",
+   "ts": "2026-11-10T14:46:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Rząd przyjął projekt usprawniający przygotowanie budowy pierwszej elektrowni jądrowej (opis)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440266"
+  },
   {
    "id": "bossa-pap-440265",
    "date": "2026-11-10",
@@ -49,6 +85,17 @@
    "title": "WCI-E_30.04.18",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23843"
+  },
+  {
+   "id": "strefa-0fca818bf78a",
+   "date": "2026-11-10",
+   "time": "14:33",
+   "ts": "2026-11-10T14:33:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Futures w USA spadają; CPI w USA za X w centrum uwagi",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/dzien-na-rynkach-futures-w-usa-spadaja-cpi-w-usa-za-x-w-centrum-uwagi"
   },
   {
    "id": "bossa-pap-440261",
