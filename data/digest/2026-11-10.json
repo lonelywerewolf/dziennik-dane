@@ -6,7 +6,7 @@
   "rekomendacje": 0,
   "korporacyjne": 1,
   "makro_pl": 2,
-  "swiat_rynki": 0,
+  "swiat_rynki": 1,
   "energetyka_surowce": 1,
   "nieruchomosci": 1,
   "fundusze_drobne": 0,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 5
  },
- "duplicatesRemoved": 5,
- "total": 19,
+ "duplicatesRemoved": 7,
+ "total": 22,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -91,7 +91,17 @@
     "flags": []
    }
   ],
-  "swiat_rynki": [],
+  "swiat_rynki": [
+   {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny ropy coraz niższe; dalsze ataki USA w Iranie są niepotrzebne",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/ceny-ropy-coraz-nizsze-dalsze-ataki-usa-w-iranie-sa-niepotrzebne",
+    "src": "strefainwestorow",
+    "flags": []
+   }
+  ],
   "energetyka_surowce": [
    {
     "time": "06:39",

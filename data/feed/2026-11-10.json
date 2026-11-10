@@ -1,7 +1,31 @@
 {
  "date": "2026-11-10",
- "count": 19,
+ "count": 22,
  "items": [
+  {
+   "id": "bossa-pap-440110",
+   "date": "2026-11-10",
+   "time": "07:47",
+   "ts": "2026-11-10T07:47:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ceny ropy coraz niższe; dalsze ataki USA w Iranie są niepotrzebne",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440110"
+  },
+  {
+   "id": "bossa-espi-23749",
+   "date": "2026-11-10",
+   "time": "07:40",
+   "ts": "2026-11-10T07:40:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KOMPAP",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23749"
+  },
   {
    "id": "bossa-pap-440108",
    "date": "2026-11-10",
@@ -59,6 +83,17 @@
    "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-10",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261110/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-10"
+  },
+  {
+   "id": "strefa-4ab485bcd0eb",
+   "date": "2026-11-10",
+   "time": "07:01",
+   "ts": "2026-11-10T07:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ceny ropy coraz niższe; dalsze ataki USA w Iranie są niepotrzebne",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/ceny-ropy-coraz-nizsze-dalsze-ataki-usa-w-iranie-sa-niepotrzebne"
   },
   {
    "id": "strefa-11858392dcef",
