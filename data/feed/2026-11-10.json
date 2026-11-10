@@ -1,7 +1,67 @@
 {
  "date": "2026-11-10",
- "count": 99,
+ "count": 104,
  "items": [
+  {
+   "id": "bossa-pap-440165",
+   "date": "2026-11-10",
+   "time": "11:20",
+   "ts": "2026-11-10T11:20:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "LIFTERO/Liftero Spółka Akcyjna (10/2026) Informacje o walnym zgromadzeniu - treść uchwał podjętych przez WZ (w tym informacje o ogłoszeniu przerwy w obradach)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440165"
+  },
+  {
+   "id": "bossa-pap-440164",
+   "date": "2026-11-10",
+   "time": "11:20",
+   "ts": "2026-11-10T11:20:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "UNIQA OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440164"
+  },
+  {
+   "id": "bossa-espi-23774",
+   "date": "2026-11-10",
+   "time": "11:16",
+   "ts": "2026-11-10T11:16:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KOOL2PLAY S.A.",
+   "title": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu, które odbyło się w dniu 9 listopada 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23774"
+  },
+  {
+   "id": "bossa-espi-23773",
+   "date": "2026-11-10",
+   "time": "11:16",
+   "ts": "2026-11-10T11:16:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF mWIG40TR PORTFELOWY FIZ",
+   "title": "ZFP-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23773"
+  },
+  {
+   "id": "bossa-espi-23772",
+   "date": "2026-11-10",
+   "time": "11:13",
+   "ts": "2026-11-10T11:13:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF WIG20TR PORTFELOWY FIZ",
+   "title": "ZFP-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23772"
+  },
   {
    "id": "bossa-pap-440160",
    "date": "2026-11-10",

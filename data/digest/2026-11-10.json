@@ -4,18 +4,18 @@
   "podsumowania": 10,
   "wyniki": 9,
   "rekomendacje": 0,
-  "korporacyjne": 12,
+  "korporacyjne": 13,
   "makro_pl": 6,
   "swiat_rynki": 4,
   "energetyka_surowce": 1,
   "nieruchomosci": 1,
-  "fundusze_drobne": 0,
+  "fundusze_drobne": 2,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 23
+  "pozostale": 24
  },
- "duplicatesRemoved": 32,
- "total": 99,
+ "duplicatesRemoved": 33,
+ "total": 104,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -206,6 +206,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "11:16",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KOOL2PLAY S.A.: Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu, które odbyło się w dniu 9 listopada 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23774",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "11:05",
     "kind": "pap",
@@ -449,7 +460,26 @@
     "flags": []
    }
   ],
-  "fundusze_drobne": [],
+  "fundusze_drobne": [
+   {
+    "time": "11:20",
+    "kind": "pap",
+    "ticker": null,
+    "title": "UNIQA OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440164",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:13",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BETA ETF WIG20TR PORTFELOWY FIZ: ZFP-E_30.04.18",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23772",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "twoje_spolki": [
    {
     "time": "09:31",
@@ -463,6 +493,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:20",
+    "kind": "pap",
+    "ticker": null,
+    "title": "LIFTERO/Liftero Spółka Akcyjna (10/2026) Informacje o walnym zgromadzeniu - treść uchwał podjętych przez WZ (w tym informacje o ogłoszeniu przerwy w obradach)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440165",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:07",
     "kind": "pap",
