@@ -1,7 +1,19 @@
 {
  "date": "2026-11-10",
- "count": 17,
+ "count": 18,
  "items": [
+  {
+   "id": "bossa-espi-23748",
+   "date": "2026-11-10",
+   "time": "07:13",
+   "ts": "2026-11-10T07:13:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BENEFIT SYSTEMS S.A.",
+   "title": "Rezygnacja Członka Zarządu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23748"
+  },
   {
    "id": "bossa-espi-23747",
    "date": "2026-11-10",
