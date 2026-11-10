@@ -1,7 +1,31 @@
 {
  "date": "2026-11-10",
- "count": 348,
+ "count": 350,
  "items": [
+  {
+   "id": "bossa-espi-48251",
+   "date": "2026-11-10",
+   "time": "22:06",
+   "ts": "2026-11-10T22:06:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Yanosik S.A.",
+   "title": "Wstępne wybrane dane finansowe za III kwartał 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-48251"
+  },
+  {
+   "id": "bossa-espi-48250",
+   "date": "2026-11-10",
+   "time": "22:03",
+   "ts": "2026-11-10T22:03:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ARTIFEX MUNDI S.A.",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-48250"
+  },
   {
    "id": "bossa-espi-48249",
    "date": "2026-11-10",

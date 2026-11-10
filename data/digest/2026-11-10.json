@@ -12,10 +12,10 @@
   "fundusze_drobne": 12,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 68
+  "pozostale": 69
  },
- "duplicatesRemoved": 127,
- "total": 348,
+ "duplicatesRemoved": 128,
+ "total": 350,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1526,6 +1526,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "22:06",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Yanosik S.A.: Wstępne wybrane dane finansowe za III kwartał 2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-48251",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "21:48",
     "kind": "espi",
