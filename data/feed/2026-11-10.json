@@ -1,7 +1,31 @@
 {
  "date": "2026-11-10",
- "count": 260,
+ "count": 263,
  "items": [
+  {
+   "id": "bossa-espi-23861",
+   "date": "2026-11-10",
+   "time": "16:57",
+   "ts": "2026-11-10T16:57:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ECHO",
+   "title": "Stanowisko Zarządu Echo Investment S.A. dotyczące wezwania do zapisywania się na sprzedaz akcji Echo Investment S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23861"
+  },
+  {
+   "id": "bossa-espi-23860",
+   "date": "2026-11-10",
+   "time": "16:52",
+   "ts": "2026-11-10T16:52:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "COMPERIA.PL S.A.",
+   "title": "Rejestracja w KRS podwyższenia kapitału zakładowego spółki zależnej ComfinoPay Sp. z o.o. w związku z przeniesieniem zorganizowanej części przedsiębiorstwa Spółki (w ramach wniesienia przez Spółkę wkładu niepieniężnego do ComfinoPay Sp. z o.o.)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23860"
+  },
   {
    "id": "bossa-espi-23859",
    "date": "2026-11-10",
@@ -37,6 +61,17 @@
    "title": "MRiT: Mniej barier i prostsze prawo - Program regulacyjny na lata 2026-2028 przyjęty (komunikat)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440297"
+  },
+  {
+   "id": "strefa-8b6cba69698b",
+   "date": "2026-11-10",
+   "time": "16:33",
+   "ts": "2026-11-10T16:33:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "SKRM zajmie się projektem dot. maksymalnej ceny gazu w poniedziałek 16 XI",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/skrm-zajmie-sie-projektem-dot-maksymalnej-ceny-gazu-w-poniedzialek-16-xi"
   },
   {
    "id": "bossa-pap-440296",

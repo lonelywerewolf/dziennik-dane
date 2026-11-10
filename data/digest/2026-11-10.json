@@ -4,9 +4,9 @@
   "podsumowania": 12,
   "wyniki": 14,
   "rekomendacje": 0,
-  "korporacyjne": 38,
+  "korporacyjne": 39,
   "makro_pl": 19,
-  "swiat_rynki": 13,
+  "swiat_rynki": 14,
   "energetyka_surowce": 2,
   "nieruchomosci": 2,
   "fundusze_drobne": 8,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 52
  },
- "duplicatesRemoved": 99,
- "total": 260,
+ "duplicatesRemoved": 100,
+ "total": 263,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -271,6 +271,18 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "16:57",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ECHO: Stanowisko Zarządu Echo Investment S.A. dotyczące wezwania do zapisywania się na sprzedaz akcji Echo Investment S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23861",
+    "src": "bossa",
+    "flags": [
+     "wezwanie",
+     "zarząd"
+    ]
+   },
    {
     "time": "16:28",
     "kind": "espi",
@@ -837,6 +849,24 @@
   ],
   "swiat_rynki": [
    {
+    "time": "16:52",
+    "kind": "espi",
+    "ticker": null,
+    "title": "COMPERIA.PL S.A.: Rejestracja w KRS podwyższenia kapitału zakładowego spółki zależnej ComfinoPay Sp. z o.o. w związku z przeniesieniem zorganizowanej części przedsiębiorstwa Spółki (w ramach wniesienia przez Spółkę wkładu niepieniężnego do ComfinoPay Sp. z o.o.)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23860",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:33",
+    "kind": "news",
+    "ticker": null,
+    "title": "SKRM zajmie się projektem dot. maksymalnej ceny gazu w poniedziałek 16 XI",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/skrm-zajmie-sie-projektem-dot-maksymalnej-ceny-gazu-w-poniedzialek-16-xi",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "16:00",
     "kind": "pap",
     "ticker": null,
@@ -852,15 +882,6 @@
     "title": "Euro w EBC: 1,1214 USD i 177,38 JPY",
     "url": "https://strefainwestorow.pl/wiadomosci/20261110/euro-w-ebc-11214-usd-i-17738-jpy",
     "src": "strefainwestorow",
-    "flags": []
-   },
-   {
-    "time": "15:41",
-    "kind": "pap",
-    "ticker": null,
-    "title": "SKRM zajmie się projektem dot. maksymalnej ceny gazu w poniedziałek 16 XI",
-    "url": "https://bossa.pl/analizy/komunikaty#message-440281",
-    "src": "bossa",
     "flags": []
    },
    {
