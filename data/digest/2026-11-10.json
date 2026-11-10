@@ -2,20 +2,20 @@
  "date": "2026-11-10",
  "counts": {
   "podsumowania": 11,
-  "wyniki": 13,
+  "wyniki": 14,
   "rekomendacje": 0,
   "korporacyjne": 32,
-  "makro_pl": 16,
+  "makro_pl": 17,
   "swiat_rynki": 9,
   "energetyka_surowce": 2,
   "nieruchomosci": 2,
   "fundusze_drobne": 6,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 42
+  "pozostale": 44
  },
- "duplicatesRemoved": 92,
- "total": 226,
+ "duplicatesRemoved": 94,
+ "total": 232,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -122,6 +122,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "15:13",
+    "kind": "pap",
+    "ticker": null,
+    "title": "READ-GENE SA (16/2026) Skonsolidowany raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440275",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:29",
     "kind": "pap",
@@ -581,6 +590,15 @@
   ],
   "makro_pl": [
    {
+    "time": "15:10",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BOM: Wizyta Marszałka Sejmu w Krakowie (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440274",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "14:33",
     "kind": "pap",
     "ticker": null,
@@ -920,6 +938,15 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "15:10",
+    "kind": "news",
+    "ticker": null,
+    "title": "Mabion podpisał list intencyjny z niemiecką firmą FyoniBio",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/mabion-podpisal-list-intencyjny-z-niemiecka-firma-fyonibio",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "15:03",
     "kind": "pap",
     "ticker": null,
@@ -929,6 +956,15 @@
     "flags": [
      "prognoza"
     ]
+   },
+   {
+    "time": "15:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Mabion i FyoniBio nawiązują współpracę. Partnerstwo otwiera nowe możliwości na rynku CDMO",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/mabion-i-fyonibio-nawiazuja-wspolprace-partnerstwo-otwiera-nowe-mozliwosci-na",
+    "src": "strefainwestorow",
+    "flags": []
    },
    {
     "time": "14:15",

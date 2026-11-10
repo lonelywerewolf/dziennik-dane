@@ -1,7 +1,66 @@
 {
  "date": "2026-11-10",
- "count": 226,
+ "count": 232,
  "items": [
+  {
+   "id": "bossa-pap-440276",
+   "date": "2026-11-10",
+   "time": "15:17",
+   "ts": "2026-11-10T15:17:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Mabion podpisał list intencyjny z niemiecką firmą FyoniBio",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440276"
+  },
+  {
+   "id": "bossa-pap-440275",
+   "date": "2026-11-10",
+   "time": "15:13",
+   "ts": "2026-11-10T15:13:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "READ-GENE SA (16/2026) Skonsolidowany raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440275"
+  },
+  {
+   "id": "strefa-f65388e956ec",
+   "date": "2026-11-10",
+   "time": "15:10",
+   "ts": "2026-11-10T15:10:41+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Mabion podpisał list intencyjny z niemiecką firmą FyoniBio",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/mabion-podpisal-list-intencyjny-z-niemiecka-firma-fyonibio"
+  },
+  {
+   "id": "bossa-pap-440274",
+   "date": "2026-11-10",
+   "time": "15:10",
+   "ts": "2026-11-10T15:10:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "BOM: Wizyta Marszałka Sejmu w Krakowie (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440274"
+  },
+  {
+   "id": "bossa-pap-440273",
+   "date": "2026-11-10",
+   "time": "15:09",
+   "ts": "2026-11-10T15:09:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "INTERMARUM SA (34/2026) Zmiana harmonogramu publikacji raportów okresowych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440273"
+  },
   {
    "id": "bossa-pap-440272",
    "date": "2026-11-10",
@@ -25,6 +84,17 @@
    "title": "BIZTECH KONSULTING SA (12/2026) Korekta raportu okresowego",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440271"
+  },
+  {
+   "id": "strefa-1f988ee93cf7",
+   "date": "2026-11-10",
+   "time": "15:01",
+   "ts": "2026-11-10T15:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Mabion i FyoniBio nawiązują współpracę. Partnerstwo otwiera nowe możliwości na rynku CDMO",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/mabion-i-fyonibio-nawiazuja-wspolprace-partnerstwo-otwiera-nowe-mozliwosci-na"
   },
   {
    "id": "bossa-pap-440270",
