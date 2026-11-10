@@ -1,7 +1,55 @@
 {
  "date": "2026-11-10",
- "count": 61,
+ "count": 65,
  "items": [
+  {
+   "id": "bossa-pap-440141",
+   "date": "2026-11-10",
+   "time": "09:45",
+   "ts": "2026-11-10T09:45:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Liczba rachunków maklerskich na koniec X wzrosła do 3,155 mln - KDPW",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440141"
+  },
+  {
+   "id": "bossa-pap-440140",
+   "date": "2026-11-10",
+   "time": "09:37",
+   "ts": "2026-11-10T09:37:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MC: DSA w walce z dezinformacją. Platformy muszą skuteczniej reagować na zagrożenia (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440140"
+  },
+  {
+   "id": "bossa-espi-23766",
+   "date": "2026-11-10",
+   "time": "09:36",
+   "ts": "2026-11-10T09:36:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Enea Elektrownia Połaniec Sp. z o.o.",
+   "title": "POWIADOMIENIE O TRANSAKCJI W TRYBIE ART. 19 MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23766"
+  },
+  {
+   "id": "bossa-espi-23765",
+   "date": "2026-11-10",
+   "time": "09:36",
+   "ts": "2026-11-10T09:36:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ANWIM S.A.",
+   "title": "Decyzja o wcześniejszym, całkowitym wykupie obligacji serii D na żądanie emitenta",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23765"
+  },
   {
    "id": "bossa-espi-23764",
    "date": "2026-11-10",
