@@ -1,7 +1,43 @@
 {
  "date": "2026-11-10",
- "count": 209,
+ "count": 213,
  "items": [
+  {
+   "id": "bossa-pap-440261",
+   "date": "2026-11-10",
+   "time": "14:33",
+   "ts": "2026-11-10T14:33:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "CPI w USA w październiku: +0,4 proc. mdm. Konsensus: +0,3 proc. Poprzednio +0,6 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440261"
+  },
+  {
+   "id": "bossa-pap-440260",
+   "date": "2026-11-10",
+   "time": "14:32",
+   "ts": "2026-11-10T14:32:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Grupa Lentex szacuje, że w pierwszych trzech kwartałach '26 miała ponad 18 mln zł zysku netto",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440260"
+  },
+  {
+   "id": "bossa-pap-440259",
+   "date": "2026-11-10",
+   "time": "14:29",
+   "ts": "2026-11-10T14:29:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "ART GAMES STUDIO SA (15/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440259"
+  },
   {
    "id": "bossa-espi-23841",
    "date": "2026-11-10",
@@ -61,6 +97,17 @@
    "title": "Szacunkowe wyniki Grupy Kapitałowej Lentex za III kwartały 2026 roku",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23838"
+  },
+  {
+   "id": "strefa-d731f45437df",
+   "date": "2026-11-10",
+   "time": "14:15",
+   "ts": "2026-11-10T14:15:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grupa Lentex szacuje, że w pierwszych trzech kwartałach '26 miała ponad 18 mln zł zysku netto",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/grupa-lentex-szacuje-ze-w-pierwszych-trzech-kwartalach-26-miala-ponad-18-mln-zl"
   },
   {
    "id": "bossa-pap-440252",

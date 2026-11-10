@@ -2,20 +2,20 @@
  "date": "2026-11-10",
  "counts": {
   "podsumowania": 10,
-  "wyniki": 12,
+  "wyniki": 13,
   "rekomendacje": 0,
   "korporacyjne": 28,
-  "makro_pl": 15,
+  "makro_pl": 16,
   "swiat_rynki": 8,
   "energetyka_surowce": 2,
   "nieruchomosci": 2,
   "fundusze_drobne": 6,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 40
+  "pozostale": 41
  },
- "duplicatesRemoved": 85,
- "total": 209,
+ "duplicatesRemoved": 86,
+ "total": 213,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -113,6 +113,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "14:29",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ART GAMES STUDIO SA (15/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440259",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:16",
     "kind": "espi",
@@ -522,6 +531,15 @@
   ],
   "makro_pl": [
    {
+    "time": "14:33",
+    "kind": "pap",
+    "ticker": null,
+    "title": "CPI w USA w październiku: +0,4 proc. mdm. Konsensus: +0,3 proc. Poprzednio +0,6 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440261",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "14:16",
     "kind": "pap",
     "ticker": null,
@@ -842,6 +860,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "14:15",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa Lentex szacuje, że w pierwszych trzech kwartałach '26 miała ponad 18 mln zł zysku netto",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/grupa-lentex-szacuje-ze-w-pierwszych-trzech-kwartalach-26-miala-ponad-18-mln-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "14:10",
     "kind": "espi",
