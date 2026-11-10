@@ -1,7 +1,42 @@
 {
  "date": "2026-11-10",
- "count": 312,
+ "count": 316,
  "items": [
+  {
+   "id": "bossa-espi-26143",
+   "date": "2026-11-10",
+   "time": "18:12",
+   "ts": "2026-11-10T18:12:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ECHO",
+   "title": "Rozważana emisja obligacji w ramach Programu Emisji",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-26143"
+  },
+  {
+   "id": "bossa-pap-440340",
+   "date": "2026-11-10",
+   "time": "18:09",
+   "ts": "2026-11-10T18:09:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "ENERGY SA (9/2026) Korekta raportu okresowego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440340"
+  },
+  {
+   "id": "strefa-638ea9ec1522",
+   "date": "2026-11-10",
+   "time": "18:08",
+   "ts": "2026-11-10T18:08:11+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Indeksy na europejskich giełdach głównie zwyżkowały",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/dzien-na-rynkach-indeksy-na-europejskich-gieldach-glownie-zwyzkowaly"
+  },
   {
    "id": "bossa-pap-440339",
    "date": "2026-11-10",
@@ -25,6 +60,17 @@
    "title": "DZIEŃ NA RYNKACH: Indeksy na europejskich giełdach głównie zwyżkowały",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440338"
+  },
+  {
+   "id": "strefa-ba889ee36e34",
+   "date": "2026-11-10",
+   "time": "18:01",
+   "ts": "2026-11-10T18:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Cognor Holding planuje podwyższenie kapitału poprzez emisję akcji",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/cognor-holding-planuje-podwyzszenie-kapitalu-poprzez-emisje-akcji"
   },
   {
    "id": "bossa-pap-440337",
