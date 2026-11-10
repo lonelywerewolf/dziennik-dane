@@ -1,7 +1,149 @@
 {
  "date": "2026-11-10",
- "count": 299,
+ "count": 312,
  "items": [
+  {
+   "id": "bossa-pap-440339",
+   "date": "2026-11-10",
+   "time": "18:03",
+   "ts": "2026-11-10T18:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Transakcje pakietowe",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440339"
+  },
+  {
+   "id": "bossa-pap-440338",
+   "date": "2026-11-10",
+   "time": "18:03",
+   "ts": "2026-11-10T18:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Indeksy na europejskich giełdach głównie zwyżkowały",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440338"
+  },
+  {
+   "id": "bossa-pap-440337",
+   "date": "2026-11-10",
+   "time": "18:01",
+   "ts": "2026-11-10T18:01:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "NESTMEDIC SA (23/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440337"
+  },
+  {
+   "id": "bossa-pap-440336",
+   "date": "2026-11-10",
+   "time": "18:00",
+   "ts": "2026-11-10T18:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "OFE wartości jednostek rozrachunkowych z 2026.11.09",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440336"
+  },
+  {
+   "id": "strefa-76a5af8d2c36",
+   "date": "2026-11-10",
+   "time": "17:59",
+   "ts": "2026-11-10T17:59:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "OFE wartości jednostek rozrachunkowych z 2026.11.09",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/ofe-wartosci-jednostek-rozrachunkowych-z-20261109"
+  },
+  {
+   "id": "bossa-pap-440335",
+   "date": "2026-11-10",
+   "time": "17:59",
+   "ts": "2026-11-10T17:59:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GENERALI OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440335"
+  },
+  {
+   "id": "bossa-espi-26140",
+   "date": "2026-11-10",
+   "time": "17:59",
+   "ts": "2026-11-10T17:59:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ENERGY S.A.",
+   "title": "Korekta danych finansowych ENERGY S.A. i Grupy Kapitałowej ENERGY za II kwartał 2026 roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-26140"
+  },
+  {
+   "id": "bossa-pap-440333",
+   "date": "2026-11-10",
+   "time": "17:58",
+   "ts": "2026-11-10T17:58:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zamknięcia na giełdach w Europie (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440333"
+  },
+  {
+   "id": "strefa-0e339d52dc07",
+   "date": "2026-11-10",
+   "time": "17:56",
+   "ts": "2026-11-10T17:56:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Zamknięcia na giełdach w Europie (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/zamkniecia-na-gieldach-w-europie-tabela"
+  },
+  {
+   "id": "bossa-pap-440332",
+   "date": "2026-11-10",
+   "time": "17:55",
+   "ts": "2026-11-10T17:55:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KPRM: Premier: Będziemy pamiętać o wszystkich bohaterach tragicznych wydarzeń w Krakowie (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440332"
+  },
+  {
+   "id": "bossa-pap-440331",
+   "date": "2026-11-10",
+   "time": "17:55",
+   "ts": "2026-11-10T17:55:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "iFirma wypłaci zaliczkę na poczet dywidendy w wysokości 0,32 zł na akcję",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440331"
+  },
+  {
+   "id": "bossa-espi-26139",
+   "date": "2026-11-10",
+   "time": "17:49",
+   "ts": "2026-11-10T17:49:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Sygnis S.A.",
+   "title": "Złożenie do Prezesa Urzędu Zamówień Publicznych wniosku o wszczęcie kontroli w odniesieniu do postępowania dotyczącego dostaw wyposażenia laboratoriów STEAM",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-26139"
+  },
   {
    "id": "bossa-pap-440329",
    "date": "2026-11-10",
@@ -13,6 +155,17 @@
    "title": "NEW TECH VENTURE SA (16/2026) Zmiana harmonogramu publikacji raportów okresowych",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440329"
+  },
+  {
+   "id": "strefa-2f47bb4a8093",
+   "date": "2026-11-10",
+   "time": "17:41",
+   "ts": "2026-11-10T17:41:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "iFirma wypłaci zaliczkę na poczet dywidendy w wysokości 0,32 zł na akcję",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/ifirma-wyplaci-zaliczke-na-poczet-dywidendy-w-wysokosci-032-zl-na-akcje"
   },
   {
    "id": "bossa-pap-440328",

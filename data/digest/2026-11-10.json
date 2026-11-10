@@ -1,24 +1,33 @@
 {
  "date": "2026-11-10",
  "counts": {
-  "podsumowania": 16,
-  "wyniki": 16,
+  "podsumowania": 17,
+  "wyniki": 17,
   "rekomendacje": 0,
-  "korporacyjne": 43,
+  "korporacyjne": 46,
   "makro_pl": 20,
   "swiat_rynki": 15,
-  "energetyka_surowce": 2,
+  "energetyka_surowce": 3,
   "nieruchomosci": 2,
-  "fundusze_drobne": 9,
+  "fundusze_drobne": 11,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 60
+  "pozostale": 62
  },
- "duplicatesRemoved": 115,
- "total": 299,
+ "duplicatesRemoved": 118,
+ "total": 312,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "18:03",
+    "kind": "pap",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Indeksy na europejskich giełdach głównie zwyżkowały",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440338",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:36",
     "kind": "pap",
@@ -169,6 +178,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "18:01",
+    "kind": "pap",
+    "ticker": null,
+    "title": "NESTMEDIC SA (23/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440337",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:12",
     "kind": "pap",
@@ -327,6 +345,37 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "18:03",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Transakcje pakietowe",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440339",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:49",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Sygnis S.A.: Złożenie do Prezesa Urzędu Zamówień Publicznych wniosku o wszczęcie kontroli w odniesieniu do postępowania dotyczącego dostaw wyposażenia laboratoriów STEAM",
+    "url": "https://bossa.pl/analizy/komunikaty#message-26139",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "17:41",
+    "kind": "news",
+    "ticker": null,
+    "title": "iFirma wypłaci zaliczkę na poczet dywidendy w wysokości 0,32 zł na akcję",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/ifirma-wyplaci-zaliczke-na-poczet-dywidendy-w-wysokosci-032-zl-na-akcje",
+    "src": "strefainwestorow",
+    "flags": [
+     "dywidenda"
+    ]
+   },
    {
     "time": "17:38",
     "kind": "espi",
@@ -1091,6 +1140,17 @@
   ],
   "energetyka_surowce": [
    {
+    "time": "17:59",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ENERGY S.A.: Korekta danych finansowych ENERGY S.A. i Grupy Kapitałowej ENERGY za II kwartał 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-26140",
+    "src": "bossa",
+    "flags": [
+     "prognoza"
+    ]
+   },
+   {
     "time": "13:42",
     "kind": "espi",
     "ticker": null,
@@ -1132,6 +1192,24 @@
    }
   ],
   "fundusze_drobne": [
+   {
+    "time": "17:59",
+    "kind": "news",
+    "ticker": null,
+    "title": "OFE wartości jednostek rozrachunkowych z 2026.11.09",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/ofe-wartosci-jednostek-rozrachunkowych-z-20261109",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "17:59",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GENERALI OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440335",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:16",
     "kind": "pap",
@@ -1227,6 +1305,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:56",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zamknięcia na giełdach w Europie (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/zamkniecia-na-gieldach-w-europie-tabela",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "17:55",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KPRM: Premier: Będziemy pamiętać o wszystkich bohaterach tragicznych wydarzeń w Krakowie (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440332",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:42",
     "kind": "pap",
