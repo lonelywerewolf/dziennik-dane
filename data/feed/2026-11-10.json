@@ -1,7 +1,31 @@
 {
  "date": "2026-11-10",
- "count": 28,
+ "count": 30,
  "items": [
+  {
+   "id": "bossa-espi-23753",
+   "date": "2026-11-10",
+   "time": "08:05",
+   "ts": "2026-11-10T08:05:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PCC ROKITA S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23753"
+  },
+  {
+   "id": "bossa-espi-23752",
+   "date": "2026-11-10",
+   "time": "08:04",
+   "ts": "2026-11-10T08:04:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BENEFIT SYSTEMS S.A.",
+   "title": "Rezygnacja Członka Rady Nadzorczej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23752"
+  },
   {
    "id": "strefa-8dac1401204c",
    "date": "2026-11-10",

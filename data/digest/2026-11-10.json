@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 6
+  "pozostale": 7
  },
- "duplicatesRemoved": 10,
- "total": 28,
+ "duplicatesRemoved": 11,
+ "total": 30,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -147,6 +147,17 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "08:04",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BENEFIT SYSTEMS S.A.: Rezygnacja Członka Rady Nadzorczej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23752",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "07:48",
     "kind": "news",
