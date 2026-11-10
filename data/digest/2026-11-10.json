@@ -4,7 +4,7 @@
   "podsumowania": 10,
   "wyniki": 13,
   "rekomendacje": 0,
-  "korporacyjne": 28,
+  "korporacyjne": 30,
   "makro_pl": 16,
   "swiat_rynki": 8,
   "energetyka_surowce": 2,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 41
  },
- "duplicatesRemoved": 86,
- "total": 213,
+ "duplicatesRemoved": 88,
+ "total": 217,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -244,6 +244,29 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "14:39",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GEOTRANS S.A.: Zawarcie umowy o istotnej wartości w zakresie zagospodarowania komunalnych osadów ściekowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23845",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "14:37",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KOMPAP: Nabycie akcji przez Prezesa Zarządu",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23844",
+    "src": "bossa",
+    "flags": [
+     "zarząd",
+     "insider"
+    ]
+   },
    {
     "time": "14:08",
     "kind": "espi",

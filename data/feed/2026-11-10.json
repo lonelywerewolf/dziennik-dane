@@ -1,7 +1,55 @@
 {
  "date": "2026-11-10",
- "count": 213,
+ "count": 217,
  "items": [
+  {
+   "id": "bossa-pap-440265",
+   "date": "2026-11-10",
+   "time": "14:44",
+   "ts": "2026-11-10T14:44:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "ADVERTIGO SA (15/2026) Zmiana harmonogramu publikacji raportów okresowych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440265"
+  },
+  {
+   "id": "bossa-espi-23845",
+   "date": "2026-11-10",
+   "time": "14:39",
+   "ts": "2026-11-10T14:39:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "GEOTRANS S.A.",
+   "title": "Zawarcie umowy o istotnej wartości w zakresie zagospodarowania komunalnych osadów ściekowych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23845"
+  },
+  {
+   "id": "bossa-espi-23844",
+   "date": "2026-11-10",
+   "time": "14:37",
+   "ts": "2026-11-10T14:37:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KOMPAP",
+   "title": "Nabycie akcji przez Prezesa Zarządu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23844"
+  },
+  {
+   "id": "bossa-espi-23843",
+   "date": "2026-11-10",
+   "time": "14:36",
+   "ts": "2026-11-10T14:36:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "IPOPEMA BENEFIT 3 FIZ AN",
+   "title": "WCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23843"
+  },
   {
    "id": "bossa-pap-440261",
    "date": "2026-11-10",
