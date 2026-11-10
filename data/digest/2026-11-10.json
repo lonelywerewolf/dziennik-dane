@@ -1,10 +1,10 @@
 {
  "date": "2026-11-10",
  "counts": {
-  "podsumowania": 7,
+  "podsumowania": 9,
   "wyniki": 5,
   "rekomendacje": 0,
-  "korporacyjne": 4,
+  "korporacyjne": 5,
   "makro_pl": 3,
   "swiat_rynki": 4,
   "energetyka_surowce": 1,
@@ -12,13 +12,22 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 11
+  "pozostale": 12
  },
- "duplicatesRemoved": 19,
- "total": 55,
+ "duplicatesRemoved": 21,
+ "total": 61,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "09:26",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: W Europie na giełdach dobre nastroje",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/dzien-na-rynkach-w-europie-na-gieldach-dobre-nastroje",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:16",
     "kind": "pap",
@@ -26,6 +35,15 @@
     "title": "WIG20 na otwarciu wyniósł 4179,57 pkt (0,34%)",
     "url": "https://bossa.pl/analizy/komunikaty#message-440132",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "09:10",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA FX/FI: Złoty relatywnie stabilny, pod wpływem czynników globalnych",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/dzien-na-fxfi-zloty-relatywnie-stabilny-pod-wplywem-czynnikow-globalnych",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -138,6 +156,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "09:32",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SEVENET S.A.: Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia Akcjonariuszy SEVENET S.A. na dzień 07 grudnia 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23764",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "08:54",
     "kind": "news",
@@ -276,6 +305,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:29",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BEEIN SA (14/2026) Zmiana harmonogramu publikacji raportów okresowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440135",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:03",
     "kind": "news",

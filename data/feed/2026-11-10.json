@@ -1,7 +1,66 @@
 {
  "date": "2026-11-10",
- "count": 55,
+ "count": 61,
  "items": [
+  {
+   "id": "bossa-espi-23764",
+   "date": "2026-11-10",
+   "time": "09:32",
+   "ts": "2026-11-10T09:32:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "SEVENET S.A.",
+   "title": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia Akcjonariuszy SEVENET S.A. na dzień 07 grudnia 2026 roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23764"
+  },
+  {
+   "id": "bossa-pap-440136",
+   "date": "2026-11-10",
+   "time": "09:30",
+   "ts": "2026-11-10T09:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: W Europie na giełdach dobre nastroje",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440136"
+  },
+  {
+   "id": "bossa-pap-440135",
+   "date": "2026-11-10",
+   "time": "09:29",
+   "ts": "2026-11-10T09:29:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "BEEIN SA (14/2026) Zmiana harmonogramu publikacji raportów okresowych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440135"
+  },
+  {
+   "id": "strefa-8029d4b5325f",
+   "date": "2026-11-10",
+   "time": "09:26",
+   "ts": "2026-11-10T09:26:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: W Europie na giełdach dobre nastroje",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/dzien-na-rynkach-w-europie-na-gieldach-dobre-nastroje"
+  },
+  {
+   "id": "bossa-pap-440134",
+   "date": "2026-11-10",
+   "time": "09:25",
+   "ts": "2026-11-10T09:25:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA FX/FI: Złoty relatywnie stabilny, pod wpływem czynników globalnych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440134"
+  },
   {
    "id": "bossa-pap-440133",
    "date": "2026-11-10",
@@ -37,6 +96,17 @@
    "title": "MINERAL MIDRANGE SA (12/2026) Raport kwartalny za III kwartał",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440131"
+  },
+  {
+   "id": "strefa-6faa48ad5ea4",
+   "date": "2026-11-10",
+   "time": "09:10",
+   "ts": "2026-11-10T09:10:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA FX/FI: Złoty relatywnie stabilny, pod wpływem czynników globalnych",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/dzien-na-fxfi-zloty-relatywnie-stabilny-pod-wplywem-czynnikow-globalnych"
   },
   {
    "id": "bossa-pap-440130",
