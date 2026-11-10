@@ -1,7 +1,31 @@
 {
  "date": "2026-11-10",
- "count": 329,
+ "count": 331,
  "items": [
+  {
+   "id": "bossa-espi-29001",
+   "date": "2026-11-10",
+   "time": "19:02",
+   "ts": "2026-11-10T19:02:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ALIOR BANK S.A.",
+   "title": "Zawarcie Aneksu nr 3 do Umowy zlecenia o okresowe udzielenie gwarancji ochrony kredytowej nierzeczywistej oraz Aneksu nr 3 do Umowy ramowej zlecenia o okresowe udzielanie kontrgwarancji",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-29001"
+  },
+  {
+   "id": "bossa-espi-28895",
+   "date": "2026-11-10",
+   "time": "19:01",
+   "ts": "2026-11-10T19:01:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "SZAR S.A.",
+   "title": "informacja o transakcjach wykonywanych przez osoby pełniące obowiązki zarządcze",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-28895"
+  },
   {
    "id": "bossa-espi-26521",
    "date": "2026-11-10",
