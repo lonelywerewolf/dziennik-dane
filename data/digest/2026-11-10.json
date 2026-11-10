@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 1
+  "pozostale": 2
  },
  "duplicatesRemoved": 0,
- "total": 5,
+ "total": 6,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -67,6 +67,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "06:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Elemental czeka z wyborem partnera do projektu Polvolt; realizację projektu chce rozpocząć w '27 (wywiad)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440100",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "06:00",
     "kind": "pap",
