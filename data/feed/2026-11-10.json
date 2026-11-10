@@ -1,7 +1,55 @@
 {
  "date": "2026-11-10",
- "count": 145,
+ "count": 149,
  "items": [
+  {
+   "id": "bossa-espi-23800",
+   "date": "2026-11-10",
+   "time": "13:02",
+   "ts": "2026-11-10T13:02:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF WIG20lev PORTFELOWY FIZ",
+   "title": "ZFP-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23800"
+  },
+  {
+   "id": "bossa-espi-23799",
+   "date": "2026-11-10",
+   "time": "12:59",
+   "ts": "2026-11-10T12:59:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "FASING",
+   "title": "Wykaz akcjonariuszy posiadających co najmniej 5% głosów na NWZ Spółki w dniu 10 listopada 2026 roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23799"
+  },
+  {
+   "id": "bossa-pap-440204",
+   "date": "2026-11-10",
+   "time": "12:57",
+   "ts": "2026-11-10T12:57:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeksy transakcyjne - POLSTR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440204"
+  },
+  {
+   "id": "bossa-pap-440203",
+   "date": "2026-11-10",
+   "time": "12:56",
+   "ts": "2026-11-10T12:56:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeksy transakcyjne - WIRON",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440203"
+  },
   {
    "id": "bossa-pap-440202",
    "date": "2026-11-10",
