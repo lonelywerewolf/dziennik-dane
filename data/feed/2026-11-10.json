@@ -1,7 +1,31 @@
 {
  "date": "2026-11-10",
- "count": 30,
+ "count": 33,
  "items": [
+  {
+   "id": "bossa-espi-23754",
+   "date": "2026-11-10",
+   "time": "08:24",
+   "ts": "2026-11-10T08:24:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PCC EXOL S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23754"
+  },
+  {
+   "id": "bossa-pap-440117",
+   "date": "2026-11-10",
+   "time": "08:17",
+   "ts": "2026-11-10T08:17:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wyniki PCC Rokita w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440117"
+  },
   {
    "id": "bossa-espi-23753",
    "date": "2026-11-10",
@@ -25,6 +49,17 @@
    "title": "Rezygnacja Członka Rady Nadzorczej",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23752"
+  },
+  {
+   "id": "strefa-20ea2d5f9851",
+   "date": "2026-11-10",
+   "time": "07:55",
+   "ts": "2026-11-10T07:55:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wyniki PCC Rokita w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/wyniki-pcc-rokita-w-iii-kw-2026-roku-vs-konsensus-pap-tabela"
   },
   {
    "id": "strefa-8dac1401204c",

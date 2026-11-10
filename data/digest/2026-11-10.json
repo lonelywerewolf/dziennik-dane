@@ -2,7 +2,7 @@
  "date": "2026-11-10",
  "counts": {
   "podsumowania": 4,
-  "wyniki": 1,
+  "wyniki": 2,
   "rekomendacje": 0,
   "korporacyjne": 1,
   "makro_pl": 2,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 7
  },
- "duplicatesRemoved": 11,
- "total": 30,
+ "duplicatesRemoved": 13,
+ "total": 33,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -57,6 +57,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "07:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wyniki PCC Rokita w III kw. 2026 roku vs. konsensus PAP (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/wyniki-pcc-rokita-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "07:50",
     "kind": "pap",
