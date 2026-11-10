@@ -1,7 +1,19 @@
 {
  "date": "2026-11-10",
- "count": 342,
+ "count": 344,
  "items": [
+  {
+   "id": "bossa-pap-440367",
+   "date": "2026-11-10",
+   "time": "20:48",
+   "ts": "2026-11-10T20:48:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Orlen wypowiedział jedną z dwóch umów długoterminowych na dostawy skroplonego gazu ziemnego zawartych z QatarEnergy",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440367"
+  },
   {
    "id": "bossa-espi-40109",
    "date": "2026-11-10",
@@ -277,6 +289,17 @@
    "title": "Zawarcie Aneksu nr 3 do Umowy zlecenia o okresowe udzielanie gwarancji ochrony kredytowej nierzeczywistej oraz Aneksu nr 3 do Umowy ramowej zlecenia o okresowe udzielanie kontrgwarancji",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-26144"
+  },
+  {
+   "id": "strefa-ccf3a332ff64",
+   "date": "2026-11-10",
+   "time": "18:27",
+   "ts": "2026-11-10T18:27:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Orlen wypowiedział jedną z dwóch umów długoterminowych na dostawy skroplonego gazu ziemnego zawartych z QatarEnergy",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/orlen-wypowiedzial-jedna-z-dwoch-umow-dlugoterminowych-na-dostawy-skroplonego"
   },
   {
    "id": "bossa-pap-440343",
