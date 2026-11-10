@@ -5,17 +5,17 @@
   "wyniki": 14,
   "rekomendacje": 0,
   "korporacyjne": 32,
-  "makro_pl": 17,
-  "swiat_rynki": 9,
+  "makro_pl": 18,
+  "swiat_rynki": 10,
   "energetyka_surowce": 2,
   "nieruchomosci": 2,
   "fundusze_drobne": 6,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 45
+  "pozostale": 46
  },
- "duplicatesRemoved": 94,
- "total": 233,
+ "duplicatesRemoved": 95,
+ "total": 237,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -590,6 +590,15 @@
   ],
   "makro_pl": [
    {
+    "time": "15:41",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Rząd przyjął uchwałę ws. programu dot. kierunków działań na rzecz poprawy jakości prawa gospodarczego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440280",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "15:10",
     "kind": "pap",
     "ticker": null,
@@ -744,6 +753,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "15:18",
+    "kind": "news",
+    "ticker": null,
+    "title": "Po otwarciu sesji DJI spada o 0,41 proc., a S&P500 traci 0,67 proc.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/po-otwarciu-sesji-dji-spada-o-041-proc-sp500-traci-067-proc",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "15:00",
     "kind": "pap",
@@ -937,6 +955,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "15:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MS: Surowsze kary za organizowanie nielegalnego przekraczania granicy i napaści na funkcjonariuszy (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440278",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:20",
     "kind": "pap",

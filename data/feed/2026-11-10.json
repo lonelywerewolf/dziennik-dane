@@ -1,7 +1,43 @@
 {
  "date": "2026-11-10",
- "count": 233,
+ "count": 237,
  "items": [
+  {
+   "id": "bossa-pap-440280",
+   "date": "2026-11-10",
+   "time": "15:41",
+   "ts": "2026-11-10T15:41:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Rząd przyjął uchwałę ws. programu dot. kierunków działań na rzecz poprawy jakości prawa gospodarczego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440280"
+  },
+  {
+   "id": "bossa-pap-440279",
+   "date": "2026-11-10",
+   "time": "15:34",
+   "ts": "2026-11-10T15:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Po otwarciu sesji DJI spada o 0,41 proc., a S&P500 traci 0,67 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440279"
+  },
+  {
+   "id": "bossa-pap-440278",
+   "date": "2026-11-10",
+   "time": "15:32",
+   "ts": "2026-11-10T15:32:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MS: Surowsze kary za organizowanie nielegalnego przekraczania granicy i napaści na funkcjonariuszy (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440278"
+  },
   {
    "id": "bossa-pap-440277",
    "date": "2026-11-10",
@@ -13,6 +49,17 @@
    "title": "MFiPR: Nowe pociągi na Śląsku (komunikat)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440277"
+  },
+  {
+   "id": "strefa-e343cf4f5e83",
+   "date": "2026-11-10",
+   "time": "15:18",
+   "ts": "2026-11-10T15:18:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Po otwarciu sesji DJI spada o 0,41 proc., a S&P500 traci 0,67 proc.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/po-otwarciu-sesji-dji-spada-o-041-proc-sp500-traci-067-proc"
   },
   {
    "id": "bossa-pap-440276",
