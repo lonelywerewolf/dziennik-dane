@@ -2,7 +2,7 @@
  "date": "2026-11-10",
  "counts": {
   "podsumowania": 17,
-  "wyniki": 19,
+  "wyniki": 20,
   "rekomendacje": 0,
   "korporacyjne": 57,
   "makro_pl": 20,
@@ -15,7 +15,7 @@
   "pozostale": 63
  },
  "duplicatesRemoved": 124,
- "total": 336,
+ "total": 337,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -178,6 +178,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "19:49",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MADNETIC GAMES SA (15/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440361",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:39",
     "kind": "pap",
