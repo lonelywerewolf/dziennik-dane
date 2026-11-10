@@ -1,11 +1,11 @@
 {
  "date": "2026-11-10",
  "counts": {
-  "podsumowania": 11,
+  "podsumowania": 12,
   "wyniki": 14,
   "rekomendacje": 0,
-  "korporacyjne": 35,
-  "makro_pl": 18,
+  "korporacyjne": 36,
+  "makro_pl": 19,
   "swiat_rynki": 13,
   "energetyka_surowce": 2,
   "nieruchomosci": 2,
@@ -14,11 +14,20 @@
   "obserwowane": 0,
   "pozostale": 50
  },
- "duplicatesRemoved": 97,
- "total": 250,
+ "duplicatesRemoved": 98,
+ "total": 254,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "16:03",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: Na giełdzie spokojna sesja; rosną m. in. LPP, Kruk i Orlen, ale spada energetyka",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/dzien-na-gpw-na-gieldzie-spokojna-sesja-rosna-m-lpp-kruk-i-orlen-ale-spada",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "14:33",
     "kind": "news",
@@ -262,6 +271,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "16:21",
+    "kind": "espi",
+    "ticker": null,
+    "title": "DELKO S.A.: Rozszerzenie porządku obrad Zwyczajnego Walnego Zgromadzenia DELKO S.A. zwołanego na dzień 3 grudnia 2026 roku, w związku z otrzymanym żądaniem akcjonariusza.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23857",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "16:03",
     "kind": "espi",
@@ -620,6 +640,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "16:24",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Zmiany cen LPG mają nieporównanie mniejszy wpływ na CPI niż zmiany cen benzyny i ON - MF",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440294",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:41",
     "kind": "pap",

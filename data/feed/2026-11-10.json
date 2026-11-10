@@ -1,7 +1,43 @@
 {
  "date": "2026-11-10",
- "count": 250,
+ "count": 254,
  "items": [
+  {
+   "id": "bossa-pap-440294",
+   "date": "2026-11-10",
+   "time": "16:24",
+   "ts": "2026-11-10T16:24:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zmiany cen LPG mają nieporównanie mniejszy wpływ na CPI niż zmiany cen benzyny i ON - MF",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440294"
+  },
+  {
+   "id": "bossa-espi-23857",
+   "date": "2026-11-10",
+   "time": "16:21",
+   "ts": "2026-11-10T16:21:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "DELKO S.A.",
+   "title": "Rozszerzenie porządku obrad Zwyczajnego Walnego Zgromadzenia DELKO S.A. zwołanego na dzień 3 grudnia 2026 roku, w związku z otrzymanym żądaniem akcjonariusza.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23857"
+  },
+  {
+   "id": "bossa-pap-440292",
+   "date": "2026-11-10",
+   "time": "16:18",
+   "ts": "2026-11-10T16:18:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: Na giełdzie spokojna sesja; rosną m. in. LPP, Kruk i Orlen, ale spada energetyka",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440292"
+  },
   {
    "id": "bossa-espi-23856",
    "date": "2026-11-10",
@@ -13,6 +49,17 @@
    "title": "Korekta metadanych ESAP w raporcie bieżącym nr 44/2026 z dnia 5 listopada 2026 roku.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23856"
+  },
+  {
+   "id": "strefa-6999e79e1d71",
+   "date": "2026-11-10",
+   "time": "16:03",
+   "ts": "2026-11-10T16:03:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: Na giełdzie spokojna sesja; rosną m. in. LPP, Kruk i Orlen, ale spada energetyka",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/dzien-na-gpw-na-gieldzie-spokojna-sesja-rosna-m-lpp-kruk-i-orlen-ale-spada"
   },
   {
    "id": "bossa-espi-23855",
