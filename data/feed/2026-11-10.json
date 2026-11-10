@@ -1,7 +1,66 @@
 {
  "date": "2026-11-10",
- "count": 115,
+ "count": 120,
  "items": [
+  {
+   "id": "bossa-pap-440179",
+   "date": "2026-11-10",
+   "time": "12:11",
+   "ts": "2026-11-10T12:11:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MFiPR: 4,33 mld zł z KPO zainwestowanych w woj. zachodniopomorskim (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440179"
+  },
+  {
+   "id": "bossa-espi-23780",
+   "date": "2026-11-10",
+   "time": "12:10",
+   "ts": "2026-11-10T12:10:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 2 x SHORT PORTFELOWY FIZ",
+   "title": "ZFP-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23780"
+  },
+  {
+   "id": "bossa-pap-440177",
+   "date": "2026-11-10",
+   "time": "12:08",
+   "ts": "2026-11-10T12:08:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "83 proc. firm zamierza zwiększyć inwestycje w zrównoważony rozwój w ciągu 12-18 mies. - raport",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440177"
+  },
+  {
+   "id": "bossa-pap-440176",
+   "date": "2026-11-10",
+   "time": "12:02",
+   "ts": "2026-11-10T12:02:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PHS Hydrotor dostał ofertę nabycia nieruchomości za 19 mln zł netto",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440176"
+  },
+  {
+   "id": "strefa-2edf4cb05bc6",
+   "date": "2026-11-10",
+   "time": "11:58",
+   "ts": "2026-11-10T11:58:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "PHS Hydrotor dostał ofertę nabycia nieruchomości za 19 mln zł netto",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/phs-hydrotor-dostal-oferte-nabycia-nieruchomosci-za-19-mln-zl-netto"
+  },
   {
    "id": "bossa-pap-440175",
    "date": "2026-11-10",

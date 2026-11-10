@@ -4,18 +4,18 @@
   "podsumowania": 10,
   "wyniki": 11,
   "rekomendacje": 0,
-  "korporacyjne": 14,
-  "makro_pl": 7,
+  "korporacyjne": 15,
+  "makro_pl": 8,
   "swiat_rynki": 4,
   "energetyka_surowce": 1,
   "nieruchomosci": 2,
   "fundusze_drobne": 2,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 28
+  "pozostale": 29
  },
- "duplicatesRemoved": 35,
- "total": 115,
+ "duplicatesRemoved": 37,
+ "total": 120,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -225,6 +225,15 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "11:58",
+    "kind": "news",
+    "ticker": null,
+    "title": "PHS Hydrotor dostał ofertę nabycia nieruchomości za 19 mln zł netto",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/phs-hydrotor-dostal-oferte-nabycia-nieruchomosci-za-19-mln-zl-netto",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "11:32",
     "kind": "espi",
     "ticker": null,
@@ -374,6 +383,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "12:11",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MFiPR: 4,33 mld zł z KPO zainwestowanych w woj. zachodniopomorskim (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440179",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:55",
     "kind": "news",
@@ -540,6 +558,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:08",
+    "kind": "pap",
+    "ticker": null,
+    "title": "83 proc. firm zamierza zwiększyć inwestycje w zrównoważony rozwój w ciągu 12-18 mies. - raport",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440177",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:41",
     "kind": "pap",
