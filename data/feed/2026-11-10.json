@@ -1,7 +1,31 @@
 {
  "date": "2026-11-10",
- "count": 110,
+ "count": 112,
  "items": [
+  {
+   "id": "bossa-pap-440173",
+   "date": "2026-11-10",
+   "time": "11:41",
+   "ts": "2026-11-10T11:41:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Unibep liczy na wyższy backlog w '27, ale najważniejsza pozostaje rentowność (wywiad)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440173"
+  },
+  {
+   "id": "bossa-espi-23778",
+   "date": "2026-11-10",
+   "time": "11:37",
+   "ts": "2026-11-10T11:37:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "HYDROTOR",
+   "title": "Planowana sprzedaż nieruchomości",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23778"
+  },
   {
    "id": "bossa-pap-440171",
    "date": "2026-11-10",

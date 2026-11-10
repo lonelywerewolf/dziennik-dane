@@ -8,14 +8,14 @@
   "makro_pl": 6,
   "swiat_rynki": 4,
   "energetyka_surowce": 1,
-  "nieruchomosci": 1,
+  "nieruchomosci": 2,
   "fundusze_drobne": 2,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 27
+  "pozostale": 28
  },
  "duplicatesRemoved": 34,
- "total": 110,
+ "total": 112,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -471,6 +471,15 @@
   ],
   "nieruchomosci": [
    {
+    "time": "11:37",
+    "kind": "espi",
+    "ticker": null,
+    "title": "HYDROTOR: Planowana sprzedaż nieruchomości",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23778",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "06:41",
     "kind": "news",
     "ticker": null,
@@ -513,6 +522,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:41",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Unibep liczy na wyższy backlog w '27, ale najważniejsza pozostaje rentowność (wywiad)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440173",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:36",
     "kind": "pap",

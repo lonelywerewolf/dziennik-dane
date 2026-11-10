@@ -1,39 +1,39 @@
 {
  "q": {
   "ASML": {
-   "price": 1517.13,
-   "chgPct": 0.26,
-   "at": "Nov 10, 2026 5:37 AM ET",
+   "price": 1512.57,
+   "chgPct": -0.04,
+   "at": "Nov 10, 2026 5:49 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/asml"
   },
   "AVGO": {
-   "price": 318.69,
-   "chgPct": -0.25,
-   "at": "Nov 10, 2026 5:37 AM ET",
+   "price": 317.4,
+   "chgPct": -0.65,
+   "at": "Nov 10, 2026 5:49 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/avgo"
   },
   "MPWR": {
-   "price": 1362.87,
-   "chgPct": -1.81,
-   "at": "Nov 10, 2026 5:34 AM ET",
+   "price": 1366.09,
+   "chgPct": -1.58,
+   "at": "Nov 10, 2026 5:49 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/mpwr"
   },
   "NVDA": {
-   "price": 181.2888,
-   "chgPct": 1.47,
-   "at": "Nov 10, 2026 5:37 AM ET",
+   "price": 179.22,
+   "chgPct": 0.31,
+   "at": "Nov 10, 2026 5:49 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/nvda"
   },
   "TSM": {
-   "price": 392.1683,
-   "chgPct": 0.91,
-   "at": "Nov 10, 2026 5:37 AM ET",
+   "price": 389.2812,
+   "chgPct": 0.17,
+   "at": "Nov 10, 2026 5:49 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/tsm"
   },
   "VRT": {
-   "price": 201.0892,
-   "chgPct": 0.31,
-   "at": "Nov 10, 2026 5:37 AM ET",
+   "price": 200.5,
+   "chgPct": 0.01,
+   "at": "Nov 10, 2026 5:49 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/vrt"
   },
   "^NDQ": {
@@ -49,17 +49,17 @@
    "src": "https://www.nasdaq.com/market-activity/index/sox"
   },
   "^SPX": {
-   "price": 753.24,
-   "chgPct": 0.07,
-   "at": "Nov 10, 2026 5:37 AM ET",
+   "price": 752.8585,
+   "chgPct": 0.02,
+   "at": "Nov 10, 2026 5:49 AM ET",
    "src": "https://www.nasdaq.com/market-activity/index/spy"
   },
   "MRVL": {
-   "price": 154.5588,
-   "chgPct": -0.03,
-   "at": "Nov 10, 2026 5:37 AM ET",
+   "price": 153.45,
+   "chgPct": -0.74,
+   "at": "Nov 10, 2026 5:49 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/mrvl"
   }
  },
- "updatedAt": "2026-11-10T11:37:05+01:00"
+ "updatedAt": "2026-11-10T11:49:01+01:00"
 }
