@@ -4,7 +4,7 @@
   "podsumowania": 17,
   "wyniki": 20,
   "rekomendacje": 0,
-  "korporacyjne": 58,
+  "korporacyjne": 59,
   "makro_pl": 20,
   "swiat_rynki": 17,
   "energetyka_surowce": 5,
@@ -15,7 +15,7 @@
   "pozostale": 67
  },
  "duplicatesRemoved": 127,
- "total": 346,
+ "total": 347,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -372,6 +372,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "21:19",
+    "kind": "espi",
+    "ticker": null,
+    "title": "CREOTECH INSTRUMENTS S.A.: Żądanie akcjonariusza umieszczenia określonej sprawy w porządku obrad Nadzwyczajnego Walnego Zgromadzenia wraz z projektami uchwał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-46829",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "20:29",
     "kind": "espi",
