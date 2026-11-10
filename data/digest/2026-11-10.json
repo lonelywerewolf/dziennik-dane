@@ -1,24 +1,33 @@
 {
  "date": "2026-11-10",
  "counts": {
-  "podsumowania": 13,
-  "wyniki": 14,
+  "podsumowania": 14,
+  "wyniki": 16,
   "rekomendacje": 0,
-  "korporacyjne": 39,
+  "korporacyjne": 40,
   "makro_pl": 19,
   "swiat_rynki": 14,
   "energetyka_surowce": 2,
   "nieruchomosci": 2,
-  "fundusze_drobne": 8,
+  "fundusze_drobne": 9,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 53
+  "pozostale": 55
  },
- "duplicatesRemoved": 104,
- "total": 269,
+ "duplicatesRemoved": 105,
+ "total": 277,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "17:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA FX/FI: Złoty osłabił się wobec głównych walut; w dłuższym terminie powinien się umacniać",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/dzien-na-fxfi-zloty-oslabil-sie-wobec-glownych-walut-w-dluzszym-terminie",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "16:49",
     "kind": "skrot",
@@ -140,6 +149,24 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "17:12",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Thorium Space Spółka Akcyjna (8/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440309",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:10",
+    "kind": "pap",
+    "ticker": null,
+    "title": "SEDIVIO SA (15/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440307",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:13",
     "kind": "pap",
@@ -280,6 +307,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "17:13",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BEST NFIZW: Zawarcie przez Emitenta aneksu do Umowy o kredyt Rewolwingowy",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23868",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "16:57",
     "kind": "espi",
@@ -1028,6 +1066,15 @@
   ],
   "fundusze_drobne": [
    {
+    "time": "17:16",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Nationale-Nederlanden OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440312",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "16:35",
     "kind": "pap",
     "ticker": null,
@@ -1113,6 +1160,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:17",
+    "kind": "espi",
+    "ticker": null,
+    "title": "POLARIS IT GROUP S.A.: Planowane wniesienie wkładu niepieniężnego w postaci przedsiębiorstwa Gymbit.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23870",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:14",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ZREMB-CHOJNICE S.A.: Q",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23869",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:01",
     "kind": "pap",

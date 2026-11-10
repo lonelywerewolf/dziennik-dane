@@ -1,7 +1,91 @@
 {
  "date": "2026-11-10",
- "count": 269,
+ "count": 277,
  "items": [
+  {
+   "id": "bossa-espi-23870",
+   "date": "2026-11-10",
+   "time": "17:17",
+   "ts": "2026-11-10T17:17:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "POLARIS IT GROUP S.A.",
+   "title": "Planowane wniesienie wkładu niepieniężnego w postaci przedsiębiorstwa Gymbit.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23870"
+  },
+  {
+   "id": "bossa-pap-440312",
+   "date": "2026-11-10",
+   "time": "17:16",
+   "ts": "2026-11-10T17:16:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Nationale-Nederlanden OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440312"
+  },
+  {
+   "id": "bossa-espi-23869",
+   "date": "2026-11-10",
+   "time": "17:14",
+   "ts": "2026-11-10T17:14:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ZREMB-CHOJNICE S.A.",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23869"
+  },
+  {
+   "id": "bossa-espi-23868",
+   "date": "2026-11-10",
+   "time": "17:13",
+   "ts": "2026-11-10T17:13:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BEST NFIZW",
+   "title": "Zawarcie przez Emitenta aneksu do Umowy o kredyt Rewolwingowy",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23868"
+  },
+  {
+   "id": "bossa-pap-440309",
+   "date": "2026-11-10",
+   "time": "17:12",
+   "ts": "2026-11-10T17:12:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Thorium Space Spółka Akcyjna (8/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440309"
+  },
+  {
+   "id": "bossa-pap-440308",
+   "date": "2026-11-10",
+   "time": "17:12",
+   "ts": "2026-11-10T17:12:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA FX/FI: Złoty osłabił się wobec głównych walut; w dłuższym terminie powinien się umacniać",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440308"
+  },
+  {
+   "id": "bossa-pap-440307",
+   "date": "2026-11-10",
+   "time": "17:10",
+   "ts": "2026-11-10T17:10:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "SEDIVIO SA (15/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440307"
+  },
   {
    "id": "bossa-pap-440305",
    "date": "2026-11-10",
@@ -37,6 +121,17 @@
    "title": "QSr",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23863"
+  },
+  {
+   "id": "strefa-9daafd57a56c",
+   "date": "2026-11-10",
+   "time": "17:01",
+   "ts": "2026-11-10T17:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA FX/FI: Złoty osłabił się wobec głównych walut; w dłuższym terminie powinien się umacniać",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/dzien-na-fxfi-zloty-oslabil-sie-wobec-glownych-walut-w-dluzszym-terminie"
   },
   {
    "id": "bossa-pap-440303",
