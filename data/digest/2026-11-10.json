@@ -2,9 +2,9 @@
  "date": "2026-11-10",
  "counts": {
   "podsumowania": 10,
-  "wyniki": 7,
+  "wyniki": 9,
   "rekomendacje": 0,
-  "korporacyjne": 10,
+  "korporacyjne": 11,
   "makro_pl": 6,
   "swiat_rynki": 4,
   "energetyka_surowce": 1,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 19
+  "pozostale": 22
  },
  "duplicatesRemoved": 32,
- "total": 91,
+ "total": 97,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -114,6 +114,27 @@
   ],
   "wyniki": [
    {
+    "time": "10:52",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wyniki B-Act w III kwartale pod wpływem ofertowania i startu rekordowych kontraktów. Spółka spodziewa się pozytywnych trendów w kolejnych kwartałach",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/wyniki-b-act-w-iii-kwartale-pod-wplywem-ofertowania-i-startu-rekordowych",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki",
+     "umowa"
+    ]
+   },
+   {
+    "time": "10:39",
+    "kind": "news",
+    "ticker": null,
+    "title": "Software Mansion w III kw. z dwukrotnym wzrostem zysku netto, rekordowymi przychodami i wyższą rentownością",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/software-mansion-w-iii-kw-z-dwukrotnym-wzrostem-zysku-netto-rekordowymi",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "10:33",
     "kind": "pap",
     "ticker": null,
@@ -185,6 +206,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "10:53",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zmiana w Zarządzie Benefit Systems SA",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/zmiana-w-zarzadzie-benefit-systems-sa",
+    "src": "strefainwestorow",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "10:43",
     "kind": "espi",
@@ -422,6 +454,33 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "10:54",
+    "kind": "pap",
+    "ticker": null,
+    "title": "RCB: Zakończył się atak powietrzny na Ukrainę; brak zagrożenia na terenie Polski (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440158",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:51",
+    "kind": "news",
+    "ticker": null,
+    "title": "E-podpis imienny – nowość na rynku podpisów elektronicznych",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/e-podpis-imienny-nowosc-na-rynku-podpisow-elektronicznych",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "10:51",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Miesięczny Indeks Koniunktury spadł w listopadzie do 99,3 pkt., wracając poniżej poziomu neutralnego - PIE",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440157",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:39",
     "kind": "espi",

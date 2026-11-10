@@ -1,7 +1,64 @@
 {
  "date": "2026-11-10",
- "count": 91,
+ "count": 97,
  "items": [
+  {
+   "id": "bossa-pap-440158",
+   "date": "2026-11-10",
+   "time": "10:54",
+   "ts": "2026-11-10T10:54:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "RCB: Zakończył się atak powietrzny na Ukrainę; brak zagrożenia na terenie Polski (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440158"
+  },
+  {
+   "id": "strefa-60798c52657e",
+   "date": "2026-11-10",
+   "time": "10:53",
+   "ts": "2026-11-10T10:53:39+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Zmiana w Zarządzie Benefit Systems SA",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/zmiana-w-zarzadzie-benefit-systems-sa"
+  },
+  {
+   "id": "strefa-254753b28103",
+   "date": "2026-11-10",
+   "time": "10:52",
+   "ts": "2026-11-10T10:52:53+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wyniki B-Act w III kwartale pod wpływem ofertowania i startu rekordowych kontraktów. Spółka spodziewa się pozytywnych trendów w kolejnych kwartałach",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/wyniki-b-act-w-iii-kwartale-pod-wplywem-ofertowania-i-startu-rekordowych"
+  },
+  {
+   "id": "strefa-35341f302a04",
+   "date": "2026-11-10",
+   "time": "10:51",
+   "ts": "2026-11-10T10:51:28+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "E-podpis imienny – nowość na rynku podpisów elektronicznych",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/e-podpis-imienny-nowosc-na-rynku-podpisow-elektronicznych"
+  },
+  {
+   "id": "bossa-pap-440157",
+   "date": "2026-11-10",
+   "time": "10:51",
+   "ts": "2026-11-10T10:51:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Miesięczny Indeks Koniunktury spadł w listopadzie do 99,3 pkt., wracając poniżej poziomu neutralnego - PIE",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440157"
+  },
   {
    "id": "bossa-espi-23770",
    "date": "2026-11-10",
@@ -25,6 +82,17 @@
    "title": "Powiadomienie o transakcjach na instrumentach finansowych mBanku Hipotecznego S.A. dokonanych przez mBank S.A.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-23769"
+  },
+  {
+   "id": "strefa-8a6605bd6855",
+   "date": "2026-11-10",
+   "time": "10:39",
+   "ts": "2026-11-10T10:39:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Software Mansion w III kw. z dwukrotnym wzrostem zysku netto, rekordowymi przychodami i wyższą rentownością",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/software-mansion-w-iii-kw-z-dwukrotnym-wzrostem-zysku-netto-rekordowymi"
   },
   {
    "id": "bossa-espi-23768",
