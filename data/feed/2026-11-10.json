@@ -1,7 +1,31 @@
 {
  "date": "2026-11-10",
- "count": 331,
+ "count": 333,
  "items": [
+  {
+   "id": "bossa-espi-30127",
+   "date": "2026-11-10",
+   "time": "19:21",
+   "ts": "2026-11-10T19:21:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BANK POCZTOWY S.A.",
+   "title": "Rada Nadzorcza Banku Pocztowego S.A. powołała Pana Jędrzeja Marciniaka na stanowisko Prezesa Zarządu Banku Pocztowego S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-30127"
+  },
+  {
+   "id": "bossa-espi-30058",
+   "date": "2026-11-10",
+   "time": "19:15",
+   "ts": "2026-11-10T19:15:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ENERGY S.A.",
+   "title": "Zawarcie umowy na dostawę i montaż urządzeń do kompensacji mocy biernej dla sektora publicznego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-30058"
+  },
   {
    "id": "bossa-espi-29001",
    "date": "2026-11-10",
