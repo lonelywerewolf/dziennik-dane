@@ -6,7 +6,7 @@
   "rekomendacje": 0,
   "korporacyjne": 23,
   "makro_pl": 11,
-  "swiat_rynki": 6,
+  "swiat_rynki": 7,
   "energetyka_surowce": 1,
   "nieruchomosci": 2,
   "fundusze_drobne": 4,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 34
  },
- "duplicatesRemoved": 54,
- "total": 157,
+ "duplicatesRemoved": 57,
+ "total": 161,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -562,6 +562,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "13:16",
+    "kind": "news",
+    "ticker": null,
+    "title": "Medtechy Adiuvo Investments przyspieszają ekspansję. FixNip celuje w USA, Smartmedics w kraje Zatoki Perskiej",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/medtechy-adiuvo-investments-przyspieszaja-ekspansje-fixnip-celuje-w-usa",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "13:13",
     "kind": "pap",

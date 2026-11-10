@@ -1,7 +1,54 @@
 {
  "date": "2026-11-10",
- "count": 157,
+ "count": 161,
  "items": [
+  {
+   "id": "bossa-espi-23807",
+   "date": "2026-11-10",
+   "time": "13:24",
+   "ts": "2026-11-10T13:24:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "EQUES AKCJI SEKTORA PRYWATNEGO FIZ",
+   "title": "RB_FI_E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23807"
+  },
+  {
+   "id": "bossa-espi-23806",
+   "date": "2026-11-10",
+   "time": "13:22",
+   "ts": "2026-11-10T13:22:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF S&P 500 PLN-HEDGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 226 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23806"
+  },
+  {
+   "id": "bossa-espi-23805",
+   "date": "2026-11-10",
+   "time": "13:22",
+   "ts": "2026-11-10T13:22:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF MWIG40TRlv PORTFELOWY FIZ",
+   "title": "ZFP-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-23805"
+  },
+  {
+   "id": "strefa-bd057b5b4a93",
+   "date": "2026-11-10",
+   "time": "13:16",
+   "ts": "2026-11-10T13:16:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Medtechy Adiuvo Investments przyspieszają ekspansję. FixNip celuje w USA, Smartmedics w kraje Zatoki Perskiej",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/medtechy-adiuvo-investments-przyspieszaja-ekspansje-fixnip-celuje-w-usa"
+  },
   {
    "id": "bossa-pap-440213",
    "date": "2026-11-10",
