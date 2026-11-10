@@ -1,7 +1,76 @@
 {
  "date": "2026-11-10",
- "count": 75,
+ "count": 81,
  "items": [
+  {
+   "id": "strefa-2282ea6a7e21",
+   "date": "2026-11-10",
+   "time": "10:21",
+   "ts": "2026-11-10T10:21:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Sprzedaż obligacji detalicznych w październiku wyniosła ok. 8,2 mld zł - MF",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/sprzedaz-obligacji-detalicznych-w-pazdzierniku-wyniosla-ok-82-mld-zl-mf"
+  },
+  {
+   "id": "bossa-pap-440148",
+   "date": "2026-11-10",
+   "time": "10:21",
+   "ts": "2026-11-10T10:21:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Sprzedaż obligacji detalicznych w październiku wyniosła ok. 8,2 mld zł - MF",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440148"
+  },
+  {
+   "id": "bossa-pap-440147",
+   "date": "2026-11-10",
+   "time": "10:20",
+   "ts": "2026-11-10T10:20:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "TSG miało w III kw. 8,9 mln zł skor. EBITDA, wobec 12,6 mln zł konsensusu (popr.)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440147"
+  },
+  {
+   "id": "strefa-26e07fc5c7c8",
+   "date": "2026-11-10",
+   "time": "10:12",
+   "ts": "2026-11-10T10:12:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "TSG miało w III kw. 8,9 mln zł skor. EBITDA, wobec 12,6 mln zł konsensusu (popr.)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/tsg-mialo-w-iii-kw-89-mln-zl-skor-ebitda-wobec-126-mln-zl-konsensusu-popr"
+  },
+  {
+   "id": "bossa-pap-440146",
+   "date": "2026-11-10",
+   "time": "10:11",
+   "ts": "2026-11-10T10:11:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "W III kw. 2026 r. odnotowano 108 upadłości firm - GUS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440146"
+  },
+  {
+   "id": "strefa-8988bd1b092a",
+   "date": "2026-11-10",
+   "time": "10:08",
+   "ts": "2026-11-10T10:08:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "W III kw. 2026 r. odnotowano 108 upadłości firm - GUS",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/w-iii-kw-2026-r-odnotowano-108-upadlosci-firm-gus"
+  },
   {
    "id": "strefa-d057fe35d08b",
    "date": "2026-11-10",

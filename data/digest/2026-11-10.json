@@ -2,10 +2,10 @@
  "date": "2026-11-10",
  "counts": {
   "podsumowania": 9,
-  "wyniki": 5,
+  "wyniki": 6,
   "rekomendacje": 0,
-  "korporacyjne": 8,
-  "makro_pl": 4,
+  "korporacyjne": 9,
+  "makro_pl": 5,
   "swiat_rynki": 4,
   "energetyka_surowce": 1,
   "nieruchomosci": 1,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 16
  },
- "duplicatesRemoved": 26,
- "total": 75,
+ "duplicatesRemoved": 29,
+ "total": 81,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -105,6 +105,15 @@
   ],
   "wyniki": [
    {
+    "time": "10:12",
+    "kind": "news",
+    "ticker": null,
+    "title": "TSG miało w III kw. 8,9 mln zł skor. EBITDA, wobec 12,6 mln zł konsensusu (popr.)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/tsg-mialo-w-iii-kw-89-mln-zl-skor-ebitda-wobec-126-mln-zl-konsensusu-popr",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "09:12",
     "kind": "pap",
     "ticker": null,
@@ -156,6 +165,15 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "10:08",
+    "kind": "news",
+    "ticker": null,
+    "title": "W III kw. 2026 r. odnotowano 108 upadłości firm - GUS",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/w-iii-kw-2026-r-odnotowano-108-upadlosci-firm-gus",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "10:06",
     "kind": "news",
@@ -246,6 +264,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "10:21",
+    "kind": "news",
+    "ticker": null,
+    "title": "Sprzedaż obligacji detalicznych w październiku wyniosła ok. 8,2 mld zł - MF",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/sprzedaz-obligacji-detalicznych-w-pazdzierniku-wyniosla-ok-82-mld-zl-mf",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:36",
     "kind": "espi",
