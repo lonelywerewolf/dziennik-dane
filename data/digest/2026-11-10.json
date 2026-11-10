@@ -4,7 +4,7 @@
   "podsumowania": 17,
   "wyniki": 19,
   "rekomendacje": 0,
-  "korporacyjne": 56,
+  "korporacyjne": 57,
   "makro_pl": 20,
   "swiat_rynki": 16,
   "energetyka_surowce": 5,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 12,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 62
+  "pozostale": 63
  },
- "duplicatesRemoved": 123,
- "total": 333,
+ "duplicatesRemoved": 124,
+ "total": 336,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -363,6 +363,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "19:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "RN Banku Pocztowego powołała Jędrzeja Marciniaka na stanowisko prezesa",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440360",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "19:21",
     "kind": "espi",
@@ -1475,6 +1486,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "19:25",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KPRP: Wizyta robocza Prezydenta Rzeczypospolitej Polskiej i Prezydenta Republiki Słowackiej w Wielkopolsce – program prasowy (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440358",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:56",
     "kind": "news",

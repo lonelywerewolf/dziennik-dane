@@ -1,7 +1,43 @@
 {
  "date": "2026-11-10",
- "count": 333,
+ "count": 336,
  "items": [
+  {
+   "id": "bossa-pap-440360",
+   "date": "2026-11-10",
+   "time": "19:30",
+   "ts": "2026-11-10T19:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "RN Banku Pocztowego powołała Jędrzeja Marciniaka na stanowisko prezesa",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440360"
+  },
+  {
+   "id": "bossa-espi-31149",
+   "date": "2026-11-10",
+   "time": "19:29",
+   "ts": "2026-11-10T19:29:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "08OCTAVA",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-31149"
+  },
+  {
+   "id": "bossa-pap-440358",
+   "date": "2026-11-10",
+   "time": "19:25",
+   "ts": "2026-11-10T19:25:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KPRP: Wizyta robocza Prezydenta Rzeczypospolitej Polskiej i Prezydenta Republiki Słowackiej w Wielkopolsce – program prasowy (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440358"
+  },
   {
    "id": "bossa-espi-30127",
    "date": "2026-11-10",
