@@ -1,7 +1,19 @@
 {
  "date": "2026-11-10",
- "count": 341,
+ "count": 342,
  "items": [
+  {
+   "id": "bossa-espi-40109",
+   "date": "2026-11-10",
+   "time": "20:29",
+   "ts": "2026-11-10T20:29:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ORLEN S.A.",
+   "title": "Wypowiedzenie umowy z QatarEnergy na dostawy LNG",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-40109"
+  },
   {
    "id": "bossa-pap-440365",
    "date": "2026-11-10",

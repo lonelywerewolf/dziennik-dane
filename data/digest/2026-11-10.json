@@ -4,7 +4,7 @@
   "podsumowania": 17,
   "wyniki": 20,
   "rekomendacje": 0,
-  "korporacyjne": 57,
+  "korporacyjne": 58,
   "makro_pl": 20,
   "swiat_rynki": 16,
   "energetyka_surowce": 5,
@@ -15,7 +15,7 @@
   "pozostale": 67
  },
  "duplicatesRemoved": 124,
- "total": 341,
+ "total": 342,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -372,6 +372,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "20:29",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ORLEN S.A.: Wypowiedzenie umowy z QatarEnergy na dostawy LNG",
+    "url": "https://bossa.pl/analizy/komunikaty#message-40109",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "19:30",
     "kind": "pap",
