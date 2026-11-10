@@ -4,7 +4,7 @@
   "podsumowania": 5,
   "wyniki": 3,
   "rekomendacje": 0,
-  "korporacyjne": 2,
+  "korporacyjne": 3,
   "makro_pl": 2,
   "swiat_rynki": 2,
   "energetyka_surowce": 1,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 7
+  "pozostale": 8
  },
  "duplicatesRemoved": 14,
- "total": 37,
+ "total": 39,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -100,6 +100,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "08:41",
+    "kind": "espi",
+    "ticker": null,
+    "title": "R.POWER S.A.: Zawarcie 8-letniej umowy sprzedaży energii elektrycznej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-23757",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "08:35",
     "kind": "espi",
@@ -189,6 +200,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "08:46",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ROBINSON EUROPE SA (10/2026) Harmonogram publikacji raportów okresowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440123",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:04",
     "kind": "espi",
