@@ -1,7 +1,63 @@
 {
  "date": "2026-11-10",
- "count": 70,
+ "count": 75,
  "items": [
+  {
+   "id": "strefa-d057fe35d08b",
+   "date": "2026-11-10",
+   "time": "10:07",
+   "ts": "2026-11-10T10:07:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/notowania-metali-bazowych-wegla-i-paliw-tabela"
+  },
+  {
+   "id": "strefa-c48fd0c8e013",
+   "date": "2026-11-10",
+   "time": "10:07",
+   "ts": "2026-11-10T10:07:26+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Elemental czeka z wyborem partnera do projektu Polvolt; realizację projektu chce rozpocząć w '27 (wywiad)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/elemental-czeka-z-wyborem-partnera-do-projektu-polvolt-realizacje-projektu-chce"
+  },
+  {
+   "id": "strefa-a430d65b57bd",
+   "date": "2026-11-10",
+   "time": "10:06",
+   "ts": "2026-11-10T10:06:38+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Pekabex planuje wydłużyć program wewn. transformacji w zw. z sytuacją rynkową - prezes",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/pekabex-planuje-wydluzyc-program-wewn-transformacji-w-zw-z-sytuacja-rynkowa"
+  },
+  {
+   "id": "bossa-pap-440145",
+   "date": "2026-11-10",
+   "time": "10:05",
+   "ts": "2026-11-10T10:05:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KOMBINAT KONOPNY SA (14/2026) Zmiana harmonogramu publikacji raportów okresowych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440145"
+  },
+  {
+   "id": "strefa-bf563f9d33c8",
+   "date": "2026-11-10",
+   "time": "09:57",
+   "ts": "2026-11-10T09:57:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Sevenet chce wypłacić 1,05 zł dywidendy na akcję",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/sevenet-chce-wyplacic-105-zl-dywidendy-na-akcje"
+  },
   {
    "id": "bossa-pap-440144",
    "date": "2026-11-10",

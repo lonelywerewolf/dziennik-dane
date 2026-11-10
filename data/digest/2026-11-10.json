@@ -4,7 +4,7 @@
   "podsumowania": 9,
   "wyniki": 5,
   "rekomendacje": 0,
-  "korporacyjne": 7,
+  "korporacyjne": 8,
   "makro_pl": 4,
   "swiat_rynki": 4,
   "energetyka_surowce": 1,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 15
+  "pozostale": 16
  },
- "duplicatesRemoved": 23,
- "total": 70,
+ "duplicatesRemoved": 26,
+ "total": 75,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -157,12 +157,23 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
-    "time": "09:48",
-    "kind": "pap",
+    "time": "10:06",
+    "kind": "news",
+    "ticker": null,
+    "title": "Pekabex planuje wydłużyć program wewn. transformacji w zw. z sytuacją rynkową - prezes",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/pekabex-planuje-wydluzyc-program-wewn-transformacji-w-zw-z-sytuacja-rynkowa",
+    "src": "strefainwestorow",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "09:57",
+    "kind": "news",
     "ticker": null,
     "title": "Sevenet chce wypłacić 1,05 zł dywidendy na akcję",
-    "url": "https://bossa.pl/analizy/komunikaty#message-440142",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/sevenet-chce-wyplacic-105-zl-dywidendy-na-akcje",
+    "src": "strefainwestorow",
     "flags": [
      "dywidenda"
     ]
@@ -312,12 +323,12 @@
   ],
   "energetyka_surowce": [
    {
-    "time": "06:39",
-    "kind": "pap",
+    "time": "10:07",
+    "kind": "news",
     "ticker": null,
     "title": "Notowania metali bazowych, węgla i paliw (tabela)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-440102",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/notowania-metali-bazowych-wegla-i-paliw-tabela",
+    "src": "strefainwestorow",
     "flags": []
    }
   ],
@@ -346,6 +357,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "10:07",
+    "kind": "news",
+    "ticker": null,
+    "title": "Elemental czeka z wyborem partnera do projektu Polvolt; realizację projektu chce rozpocząć w '27 (wywiad)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/elemental-czeka-z-wyborem-partnera-do-projektu-polvolt-realizacje-projektu-chce",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "10:05",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KOMBINAT KONOPNY SA (14/2026) Zmiana harmonogramu publikacji raportów okresowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440145",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:50",
     "kind": "news",
@@ -471,15 +500,6 @@
     "ticker": null,
     "title": "Wskaźniki referencyjne ON na wybranych rynkach rozwiniętych (tabela)",
     "url": "https://bossa.pl/analizy/komunikaty#message-440104",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "06:30",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Elemental czeka z wyborem partnera do projektu Polvolt; realizację projektu chce rozpocząć w '27 (wywiad)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-440100",
     "src": "bossa",
     "flags": []
    }
