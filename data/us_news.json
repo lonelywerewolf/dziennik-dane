@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "790ad363a1cf",
+   "ticker": "TSM",
+   "time": "2026-11-10T07:45+01:00",
+   "title": "TSMC October Revenue Jumps 60% Y-o-Y",
+   "url": "https://www.nasdaq.com/articles/tsmc-october-revenue-jumps-60-y-o-y",
+   "src": "nasdaq",
+   "summary": "(RTTNews) - Taiwan Semiconductor Manufacturing Co. (TSM) Tuesday reported a 59.7% year-over-year increase in revenue for October 2026."
+  },
+  {
    "id": "d12f12e2e3af",
    "ticker": "VRT",
    "time": "2026-11-10T04:14+01:00",
@@ -2809,5 +2818,5 @@
    "summary": "Key PointsASML is one of the most important companies in the global semiconductor ecosystem, but its stock price performance has left a lot to be desired over the past three years."
   }
  ],
- "updatedAt": "2026-11-10T07:48:21+01:00"
+ "updatedAt": "2026-11-10T08:00:17+01:00"
 }

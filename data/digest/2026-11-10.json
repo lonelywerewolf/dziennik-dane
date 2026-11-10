@@ -2,20 +2,20 @@
  "date": "2026-11-10",
  "counts": {
   "podsumowania": 4,
-  "wyniki": 0,
+  "wyniki": 1,
   "rekomendacje": 0,
   "korporacyjne": 1,
   "makro_pl": 2,
-  "swiat_rynki": 1,
+  "swiat_rynki": 2,
   "energetyka_surowce": 1,
   "nieruchomosci": 1,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 5
+  "pozostale": 6
  },
- "duplicatesRemoved": 7,
- "total": 22,
+ "duplicatesRemoved": 10,
+ "total": 28,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -56,7 +56,17 @@
     "flags": []
    }
   ],
-  "wyniki": [],
+  "wyniki": [
+   {
+    "time": "07:50",
+    "kind": "pap",
+    "ticker": null,
+    "title": "SOFTWARE MANSION SA (18/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440112",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "rekomendacje": [],
   "korporacyjne": [
    {
@@ -93,6 +103,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "07:54",
+    "kind": "news",
+    "ticker": null,
+    "title": "Najważniejsze indeksy giełdowe w Azji",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/najwazniejsze-indeksy-gieldowe-w-azji",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "07:01",
     "kind": "news",
     "ticker": null,
@@ -128,6 +147,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "07:48",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny miedzi w Londynie kontynuują odbicie po ubiegłotygodniowych spadkach",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261110/ceny-miedzi-w-londynie-kontynuuja-odbicie-po-ubieglotygodniowych-spadkach",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "07:09",
     "kind": "espi",
