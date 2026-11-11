@@ -4,8 +4,8 @@
   "podsumowania": 3,
   "wyniki": 1,
   "rekomendacje": 0,
-  "korporacyjne": 2,
-  "makro_pl": 1,
+  "korporacyjne": 3,
+  "makro_pl": 2,
   "swiat_rynki": 4,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
@@ -15,7 +15,7 @@
   "pozostale": 8
  },
  "duplicatesRemoved": 9,
- "total": 29,
+ "total": 31,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -65,6 +65,17 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "18:09",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MOSTALWAR: Stanowisko większościowego akcjonariusza",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71436",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
+   {
     "time": "14:35",
     "kind": "espi",
     "ticker": null,
@@ -86,6 +97,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "18:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BOM: udział Marszałka Sejmu Włodzimierza Czarzastego w Spotkaniu Przewodniczących Parlamentów Państw Grupy Wyszehradzkiej (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440397",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "06:41",
     "kind": "news",
