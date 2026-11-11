@@ -1,7 +1,7 @@
 {
  "date": "2026-11-11",
  "counts": {
-  "podsumowania": 0,
+  "podsumowania": 1,
   "wyniki": 0,
   "rekomendacje": 0,
   "korporacyjne": 0,
@@ -14,11 +14,21 @@
   "obserwowane": 0,
   "pozostale": 4
  },
- "duplicatesRemoved": 4,
- "total": 11,
+ "duplicatesRemoved": 5,
+ "total": 13,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
-  "podsumowania": [],
+  "podsumowania": [
+   {
+    "time": "08:05",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: W Azji na giełdach przewaga wzrostów",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261111/dzien-na-rynkach-w-azji-na-gieldach-przewaga-wzrostow",
+    "src": "strefainwestorow",
+    "flags": []
+   }
+  ],
   "wyniki": [],
   "rekomendacje": [],
   "korporacyjne": [],

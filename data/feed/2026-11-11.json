@@ -1,7 +1,30 @@
 {
  "date": "2026-11-11",
- "count": 11,
+ "count": 13,
  "items": [
+  {
+   "id": "bossa-pap-440384",
+   "date": "2026-11-11",
+   "time": "08:17",
+   "ts": "2026-11-11T08:17:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: W Azji na giełdach przewaga wzrostów",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440384"
+  },
+  {
+   "id": "strefa-2d82908e7f4c",
+   "date": "2026-11-11",
+   "time": "08:05",
+   "ts": "2026-11-11T08:05:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: W Azji na giełdach przewaga wzrostów",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261111/dzien-na-rynkach-w-azji-na-gieldach-przewaga-wzrostow"
+  },
   {
    "id": "bossa-pap-440383",
    "date": "2026-11-11",
