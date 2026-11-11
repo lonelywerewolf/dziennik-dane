@@ -6,7 +6,7 @@
   "rekomendacje": 0,
   "korporacyjne": 2,
   "makro_pl": 1,
-  "swiat_rynki": 2,
+  "swiat_rynki": 3,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 6
  },
- "duplicatesRemoved": 7,
- "total": 23,
+ "duplicatesRemoved": 8,
+ "total": 25,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -97,6 +97,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "14:27",
+    "kind": "news",
+    "ticker": null,
+    "title": "Po otwarciu sesji DJI spada o 0,12 proc., a S&P500 zyskuje 0,83 proc.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261111/po-otwarciu-sesji-dji-spada-o-012-proc-sp500-zyskuje-083-proc",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:16",
     "kind": "pap",

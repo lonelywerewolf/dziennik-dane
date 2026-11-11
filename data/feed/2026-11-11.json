@@ -1,7 +1,19 @@
 {
  "date": "2026-11-11",
- "count": 23,
+ "count": 25,
  "items": [
+  {
+   "id": "bossa-pap-440393",
+   "date": "2026-11-11",
+   "time": "15:37",
+   "ts": "2026-11-11T15:37:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Po otwarciu sesji DJI spada o 0,12 proc., a S&P500 zyskuje 0,83 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440393"
+  },
   {
    "id": "bossa-espi-71435",
    "date": "2026-11-11",
@@ -25,6 +37,17 @@
    "title": "Notification under Art. 19 (3) of Regulation (EU) № 596/2014 of the European Parliament and of the Council of 16 April 2014",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-71434"
+  },
+  {
+   "id": "strefa-614399826072",
+   "date": "2026-11-11",
+   "time": "14:27",
+   "ts": "2026-11-11T14:27:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Po otwarciu sesji DJI spada o 0,12 proc., a S&P500 zyskuje 0,83 proc.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261111/po-otwarciu-sesji-dji-spada-o-012-proc-sp500-zyskuje-083-proc"
   },
   {
    "id": "bossa-pap-440390",
