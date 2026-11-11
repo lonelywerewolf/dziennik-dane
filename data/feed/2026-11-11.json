@@ -1,7 +1,19 @@
 {
  "date": "2026-11-11",
- "count": 27,
+ "count": 29,
  "items": [
+  {
+   "id": "bossa-pap-440396",
+   "date": "2026-11-11",
+   "time": "16:19",
+   "ts": "2026-11-11T16:19:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Euro w EBC: 1,1127 USD i 177,18 JPY",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440396"
+  },
   {
    "id": "bossa-pap-440395",
    "date": "2026-11-11",
@@ -25,6 +37,17 @@
    "title": "KPRM: Każdy, kto ma Polskę w sercu, musi zrozumieć, że niepodległość to dobro wspólne (komunikat)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440394"
+  },
+  {
+   "id": "strefa-71915336e4e8",
+   "date": "2026-11-11",
+   "time": "15:38",
+   "ts": "2026-11-11T15:38:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Euro w EBC: 1,1127 USD i 177,18 JPY",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261111/euro-w-ebc-11127-usd-i-17718-jpy"
   },
   {
    "id": "bossa-pap-440393",

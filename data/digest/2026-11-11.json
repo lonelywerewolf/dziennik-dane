@@ -6,7 +6,7 @@
   "rekomendacje": 0,
   "korporacyjne": 2,
   "makro_pl": 1,
-  "swiat_rynki": 3,
+  "swiat_rynki": 4,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 8
  },
- "duplicatesRemoved": 8,
- "total": 27,
+ "duplicatesRemoved": 9,
+ "total": 29,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -97,6 +97,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "15:38",
+    "kind": "news",
+    "ticker": null,
+    "title": "Euro w EBC: 1,1127 USD i 177,18 JPY",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261111/euro-w-ebc-11127-usd-i-17718-jpy",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "14:27",
     "kind": "news",
