@@ -4,7 +4,7 @@
   "podsumowania": 4,
   "wyniki": 1,
   "rekomendacje": 0,
-  "korporacyjne": 3,
+  "korporacyjne": 4,
   "makro_pl": 2,
   "swiat_rynki": 4,
   "energetyka_surowce": 1,
@@ -15,7 +15,7 @@
   "pozostale": 9
  },
  "duplicatesRemoved": 10,
- "total": 34,
+ "total": 35,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -73,6 +73,15 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "20:34",
+    "kind": "espi",
+    "ticker": null,
+    "title": "POLARIS IT GROUP S.A.: Ogłoszenie o zwołaniu NWZ Polaris IT Group SA na 7 grudnia 2026 r. wraz z projektami uchwał.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71438",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:09",
     "kind": "espi",
