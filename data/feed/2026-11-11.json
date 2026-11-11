@@ -1,5 +1,65 @@
 {
  "date": "2026-11-11",
- "count": 0,
- "items": []
+ "count": 5,
+ "items": [
+  {
+   "id": "bossa-pap-440380",
+   "date": "2026-11-11",
+   "time": "06:42",
+   "ts": "2026-11-11T06:42:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne ON na wybranych rynkach rozwiniętych (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440380"
+  },
+  {
+   "id": "strefa-b0e77515110a",
+   "date": "2026-11-11",
+   "time": "06:41",
+   "ts": "2026-11-11T06:41:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Rentowności obligacji wybranych państw (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261111/rentownosci-obligacji-wybranych-panstw-tabela"
+  },
+  {
+   "id": "bossa-pap-440379",
+   "date": "2026-11-11",
+   "time": "06:41",
+   "ts": "2026-11-11T06:41:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Rentowności obligacji wybranych państw (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440379"
+  },
+  {
+   "id": "bossa-pap-440378",
+   "date": "2026-11-11",
+   "time": "06:41",
+   "ts": "2026-11-11T06:41:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440378"
+  },
+  {
+   "id": "bossa-pap-440377",
+   "date": "2026-11-11",
+   "time": "06:40",
+   "ts": "2026-11-11T06:40:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440377"
+  }
+ ]
 }
