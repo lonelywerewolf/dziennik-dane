@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 7
+  "pozostale": 8
  },
  "duplicatesRemoved": 8,
- "total": 26,
+ "total": 27,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -141,6 +141,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "16:14",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MI: Polska bandera wraca po 22 latach. Nowy prom Bursztyn Unity wzmocni polską flotę na Bałtyku (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440395",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:00",
     "kind": "pap",
