@@ -6,7 +6,7 @@
   "rekomendacje": 0,
   "korporacyjne": 0,
   "makro_pl": 1,
-  "swiat_rynki": 0,
+  "swiat_rynki": 1,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 3
  },
- "duplicatesRemoved": 2,
- "total": 7,
+ "duplicatesRemoved": 3,
+ "total": 9,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [],
@@ -33,7 +33,17 @@
     "flags": []
    }
   ],
-  "swiat_rynki": [],
+  "swiat_rynki": [
+   {
+    "time": "07:50",
+    "kind": "news",
+    "ticker": null,
+    "title": "Najważniejsze indeksy giełdowe w Azji",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261111/najwazniejsze-indeksy-gieldowe-w-azji",
+    "src": "strefainwestorow",
+    "flags": []
+   }
+  ],
   "energetyka_surowce": [
    {
     "time": "06:41",
