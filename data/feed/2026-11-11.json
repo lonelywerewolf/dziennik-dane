@@ -1,7 +1,19 @@
 {
  "date": "2026-11-11",
- "count": 15,
+ "count": 17,
  "items": [
+  {
+   "id": "bossa-pap-440387",
+   "date": "2026-11-11",
+   "time": "09:37",
+   "ts": "2026-11-11T09:37:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: W Europie na giełdach solidne wzrosty",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440387"
+  },
   {
    "id": "bossa-pap-440386",
    "date": "2026-11-11",
@@ -25,6 +37,17 @@
    "title": "Wyniki Zwyczajnego Walnego Zgromadzenia",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-4265"
+  },
+  {
+   "id": "strefa-3e5811b661db",
+   "date": "2026-11-11",
+   "time": "08:17",
+   "ts": "2026-11-11T08:17:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: W Europie na giełdach solidne wzrosty",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261111/dzien-na-rynkach-w-europie-na-gieldach-solidne-wzrosty"
   },
   {
    "id": "bossa-pap-440384",

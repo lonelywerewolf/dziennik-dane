@@ -1,7 +1,7 @@
 {
  "date": "2026-11-11",
  "counts": {
-  "podsumowania": 1,
+  "podsumowania": 2,
   "wyniki": 1,
   "rekomendacje": 0,
   "korporacyjne": 0,
@@ -14,11 +14,20 @@
   "obserwowane": 0,
   "pozostale": 4
  },
- "duplicatesRemoved": 5,
- "total": 15,
+ "duplicatesRemoved": 6,
+ "total": 17,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "08:17",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: W Europie na giełdach solidne wzrosty",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261111/dzien-na-rynkach-w-europie-na-gieldach-solidne-wzrosty",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:05",
     "kind": "news",
