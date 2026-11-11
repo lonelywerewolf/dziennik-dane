@@ -1,7 +1,19 @@
 {
  "date": "2026-11-11",
- "count": 13,
+ "count": 14,
  "items": [
+  {
+   "id": "bossa-espi-4265",
+   "date": "2026-11-11",
+   "time": "08:43",
+   "ts": "2026-11-11T08:43:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PRAIRIE MINING LIMITED",
+   "title": "Wyniki Zwyczajnego Walnego Zgromadzenia",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-4265"
+  },
   {
    "id": "bossa-pap-440384",
    "date": "2026-11-11",
