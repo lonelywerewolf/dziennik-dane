@@ -1,7 +1,19 @@
 {
  "date": "2026-11-11",
- "count": 25,
+ "count": 26,
  "items": [
+  {
+   "id": "bossa-pap-440394",
+   "date": "2026-11-11",
+   "time": "16:00",
+   "ts": "2026-11-11T16:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KPRM: Każdy, kto ma Polskę w sercu, musi zrozumieć, że niepodległość to dobro wspólne (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440394"
+  },
   {
    "id": "bossa-pap-440393",
    "date": "2026-11-11",

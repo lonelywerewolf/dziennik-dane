@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 6
+  "pozostale": 7
  },
  "duplicatesRemoved": 8,
- "total": 25,
+ "total": 26,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -141,6 +141,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "16:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KPRM: Każdy, kto ma Polskę w sercu, musi zrozumieć, że niepodległość to dobro wspólne (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440394",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:15",
     "kind": "espi",
