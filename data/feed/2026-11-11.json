@@ -1,7 +1,19 @@
 {
  "date": "2026-11-11",
- "count": 14,
+ "count": 15,
  "items": [
+  {
+   "id": "bossa-pap-440386",
+   "date": "2026-11-11",
+   "time": "09:16",
+   "ts": "2026-11-11T09:16:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ceny gazu w Europie w górę",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440386"
+  },
   {
    "id": "bossa-espi-4265",
    "date": "2026-11-11",

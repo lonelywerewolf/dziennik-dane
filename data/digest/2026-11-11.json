@@ -6,7 +6,7 @@
   "rekomendacje": 0,
   "korporacyjne": 0,
   "makro_pl": 1,
-  "swiat_rynki": 1,
+  "swiat_rynki": 2,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
@@ -15,7 +15,7 @@
   "pozostale": 4
  },
  "duplicatesRemoved": 5,
- "total": 14,
+ "total": 15,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -56,6 +56,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "09:16",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Ceny gazu w Europie w górę",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440386",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "07:50",
     "kind": "news",
