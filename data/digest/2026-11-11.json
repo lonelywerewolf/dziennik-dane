@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 4
+  "pozostale": 5
  },
  "duplicatesRemoved": 6,
- "total": 18,
+ "total": 19,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -110,6 +110,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "13:51",
+    "kind": "espi",
+    "ticker": null,
+    "title": "P.A. NOVA S.A.: Otrzymanie zawiadomienia o zmianie stanu posiadania akcji",
+    "url": "https://bossa.pl/analizy/komunikaty#message-68401",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "07:54",
     "kind": "news",
