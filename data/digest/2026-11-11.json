@@ -1,7 +1,7 @@
 {
  "date": "2026-11-11",
  "counts": {
-  "podsumowania": 3,
+  "podsumowania": 4,
   "wyniki": 1,
   "rekomendacje": 0,
   "korporacyjne": 3,
@@ -12,13 +12,22 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 8
+  "pozostale": 9
  },
- "duplicatesRemoved": 9,
- "total": 31,
+ "duplicatesRemoved": 10,
+ "total": 34,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "16:21",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Giełdy w Europie na plusach; Stoxx Europe 600 z rekordem",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261111/dzien-na-rynkach-gieldy-w-europie-na-plusach-stoxx-europe-600-z-rekordem",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:39",
     "kind": "news",
@@ -170,6 +179,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "18:44",
+    "kind": "pap",
+    "ticker": null,
+    "title": "REMOR SOLAR POLSKA SA (12/2026) Zmiana harmonogramu publikacji raportów okresowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440399",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:14",
     "kind": "pap",

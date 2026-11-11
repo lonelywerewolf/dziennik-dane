@@ -1,7 +1,31 @@
 {
  "date": "2026-11-11",
- "count": 31,
+ "count": 34,
  "items": [
+  {
+   "id": "bossa-pap-440400",
+   "date": "2026-11-11",
+   "time": "18:47",
+   "ts": "2026-11-11T18:47:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Giełdy w Europie na plusach; Stoxx Europe 600 z rekordem",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440400"
+  },
+  {
+   "id": "bossa-pap-440399",
+   "date": "2026-11-11",
+   "time": "18:44",
+   "ts": "2026-11-11T18:44:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "REMOR SOLAR POLSKA SA (12/2026) Zmiana harmonogramu publikacji raportów okresowych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440399"
+  },
   {
    "id": "bossa-espi-71436",
    "date": "2026-11-11",
@@ -25,6 +49,17 @@
    "title": "BOM: udział Marszałka Sejmu Włodzimierza Czarzastego w Spotkaniu Przewodniczących Parlamentów Państw Grupy Wyszehradzkiej (komunikat)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440397"
+  },
+  {
+   "id": "strefa-38b41de1f660",
+   "date": "2026-11-11",
+   "time": "16:21",
+   "ts": "2026-11-11T16:21:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Giełdy w Europie na plusach; Stoxx Europe 600 z rekordem",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261111/dzien-na-rynkach-gieldy-w-europie-na-plusach-stoxx-europe-600-z-rekordem"
   },
   {
    "id": "bossa-pap-440396",
