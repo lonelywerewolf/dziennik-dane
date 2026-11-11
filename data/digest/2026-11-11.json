@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 3
+  "pozostale": 4
  },
- "duplicatesRemoved": 3,
- "total": 9,
+ "duplicatesRemoved": 4,
+ "total": 11,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [],
@@ -60,6 +60,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "07:54",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny miedzi w Londynie rosną",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261111/ceny-miedzi-w-londynie-rosna",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "06:42",
     "kind": "news",

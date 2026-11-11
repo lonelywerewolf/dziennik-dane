@@ -1,7 +1,30 @@
 {
  "date": "2026-11-11",
- "count": 9,
+ "count": 11,
  "items": [
+  {
+   "id": "bossa-pap-440383",
+   "date": "2026-11-11",
+   "time": "08:04",
+   "ts": "2026-11-11T08:04:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ceny miedzi w Londynie rosną",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440383"
+  },
+  {
+   "id": "strefa-df05907ff184",
+   "date": "2026-11-11",
+   "time": "07:54",
+   "ts": "2026-11-11T07:54:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ceny miedzi w Londynie rosną",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261111/ceny-miedzi-w-londynie-rosna"
+  },
   {
    "id": "bossa-pap-440382",
    "date": "2026-11-11",
