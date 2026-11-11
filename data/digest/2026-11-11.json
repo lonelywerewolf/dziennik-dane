@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 2
+  "pozostale": 3
  },
- "duplicatesRemoved": 1,
- "total": 5,
+ "duplicatesRemoved": 2,
+ "total": 7,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [],
@@ -50,6 +50,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "06:42",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny ropy znów do góry po dwóch sesjach spadków",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261111/ceny-ropy-znow-do-gory-po-dwoch-sesjach-spadkow",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "06:42",
     "kind": "pap",
