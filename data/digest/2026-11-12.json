@@ -4,7 +4,7 @@
   "podsumowania": 16,
   "wyniki": 37,
   "rekomendacje": 5,
-  "korporacyjne": 38,
+  "korporacyjne": 39,
   "makro_pl": 19,
   "swiat_rynki": 21,
   "energetyka_surowce": 6,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 15,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 60
+  "pozostale": 61
  },
  "duplicatesRemoved": 95,
- "total": 314,
+ "total": 316,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -582,6 +582,15 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "19:17",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Kernel zdecydował o tymczasowym zawieszeniu działalności zakładów przetwórstwa nasion roślin oleistych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440662",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:57",
     "kind": "pap",
@@ -1569,6 +1578,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "19:10",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KERNEL HOLDING S.A.: OPERATIONS UPDATE – IMPACT OF THE RUSSIAN WAR AGAINST UKRAINE",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71561",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:15",
     "kind": "espi",
