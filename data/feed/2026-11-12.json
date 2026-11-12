@@ -1,7 +1,101 @@
 {
  "date": "2026-11-12",
- "count": 70,
+ "count": 78,
  "items": [
+  {
+   "id": "bossa-espi-71457",
+   "date": "2026-11-12",
+   "time": "09:30",
+   "ts": "2026-11-12T09:30:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF OBLIGACJI SKARBOWYCH DŁUGOTERMINOWYCH PORTFELOWY FIZ",
+   "title": "RB_FI_E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71457"
+  },
+  {
+   "id": "bossa-pap-440463",
+   "date": "2026-11-12",
+   "time": "09:29",
+   "ts": "2026-11-12T09:29:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Iceye rozszerza możliwości Civil Security Hub Poland w zakresie monitorowania powodzi i pożarów lasów",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440463"
+  },
+  {
+   "id": "bossa-pap-440462",
+   "date": "2026-11-12",
+   "time": "09:27",
+   "ts": "2026-11-12T09:27:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "NOVINA POZYCZKIHIPOTECZNE.EU SA (27/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440462"
+  },
+  {
+   "id": "bossa-pap-440461",
+   "date": "2026-11-12",
+   "time": "09:27",
+   "ts": "2026-11-12T09:27:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Rynkom w USA nie grozi głęboka korekta, ale warto selektywnie podejść do spółek AI – TFI PZU (wywiad)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440461"
+  },
+  {
+   "id": "bossa-pap-440460",
+   "date": "2026-11-12",
+   "time": "09:23",
+   "ts": "2026-11-12T09:23:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ceny ropy na świecie spadały, ale trend się już odwrócił (aktl.)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440460"
+  },
+  {
+   "id": "strefa-1f80f4d376b7",
+   "date": "2026-11-12",
+   "time": "09:22",
+   "ts": "2026-11-12T09:22:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ceny ropy na świecie spadały, ale trend się już odwrócił (aktl.)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/ceny-ropy-na-swiecie-spadaly-ale-trend-sie-juz-odwrocil-aktl"
+  },
+  {
+   "id": "bossa-pap-440459",
+   "date": "2026-11-12",
+   "time": "09:21",
+   "ts": "2026-11-12T09:21:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA FX/FI: Potencjał do dalszej deprecjacji złotego ograniczony",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440459"
+  },
+  {
+   "id": "strefa-f272a15d539b",
+   "date": "2026-11-12",
+   "time": "09:20",
+   "ts": "2026-11-12T09:20:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA FX/FI: Potencjał do dalszej deprecjacji złotego ograniczony",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/dzien-na-fxfi-potencjal-do-dalszej-deprecjacji-zlotego-ograniczony"
+  },
   {
    "id": "bossa-pap-440458",
    "date": "2026-11-12",
