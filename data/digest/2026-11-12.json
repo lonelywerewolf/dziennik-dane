@@ -2,20 +2,20 @@
  "date": "2026-11-12",
  "counts": {
   "podsumowania": 13,
-  "wyniki": 26,
+  "wyniki": 27,
   "rekomendacje": 5,
-  "korporacyjne": 26,
+  "korporacyjne": 28,
   "makro_pl": 18,
   "swiat_rynki": 16,
-  "energetyka_surowce": 4,
+  "energetyka_surowce": 5,
   "nieruchomosci": 0,
   "fundusze_drobne": 13,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 47
+  "pozostale": 48
  },
- "duplicatesRemoved": 75,
- "total": 245,
+ "duplicatesRemoved": 76,
+ "total": 251,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -138,6 +138,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "17:08",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ATC CARGO S.A.: Szacunkowe wyniki finansowe za III kwartał 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71529",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "17:03",
     "kind": "pap",
@@ -444,6 +455,28 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "17:13",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BNP PARIBAS BANK POLSKA SA: Korekta metadanych ESAP. Powiadomienie o transakcjach na instrumentach finansowych dokonanych przez osoby pełniące obowiązki zarządcze",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71531",
+    "src": "bossa",
+    "flags": [
+     "prognoza",
+     "zarząd",
+     "insider"
+    ]
+   },
+   {
+    "time": "17:05",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A24 wyemitowanymi przez GMINĘ PRAŻMÓW",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/gpw-w-sprawie-zawieszenia-obrotu-gieldowego-na-catalyst-obligacjami-na",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "16:56",
     "kind": "espi",
@@ -1028,6 +1061,15 @@
   ],
   "energetyka_surowce": [
    {
+    "time": "17:06",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ENERGY S.A.: Otrzymanie zlecenia na wykonanie instalacji fotowoltaicznych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71528",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "16:24",
     "kind": "pap",
     "ticker": null,
@@ -1211,6 +1253,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:10",
+    "kind": "espi",
+    "ticker": null,
+    "title": "CREEPY JAR S.A.: Wstępne wybrane dane finansowe za 3 kwartał 2026 r. oraz narastająco za 3 kwartały 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71530",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:44",
     "kind": "pap",

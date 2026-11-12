@@ -1,7 +1,78 @@
 {
  "date": "2026-11-12",
- "count": 245,
+ "count": 251,
  "items": [
+  {
+   "id": "bossa-pap-440607",
+   "date": "2026-11-12",
+   "time": "17:15",
+   "ts": "2026-11-12T17:15:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A24 wyemitowanymi przez GMINĘ PRAŻMÓW",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440607"
+  },
+  {
+   "id": "bossa-espi-71531",
+   "date": "2026-11-12",
+   "time": "17:13",
+   "ts": "2026-11-12T17:13:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BNP PARIBAS BANK POLSKA SA",
+   "title": "Korekta metadanych ESAP. Powiadomienie o transakcjach na instrumentach finansowych dokonanych przez osoby pełniące obowiązki zarządcze",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71531"
+  },
+  {
+   "id": "bossa-espi-71530",
+   "date": "2026-11-12",
+   "time": "17:10",
+   "ts": "2026-11-12T17:10:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "CREEPY JAR S.A.",
+   "title": "Wstępne wybrane dane finansowe za 3 kwartał 2026 r. oraz narastająco za 3 kwartały 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71530"
+  },
+  {
+   "id": "bossa-espi-71529",
+   "date": "2026-11-12",
+   "time": "17:08",
+   "ts": "2026-11-12T17:08:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ATC CARGO S.A.",
+   "title": "Szacunkowe wyniki finansowe za III kwartał 2026 roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71529"
+  },
+  {
+   "id": "bossa-espi-71528",
+   "date": "2026-11-12",
+   "time": "17:06",
+   "ts": "2026-11-12T17:06:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ENERGY S.A.",
+   "title": "Otrzymanie zlecenia na wykonanie instalacji fotowoltaicznych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71528"
+  },
+  {
+   "id": "strefa-4fc89800757e",
+   "date": "2026-11-12",
+   "time": "17:05",
+   "ts": "2026-11-12T17:05:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A24 wyemitowanymi przez GMINĘ PRAŻMÓW",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/gpw-w-sprawie-zawieszenia-obrotu-gieldowego-na-catalyst-obligacjami-na"
+  },
   {
    "id": "bossa-pap-440602",
    "date": "2026-11-12",
