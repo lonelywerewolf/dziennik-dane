@@ -4,7 +4,7 @@
   "podsumowania": 16,
   "wyniki": 42,
   "rekomendacje": 5,
-  "korporacyjne": 41,
+  "korporacyjne": 42,
   "makro_pl": 19,
   "swiat_rynki": 21,
   "energetyka_surowce": 6,
@@ -15,7 +15,7 @@
   "pozostale": 63
  },
  "duplicatesRemoved": 100,
- "total": 330,
+ "total": 331,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -629,6 +629,15 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "21:39",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SANOK RC SA: Zwołanie NWZA Sanok RC S.A. Projekty uchwał.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71572",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "20:31",
     "kind": "espi",
