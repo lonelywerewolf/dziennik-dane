@@ -1,7 +1,43 @@
 {
  "date": "2026-11-12",
- "count": 188,
+ "count": 191,
  "items": [
+  {
+   "id": "bossa-espi-71508",
+   "date": "2026-11-12",
+   "time": "14:51",
+   "ts": "2026-11-12T14:51:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF OBLIGACJI 6M PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 237 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71508"
+  },
+  {
+   "id": "bossa-pap-440555",
+   "date": "2026-11-12",
+   "time": "14:41",
+   "ts": "2026-11-12T14:41:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "LOGINTRADE SA (9/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440555"
+  },
+  {
+   "id": "bossa-pap-440556",
+   "date": "2026-11-12",
+   "time": "14:40",
+   "ts": "2026-11-12T14:40:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "USA nie potrzebują porozumienia z Iranem – Trump",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440556"
+  },
   {
    "id": "bossa-pap-440553",
    "date": "2026-11-12",
