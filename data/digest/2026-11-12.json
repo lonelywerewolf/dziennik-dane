@@ -12,10 +12,10 @@
   "fundusze_drobne": 3,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 32
+  "pozostale": 33
  },
- "duplicatesRemoved": 43,
- "total": 147,
+ "duplicatesRemoved": 45,
+ "total": 150,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -795,6 +795,15 @@
     "title": "Sygnis S.A.: Zawarcie porozumienia o współpracy w zakresie cyberbezpieczeństwa oraz innowacyjnych rozwiązań i technologii informacyjnych",
     "url": "https://bossa.pl/analizy/komunikaty#message-71477",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:50",
+    "kind": "news",
+    "ticker": null,
+    "title": "Allegro nie ma w planach spowolnienia rozwoju sieci automatów paczkowych",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/allegro-nie-ma-w-planach-spowolnienia-rozwoju-sieci-automatow-paczkowych",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
