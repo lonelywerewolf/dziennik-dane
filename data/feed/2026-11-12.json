@@ -1,7 +1,19 @@
 {
  "date": "2026-11-12",
- "count": 331,
+ "count": 333,
  "items": [
+  {
+   "id": "bossa-pap-440676",
+   "date": "2026-11-12",
+   "time": "22:10",
+   "ts": "2026-11-12T22:10:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Spadki na Wall Street, akcje Nvidii w dół po rezygnacji prezesa",
+   "ticker": "NVDA",
+   "url": "https://bossa.pl/analizy/komunikaty#message-440676"
+  },
   {
    "id": "bossa-espi-71572",
    "date": "2026-11-12",
@@ -37,6 +49,17 @@
    "title": "MBF GROUP SA (12/2026) Zmiana harmonogramu publikacji raportów okresowych",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440673"
+  },
+  {
+   "id": "strefa-5eda26338281",
+   "date": "2026-11-12",
+   "time": "21:06",
+   "ts": "2026-11-12T21:06:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Spadki na Wall Street, akcje Nvidii w dół po rezygnacji prezesa",
+   "ticker": "NVDA",
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/dzien-na-rynkach-spadki-na-wall-street-akcje-nvidii-w-dol-po-rezygnacji-prezesa"
   },
   {
    "id": "bossa-pap-440672",
