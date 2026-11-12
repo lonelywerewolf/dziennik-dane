@@ -4,18 +4,18 @@
   "podsumowania": 15,
   "wyniki": 31,
   "rekomendacje": 5,
-  "korporacyjne": 31,
+  "korporacyjne": 34,
   "makro_pl": 18,
-  "swiat_rynki": 16,
+  "swiat_rynki": 17,
   "energetyka_surowce": 5,
   "nieruchomosci": 0,
   "fundusze_drobne": 14,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 54
+  "pozostale": 55
  },
- "duplicatesRemoved": 80,
- "total": 271,
+ "duplicatesRemoved": 85,
+ "total": 281,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -514,6 +514,39 @@
   ],
   "korporacyjne": [
    {
+    "time": "17:44",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BANK GOSPODARSTWA KRAJOWEGO: Raport aktualizujący – podsumowanie kosztów subskrypcji na obligacje serii 34 o wartości nominalnej 1.000.000.000 USD oraz obligacji serii 35 o wartości nominalnej 1.500.000.000 USD na rzecz Funduszu Przeciwdziałania Covid-19, wyemitowanych w ramach programu MTN Banku Gospodarstwa Krajowego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71542",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "17:43",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Green Lanes planuje emisję do 500 tys. nowych akcji",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440627",
+    "src": "bossa",
+    "flags": [
+     "emisja"
+    ]
+   },
+   {
+    "time": "17:39",
+    "kind": "espi",
+    "ticker": null,
+    "title": "XBS PRO-LOG S.A.: Zawarcie aneksu do umowy kredytowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71540",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
     "time": "17:36",
     "kind": "espi",
     "ticker": null,
@@ -1004,6 +1037,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "17:29",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: w sprawie dopuszczenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów strukturyzowanych emitowanych przez ING BANK N.V.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/gpw-w-sprawie-dopuszczenia-do-obrotu-gieldowego-na-glownym-rynku-gpw",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "16:06",
     "kind": "pap",
     "ticker": null,
@@ -1353,6 +1395,17 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:44",
+    "kind": "espi",
+    "ticker": null,
+    "title": "IMPERIO ASI S.A.: Korekta raportu za I kwartał 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71543",
+    "src": "bossa",
+    "flags": [
+     "prognoza"
+    ]
+   },
    {
     "time": "17:32",
     "kind": "pap",
