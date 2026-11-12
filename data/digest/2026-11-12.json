@@ -4,18 +4,18 @@
   "podsumowania": 10,
   "wyniki": 21,
   "rekomendacje": 4,
-  "korporacyjne": 20,
+  "korporacyjne": 21,
   "makro_pl": 13,
-  "swiat_rynki": 7,
+  "swiat_rynki": 10,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 8,
-  "twoje_spolki": 0,
+  "twoje_spolki": 1,
   "obserwowane": 0,
   "pozostale": 40
  },
- "duplicatesRemoved": 55,
- "total": 181,
+ "duplicatesRemoved": 57,
+ "total": 188,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -362,6 +362,15 @@
   ],
   "korporacyjne": [
    {
+    "time": "14:38",
+    "kind": "espi",
+    "ticker": null,
+    "title": "IPOPEMA BENEFIT 3 FIZ AN: ZWCI-E_30.04.18",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71506",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "14:15",
     "kind": "espi",
     "ticker": null,
@@ -692,6 +701,33 @@
   ],
   "swiat_rynki": [
    {
+    "time": "14:33",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Liczba nowych bezrobotnych w USA w ub. tyg.: 200 tys. Konsensus: 194 tys. Poprzednio: 191 tys.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440551",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Liczba nowych bezrobotnych w USA w ub. tyg.: 200 tys. Konsensus: 194 tys. (PAP Biznes)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440550",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MRiRW: Minister zdecydował o ponownej analizie cen nawozów. Zmienił się sposób ich wyliczania (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440549",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "13:33",
     "kind": "news",
     "ticker": null,
@@ -861,7 +897,20 @@
     "flags": []
    }
   ],
-  "twoje_spolki": [],
+  "twoje_spolki": [
+   {
+    "time": "14:07",
+    "kind": "news",
+    "ticker": "NVDA",
+    "title": "DZIEŃ NA RYNKACH: Kontrakty w USA spadają; problemy prezesa Nvidii w tle",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/dzien-na-rynkach-kontrakty-w-usa-spadaja-problemy-prezesa-nvidii-w-tle",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa",
+     "zarząd"
+    ]
+   }
+  ],
   "obserwowane": [],
   "pozostale": [
    {

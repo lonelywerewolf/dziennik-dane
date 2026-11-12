@@ -1,7 +1,79 @@
 {
  "date": "2026-11-12",
- "count": 181,
+ "count": 188,
  "items": [
+  {
+   "id": "bossa-pap-440553",
+   "date": "2026-11-12",
+   "time": "14:38",
+   "ts": "2026-11-12T14:38:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Kontrakty w USA spadają; problemy prezesa Nvidii w tle",
+   "ticker": "NVDA",
+   "url": "https://bossa.pl/analizy/komunikaty#message-440553"
+  },
+  {
+   "id": "bossa-espi-71506",
+   "date": "2026-11-12",
+   "time": "14:38",
+   "ts": "2026-11-12T14:38:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "IPOPEMA BENEFIT 3 FIZ AN",
+   "title": "ZWCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71506"
+  },
+  {
+   "id": "bossa-pap-440551",
+   "date": "2026-11-12",
+   "time": "14:33",
+   "ts": "2026-11-12T14:33:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Liczba nowych bezrobotnych w USA w ub. tyg.: 200 tys. Konsensus: 194 tys. Poprzednio: 191 tys.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440551"
+  },
+  {
+   "id": "bossa-espi-71505",
+   "date": "2026-11-12",
+   "time": "14:33",
+   "ts": "2026-11-12T14:33:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 3 x LEVERAGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 229 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71505"
+  },
+  {
+   "id": "bossa-pap-440550",
+   "date": "2026-11-12",
+   "time": "14:30",
+   "ts": "2026-11-12T14:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Liczba nowych bezrobotnych w USA w ub. tyg.: 200 tys. Konsensus: 194 tys. (PAP Biznes)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440550"
+  },
+  {
+   "id": "bossa-pap-440549",
+   "date": "2026-11-12",
+   "time": "14:30",
+   "ts": "2026-11-12T14:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MRiRW: Minister zdecydował o ponownej analizie cen nawozów. Zmienił się sposób ich wyliczania (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440549"
+  },
   {
    "id": "bossa-pap-440548",
    "date": "2026-11-12",
@@ -73,6 +145,17 @@
    "title": "OFE POCZTYLION wartość jednostki rozrachunkowej",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440543"
+  },
+  {
+   "id": "strefa-e1e8b044ebd8",
+   "date": "2026-11-12",
+   "time": "14:07",
+   "ts": "2026-11-12T14:07:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Kontrakty w USA spadają; problemy prezesa Nvidii w tle",
+   "ticker": "NVDA",
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/dzien-na-rynkach-kontrakty-w-usa-spadaja-problemy-prezesa-nvidii-w-tle"
   },
   {
    "id": "bossa-pap-440542",
