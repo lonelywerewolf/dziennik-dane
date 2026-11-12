@@ -2,20 +2,20 @@
  "date": "2026-11-12",
  "counts": {
   "podsumowania": 10,
-  "wyniki": 15,
+  "wyniki": 16,
   "rekomendacje": 3,
   "korporacyjne": 9,
   "makro_pl": 8,
   "swiat_rynki": 4,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
-  "fundusze_drobne": 2,
+  "fundusze_drobne": 3,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 19
+  "pozostale": 20
  },
- "duplicatesRemoved": 33,
- "total": 106,
+ "duplicatesRemoved": 34,
+ "total": 110,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -111,6 +111,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "11:02",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GAMEHUNTERS SA (11/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440488",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:54",
     "kind": "pap",
@@ -535,6 +544,15 @@
   "nieruchomosci": [],
   "fundusze_drobne": [
    {
+    "time": "11:02",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Na rynkach długu odreagowanie, dalszy kierunek wyznaczy geopolityka - VIG/C-Quadrat TFI (opinia)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440487",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "10:42",
     "kind": "pap",
     "ticker": null,
@@ -556,6 +574,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:10",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Polityka zakupowa państwa to odejście od dyktatu najniższej ceny w kierunku strategicznych zakupów - Domański",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440490",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:22",
     "kind": "pap",
