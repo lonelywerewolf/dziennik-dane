@@ -1,7 +1,31 @@
 {
  "date": "2026-11-12",
- "count": 99,
+ "count": 101,
  "items": [
+  {
+   "id": "bossa-pap-440482",
+   "date": "2026-11-12",
+   "time": "10:33",
+   "ts": "2026-11-12T10:33:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne - SONIA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440482"
+  },
+  {
+   "id": "bossa-pap-440481",
+   "date": "2026-11-12",
+   "time": "10:29",
+   "ts": "2026-11-12T10:29:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GENXONE SA (9/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440481"
+  },
   {
    "id": "bossa-pap-440480",
    "date": "2026-11-12",
