@@ -5,17 +5,17 @@
   "wyniki": 25,
   "rekomendacje": 5,
   "korporacyjne": 23,
-  "makro_pl": 17,
-  "swiat_rynki": 15,
-  "energetyka_surowce": 3,
+  "makro_pl": 18,
+  "swiat_rynki": 16,
+  "energetyka_surowce": 4,
   "nieruchomosci": 0,
   "fundusze_drobne": 11,
   "twoje_spolki": 2,
   "obserwowane": 0,
   "pozostale": 46
  },
- "duplicatesRemoved": 72,
- "total": 231,
+ "duplicatesRemoved": 73,
+ "total": 235,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -667,6 +667,15 @@
   ],
   "makro_pl": [
    {
+    "time": "16:26",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ALIOR BANK S.A.: Dopuszczenie do obrotu na giełdzie w Luksemburgu obligacji senioralnych (Senior Notes) o łącznej wartości nominalnej 500.000.000 EUR emitowanych w ramach Programu EMTN",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71524",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "16:08",
     "kind": "pap",
     "ticker": null,
@@ -843,6 +852,15 @@
     "time": "15:47",
     "kind": "news",
     "ticker": null,
+    "title": "XXII edycja GPW Innovation Day w Warszawie. Spółki giełdowe, wielkie inwestycje i OKI",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/xxii-edycja-gpw-innovation-day-w-warszawie-spolki-gieldowe-wielkie-inwestycje-i",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "15:47",
+    "kind": "news",
+    "ticker": null,
     "title": "Aktywa krajowych funduszy inwestycyjnych wzrosły w październiku do rekordowych 492,1 mld zł - IZFiA",
     "url": "https://strefainwestorow.pl/wiadomosci/20261112/aktywa-krajowych-funduszy-inwestycyjnych-wzrosly-w-pazdzierniku-do-rekordowych",
     "src": "strefainwestorow",
@@ -960,6 +978,15 @@
    }
   ],
   "energetyka_surowce": [
+   {
+    "time": "16:24",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wielka Brytania przyjęła nowe sankcje przeciw branży energetycznej Rosji",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440592",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:32",
     "kind": "pap",
