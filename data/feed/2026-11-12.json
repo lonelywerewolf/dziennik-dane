@@ -1,7 +1,31 @@
 {
  "date": "2026-11-12",
- "count": 36,
+ "count": 38,
  "items": [
+  {
+   "id": "bossa-pap-440435",
+   "date": "2026-11-12",
+   "time": "08:03",
+   "ts": "2026-11-12T08:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PKB Wielkiej Brytanii w III kw: +0,7 proc. kdk. Konsensus: +0,7 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440435"
+  },
+  {
+   "id": "bossa-espi-71449",
+   "date": "2026-11-12",
+   "time": "08:01",
+   "ts": "2026-11-12T08:01:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "JRH ASI S.A.",
+   "title": "Podpisanie aneksu do umowy ramowej o współpracy z kontrahentem z Ukrainy",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71449"
+  },
   {
    "id": "bossa-pap-440433",
    "date": "2026-11-12",

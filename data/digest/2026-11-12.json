@@ -4,8 +4,8 @@
   "podsumowania": 4,
   "wyniki": 5,
   "rekomendacje": 1,
-  "korporacyjne": 2,
-  "makro_pl": 3,
+  "korporacyjne": 3,
+  "makro_pl": 4,
   "swiat_rynki": 1,
   "energetyka_surowce": 2,
   "nieruchomosci": 0,
@@ -15,7 +15,7 @@
   "pozostale": 6
  },
  "duplicatesRemoved": 12,
- "total": 36,
+ "total": 38,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -123,6 +123,17 @@
   ],
   "korporacyjne": [
    {
+    "time": "08:01",
+    "kind": "espi",
+    "ticker": null,
+    "title": "JRH ASI S.A.: Podpisanie aneksu do umowy ramowej o współpracy z kontrahentem z Ukrainy",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71449",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
     "time": "07:48",
     "kind": "espi",
     "ticker": null,
@@ -146,6 +157,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "08:03",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PKB Wielkiej Brytanii w III kw: +0,7 proc. kdk. Konsensus: +0,7 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440435",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "07:30",
     "kind": "pap",
