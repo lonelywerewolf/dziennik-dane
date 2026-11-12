@@ -2,20 +2,20 @@
  "date": "2026-11-12",
  "counts": {
   "podsumowania": 10,
-  "wyniki": 13,
+  "wyniki": 14,
   "rekomendacje": 3,
   "korporacyjne": 7,
   "makro_pl": 8,
   "swiat_rynki": 4,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
-  "fundusze_drobne": 1,
+  "fundusze_drobne": 2,
   "twoje_spolki": 0,
   "obserwowane": 0,
   "pozostale": 19
  },
  "duplicatesRemoved": 33,
- "total": 101,
+ "total": 103,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -111,6 +111,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "10:45",
+    "kind": "pap",
+    "ticker": null,
+    "title": "SYNERGA.FUND SA (12/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440484",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:29",
     "kind": "pap",
@@ -496,6 +505,15 @@
   ],
   "nieruchomosci": [],
   "fundusze_drobne": [
+   {
+    "time": "10:42",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Zmienność na giełdach może być okazją, w centrum geopolityka i AI - VIG/C-Quadrat TFI (opinia)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440483",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:15",
     "kind": "espi",

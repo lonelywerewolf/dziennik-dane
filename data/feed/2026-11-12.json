@@ -1,7 +1,31 @@
 {
  "date": "2026-11-12",
- "count": 101,
+ "count": 103,
  "items": [
+  {
+   "id": "bossa-pap-440484",
+   "date": "2026-11-12",
+   "time": "10:45",
+   "ts": "2026-11-12T10:45:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "SYNERGA.FUND SA (12/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440484"
+  },
+  {
+   "id": "bossa-pap-440483",
+   "date": "2026-11-12",
+   "time": "10:42",
+   "ts": "2026-11-12T10:42:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zmienność na giełdach może być okazją, w centrum geopolityka i AI - VIG/C-Quadrat TFI (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440483"
+  },
   {
    "id": "bossa-pap-440482",
    "date": "2026-11-12",
