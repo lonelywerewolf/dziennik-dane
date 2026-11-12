@@ -1,7 +1,43 @@
 {
  "date": "2026-11-12",
- "count": 311,
+ "count": 314,
  "items": [
+  {
+   "id": "bossa-espi-71560",
+   "date": "2026-11-12",
+   "time": "19:01",
+   "ts": "2026-11-12T19:01:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ROBYG S.A.",
+   "title": "Informacja dotycząca kosztów Oferty poniesionych przez Spółkę.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71560"
+  },
+  {
+   "id": "bossa-pap-440659",
+   "date": "2026-11-12",
+   "time": "19:00",
+   "ts": "2026-11-12T19:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Kalendarium rynku NewConnect 2026-11-12",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440659"
+  },
+  {
+   "id": "bossa-pap-440658",
+   "date": "2026-11-12",
+   "time": "18:57",
+   "ts": "2026-11-12T18:57:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "CENTORO SA (18/2026) Podpisanie przez emitenta z firmą audytorską umowy o badanie sprawozdań finansowych lub skonsolidowanych sprawozdań finansowych emitenta",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440658"
+  },
   {
    "id": "bossa-pap-440657",
    "date": "2026-11-12",
