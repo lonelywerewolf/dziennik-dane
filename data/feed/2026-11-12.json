@@ -1,7 +1,31 @@
 {
  "date": "2026-11-12",
- "count": 103,
+ "count": 106,
  "items": [
+  {
+   "id": "bossa-pap-440486",
+   "date": "2026-11-12",
+   "time": "10:54",
+   "ts": "2026-11-12T10:54:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "UNIVERSE SA (13/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440486"
+  },
+  {
+   "id": "bossa-espi-71469",
+   "date": "2026-11-12",
+   "time": "10:53",
+   "ts": "2026-11-12T10:53:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Euvic S.A.",
+   "title": "Konsolidacja grupy kapitałowej Euvic poprzez przejęcie 100% akcji Euvic AB z siedzibą w Sztokholmie (Szwecja)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71469"
+  },
   {
    "id": "bossa-pap-440484",
    "date": "2026-11-12",
@@ -61,6 +85,17 @@
    "title": "TSUE wydał wyrok w polskiej sprawie dot. opóźnienia w rozpatrywaniu wniosków o zezwolenie na pobyt",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440480"
+  },
+  {
+   "id": "strefa-567886236633",
+   "date": "2026-11-12",
+   "time": "10:21",
+   "ts": "2026-11-12T10:21:29+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "beeIN S.A. z kolejną umową ramową szacowanej o wartości ok. 3,6 mln zł brutto",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/beein-sa-z-kolejna-umowa-ramowa-szacowanej-o-wartosci-ok-36-mln-zl-brutto"
   },
   {
    "id": "bossa-espi-71466",
