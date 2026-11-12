@@ -1,24 +1,33 @@
 {
  "date": "2026-11-12",
  "counts": {
-  "podsumowania": 8,
+  "podsumowania": 9,
   "wyniki": 9,
   "rekomendacje": 2,
-  "korporacyjne": 6,
+  "korporacyjne": 7,
   "makro_pl": 8,
   "swiat_rynki": 4,
-  "energetyka_surowce": 2,
+  "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 1,
   "twoje_spolki": 0,
   "obserwowane": 0,
   "pozostale": 13
  },
- "duplicatesRemoved": 25,
- "total": 78,
+ "duplicatesRemoved": 30,
+ "total": 86,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "09:24",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: W Europie na giełdach 4. sesja ze wzrostami indeksów",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/dzien-na-rynkach-w-europie-na-gieldach-4-sesja-ze-wzrostami-indeksow",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:20",
     "kind": "news",
@@ -207,6 +216,17 @@
   ],
   "korporacyjne": [
    {
+    "time": "09:34",
+    "kind": "news",
+    "ticker": null,
+    "title": "BTCS rozwija zarządzanie aktywami dla inwestorów instytucjonalnych i zaplecze do tokenizacji",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/btcs-rozwija-zarzadzanie-aktywami-dla-inwestorow-instytucjonalnych-i-zaplecze",
+    "src": "strefainwestorow",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
     "time": "09:01",
     "kind": "news",
     "ticker": null,
@@ -389,6 +409,15 @@
    }
   ],
   "energetyka_surowce": [
+   {
+    "time": "09:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GPW ma szanse na dalsze wzrosty; silne mogą być m. in. spółki surowcowe i energetyczne – TFI PZU (wywiad)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440466",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:06",
     "kind": "news",

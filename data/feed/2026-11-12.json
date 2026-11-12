@@ -1,7 +1,90 @@
 {
  "date": "2026-11-12",
- "count": 78,
+ "count": 86,
  "items": [
+  {
+   "id": "bossa-espi-9269",
+   "date": "2026-11-12",
+   "time": "09:37",
+   "ts": "2026-11-12T09:37:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF WIG20 TR + mWIG40 TR PORTFELOWY FIZ",
+   "title": "RB_FI_E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-9269"
+  },
+  {
+   "id": "strefa-03823079f056",
+   "date": "2026-11-12",
+   "time": "09:34",
+   "ts": "2026-11-12T09:34:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "BTCS rozwija zarządzanie aktywami dla inwestorów instytucjonalnych i zaplecze do tokenizacji",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/btcs-rozwija-zarzadzanie-aktywami-dla-inwestorow-instytucjonalnych-i-zaplecze"
+  },
+  {
+   "id": "bossa-espi-71460",
+   "date": "2026-11-12",
+   "time": "09:34",
+   "ts": "2026-11-12T09:34:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF MSCI WORLD PORTFELOWY FIZ",
+   "title": "RB_FI_E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71460"
+  },
+  {
+   "id": "bossa-pap-440467",
+   "date": "2026-11-12",
+   "time": "09:33",
+   "ts": "2026-11-12T09:33:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: W Europie na giełdach 4. sesja ze wzrostami indeksów",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440467"
+  },
+  {
+   "id": "bossa-espi-71459",
+   "date": "2026-11-12",
+   "time": "09:33",
+   "ts": "2026-11-12T09:33:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF GOLD PORTFELOWY FIZ",
+   "title": "RB_FI_E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71459"
+  },
+  {
+   "id": "bossa-pap-440466",
+   "date": "2026-11-12",
+   "time": "09:32",
+   "ts": "2026-11-12T09:32:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW ma szanse na dalsze wzrosty; silne mogą być m. in. spółki surowcowe i energetyczne – TFI PZU (wywiad)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440466"
+  },
+  {
+   "id": "bossa-espi-71458",
+   "date": "2026-11-12",
+   "time": "09:31",
+   "ts": "2026-11-12T09:31:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF OBLIGACJI SKARBOWYCH ZMIENNOKUPONOWYCH PORTFELOWY FIZ",
+   "title": "RB_FI_E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71458"
+  },
   {
    "id": "bossa-espi-71457",
    "date": "2026-11-12",
@@ -49,6 +132,17 @@
    "title": "Rynkom w USA nie grozi głęboka korekta, ale warto selektywnie podejść do spółek AI – TFI PZU (wywiad)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440461"
+  },
+  {
+   "id": "strefa-bca677b630d7",
+   "date": "2026-11-12",
+   "time": "09:24",
+   "ts": "2026-11-12T09:24:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: W Europie na giełdach 4. sesja ze wzrostami indeksów",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/dzien-na-rynkach-w-europie-na-gieldach-4-sesja-ze-wzrostami-indeksow"
   },
   {
    "id": "bossa-pap-440460",
