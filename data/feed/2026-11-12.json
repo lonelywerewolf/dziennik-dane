@@ -1,7 +1,79 @@
 {
  "date": "2026-11-12",
- "count": 200,
+ "count": 207,
  "items": [
+  {
+   "id": "bossa-pap-440571",
+   "date": "2026-11-12",
+   "time": "15:22",
+   "ts": "2026-11-12T15:22:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MRiRW: 50. Ogólnopolski Konkurs Jakości Prac Scaleniowych rozstrzygnięty (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440571"
+  },
+  {
+   "id": "bossa-pap-440570",
+   "date": "2026-11-12",
+   "time": "15:20",
+   "ts": "2026-11-12T15:20:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: Główne indeksy utrzymują wzrosty; WIG20 zwyżkuje o ok. 0,6 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440570"
+  },
+  {
+   "id": "bossa-pap-440569",
+   "date": "2026-11-12",
+   "time": "15:20",
+   "ts": "2026-11-12T15:20:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Trump zagroził Meksykowi podwójnymi cłami, jeśli meksykańskie władze nie powstrzymają migrantów",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440569"
+  },
+  {
+   "id": "bossa-espi-71514",
+   "date": "2026-11-12",
+   "time": "15:17",
+   "ts": "2026-11-12T15:17:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF sWIG80TR PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 228 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71514"
+  },
+  {
+   "id": "bossa-pap-440567",
+   "date": "2026-11-12",
+   "time": "15:13",
+   "ts": "2026-11-12T15:13:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Prezes Nvidii Jensen Huang zrezygnował ze stanowiska",
+   "ticker": "NVDA",
+   "url": "https://bossa.pl/analizy/komunikaty#message-440567"
+  },
+  {
+   "id": "bossa-pap-440565",
+   "date": "2026-11-12",
+   "time": "15:13",
+   "ts": "2026-11-12T15:13:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "ABAK SA (17/2026) Skonsolidowany raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440565"
+  },
   {
    "id": "bossa-espi-71512",
    "date": "2026-11-12",
@@ -13,6 +85,17 @@
    "title": "Raport bieżący nr 215 / 2026",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-71512"
+  },
+  {
+   "id": "strefa-1bb490fe10c3",
+   "date": "2026-11-12",
+   "time": "15:09",
+   "ts": "2026-11-12T15:09:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: Główne indeksy utrzymują wzrosty; WIG20 zwyżkuje o ok. 0,6 proc.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/dzien-na-gpw-glowne-indeksy-utrzymuja-wzrosty-wig20-zwyzkuje-o-ok-06-proc"
   },
   {
    "id": "bossa-espi-71511",

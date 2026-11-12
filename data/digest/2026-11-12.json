@@ -1,24 +1,33 @@
 {
  "date": "2026-11-12",
  "counts": {
-  "podsumowania": 10,
-  "wyniki": 22,
-  "rekomendacje": 4,
+  "podsumowania": 11,
+  "wyniki": 23,
+  "rekomendacje": 5,
   "korporacyjne": 22,
   "makro_pl": 14,
   "swiat_rynki": 11,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 8,
-  "twoje_spolki": 1,
+  "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 41
+  "pozostale": 42
  },
- "duplicatesRemoved": 64,
- "total": 200,
+ "duplicatesRemoved": 66,
+ "total": 207,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "15:09",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: Główne indeksy utrzymują wzrosty; WIG20 zwyżkuje o ok. 0,6 proc.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/dzien-na-gpw-glowne-indeksy-utrzymuja-wzrosty-wig20-zwyzkuje-o-ok-06-proc",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:40",
     "kind": "news",
@@ -111,6 +120,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "15:13",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ABAK SA (17/2026) Skonsolidowany raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440565",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:41",
     "kind": "pap",
@@ -329,6 +347,15 @@
    }
   ],
   "rekomendacje": [
+   {
+    "time": "15:20",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Trump zagroził Meksykowi podwójnymi cłami, jeśli meksykańskie władze nie powstrzymają migrantów",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440569",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:34",
     "kind": "espi",
@@ -937,6 +964,17 @@
   ],
   "twoje_spolki": [
    {
+    "time": "15:13",
+    "kind": "pap",
+    "ticker": "NVDA",
+    "title": "Prezes Nvidii Jensen Huang zrezygnował ze stanowiska",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440567",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
     "time": "14:07",
     "kind": "news",
     "ticker": "NVDA",
@@ -951,6 +989,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "15:22",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MRiRW: 50. Ogólnopolski Konkurs Jakości Prac Scaleniowych rozstrzygnięty (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440571",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:02",
     "kind": "pap",
