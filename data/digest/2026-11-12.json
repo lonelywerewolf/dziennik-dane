@@ -6,7 +6,7 @@
   "rekomendacje": 5,
   "korporacyjne": 23,
   "makro_pl": 17,
-  "swiat_rynki": 14,
+  "swiat_rynki": 15,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 11,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 46
  },
- "duplicatesRemoved": 71,
- "total": 229,
+ "duplicatesRemoved": 72,
+ "total": 231,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -828,6 +828,15 @@
     "title": "Sprzedaż domów na rynku wtórnym w USA we X: 3,75 mln. Konsensus: 3,85 mln. Poprzednio: 3,97 mln",
     "url": "https://bossa.pl/analizy/komunikaty#message-440588",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "Euro w EBC: 1,1081 USD i 176,96 JPY",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/euro-w-ebc-11081-usd-i-17696-jpy",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
