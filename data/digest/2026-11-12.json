@@ -4,7 +4,7 @@
   "podsumowania": 12,
   "wyniki": 25,
   "rekomendacje": 5,
-  "korporacyjne": 23,
+  "korporacyjne": 24,
   "makro_pl": 18,
   "swiat_rynki": 16,
   "energetyka_surowce": 4,
@@ -15,7 +15,7 @@
   "pozostale": 46
  },
  "duplicatesRemoved": 73,
- "total": 235,
+ "total": 236,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -426,6 +426,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "16:35",
+    "kind": "espi",
+    "ticker": null,
+    "title": "INTERBUD-LUBLIN S.A.: Zawarcie przez spółkę zależną umowy o wykonanie robót budowlanych w ramach inwestycji „Zielony Felin”",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71525",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "15:34",
     "kind": "espi",
