@@ -1,7 +1,42 @@
 {
  "date": "2026-11-12",
- "count": 156,
+ "count": 159,
  "items": [
+  {
+   "id": "bossa-espi-71498",
+   "date": "2026-11-12",
+   "time": "13:37",
+   "ts": "2026-11-12T13:37:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "EUROCASH",
+   "title": "Projekty uchwał na Nadzwyczajne Walne Zgromadzenie Eurocash S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71498"
+  },
+  {
+   "id": "bossa-espi-71497",
+   "date": "2026-11-12",
+   "time": "13:35",
+   "ts": "2026-11-12T13:35:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF DYWIDENDA PLUS PORTFELOW FIZ",
+   "title": "Raport bieżący nr 234 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71497"
+  },
+  {
+   "id": "strefa-266b254199ff",
+   "date": "2026-11-12",
+   "time": "13:33",
+   "ts": "2026-11-12T13:33:57+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Boom na spółki AI zmienia kierunek. Ekspert TFI PZU wskazał ukrytych beneficjentów",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/boom-na-spolki-ai-zmienia-kierunek-ekspert-tfi-pzu-wskazal-ukrytych"
+  },
   {
    "id": "bossa-pap-440531",
    "date": "2026-11-12",
