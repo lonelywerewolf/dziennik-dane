@@ -1,7 +1,42 @@
 {
  "date": "2026-11-12",
- "count": 212,
+ "count": 216,
  "items": [
+  {
+   "id": "strefa-62b099c62b51",
+   "date": "2026-11-12",
+   "time": "15:46",
+   "ts": "2026-11-12T15:46:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Po otwarciu sesji DJI spada o 0,01 proc., a S&P500 traci 0,33 proc.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/po-otwarciu-sesji-dji-spada-o-001-proc-sp500-traci-033-proc"
+  },
+  {
+   "id": "bossa-pap-440578",
+   "date": "2026-11-12",
+   "time": "15:45",
+   "ts": "2026-11-12T15:45:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA FX/FI: Złoty kontynuuje osłabienie",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440578"
+  },
+  {
+   "id": "bossa-pap-440577",
+   "date": "2026-11-12",
+   "time": "15:45",
+   "ts": "2026-11-12T15:45:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GKS GIEKSA KATOWICE SA (17/2026) Inne informacje",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440577"
+  },
   {
    "id": "bossa-espi-71517",
    "date": "2026-11-12",
@@ -73,6 +108,17 @@
    "title": "MRiRW: 50. Ogólnopolski Konkurs Jakości Prac Scaleniowych rozstrzygnięty (komunikat)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440571"
+  },
+  {
+   "id": "strefa-006897750a32",
+   "date": "2026-11-12",
+   "time": "15:21",
+   "ts": "2026-11-12T15:21:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA FX/FI: Złoty kontynuuje osłabienie",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/dzien-na-fxfi-zloty-kontynuuje-oslabienie"
   },
   {
    "id": "bossa-pap-440570",
