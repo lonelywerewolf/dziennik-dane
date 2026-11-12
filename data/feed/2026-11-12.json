@@ -1,7 +1,53 @@
 {
  "date": "2026-11-12",
- "count": 62,
+ "count": 67,
  "items": [
+  {
+   "id": "strefa-968bd85cadfe",
+   "date": "2026-11-12",
+   "time": "09:06",
+   "ts": "2026-11-12T09:06:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/notowania-metali-bazowych-wegla-i-paliw-tabela"
+  },
+  {
+   "id": "bossa-pap-440456",
+   "date": "2026-11-12",
+   "time": "09:05",
+   "ts": "2026-11-12T09:05:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Kurs Allegro rośnie o blisko 5 proc.; spółka podniosła prognozy i ma nową umowę z InPostem",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440456"
+  },
+  {
+   "id": "strefa-b31063e0addc",
+   "date": "2026-11-12",
+   "time": "09:01",
+   "ts": "2026-11-12T09:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Kurs Allegro rośnie o blisko 5 proc.; spółka podniosła prognozy i ma nową umowę z InPostem",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/kurs-allegro-rosnie-o-blisko-5-proc-spolka-podniosla-prognozy-i-ma-nowa-umowe-z"
+  },
+  {
+   "id": "bossa-pap-440455",
+   "date": "2026-11-12",
+   "time": "09:00",
+   "ts": "2026-11-12T09:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźnik Przyszłej Inflacji w XI ustabilizował się, ale czynniki inflacyjne wciąż aktywne - BIEC",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440455"
+  },
   {
    "id": "bossa-pap-440454",
    "date": "2026-11-12",
@@ -13,6 +59,17 @@
    "title": "Wyniki Allegro za III kw. powyżej oczekiwań, umowa z InPost pozytywna (opinia)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440454"
+  },
+  {
+   "id": "strefa-62de8ad8c1cf",
+   "date": "2026-11-12",
+   "time": "08:53",
+   "ts": "2026-11-12T08:53:16+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wskaźnik Przyszłej Inflacji w XI ustabilizował się, ale czynniki inflacyjne wciąż aktywne - BIEC",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/wskaznik-przyszlej-inflacji-w-xi-ustabilizowal-sie-ale-czynniki-inflacyjne"
   },
   {
    "id": "strefa-e47c26b736a0",
