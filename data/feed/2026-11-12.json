@@ -1,7 +1,31 @@
 {
  "date": "2026-11-12",
- "count": 306,
+ "count": 308,
  "items": [
+  {
+   "id": "bossa-pap-440654",
+   "date": "2026-11-12",
+   "time": "18:43",
+   "ts": "2026-11-12T18:43:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DARK POINT GAMES SA (14/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440654"
+  },
+  {
+   "id": "bossa-pap-440653",
+   "date": "2026-11-12",
+   "time": "18:39",
+   "ts": "2026-11-12T18:39:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne - SARON",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440653"
+  },
   {
    "id": "bossa-pap-440652",
    "date": "2026-11-12",

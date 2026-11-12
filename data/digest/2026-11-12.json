@@ -2,7 +2,7 @@
  "date": "2026-11-12",
  "counts": {
   "podsumowania": 16,
-  "wyniki": 36,
+  "wyniki": 37,
   "rekomendacje": 5,
   "korporacyjne": 37,
   "makro_pl": 19,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 60
  },
- "duplicatesRemoved": 92,
- "total": 306,
+ "duplicatesRemoved": 93,
+ "total": 308,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -167,6 +167,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "18:43",
+    "kind": "pap",
+    "ticker": null,
+    "title": "DARK POINT GAMES SA (14/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440654",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:26",
     "kind": "espi",
