@@ -1,7 +1,43 @@
 {
  "date": "2026-11-12",
- "count": 122,
+ "count": 125,
  "items": [
+  {
+   "id": "bossa-pap-440502",
+   "date": "2026-11-12",
+   "time": "12:03",
+   "ts": "2026-11-12T12:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "HIGHLANDER ENTERPRISE SA (12/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440502"
+  },
+  {
+   "id": "bossa-pap-440501",
+   "date": "2026-11-12",
+   "time": "12:02",
+   "ts": "2026-11-12T12:02:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Cena maksymalna dla benzyny Pb95 wyniesie w piątek 6,06 zł/l, a dla ON 7,54 zł/l",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440501"
+  },
+  {
+   "id": "bossa-pap-440500",
+   "date": "2026-11-12",
+   "time": "12:00",
+   "ts": "2026-11-12T12:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MF na przetargu zamiany sprzedało obligacje za ok. 8,11 mld zł, a odkupiło za ok. 7,53 mld zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440500"
+  },
   {
    "id": "bossa-pap-440498",
    "date": "2026-11-12",

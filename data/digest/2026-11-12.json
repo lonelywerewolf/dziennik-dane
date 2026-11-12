@@ -2,9 +2,9 @@
  "date": "2026-11-12",
  "counts": {
   "podsumowania": 10,
-  "wyniki": 18,
+  "wyniki": 19,
   "rekomendacje": 3,
-  "korporacyjne": 10,
+  "korporacyjne": 11,
   "makro_pl": 9,
   "swiat_rynki": 4,
   "energetyka_surowce": 3,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 3,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 26
+  "pozostale": 27
  },
  "duplicatesRemoved": 36,
- "total": 122,
+ "total": 125,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -111,6 +111,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "12:03",
+    "kind": "pap",
+    "ticker": null,
+    "title": "HIGHLANDER ENTERPRISE SA (12/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440502",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:51",
     "kind": "pap",
@@ -317,6 +326,15 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "12:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MF na przetargu zamiany sprzedało obligacje za ok. 8,11 mld zł, a odkupiło za ok. 7,53 mld zł",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440500",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:39",
     "kind": "espi",
@@ -612,6 +630,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:02",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Cena maksymalna dla benzyny Pb95 wyniesie w piątek 6,06 zł/l, a dla ON 7,54 zł/l",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440501",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:51",
     "kind": "espi",
