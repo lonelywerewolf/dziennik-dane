@@ -1,7 +1,42 @@
 {
  "date": "2026-11-12",
- "count": 335,
+ "count": 338,
  "items": [
+  {
+   "id": "bossa-pap-440679",
+   "date": "2026-11-12",
+   "time": "23:30",
+   "ts": "2026-11-12T23:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PE chce zwiększyć do 12,42 mld euro budżet unijnego mechanizmu ochrony ludności",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440679"
+  },
+  {
+   "id": "bossa-pap-440678",
+   "date": "2026-11-12",
+   "time": "23:25",
+   "ts": "2026-11-12T23:25:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Jeden z głównych akcjonariuszy Sanok Rubber Company wnioskuje o skup akcji własnych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440678"
+  },
+  {
+   "id": "strefa-abf3ee781834",
+   "date": "2026-11-12",
+   "time": "22:27",
+   "ts": "2026-11-12T22:27:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Jeden z głównych akcjonariuszy Sanok Rubber Company wnioskuje o skup akcji własnych",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/jeden-z-glownych-akcjonariuszy-sanok-rubber-company-wnioskuje-o-skup-akcji"
+  },
   {
    "id": "bossa-pap-440677",
    "date": "2026-11-12",

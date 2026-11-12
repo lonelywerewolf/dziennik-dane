@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "id": "e84b2ffd1f1c",
+   "ticker": "NVDA",
+   "time": "2026-11-12T23:18+01:00",
+   "title": "Stock Market Today, Nov. 12: Nvidia Shares Slide on Reports of CEO Jensen Huang's Resignation",
+   "url": "https://www.nasdaq.com/articles/stock-market-today-nov-12-nvidia-shares-slide-reports-ceo-jensen-huangs-resignation",
+   "src": "nasdaq",
+   "summary": "Nvidia (NASDAQ:NVDA), an AI chip designer, closed at $166.19, falling 4.34%. The stock plunged after reports of CEO Jensen Huang's resignation, and investors are awaiting the company's next earnings call, scheduled for Nov. 17."
+  },
+  {
+   "id": "4eb6e8a3aeff",
+   "ticker": "NVDA",
+   "time": "2026-11-12T23:00+01:00",
+   "title": "More Unfortunate News for Nvidia Stock Investors",
+   "url": "https://www.nasdaq.com/articles/more-unfortunate-news-nvidia-stock-investors",
+   "src": "nasdaq",
+   "summary": "Should you buy stock in Nvidia right now?\nBefore you buy stock in Nvidia, consider this:Missed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Con"
+  },
+  {
    "id": "2b4ef40a7808",
    "ticker": "AVGO",
    "time": "2026-11-12T21:07+01:00",
@@ -12538,5 +12556,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-12T23:24:47+01:00"
+ "updatedAt": "2026-11-12T23:35:48+01:00"
 }
