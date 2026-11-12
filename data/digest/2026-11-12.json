@@ -2,9 +2,9 @@
  "date": "2026-11-12",
  "counts": {
   "podsumowania": 16,
-  "wyniki": 35,
+  "wyniki": 36,
   "rekomendacje": 5,
-  "korporacyjne": 36,
+  "korporacyjne": 37,
   "makro_pl": 19,
   "swiat_rynki": 20,
   "energetyka_surowce": 5,
@@ -15,7 +15,7 @@
   "pozostale": 60
  },
  "duplicatesRemoved": 92,
- "total": 304,
+ "total": 306,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -167,6 +167,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "18:26",
+    "kind": "espi",
+    "ticker": null,
+    "title": "POLKAP S.A.: Zgoda Banku na wydłużenie terminu zapłaty ostatniej raty wynikającej z ugody z wierzycielem nieobjętym układem",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71554",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "18:03",
     "kind": "pap",
@@ -562,6 +573,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "18:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BRAINSCAN SA (15/2026) Informacje o emisji obligacji lub warrantów subskrypcyjnych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440652",
+    "src": "bossa",
+    "flags": [
+     "emisja"
+    ]
+   },
    {
     "time": "18:08",
     "kind": "pap",

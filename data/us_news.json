@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "737794d8c3ca",
+   "ticker": "AVGO",
+   "time": "2026-11-12T18:01+01:00",
+   "title": "Nasdaq 100 Movers: NBIS, HONIV",
+   "url": "https://www.nasdaq.com/articles/nasdaq-100-movers-nbis-honiv",
+   "src": "nasdaq",
+   "summary": "In early trading on Thursday, shares of Honeywell International topped the list of the day's best performing components of the Nasdaq 100 index, trading up 7.5%.  Year to date, Honeywell International registers a 42.2% gain.\n\nAnd the worst performing Nasdaq 100 component thus fa"
+  },
+  {
+   "id": "250935deec13",
+   "ticker": "NVDA",
+   "time": "2026-11-12T17:59+01:00",
+   "title": "Dow Movers: NVDA, HONIV",
+   "url": "https://www.nasdaq.com/articles/dow-movers-nvda-honiv-7",
+   "src": "nasdaq",
+   "summary": "In early trading on Thursday, shares of Honeywell International topped the list of the day's best performing Dow Jones Industrial Average components, trading up 7.5%.  Year to date, Honeywell International registers a 42.2% gain.\n\nAnd the worst performing Dow component thus far"
+  },
+  {
+   "id": "5721febf1f9e",
+   "ticker": "NVDA",
+   "time": "2026-11-12T17:54+01:00",
+   "title": "Why SpaceX Stock Popped After Nvidia's CEO News",
+   "url": "https://www.nasdaq.com/articles/why-spacex-stock-popped-after-nvidias-ceo-news",
+   "src": "nasdaq",
+   "summary": "Key PointsNvidia CEO Jensen Huang resigned last night, roiling the AI semiconductor industry."
+  },
+  {
    "id": "d0867e672714",
    "ticker": "AVGO",
    "time": "2026-11-12T17:39+01:00",
@@ -368,6 +395,15 @@
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU0I5U0RkdzVQajJOaFZYNmtVRWlkcVFtcWZtUGxHWVJmMllka0FIbjBYclNGRm42Zl9nOTlHUm90SVRQR2JMa0JObV85WmMybHltQXZWdU55a0l2Z041SEhyQWdrU2JSSGQ2bDhPMGh4c2hJdVRwajFJNml1dmFhV3VJMTIxN3V4WnRDdTVXaGZuS1JOOThpRnl1VWRSQmYwRkVvaE5B?oc=5",
    "src": "google",
    "summary": "Alice Huang’s Companies Invested in DeepSeek, Promising Nvidia Chips&nbsp;&nbsp;The Information"
+  },
+  {
+   "id": "39c2b947f7dc",
+   "ticker": "NVDA",
+   "time": "2026-11-12T16:00+01:00",
+   "title": "Can Nokia's Expanded One New Zealand Deal Accelerate Its AI Growth?",
+   "url": "https://www.nasdaq.com/articles/can-nokias-expanded-one-new-zealand-deal-accelerate-its-ai-growth",
+   "src": "nasdaq",
+   "summary": "NOK expands its One New Zealand partnership to advance autonomous networks, leveraging AI-driven solutions to improve network automation, operational efficiency and reliability."
   },
   {
    "id": "c1aefcdc6d38",
@@ -12358,5 +12394,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-12T18:23:10+01:00"
+ "updatedAt": "2026-11-12T18:34:11+01:00"
 }
