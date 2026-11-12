@@ -1,7 +1,54 @@
 {
  "date": "2026-11-12",
- "count": 171,
+ "count": 175,
  "items": [
+  {
+   "id": "bossa-pap-440542",
+   "date": "2026-11-12",
+   "time": "14:06",
+   "ts": "2026-11-12T14:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "FDA zatwierdziła Mabion jako dostawcę na rynek amerykański",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440542"
+  },
+  {
+   "id": "bossa-pap-440541",
+   "date": "2026-11-12",
+   "time": "14:04",
+   "ts": "2026-11-12T14:04:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MKiŚ chce zapewnić stabilne finansowanie dla BDO na lata 2028-2037",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440541"
+  },
+  {
+   "id": "bossa-pap-440540",
+   "date": "2026-11-12",
+   "time": "14:03",
+   "ts": "2026-11-12T14:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Bank centralny Rumunii pozostawił stopy proc. bez zmian na poziomie 6,50 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440540"
+  },
+  {
+   "id": "strefa-c192160b57ce",
+   "date": "2026-11-12",
+   "time": "13:56",
+   "ts": "2026-11-12T13:56:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "FDA zatwierdziła Mabion jako dostawcę na rynek amerykański",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/fda-zatwierdzila-mabion-jako-dostawce-na-rynek-amerykanski"
+  },
   {
    "id": "bossa-espi-71503",
    "date": "2026-11-12",

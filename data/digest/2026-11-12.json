@@ -12,10 +12,10 @@
   "fundusze_drobne": 5,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 35
+  "pozostale": 38
  },
- "duplicatesRemoved": 54,
- "total": 171,
+ "duplicatesRemoved": 55,
+ "total": 175,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -826,6 +826,33 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "14:04",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MKiŚ chce zapewnić stabilne finansowanie dla BDO na lata 2028-2037",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440541",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:03",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Bank centralny Rumunii pozostawił stopy proc. bez zmian na poziomie 6,50 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440540",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:56",
+    "kind": "news",
+    "ticker": null,
+    "title": "FDA zatwierdziła Mabion jako dostawcę na rynek amerykański",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/fda-zatwierdzila-mabion-jako-dostawce-na-rynek-amerykanski",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "13:56",
     "kind": "espi",
