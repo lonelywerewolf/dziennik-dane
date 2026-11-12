@@ -1,7 +1,31 @@
 {
  "date": "2026-11-12",
- "count": 56,
+ "count": 58,
  "items": [
+  {
+   "id": "bossa-pap-440452",
+   "date": "2026-11-12",
+   "time": "08:46",
+   "ts": "2026-11-12T08:46:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zapasy gazu w magazynach UE poniżej 72 proc., w Polsce niecałe 97 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440452"
+  },
+  {
+   "id": "bossa-pap-440451",
+   "date": "2026-11-12",
+   "time": "08:42",
+   "ts": "2026-11-12T08:42:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne - SARON",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440451"
+  },
   {
    "id": "bossa-pap-440450",
    "date": "2026-11-12",
