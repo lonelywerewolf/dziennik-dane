@@ -4,7 +4,7 @@
   "podsumowania": 10,
   "wyniki": 19,
   "rekomendacje": 3,
-  "korporacyjne": 11,
+  "korporacyjne": 12,
   "makro_pl": 9,
   "swiat_rynki": 4,
   "energetyka_surowce": 3,
@@ -15,7 +15,7 @@
   "pozostale": 27
  },
  "duplicatesRemoved": 36,
- "total": 125,
+ "total": 126,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -326,6 +326,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "12:25",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Komunikat o transakcjach po wezwaniu do zapisywania się na sprzedaż akcji spółki Telestrada SA",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440503",
+    "src": "bossa",
+    "flags": [
+     "wezwanie"
+    ]
+   },
    {
     "time": "12:00",
     "kind": "pap",

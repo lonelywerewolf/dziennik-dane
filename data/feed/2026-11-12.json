@@ -1,7 +1,19 @@
 {
  "date": "2026-11-12",
- "count": 125,
+ "count": 126,
  "items": [
+  {
+   "id": "bossa-pap-440503",
+   "date": "2026-11-12",
+   "time": "12:25",
+   "ts": "2026-11-12T12:25:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Komunikat o transakcjach po wezwaniu do zapisywania się na sprzedaż akcji spółki Telestrada SA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440503"
+  },
   {
    "id": "bossa-pap-440502",
    "date": "2026-11-12",
