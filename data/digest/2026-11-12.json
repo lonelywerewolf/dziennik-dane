@@ -2,20 +2,20 @@
  "date": "2026-11-12",
  "counts": {
   "podsumowania": 12,
-  "wyniki": 24,
+  "wyniki": 25,
   "rekomendacje": 5,
   "korporacyjne": 23,
-  "makro_pl": 15,
-  "swiat_rynki": 13,
+  "makro_pl": 17,
+  "swiat_rynki": 14,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
-  "fundusze_drobne": 10,
+  "fundusze_drobne": 11,
   "twoje_spolki": 2,
   "obserwowane": 0,
   "pozostale": 46
  },
- "duplicatesRemoved": 68,
- "total": 221,
+ "duplicatesRemoved": 71,
+ "total": 229,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -129,6 +129,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "16:05",
+    "kind": "pap",
+    "ticker": null,
+    "title": "LUDUS SA (17/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440587",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:47",
     "kind": "espi",
@@ -658,6 +667,24 @@
   ],
   "makro_pl": [
    {
+    "time": "16:08",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Spółka z grupy Niewiadów PGM z decyzją o wsparciu inwestycji w produkcję amunicji 40 mm",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440589",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:00",
+    "kind": "espi",
+    "ticker": null,
+    "title": "NIEWIADÓW POLSKA GRUPA MILITARNA S.A.: Uzyskanie przez Fabrykę Amunicji Pocisk S.A. decyzji o wsparciu inwestycji w produkcję amunicji 40 mm - zwolnienie z CIT do 24 mln zł",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71521",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "15:33",
     "kind": "espi",
     "ticker": null,
@@ -795,12 +822,21 @@
   ],
   "swiat_rynki": [
    {
-    "time": "15:59",
+    "time": "16:06",
     "kind": "pap",
     "ticker": null,
-    "title": "Aktywa krajowych funduszy inwestycyjnych wzrosły w październiku do rekordowych 492,1 mld zł - IZFiA",
-    "url": "https://bossa.pl/analizy/komunikaty#message-440583",
+    "title": "Sprzedaż domów na rynku wtórnym w USA we X: 3,75 mln. Konsensus: 3,85 mln. Poprzednio: 3,97 mln",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440588",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:47",
+    "kind": "news",
+    "ticker": null,
+    "title": "Aktywa krajowych funduszy inwestycyjnych wzrosły w październiku do rekordowych 492,1 mld zł - IZFiA",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/aktywa-krajowych-funduszy-inwestycyjnych-wzrosly-w-pazdzierniku-do-rekordowych",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -945,6 +981,15 @@
   ],
   "nieruchomosci": [],
   "fundusze_drobne": [
+   {
+    "time": "16:09",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Sąd w Belgii uchylił decyzję o zajęciu środków PAŻP na rzecz koncernu farmaceutycznego Pfizer",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440590",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:48",
     "kind": "pap",

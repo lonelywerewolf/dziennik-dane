@@ -1,7 +1,91 @@
 {
  "date": "2026-11-12",
- "count": 221,
+ "count": 229,
  "items": [
+  {
+   "id": "bossa-pap-440590",
+   "date": "2026-11-12",
+   "time": "16:09",
+   "ts": "2026-11-12T16:09:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Sąd w Belgii uchylił decyzję o zajęciu środków PAŻP na rzecz koncernu farmaceutycznego Pfizer",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440590"
+  },
+  {
+   "id": "bossa-pap-440589",
+   "date": "2026-11-12",
+   "time": "16:08",
+   "ts": "2026-11-12T16:08:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Spółka z grupy Niewiadów PGM z decyzją o wsparciu inwestycji w produkcję amunicji 40 mm",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440589"
+  },
+  {
+   "id": "bossa-pap-440588",
+   "date": "2026-11-12",
+   "time": "16:06",
+   "ts": "2026-11-12T16:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Sprzedaż domów na rynku wtórnym w USA we X: 3,75 mln. Konsensus: 3,85 mln. Poprzednio: 3,97 mln",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440588"
+  },
+  {
+   "id": "bossa-pap-440587",
+   "date": "2026-11-12",
+   "time": "16:05",
+   "ts": "2026-11-12T16:05:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "LUDUS SA (17/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440587"
+  },
+  {
+   "id": "bossa-espi-71522",
+   "date": "2026-11-12",
+   "time": "16:05",
+   "ts": "2026-11-12T16:05:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PROGUNS GROUP S.A.",
+   "title": "Uzyskanie przez Fabrykę Amunicji Pocisk S.A. decyzji o wsparciu inwestycji w produkcję amunicji 40 mm - zwolnienie z CIT do 24 mln zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71522"
+  },
+  {
+   "id": "bossa-espi-71521",
+   "date": "2026-11-12",
+   "time": "16:00",
+   "ts": "2026-11-12T16:00:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "NIEWIADÓW POLSKA GRUPA MILITARNA S.A.",
+   "title": "Uzyskanie przez Fabrykę Amunicji Pocisk S.A. decyzji o wsparciu inwestycji w produkcję amunicji 40 mm - zwolnienie z CIT do 24 mln zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71521"
+  },
+  {
+   "id": "bossa-espi-71520",
+   "date": "2026-11-12",
+   "time": "16:00",
+   "ts": "2026-11-12T16:00:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ROCKBRIDGE FIZ MULTI INWESTYCJA",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71520"
+  },
   {
    "id": "bossa-pap-440583",
    "date": "2026-11-12",
@@ -25,6 +109,17 @@
    "title": "ALLIANZ POLSKA OFE wartość jednostki rozrachunkowej",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440582"
+  },
+  {
+   "id": "strefa-075280746b82",
+   "date": "2026-11-12",
+   "time": "15:47",
+   "ts": "2026-11-12T15:47:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Aktywa krajowych funduszy inwestycyjnych wzrosły w październiku do rekordowych 492,1 mld zł - IZFiA",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/aktywa-krajowych-funduszy-inwestycyjnych-wzrosly-w-pazdzierniku-do-rekordowych"
   },
   {
    "id": "bossa-pap-440581",
