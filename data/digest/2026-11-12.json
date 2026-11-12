@@ -5,17 +5,17 @@
   "wyniki": 5,
   "rekomendacje": 1,
   "korporacyjne": 3,
-  "makro_pl": 4,
-  "swiat_rynki": 1,
+  "makro_pl": 5,
+  "swiat_rynki": 2,
   "energetyka_surowce": 2,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 6
+  "pozostale": 7
  },
- "duplicatesRemoved": 12,
- "total": 38,
+ "duplicatesRemoved": 14,
+ "total": 43,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -158,6 +158,15 @@
   ],
   "makro_pl": [
    {
+    "time": "08:06",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Produkcja przemysłu w Wielkiej Brytanii w IX: +0,3 proc. mdm. Konsensus: -0,4 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440437",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "08:03",
     "kind": "pap",
     "ticker": null,
@@ -196,6 +205,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "08:06",
+    "kind": "news",
+    "ticker": null,
+    "title": "Najważniejsze indeksy giełdowe w Azji",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/najwazniejsze-indeksy-gieldowe-w-azji",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "00:04",
     "kind": "espi",
     "ticker": null,
@@ -230,6 +248,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "07:51",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny miedzi w Londynie spadają",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/ceny-miedzi-w-londynie-spadaja",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "07:38",
     "kind": "espi",
