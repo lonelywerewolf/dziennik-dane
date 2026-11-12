@@ -2,7 +2,7 @@
  "date": "2026-11-12",
  "counts": {
   "podsumowania": 16,
-  "wyniki": 40,
+  "wyniki": 41,
   "rekomendacje": 5,
   "korporacyjne": 41,
   "makro_pl": 19,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 62
  },
- "duplicatesRemoved": 98,
- "total": 325,
+ "duplicatesRemoved": 100,
+ "total": 328,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -167,6 +167,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "20:56",
+    "kind": "espi",
+    "ticker": null,
+    "title": "TORPOL S.A.: Informacja w sprawie skonsolidowanych i jednostkowych wstępnych wyników finansowych za trzy kwartały 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71569",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "20:12",
     "kind": "pap",
