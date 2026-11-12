@@ -1,7 +1,91 @@
 {
  "date": "2026-11-11",
- "count": 36,
+ "count": 43,
  "items": [
+  {
+   "id": "bossa-pap-440409",
+   "date": "2026-11-11",
+   "time": "23:08",
+   "ts": "2026-11-11T23:08:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "WERTH-HOLZ SA (13/2026) Zmiana harmonogramu publikacji raportów okresowych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440409"
+  },
+  {
+   "id": "bossa-pap-440408",
+   "date": "2026-11-11",
+   "time": "22:24",
+   "ts": "2026-11-11T22:24:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Główny akcjonariusz Mostostalu Warszawa podtrzymuje zamiar objęcia akcji nowej emisji",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440408"
+  },
+  {
+   "id": "bossa-pap-440407",
+   "date": "2026-11-11",
+   "time": "22:17",
+   "ts": "2026-11-11T22:17:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Giełdy w USA w górę, w centrum uwagi CoreWeave",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440407"
+  },
+  {
+   "id": "bossa-espi-71440",
+   "date": "2026-11-11",
+   "time": "22:00",
+   "ts": "2026-11-11T22:00:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ASM GROUP S.A.",
+   "title": "Otrzymanie decyzji Komisji Nadzoru Finansowego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71440"
+  },
+  {
+   "id": "bossa-pap-440405",
+   "date": "2026-11-11",
+   "time": "21:19",
+   "ts": "2026-11-11T21:19:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Skrót wiadomości: środa, 11 listopada",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440405"
+  },
+  {
+   "id": "bossa-pap-440404",
+   "date": "2026-11-11",
+   "time": "21:18",
+   "ts": "2026-11-11T21:18:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Od lipca do września do Polski trafiło niemal 5,6 mln chińskich przesyłek niskiej wartości",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440404"
+  },
+  {
+   "id": "bossa-pap-440403",
+   "date": "2026-11-11",
+   "time": "21:13",
+   "ts": "2026-11-11T21:13:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KE przedstawiła propozycję uregulowania działalności sklepów internetowych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440403"
+  },
   {
    "id": "bossa-pap-440402",
    "date": "2026-11-11",

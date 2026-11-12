@@ -1,10 +1,10 @@
 {
  "date": "2026-11-11",
  "counts": {
-  "podsumowania": 4,
+  "podsumowania": 6,
   "wyniki": 1,
   "rekomendacje": 0,
-  "korporacyjne": 4,
+  "korporacyjne": 5,
   "makro_pl": 3,
   "swiat_rynki": 4,
   "energetyka_surowce": 1,
@@ -12,13 +12,31 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 9
+  "pozostale": 13
  },
  "duplicatesRemoved": 10,
- "total": 36,
+ "total": 43,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "22:17",
+    "kind": "pap",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Giełdy w USA w górę, w centrum uwagi CoreWeave",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440407",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "21:19",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Skrót wiadomości: środa, 11 listopada",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440405",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:21",
     "kind": "news",
@@ -73,6 +91,18 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "22:24",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Główny akcjonariusz Mostostalu Warszawa podtrzymuje zamiar objęcia akcji nowej emisji",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440408",
+    "src": "bossa",
+    "flags": [
+     "emisja",
+     "akcjonariat"
+    ]
+   },
    {
     "time": "20:34",
     "kind": "espi",
@@ -197,6 +227,42 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "23:08",
+    "kind": "pap",
+    "ticker": null,
+    "title": "WERTH-HOLZ SA (13/2026) Zmiana harmonogramu publikacji raportów okresowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440409",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "22:00",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ASM GROUP S.A.: Otrzymanie decyzji Komisji Nadzoru Finansowego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71440",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "21:18",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Od lipca do września do Polski trafiło niemal 5,6 mln chińskich przesyłek niskiej wartości",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440404",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "21:13",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KE przedstawiła propozycję uregulowania działalności sklepów internetowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440403",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:44",
     "kind": "pap",
