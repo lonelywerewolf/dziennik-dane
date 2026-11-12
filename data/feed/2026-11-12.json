@@ -1,7 +1,134 @@
 {
  "date": "2026-11-12",
- "count": 159,
+ "count": 171,
  "items": [
+  {
+   "id": "bossa-espi-71503",
+   "date": "2026-11-12",
+   "time": "13:56",
+   "ts": "2026-11-12T13:56:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ZREMB-CHOJNICE S.A.",
+   "title": "Powiadomienie o transakcji na akcjach Emitenta otrzymane w trybie art. 19 MAR.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71503"
+  },
+  {
+   "id": "bossa-espi-71502",
+   "date": "2026-11-12",
+   "time": "13:56",
+   "ts": "2026-11-12T13:56:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MABION S.A.",
+   "title": "Historyczne osiągnięcie firmy Mabion. Amerykańska Agencja ds. Żywności i Leków (FDA) zatwierdziła firmę jako dostawcę na rynek amerykański.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71502"
+  },
+  {
+   "id": "strefa-88fff56aa5fd",
+   "date": "2026-11-12",
+   "time": "13:54",
+   "ts": "2026-11-12T13:54:30+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Polityka zakupowa państwa to odejście od dyktatu najniższej ceny w kierunku strategicznych zakupów - Domański",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/polityka-zakupowa-panstwa-odejscie-od-dyktatu-najnizszej-ceny-w-kierunku"
+  },
+  {
+   "id": "strefa-1cb645206980",
+   "date": "2026-11-12",
+   "time": "13:54",
+   "ts": "2026-11-12T13:54:16+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Hossa na warszawskim parkiecie jeszcze się nie skończyła. TFI PZU wskazuje najlepsze spółki z GPW",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/hossa-na-warszawskim-parkiecie-jeszcze-sie-nie-skonczyla-tfi-pzu-wskazuje"
+  },
+  {
+   "id": "strefa-41962d3a5d31",
+   "date": "2026-11-12",
+   "time": "13:53",
+   "ts": "2026-11-12T13:53:27+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "MF na przetargu zamiany sprzedało obligacje za ok. 8,11 mld zł, a odkupiło za ok. 7,53 mld zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/mf-na-przetargu-zamiany-sprzedalo-obligacje-za-ok-811-mld-zl-odkupilo-za-ok-753"
+  },
+  {
+   "id": "bossa-espi-71501",
+   "date": "2026-11-12",
+   "time": "13:52",
+   "ts": "2026-11-12T13:52:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF WIG20lev PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 228 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71501"
+  },
+  {
+   "id": "strefa-634f6331bb44",
+   "date": "2026-11-12",
+   "time": "13:51",
+   "ts": "2026-11-12T13:51:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Na rynkach długu odreagowanie, dalszy kierunek wyznaczy geopolityka - VIG/C-Quadrat TFI (opinia)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/na-rynkach-dlugu-odreagowanie-dalszy-kierunek-wyznaczy-geopolityka-vigc-quadrat"
+  },
+  {
+   "id": "bossa-espi-71500",
+   "date": "2026-11-12",
+   "time": "13:51",
+   "ts": "2026-11-12T13:51:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BANK PEKAO S.A.",
+   "title": "Zawiadomienie BlackRock, Inc. w sprawie zwiększenia udziału w ogólnej liczbie głosów na Walnym Zgromadzeniu Banku powyżej progu 5%",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71500"
+  },
+  {
+   "id": "bossa-pap-440535",
+   "date": "2026-11-12",
+   "time": "13:50",
+   "ts": "2026-11-12T13:50:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Allegro nie wyklucza osiągnięcia breakeven przez biznes międzynarodowy wcześniej niż w '29",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440535"
+  },
+  {
+   "id": "strefa-6f464496322b",
+   "date": "2026-11-12",
+   "time": "13:48",
+   "ts": "2026-11-12T13:48:30+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Allegro nie wyklucza osiągnięcia breakeven przez biznes międzynarodowy wcześniej niż w '29",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/allegro-nie-wyklucza-osiagniecia-breakeven-przez-biznes-miedzynarodowy"
+  },
+  {
+   "id": "bossa-espi-71499",
+   "date": "2026-11-12",
+   "time": "13:46",
+   "ts": "2026-11-12T13:46:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 2 x SHORT PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 228 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71499"
+  },
   {
    "id": "bossa-espi-71498",
    "date": "2026-11-12",
@@ -13,6 +140,17 @@
    "title": "Projekty uchwał na Nadzwyczajne Walne Zgromadzenie Eurocash S.A.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-71498"
+  },
+  {
+   "id": "strefa-485760b1d0f3",
+   "date": "2026-11-12",
+   "time": "13:36",
+   "ts": "2026-11-12T13:36:08+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Firmy ostrożne w zwiększaniu zatrudnienia, nie widać mocnego wzrostu bezrobocia - PIE",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/firmy-ostrozne-w-zwiekszaniu-zatrudnienia-nie-widac-mocnego-wzrostu-bezrobocia"
   },
   {
    "id": "bossa-espi-71497",
