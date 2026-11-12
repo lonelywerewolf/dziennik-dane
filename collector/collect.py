@@ -19,12 +19,63 @@ cj = http.cookiejar.CookieJar()
 opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj))
 
 
-def get(url, ua=UA, data=None, headers=None, timeout=30):
+BLOCKS_PATH = os.path.join(ROOT, "data", "_state", "blocks.json")
+_BLOCKS = None
+
+
+class HostBlocked(Exception):
+    pass
+
+
+def _blocks():
+    global _BLOCKS
+    if _BLOCKS is None:
+        try:
+            _BLOCKS = json.load(open(BLOCKS_PATH, encoding="utf-8"))
+        except Exception:
+            _BLOCKS = {}
+    return _BLOCKS
+
+
+def save_blocks():
+    if _BLOCKS is not None:
+        os.makedirs(os.path.dirname(BLOCKS_PATH), exist_ok=True)
+        json.dump(_BLOCKS, open(BLOCKS_PATH, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+
+
+def get(url, ua=UA, data=None, headers=None, timeout=30, tries=3):
+    """Pobieranie z ponowieniami przy chwilowych błędach (timeout, zerwane połączenie, 5xx).
+    Gdy serwis odmawia dostępu (403/429), NIE ponawiamy i wstrzymujemy zapytania do tego hosta na 3 h → 6 h → 12 h → 24 h,
+    żeby nie zasypywać go zapytaniami (zamiast obchodzić blokadę – korzystamy wtedy ze źródła zapasowego)."""
+    host = urllib.parse.urlparse(url).netloc
+    b = _blocks().get(host)
+    if b and b.get("until", "") > NOW.isoformat():
+        raise HostBlocked(f"{host} wstrzymany do {b['until'][:16]} (odmowa {b.get('code')})")
     h = {"User-Agent": ua, "Accept-Language": "pl,en;q=0.8", "Accept": "text/html,application/xhtml+xml,application/json,text/csv,*/*"}
     h.update(headers or {})
-    req = urllib.request.Request(url, data=data, headers=h)
-    with opener.open(req, timeout=timeout) as r:
-        return r.read().decode(r.headers.get_content_charset() or "utf-8", errors="replace")
+    last = None
+    for i in range(tries):
+        req = urllib.request.Request(url, data=data, headers=h)
+        try:
+            with opener.open(req, timeout=timeout) as r:
+                out = r.read().decode(r.headers.get_content_charset() or "utf-8", errors="replace")
+            if host in _blocks():
+                _blocks().pop(host, None)
+            return out
+        except urllib.error.HTTPError as e:
+            if e.code in (403, 429):
+                prev = _blocks().get(host, {})
+                hours = min(24, (prev.get("hours") or 1.5) * 2)
+                _blocks()[host] = {"code": e.code, "since": prev.get("since") or NOW.isoformat(timespec="minutes"), "hours": hours,
+                                   "until": (NOW + dt.timedelta(hours=hours)).isoformat(timespec="minutes")}
+                raise
+            if e.code < 500:
+                raise
+            last = e
+        except Exception as e:   # timeout, RemoteDisconnected, IncompleteRead, reset
+            last = e
+        time.sleep(3 * (i + 1))
+    raise last
 
 
 def jload(path, default):
@@ -458,13 +509,97 @@ def nasdaq():
                 live["q"][key] = {"price": usd(info.get("lastSalePrice")), "chgPct": plnum(str(info.get("percentageChange", "")).replace("%", "").replace("+", "")),
                                   "at": info.get("lastTradeTimestamp"), "src": f"https://www.nasdaq.com/market-activity/stocks/{sym.lower()}"}
                 st["live"] += 1
+        except HostBlocked as e:
+            st["errors"].append(str(e)); break
         except Exception as e:
             st["errors"].append(f"{key}: {e!r}"[:200])
+            if "403" in repr(e):
+                break
         time.sleep(0.5)
     live["updatedAt"] = NOW.isoformat(timespec="seconds")
     jsave(D("us_live.json"), live)
     st["ok"] = not st["errors"]
     return st
+
+
+# ---------------- USA: Tiingo (oficjalne API z darmowym kluczem) ----------------
+TIINGO = os.environ.get("TIINGO_TOKEN", "").strip()
+TIINGO_ETF = {"^NDQ": "ONEQ", "^SPX": "SPY", "^SOX": "SOXX"}   # indeksy przez ETF-y je odwzorowujące; łączone z historią przez przeskalowanie
+
+
+def _hist_read(path):
+    if not os.path.exists(path):
+        return {}
+    return dict(l.split(",") for l in open(path, encoding="utf-8").read().splitlines()[1:] if "," in l)
+
+
+def _hist_write(path, rows):
+    with open(path, "w", encoding="utf-8") as f:
+        f.write("date,close\n" + "".join(f"{k},{v}\n" for k, v in sorted(rows.items())))
+
+
+def tiingo():
+    """Kursy spółek z USA i indeksów (przez ETF) z Tiingo: zamknięcia dzienne + notowanie bieżące (IEX), 1–2 zapytania na spółkę."""
+    if not TIINGO:
+        return {"ok": True, "skipped": "brak TIINGO_TOKEN – używam Nasdaq (zapasowo)"}
+    H = {"Authorization": f"Token {TIINGO}", "Content-Type": "application/json"}
+    st = {"history": 0, "live": 0, "errors": []}
+    os.makedirs(D("history"), exist_ok=True)
+    live = jload(D("us_live.json"), {"q": {}})
+    items = [(c["ticker"], c["ticker"]) for c in COMP + EXTRA_COMP if c.get("market") == "USA"] + [(k, TIINGO_ETF[k]) for k in CFG.get("us_benchmarks", {}) if k in TIINGO_ETF]
+    for key, sym in items:
+        path = D("history", key + ".csv")
+        try:
+            old = _hist_read(path)
+            frm = "2025-10-25" if len(old) < 5 else (NOW.date() - dt.timedelta(days=10)).isoformat()
+            rows = json.loads(get(f"https://api.tiingo.com/tiingo/daily/{sym}/prices?startDate={frm}", headers=H))
+            got = {r["date"][:10]: float(r["close"]) for r in rows if r.get("close")}
+            scale = 1.0
+            if key in TIINGO_ETF and sym != key:
+                common = sorted(set(old) & set(got))
+                if common:                       # ETF → poziom indeksu: proporcja z ostatniego wspólnego dnia
+                    scale = float(old[common[-1]]) / got[common[-1]]
+                elif old:
+                    raise ValueError(f"{key}: brak wspólnej daty do przeskalowania {sym}")
+            for d0, v in got.items():
+                if key not in TIINGO_ETF or d0 not in old:
+                    old[d0] = str(round(v * scale, 4))
+            _hist_write(path, old)
+            st["history"] += 1
+        except HostBlocked as e:
+            st["errors"].append(str(e)); break
+        except Exception as e:
+            st["errors"].append(f"{key}: {e!r}"[:200])
+    try:
+        syms = ",".join(sym for _, sym in items)
+        q = {r["ticker"].upper(): r for r in json.loads(get(f"https://api.tiingo.com/iex/?tickers={syms}", headers=H))}
+        for key, sym in items:
+            r = q.get(sym.upper())
+            if not r:
+                continue
+            px = r.get("tngoLast") or r.get("last") or r.get("prevClose")
+            prev = r.get("prevClose")
+            live["q"][key] = {"price": px, "chgPct": round((px / prev - 1) * 100, 2) if px and prev else None, "at": r.get("timestamp"),
+                              "src": f"https://www.tiingo.com/{sym.lower()}/overview", "via": "tiingo" + (f" ({sym})" if sym != key else "")}
+            st["live"] += 1
+        live["updatedAt"] = NOW.isoformat(timespec="seconds")
+        jsave(D("us_live.json"), live)
+    except Exception as e:
+        st["errors"].append(f"iex: {e!r}"[:200])
+    st["ok"] = st["history"] > 0 and not [e for e in st["errors"] if "iex" not in e]
+    return st
+
+
+def nasdaq_fallback():
+    """Nasdaq tylko jako źródło zapasowe (bez klucza Tiingo albo gdy Tiingo zawiedzie) i najwyżej raz na godzinę."""
+    t = STATUS["sources"].get("tiingo", {})
+    if TIINGO and t.get("ok"):
+        return {"ok": True, "skipped": "dane z Tiingo"}
+    last = jload(D("_state", "nasdaq_last.json"), {}).get("at", "")
+    if last > (NOW - dt.timedelta(minutes=55)).isoformat():
+        return {"ok": True, "skipped": f"ostatnio {last[11:16]} – co najwyżej raz na godzinę"}
+    jsave(D("_state", "nasdaq_last.json"), {"at": NOW.isoformat(timespec="minutes")})
+    return nasdaq()
 
 
 # ---------------- wiadomości o spółkach z USA (RSS) ----------------
@@ -476,9 +611,17 @@ def us_news():
     st = {"new": 0, "sources": {}, "errors": []}
     tick = [c["ticker"] for c in COMP + EXTRA_COMP if c.get("market") == "USA"]
     for t in tick:
-        for name, url in (("nasdaq", f"https://www.nasdaq.com/feed/rssoutbound?symbol={t}"),):   # Yahoo: 429 z adresów GitHuba
+        nm = next((c.get("name") or t for c in COMP + EXTRA_COMP if c["ticker"] == t), t)
+        q = urllib.parse.quote(f'"{nm.split(" (")[0]}" OR {t} stock')
+        srcs = [("nasdaq", f"https://www.nasdaq.com/feed/rssoutbound?symbol={t}"),
+                ("google", f"https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en")]
+        for name, url in srcs:
+            if name == "google" and st["sources"].get("nasdaq_ok_" + t):
+                continue
             try:
-                x = get(url, headers={"Accept": "application/rss+xml,application/xml,text/xml"}, timeout=20)
+                x = get(url, headers={"Accept": "application/rss+xml,application/xml,text/xml"}, timeout=20, tries=2)
+                if name == "nasdaq":
+                    st["sources"]["nasdaq_ok_" + t] = True
             except Exception as e:
                 st["errors"].append(f"{name} {t}: {e!r}"[:120])
                 continue
@@ -502,6 +645,7 @@ def us_news():
             st["sources"][name] = st["sources"].get(name, 0) + n
             st["new"] += n
             time.sleep(0.4)
+    st["sources"] = {k: v for k, v in st["sources"].items() if not k.startswith("nasdaq_ok_")}
     data["items"].sort(key=lambda i: i["time"], reverse=True)
     data["items"] = data["items"][:2000]
     data["updatedAt"] = NOW.isoformat(timespec="seconds")
@@ -672,7 +816,7 @@ def run(name, fn):
 
 if __name__ == "__main__":
     only = set(sys.argv[1:])
-    jobs = [("bossa", bossa), ("strefa", strefa), ("articles", articles), ("recs", recs), ("gpw", gpw), ("gpw_archive", gpw_archive), ("nasdaq", nasdaq), ("us_news", us_news), ("quotes", build_quotes), ("nbp", nbp), ("insiders", insiders), ("conditions", conditions)]
+    jobs = [("bossa", bossa), ("strefa", strefa), ("articles", articles), ("recs", recs), ("gpw", gpw), ("gpw_archive", gpw_archive), ("tiingo", tiingo), ("nasdaq", nasdaq_fallback), ("us_news", us_news), ("quotes", build_quotes), ("nbp", nbp), ("insiders", insiders), ("conditions", conditions)]
     try:
         import extra
         jobs += [("fundamentals", extra.fundamentals), ("calendar", extra.calendar), ("pwpa", extra.pwpa), ("macro", extra.macro)]
@@ -682,6 +826,8 @@ if __name__ == "__main__":
         if not only or name in only:
             run(name, fn)
     save_feeds()
+    save_blocks()
+    STATUS["blocked"] = {h: b["until"] for h, b in (_BLOCKS or {}).items() if b.get("until", "") > NOW.isoformat()}
     try:
         import notify
         run("telegram", notify.run)

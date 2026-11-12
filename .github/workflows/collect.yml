@@ -1,8 +1,9 @@
 name: Zbieracz
 on:
   schedule:
-    - cron: "*/15 5-21 * * 1-5"   # co 15 min, ok. 6:00–22:45 czasu polskiego, pn–pt
-    - cron: "7 7-21 * * 0,6"      # co godzinę w weekend (8:00–22:00 czasu polskiego)
+    - cron: "17 * * * *"          # zapas: co godzinę; gdy pętla pracuje, ten przebieg czeka w kolejce i przejmuje pałeczkę
+  push:
+    paths: [".github/ping"]       # zadania Claude mogą wznowić zbieracza, zmieniając ten plik
   workflow_dispatch:
 permissions:
   contents: write
@@ -13,43 +14,33 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 75
+    timeout-minutes: 350
     steps:
       - uses: actions/checkout@v4
-        with: { ref: main }
+        with: { ref: main, fetch-depth: 1 }
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - run: pip install -q pypdf==5.1.0
-      - run: python collector/collect.py
+      - name: Pętla zbierania (~5 h 20 min)
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
-      - run: python collector/export.py
-      - run: python collector/digest.py
-      - name: Zapisz dane
-        run: |
-          git config user.name "zbieracz-bot"
-          git config user.email "zbieracz-bot@users.noreply.github.com"
-          git add data config
-          if git diff --cached --quiet; then echo "brak zmian"; exit 0; fi
-          git commit -q -m "Dane $(TZ=Europe/Warsaw date +'%F %H:%M')"
-          for i in 1 2 3; do git pull -q --rebase -X theirs && git push -q && break; git rebase --abort 2>/dev/null; sleep 5; done
-      - name: Zapas, gdy harmonogram GitHuba stoi
+          TIINGO_TOKEN: ${{ secrets.TIINGO_TOKEN }}
+        run: bash collector/loop.sh
+      - name: Następca (z weryfikacją startu)
         if: always()
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          H=$(TZ=Europe/Warsaw date +%H); D=$(TZ=Europe/Warsaw date +%u)
-          # dni robocze 6–24 i 4–6 rano (wt–sob): co ~12 min; poza tym (noc, weekend) co ~godzinę – łańcuch nigdy się nie urywa
-          WAIT=3000
-          if [ "$D" -le 5 ] && [ "$H" -ge 6 ]; then WAIT=600; fi   # dni robocze 6–24 (sesja USA do 22:00, wyniki po sesji)
-          if [ "$D" -ge 2 ] && [ "$D" -le 6 ] && [ "$H" -ge 4 ] && [ "$H" -lt 6 ]; then WAIT=600; fi   # świeże dane przed raportem zagranicznym 5:17
-          # Łańcuch ZAWSZE planuje następny przebieg (cron GitHuba bywa nieregularny – 03.11 jeden spóźniony
-          # przebieg z harmonogramu zatrzymał łańcuch na 5 h). Duplikaty: po odczekaniu sprawdzamy, czy inny
-          # przebieg NOWSZY od tego już czeka lub trwa – wtedy nie dokładamy kolejnego. Starsze przebiegi się nie liczą:
-          # 04.11 poprzedni przebieg miał jeszcze status „w toku” (GitHub aktualizuje go z opóźnieniem), przez co łańcuch stanął na 4 h.
-          sleep $WAIT
-          BUSY=$(gh api "repos/${{ github.repository }}/actions/workflows/collect.yml/runs?per_page=10" --jq "[.workflow_runs[] | select((.status==\"queued\" or .status==\"in_progress\" or .status==\"pending\" or .status==\"waiting\") and .id > ${{ github.run_id }})] | length")
-          if [ "$BUSY" -gt 0 ]; then echo "inny przebieg już czeka/trwa – nie dokładam"; exit 0; fi
-          for i in 1 2 3 4 5; do gh workflow run collect.yml --ref main -R ${{ github.repository }} && break; echo "próba $i nieudana"; sleep 30; done
-          echo "zaplanowano kolejny przebieg"
-
+          R=${{ github.repository }}; ME=${{ github.run_id }}
+          newer() { gh api "repos/$R/actions/workflows/collect.yml/runs?per_page=15" --jq "[.workflow_runs[] | select(.id > $ME and (.status==\"queued\" or .status==\"in_progress\" or .status==\"pending\" or .status==\"waiting\" or .status==\"requested\"))] | length"; }
+          for attempt in 1 2 3 4 5 6; do
+            N=$(newer || echo 0)
+            if [ "$N" -gt 0 ]; then echo "następca czeka w kolejce – OK"; exit 0; fi
+            gh workflow run collect.yml --ref main -R "$R" || echo "uruchomienie nieudane (próba $attempt)"
+            sleep 45
+            # GitHub czasem zwraca 'startup_failure' – wtedy próbujemy ponownie
+            LAST=$(gh api "repos/$R/actions/workflows/collect.yml/runs?per_page=5" --jq "[.workflow_runs[] | select(.id > $ME)][0] | (.status + \" \" + (.conclusion // \"\"))" || echo "")
+            echo "następca: $LAST"
+            case "$LAST" in *startup_failure*|*failure*|"") sleep 30; continue;; *) exit 0;; esac
+          done
+          echo "::error::nie udało się uruchomić następcy"; exit 1
