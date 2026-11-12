@@ -2,20 +2,20 @@
  "date": "2026-11-12",
  "counts": {
   "podsumowania": 12,
-  "wyniki": 23,
+  "wyniki": 24,
   "rekomendacje": 5,
   "korporacyjne": 23,
   "makro_pl": 15,
   "swiat_rynki": 12,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
-  "fundusze_drobne": 8,
+  "fundusze_drobne": 10,
   "twoje_spolki": 2,
   "obserwowane": 0,
   "pozostale": 46
  },
- "duplicatesRemoved": 67,
- "total": 216,
+ "duplicatesRemoved": 68,
+ "total": 220,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -129,6 +129,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "15:47",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ATLANTAPL: Wstępne wyniki w I kwartale roku obrotowego 2026/2027.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71519",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "15:13",
     "kind": "pap",
@@ -925,6 +936,24 @@
   ],
   "nieruchomosci": [],
   "fundusze_drobne": [
+   {
+    "time": "15:48",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ALLIANZ POLSKA OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440582",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:47",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GENERALI OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440581",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:16",
     "kind": "pap",
