@@ -1,7 +1,67 @@
 {
  "date": "2026-11-12",
- "count": 134,
+ "count": 139,
  "items": [
+  {
+   "id": "bossa-pap-440516",
+   "date": "2026-11-12",
+   "time": "12:59",
+   "ts": "2026-11-12T12:59:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeksy transakcyjne - POLSTR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440516"
+  },
+  {
+   "id": "bossa-pap-440514",
+   "date": "2026-11-12",
+   "time": "12:59",
+   "ts": "2026-11-12T12:59:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeksy transakcyjne - WIRON",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440514"
+  },
+  {
+   "id": "bossa-espi-71484",
+   "date": "2026-11-12",
+   "time": "12:59",
+   "ts": "2026-11-12T12:59:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PGE POLSKA GRUPA ENERGETYCZNA S.A.",
+   "title": "Informacja o transakcjach w trybie art. 19 Rozporządzenia MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71484"
+  },
+  {
+   "id": "bossa-espi-71483",
+   "date": "2026-11-12",
+   "time": "12:58",
+   "ts": "2026-11-12T12:58:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF WIG20TR PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 229 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71483"
+  },
+  {
+   "id": "bossa-espi-71482",
+   "date": "2026-11-12",
+   "time": "12:51",
+   "ts": "2026-11-12T12:51:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF S&P 500 PLN-HEDGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 228 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71482"
+  },
   {
    "id": "bossa-pap-440511",
    "date": "2026-11-12",

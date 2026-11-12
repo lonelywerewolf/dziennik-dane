@@ -4,7 +4,7 @@
   "podsumowania": 10,
   "wyniki": 21,
   "rekomendacje": 4,
-  "korporacyjne": 13,
+  "korporacyjne": 14,
   "makro_pl": 10,
   "swiat_rynki": 5,
   "energetyka_surowce": 3,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 3,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 29
+  "pozostale": 31
  },
- "duplicatesRemoved": 36,
- "total": 134,
+ "duplicatesRemoved": 38,
+ "total": 139,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -362,6 +362,17 @@
   ],
   "korporacyjne": [
    {
+    "time": "12:59",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PGE POLSKA GRUPA ENERGETYCZNA S.A.: Informacja o transakcjach w trybie art. 19 Rozporządzenia MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71484",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
     "time": "12:45",
     "kind": "pap",
     "ticker": null,
@@ -705,6 +716,24 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:59",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeksy transakcyjne - POLSTR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440516",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:59",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeksy transakcyjne - WIRON",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440514",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:47",
     "kind": "pap",

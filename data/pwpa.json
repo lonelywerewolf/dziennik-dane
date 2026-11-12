@@ -35,7 +35,8 @@
    "url": "https://www.gpw.pl/pub/pwpa/20261112_dom_maklerski_banku_ochrony_%C5%9Brodowiska_dig_pl_pw.pdf",
    "type": "prognoza wyników",
    "house": "Dom Maklerski Banku Ochrony Środowiska S.A.",
-   "pdfTries": 2
+   "pdfTries": 3,
+   "textFile": "data/pwpa_text/20261112_dom_maklerski_banku_ochrony_środowiska_dig_pl_pw.txt"
   },
   {
    "date": "2026-11-10",
@@ -409,5 +410,5 @@
    "house": "Noble Securities S.A."
   }
  ],
- "updatedAt": "2026-11-12T12:50:00+01:00"
+ "updatedAt": "2026-11-12T13:01:01+01:00"
 }
