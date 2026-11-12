@@ -6,7 +6,7 @@
   "rekomendacje": 5,
   "korporacyjne": 23,
   "makro_pl": 15,
-  "swiat_rynki": 12,
+  "swiat_rynki": 13,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 10,
@@ -15,7 +15,7 @@
   "pozostale": 46
  },
  "duplicatesRemoved": 68,
- "total": 220,
+ "total": 221,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -794,6 +794,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "15:59",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Aktywa krajowych funduszy inwestycyjnych wzrosły w październiku do rekordowych 492,1 mld zł - IZFiA",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440583",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:46",
     "kind": "news",
