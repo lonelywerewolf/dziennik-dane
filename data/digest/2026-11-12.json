@@ -2,7 +2,7 @@
  "date": "2026-11-12",
  "counts": {
   "podsumowania": 9,
-  "wyniki": 9,
+  "wyniki": 10,
   "rekomendacje": 2,
   "korporacyjne": 7,
   "makro_pl": 8,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 1,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 13
+  "pozostale": 15
  },
  "duplicatesRemoved": 30,
- "total": 86,
+ "total": 89,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -102,6 +102,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "10:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "SEVENET SA (8/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440472",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:54",
     "kind": "pap",
@@ -452,6 +461,24 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "10:01",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MOL: Director/PDMR transaction",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71462",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Atak cybernetyczny na ePUAP przyszedł z zagranicy, plan był szerszy - Gawkowski",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440471",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:29",
     "kind": "pap",
