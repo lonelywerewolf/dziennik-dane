@@ -1,7 +1,78 @@
 {
  "date": "2026-11-12",
- "count": 238,
+ "count": 245,
  "items": [
+  {
+   "id": "bossa-pap-440602",
+   "date": "2026-11-12",
+   "time": "17:04",
+   "ts": "2026-11-12T17:04:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "OFE wartości jednostek rozrachunkowych z 2026.11.10",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440602"
+  },
+  {
+   "id": "bossa-pap-440601",
+   "date": "2026-11-12",
+   "time": "17:03",
+   "ts": "2026-11-12T17:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Nationale-Nederlanden OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440601"
+  },
+  {
+   "id": "bossa-pap-440600",
+   "date": "2026-11-12",
+   "time": "17:03",
+   "ts": "2026-11-12T17:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KUBOTA SA (14/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440600"
+  },
+  {
+   "id": "strefa-5846c256da52",
+   "date": "2026-11-12",
+   "time": "17:02",
+   "ts": "2026-11-12T17:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "OFE wartości jednostek rozrachunkowych z 2026.11.10",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/ofe-wartosci-jednostek-rozrachunkowych-z-20261110"
+  },
+  {
+   "id": "bossa-pap-440599",
+   "date": "2026-11-12",
+   "time": "17:00",
+   "ts": "2026-11-12T17:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Skrót wiadomości - czwartek, 12 listopada, 17.00",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440599"
+  },
+  {
+   "id": "bossa-espi-71526",
+   "date": "2026-11-12",
+   "time": "16:56",
+   "ts": "2026-11-12T16:56:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "RAFAMET",
+   "title": "Wybór najkorzystniejszej oferty konsorcjum z udziałem Emitenta w postępowaniu przetargowym Akcionarsko društvo za železnički prevoz putnika „Srbijavoz“",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71526"
+  },
   {
    "id": "bossa-pap-440597",
    "date": "2026-11-12",
@@ -85,6 +156,17 @@
    "title": "Prezes Nvidii Jensen Huang zrezygnował ze stanowiska (opis)",
    "ticker": "NVDA",
    "url": "https://bossa.pl/analizy/komunikaty#message-440591"
+  },
+  {
+   "id": "strefa-297307af62df",
+   "date": "2026-11-12",
+   "time": "16:13",
+   "ts": "2026-11-12T16:13:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "skrot",
+   "title": "Skrót wiadomości - czwartek, 12 listopada, 17.00",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/skrot-wiadomosci-czwartek-12-listopada-1700"
   },
   {
    "id": "bossa-pap-440590",

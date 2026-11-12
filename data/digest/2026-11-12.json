@@ -1,24 +1,33 @@
 {
  "date": "2026-11-12",
  "counts": {
-  "podsumowania": 12,
-  "wyniki": 25,
+  "podsumowania": 13,
+  "wyniki": 26,
   "rekomendacje": 5,
-  "korporacyjne": 25,
+  "korporacyjne": 26,
   "makro_pl": 18,
   "swiat_rynki": 16,
   "energetyka_surowce": 4,
   "nieruchomosci": 0,
-  "fundusze_drobne": 11,
+  "fundusze_drobne": 13,
   "twoje_spolki": 2,
   "obserwowane": 0,
   "pozostale": 47
  },
- "duplicatesRemoved": 73,
- "total": 238,
+ "duplicatesRemoved": 75,
+ "total": 245,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "16:13",
+    "kind": "skrot",
+    "ticker": null,
+    "title": "Skrót wiadomości - czwartek, 12 listopada, 17.00",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/skrot-wiadomosci-czwartek-12-listopada-1700",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "15:21",
     "kind": "news",
@@ -129,6 +138,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "17:03",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KUBOTA SA (14/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440600",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:05",
     "kind": "pap",
@@ -426,6 +444,15 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "16:56",
+    "kind": "espi",
+    "ticker": null,
+    "title": "RAFAMET: Wybór najkorzystniejszej oferty konsorcjum z udziałem Emitenta w postępowaniu przetargowym Akcionarsko društvo za železnički prevoz putnika „Srbijavoz“",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71526",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:53",
     "kind": "pap",
@@ -1039,6 +1066,24 @@
   ],
   "nieruchomosci": [],
   "fundusze_drobne": [
+   {
+    "time": "17:03",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Nationale-Nederlanden OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440601",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "OFE wartości jednostek rozrachunkowych z 2026.11.10",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/ofe-wartosci-jednostek-rozrachunkowych-z-20261110",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "16:09",
     "kind": "pap",
