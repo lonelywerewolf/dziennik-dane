@@ -1,24 +1,33 @@
 {
  "date": "2026-11-12",
  "counts": {
-  "podsumowania": 4,
+  "podsumowania": 5,
   "wyniki": 5,
   "rekomendacje": 1,
-  "korporacyjne": 3,
+  "korporacyjne": 4,
   "makro_pl": 5,
   "swiat_rynki": 2,
   "energetyka_surowce": 2,
   "nieruchomosci": 0,
-  "fundusze_drobne": 0,
+  "fundusze_drobne": 1,
   "twoje_spolki": 0,
   "obserwowane": 0,
   "pozostale": 7
  },
  "duplicatesRemoved": 14,
- "total": 43,
+ "total": 46,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "08:09",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: W Azji na giełdach przewaga spadków",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/dzien-na-rynkach-w-azji-na-gieldach-przewaga-spadkow",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "07:01",
     "kind": "news",
@@ -122,6 +131,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "08:21",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Enea Elektrownia Połaniec Sp. z o.o.: POWIADOMIENIE O TRANSAKCJI W TRYBIE ART. 19 MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71451",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
    {
     "time": "08:01",
     "kind": "espi",
@@ -244,7 +264,17 @@
    }
   ],
   "nieruchomosci": [],
-  "fundusze_drobne": [],
+  "fundusze_drobne": [
+   {
+    "time": "08:15",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KRKA: January to September 2026 unaudited interim report of the Krka Group and Krka",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71450",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
