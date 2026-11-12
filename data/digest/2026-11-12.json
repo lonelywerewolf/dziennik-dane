@@ -2,7 +2,7 @@
  "date": "2026-11-12",
  "counts": {
   "podsumowania": 10,
-  "wyniki": 16,
+  "wyniki": 17,
   "rekomendacje": 3,
   "korporacyjne": 9,
   "makro_pl": 8,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 3,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 20
+  "pozostale": 23
  },
  "duplicatesRemoved": 34,
- "total": 110,
+ "total": 114,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -111,6 +111,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "11:17",
+    "kind": "pap",
+    "ticker": null,
+    "title": "DRAW DISTANCE SA (16/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440493",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:02",
     "kind": "pap",
@@ -575,12 +584,39 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "11:11",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Resort cyfryzacji planuje wzmocnić bezpieczeństwo przetwarzania danych osobowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440492",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "11:10",
     "kind": "pap",
     "ticker": null,
     "title": "Polityka zakupowa państwa to odejście od dyktatu najniższej ceny w kierunku strategicznych zakupów - Domański",
     "url": "https://bossa.pl/analizy/komunikaty#message-440490",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:10",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BORYSZEW: Otrzymanie koncesji przez spółkę Hornet – Polskie Drony Sp. z o.o.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71472",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:52",
+    "kind": "news",
+    "ticker": null,
+    "title": "PZU rozwija Transformację AI. Do końca przyszłego roku wdroży 10 kluczowych inicjatyw",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/pzu-rozwija-transformacje-ai-do-konca-przyszlego-roku-wdrozy-10-kluczowych",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
