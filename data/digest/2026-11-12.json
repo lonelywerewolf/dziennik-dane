@@ -5,17 +5,17 @@
   "wyniki": 5,
   "rekomendacje": 1,
   "korporacyjne": 1,
-  "makro_pl": 2,
+  "makro_pl": 3,
   "swiat_rynki": 1,
   "energetyka_surowce": 2,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 4
+  "pozostale": 5
  },
- "duplicatesRemoved": 10,
- "total": 30,
+ "duplicatesRemoved": 11,
+ "total": 33,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -145,6 +145,15 @@
     "flags": []
    },
    {
+    "time": "07:07",
+    "kind": "news",
+    "ticker": null,
+    "title": "Jeśli wystąpią określone uwarunkowania, politykę monetarną trzeba będzie zaostrzyć - Duda, RPP",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/jesli-wystapia-okreslone-uwarunkowania-polityke-monetarna-trzeba-bedzie",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "06:37",
     "kind": "news",
     "ticker": null,
@@ -190,6 +199,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "07:38",
+    "kind": "espi",
+    "ticker": null,
+    "title": "CEZ, a.s.: Financial results in Q1-Q3 2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71447",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "06:47",
     "kind": "news",

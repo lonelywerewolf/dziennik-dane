@@ -1,7 +1,31 @@
 {
  "date": "2026-11-12",
- "count": 30,
+ "count": 33,
  "items": [
+  {
+   "id": "bossa-espi-71447",
+   "date": "2026-11-12",
+   "time": "07:38",
+   "ts": "2026-11-12T07:38:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "CEZ, a.s.",
+   "title": "Financial results in Q1-Q3 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71447"
+  },
+  {
+   "id": "bossa-pap-440430",
+   "date": "2026-11-12",
+   "time": "07:32",
+   "ts": "2026-11-12T07:32:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Jeśli wystąpią określone uwarunkowania, politykę monetarną trzeba będzie zaostrzyć - Duda, RPP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440430"
+  },
   {
    "id": "bossa-pap-440429",
    "date": "2026-11-12",
@@ -13,6 +37,17 @@
    "title": "Złotowe depozyty międzybankowe - WIBID, WIBOR",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440429"
+  },
+  {
+   "id": "strefa-73d0dd44adf6",
+   "date": "2026-11-12",
+   "time": "07:07",
+   "ts": "2026-11-12T07:07:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Jeśli wystąpią określone uwarunkowania, politykę monetarną trzeba będzie zaostrzyć - Duda, RPP",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/jesli-wystapia-okreslone-uwarunkowania-polityke-monetarna-trzeba-bedzie"
   },
   {
    "id": "bossa-pap-440428",

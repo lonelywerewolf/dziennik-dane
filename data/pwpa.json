@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "date": "2026-11-12",
+   "ticker": "ART",
+   "company": "ARTIFEX MUNDI S.A.",
+   "file": "20261112_erste_securities_polska_art_pl_aw.pdf",
+   "url": "https://www.gpw.pl/pub/pwpa/20261112_erste_securities_polska_art_pl_aw.pdf",
+   "type": "analiza wyników",
+   "house": "Erste Securities Polska S.A."
+  },
+  {
    "date": "2026-11-10",
    "ticker": "11B",
    "company": "11BIT STUIOS S.A.",
@@ -372,5 +381,5 @@
    "house": "Noble Securities S.A."
   }
  ],
- "updatedAt": "2026-11-12T07:31:15+01:00"
+ "updatedAt": "2026-11-12T07:42:11+01:00"
 }
