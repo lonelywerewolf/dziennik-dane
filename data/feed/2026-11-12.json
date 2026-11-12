@@ -1,7 +1,136 @@
 {
  "date": "2026-11-12",
- "count": 288,
+ "count": 300,
  "items": [
+  {
+   "id": "bossa-pap-440646",
+   "date": "2026-11-12",
+   "time": "18:08",
+   "ts": "2026-11-12T18:08:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "7R/7R Spółka Akcyjna (18/2026) Inne informacje",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440646"
+  },
+  {
+   "id": "bossa-pap-440645",
+   "date": "2026-11-12",
+   "time": "18:08",
+   "ts": "2026-11-12T18:08:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Transakcje pakietowe",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440645"
+  },
+  {
+   "id": "bossa-pap-440644",
+   "date": "2026-11-12",
+   "time": "18:08",
+   "ts": "2026-11-12T18:08:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zapasy ropy w USA w ubiegłym tygodniu wzrosły o 4,66 mln baryłek - DoE",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440644"
+  },
+  {
+   "id": "bossa-pap-440643",
+   "date": "2026-11-12",
+   "time": "18:07",
+   "ts": "2026-11-12T18:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "NEURONE STUDIO SA (11/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440643"
+  },
+  {
+   "id": "bossa-pap-440642",
+   "date": "2026-11-12",
+   "time": "18:04",
+   "ts": "2026-11-12T18:04:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Indeksy w Europie zwyżkowały; Stoxx Europe 600 z kolejnym rekordem",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440642"
+  },
+  {
+   "id": "bossa-pap-440641",
+   "date": "2026-11-12",
+   "time": "18:03",
+   "ts": "2026-11-12T18:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PRESIDENT STUDIO SA (12/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440641"
+  },
+  {
+   "id": "strefa-7f4839a374e8",
+   "date": "2026-11-12",
+   "time": "18:02",
+   "ts": "2026-11-12T18:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Indeksy w Europie zwyżkowały; Stoxx Europe 600 z kolejnym rekordem",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/dzien-na-rynkach-indeksy-w-europie-zwyzkowaly-stoxx-europe-600-z-kolejnym"
+  },
+  {
+   "id": "strefa-446cd1aac9d6",
+   "date": "2026-11-12",
+   "time": "18:02",
+   "ts": "2026-11-12T18:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Zamknięcia na giełdach w Europie (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/zamkniecia-na-gieldach-w-europie-tabela"
+  },
+  {
+   "id": "strefa-35211ba06fdf",
+   "date": "2026-11-12",
+   "time": "18:02",
+   "ts": "2026-11-12T18:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: komunikat",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/gpw-komunikat"
+  },
+  {
+   "id": "bossa-espi-71549",
+   "date": "2026-11-12",
+   "time": "18:02",
+   "ts": "2026-11-12T18:02:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "IMC S.A.",
+   "title": "QS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71549"
+  },
+  {
+   "id": "bossa-pap-440639",
+   "date": "2026-11-12",
+   "time": "18:01",
+   "ts": "2026-11-12T18:01:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "FORPOSTA SA (19/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440639"
+  },
   {
    "id": "bossa-pap-440638",
    "date": "2026-11-12",
@@ -49,6 +178,17 @@
    "title": "Zawarcie umowy pożyczki w celu zabezpieczenia płynności finansowej Emitenta",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-71547"
+  },
+  {
+   "id": "strefa-60124d2fd50b",
+   "date": "2026-11-12",
+   "time": "17:51",
+   "ts": "2026-11-12T17:51:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "S&P podtrzymał ocenę ratingową PZU na poziomie \"A-\"",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/sp-podtrzymal-ocene-ratingowa-pzu-na-poziomie"
   },
   {
    "id": "bossa-espi-71546",
