@@ -1,7 +1,19 @@
 {
  "date": "2026-11-12",
- "count": 338,
+ "count": 339,
  "items": [
+  {
+   "id": "bossa-espi-71573",
+   "date": "2026-11-12",
+   "time": "23:51",
+   "ts": "2026-11-12T23:51:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "POLIMEX-MOSTOSTAL",
+   "title": "Informacja o transakcjach na akcjach Spółki uzyskana w trybie art. 19 MAR.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71573"
+  },
   {
    "id": "bossa-pap-440679",
    "date": "2026-11-12",

@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "cac8f241ce8d",
+   "ticker": "NVDA",
+   "time": "2026-11-12T23:45+01:00",
+   "title": "Stock Market Today, Nov. 12: Nvidia CEO's Stunning Exit Sends Wall Street Lower as Rivals Surge",
+   "url": "https://www.nasdaq.com/articles/stock-market-today-nov-12-nvidia-ceos-stunning-exit-sends-wall-street-lower-rivals-surge",
+   "src": "nasdaq",
+   "summary": "Wall Street retreated on Thursday, November 12, as the sudden resignation of Nvidia (NASDAQ:NVDA) CEO Jensen Huang rattled investors and raised uncertainty surrounding the artificial intelligence industry. The S&amp;P 500 (SNPINDEX:^GSPC) declined 0.36% to 7,592, while the Nasdaq"
+  },
+  {
    "id": "5fbaf38200fa",
    "ticker": "TSM",
    "time": "2026-11-12T23:20+01:00",
@@ -12565,5 +12574,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-12T23:46:47+01:00"
+ "updatedAt": "2026-11-12T23:57:47+01:00"
 }
