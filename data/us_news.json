@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "id": "98dbc1613028",
+   "ticker": "NVDA",
+   "time": "2026-11-12T20:20+01:00",
+   "title": "Prediction: Nvidia's Plunging Stock Price Is the Beginning of a Broader Stock Market Crash. Here's What Warren Buffett Would Do.",
+   "url": "https://www.nasdaq.com/articles/prediction-nvidias-plunging-stock-price-beginning-broader-stock-market-crash-heres-what",
+   "src": "nasdaq",
+   "summary": "Key PointsNvidia has lost $1.9 trillion in market value from its peak amid ongoing scandals with its now former CEO Jensen Huang."
+  },
+  {
+   "id": "d6920fa372d2",
+   "ticker": "NVDA",
+   "time": "2026-11-12T20:16+01:00",
+   "title": "Nvidia CEO Resigns: What It Means for Your Shares",
+   "url": "https://www.nasdaq.com/articles/nvidia-ceo-resigns-what-it-means-your-shares",
+   "src": "nasdaq",
+   "summary": "Jensen Huang resigned as Nvidia's (NASDAQ: NVDA) chief executive this morning amid controversies over his personal conduct and questions about whether Nvidia's chips reached China through a customer in Singapore."
+  },
+  {
    "id": "d538b6681012",
    "ticker": "NVDA",
    "time": "2026-11-12T19:46+01:00",
@@ -62,6 +80,15 @@
    "url": "https://www.nasdaq.com/articles/thursdays-etf-unusual-volume-thro",
    "src": "nasdaq",
    "summary": "The iShares U.S. Thematic Rotation Active ETF is seeing unusually high volume in afternoon trading Thursday, with over 25.2 million shares traded versus three month average volume of about 795,000.  Shares of THRO were up about 0.3% on the day.\n\nComponents of that ETF with the h"
+  },
+  {
+   "id": "e3d0a0d8e57c",
+   "ticker": "NVDA",
+   "time": "2026-11-12T18:27+01:00",
+   "title": "Is Qualcomm Stock Worth Buying as Diversification Meets Margin Risk?",
+   "url": "https://www.nasdaq.com/articles/qualcomm-stock-worth-buying-diversification-meets-margin-risk",
+   "src": "nasdaq",
+   "summary": "QCOM's automotive and data center growth strengthens diversification, but falling earnings estimates, margin pressure and mixed valuation cloud its buy case."
   },
   {
    "id": "86d96c17e750",
@@ -12484,5 +12511,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-12T20:35:11+01:00"
+ "updatedAt": "2026-11-12T20:46:11+01:00"
 }
