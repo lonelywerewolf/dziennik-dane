@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "d538b6681012",
+   "ticker": "NVDA",
+   "time": "2026-11-12T19:46+01:00",
+   "title": "Jensen Huang Is Out as Nvidia Names Colette Kress Interim CEO",
+   "url": "https://www.nasdaq.com/articles/jensen-huang-out-nvidia-names-colette-kress-interim-ceo",
+   "src": "nasdaq",
+   "summary": "Key PointsNvidia's board accepted Jensen Huang's resignation as president, CEO, and director, and named CFO Colette Kress interim CEO while she keeps her regular duties."
+  },
+  {
    "id": "d794bf38ceae",
    "ticker": "NVDA",
    "time": "2026-11-12T19:36+01:00",
@@ -55,6 +64,15 @@
    "summary": "The iShares U.S. Thematic Rotation Active ETF is seeing unusually high volume in afternoon trading Thursday, with over 25.2 million shares traded versus three month average volume of about 795,000.  Shares of THRO were up about 0.3% on the day.\n\nComponents of that ETF with the h"
   },
   {
+   "id": "86d96c17e750",
+   "ticker": "MRVL",
+   "time": "2026-11-12T18:10+01:00",
+   "title": "ALAB Benefits From Strong PCIe Demand: Can It Beat MRVL & CRDO?",
+   "url": "https://www.nasdaq.com/articles/alab-benefits-strong-pcie-demand-can-it-beat-mrvl-crdo",
+   "src": "nasdaq",
+   "summary": "Astera Labs rides on strong PCIe demand and AI infrastructure growth, with Aries and Scorpio driving momentum amid rising competition from Marvell and Credo."
+  },
+  {
    "id": "737794d8c3ca",
    "ticker": "AVGO",
    "time": "2026-11-12T18:01+01:00",
@@ -73,6 +91,15 @@
    "summary": "In early trading on Thursday, shares of Honeywell International topped the list of the day's best performing Dow Jones Industrial Average components, trading up 7.5%.  Year to date, Honeywell International registers a 42.2% gain.\n\nAnd the worst performing Dow component thus far"
   },
   {
+   "id": "0488250c26cb",
+   "ticker": "AVGO",
+   "time": "2026-11-12T17:59+01:00",
+   "title": "AMD is Trading at a Premium at 38.39X P/E: Is the Stock Still a Buy?",
+   "url": "https://www.nasdaq.com/articles/amd-trading-premium-3839x-p-e-stock-still-buy",
+   "src": "nasdaq",
+   "summary": "AMD trades at a steep premium with a 38.39X forward P/E, but surging data center revenues, AI GPU adoption and strong 2027 growth prospects support its valuation."
+  },
+  {
    "id": "5721febf1f9e",
    "ticker": "NVDA",
    "time": "2026-11-12T17:54+01:00",
@@ -80,6 +107,15 @@
    "url": "https://www.nasdaq.com/articles/why-spacex-stock-popped-after-nvidias-ceo-news",
    "src": "nasdaq",
    "summary": "Key PointsNvidia CEO Jensen Huang resigned last night, roiling the AI semiconductor industry."
+  },
+  {
+   "id": "d83e350a050d",
+   "ticker": "NVDA",
+   "time": "2026-11-12T17:48+01:00",
+   "title": "Nebius: 3 Overblown Fears Weighing Down the Stock",
+   "url": "https://www.nasdaq.com/articles/nebius-3-overblown-fears-weighing-down-stock",
+   "src": "nasdaq",
+   "summary": "The sharp disconnect between Nebius Group's surging fundamentals and its depressed share price points to an overreaction by the market."
   },
   {
    "id": "d0867e672714",
@@ -12448,5 +12484,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-12T20:13:10+01:00"
+ "updatedAt": "2026-11-12T20:24:10+01:00"
 }
