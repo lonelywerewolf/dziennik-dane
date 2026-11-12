@@ -1,7 +1,67 @@
 {
  "date": "2026-11-12",
- "count": 175,
+ "count": 180,
  "items": [
+  {
+   "id": "bossa-pap-440547",
+   "date": "2026-11-12",
+   "time": "14:16",
+   "ts": "2026-11-12T14:16:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PKO BP BANKOWY OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440547"
+  },
+  {
+   "id": "bossa-espi-71504",
+   "date": "2026-11-12",
+   "time": "14:15",
+   "ts": "2026-11-12T14:15:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KEMBERTON Sp. z o.o.",
+   "title": "Zawarcie porozumienia o zmianie warunków emisji obligacji serii K1, wyemitowanych przez Kemberton sp. z o.o.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71504"
+  },
+  {
+   "id": "bossa-pap-440545",
+   "date": "2026-11-12",
+   "time": "14:13",
+   "ts": "2026-11-12T14:13:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "We wrześniu koniunktura przemyśle pogorszyła się, oczekiwania pesymistyczne - IRG SGH",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440545"
+  },
+  {
+   "id": "bossa-pap-440544",
+   "date": "2026-11-12",
+   "time": "14:09",
+   "ts": "2026-11-12T14:09:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "OFE PZU wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440544"
+  },
+  {
+   "id": "bossa-pap-440543",
+   "date": "2026-11-12",
+   "time": "14:09",
+   "ts": "2026-11-12T14:09:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "OFE POCZTYLION wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440543"
+  },
   {
    "id": "bossa-pap-440542",
    "date": "2026-11-12",

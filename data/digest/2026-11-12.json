@@ -4,18 +4,18 @@
   "podsumowania": 10,
   "wyniki": 21,
   "rekomendacje": 4,
-  "korporacyjne": 19,
+  "korporacyjne": 20,
   "makro_pl": 13,
   "swiat_rynki": 7,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
-  "fundusze_drobne": 5,
+  "fundusze_drobne": 8,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 38
+  "pozostale": 39
  },
  "duplicatesRemoved": 55,
- "total": 175,
+ "total": 180,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -361,6 +361,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "14:15",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KEMBERTON Sp. z o.o.: Zawarcie porozumienia o zmianie warunków emisji obligacji serii K1, wyemitowanych przez Kemberton sp. z o.o.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71504",
+    "src": "bossa",
+    "flags": [
+     "emisja"
+    ]
+   },
    {
     "time": "13:56",
     "kind": "espi",
@@ -778,6 +789,33 @@
   "nieruchomosci": [],
   "fundusze_drobne": [
    {
+    "time": "14:16",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PKO BP BANKOWY OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440547",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:09",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OFE PZU wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440544",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:09",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OFE POCZTYLION wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440543",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "13:54",
     "kind": "news",
     "ticker": null,
@@ -826,6 +864,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "14:13",
+    "kind": "pap",
+    "ticker": null,
+    "title": "We wrześniu koniunktura przemyśle pogorszyła się, oczekiwania pesymistyczne - IRG SGH",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440545",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:04",
     "kind": "pap",
