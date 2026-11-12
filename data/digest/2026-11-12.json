@@ -12,10 +12,10 @@
   "fundusze_drobne": 8,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 39
+  "pozostale": 40
  },
  "duplicatesRemoved": 55,
- "total": 180,
+ "total": 181,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -864,6 +864,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "14:21",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MS: Aktualny komentarz ministra Żurka dotyczący sytuacji w TK i wszczęcia śledztwa w sprawie wypowiedzi na antenie Republiki (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440548",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:13",
     "kind": "pap",

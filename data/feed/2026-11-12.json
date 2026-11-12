@@ -1,7 +1,19 @@
 {
  "date": "2026-11-12",
- "count": 180,
+ "count": 181,
  "items": [
+  {
+   "id": "bossa-pap-440548",
+   "date": "2026-11-12",
+   "time": "14:21",
+   "ts": "2026-11-12T14:21:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MS: Aktualny komentarz ministra Żurka dotyczący sytuacji w TK i wszczęcia śledztwa w sprawie wypowiedzi na antenie Republiki (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440548"
+  },
   {
    "id": "bossa-pap-440547",
    "date": "2026-11-12",
