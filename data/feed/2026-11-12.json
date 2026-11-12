@@ -1,7 +1,75 @@
 {
  "date": "2026-11-12",
- "count": 23,
+ "count": 29,
  "items": [
+  {
+   "id": "bossa-pap-440428",
+   "date": "2026-11-12",
+   "time": "07:06",
+   "ts": "2026-11-12T07:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "William O'Neil rekomenduje \"kupuj\" dla Pepco Group",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440428"
+  },
+  {
+   "id": "strefa-f343e0b5c8d1",
+   "date": "2026-11-12",
+   "time": "07:01",
+   "ts": "2026-11-12T07:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Kalendarium rynku kapitałowego GPW 2026-11-12",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/kalendarium-rynku-kapitalowego-gpw-2026-11-12"
+  },
+  {
+   "id": "strefa-b9711ea2b0d5",
+   "date": "2026-11-12",
+   "time": "07:01",
+   "ts": "2026-11-12T07:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Kalendarium rynku NewConnect 2026-11-12",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/kalendarium-rynku-newconnect-2026-11-12"
+  },
+  {
+   "id": "strefa-5d1f1a3f8c7a",
+   "date": "2026-11-12",
+   "time": "07:01",
+   "ts": "2026-11-12T07:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "William O'Neil rekomenduje \"kupuj\" dla Pepco Group",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/william-oneil-rekomenduje-kupuj-dla-pepco-group"
+  },
+  {
+   "id": "bossa-espi-71446",
+   "date": "2026-11-12",
+   "time": "07:01",
+   "ts": "2026-11-12T07:01:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "COAL ENERGY S.A.",
+   "title": "Notice to the Shareholders of Annual General Meeting of Shareholders of Coal Energy S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71446"
+  },
+  {
+   "id": "strefa-b62b4581c1a7",
+   "date": "2026-11-12",
+   "time": "06:47",
+   "ts": "2026-11-12T06:47:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-12",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-12"
+  },
   {
    "id": "bossa-pap-440426",
    "date": "2026-11-12",

@@ -1,39 +1,48 @@
 {
  "date": "2026-11-12",
  "counts": {
-  "podsumowania": 3,
+  "podsumowania": 4,
   "wyniki": 5,
-  "rekomendacje": 0,
+  "rekomendacje": 1,
   "korporacyjne": 1,
   "makro_pl": 1,
   "swiat_rynki": 1,
-  "energetyka_surowce": 1,
+  "energetyka_surowce": 2,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
   "pozostale": 4
  },
- "duplicatesRemoved": 7,
- "total": 23,
+ "duplicatesRemoved": 10,
+ "total": 29,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kalendarium rynku kapitałowego GPW 2026-11-12",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/kalendarium-rynku-kapitalowego-gpw-2026-11-12",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kalendarium rynku NewConnect 2026-11-12",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/kalendarium-rynku-newconnect-2026-11-12",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "06:26",
     "kind": "pap",
     "ticker": null,
     "title": "Przegląd prasy gospodarczej w czwartek, 12 listopada",
     "url": "https://bossa.pl/analizy/komunikaty#message-440420",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "06:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Kalendarium rynku kapitałowego GPW 2026-11-12",
-    "url": "https://bossa.pl/analizy/komunikaty#message-440419",
     "src": "bossa",
     "flags": []
    },
@@ -101,7 +110,17 @@
     ]
    }
   ],
-  "rekomendacje": [],
+  "rekomendacje": [
+   {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "William O'Neil rekomenduje \"kupuj\" dla Pepco Group",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/william-oneil-rekomenduje-kupuj-dla-pepco-group",
+    "src": "strefainwestorow",
+    "flags": []
+   }
+  ],
   "korporacyjne": [
    {
     "time": "00:01",
@@ -139,6 +158,15 @@
   ],
   "energetyka_surowce": [
    {
+    "time": "07:01",
+    "kind": "espi",
+    "ticker": null,
+    "title": "COAL ENERGY S.A.: Notice to the Shareholders of Annual General Meeting of Shareholders of Coal Energy S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71446",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "06:37",
     "kind": "pap",
     "ticker": null,
@@ -153,6 +181,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "06:47",
+    "kind": "news",
+    "ticker": null,
+    "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-12",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-12",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "06:38",
     "kind": "pap",
@@ -169,15 +206,6 @@
     "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
     "url": "https://strefainwestorow.pl/wiadomosci/20261112/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela",
     "src": "strefainwestorow",
-    "flags": []
-   },
-   {
-    "time": "06:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-12",
-    "url": "https://bossa.pl/analizy/komunikaty#message-440417",
-    "src": "bossa",
     "flags": []
    },
    {
