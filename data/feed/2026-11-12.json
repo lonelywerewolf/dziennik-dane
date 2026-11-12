@@ -1,7 +1,67 @@
 {
  "date": "2026-11-12",
- "count": 129,
+ "count": 134,
  "items": [
+  {
+   "id": "bossa-pap-440511",
+   "date": "2026-11-12",
+   "time": "12:47",
+   "ts": "2026-11-12T12:47:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Sprawa dotycząca kary dla Google'a powinna zostać ponownie rozpatrzona - opinia rzeczniczki TSUE",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440511"
+  },
+  {
+   "id": "bossa-pap-440510",
+   "date": "2026-11-12",
+   "time": "12:45",
+   "ts": "2026-11-12T12:45:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "XBS Pro-Log chce wypłacić 4,60 zł dywidendy na akcję",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440510"
+  },
+  {
+   "id": "bossa-pap-440508",
+   "date": "2026-11-12",
+   "time": "12:43",
+   "ts": "2026-11-12T12:43:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Firmy ostrożne w zwiększaniu zatrudnienia, nie widać mocnego wzrostu bezrobocia - PIE",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440508"
+  },
+  {
+   "id": "bossa-espi-71481",
+   "date": "2026-11-12",
+   "time": "12:43",
+   "ts": "2026-11-12T12:43:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "RANK PROGRESS S.A.",
+   "title": "Wstępne wyniki finansowe Rank Progress S.A. i Grupy Kapitałowej Rank Progress za III kwartały 2026r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71481"
+  },
+  {
+   "id": "bossa-espi-71480",
+   "date": "2026-11-12",
+   "time": "12:42",
+   "ts": "2026-11-12T12:42:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 PLN-HEDGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 228 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71480"
+  },
   {
    "id": "bossa-pap-440505",
    "date": "2026-11-12",

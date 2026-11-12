@@ -2,20 +2,20 @@
  "date": "2026-11-12",
  "counts": {
   "podsumowania": 10,
-  "wyniki": 20,
+  "wyniki": 21,
   "rekomendacje": 4,
-  "korporacyjne": 12,
-  "makro_pl": 9,
-  "swiat_rynki": 4,
+  "korporacyjne": 13,
+  "makro_pl": 10,
+  "swiat_rynki": 5,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 3,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 28
+  "pozostale": 29
  },
  "duplicatesRemoved": 36,
- "total": 129,
+ "total": 134,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -111,6 +111,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "12:43",
+    "kind": "espi",
+    "ticker": null,
+    "title": "RANK PROGRESS S.A.: Wstępne wyniki finansowe Rank Progress S.A. i Grupy Kapitałowej Rank Progress za III kwartały 2026r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71481",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "12:34",
     "kind": "pap",
@@ -351,6 +362,17 @@
   ],
   "korporacyjne": [
    {
+    "time": "12:45",
+    "kind": "pap",
+    "ticker": null,
+    "title": "XBS Pro-Log chce wypłacić 4,60 zł dywidendy na akcję",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440510",
+    "src": "bossa",
+    "flags": [
+     "dywidenda"
+    ]
+   },
+   {
     "time": "12:25",
     "kind": "pap",
     "ticker": null,
@@ -482,6 +504,15 @@
   ],
   "makro_pl": [
    {
+    "time": "12:43",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Firmy ostrożne w zwiększaniu zatrudnienia, nie widać mocnego wzrostu bezrobocia - PIE",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440508",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "11:29",
     "kind": "news",
     "ticker": null,
@@ -564,6 +595,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "12:42",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BETA ETF NASDAQ-100 PLN-HEDGED PORTFELOWY FIZ: Raport bieżący nr 228 / 2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71480",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:27",
     "kind": "pap",
@@ -665,6 +705,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:47",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Sprawa dotycząca kary dla Google'a powinna zostać ponownie rozpatrzona - opinia rzeczniczki TSUE",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440511",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:32",
     "kind": "espi",
