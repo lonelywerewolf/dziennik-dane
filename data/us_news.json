@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "dd8fa623e282",
+   "ticker": "NVDA",
+   "time": "2026-11-12T19:05+01:00",
+   "title": "Stock Market Midday, Nov. 12: Nvidia CEO Resigns, AMD Surges as Wall Street Edges Higher",
+   "url": "https://www.nasdaq.com/articles/stock-market-midday-nov-12-nvidia-ceo-resigns-amd-surges-wall-street-edges-higher",
+   "src": "nasdaq",
+   "summary": "Markets moved higher despite renewed uncertainty in the technology sector following the resignation of Nvidia (NASDAQ:NVDA) CEO Jensen Huang. As of 11:30 a.m. ET, the Dow Jones Industrial Average (DJINDICES:^DJI) led major indexes, gaining 0.29% to 52,641, while the S&P 500 (SNPI"
+  },
+  {
    "id": "f2ed174916b2",
    "ticker": "AVGO",
    "time": "2026-11-12T18:53+01:00",
@@ -12421,5 +12430,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-12T19:18:10+01:00"
+ "updatedAt": "2026-11-12T19:29:10+01:00"
 }

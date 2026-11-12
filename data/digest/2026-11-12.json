@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 61
  },
- "duplicatesRemoved": 95,
- "total": 316,
+ "duplicatesRemoved": 97,
+ "total": 318,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -583,15 +583,6 @@
   ],
   "korporacyjne": [
    {
-    "time": "19:17",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Kernel zdecydował o tymczasowym zawieszeniu działalności zakładów przetwórstwa nasion roślin oleistych",
-    "url": "https://bossa.pl/analizy/komunikaty#message-440662",
-    "src": "bossa",
-    "flags": []
-   },
-   {
     "time": "18:57",
     "kind": "pap",
     "ticker": null,
@@ -620,6 +611,15 @@
     "title": "Transakcje pakietowe",
     "url": "https://bossa.pl/analizy/komunikaty#message-440645",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "18:05",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kernel zdecydował o tymczasowym zawieszeniu działalności zakładów przetwórstwa nasion roślin oleistych",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/kernel-zdecydowal-o-tymczasowym-zawieszeniu-dzialalnosci-zakladow-przetworstwa",
+    "src": "strefainwestorow",
     "flags": []
    },
    {

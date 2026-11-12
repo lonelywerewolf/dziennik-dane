@@ -1,7 +1,19 @@
 {
  "date": "2026-11-12",
- "count": 316,
+ "count": 318,
  "items": [
+  {
+   "id": "bossa-pap-440663",
+   "date": "2026-11-12",
+   "time": "19:27",
+   "ts": "2026-11-12T19:27:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Trump zagroził Meksykowi podwójnymi cłami, jeśli meksykańskie władze nie powstrzymają migrantów (aktl.)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440663"
+  },
   {
    "id": "bossa-pap-440662",
    "date": "2026-11-12",
@@ -241,6 +253,17 @@
    "title": "NEURONE STUDIO SA (11/2026) Raport kwartalny za III kwartał",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440643"
+  },
+  {
+   "id": "strefa-c129b1cdccae",
+   "date": "2026-11-12",
+   "time": "18:05",
+   "ts": "2026-11-12T18:05:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Kernel zdecydował o tymczasowym zawieszeniu działalności zakładów przetwórstwa nasion roślin oleistych",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/kernel-zdecydowal-o-tymczasowym-zawieszeniu-dzialalnosci-zakladow-przetworstwa"
   },
   {
    "id": "bossa-pap-440642",
