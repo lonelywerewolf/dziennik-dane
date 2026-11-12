@@ -1,7 +1,30 @@
 {
  "date": "2026-11-12",
- "count": 333,
+ "count": 335,
  "items": [
+  {
+   "id": "bossa-pap-440677",
+   "date": "2026-11-12",
+   "time": "22:19",
+   "ts": "2026-11-12T22:19:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Grupa Torpol po III kwartałach ma 50,1 mln zł zysku netto, rynek liczył na więcej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440677"
+  },
+  {
+   "id": "strefa-c8200e80f1c8",
+   "date": "2026-11-12",
+   "time": "22:13",
+   "ts": "2026-11-12T22:13:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grupa Torpol po III kwartałach ma 50,1 mln zł zysku netto, rynek liczył na więcej",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/grupa-torpol-po-iii-kwartalach-ma-501-mln-zl-zysku-netto-rynek-liczyl-na-wiecej"
+  },
   {
    "id": "bossa-pap-440676",
    "date": "2026-11-12",

@@ -12,10 +12,10 @@
   "fundusze_drobne": 15,
   "twoje_spolki": 3,
   "obserwowane": 0,
-  "pozostale": 63
+  "pozostale": 64
  },
- "duplicatesRemoved": 101,
- "total": 333,
+ "duplicatesRemoved": 102,
+ "total": 335,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1667,6 +1667,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "22:13",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa Torpol po III kwartałach ma 50,1 mln zł zysku netto, rynek liczył na więcej",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/grupa-torpol-po-iii-kwartalach-ma-501-mln-zl-zysku-netto-rynek-liczyl-na-wiecej",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "21:10",
     "kind": "pap",
