@@ -1,7 +1,42 @@
 {
  "date": "2026-11-12",
- "count": 96,
+ "count": 99,
  "items": [
+  {
+   "id": "bossa-pap-440480",
+   "date": "2026-11-12",
+   "time": "10:22",
+   "ts": "2026-11-12T10:22:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "TSUE wydał wyrok w polskiej sprawie dot. opóźnienia w rozpatrywaniu wniosków o zezwolenie na pobyt",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440480"
+  },
+  {
+   "id": "bossa-espi-71466",
+   "date": "2026-11-12",
+   "time": "10:19",
+   "ts": "2026-11-12T10:19:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BEEIN S.A.",
+   "title": "Zawarcie umowy ramowej o współpracy handlowej o szacunkowej wartości 3,6 mln zł brutto",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71466"
+  },
+  {
+   "id": "strefa-fd3bd8507801",
+   "date": "2026-11-12",
+   "time": "10:15",
+   "ts": "2026-11-12T10:15:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grupa BIOTON umacnia się na polskim rynku",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/grupa-bioton-umacnia-sie-na-polskim-rynku"
+  },
   {
    "id": "bossa-pap-440478",
    "date": "2026-11-12",

@@ -2,7 +2,7 @@
  "date": "2026-11-12",
  "counts": {
   "podsumowania": 10,
-  "wyniki": 11,
+  "wyniki": 12,
   "rekomendacje": 3,
   "korporacyjne": 7,
   "makro_pl": 8,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 1,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 17
+  "pozostale": 19
  },
  "duplicatesRemoved": 32,
- "total": 96,
+ "total": 99,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -111,6 +111,18 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "10:19",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BEEIN S.A.: Zawarcie umowy ramowej o współpracy handlowej o szacunkowej wartości 3,6 mln zł brutto",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71466",
+    "src": "bossa",
+    "flags": [
+     "wyniki",
+     "umowa"
+    ]
+   },
    {
     "time": "10:11",
     "kind": "pap",
@@ -488,6 +500,24 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "10:22",
+    "kind": "pap",
+    "ticker": null,
+    "title": "TSUE wydał wyrok w polskiej sprawie dot. opóźnienia w rozpatrywaniu wniosków o zezwolenie na pobyt",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440480",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:15",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa BIOTON umacnia się na polskim rynku",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/grupa-bioton-umacnia-sie-na-polskim-rynku",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "10:12",
     "kind": "espi",
