@@ -1,24 +1,44 @@
 {
  "date": "2026-11-12",
  "counts": {
-  "podsumowania": 13,
-  "wyniki": 29,
+  "podsumowania": 15,
+  "wyniki": 31,
   "rekomendacje": 5,
-  "korporacyjne": 29,
+  "korporacyjne": 31,
   "makro_pl": 18,
   "swiat_rynki": 16,
   "energetyka_surowce": 5,
   "nieruchomosci": 0,
-  "fundusze_drobne": 13,
+  "fundusze_drobne": 14,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 52
+  "pozostale": 54
  },
- "duplicatesRemoved": 78,
- "total": 260,
+ "duplicatesRemoved": 80,
+ "total": 271,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "17:37",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Notowania ciągłe - podsumowanie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440624",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "17:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "WIG20 na zamknięciu wyniósł pkt (%)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440621",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:13",
     "kind": "skrot",
@@ -138,6 +158,24 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "17:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "VOLARIA AI SA (17/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440619",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:27",
+    "kind": "news",
+    "ticker": null,
+    "title": "Creepy Jar szacuje zysk netto w III kw. na 1,1 mln zł, wobec 2,1 mln zł konsensusu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/creepy-jar-szacuje-zysk-netto-w-iii-kw-na-11-mln-zl-wobec-21-mln-zl-konsensusu",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:26",
     "kind": "pap",
@@ -475,6 +513,28 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "17:36",
+    "kind": "espi",
+    "ticker": null,
+    "title": "IDM SA: Umowa o wartości istotnej dla IDMSA",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71539",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "17:32",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GREEN LANES S.A.: Przyjęcie strategii finansowania i zainicjowanie procesu emisji akcji",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71537",
+    "src": "bossa",
+    "flags": [
+     "emisja"
+    ]
+   },
    {
     "time": "17:27",
     "kind": "pap",
@@ -1140,6 +1200,15 @@
   "nieruchomosci": [],
   "fundusze_drobne": [
    {
+    "time": "17:29",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Nationale-Nederlanden PTE SA informuje",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440616",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "17:03",
     "kind": "pap",
     "ticker": null,
@@ -1284,6 +1353,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ATC-CARGO SA (19/2026) Inne informacje",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440618",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:29",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Stawka Polonia spadła w czwartek do 3,63 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440617",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:23",
     "kind": "pap",
