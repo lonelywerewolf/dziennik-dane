@@ -1,7 +1,43 @@
 {
  "date": "2026-11-12",
- "count": 308,
+ "count": 311,
  "items": [
+  {
+   "id": "bossa-pap-440657",
+   "date": "2026-11-12",
+   "time": "18:51",
+   "ts": "2026-11-12T18:51:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KBJ SA (10/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440657"
+  },
+  {
+   "id": "bossa-pap-440656",
+   "date": "2026-11-12",
+   "time": "18:45",
+   "ts": "2026-11-12T18:45:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Aktualne wskaźniki giełdowe",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440656"
+  },
+  {
+   "id": "bossa-espi-71557",
+   "date": "2026-11-12",
+   "time": "18:45",
+   "ts": "2026-11-12T18:45:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ENEA",
+   "title": "Informacja dotycząca zamiaru zgłoszenia kandydatury do składu Rady Nadzorczej Spółki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71557"
+  },
   {
    "id": "bossa-pap-440654",
    "date": "2026-11-12",

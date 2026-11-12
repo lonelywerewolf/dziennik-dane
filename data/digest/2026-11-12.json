@@ -6,16 +6,16 @@
   "rekomendacje": 5,
   "korporacyjne": 37,
   "makro_pl": 19,
-  "swiat_rynki": 20,
-  "energetyka_surowce": 5,
+  "swiat_rynki": 21,
+  "energetyka_surowce": 6,
   "nieruchomosci": 0,
   "fundusze_drobne": 14,
   "twoje_spolki": 2,
   "obserwowane": 0,
   "pozostale": 60
  },
- "duplicatesRemoved": 93,
- "total": 308,
+ "duplicatesRemoved": 94,
+ "total": 311,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1146,6 +1146,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "18:45",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Aktualne wskaźniki giełdowe",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440656",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "18:12",
     "kind": "pap",
     "ticker": null,
@@ -1329,6 +1338,15 @@
    }
   ],
   "energetyka_surowce": [
+   {
+    "time": "18:45",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ENEA: Informacja dotycząca zamiaru zgłoszenia kandydatury do składu Rady Nadzorczej Spółki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71557",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:06",
     "kind": "espi",
