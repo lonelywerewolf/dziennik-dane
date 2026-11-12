@@ -1,7 +1,7 @@
 {
  "date": "2026-11-12",
  "counts": {
-  "podsumowania": 0,
+  "podsumowania": 2,
   "wyniki": 4,
   "rekomendacje": 0,
   "korporacyjne": 1,
@@ -12,13 +12,32 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 0
+  "pozostale": 2
  },
- "duplicatesRemoved": 2,
- "total": 8,
+ "duplicatesRemoved": 3,
+ "total": 13,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
-  "podsumowania": [],
+  "podsumowania": [
+   {
+    "time": "06:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Kalendarium rynku kapitałowego GPW 2026-11-12",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440419",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "06:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Kalendarium spółek z WIG30 2026-11-12",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440418",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "wyniki": [
    {
     "time": "00:22",
@@ -95,6 +114,25 @@
   "fundusze_drobne": [],
   "twoje_spolki": [],
   "obserwowane": [],
-  "pozostale": []
+  "pozostale": [
+   {
+    "time": "06:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-12",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440417",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "00:35",
+    "kind": "news",
+    "ticker": null,
+    "title": "W IV kw. grupa Allegro notuje wzrost GMV o ok. 17 proc.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/w-iv-kw-grupa-allegro-notuje-wzrost-gmv-o-ok-17-proc",
+    "src": "strefainwestorow",
+    "flags": []
+   }
+  ]
  }
 }
