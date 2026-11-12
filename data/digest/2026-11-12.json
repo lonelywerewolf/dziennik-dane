@@ -4,7 +4,7 @@
   "podsumowania": 4,
   "wyniki": 5,
   "rekomendacje": 1,
-  "korporacyjne": 1,
+  "korporacyjne": 2,
   "makro_pl": 3,
   "swiat_rynki": 1,
   "energetyka_surowce": 2,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 5
+  "pozostale": 6
  },
- "duplicatesRemoved": 11,
- "total": 33,
+ "duplicatesRemoved": 12,
+ "total": 36,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -123,6 +123,17 @@
   ],
   "korporacyjne": [
    {
+    "time": "07:48",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MEDICALGORITHMICS S.A.: Medicalgorithmics S.A. otrzymuje od partnera z Kanady kolejne zamówienie na urządzenia Kardiobeat.ai o wartości 375 tys. USD (ok. 1 466 tys. PLN)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71448",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
     "time": "00:01",
     "kind": "espi",
     "ticker": null,
@@ -206,6 +217,15 @@
     "title": "CEZ, a.s.: Financial results in Q1-Q3 2026",
     "url": "https://bossa.pl/analizy/komunikaty#message-71447",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "07:33",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny ropy na świecie spadają; wiele czynników przemawia za zniżkami",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/ceny-ropy-na-swiecie-spadaja-wiele-czynnikow-przemawia-za-znizkami",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
