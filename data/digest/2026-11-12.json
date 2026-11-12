@@ -2,9 +2,9 @@
  "date": "2026-11-12",
  "counts": {
   "podsumowania": 13,
-  "wyniki": 27,
+  "wyniki": 29,
   "rekomendacje": 5,
-  "korporacyjne": 28,
+  "korporacyjne": 29,
   "makro_pl": 18,
   "swiat_rynki": 16,
   "energetyka_surowce": 5,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 13,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 48
+  "pozostale": 52
  },
- "duplicatesRemoved": 76,
- "total": 251,
+ "duplicatesRemoved": 78,
+ "total": 260,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -138,6 +138,26 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "17:26",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PURPLE RAY STUDIO SA (11/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440613",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:16",
+    "kind": "news",
+    "ticker": null,
+    "title": "Szacunkowe wyniki Creepy Jar w III kw. 2026 r. vs konsensus PAP (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/szacunkowe-wyniki-creepy-jar-w-iii-kw-2026-r-vs-konsensus-pap-tabela",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "17:08",
     "kind": "espi",
@@ -455,6 +475,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "17:27",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MRiT: Zamówienia publiczne będą wspierać rozwój krajowych przedsiębiorstw i odporność gospodarki (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440614",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "17:13",
     "kind": "espi",
@@ -1253,6 +1284,42 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:23",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KNF wyznaczyła wskaźniki referencyjne WIG oraz WIG20 jako istotne",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440612",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:23",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SECO/WARWICK S.A.: QS",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71533",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:18",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: komunikat - APANET",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/gpw-komunikat-apanet",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "17:18",
+    "kind": "espi",
+    "ticker": null,
+    "title": "STALEXPORT AUTOSTRADY: QSr",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71532",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:10",
     "kind": "espi",
