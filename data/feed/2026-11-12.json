@@ -1,7 +1,43 @@
 {
  "date": "2026-11-12",
- "count": 118,
+ "count": 122,
  "items": [
+  {
+   "id": "bossa-pap-440498",
+   "date": "2026-11-12",
+   "time": "11:51",
+   "ts": "2026-11-12T11:51:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "AZTEC INTERNATIONAL SA (16/2026) Skonsolidowany raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440498"
+  },
+  {
+   "id": "bossa-espi-71477",
+   "date": "2026-11-12",
+   "time": "11:51",
+   "ts": "2026-11-12T11:51:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Sygnis S.A.",
+   "title": "Zawarcie porozumienia o współpracy w zakresie cyberbezpieczeństwa oraz innowacyjnych rozwiązań i technologii informacyjnych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71477"
+  },
+  {
+   "id": "bossa-pap-440497",
+   "date": "2026-11-12",
+   "time": "11:49",
+   "ts": "2026-11-12T11:49:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Tabela kursów średnich NBP nr 220/A/NBP/2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440497"
+  },
   {
    "id": "bossa-espi-71475",
    "date": "2026-11-12",
@@ -25,6 +61,17 @@
    "title": "Otrzymanie zawiadomienia o zmianie udziału w ogólnej liczbie głosów Emitenta",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-71474"
+  },
+  {
+   "id": "strefa-0c8d3e12c153",
+   "date": "2026-11-12",
+   "time": "11:29",
+   "ts": "2026-11-12T11:29:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Tabela kursów średnich NBP nr 220/A/NBP/2026",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/tabela-kursow-srednich-nbp-nr-220anbp2026"
   },
   {
    "id": "bossa-pap-440494",

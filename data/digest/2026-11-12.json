@@ -2,20 +2,20 @@
  "date": "2026-11-12",
  "counts": {
   "podsumowania": 10,
-  "wyniki": 17,
+  "wyniki": 18,
   "rekomendacje": 3,
   "korporacyjne": 10,
-  "makro_pl": 8,
+  "makro_pl": 9,
   "swiat_rynki": 4,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 3,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 25
+  "pozostale": 26
  },
- "duplicatesRemoved": 35,
- "total": 118,
+ "duplicatesRemoved": 36,
+ "total": 122,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -111,6 +111,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "11:51",
+    "kind": "pap",
+    "ticker": null,
+    "title": "AZTEC INTERNATIONAL SA (16/2026) Skonsolidowany raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440498",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:17",
     "kind": "pap",
@@ -420,6 +429,15 @@
   ],
   "makro_pl": [
    {
+    "time": "11:29",
+    "kind": "news",
+    "ticker": null,
+    "title": "Tabela kursów średnich NBP nr 220/A/NBP/2026",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/tabela-kursow-srednich-nbp-nr-220anbp2026",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "09:30",
     "kind": "espi",
     "ticker": null,
@@ -594,6 +612,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:51",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Sygnis S.A.: Zawarcie porozumienia o współpracy w zakresie cyberbezpieczeństwa oraz innowacyjnych rozwiązań i technologii informacyjnych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71477",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:30",
     "kind": "espi",
