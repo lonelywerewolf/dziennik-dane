@@ -5,17 +5,17 @@
   "wyniki": 35,
   "rekomendacje": 5,
   "korporacyjne": 36,
-  "makro_pl": 18,
-  "swiat_rynki": 19,
+  "makro_pl": 19,
+  "swiat_rynki": 20,
   "energetyka_surowce": 5,
   "nieruchomosci": 0,
   "fundusze_drobne": 14,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 58
+  "pozostale": 60
  },
  "duplicatesRemoved": 92,
- "total": 300,
+ "total": 304,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -942,6 +942,15 @@
   ],
   "makro_pl": [
    {
+    "time": "18:20",
+    "kind": "pap",
+    "ticker": null,
+    "title": "7R warunkowo przydzieliło obligacje o wartości 87,66 mln zł",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440650",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "16:26",
     "kind": "espi",
     "ticker": null,
@@ -1105,6 +1114,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "18:12",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Fed rezygnuje z posiedzenia w październiku 2027 r. po aktualizacji kalendarza posiedzeń",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440647",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:08",
     "kind": "pap",
@@ -1482,6 +1500,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "18:15",
+    "kind": "espi",
+    "ticker": null,
+    "title": "IMPERIO ASI S.A.: Q",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71553",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "18:14",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ASM GROUP S.A.: Zmiana terminu publikacji raportu kwartalnego za III kwartał 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71552",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:08",
     "kind": "pap",

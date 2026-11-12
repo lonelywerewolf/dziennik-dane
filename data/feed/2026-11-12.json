@@ -1,7 +1,55 @@
 {
  "date": "2026-11-12",
- "count": 300,
+ "count": 304,
  "items": [
+  {
+   "id": "bossa-pap-440650",
+   "date": "2026-11-12",
+   "time": "18:20",
+   "ts": "2026-11-12T18:20:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "7R warunkowo przydzieliło obligacje o wartości 87,66 mln zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440650"
+  },
+  {
+   "id": "bossa-espi-71553",
+   "date": "2026-11-12",
+   "time": "18:15",
+   "ts": "2026-11-12T18:15:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "IMPERIO ASI S.A.",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71553"
+  },
+  {
+   "id": "bossa-espi-71552",
+   "date": "2026-11-12",
+   "time": "18:14",
+   "ts": "2026-11-12T18:14:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ASM GROUP S.A.",
+   "title": "Zmiana terminu publikacji raportu kwartalnego za III kwartał 2026 roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71552"
+  },
+  {
+   "id": "bossa-pap-440647",
+   "date": "2026-11-12",
+   "time": "18:12",
+   "ts": "2026-11-12T18:12:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Fed rezygnuje z posiedzenia w październiku 2027 r. po aktualizacji kalendarza posiedzeń",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440647"
+  },
   {
    "id": "bossa-pap-440646",
    "date": "2026-11-12",
