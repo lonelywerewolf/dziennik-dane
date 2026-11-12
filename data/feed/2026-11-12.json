@@ -1,7 +1,31 @@
 {
  "date": "2026-11-12",
- "count": 321,
+ "count": 323,
  "items": [
+  {
+   "id": "bossa-pap-440668",
+   "date": "2026-11-12",
+   "time": "20:12",
+   "ts": "2026-11-12T20:12:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "SOLAR INNOVATION SA (11/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440668"
+  },
+  {
+   "id": "bossa-pap-440667",
+   "date": "2026-11-12",
+   "time": "20:02",
+   "ts": "2026-11-12T20:02:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "ORBITEO ASI SA (21/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440667"
+  },
   {
    "id": "bossa-pap-440666",
    "date": "2026-11-12",

@@ -2,7 +2,7 @@
  "date": "2026-11-12",
  "counts": {
   "podsumowania": 16,
-  "wyniki": 38,
+  "wyniki": 40,
   "rekomendacje": 5,
   "korporacyjne": 40,
   "makro_pl": 19,
@@ -15,7 +15,7 @@
   "pozostale": 61
  },
  "duplicatesRemoved": 98,
- "total": 321,
+ "total": 323,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -167,6 +167,24 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "20:12",
+    "kind": "pap",
+    "ticker": null,
+    "title": "SOLAR INNOVATION SA (11/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440668",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "20:02",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ORBITEO ASI SA (21/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440667",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "19:49",
     "kind": "pap",
