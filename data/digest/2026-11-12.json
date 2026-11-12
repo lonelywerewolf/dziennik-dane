@@ -4,18 +4,18 @@
   "podsumowania": 11,
   "wyniki": 23,
   "rekomendacje": 5,
-  "korporacyjne": 22,
-  "makro_pl": 14,
+  "korporacyjne": 23,
+  "makro_pl": 15,
   "swiat_rynki": 11,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 8,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 42
+  "pozostale": 45
  },
  "duplicatesRemoved": 66,
- "total": 207,
+ "total": 212,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -398,6 +398,15 @@
   ],
   "korporacyjne": [
    {
+    "time": "15:34",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BANCO SANTANDER S.A.: Dodatek do zawiadomienia o zwołaniu nadzwyczajnego walnego zgromadzenia Banco Santander, S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71517",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "15:07",
     "kind": "espi",
     "ticker": null,
@@ -628,6 +637,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "15:33",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MICHAEL/STRÖM OBLIGACJI KORPORACYJNYCH FIZ: PC-E_30.04.18",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71516",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:39",
     "kind": "news",
@@ -989,6 +1007,33 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "15:31",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Spółka odpowiedzialna za realizację Portu Polska wnioskuje o 70 mln zł z programu FEnIKS",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440574",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:31",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BANCO SANTANDER S.A.: Notice of call to the extraordinary general shareholder's meeting",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71515",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:25",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MRiRW: Projektowane stawki płatności bezpośrednich oraz przejściowego wsparcia krajowego za 2026 r. (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440572",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:22",
     "kind": "pap",

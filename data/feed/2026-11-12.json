@@ -1,7 +1,67 @@
 {
  "date": "2026-11-12",
- "count": 207,
+ "count": 212,
  "items": [
+  {
+   "id": "bossa-espi-71517",
+   "date": "2026-11-12",
+   "time": "15:34",
+   "ts": "2026-11-12T15:34:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BANCO SANTANDER S.A.",
+   "title": "Dodatek do zawiadomienia o zwołaniu nadzwyczajnego walnego zgromadzenia Banco Santander, S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71517"
+  },
+  {
+   "id": "bossa-espi-71516",
+   "date": "2026-11-12",
+   "time": "15:33",
+   "ts": "2026-11-12T15:33:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MICHAEL/STRÖM OBLIGACJI KORPORACYJNYCH FIZ",
+   "title": "PC-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71516"
+  },
+  {
+   "id": "bossa-pap-440574",
+   "date": "2026-11-12",
+   "time": "15:31",
+   "ts": "2026-11-12T15:31:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Spółka odpowiedzialna za realizację Portu Polska wnioskuje o 70 mln zł z programu FEnIKS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440574"
+  },
+  {
+   "id": "bossa-espi-71515",
+   "date": "2026-11-12",
+   "time": "15:31",
+   "ts": "2026-11-12T15:31:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BANCO SANTANDER S.A.",
+   "title": "Notice of call to the extraordinary general shareholder's meeting",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71515"
+  },
+  {
+   "id": "bossa-pap-440572",
+   "date": "2026-11-12",
+   "time": "15:25",
+   "ts": "2026-11-12T15:25:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MRiRW: Projektowane stawki płatności bezpośrednich oraz przejściowego wsparcia krajowego za 2026 r. (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440572"
+  },
   {
    "id": "bossa-pap-440571",
    "date": "2026-11-12",
