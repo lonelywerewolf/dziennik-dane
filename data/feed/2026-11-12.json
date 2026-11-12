@@ -1,7 +1,101 @@
 {
  "date": "2026-11-12",
- "count": 14,
+ "count": 23,
  "items": [
+  {
+   "id": "bossa-pap-440426",
+   "date": "2026-11-12",
+   "time": "06:46",
+   "ts": "2026-11-12T06:46:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Allegro pokazało w III kw. wyniki powyżej konsensusu, podniosło całoroczne prognozy (opis)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440426"
+  },
+  {
+   "id": "bossa-pap-440425",
+   "date": "2026-11-12",
+   "time": "06:39",
+   "ts": "2026-11-12T06:39:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KOMBINAT KONOPNY SA (16/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440425"
+  },
+  {
+   "id": "strefa-77fdd9aee70e",
+   "date": "2026-11-12",
+   "time": "06:38",
+   "ts": "2026-11-12T06:38:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Allegro pokazało w III kw. wyniki powyżej konsensusu, podniosło całoroczne prognozy (opis)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/allegro-pokazalo-w-iii-kw-wyniki-powyzej-konsensusu-podnioslo-caloroczne-0"
+  },
+  {
+   "id": "bossa-pap-440424",
+   "date": "2026-11-12",
+   "time": "06:38",
+   "ts": "2026-11-12T06:38:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne ON na wybranych rynkach rozwiniętych (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440424"
+  },
+  {
+   "id": "strefa-7cbd1b371004",
+   "date": "2026-11-12",
+   "time": "06:37",
+   "ts": "2026-11-12T06:37:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Rentowności obligacji wybranych państw (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/rentownosci-obligacji-wybranych-panstw-tabela"
+  },
+  {
+   "id": "bossa-pap-440423",
+   "date": "2026-11-12",
+   "time": "06:37",
+   "ts": "2026-11-12T06:37:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Rentowności obligacji wybranych państw (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440423"
+  },
+  {
+   "id": "bossa-pap-440422",
+   "date": "2026-11-12",
+   "time": "06:37",
+   "ts": "2026-11-12T06:37:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440422"
+  },
+  {
+   "id": "bossa-pap-440421",
+   "date": "2026-11-12",
+   "time": "06:36",
+   "ts": "2026-11-12T06:36:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440421"
+  },
   {
    "id": "bossa-pap-440420",
    "date": "2026-11-12",
@@ -13,6 +107,17 @@
    "title": "Przegląd prasy gospodarczej w czwartek, 12 listopada",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440420"
+  },
+  {
+   "id": "strefa-95d0c27f0e65",
+   "date": "2026-11-12",
+   "time": "06:00",
+   "ts": "2026-11-12T06:00:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela"
   },
   {
    "id": "bossa-pap-440419",

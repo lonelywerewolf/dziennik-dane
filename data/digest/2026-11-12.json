@@ -2,20 +2,20 @@
  "date": "2026-11-12",
  "counts": {
   "podsumowania": 3,
-  "wyniki": 4,
+  "wyniki": 5,
   "rekomendacje": 0,
   "korporacyjne": 1,
-  "makro_pl": 0,
+  "makro_pl": 1,
   "swiat_rynki": 1,
-  "energetyka_surowce": 0,
+  "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 2
+  "pozostale": 4
  },
- "duplicatesRemoved": 3,
- "total": 14,
+ "duplicatesRemoved": 7,
+ "total": 23,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -48,6 +48,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "06:39",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KOMBINAT KONOPNY SA (16/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440425",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "00:22",
     "kind": "news",
@@ -106,7 +115,17 @@
     ]
    }
   ],
-  "makro_pl": [],
+  "makro_pl": [
+   {
+    "time": "06:37",
+    "kind": "news",
+    "ticker": null,
+    "title": "Rentowności obligacji wybranych państw (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/rentownosci-obligacji-wybranych-panstw-tabela",
+    "src": "strefainwestorow",
+    "flags": []
+   }
+  ],
   "swiat_rynki": [
    {
     "time": "00:04",
@@ -118,12 +137,40 @@
     "flags": []
    }
   ],
-  "energetyka_surowce": [],
+  "energetyka_surowce": [
+   {
+    "time": "06:37",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440422",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "nieruchomosci": [],
   "fundusze_drobne": [],
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "06:38",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźniki referencyjne ON na wybranych rynkach rozwiniętych (tabela)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440424",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "06:00",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "06:00",
     "kind": "pap",
