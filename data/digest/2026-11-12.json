@@ -12,10 +12,10 @@
   "fundusze_drobne": 15,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 62
+  "pozostale": 63
  },
  "duplicatesRemoved": 100,
- "total": 328,
+ "total": 329,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1638,6 +1638,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "21:10",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MBF GROUP SA (12/2026) Zmiana harmonogramu publikacji raportów okresowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440673",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "20:30",
     "kind": "pap",
