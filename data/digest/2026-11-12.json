@@ -4,7 +4,7 @@
   "podsumowania": 10,
   "wyniki": 17,
   "rekomendacje": 3,
-  "korporacyjne": 9,
+  "korporacyjne": 10,
   "makro_pl": 8,
   "swiat_rynki": 4,
   "energetyka_surowce": 3,
@@ -15,7 +15,7 @@
   "pozostale": 25
  },
  "duplicatesRemoved": 35,
- "total": 117,
+ "total": 118,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -308,6 +308,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "11:39",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KRAKCHEMIA S.A.: Wykaz akcjonariuszy posiadających co najmniej 5% głosów na Nadzwyczajnym Walnym Zgromadzeniu Akcjonariuszy KRAKCHEMIA S.A. w dniu 6 listopada 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71475",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "10:53",
     "kind": "espi",
