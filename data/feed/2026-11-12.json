@@ -1,7 +1,31 @@
 {
  "date": "2026-11-12",
- "count": 114,
+ "count": 117,
  "items": [
+  {
+   "id": "bossa-espi-71474",
+   "date": "2026-11-12",
+   "time": "11:30",
+   "ts": "2026-11-12T11:30:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BEEIN S.A.",
+   "title": "Otrzymanie zawiadomienia o zmianie udziału w ogólnej liczbie głosów Emitenta",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71474"
+  },
+  {
+   "id": "bossa-pap-440494",
+   "date": "2026-11-12",
+   "time": "11:28",
+   "ts": "2026-11-12T11:28:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Spółka stowarzyszona Boryszewa ma koncesję m.in. na wytwarzanie i obrót określonymi rodzajami amunicji",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440494"
+  },
   {
    "id": "bossa-pap-440493",
    "date": "2026-11-12",
@@ -13,6 +37,17 @@
    "title": "DRAW DISTANCE SA (16/2026) Raport kwartalny za III kwartał",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440493"
+  },
+  {
+   "id": "strefa-99dfc8606cbe",
+   "date": "2026-11-12",
+   "time": "11:11",
+   "ts": "2026-11-12T11:11:20+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Spółka stowarzyszona Boryszewa ma koncesję m.in. na wytwarzanie i obrót określonymi rodzajami amunicji",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/spolka-stowarzyszona-boryszewa-ma-koncesje-min-na-wytwarzanie-i-obrot"
   },
   {
    "id": "bossa-pap-440492",

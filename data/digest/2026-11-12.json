@@ -12,10 +12,10 @@
   "fundusze_drobne": 3,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 23
+  "pozostale": 25
  },
- "duplicatesRemoved": 34,
- "total": 114,
+ "duplicatesRemoved": 35,
+ "total": 117,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -583,6 +583,24 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:30",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BEEIN S.A.: Otrzymanie zawiadomienia o zmianie udziału w ogólnej liczbie głosów Emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71474",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:11",
+    "kind": "news",
+    "ticker": null,
+    "title": "Spółka stowarzyszona Boryszewa ma koncesję m.in. na wytwarzanie i obrót określonymi rodzajami amunicji",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/spolka-stowarzyszona-boryszewa-ma-koncesje-min-na-wytwarzanie-i-obrot",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "11:11",
     "kind": "pap",
