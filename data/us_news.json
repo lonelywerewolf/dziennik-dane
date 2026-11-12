@@ -1,6 +1,42 @@
 {
  "items": [
   {
+   "id": "d0867e672714",
+   "ticker": "AVGO",
+   "time": "2026-11-12T17:39+01:00",
+   "title": "Stocks Slip as Nvidia Weakness Weighs on Chipmakers and AI Stocks",
+   "url": "https://www.nasdaq.com/articles/stocks-slip-nvidia-weakness-weighs-chipmakers-and-ai-stocks",
+   "src": "nasdaq",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is down -0.29% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.13%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.44%.  December E-mini S&P futures (ESZ26 ) are down -0.20%, and December E-mini Nasdaq futures..."
+  },
+  {
+   "id": "f87b4420501f",
+   "ticker": "NVDA",
+   "time": "2026-11-12T17:39+01:00",
+   "title": "As Jensen Huang leaves Nvidia, Citigroup Lowers Its Price Target on the Stock From $285 to $225. Does That Make Sense?",
+   "url": "https://www.nasdaq.com/articles/jensen-huang-leaves-nvidia-citigroup-lowers-its-price-target-stock-285-225-does-make-sense",
+   "src": "nasdaq",
+   "summary": "Key PointsSeveral Wall Street analysts lowered their price targets as CEO Jensen Huang leaves Nvidia."
+  },
+  {
+   "id": "f1d3f0048772",
+   "ticker": "NVDA",
+   "time": "2026-11-12T17:37+01:00",
+   "title": "What’s Nvidia Worth Without Jensen Huang? 1 Indicator I'm Watching Now",
+   "url": "https://www.nasdaq.com/articles/whats-nvidia-worth-without-jensen-huang-1-indicator-im-watching-now",
+   "src": "nasdaq",
+   "summary": "Key PointsNvidia stock fell sharply on news of Huang's departure."
+  },
+  {
+   "id": "4bc83fa438b2",
+   "ticker": "NVDA",
+   "time": "2026-11-12T17:34+01:00",
+   "title": "Why Sandisk Stock Dropped on Thursday",
+   "url": "https://www.nasdaq.com/articles/why-sandisk-stock-dropped-thursday",
+   "src": "nasdaq",
+   "summary": "Key PointsNvidia CEO Jensen Huang resigned last night, roiling the AI semiconductor industry."
+  },
+  {
    "id": "3bccf650696f",
    "ticker": "NVDA",
    "time": "2026-11-12T17:23+01:00",
@@ -476,6 +512,15 @@
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYnFuUlBQdFk0YWVuLUZnY1RxR0dhZ0RIcDlPLUIwZWhxeF9NSldDbHVMdHRrR2tkYXFXbFVrbFhGdGRQZ0FMeW80ZGdmZEFFcFZQVU5oZC1HVXNGS1NpX1QyWVZ5YU15WmswdUZSVmpYV3dKQk5QTGo5ODR3WkZXOTZLTDZGVmQ3RXRfTWxHWUNxSW8tUGUzQg?oc=5",
    "src": "google",
    "summary": "Nvidia Loses Its Founder, Its Face, And 14% At The Open&nbsp;&nbsp;Yahoo Finance"
+  },
+  {
+   "id": "46ea55e65a61",
+   "ticker": "NVDA",
+   "time": "2026-11-12T15:34+01:00",
+   "title": "NVIDIA CEO Exit",
+   "url": "https://www.nasdaq.com/articles/nvidia-ceo-exit",
+   "src": "nasdaq",
+   "summary": "NVIDIA CEO Exit"
   },
   {
    "id": "f895da9189e4",
@@ -971,6 +1016,15 @@
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR2FSOU13WFcyOFgzU1MybnZSaC10YjdxMEJSWElVUXBxQm5tZlI5UlFuQ1BFbkxKSzlDcjF6ZXFid19EdVh5Qm1wZW5xdWlkSzVfVFVuWW1qUzNGNDFVWE44aUtWb3R1aUZMRTZoOGY1LXVDRFhkTzJSRE9NcnFoVHBMSWhySVFRYWtzb2gwdjJLMGRJQW53WmF0dV9OUGJpbVYzbWdlcDhoS0V5Q3c?oc=5",
    "src": "google",
    "summary": "Nvidia hit with downgrades amid reports of possible Jensen Huang ouster (NVDA:NASDAQ)&nbsp;&nbsp;Seeking Alpha"
+  },
+  {
+   "id": "b1b4bc63216a",
+   "ticker": "AVGO",
+   "time": "2026-11-12T14:33+01:00",
+   "title": "Baidu to Report Q3 Earnings: What's in Store for the Stock?",
+   "url": "https://www.nasdaq.com/articles/baidu-report-q3-earnings-whats-store-stock",
+   "src": "nasdaq",
+   "summary": "BIDU's Q3 earnings face a test as rapid AI Cloud growth clashes with advertising weakness, rising capital spending and margin pressures. What's ahead?"
   },
   {
    "id": "66cd0cd71e13",
@@ -12304,5 +12358,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-12T17:50:10+01:00"
+ "updatedAt": "2026-11-12T18:01:10+01:00"
 }

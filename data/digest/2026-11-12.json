@@ -2,20 +2,20 @@
  "date": "2026-11-12",
  "counts": {
   "podsumowania": 15,
-  "wyniki": 31,
+  "wyniki": 33,
   "rekomendacje": 5,
-  "korporacyjne": 34,
+  "korporacyjne": 35,
   "makro_pl": 18,
-  "swiat_rynki": 17,
+  "swiat_rynki": 18,
   "energetyka_surowce": 5,
   "nieruchomosci": 0,
   "fundusze_drobne": 14,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 55
+  "pozostale": 57
  },
- "duplicatesRemoved": 85,
- "total": 281,
+ "duplicatesRemoved": 86,
+ "total": 288,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -158,6 +158,28 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "17:51",
+    "kind": "espi",
+    "ticker": null,
+    "title": "AMREST: Telekonferencja z inwestorami dotycząca wyników za trzeci kwartał 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71546",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "17:50",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wyniki AmRestu w III kw. 2026 r. vs konsensus PAP (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/wyniki-amrestu-w-iii-kw-2026-r-vs-konsensus-pap-tabela",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "17:32",
     "kind": "pap",
@@ -513,6 +535,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "17:55",
+    "kind": "espi",
+    "ticker": null,
+    "title": "HiProMine S.A.: Zawarcie umowy pożyczki w celu zabezpieczenia płynności finansowej Emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71547",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "17:44",
     "kind": "espi",
@@ -1037,6 +1070,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "17:56",
+    "kind": "pap",
+    "ticker": null,
+    "title": "S&P podtrzymał ocenę ratingową PZU na poziomie \"A-\"",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440636",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "17:29",
     "kind": "news",
     "ticker": null,
@@ -1395,6 +1437,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "18:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Zamknięcia na giełdach w Europie (tabela)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440638",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:58",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GPW: komunikat",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440637",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:44",
     "kind": "espi",

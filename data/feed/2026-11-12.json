@@ -1,7 +1,90 @@
 {
  "date": "2026-11-12",
- "count": 281,
+ "count": 288,
  "items": [
+  {
+   "id": "bossa-pap-440638",
+   "date": "2026-11-12",
+   "time": "18:00",
+   "ts": "2026-11-12T18:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zamknięcia na giełdach w Europie (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440638"
+  },
+  {
+   "id": "bossa-pap-440637",
+   "date": "2026-11-12",
+   "time": "17:58",
+   "ts": "2026-11-12T17:58:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: komunikat",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440637"
+  },
+  {
+   "id": "bossa-pap-440636",
+   "date": "2026-11-12",
+   "time": "17:56",
+   "ts": "2026-11-12T17:56:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "S&P podtrzymał ocenę ratingową PZU na poziomie \"A-\"",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440636"
+  },
+  {
+   "id": "bossa-espi-71547",
+   "date": "2026-11-12",
+   "time": "17:55",
+   "ts": "2026-11-12T17:55:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "HiProMine S.A.",
+   "title": "Zawarcie umowy pożyczki w celu zabezpieczenia płynności finansowej Emitenta",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71547"
+  },
+  {
+   "id": "bossa-espi-71546",
+   "date": "2026-11-12",
+   "time": "17:51",
+   "ts": "2026-11-12T17:51:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "AMREST",
+   "title": "Telekonferencja z inwestorami dotycząca wyników za trzeci kwartał 2026 roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71546"
+  },
+  {
+   "id": "strefa-b07ca5682d1a",
+   "date": "2026-11-12",
+   "time": "17:50",
+   "ts": "2026-11-12T17:50:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wyniki AmRestu w III kw. 2026 r. vs konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/wyniki-amrestu-w-iii-kw-2026-r-vs-konsensus-pap-tabela"
+  },
+  {
+   "id": "bossa-pap-440633",
+   "date": "2026-11-12",
+   "time": "17:50",
+   "ts": "2026-11-12T17:50:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wyniki AmRestu w III kw. 2026 r. vs konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440633"
+  },
   {
    "id": "bossa-pap-440632",
    "date": "2026-11-12",
