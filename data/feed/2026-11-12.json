@@ -1,7 +1,43 @@
 {
  "date": "2026-11-12",
- "count": 126,
+ "count": 129,
  "items": [
+  {
+   "id": "bossa-pap-440505",
+   "date": "2026-11-12",
+   "time": "12:34",
+   "ts": "2026-11-12T12:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "W wyniku wezwania na akcje Telestrady zawarto transakcje na łącznie 64.920 akcji spółki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440505"
+  },
+  {
+   "id": "bossa-espi-71479",
+   "date": "2026-11-12",
+   "time": "12:34",
+   "ts": "2026-11-12T12:34:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "XBS PRO-LOG S.A.",
+   "title": "Rekomendacja Zarządu ws. wypłaty dywidendy za rok 2025/2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71479"
+  },
+  {
+   "id": "bossa-espi-71478",
+   "date": "2026-11-12",
+   "time": "12:32",
+   "ts": "2026-11-12T12:32:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "REINO CAPITAL SA",
+   "title": "Zmiana terminu publikacji raportu okresowego za III kw.2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71478"
+  },
   {
    "id": "bossa-pap-440503",
    "date": "2026-11-12",

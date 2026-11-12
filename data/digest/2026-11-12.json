@@ -2,8 +2,8 @@
  "date": "2026-11-12",
  "counts": {
   "podsumowania": 10,
-  "wyniki": 19,
-  "rekomendacje": 3,
+  "wyniki": 20,
+  "rekomendacje": 4,
   "korporacyjne": 12,
   "makro_pl": 9,
   "swiat_rynki": 4,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 3,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 27
+  "pozostale": 28
  },
  "duplicatesRemoved": 36,
- "total": 126,
+ "total": 129,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -111,6 +111,18 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "12:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "W wyniku wezwania na akcje Telestrady zawarto transakcje na łącznie 64.920 akcji spółki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440505",
+    "src": "bossa",
+    "flags": [
+     "wezwanie",
+     "wyniki"
+    ]
+   },
    {
     "time": "12:03",
     "kind": "pap",
@@ -297,6 +309,18 @@
    }
   ],
   "rekomendacje": [
+   {
+    "time": "12:34",
+    "kind": "espi",
+    "ticker": null,
+    "title": "XBS PRO-LOG S.A.: Rekomendacja Zarządu ws. wypłaty dywidendy za rok 2025/2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71479",
+    "src": "bossa",
+    "flags": [
+     "dywidenda",
+     "zarząd"
+    ]
+   },
    {
     "time": "10:07",
     "kind": "news",
@@ -641,6 +665,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:32",
+    "kind": "espi",
+    "ticker": null,
+    "title": "REINO CAPITAL SA: Zmiana terminu publikacji raportu okresowego za III kw.2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71478",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:02",
     "kind": "pap",
