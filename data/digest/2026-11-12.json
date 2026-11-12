@@ -1,10 +1,10 @@
 {
  "date": "2026-11-12",
  "counts": {
-  "podsumowania": 5,
-  "wyniki": 8,
+  "podsumowania": 6,
+  "wyniki": 9,
   "rekomendacje": 1,
-  "korporacyjne": 4,
+  "korporacyjne": 5,
   "makro_pl": 6,
   "swiat_rynki": 3,
   "energetyka_surowce": 2,
@@ -14,11 +14,20 @@
   "obserwowane": 0,
   "pozostale": 11
  },
- "duplicatesRemoved": 17,
- "total": 58,
+ "duplicatesRemoved": 18,
+ "total": 62,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "08:26",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: Początek notowań może przynieść nieduże zmiany",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/dzien-na-gpw-poczatek-notowan-moze-przyniesc-nieduze-zmiany",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:09",
     "kind": "news",
@@ -66,6 +75,18 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "08:54",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wyniki Allegro za III kw. powyżej oczekiwań, umowa z InPost pozytywna (opinia)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440454",
+    "src": "bossa",
+    "flags": [
+     "wyniki",
+     "umowa"
+    ]
+   },
    {
     "time": "08:28",
     "kind": "pap",
@@ -158,6 +179,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "08:51",
+    "kind": "news",
+    "ticker": null,
+    "title": "Medicalgorithmics zrealizuje dodatkowe zamówienie z Kanady o wartości prawie 1,5 mln PLN",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/medicalgorithmics-zrealizuje-dodatkowe-zamowienie-z-kanady-o-wartosci-prawie-15",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "08:21",
     "kind": "espi",
