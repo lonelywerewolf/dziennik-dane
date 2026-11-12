@@ -1,7 +1,78 @@
 {
  "date": "2026-11-12",
- "count": 150,
+ "count": 156,
  "items": [
+  {
+   "id": "bossa-pap-440531",
+   "date": "2026-11-12",
+   "time": "13:32",
+   "ts": "2026-11-12T13:32:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "XBS PRO-LOG SA (13/2026) Informacje o walnym zgromadzeniu - zwołanie WZ z projektami uchwał, zmiany w porządku obrad WZ",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440531"
+  },
+  {
+   "id": "bossa-espi-71495",
+   "date": "2026-11-12",
+   "time": "13:29",
+   "ts": "2026-11-12T13:29:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "EUROCASH",
+   "title": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia Eurocash S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71495"
+  },
+  {
+   "id": "bossa-espi-71494",
+   "date": "2026-11-12",
+   "time": "13:27",
+   "ts": "2026-11-12T13:27:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "COLUMBUS ENERGY S.A.",
+   "title": "Złożenie pozwu o zapłatę przeciwko Wojewódzkiemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej w Opolu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71494"
+  },
+  {
+   "id": "bossa-pap-440527",
+   "date": "2026-11-12",
+   "time": "13:25",
+   "ts": "2026-11-12T13:25:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "UNIQA OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440527"
+  },
+  {
+   "id": "bossa-espi-71493",
+   "date": "2026-11-12",
+   "time": "13:25",
+   "ts": "2026-11-12T13:25:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF BITCOIN PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 231 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71493"
+  },
+  {
+   "id": "strefa-16cc2aef29a7",
+   "date": "2026-11-12",
+   "time": "13:21",
+   "ts": "2026-11-12T13:21:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Rząd obniża maksymalne ceny paliw. Tyle zapłacimy przy dystrybutorach od 13 listopada",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/rzad-obniza-maksymalne-ceny-paliw-tyle-zaplacimy-przy-dystrybutorach-od-13"
+  },
   {
    "id": "bossa-pap-440526",
    "date": "2026-11-12",

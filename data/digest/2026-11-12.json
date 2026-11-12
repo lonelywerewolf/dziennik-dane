@@ -4,18 +4,18 @@
   "podsumowania": 10,
   "wyniki": 21,
   "rekomendacje": 4,
-  "korporacyjne": 15,
-  "makro_pl": 11,
-  "swiat_rynki": 5,
+  "korporacyjne": 16,
+  "makro_pl": 13,
+  "swiat_rynki": 6,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
-  "fundusze_drobne": 3,
+  "fundusze_drobne": 4,
   "twoje_spolki": 0,
   "obserwowane": 0,
   "pozostale": 33
  },
- "duplicatesRemoved": 45,
- "total": 150,
+ "duplicatesRemoved": 46,
+ "total": 156,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -362,6 +362,15 @@
   ],
   "korporacyjne": [
    {
+    "time": "13:29",
+    "kind": "espi",
+    "ticker": null,
+    "title": "EUROCASH: Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia Eurocash S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71495",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "13:03",
     "kind": "espi",
     "ticker": null,
@@ -524,6 +533,24 @@
   ],
   "makro_pl": [
    {
+    "time": "13:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "XBS PRO-LOG SA (13/2026) Informacje o walnym zgromadzeniu - zwołanie WZ z projektami uchwał, zmiany w porządku obrad WZ",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440531",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:21",
+    "kind": "news",
+    "ticker": null,
+    "title": "Rząd obniża maksymalne ceny paliw. Tyle zapłacimy przy dystrybutorach od 13 listopada",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/rzad-obniza-maksymalne-ceny-paliw-tyle-zaplacimy-przy-dystrybutorach-od-13",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "13:00",
     "kind": "espi",
     "ticker": null,
@@ -625,6 +652,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "13:27",
+    "kind": "espi",
+    "ticker": null,
+    "title": "COLUMBUS ENERGY S.A.: Złożenie pozwu o zapłatę przeciwko Wojewódzkiemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej w Opolu",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71494",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "12:42",
     "kind": "espi",
     "ticker": null,
@@ -703,6 +739,15 @@
   ],
   "nieruchomosci": [],
   "fundusze_drobne": [
+   {
+    "time": "13:25",
+    "kind": "pap",
+    "ticker": null,
+    "title": "UNIQA OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440527",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:02",
     "kind": "pap",
