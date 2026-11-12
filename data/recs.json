@@ -16,6 +16,21 @@
    "ticker": null
   },
   {
+   "date": "2026-11-12",
+   "company": "WIELTON (WLT)",
+   "code": "WLT",
+   "name": "WIELTON",
+   "isin": "PLWELTN00012",
+   "rating": "Kupuj",
+   "price": "4.38",
+   "target": "5.37",
+   "upside": "22.602739726027",
+   "priceAtPub": "4.41",
+   "house": "Noble Securities",
+   "report": "https://strefainwestorow.pl/sites/default/files/attachments/55500397_14077166_55500397_Wielton_Media.pdf",
+   "ticker": null
+  },
+  {
    "date": "2026-11-05",
    "company": "ASBIS (ASB)",
    "code": "ASB",
@@ -4336,5 +4351,5 @@
    "ticker": "XTB"
   }
  ],
- "updatedAt": "2026-11-12T10:05:00+01:00"
+ "updatedAt": "2026-11-12T10:16:01+01:00"
 }

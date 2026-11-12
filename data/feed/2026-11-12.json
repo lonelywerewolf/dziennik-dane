@@ -1,7 +1,78 @@
 {
  "date": "2026-11-12",
- "count": 89,
+ "count": 96,
  "items": [
+  {
+   "id": "bossa-pap-440478",
+   "date": "2026-11-12",
+   "time": "10:14",
+   "ts": "2026-11-12T10:14:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Noble Securities obniżył cenę docelową Wieltonu do 5,37 zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440478"
+  },
+  {
+   "id": "bossa-espi-71465",
+   "date": "2026-11-12",
+   "time": "10:12",
+   "ts": "2026-11-12T10:12:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BEEIN S.A.",
+   "title": "Akceptacja przez PARP kolejnego rozliczenia w ramach projektu B+R",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71465"
+  },
+  {
+   "id": "bossa-pap-440476",
+   "date": "2026-11-12",
+   "time": "10:11",
+   "ts": "2026-11-12T10:11:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PLOT TWIST SA (13/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440476"
+  },
+  {
+   "id": "strefa-02fc31a30cac",
+   "date": "2026-11-12",
+   "time": "10:07",
+   "ts": "2026-11-12T10:07:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Noble Securities obniżył cenę docelową Wieltonu do 5,37 zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/noble-securities-obnizyl-cene-docelowa-wieltonu-do-537-zl"
+  },
+  {
+   "id": "bossa-pap-440475",
+   "date": "2026-11-12",
+   "time": "10:06",
+   "ts": "2026-11-12T10:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: Rosną wszystkie główne indeksy; w WIG20 najmocniejsze Allegro",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440475"
+  },
+  {
+   "id": "bossa-espi-71463",
+   "date": "2026-11-12",
+   "time": "10:06",
+   "ts": "2026-11-12T10:06:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BANCO SANTANDER S.A.",
+   "title": "Santander announces a 5% increase in the exchange ratio for its intended exchange offer for the outstanding shares of Santander Brasil",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71463"
+  },
   {
    "id": "bossa-espi-71462",
    "date": "2026-11-12",
@@ -37,6 +108,17 @@
    "title": "Atak cybernetyczny na ePUAP przyszedł z zagranicy, plan był szerszy - Gawkowski",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440471"
+  },
+  {
+   "id": "strefa-1e118756a7e4",
+   "date": "2026-11-12",
+   "time": "09:40",
+   "ts": "2026-11-12T09:40:35+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: Rosną wszystkie główne indeksy; w WIG20 najmocniejsze Allegro",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/dzien-na-gpw-rosna-wszystkie-glowne-indeksy-w-wig20-najmocniejsze-allegro"
   },
   {
    "id": "bossa-espi-9269",

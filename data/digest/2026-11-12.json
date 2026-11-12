@@ -1,9 +1,9 @@
 {
  "date": "2026-11-12",
  "counts": {
-  "podsumowania": 9,
-  "wyniki": 10,
-  "rekomendacje": 2,
+  "podsumowania": 10,
+  "wyniki": 11,
+  "rekomendacje": 3,
   "korporacyjne": 7,
   "makro_pl": 8,
   "swiat_rynki": 4,
@@ -12,13 +12,22 @@
   "fundusze_drobne": 1,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 15
+  "pozostale": 17
  },
- "duplicatesRemoved": 30,
- "total": 89,
+ "duplicatesRemoved": 32,
+ "total": 96,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "09:40",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: Rosną wszystkie główne indeksy; w WIG20 najmocniejsze Allegro",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/dzien-na-gpw-rosna-wszystkie-glowne-indeksy-w-wig20-najmocniejsze-allegro",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:24",
     "kind": "news",
@@ -102,6 +111,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "10:11",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PLOT TWIST SA (13/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440476",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:00",
     "kind": "pap",
@@ -204,6 +222,15 @@
    }
   ],
   "rekomendacje": [
+   {
+    "time": "10:07",
+    "kind": "news",
+    "ticker": null,
+    "title": "Noble Securities obniżył cenę docelową Wieltonu do 5,37 zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/noble-securities-obnizyl-cene-docelowa-wieltonu-do-537-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:06",
     "kind": "news",
@@ -461,6 +488,24 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "10:12",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BEEIN S.A.: Akceptacja przez PARP kolejnego rozliczenia w ramach projektu B+R",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71465",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:06",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BANCO SANTANDER S.A.: Santander announces a 5% increase in the exchange ratio for its intended exchange offer for the outstanding shares of Santander Brasil",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71463",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:01",
     "kind": "espi",
