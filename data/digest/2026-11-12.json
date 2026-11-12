@@ -4,8 +4,8 @@
   "podsumowania": 10,
   "wyniki": 22,
   "rekomendacje": 4,
-  "korporacyjne": 21,
-  "makro_pl": 13,
+  "korporacyjne": 22,
+  "makro_pl": 14,
   "swiat_rynki": 11,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 41
  },
- "duplicatesRemoved": 60,
- "total": 194,
+ "duplicatesRemoved": 64,
+ "total": 200,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -371,6 +371,17 @@
   ],
   "korporacyjne": [
    {
+    "time": "15:07",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PEKABEX: Zawarcie transakcji zabezpieczających przed ryzykiem kursowym przy realizacji kontraktu",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71510",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
     "time": "14:38",
     "kind": "espi",
     "ticker": null,
@@ -590,6 +601,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "14:39",
+    "kind": "news",
+    "ticker": null,
+    "title": "Rząd Litwy szacuje, że tzw. windfall tax obejmie ok. 10 spółek, w tym Orlen Lietuva",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261112/rzad-litwy-szacuje-ze-tzw-windfall-tax-obejmie-ok-10-spolek-w-tym-orlen-lietuva",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "13:36",
     "kind": "news",

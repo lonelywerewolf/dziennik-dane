@@ -1,7 +1,67 @@
 {
  "date": "2026-11-12",
- "count": 194,
+ "count": 200,
  "items": [
+  {
+   "id": "bossa-espi-71512",
+   "date": "2026-11-12",
+   "time": "15:13",
+   "ts": "2026-11-12T15:13:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF MWIG40TRsh PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 215 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71512"
+  },
+  {
+   "id": "bossa-espi-71511",
+   "date": "2026-11-12",
+   "time": "15:09",
+   "ts": "2026-11-12T15:09:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF WIG20short PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 227 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71511"
+  },
+  {
+   "id": "bossa-pap-440563",
+   "date": "2026-11-12",
+   "time": "15:08",
+   "ts": "2026-11-12T15:08:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Rząd Litwy szacuje, że tzw. windfall tax obejmie ok. 10 spółek, w tym Orlen Lietuva",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440563"
+  },
+  {
+   "id": "bossa-espi-71510",
+   "date": "2026-11-12",
+   "time": "15:07",
+   "ts": "2026-11-12T15:07:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PEKABEX",
+   "title": "Zawarcie transakcji zabezpieczających przed ryzykiem kursowym przy realizacji kontraktu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71510"
+  },
+  {
+   "id": "bossa-pap-440561",
+   "date": "2026-11-12",
+   "time": "15:04",
+   "ts": "2026-11-12T15:04:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "VIENNA OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440561"
+  },
   {
    "id": "bossa-pap-440560",
    "date": "2026-11-12",
@@ -73,6 +133,17 @@
    "title": "USA nie potrzebują porozumienia z Iranem – Trump",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440556"
+  },
+  {
+   "id": "strefa-b623d91d222e",
+   "date": "2026-11-12",
+   "time": "14:39",
+   "ts": "2026-11-12T14:39:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Rząd Litwy szacuje, że tzw. windfall tax obejmie ok. 10 spółek, w tym Orlen Lietuva",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/rzad-litwy-szacuje-ze-tzw-windfall-tax-obejmie-ok-10-spolek-w-tym-orlen-lietuva"
   },
   {
    "id": "bossa-pap-440553",
