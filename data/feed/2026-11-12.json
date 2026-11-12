@@ -1,7 +1,43 @@
 {
  "date": "2026-11-12",
- "count": 191,
+ "count": 194,
  "items": [
+  {
+   "id": "bossa-pap-440560",
+   "date": "2026-11-12",
+   "time": "15:02",
+   "ts": "2026-11-12T15:02:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MFiPR: Na Forum w Rzeszowie o dodatkowym wsparciu dla wschodnich regionów przygranicznych UE (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440560"
+  },
+  {
+   "id": "bossa-pap-440558",
+   "date": "2026-11-12",
+   "time": "14:55",
+   "ts": "2026-11-12T14:55:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "W październiku koniunktura przemyśle pogorszyła się, oczekiwania pesymistyczne - IRG SGH (popr.)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440558"
+  },
+  {
+   "id": "bossa-espi-71509",
+   "date": "2026-11-12",
+   "time": "14:55",
+   "ts": "2026-11-12T14:55:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF MWIG40TRlv PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 208 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71509"
+  },
   {
    "id": "bossa-espi-71508",
    "date": "2026-11-12",

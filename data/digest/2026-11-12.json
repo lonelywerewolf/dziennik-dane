@@ -12,10 +12,10 @@
   "fundusze_drobne": 8,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 40
+  "pozostale": 41
  },
- "duplicatesRemoved": 58,
- "total": 191,
+ "duplicatesRemoved": 60,
+ "total": 194,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -931,6 +931,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "15:02",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MFiPR: Na Forum w Rzeszowie o dodatkowym wsparciu dla wschodnich regionów przygranicznych UE (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440560",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:21",
     "kind": "pap",
