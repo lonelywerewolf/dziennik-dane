@@ -1,7 +1,42 @@
 {
  "date": "2026-11-12",
- "count": 67,
+ "count": 70,
  "items": [
+  {
+   "id": "bossa-pap-440458",
+   "date": "2026-11-12",
+   "time": "09:19",
+   "ts": "2026-11-12T09:19:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Noble Securities obniżył cenę docelową akcji Amiki do 58 zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440458"
+  },
+  {
+   "id": "bossa-pap-440457",
+   "date": "2026-11-12",
+   "time": "09:17",
+   "ts": "2026-11-12T09:17:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "WIG20 na otwarciu wyniósł 4221,79 pkt (0,32%)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440457"
+  },
+  {
+   "id": "strefa-abb0be05cd60",
+   "date": "2026-11-12",
+   "time": "09:06",
+   "ts": "2026-11-12T09:06:17+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Noble Securities obniżył cenę docelową akcji Amiki do 58 zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261112/noble-securities-obnizyl-cene-docelowa-akcji-amiki-do-58-zl"
+  },
   {
    "id": "strefa-968bd85cadfe",
    "date": "2026-11-12",

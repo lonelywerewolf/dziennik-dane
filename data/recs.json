@@ -1,6 +1,21 @@
 {
  "items": [
   {
+   "date": "2026-11-12",
+   "company": "AMICA (AMC)",
+   "code": "AMC",
+   "name": "AMICA",
+   "isin": "PLAMICA00010",
+   "rating": "Kupuj",
+   "price": "43.95",
+   "target": "58",
+   "upside": "31.968145620023",
+   "priceAtPub": "44.1",
+   "house": "Noble Securities",
+   "report": "https://strefainwestorow.pl/sites/default/files/attachments/55500063_14077065_55500063_Amica_Disclaimer.pdf",
+   "ticker": null
+  },
+  {
    "date": "2026-11-05",
    "company": "ASBIS (ASB)",
    "code": "ASB",
@@ -4321,5 +4336,5 @@
    "ticker": "XTB"
   }
  ],
- "updatedAt": "2026-11-12T09:10:00+01:00"
+ "updatedAt": "2026-11-12T09:20:59+01:00"
 }
