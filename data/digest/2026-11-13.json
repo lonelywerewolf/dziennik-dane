@@ -12,10 +12,10 @@
   "fundusze_drobne": 9,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 51
+  "pozostale": 52
  },
  "duplicatesRemoved": 125,
- "total": 378,
+ "total": 379,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1954,6 +1954,17 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "23:46",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ELQ SA (28/2026) Korekta raportu okresowego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440982",
+    "src": "bossa",
+    "flags": [
+     "prognoza"
+    ]
+   },
    {
     "time": "22:40",
     "kind": "pap",
