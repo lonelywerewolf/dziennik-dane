@@ -1,7 +1,19 @@
 {
  "date": "2026-11-13",
- "count": 99,
+ "count": 101,
  "items": [
+  {
+   "id": "bossa-pap-440748",
+   "date": "2026-11-13",
+   "time": "10:53",
+   "ts": "2026-11-13T10:53:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "AGROMEP SA (8/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440748"
+  },
   {
    "id": "bossa-pap-440747",
    "date": "2026-11-13",
@@ -13,6 +25,17 @@
    "title": "IGORIA TRADE SA (9/2026) Raport kwartalny za III kwartał",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440747"
+  },
+  {
+   "id": "strefa-3d917234a306",
+   "date": "2026-11-13",
+   "time": "10:37",
+   "ts": "2026-11-13T10:37:06+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "7R warunkowo przydzieliło obligacje o wartości 87,66 mln zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/7r-warunkowo-przydzielilo-obligacje-o-wartosci-8766-mln-zl"
   },
   {
    "id": "strefa-1363de353b7c",

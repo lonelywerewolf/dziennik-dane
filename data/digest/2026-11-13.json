@@ -2,10 +2,10 @@
  "date": "2026-11-13",
  "counts": {
   "podsumowania": 8,
-  "wyniki": 21,
+  "wyniki": 22,
   "rekomendacje": 0,
   "korporacyjne": 6,
-  "makro_pl": 11,
+  "makro_pl": 12,
   "swiat_rynki": 3,
   "energetyka_surowce": 5,
   "nieruchomosci": 0,
@@ -15,7 +15,7 @@
   "pozostale": 13
  },
  "duplicatesRemoved": 31,
- "total": 99,
+ "total": 101,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -93,6 +93,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "10:53",
+    "kind": "pap",
+    "ticker": null,
+    "title": "AGROMEP SA (8/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440748",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:42",
     "kind": "pap",
@@ -360,6 +369,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "10:37",
+    "kind": "news",
+    "ticker": null,
+    "title": "7R warunkowo przydzieliło obligacje o wartości 87,66 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/7r-warunkowo-przydzielilo-obligacje-o-wartosci-8766-mln-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "10:16",
     "kind": "news",
