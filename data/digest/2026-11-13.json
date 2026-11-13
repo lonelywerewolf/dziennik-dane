@@ -2,7 +2,7 @@
  "date": "2026-11-13",
  "counts": {
   "podsumowania": 8,
-  "wyniki": 22,
+  "wyniki": 25,
   "rekomendacje": 0,
   "korporacyjne": 6,
   "makro_pl": 15,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 16
+  "pozostale": 17
  },
  "duplicatesRemoved": 32,
- "total": 109,
+ "total": 113,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -93,6 +93,35 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "11:44",
+    "kind": "pap",
+    "ticker": null,
+    "title": "HYDRAPRES SA (12/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440759",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:36",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PEPEES: Informacja w sprawie wstępnych wyników finansowych za 3 kwartały 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71611",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "11:35",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MM CONFERENCES SA (10/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440756",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:53",
     "kind": "pap",
@@ -608,6 +637,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:43",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźnik ROE sektora bankowego na koniec IX wyniósł 14,12 proc. - KNF",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440758",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:26",
     "kind": "espi",

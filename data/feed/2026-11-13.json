@@ -1,7 +1,55 @@
 {
  "date": "2026-11-13",
- "count": 109,
+ "count": 113,
  "items": [
+  {
+   "id": "bossa-pap-440759",
+   "date": "2026-11-13",
+   "time": "11:44",
+   "ts": "2026-11-13T11:44:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "HYDRAPRES SA (12/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440759"
+  },
+  {
+   "id": "bossa-pap-440758",
+   "date": "2026-11-13",
+   "time": "11:43",
+   "ts": "2026-11-13T11:43:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźnik ROE sektora bankowego na koniec IX wyniósł 14,12 proc. - KNF",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440758"
+  },
+  {
+   "id": "bossa-espi-71611",
+   "date": "2026-11-13",
+   "time": "11:36",
+   "ts": "2026-11-13T11:36:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PEPEES",
+   "title": "Informacja w sprawie wstępnych wyników finansowych za 3 kwartały 2026 roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71611"
+  },
+  {
+   "id": "bossa-pap-440756",
+   "date": "2026-11-13",
+   "time": "11:35",
+   "ts": "2026-11-13T11:35:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MM CONFERENCES SA (10/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440756"
+  },
   {
    "id": "bossa-espi-71609",
    "date": "2026-11-13",
