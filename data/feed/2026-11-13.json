@@ -1,7 +1,55 @@
 {
  "date": "2026-11-13",
- "count": 295,
+ "count": 300,
  "items": [
+  {
+   "id": "bossa-pap-440914",
+   "date": "2026-11-13",
+   "time": "18:12",
+   "ts": "2026-11-13T18:12:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Transakcje pakietowe",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440914"
+  },
+  {
+   "id": "bossa-pap-440913",
+   "date": "2026-11-13",
+   "time": "18:06",
+   "ts": "2026-11-13T18:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zamknięcia na giełdach w Europie (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440913"
+  },
+  {
+   "id": "bossa-pap-440912",
+   "date": "2026-11-13",
+   "time": "18:05",
+   "ts": "2026-11-13T18:05:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "VIENNA OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440912"
+  },
+  {
+   "id": "bossa-pap-440911",
+   "date": "2026-11-13",
+   "time": "18:03",
+   "ts": "2026-11-13T18:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "COGNOR/Cognor Spółka Akcyjna (6/2026) Inne informacje",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440911"
+  },
   {
    "id": "bossa-espi-71710",
    "date": "2026-11-13",
@@ -37,6 +85,17 @@
    "title": "Microsoft poinformował o dalszych postępach w przywracaniu dostępności usług, w tym Outlooka",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440908"
+  },
+  {
+   "id": "strefa-b814137e5f37",
+   "date": "2026-11-13",
+   "time": "17:49",
+   "ts": "2026-11-13T17:49:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Zamknięcia na giełdach w Europie (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/zamkniecia-na-gieldach-w-europie-tabela"
   },
   {
    "id": "bossa-pap-440907",
