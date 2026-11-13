@@ -4,7 +4,7 @@
   "podsumowania": 9,
   "wyniki": 31,
   "rekomendacje": 0,
-  "korporacyjne": 7,
+  "korporacyjne": 8,
   "makro_pl": 17,
   "swiat_rynki": 3,
   "energetyka_surowce": 5,
@@ -15,7 +15,7 @@
   "pozostale": 20
  },
  "duplicatesRemoved": 36,
- "total": 131,
+ "total": 132,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -395,6 +395,15 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "12:48",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MARVIPOL DEVELOPMENT S.A.: Uzgodnienie i udostępnienie do publicznej wiadomości planu połączenia Marvipol Development S.A. ze spółkami zależnymi",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71620",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:02",
     "kind": "pap",
