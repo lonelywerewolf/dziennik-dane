@@ -1,7 +1,53 @@
 {
  "date": "2026-11-13",
- "count": 139,
+ "count": 143,
  "items": [
+  {
+   "id": "bossa-espi-71623",
+   "date": "2026-11-13",
+   "time": "13:12",
+   "ts": "2026-11-13T13:12:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PASSUS S.A.",
+   "title": "Zawarcie umowy znaczącej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71623"
+  },
+  {
+   "id": "strefa-b1df5f54fb9c",
+   "date": "2026-11-13",
+   "time": "13:05",
+   "ts": "2026-11-13T13:05:41+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "XTPL pozyskał 26 mln zł z emisji akcji serii Z. Fundusz Taiwania CEE Fund dołączył do akcjonariatu Spółki",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/xtpl-pozyskal-26-mln-zl-z-emisji-akcji-serii-z-fundusz-taiwania-cee-fund-0"
+  },
+  {
+   "id": "bossa-espi-71622",
+   "date": "2026-11-13",
+   "time": "13:04",
+   "ts": "2026-11-13T13:04:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Enea Elektrownia Połaniec Sp. z o.o.",
+   "title": "POWIADOMIENIE O TRANSAKCJI W TRYBIE ART. 19 MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71622"
+  },
+  {
+   "id": "strefa-acf2fa660aa4",
+   "date": "2026-11-13",
+   "time": "13:02",
+   "ts": "2026-11-13T13:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "XTPL pozyskał 26 mln zł z emisji akcji serii Z. Fundusz Taiwania CEE Fund dołączył do akcjonariatu Spółki",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/xtpl-pozyskal-26-mln-zl-z-emisji-akcji-serii-z-fundusz-taiwania-cee-fund"
+  },
   {
    "id": "bossa-pap-440780",
    "date": "2026-11-13",

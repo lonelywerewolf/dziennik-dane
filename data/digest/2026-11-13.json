@@ -4,7 +4,7 @@
   "podsumowania": 9,
   "wyniki": 32,
   "rekomendacje": 0,
-  "korporacyjne": 9,
+  "korporacyjne": 12,
   "makro_pl": 17,
   "swiat_rynki": 3,
   "energetyka_surowce": 6,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 22
  },
- "duplicatesRemoved": 38,
- "total": 139,
+ "duplicatesRemoved": 39,
+ "total": 143,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -404,6 +404,39 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "13:12",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PASSUS S.A.: Zawarcie umowy znaczącej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71623",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "13:04",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Enea Elektrownia Połaniec Sp. z o.o.: POWIADOMIENIE O TRANSAKCJI W TRYBIE ART. 19 MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71622",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
+    "time": "13:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "XTPL pozyskał 26 mln zł z emisji akcji serii Z. Fundusz Taiwania CEE Fund dołączył do akcjonariatu Spółki",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/xtpl-pozyskal-26-mln-zl-z-emisji-akcji-serii-z-fundusz-taiwania-cee-fund",
+    "src": "strefainwestorow",
+    "flags": [
+     "emisja"
+    ]
+   },
    {
     "time": "12:53",
     "kind": "espi",
