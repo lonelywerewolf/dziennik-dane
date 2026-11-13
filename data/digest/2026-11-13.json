@@ -2,20 +2,20 @@
  "date": "2026-11-13",
  "counts": {
   "podsumowania": 15,
-  "wyniki": 62,
+  "wyniki": 65,
   "rekomendacje": 0,
   "korporacyjne": 37,
   "makro_pl": 24,
   "swiat_rynki": 9,
   "energetyka_surowce": 8,
   "nieruchomosci": 3,
-  "fundusze_drobne": 3,
+  "fundusze_drobne": 5,
   "twoje_spolki": 1,
   "obserwowane": 0,
   "pozostale": 41
  },
- "duplicatesRemoved": 97,
- "total": 300,
+ "duplicatesRemoved": 99,
+ "total": 307,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -162,6 +162,35 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "18:16",
+    "kind": "pap",
+    "ticker": null,
+    "title": "E-XIM IT SA (7/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440917",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "18:13",
+    "kind": "pap",
+    "ticker": null,
+    "title": "AQUA SA (23/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440915",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "18:07",
+    "kind": "news",
+    "ticker": null,
+    "title": "PGE szacuje wynik EBITDA w III kw. '26 na 4,61 mld zł, zysk netto j.d. na 3 mld zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/pge-szacuje-wynik-ebitda-w-iii-kw-26-na-461-mld-zl-zysk-netto-jd-na-3-mld-zl",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "17:58",
     "kind": "espi",
@@ -1536,6 +1565,24 @@
    }
   ],
   "fundusze_drobne": [
+   {
+    "time": "18:19",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OFE POCZTYLION wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440918",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "18:16",
+    "kind": "news",
+    "ticker": null,
+    "title": "OFE wartości jednostek rozrachunkowych z 2026.11.12",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/ofe-wartosci-jednostek-rozrachunkowych-z-20261112",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:48",
     "kind": "pap",
