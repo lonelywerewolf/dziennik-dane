@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "id": "448f17e3461d",
+   "ticker": "NVDA",
+   "time": "2026-11-13T18:40+01:00",
+   "title": "Jensen Quits. Fools Tackle Your Toughest Questions",
+   "url": "https://www.nasdaq.com/articles/jensen-quits-fools-tackle-your-toughest-questions",
+   "src": "nasdaq",
+   "summary": "Jensen Huang has quit as Nvidia's (NASDAQ:NVDA) CEO, effective immediately."
+  },
+  {
+   "id": "498d96aa1004",
+   "ticker": "NVDA",
+   "time": "2026-11-13T18:35+01:00",
+   "title": "Stock Market Midday, Nov. 13: Nasdaq Plunges as Nvidia Turmoil Deepens and Treasury Yields Hit 5%",
+   "url": "https://www.nasdaq.com/articles/stock-market-midday-nov-13-nasdaq-plunges-nvidia-turmoil-deepens-and-treasury-yields-hit-5",
+   "src": "nasdaq",
+   "summary": "Wall Street extended its losses on Friday, November 13, as mounting uncertainty surrounding Nvidia (NASDAQ:NVDA) and rising Treasury yields fueled a sharp sell-off in technology stocks. As of 11:31 a.m. ET, the Nasdaq Composite (NASDAQINDEX:^IXIC) led major indexes lower, falling"
+  },
+  {
    "id": "066f12453484",
    "ticker": "NVDA",
    "time": "2026-11-13T18:18+01:00",
@@ -12907,5 +12925,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-13T18:58:25+01:00"
+ "updatedAt": "2026-11-13T19:09:25+01:00"
 }

@@ -2,20 +2,20 @@
  "date": "2026-11-13",
  "counts": {
   "podsumowania": 16,
-  "wyniki": 69,
+  "wyniki": 70,
   "rekomendacje": 2,
-  "korporacyjne": 38,
+  "korporacyjne": 41,
   "makro_pl": 25,
-  "swiat_rynki": 9,
+  "swiat_rynki": 10,
   "energetyka_surowce": 8,
   "nieruchomosci": 3,
-  "fundusze_drobne": 7,
+  "fundusze_drobne": 9,
   "twoje_spolki": 1,
   "obserwowane": 0,
   "pozostale": 42
  },
- "duplicatesRemoved": 105,
- "total": 325,
+ "duplicatesRemoved": 108,
+ "total": 335,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -171,6 +171,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "19:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GREEN ZEBRAS SA (16/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440936",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:50",
     "kind": "pap",
@@ -834,6 +843,39 @@
   ],
   "korporacyjne": [
    {
+    "time": "19:06",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MEDICALGORITHMICS S.A.: Powołanie Członka Zarządu Spółki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71723",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "19:04",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ENERGY S.A.: Informacja o transakcjach uzyskana w trybie art. 19 MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71722",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
+    "time": "19:01",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MEDICALGORITHMICS S.A.: Zgłoszenie przez akcjonariusza kandydatury na członka Rady Nadzorczej wraz z projektem uchwały zgłoszonym w sprawie objętej porządkiem obrad Nadzwyczajnego Walnego Zgromadzenia Medicalgorithmics S.A. zwołanego na dzień 18 listopada 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71720",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
+   {
     "time": "18:46",
     "kind": "espi",
     "ticker": null,
@@ -1464,6 +1506,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "18:58",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Aktualne wskaźniki giełdowe",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440934",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "17:19",
     "kind": "espi",
     "ticker": null,
@@ -1649,6 +1700,24 @@
    }
   ],
   "fundusze_drobne": [
+   {
+    "time": "19:02",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OFE PZU wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440938",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "19:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Nationale-Nederlanden OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440935",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:40",
     "kind": "pap",
