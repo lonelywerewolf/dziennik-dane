@@ -1,39 +1,39 @@
 {
  "q": {
   "ASML": {
-   "price": 1497.12,
-   "chgPct": -2.43,
-   "at": "Nov 12, 2026",
+   "price": 1509.08,
+   "chgPct": 0.8,
+   "at": "Nov 13, 2026 4:39 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/asml"
   },
   "AVGO": {
-   "price": 364.36,
-   "chgPct": 5.54,
-   "at": "Nov 12, 2026",
+   "price": 356.2541,
+   "chgPct": -2.22,
+   "at": "Nov 13, 2026 4:40 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/avgo"
   },
   "MPWR": {
-   "price": 1447.4,
-   "chgPct": -2.12,
-   "at": "Nov 12, 2026",
+   "price": 1454.9,
+   "chgPct": 0.52,
+   "at": "Nov 13, 2026 4:33 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/mpwr"
   },
   "NVDA": {
-   "price": 166.19,
-   "chgPct": -4.34,
-   "at": "Nov 12, 2026",
+   "price": 168.97,
+   "chgPct": 1.67,
+   "at": "Nov 13, 2026 4:40 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/nvda"
   },
   "TSM": {
-   "price": 405.65,
-   "chgPct": -1.86,
-   "at": "Nov 12, 2026",
+   "price": 408.4,
+   "chgPct": 0.72,
+   "at": "Nov 13, 2026 4:40 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/tsm"
   },
   "VRT": {
-   "price": 209.66,
-   "chgPct": 1.53,
-   "at": "Nov 12, 2026",
+   "price": 211.25,
+   "chgPct": 0.77,
+   "at": "Nov 13, 2026 4:40 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/vrt"
   },
   "^NDQ": {
@@ -49,17 +49,17 @@
    "src": "https://www.nasdaq.com/market-activity/index/sox"
   },
   "^SPX": {
-   "price": 757.25,
-   "chgPct": -0.34,
-   "at": "Nov 12, 2026",
+   "price": 757.729,
+   "chgPct": 0.08,
+   "at": "Nov 13, 2026 4:40 AM ET",
    "src": "https://www.nasdaq.com/market-activity/index/spy"
   },
   "MRVL": {
-   "price": 164.45,
-   "chgPct": -2.58,
-   "at": "Nov 12, 2026",
+   "price": 163.4,
+   "chgPct": -0.64,
+   "at": "Nov 13, 2026 4:40 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/mrvl"
   }
  },
- "updatedAt": "2026-11-13T09:45:07+01:00"
+ "updatedAt": "2026-11-13T10:40:07+01:00"
 }
