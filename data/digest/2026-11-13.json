@@ -4,18 +4,18 @@
   "podsumowania": 11,
   "wyniki": 47,
   "rekomendacje": 0,
-  "korporacyjne": 29,
+  "korporacyjne": 31,
   "makro_pl": 21,
-  "swiat_rynki": 7,
-  "energetyka_surowce": 6,
+  "swiat_rynki": 8,
+  "energetyka_surowce": 7,
   "nieruchomosci": 3,
   "fundusze_drobne": 2,
   "twoje_spolki": 1,
   "obserwowane": 0,
   "pozostale": 31
  },
- "duplicatesRemoved": 74,
- "total": 232,
+ "duplicatesRemoved": 76,
+ "total": 238,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -562,6 +562,24 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "16:39",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PUŁAWY: Projekty uchwał na Nadzwyczajne Walne Zgromadzenie Grupy Azoty Zakłady Azotowe „Puławy” S.A. zwołane na dzień 10 grudnia 2026 roku.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71676",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:37",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PUŁAWY: Zwołanie Nadzwyczajnego Walnego Zgromadzenia Grupy Azoty Zakłady Azotowe „Puławy” S.A. na dzień 10 grudnia 2026 roku.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71675",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "16:30",
     "kind": "espi",
     "ticker": null,
@@ -1063,6 +1081,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "16:38",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa LUG notuje wzrost sprzedaży kwartał do kwartału i wykazuje pierwsze oznaki odbudowy działalności",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/grupa-lug-notuje-wzrost-sprzedazy-kwartal-do-kwartalu-i-wykazuje-pierwsze",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "15:44",
     "kind": "espi",
     "ticker": null,
@@ -1127,6 +1154,15 @@
    }
   ],
   "energetyka_surowce": [
+   {
+    "time": "16:07",
+    "kind": "news",
+    "ticker": null,
+    "title": "W przyszłym tygodniu ceny paliw na stacjach benzynowych mogą spaść - e-petrol",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/w-przyszlym-tygodniu-ceny-paliw-na-stacjach-benzynowych-moga-spasc-e-petrol",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "12:36",
     "kind": "news",
