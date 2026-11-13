@@ -4,7 +4,7 @@
   "podsumowania": 9,
   "wyniki": 25,
   "rekomendacje": 0,
-  "korporacyjne": 6,
+  "korporacyjne": 7,
   "makro_pl": 17,
   "swiat_rynki": 3,
   "energetyka_surowce": 5,
@@ -15,7 +15,7 @@
   "pozostale": 18
  },
  "duplicatesRemoved": 35,
- "total": 120,
+ "total": 121,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -341,6 +341,15 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "12:02",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BGK na przetargu sprzedał obligacje FPC za 2,03 mld zł przy popycie 2,45 mld zł",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440764",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:59",
     "kind": "news",
