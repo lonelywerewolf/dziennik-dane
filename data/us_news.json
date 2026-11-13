@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "121903893da5",
+   "ticker": "NVDA",
+   "time": "2026-11-13T19:29+01:00",
+   "title": "Friday's ETF with Unusual Volume: TTEQ",
+   "url": "https://www.nasdaq.com/articles/fridays-etf-unusual-volume-tteq",
+   "src": "nasdaq",
+   "summary": "The T Rowe Price Technology ETF is seeing unusually high volume in afternoon trading Friday, with over 718,000 shares traded versus three month average volume of about 131,000.  Shares of TTEQ were off about 2.4% on the day.\n\nComponents of that ETF with the highest volume on Fri"
+  },
+  {
    "id": "7c68ecd40aaa",
    "ticker": "AVGO",
    "time": "2026-11-13T19:20+01:00",
@@ -12943,5 +12952,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-13T19:53:25+01:00"
+ "updatedAt": "2026-11-13T20:04:24+01:00"
 }
