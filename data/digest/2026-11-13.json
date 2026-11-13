@@ -12,10 +12,10 @@
   "fundusze_drobne": 9,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 45
+  "pozostale": 46
  },
- "duplicatesRemoved": 118,
- "total": 354,
+ "duplicatesRemoved": 120,
+ "total": 357,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1851,6 +1851,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "21:13",
+    "kind": "espi",
+    "ticker": null,
+    "title": "CREOTECH INSTRUMENTS S.A.: Zawiadomienie o zmianie udziału w ogólnej liczbie głosów na Walnym Zgromadzeniu Emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-4272",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "20:20",
     "kind": "espi",
