@@ -4,8 +4,8 @@
   "podsumowania": 9,
   "wyniki": 36,
   "rekomendacje": 0,
-  "korporacyjne": 15,
-  "makro_pl": 17,
+  "korporacyjne": 16,
+  "makro_pl": 18,
   "swiat_rynki": 3,
   "energetyka_surowce": 6,
   "nieruchomosci": 2,
@@ -15,7 +15,7 @@
   "pozostale": 24
  },
  "duplicatesRemoved": 42,
- "total": 155,
+ "total": 157,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -443,6 +443,17 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "14:04",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Inside Park S. A.: Zawarcie przez spółkę zależną Emitenta aneksu do umowy pożyczki oraz ustanowienie zabezpieczeń",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71635",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
     "time": "13:54",
     "kind": "pap",
     "ticker": null,
@@ -601,6 +612,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "14:05",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Deficyt C/A we wrześniu '26 wyniósł 718 mln euro vs konsensus deficytu 2.579 mln euro - NBP",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440795",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:55",
     "kind": "pap",

@@ -1,7 +1,31 @@
 {
  "date": "2026-11-13",
- "count": 155,
+ "count": 157,
  "items": [
+  {
+   "id": "bossa-pap-440795",
+   "date": "2026-11-13",
+   "time": "14:05",
+   "ts": "2026-11-13T14:05:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Deficyt C/A we wrześniu '26 wyniósł 718 mln euro vs konsensus deficytu 2.579 mln euro - NBP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440795"
+  },
+  {
+   "id": "bossa-espi-71635",
+   "date": "2026-11-13",
+   "time": "14:04",
+   "ts": "2026-11-13T14:04:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Inside Park S. A.",
+   "title": "Zawarcie przez spółkę zależną Emitenta aneksu do umowy pożyczki oraz ustanowienie zabezpieczeń",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71635"
+  },
   {
    "id": "bossa-espi-71634",
    "date": "2026-11-13",
