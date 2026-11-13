@@ -12,10 +12,10 @@
   "fundusze_drobne": 9,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 42
+  "pozostale": 43
  },
- "duplicatesRemoved": 108,
- "total": 335,
+ "duplicatesRemoved": 109,
+ "total": 337,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1797,6 +1797,17 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "19:16",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OVID WORKS SA (28/2026) Korekta raportu okresowego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440943",
+    "src": "bossa",
+    "flags": [
+     "prognoza"
+    ]
+   },
    {
     "time": "18:34",
     "kind": "espi",

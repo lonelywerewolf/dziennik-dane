@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "d9ed3886b9e7",
+   "ticker": "AVGO",
+   "time": "2026-11-13T19:06+01:00",
+   "title": "Stocks Retreat as Chipmakers Sink and Bond Yields Rise",
+   "url": "https://www.nasdaq.com/articles/stocks-retreat-chipmakers-sink-and-bond-yields-rise",
+   "src": "nasdaq",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is down -0.93% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.17%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -2.06%.  December E-mini S&P futures (ESZ26 ) are down -0.92%, and December E-mini Nasdaq futures..."
+  },
+  {
    "id": "448f17e3461d",
    "ticker": "NVDA",
    "time": "2026-11-13T18:40+01:00",
@@ -12925,5 +12934,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-13T19:09:25+01:00"
+ "updatedAt": "2026-11-13T19:20:24+01:00"
 }

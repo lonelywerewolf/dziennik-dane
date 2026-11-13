@@ -1,7 +1,31 @@
 {
  "date": "2026-11-13",
- "count": 335,
+ "count": 337,
  "items": [
+  {
+   "id": "bossa-espi-71725",
+   "date": "2026-11-13",
+   "time": "19:19",
+   "ts": "2026-11-13T19:19:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 3 x LEVERAGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 230 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71725"
+  },
+  {
+   "id": "bossa-pap-440943",
+   "date": "2026-11-13",
+   "time": "19:16",
+   "ts": "2026-11-13T19:16:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "OVID WORKS SA (28/2026) Korekta raportu okresowego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440943"
+  },
   {
    "id": "bossa-espi-71723",
    "date": "2026-11-13",
