@@ -2,7 +2,7 @@
  "date": "2026-11-13",
  "counts": {
   "podsumowania": 9,
-  "wyniki": 28,
+  "wyniki": 31,
   "rekomendacje": 0,
   "korporacyjne": 7,
   "makro_pl": 17,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 19
+  "pozostale": 20
  },
- "duplicatesRemoved": 35,
- "total": 126,
+ "duplicatesRemoved": 36,
+ "total": 131,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -104,6 +104,33 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "12:33",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GRUPA HRC SA (10/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440772",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "EUROSNACK SA (15/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440771",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "EUROINVESTMENT SA (24/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440770",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:16",
     "kind": "pap",
@@ -718,6 +745,15 @@
     "title": "Cena maksymalna dla benzyny Pb95 w dn. 14-16 listopada wyniesie 6,02 zł/l, dla ON 7,52 zł/l",
     "url": "https://bossa.pl/analizy/komunikaty#message-440769",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:52",
+    "kind": "news",
+    "ticker": null,
+    "title": "KNF uznała WIG i WIG20 za wskaźniki istotne ze względu m.in. na ich znaczenie systemowe",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/knf-uznala-wig-i-wig20-za-wskazniki-istotne-ze-wzgledu-min-na-ich-znaczenie",
+    "src": "strefainwestorow",
     "flags": []
    },
    {

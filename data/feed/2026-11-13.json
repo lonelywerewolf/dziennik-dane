@@ -1,7 +1,55 @@
 {
  "date": "2026-11-13",
- "count": 126,
+ "count": 131,
  "items": [
+  {
+   "id": "bossa-pap-440773",
+   "date": "2026-11-13",
+   "time": "12:35",
+   "ts": "2026-11-13T12:35:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KNF uznała WIG i WIG20 za wskaźniki istotne ze względu m.in. na ich znaczenie systemowe",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440773"
+  },
+  {
+   "id": "bossa-pap-440772",
+   "date": "2026-11-13",
+   "time": "12:33",
+   "ts": "2026-11-13T12:33:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GRUPA HRC SA (10/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440772"
+  },
+  {
+   "id": "bossa-pap-440771",
+   "date": "2026-11-13",
+   "time": "12:32",
+   "ts": "2026-11-13T12:32:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "EUROSNACK SA (15/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440771"
+  },
+  {
+   "id": "bossa-pap-440770",
+   "date": "2026-11-13",
+   "time": "12:30",
+   "ts": "2026-11-13T12:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "EUROINVESTMENT SA (24/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440770"
+  },
   {
    "id": "bossa-pap-440769",
    "date": "2026-11-13",
@@ -96,6 +144,17 @@
    "title": "Tabela kursów średnich NBP nr 221/A/NBP/2026",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261113/tabela-kursow-srednich-nbp-nr-221anbp2026"
+  },
+  {
+   "id": "strefa-5c52e43dde57",
+   "date": "2026-11-13",
+   "time": "11:52",
+   "ts": "2026-11-13T11:52:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "KNF uznała WIG i WIG20 za wskaźniki istotne ze względu m.in. na ich znaczenie systemowe",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/knf-uznala-wig-i-wig20-za-wskazniki-istotne-ze-wzgledu-min-na-ich-znaczenie"
   },
   {
    "id": "bossa-pap-440762",
