@@ -1,7 +1,55 @@
 {
  "date": "2026-11-13",
- "count": 101,
+ "count": 106,
  "items": [
+  {
+   "id": "bossa-pap-440752",
+   "date": "2026-11-13",
+   "time": "11:07",
+   "ts": "2026-11-13T11:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Deficyt w handlu strefy euro (nsa) w IX: 10,3 mld euro. Konsensus: -4,5 mld euro",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440752"
+  },
+  {
+   "id": "bossa-pap-440751",
+   "date": "2026-11-13",
+   "time": "11:07",
+   "ts": "2026-11-13T11:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PKB strefy euro w III kw.: +0,4 proc. kdk. Wstępnie+0,4 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440751"
+  },
+  {
+   "id": "bossa-pap-440750",
+   "date": "2026-11-13",
+   "time": "11:06",
+   "ts": "2026-11-13T11:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne - EURIBOR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440750"
+  },
+  {
+   "id": "bossa-pap-440749",
+   "date": "2026-11-13",
+   "time": "11:04",
+   "ts": "2026-11-13T11:04:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Inflacja bazowa w październiku poniżej 3 proc., nie widać szerszej presji cenowej w gospodarce (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440749"
+  },
   {
    "id": "bossa-pap-440748",
    "date": "2026-11-13",
@@ -13,6 +61,17 @@
    "title": "AGROMEP SA (8/2026) Raport kwartalny za III kwartał",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440748"
+  },
+  {
+   "id": "strefa-98382d017add",
+   "date": "2026-11-13",
+   "time": "10:51",
+   "ts": "2026-11-13T10:51:52+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Inflacja bazowa w październiku poniżej 3 proc., nie widać szerszej presji cenowej w gospodarce (opinia)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/inflacja-bazowa-w-pazdzierniku-ponizej-3-proc-nie-widac-szerszej-presji-cenowej"
   },
   {
    "id": "bossa-pap-440747",

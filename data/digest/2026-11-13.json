@@ -5,17 +5,17 @@
   "wyniki": 22,
   "rekomendacje": 0,
   "korporacyjne": 6,
-  "makro_pl": 12,
+  "makro_pl": 15,
   "swiat_rynki": 3,
   "energetyka_surowce": 5,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 13
+  "pozostale": 14
  },
- "duplicatesRemoved": 31,
- "total": 101,
+ "duplicatesRemoved": 32,
+ "total": 106,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -370,6 +370,33 @@
   ],
   "makro_pl": [
    {
+    "time": "11:07",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Deficyt w handlu strefy euro (nsa) w IX: 10,3 mld euro. Konsensus: -4,5 mld euro",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440752",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:07",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PKB strefy euro w III kw.: +0,4 proc. kdk. Wstępnie+0,4 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440751",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:51",
+    "kind": "news",
+    "ticker": null,
+    "title": "Inflacja bazowa w październiku poniżej 3 proc., nie widać szerszej presji cenowej w gospodarce (opinia)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/inflacja-bazowa-w-pazdzierniku-ponizej-3-proc-nie-widac-szerszej-presji-cenowej",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "10:37",
     "kind": "news",
     "ticker": null,
@@ -571,6 +598,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:06",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźniki referencyjne - EURIBOR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440750",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:32",
     "kind": "pap",
