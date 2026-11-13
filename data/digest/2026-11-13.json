@@ -4,18 +4,18 @@
   "podsumowania": 8,
   "wyniki": 17,
   "rekomendacje": 0,
-  "korporacyjne": 2,
-  "makro_pl": 5,
+  "korporacyjne": 4,
+  "makro_pl": 8,
   "swiat_rynki": 3,
   "energetyka_surowce": 2,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 7
+  "pozostale": 10
  },
- "duplicatesRemoved": 19,
- "total": 64,
+ "duplicatesRemoved": 24,
+ "total": 77,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -254,6 +254,28 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "09:43",
+    "kind": "espi",
+    "ticker": null,
+    "title": "HYDROTOR: Projekty Uchwał Nadzwyczajnego Walnego Zgromadzenia Akcjonariuszy PHS Hydrotor SA - 10-12-2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71599",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
+   {
+    "time": "09:35",
+    "kind": "espi",
+    "ticker": null,
+    "title": "HYDROTOR: Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia Akcjonariuszy PHS Hydrotor SA - 10-12-2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71596",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
+   {
     "time": "09:15",
     "kind": "news",
     "ticker": null,
@@ -277,6 +299,33 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "09:36",
+    "kind": "news",
+    "ticker": null,
+    "title": "Deficyt w obrotach towarowych handlu zagranicznego po wrześniu wyniósł 8,7 mld euro - GUS",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/deficyt-w-obrotach-towarowych-handlu-zagranicznego-po-wrzesniu-wyniosl-87-mld",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "09:35",
+    "kind": "news",
+    "ticker": null,
+    "title": "Inflacja CPI w październiku wyniosła rdr 3,5 proc., a mdm -0,4 proc. - GUS",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/inflacja-cpi-w-pazdzierniku-wyniosla-rdr-35-proc-mdm-04-proc-gus",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "09:31",
+    "kind": "news",
+    "ticker": null,
+    "title": "PKB w III kw. wzrósł o 3,5 proc. rdr, a kdk wzrósł o 0,8 proc. - szybki szacunek GUS",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/pkb-w-iii-kw-wzrosl-o-35-proc-rdr-kdk-wzrosl-o-08-proc-szybki-szacunek-gus",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:14",
     "kind": "pap",
@@ -389,6 +438,33 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:40",
+    "kind": "espi",
+    "ticker": null,
+    "title": "DEKTRA S.A.: Raport miesięczny za październik 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71598",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "09:37",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny miedzi na LME spadają; na rynkach pogorszenie nastrojów",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/ceny-miedzi-na-lme-spadaja-na-rynkach-pogorszenie-nastrojow",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "09:33",
+    "kind": "pap",
+    "ticker": null,
+    "title": "RONSON/Ronson Development SE (10/2026) Inne informacje",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440725",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:21",
     "kind": "pap",
