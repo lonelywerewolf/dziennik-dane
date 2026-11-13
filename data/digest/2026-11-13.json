@@ -1,10 +1,10 @@
 {
  "date": "2026-11-13",
  "counts": {
-  "podsumowania": 12,
-  "wyniki": 51,
+  "podsumowania": 13,
+  "wyniki": 54,
   "rekomendacje": 0,
-  "korporacyjne": 32,
+  "korporacyjne": 34,
   "makro_pl": 23,
   "swiat_rynki": 8,
   "energetyka_surowce": 8,
@@ -12,13 +12,22 @@
   "fundusze_drobne": 2,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 32
+  "pozostale": 33
  },
- "duplicatesRemoved": 78,
- "total": 250,
+ "duplicatesRemoved": 85,
+ "total": 264,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "16:51",
+    "kind": "skrot",
+    "ticker": null,
+    "title": "Skrót wiadomości - piątek 13 listopada, 17.00",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/skrot-wiadomosci-piatek-13-listopada-1700",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "16:40",
     "kind": "news",
@@ -133,6 +142,33 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "17:16",
+    "kind": "pap",
+    "ticker": null,
+    "title": "INTERNETOWY FUNDUSZ LEASINGOWY (17/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440881",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:16",
+    "kind": "pap",
+    "ticker": null,
+    "title": "SPACE FOX GAMES SA (27/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440880",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:12",
+    "kind": "pap",
+    "ticker": null,
+    "title": "HUB.TECH SA (11/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440877",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:02",
     "kind": "pap",
@@ -606,6 +642,28 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "17:08",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GREEN LANES S.A.: Podjęcie przez Zarząd uchwały emisyjnej dotyczącej podwyższenia kapitału zakładowego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71685",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "17:07",
+    "kind": "espi",
+    "ticker": null,
+    "title": "TECNOVATICA S.A.: Zawarcie przed podmiot zależny porozumienia w przedmiocie rozwiązania umowy przedwstępnej sprzedaży nieruchomości",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71684",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "17:05",
     "kind": "espi",
@@ -1365,6 +1423,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:08",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ronson Development w I-III kw. '26 sprzedał 381 lokali, więcej o 9 proc. rdr",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/ronson-development-w-i-iii-kw-26-sprzedal-381-lokali-wiecej-o-9-proc-rdr",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:04",
     "kind": "pap",
