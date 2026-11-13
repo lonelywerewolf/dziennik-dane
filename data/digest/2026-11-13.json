@@ -2,9 +2,9 @@
  "date": "2026-11-13",
  "counts": {
   "podsumowania": 9,
-  "wyniki": 35,
+  "wyniki": 36,
   "rekomendacje": 0,
-  "korporacyjne": 14,
+  "korporacyjne": 15,
   "makro_pl": 17,
   "swiat_rynki": 3,
   "energetyka_surowce": 6,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 24
  },
- "duplicatesRemoved": 41,
- "total": 152,
+ "duplicatesRemoved": 42,
+ "total": 155,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -104,6 +104,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "13:56",
+    "kind": "pap",
+    "ticker": null,
+    "title": "FUNDUSZ HIPOTECZNY DOM SA (9/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440792",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:36",
     "kind": "pap",
@@ -433,6 +442,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "13:54",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GRUPA RECYKL SA (13/2026) Podpisanie przez emitenta z firmą audytorską umowy o badanie sprawozdań finansowych lub skonsolidowanych sprawozdań finansowych emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440791",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "13:45",
     "kind": "espi",
