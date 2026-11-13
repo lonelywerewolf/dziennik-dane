@@ -1,7 +1,55 @@
 {
  "date": "2026-11-13",
- "count": 345,
+ "count": 349,
  "items": [
+  {
+   "id": "bossa-pap-440954",
+   "date": "2026-11-13",
+   "time": "20:10",
+   "ts": "2026-11-13T20:10:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MILITARY GROUP SA (16/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440954"
+  },
+  {
+   "id": "bossa-pap-440953",
+   "date": "2026-11-13",
+   "time": "20:08",
+   "ts": "2026-11-13T20:08:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "VIDIS SA (6/2026) Raport kwartalny za I kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440953"
+  },
+  {
+   "id": "bossa-espi-71731",
+   "date": "2026-11-13",
+   "time": "20:06",
+   "ts": "2026-11-13T20:06:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 2 x SHORT PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 229 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71731"
+  },
+  {
+   "id": "bossa-pap-440951",
+   "date": "2026-11-13",
+   "time": "20:05",
+   "ts": "2026-11-13T20:05:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "ELQ SA (27/2026) Skonsolidowany raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440951"
+  },
   {
    "id": "bossa-pap-440950",
    "date": "2026-11-13",

@@ -2,7 +2,7 @@
  "date": "2026-11-13",
  "counts": {
   "podsumowania": 16,
-  "wyniki": 71,
+  "wyniki": 73,
   "rekomendacje": 2,
   "korporacyjne": 41,
   "makro_pl": 26,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 44
  },
- "duplicatesRemoved": 113,
- "total": 345,
+ "duplicatesRemoved": 115,
+ "total": 349,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -171,6 +171,24 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "20:10",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MILITARY GROUP SA (16/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440954",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "20:08",
+    "kind": "pap",
+    "ticker": null,
+    "title": "VIDIS SA (6/2026) Raport kwartalny za I kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440953",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "19:35",
     "kind": "pap",
