@@ -1,7 +1,55 @@
 {
  "date": "2026-11-13",
- "count": 144,
+ "count": 148,
  "items": [
+  {
+   "id": "bossa-pap-440786",
+   "date": "2026-11-13",
+   "time": "13:31",
+   "ts": "2026-11-13T13:31:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "EKOPOL SA (17/2026) Skonsolidowany raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440786"
+  },
+  {
+   "id": "bossa-espi-71628",
+   "date": "2026-11-13",
+   "time": "13:31",
+   "ts": "2026-11-13T13:31:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MUZA",
+   "title": "Szacunkowe wyniki finansowe za III kwartały 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71628"
+  },
+  {
+   "id": "bossa-pap-440785",
+   "date": "2026-11-13",
+   "time": "13:29",
+   "ts": "2026-11-13T13:29:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "EKOPOL SA (16/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440785"
+  },
+  {
+   "id": "bossa-pap-440784",
+   "date": "2026-11-13",
+   "time": "13:26",
+   "ts": "2026-11-13T13:26:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DEKTRA SA (10/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440784"
+  },
   {
    "id": "bossa-espi-71624",
    "date": "2026-11-13",

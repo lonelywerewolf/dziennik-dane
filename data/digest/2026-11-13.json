@@ -2,7 +2,7 @@
  "date": "2026-11-13",
  "counts": {
   "podsumowania": 9,
-  "wyniki": 32,
+  "wyniki": 34,
   "rekomendacje": 0,
   "korporacyjne": 12,
   "makro_pl": 17,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 23
  },
- "duplicatesRemoved": 39,
- "total": 144,
+ "duplicatesRemoved": 41,
+ "total": 148,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -104,6 +104,26 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "13:31",
+    "kind": "pap",
+    "ticker": null,
+    "title": "EKOPOL SA (17/2026) Skonsolidowany raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440786",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:31",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MUZA: Szacunkowe wyniki finansowe za III kwartały 2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71628",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "12:59",
     "kind": "pap",
