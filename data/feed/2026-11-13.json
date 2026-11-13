@@ -1,7 +1,54 @@
 {
  "date": "2026-11-13",
- "count": 83,
+ "count": 87,
  "items": [
+  {
+   "id": "bossa-pap-440739",
+   "date": "2026-11-13",
+   "time": "10:05",
+   "ts": "2026-11-13T10:05:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "SIMTERACT SA (9/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440739"
+  },
+  {
+   "id": "bossa-pap-440738",
+   "date": "2026-11-13",
+   "time": "10:04",
+   "ts": "2026-11-13T10:04:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "XBS PRO-LOG SA (14/2026) Raport kwartalny za I kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440738"
+  },
+  {
+   "id": "bossa-pap-440737",
+   "date": "2026-11-13",
+   "time": "10:01",
+   "ts": "2026-11-13T10:01:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Spowolnienie wzrostu III kw. to efekt przejściowej utraty tempa, a nie trwałej zmiany trendu (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440737"
+  },
+  {
+   "id": "strefa-f69d20b491ed",
+   "date": "2026-11-13",
+   "time": "09:55",
+   "ts": "2026-11-13T09:55:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wezwanie na akcje Żabka Group. Zbliża się ważny termin",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/wezwanie-na-akcje-zabka-group-zbliza-sie-wazny-termin"
+  },
   {
    "id": "strefa-a66be37136e7",
    "date": "2026-11-13",
