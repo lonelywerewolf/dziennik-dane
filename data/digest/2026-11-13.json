@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 14
+  "pozostale": 15
  },
  "duplicatesRemoved": 32,
- "total": 106,
+ "total": 107,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -598,6 +598,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:20",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KRKA: Acquisition of treasury shares",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71607",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:06",
     "kind": "pap",
