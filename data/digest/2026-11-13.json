@@ -2,20 +2,20 @@
  "date": "2026-11-13",
  "counts": {
   "podsumowania": 4,
-  "wyniki": 4,
+  "wyniki": 5,
   "rekomendacje": 0,
   "korporacyjne": 0,
-  "makro_pl": 2,
+  "makro_pl": 3,
   "swiat_rynki": 0,
-  "energetyka_surowce": 0,
+  "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 2
+  "pozostale": 4
  },
- "duplicatesRemoved": 4,
- "total": 16,
+ "duplicatesRemoved": 7,
+ "total": 24,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -58,6 +58,17 @@
   ],
   "wyniki": [
    {
+    "time": "07:37",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wyniki Sanok Rubber Company w III kw. 2026 roku vs. konsensus PAP (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/wyniki-sanok-rubber-company-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
     "time": "07:00",
     "kind": "pap",
     "ticker": null,
@@ -98,6 +109,15 @@
   "korporacyjne": [],
   "makro_pl": [
    {
+    "time": "07:38",
+    "kind": "news",
+    "ticker": null,
+    "title": "Rentowności obligacji wybranych państw (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/rentownosci-obligacji-wybranych-panstw-tabela",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "07:30",
     "kind": "pap",
     "ticker": null,
@@ -117,12 +137,40 @@
    }
   ],
   "swiat_rynki": [],
-  "energetyka_surowce": [],
+  "energetyka_surowce": [
+   {
+    "time": "07:37",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440697",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "nieruchomosci": [],
   "fundusze_drobne": [],
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "07:40",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MIRACULUM S.A.: Q",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71580",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "07:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "07:02",
     "kind": "news",

@@ -1,7 +1,89 @@
 {
  "date": "2026-11-13",
- "count": 16,
+ "count": 24,
  "items": [
+  {
+   "id": "bossa-espi-71580",
+   "date": "2026-11-13",
+   "time": "07:40",
+   "ts": "2026-11-13T07:40:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MIRACULUM S.A.",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71580"
+  },
+  {
+   "id": "strefa-05b20690d260",
+   "date": "2026-11-13",
+   "time": "07:38",
+   "ts": "2026-11-13T07:38:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Rentowności obligacji wybranych państw (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/rentownosci-obligacji-wybranych-panstw-tabela"
+  },
+  {
+   "id": "bossa-pap-440698",
+   "date": "2026-11-13",
+   "time": "07:38",
+   "ts": "2026-11-13T07:38:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Rentowności obligacji wybranych państw (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440698"
+  },
+  {
+   "id": "strefa-941146f219b2",
+   "date": "2026-11-13",
+   "time": "07:37",
+   "ts": "2026-11-13T07:37:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wyniki Sanok Rubber Company w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/wyniki-sanok-rubber-company-w-iii-kw-2026-roku-vs-konsensus-pap-tabela"
+  },
+  {
+   "id": "bossa-pap-440697",
+   "date": "2026-11-13",
+   "time": "07:37",
+   "ts": "2026-11-13T07:37:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440697"
+  },
+  {
+   "id": "bossa-pap-440696",
+   "date": "2026-11-13",
+   "time": "07:37",
+   "ts": "2026-11-13T07:37:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wyniki Sanok Rubber Company w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440696"
+  },
+  {
+   "id": "bossa-pap-440695",
+   "date": "2026-11-13",
+   "time": "07:36",
+   "ts": "2026-11-13T07:36:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440695"
+  },
   {
    "id": "bossa-pap-440694",
    "date": "2026-11-13",
@@ -13,6 +95,17 @@
    "title": "Złotowe depozyty międzybankowe - WIBID, WIBOR",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440694"
+  },
+  {
+   "id": "strefa-e12106126304",
+   "date": "2026-11-13",
+   "time": "07:02",
+   "ts": "2026-11-13T07:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela"
   },
   {
    "id": "strefa-aec4aecc16e8",
