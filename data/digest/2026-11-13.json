@@ -2,20 +2,20 @@
  "date": "2026-11-13",
  "counts": {
   "podsumowania": 12,
-  "wyniki": 47,
+  "wyniki": 51,
   "rekomendacje": 0,
-  "korporacyjne": 31,
-  "makro_pl": 22,
+  "korporacyjne": 32,
+  "makro_pl": 23,
   "swiat_rynki": 8,
   "energetyka_surowce": 8,
   "nieruchomosci": 3,
   "fundusze_drobne": 2,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 31
+  "pozostale": 32
  },
  "duplicatesRemoved": 78,
- "total": 243,
+ "total": 250,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -133,6 +133,42 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "17:02",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PLAY2CHILL SA (10/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440868",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:01",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PYRAMID GAMES SA (9/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440867",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:58",
+    "kind": "pap",
+    "ticker": null,
+    "title": "SYGNIS SA (18/2026) Skonsolidowany raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440866",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:55",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MEDARD SA (25/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440864",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:26",
     "kind": "pap",
@@ -571,6 +607,17 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "17:05",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BETA ETF MWIG40TRsh PORTFELOWY FIZ: Informacja o transakcjach uzyskanych w trybie art. 19 ust. 3 rozporządzenia MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71683",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
     "time": "16:39",
     "kind": "espi",
     "ticker": null,
@@ -898,6 +945,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "16:56",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Prezydent podpisał ustawę zmniejszającą obowiązki eksporterów",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440865",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:53",
     "kind": "pap",
@@ -1309,6 +1365,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:04",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Jest porozumienie w sprawie zwiększenia liczby darmowych uprawnień ETS dla przemysłu",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440869",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:10",
     "kind": "news",
