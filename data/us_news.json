@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "94507b6fa8c0",
+   "ticker": "TSM",
+   "time": "2026-11-13T07:41+01:00",
+   "title": "Taiwan Semiconductor Manufacturing Company Limited Reports Unauthorized Access of Employee Personal Data",
+   "url": "https://www.nasdaq.com/articles/taiwan-semiconductor-manufacturing-company-limited-reports-unauthorized-access-employee",
+   "src": "nasdaq",
+   "summary": "Taiwan Semiconductor Manufacturing Company Limited reported that some of its current and former employee data was made available on an external website without authorization. The company stated that it has found no evidence that its systems have been compromised, and the informat"
+  },
+  {
    "id": "eebc2aba8730",
    "ticker": "AVGO",
    "time": "2026-11-13T07:24+01:00",
@@ -12646,5 +12655,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-13T07:55:07+01:00"
+ "updatedAt": "2026-11-13T08:06:07+01:00"
 }
