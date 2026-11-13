@@ -2,7 +2,7 @@
  "date": "2026-11-13",
  "counts": {
   "podsumowania": 16,
-  "wyniki": 78,
+  "wyniki": 79,
   "rekomendacje": 2,
   "korporacyjne": 42,
   "makro_pl": 26,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 9,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 49
+  "pozostale": 51
  },
  "duplicatesRemoved": 123,
- "total": 369,
+ "total": 372,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -171,6 +171,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "22:41",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PRIME BIT GAMES SA W RESTRUKTURYZACJI (20/2026) Raport kwartalny za II kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440975",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "22:20",
     "kind": "pap",
@@ -1907,6 +1916,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "22:40",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BROWAR CZARNKÓW SA (18/2026) Zmiana harmonogramu publikacji raportów okresowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440974",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "22:39",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Premier po szczycie w Dublinie: Polska będzie odgrywała kluczową rolę w negocjacjach w sprawie Ukrainy (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440973",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "22:12",
     "kind": "pap",
