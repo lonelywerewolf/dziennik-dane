@@ -2,20 +2,20 @@
  "date": "2026-11-13",
  "counts": {
   "podsumowania": 4,
-  "wyniki": 8,
+  "wyniki": 13,
   "rekomendacje": 0,
   "korporacyjne": 0,
   "makro_pl": 3,
-  "swiat_rynki": 0,
+  "swiat_rynki": 2,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
-  "twoje_spolki": 0,
+  "twoje_spolki": 1,
   "obserwowane": 0,
   "pozostale": 6
  },
- "duplicatesRemoved": 8,
- "total": 30,
+ "duplicatesRemoved": 12,
+ "total": 42,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -25,6 +25,15 @@
     "ticker": null,
     "title": "Kalendarium rynku NewConnect 2026-11-13",
     "url": "https://strefainwestorow.pl/wiadomosci/20261113/kalendarium-rynku-newconnect-2026-11-13",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "07:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kalendarium rynku kapitałowego GPW 2026-11-13",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/kalendarium-rynku-kapitalowego-gpw-2026-11-13",
     "src": "strefainwestorow",
     "flags": []
    },
@@ -41,15 +50,6 @@
     "time": "06:00",
     "kind": "pap",
     "ticker": null,
-    "title": "Kalendarium rynku kapitałowego GPW 2026-11-13",
-    "url": "https://bossa.pl/analizy/komunikaty#message-440685",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "06:00",
-    "kind": "pap",
-    "ticker": null,
     "title": "Kalendarium spółek z WIG30 2026-11-13",
     "url": "https://bossa.pl/analizy/komunikaty#message-440683",
     "src": "bossa",
@@ -57,6 +57,44 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "08:38",
+    "kind": "pap",
+    "ticker": null,
+    "title": "7LEVELS SA (13/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440710",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "08:30",
+    "kind": "espi",
+    "ticker": null,
+    "title": "TECNOVATICA S.A.: Konferencja wynikowa",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71586",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "08:29",
+    "kind": "news",
+    "ticker": null,
+    "title": "Galvo w III kw. br. notuje rekordowe 7,4 mln zł przychodów i blisko 1 mln zł EBITDA. Srebrzenie i energetyka napędzają wzrosty.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/galvo-w-iii-kw-br-notuje-rekordowe-74-mln-zl-przychodow-i-blisko-1-mln-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "08:29",
+    "kind": "news",
+    "ticker": null,
+    "title": "Liftero zwiększyło przychody po III kwartałach 2026 r. do 2,2 mln zł o 143% r/r, zamierza mocniej postawić na USA",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/liftero-zwiekszylo-przychody-po-iii-kwartalach-2026-r-do-22-mln-zl-o-143-rr",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:15",
     "kind": "pap",
@@ -82,6 +120,15 @@
     "title": "POLTRONIC SA (8/2026) Raport kwartalny za III kwartał",
     "url": "https://bossa.pl/analizy/komunikaty#message-440701",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "07:39",
+    "kind": "news",
+    "ticker": null,
+    "title": "Po trzech kwartałach 2026 r. EBITDA MLP Group wyniosła 195 mln zł, co oznacza wzrost o 22 proc. rdr",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/po-trzech-kwartalach-2026-r-ebitda-mlp-group-wyniosla-195-mln-zl-co-oznacza",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -163,7 +210,26 @@
     "flags": []
    }
   ],
-  "swiat_rynki": [],
+  "swiat_rynki": [
+   {
+    "time": "08:38",
+    "kind": "news",
+    "ticker": null,
+    "title": "Najważniejsze indeksy giełdowe w Azji",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/najwazniejsze-indeksy-gieldowe-w-azji",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "08:29",
+    "kind": "news",
+    "ticker": null,
+    "title": "S&P potwierdza rating PZU na poziomie „A-” z perspektywą pozytywną",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/sp-potwierdza-rating-pzu-na-poziomie-z-perspektywa-pozytywna",
+    "src": "strefainwestorow",
+    "flags": []
+   }
+  ],
   "energetyka_surowce": [
    {
     "time": "07:37",
@@ -177,7 +243,19 @@
   ],
   "nieruchomosci": [],
   "fundusze_drobne": [],
-  "twoje_spolki": [],
+  "twoje_spolki": [
+   {
+    "time": "08:30",
+    "kind": "news",
+    "ticker": "NVDA",
+    "title": "DZIEŃ NA RYNKACH: Futures w Europie głównie na minusach po odejściu prezesa Nvidii",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/dzien-na-rynkach-futures-w-europie-glownie-na-minusach-po-odejsciu-prezesa",
+    "src": "strefainwestorow",
+    "flags": [
+     "zarząd"
+    ]
+   }
+  ],
   "obserwowane": [],
   "pozostale": [
    {
