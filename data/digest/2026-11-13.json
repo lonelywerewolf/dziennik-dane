@@ -2,7 +2,7 @@
  "date": "2026-11-13",
  "counts": {
   "podsumowania": 16,
-  "wyniki": 76,
+  "wyniki": 77,
   "rekomendacje": 2,
   "korporacyjne": 41,
   "makro_pl": 26,
@@ -15,7 +15,7 @@
   "pozostale": 48
  },
  "duplicatesRemoved": 121,
- "total": 362,
+ "total": 363,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -171,6 +171,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "21:44",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OVID WORKS SA (29/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440967",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "21:28",
     "kind": "pap",
