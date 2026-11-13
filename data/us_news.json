@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "d3723619cf3b",
+   "ticker": "NVDA",
+   "time": "2026-11-13T16:23+01:00",
+   "title": "Dow Movers: CSCO, HONIV",
+   "url": "https://www.nasdaq.com/articles/dow-movers-csco-honiv-0",
+   "src": "nasdaq",
+   "summary": "In early trading on Friday, shares of Honeywell International topped the list of the day's best performing Dow Jones Industrial Average components, trading up 7.5%.  Year to date, Honeywell International registers a 42.2% gain.\n\nAnd the worst performing Dow component thus far on"
+  },
+  {
    "id": "cec869c5e378",
    "ticker": "NVDA",
    "time": "2026-11-13T15:04+01:00",
@@ -44,6 +53,15 @@
    "url": "https://www.nasdaq.com/articles/how-much-nvidia-stock-worth-without-jensen-huang",
    "src": "nasdaq",
    "summary": "Key PointsNvidia&rsquo;s chief and founder, Jensen Huang, stepped down following allegations of affairs."
+  },
+  {
+   "id": "883e8f11642c",
+   "ticker": "NVDA",
+   "time": "2026-11-13T14:08+01:00",
+   "title": "CRWV Q3 Earnings Impress, Outlook Raised: How to Play the Stock Now?",
+   "url": "https://www.nasdaq.com/articles/crwv-q3-earnings-impress-outlook-raised-how-play-stock-now",
+   "src": "nasdaq",
+   "summary": "CoreWeave's Q3 revenue grew 168% as infrastructure expansion, a $132.5 billion backlog and a raised 2026 view strengthen growth prospects despite mounting debt."
   },
   {
    "id": "9d9711f0f24b",
@@ -12772,5 +12790,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-13T16:22:16+01:00"
+ "updatedAt": "2026-11-13T16:33:16+01:00"
 }

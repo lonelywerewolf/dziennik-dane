@@ -2,20 +2,20 @@
  "date": "2026-11-13",
  "counts": {
   "podsumowania": 11,
-  "wyniki": 44,
+  "wyniki": 47,
   "rekomendacje": 0,
-  "korporacyjne": 28,
+  "korporacyjne": 29,
   "makro_pl": 21,
   "swiat_rynki": 7,
   "energetyka_surowce": 6,
-  "nieruchomosci": 2,
-  "fundusze_drobne": 1,
+  "nieruchomosci": 3,
+  "fundusze_drobne": 2,
   "twoje_spolki": 1,
   "obserwowane": 0,
   "pozostale": 31
  },
- "duplicatesRemoved": 70,
- "total": 222,
+ "duplicatesRemoved": 74,
+ "total": 232,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -124,6 +124,33 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "16:26",
+    "kind": "pap",
+    "ticker": null,
+    "title": "AGROLIGA GROUP PLC/Agroliga Group PLC (8/2026) Skonsolidowany raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440850",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:26",
+    "kind": "pap",
+    "ticker": null,
+    "title": "RockGame/RockGame Spółka Akcyjna (10/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440849",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:24",
+    "kind": "pap",
+    "ticker": null,
+    "title": "THE DUST SA (20/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440848",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:49",
     "kind": "pap",
@@ -534,6 +561,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "16:30",
+    "kind": "espi",
+    "ticker": null,
+    "title": "REINO CAPITAL SA: Emisja obligacji REINO Capital serii B",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71674",
+    "src": "bossa",
+    "flags": [
+     "emisja"
+    ]
+   },
    {
     "time": "16:02",
     "kind": "news",
@@ -1146,6 +1184,15 @@
   ],
   "nieruchomosci": [
    {
+    "time": "16:22",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MFiPR: Społeczne Agencje Najmu - mieszkania dla osób w trudniejszej sytuacji życiowej. Kolejna edycja konkursu (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440846",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "12:13",
     "kind": "espi",
     "ticker": null,
@@ -1165,6 +1212,15 @@
    }
   ],
   "fundusze_drobne": [
+   {
+    "time": "16:27",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PKO BP BANKOWY OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440851",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:19",
     "kind": "pap",
