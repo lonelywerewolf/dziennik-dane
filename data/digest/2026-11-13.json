@@ -1,24 +1,42 @@
 {
  "date": "2026-11-13",
  "counts": {
-  "podsumowania": 5,
-  "wyniki": 14,
+  "podsumowania": 7,
+  "wyniki": 15,
   "rekomendacje": 0,
-  "korporacyjne": 0,
-  "makro_pl": 4,
-  "swiat_rynki": 2,
-  "energetyka_surowce": 1,
+  "korporacyjne": 2,
+  "makro_pl": 5,
+  "swiat_rynki": 3,
+  "energetyka_surowce": 2,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 6
+  "pozostale": 7
  },
- "duplicatesRemoved": 15,
- "total": 48,
+ "duplicatesRemoved": 17,
+ "total": 59,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "09:18",
+    "kind": "pap",
+    "ticker": null,
+    "title": "WIG20 na otwarciu wyniósł 4284,12 pkt (0,11%)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440718",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "09:16",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA FX/FI: Eurozłoty powinien zakończyć tydzień poniżej tegorocznych maksimów",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/dzien-na-fxfi-eurozloty-powinien-zakonczyc-tydzien-ponizej-tegorocznych",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:39",
     "kind": "news",
@@ -66,6 +84,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "09:22",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MR HAMBURGER SA (13/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440720",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:47",
     "kind": "pap",
@@ -198,8 +225,40 @@
    }
   ],
   "rekomendacje": [],
-  "korporacyjne": [],
+  "korporacyjne": [
+   {
+    "time": "09:15",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa Sanok Rubber podsumowuje trzy kwartały 2026 roku",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/grupa-sanok-rubber-podsumowuje-trzy-kwartaly-2026-roku",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "09:15",
+    "kind": "news",
+    "ticker": null,
+    "title": "Green Lanes rozwija sprzedaż Strumber® i przygotowuje się do zwiększenia skali produkcji. Spółka planuje emisję do 500 tys. akcji serii I",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/green-lanes-rozwija-sprzedaz-strumberr-i-przygotowuje-sie-do-zwiekszenia-skali",
+    "src": "strefainwestorow",
+    "flags": [
+     "emisja"
+    ]
+   }
+  ],
   "makro_pl": [
+   {
+    "time": "09:14",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Inflacja HICP we Francji w X: 3,7 proc. rdr. Wstępnie: 3,8 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440716",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:46",
     "kind": "news",
@@ -239,6 +298,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "08:49",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny ropy w USA zniżkują; niepewność wokół wojny Izraela i USA z Iranem",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/ceny-ropy-w-usa-znizkuja-niepewnosc-wokol-wojny-izraela-i-usa-z-iranem",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "08:38",
     "kind": "news",
     "ticker": null,
@@ -258,6 +326,15 @@
    }
   ],
   "energetyka_surowce": [
+   {
+    "time": "09:15",
+    "kind": "news",
+    "ticker": null,
+    "title": "Pomysły pracowników napędzają rozwój KGHM. Rusza Giełda Wynalazczości 2026",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/pomysly-pracownikow-napedzaja-rozwoj-kghm-rusza-gielda-wynalazczosci-2026",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "07:37",
     "kind": "pap",
@@ -285,6 +362,17 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:21",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Microsoft poinformował o nieznacznym postępie w usuwaniu globalnej awarii",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440719",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "08:25",
     "kind": "espi",

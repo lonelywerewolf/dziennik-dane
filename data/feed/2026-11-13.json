@@ -1,7 +1,123 @@
 {
  "date": "2026-11-13",
- "count": 48,
+ "count": 59,
  "items": [
+  {
+   "id": "bossa-pap-440720",
+   "date": "2026-11-13",
+   "time": "09:22",
+   "ts": "2026-11-13T09:22:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MR HAMBURGER SA (13/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440720"
+  },
+  {
+   "id": "bossa-pap-440719",
+   "date": "2026-11-13",
+   "time": "09:21",
+   "ts": "2026-11-13T09:21:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Microsoft poinformował o nieznacznym postępie w usuwaniu globalnej awarii",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440719"
+  },
+  {
+   "id": "bossa-pap-440718",
+   "date": "2026-11-13",
+   "time": "09:18",
+   "ts": "2026-11-13T09:18:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "WIG20 na otwarciu wyniósł 4284,12 pkt (0,11%)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440718"
+  },
+  {
+   "id": "bossa-pap-440717",
+   "date": "2026-11-13",
+   "time": "09:17",
+   "ts": "2026-11-13T09:17:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA FX/FI: Eurozłoty powinien zakończyć tydzień poniżej tegorocznych maksimów",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440717"
+  },
+  {
+   "id": "strefa-2fc3cc46b121",
+   "date": "2026-11-13",
+   "time": "09:16",
+   "ts": "2026-11-13T09:16:10+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA FX/FI: Eurozłoty powinien zakończyć tydzień poniżej tegorocznych maksimów",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/dzien-na-fxfi-eurozloty-powinien-zakonczyc-tydzien-ponizej-tegorocznych"
+  },
+  {
+   "id": "strefa-fac87b07934a",
+   "date": "2026-11-13",
+   "time": "09:15",
+   "ts": "2026-11-13T09:15:50+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Pomysły pracowników napędzają rozwój KGHM. Rusza Giełda Wynalazczości 2026",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/pomysly-pracownikow-napedzaja-rozwoj-kghm-rusza-gielda-wynalazczosci-2026"
+  },
+  {
+   "id": "strefa-8edc85ad4a07",
+   "date": "2026-11-13",
+   "time": "09:15",
+   "ts": "2026-11-13T09:15:05+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grupa Sanok Rubber podsumowuje trzy kwartały 2026 roku",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/grupa-sanok-rubber-podsumowuje-trzy-kwartaly-2026-roku"
+  },
+  {
+   "id": "strefa-429ca0bdff32",
+   "date": "2026-11-13",
+   "time": "09:15",
+   "ts": "2026-11-13T09:15:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Green Lanes rozwija sprzedaż Strumber® i przygotowuje się do zwiększenia skali produkcji. Spółka planuje emisję do 500 tys. akcji serii I",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/green-lanes-rozwija-sprzedaz-strumberr-i-przygotowuje-sie-do-zwiekszenia-skali"
+  },
+  {
+   "id": "bossa-pap-440716",
+   "date": "2026-11-13",
+   "time": "09:14",
+   "ts": "2026-11-13T09:14:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Inflacja HICP we Francji w X: 3,7 proc. rdr. Wstępnie: 3,8 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440716"
+  },
+  {
+   "id": "bossa-pap-440715",
+   "date": "2026-11-13",
+   "time": "09:14",
+   "ts": "2026-11-13T09:14:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ceny ropy w USA zniżkują; niepewność wokół wojny Izraela i USA z Iranem",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440715"
+  },
   {
    "id": "bossa-pap-440714",
    "date": "2026-11-13",
@@ -13,6 +129,17 @@
    "title": "ORZEŁ SA (9/2026) Raport kwartalny za III kwartał",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440714"
+  },
+  {
+   "id": "strefa-ff46c7491ee3",
+   "date": "2026-11-13",
+   "time": "08:49",
+   "ts": "2026-11-13T08:49:49+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ceny ropy w USA zniżkują; niepewność wokół wojny Izraela i USA z Iranem",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/ceny-ropy-w-usa-znizkuja-niepewnosc-wokol-wojny-izraela-i-usa-z-iranem"
   },
   {
    "id": "bossa-pap-440713",
