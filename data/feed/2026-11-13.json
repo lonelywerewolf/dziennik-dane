@@ -1,7 +1,54 @@
 {
  "date": "2026-11-13",
- "count": 337,
+ "count": 342,
  "items": [
+  {
+   "id": "bossa-pap-440947",
+   "date": "2026-11-13",
+   "time": "19:30",
+   "ts": "2026-11-13T19:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Odsetek \"byków\" na GPW wzrósł do 49,1 proc., spadków oczekuje 22,8 proc. - INI",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440947"
+  },
+  {
+   "id": "strefa-4ecfbad75e43",
+   "date": "2026-11-13",
+   "time": "19:27",
+   "ts": "2026-11-13T19:27:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Odsetek \"byków\" na GPW wzrósł do 49,1 proc., spadków oczekuje 22,8 proc. - INI",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/odsetek-bykow-na-gpw-wzrosl-do-491-proc-spadkow-oczekuje-228-proc-ini"
+  },
+  {
+   "id": "bossa-pap-440945",
+   "date": "2026-11-13",
+   "time": "19:20",
+   "ts": "2026-11-13T19:20:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Obniżenie perspektywy ratingu Polski bez wpływu na nastroje, ale inflacja w USA zmieniła globalny sentyment - Michael/Ström DM",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440945"
+  },
+  {
+   "id": "bossa-espi-71726",
+   "date": "2026-11-13",
+   "time": "19:20",
+   "ts": "2026-11-13T19:20:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Frozen Way S.A.",
+   "title": "Ustalenie nowej daty premiery „House Flipper 2 - Pets DLC”",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71726"
+  },
   {
    "id": "bossa-espi-71725",
    "date": "2026-11-13",
@@ -37,6 +84,17 @@
    "title": "Powołanie Członka Zarządu Spółki",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-71723"
+  },
+  {
+   "id": "strefa-accc306024ee",
+   "date": "2026-11-13",
+   "time": "19:04",
+   "ts": "2026-11-13T19:04:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Obniżenie perspektywy ratingu Polski bez wpływu na nastroje, ale inflacja w USA zmieniła globalny sentyment - Michael/Ström DM",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/obnizenie-perspektywy-ratingu-polski-bez-wplywu-na-nastroje-ale-inflacja-w-usa"
   },
   {
    "id": "bossa-espi-71722",

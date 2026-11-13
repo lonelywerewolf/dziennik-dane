@@ -5,17 +5,17 @@
   "wyniki": 70,
   "rekomendacje": 2,
   "korporacyjne": 41,
-  "makro_pl": 25,
+  "makro_pl": 26,
   "swiat_rynki": 10,
-  "energetyka_surowce": 8,
+  "energetyka_surowce": 9,
   "nieruchomosci": 3,
   "fundusze_drobne": 9,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 43
+  "pozostale": 44
  },
- "duplicatesRemoved": 109,
- "total": 337,
+ "duplicatesRemoved": 111,
+ "total": 342,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1279,6 +1279,15 @@
   ],
   "makro_pl": [
    {
+    "time": "19:04",
+    "kind": "news",
+    "ticker": null,
+    "title": "Obniżenie perspektywy ratingu Polski bez wpływu na nastroje, ale inflacja w USA zmieniła globalny sentyment - Michael/Ström DM",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/obnizenie-perspektywy-ratingu-polski-bez-wplywu-na-nastroje-ale-inflacja-w-usa",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "18:34",
     "kind": "pap",
     "ticker": null,
@@ -1598,6 +1607,15 @@
   ],
   "energetyka_surowce": [
    {
+    "time": "19:20",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Frozen Way S.A.: Ustalenie nowej daty premiery „House Flipper 2 - Pets DLC”",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71726",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "16:49",
     "kind": "espi",
     "ticker": null,
@@ -1797,6 +1815,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "19:27",
+    "kind": "news",
+    "ticker": null,
+    "title": "Odsetek \"byków\" na GPW wzrósł do 49,1 proc., spadków oczekuje 22,8 proc. - INI",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/odsetek-bykow-na-gpw-wzrosl-do-491-proc-spadkow-oczekuje-228-proc-ini",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "19:16",
     "kind": "pap",
