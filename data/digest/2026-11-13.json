@@ -2,7 +2,7 @@
  "date": "2026-11-13",
  "counts": {
   "podsumowania": 4,
-  "wyniki": 1,
+  "wyniki": 3,
   "rekomendacje": 0,
   "korporacyjne": 0,
   "makro_pl": 1,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 2
  },
- "duplicatesRemoved": 1,
- "total": 9,
+ "duplicatesRemoved": 2,
+ "total": 12,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -57,6 +57,24 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "06:43",
+    "kind": "pap",
+    "ticker": null,
+    "title": "AKCEPT FINANCE SA (10/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440691",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "06:36",
+    "kind": "pap",
+    "ticker": null,
+    "title": "CENTORO SA (19/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440690",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "06:25",
     "kind": "pap",
