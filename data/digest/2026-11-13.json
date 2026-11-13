@@ -2,7 +2,7 @@
  "date": "2026-11-13",
  "counts": {
   "podsumowania": 16,
-  "wyniki": 73,
+  "wyniki": 74,
   "rekomendacje": 2,
   "korporacyjne": 41,
   "makro_pl": 26,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 9,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 44
+  "pozostale": 45
  },
  "duplicatesRemoved": 115,
- "total": 349,
+ "total": 351,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -171,6 +171,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "20:24",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MENNICA SKARBOWA SA (8/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440956",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "20:10",
     "kind": "pap",
@@ -1842,6 +1851,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "20:20",
+    "kind": "espi",
+    "ticker": null,
+    "title": "CREOTECH INSTRUMENTS S.A.: Przekazanie Centrum Kontroli Misji w ramach realizacji projektu Mikroglob",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71734",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "19:27",
     "kind": "news",
