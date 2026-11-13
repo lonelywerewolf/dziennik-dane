@@ -1,24 +1,35 @@
 {
  "date": "2026-11-13",
  "counts": {
-  "podsumowania": 8,
+  "podsumowania": 9,
   "wyniki": 25,
   "rekomendacje": 0,
   "korporacyjne": 6,
-  "makro_pl": 15,
+  "makro_pl": 17,
   "swiat_rynki": 3,
   "energetyka_surowce": 5,
   "nieruchomosci": 1,
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 17
+  "pozostale": 18
  },
- "duplicatesRemoved": 32,
- "total": 113,
+ "duplicatesRemoved": 35,
+ "total": 120,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "11:47",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Indeksy w Europie na plusach; kontrakty w USA głównie rosną",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/dzien-na-rynkach-indeksy-w-europie-na-plusach-kontrakty-w-usa-glownie-rosna",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "09:18",
     "kind": "news",
@@ -399,6 +410,24 @@
   ],
   "makro_pl": [
    {
+    "time": "11:55",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ART GAMES STUDIO SA (16/2026) Informacje o walnym zgromadzeniu - zwołanie WZ z projektami uchwał, zmiany w porządku obrad WZ",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440763",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:52",
+    "kind": "news",
+    "ticker": null,
+    "title": "Tabela kursów średnich NBP nr 221/A/NBP/2026",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/tabela-kursow-srednich-nbp-nr-221anbp2026",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "11:07",
     "kind": "pap",
     "ticker": null,
@@ -671,6 +700,15 @@
     "title": "Wskaźniki referencyjne - EURIBOR",
     "url": "https://bossa.pl/analizy/komunikaty#message-440750",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:05",
+    "kind": "news",
+    "ticker": null,
+    "title": "Sanok RC nie spieszy się z akwizycjami, czekając na lepsze wyceny; syt. w automotive pozostanie trudna",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/sanok-rc-nie-spieszy-sie-z-akwizycjami-czekajac-na-lepsze-wyceny-syt-w",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
