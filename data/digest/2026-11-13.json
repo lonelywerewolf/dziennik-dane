@@ -4,18 +4,18 @@
   "podsumowania": 16,
   "wyniki": 77,
   "rekomendacje": 2,
-  "korporacyjne": 41,
+  "korporacyjne": 42,
   "makro_pl": 26,
   "swiat_rynki": 10,
   "energetyka_surowce": 9,
   "nieruchomosci": 3,
   "fundusze_drobne": 9,
-  "twoje_spolki": 1,
+  "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 48
+  "pozostale": 49
  },
- "duplicatesRemoved": 121,
- "total": 363,
+ "duplicatesRemoved": 122,
+ "total": 367,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -905,6 +905,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "22:11",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SYNTHAVERSE SA: Zawarcie umowy dotyczącej dokapitalizowania Synthaverse S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71744",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "19:06",
     "kind": "espi",
@@ -1865,6 +1876,15 @@
   ],
   "twoje_spolki": [
    {
+    "time": "21:02",
+    "kind": "news",
+    "ticker": "NVDA",
+    "title": "DZIEŃ NA RYNKACH: Przewaga spadków na Wall Street, w centrum uwagi Nvidia i dane PPI",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/dzien-na-rynkach-przewaga-spadkow-na-wall-street-w-centrum-uwagi-nvidia-i-dane",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "08:30",
     "kind": "news",
     "ticker": "NVDA",
@@ -1878,6 +1898,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "22:12",
+    "kind": "pap",
+    "ticker": null,
+    "title": "W październiku na Lotnisku Chopina odprawiono ponad 2,3 mln pasażerów",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440970",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "21:37",
     "kind": "pap",

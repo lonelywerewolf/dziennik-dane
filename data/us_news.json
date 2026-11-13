@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "9aac3b95bcbd",
+   "ticker": "NVDA",
+   "time": "2026-11-13T21:35+01:00",
+   "title": "1 Wall Street Analyst Says Nvidia Will Double From Here. Are They Right?",
+   "url": "https://www.nasdaq.com/articles/1-wall-street-analyst-says-nvidia-will-double-here-are-they-right",
+   "src": "nasdaq",
+   "summary": "Key PointsTwo Wall Street analysts just gave price targets of $300 on Nvidia, implying the stock could nearly double in the next year."
+  },
+  {
    "id": "294468068422",
    "ticker": "MRVL",
    "time": "2026-11-13T21:24+01:00",
@@ -26,6 +35,15 @@
    "url": "https://www.nasdaq.com/articles/wall-street-writing-nvidia-stock-heres-why-thats-mistake",
    "src": "nasdaq",
    "summary": "Key PointsAnalysts still largely rate Nvidia stock a \"buy.\""
+  },
+  {
+   "id": "fc3e359e5249",
+   "ticker": "NVDA",
+   "time": "2026-11-13T20:05+01:00",
+   "title": "Boardroom Drama Ahead of NVIDIA's Q3 Earnings: Buy or Sell the Stock?",
+   "url": "https://www.nasdaq.com/articles/boardroom-drama-ahead-nvidias-q3-earnings-buy-or-sell-stock",
+   "src": "nasdaq",
+   "summary": "NVDA heads into Nov. 17 earnings with $108 billion revenue guidance and strong AI demand, while leadership uncertainty creates a potential buying opportunity."
   },
   {
    "id": "121903893da5",
@@ -12988,5 +13006,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-13T22:05:24+01:00"
+ "updatedAt": "2026-11-13T22:16:24+01:00"
 }
