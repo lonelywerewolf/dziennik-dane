@@ -1,7 +1,67 @@
 {
  "date": "2026-11-13",
- "count": 170,
+ "count": 175,
  "items": [
+  {
+   "id": "bossa-pap-440810",
+   "date": "2026-11-13",
+   "time": "14:42",
+   "ts": "2026-11-13T14:42:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Doland Tusk proponuje założenie wiądacych instytutuów badawczych AI w Europie",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440810"
+  },
+  {
+   "id": "bossa-pap-440809",
+   "date": "2026-11-13",
+   "time": "14:39",
+   "ts": "2026-11-13T14:39:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "BGK sprzedał obligacje FPC na aukcji dodatkowej za 218,9 mln zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440809"
+  },
+  {
+   "id": "bossa-pap-440808",
+   "date": "2026-11-13",
+   "time": "14:38",
+   "ts": "2026-11-13T14:38:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PPI w USA w X: +6,5 proc. rdr. Konsensus: +6,6 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440808"
+  },
+  {
+   "id": "bossa-espi-71645",
+   "date": "2026-11-13",
+   "time": "14:33",
+   "ts": "2026-11-13T14:33:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "TELESTRADA S.A.",
+   "title": "Zawiadomienie o otrzymaniu od osoby pełniącej obowiązki zarządcze notyfikacji o transakcjach w trybie art. 19 ust. 1 rozporządzenia MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71645"
+  },
+  {
+   "id": "bossa-pap-440806",
+   "date": "2026-11-13",
+   "time": "14:32",
+   "ts": "2026-11-13T14:32:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KPRP: Wizyta robocza Prezydent Republiki Estońskiej w Polsce – program prasowy (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440806"
+  },
   {
    "id": "bossa-espi-71644",
    "date": "2026-11-13",

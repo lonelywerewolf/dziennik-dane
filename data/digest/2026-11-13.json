@@ -4,18 +4,18 @@
   "podsumowania": 9,
   "wyniki": 38,
   "rekomendacje": 0,
-  "korporacyjne": 21,
-  "makro_pl": 19,
-  "swiat_rynki": 3,
+  "korporacyjne": 22,
+  "makro_pl": 20,
+  "swiat_rynki": 4,
   "energetyka_surowce": 6,
   "nieruchomosci": 2,
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 26
+  "pozostale": 28
  },
  "duplicatesRemoved": 45,
- "total": 170,
+ "total": 175,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -461,6 +461,18 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "14:33",
+    "kind": "espi",
+    "ticker": null,
+    "title": "TELESTRADA S.A.: Zawiadomienie o otrzymaniu od osoby pełniącej obowiązki zarządcze notyfikacji o transakcjach w trybie art. 19 ust. 1 rozporządzenia MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71645",
+    "src": "bossa",
+    "flags": [
+     "zarząd",
+     "insider"
+    ]
+   },
+   {
     "time": "14:31",
     "kind": "espi",
     "ticker": null,
@@ -686,6 +698,15 @@
   ],
   "makro_pl": [
    {
+    "time": "14:39",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BGK sprzedał obligacje FPC na aukcji dodatkowej za 218,9 mln zł",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440809",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "14:05",
     "kind": "pap",
     "ticker": null,
@@ -859,6 +880,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "14:38",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PPI w USA w X: +6,5 proc. rdr. Konsensus: +6,6 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440808",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "08:49",
     "kind": "news",
     "ticker": null,
@@ -978,6 +1008,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "14:42",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Doland Tusk proponuje założenie wiądacych instytutuów badawczych AI w Europie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440810",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KPRP: Wizyta robocza Prezydent Republiki Estońskiej w Polsce – program prasowy (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440806",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:30",
     "kind": "pap",
