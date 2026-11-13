@@ -9,13 +9,13 @@
   "swiat_rynki": 7,
   "energetyka_surowce": 6,
   "nieruchomosci": 2,
-  "fundusze_drobne": 0,
+  "fundusze_drobne": 1,
   "twoje_spolki": 1,
   "obserwowane": 0,
   "pozostale": 31
  },
- "duplicatesRemoved": 68,
- "total": 219,
+ "duplicatesRemoved": 70,
+ "total": 222,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1164,7 +1164,17 @@
     "flags": []
    }
   ],
-  "fundusze_drobne": [],
+  "fundusze_drobne": [
+   {
+    "time": "16:19",
+    "kind": "pap",
+    "ticker": null,
+    "title": "UNIQA OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440845",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "twoje_spolki": [
    {
     "time": "08:30",
