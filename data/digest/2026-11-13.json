@@ -1,24 +1,33 @@
 {
  "date": "2026-11-13",
  "counts": {
-  "podsumowania": 15,
-  "wyniki": 65,
+  "podsumowania": 16,
+  "wyniki": 66,
   "rekomendacje": 0,
   "korporacyjne": 37,
-  "makro_pl": 24,
+  "makro_pl": 25,
   "swiat_rynki": 9,
   "energetyka_surowce": 8,
   "nieruchomosci": 3,
   "fundusze_drobne": 6,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 41
+  "pozostale": 42
  },
- "duplicatesRemoved": 99,
- "total": 308,
+ "duplicatesRemoved": 101,
+ "total": 314,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "18:22",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Indeksy w Europie zniżkowały, ale pozostają blisko rekordowych poziomów",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/dzien-na-rynkach-indeksy-w-europie-znizkowaly-ale-pozostaja-blisko-rekordowych",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:33",
     "kind": "pap",
@@ -162,6 +171,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "18:28",
+    "kind": "news",
+    "ticker": null,
+    "title": "PGE szacuje zysk netto j.d. w III kw. '26 na 3 mld zł, powyżej oczekiwań (opis)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/pge-szacuje-zysk-netto-jd-w-iii-kw-26-na-3-mld-zl-powyzej-oczekiwan-opis",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "18:16",
     "kind": "pap",
@@ -1162,6 +1180,15 @@
   ],
   "makro_pl": [
    {
+    "time": "18:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MC: Bezpieczniejszy internet zablokowany. Prezydent zawetował ustawę o DSA (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440924",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "17:17",
     "kind": "pap",
     "ticker": null,
@@ -1635,6 +1662,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "18:34",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KERNEL HOLDING S.A.: KERNEL ANNOUNCES DATE FOR Q1 FY2027 RESULTS PUBLICATION",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71714",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:03",
     "kind": "pap",

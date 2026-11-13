@@ -1,7 +1,66 @@
 {
  "date": "2026-11-13",
- "count": 308,
+ "count": 314,
  "items": [
+  {
+   "id": "bossa-pap-440924",
+   "date": "2026-11-13",
+   "time": "18:34",
+   "ts": "2026-11-13T18:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MC: Bezpieczniejszy internet zablokowany. Prezydent zawetował ustawę o DSA (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440924"
+  },
+  {
+   "id": "bossa-espi-71714",
+   "date": "2026-11-13",
+   "time": "18:34",
+   "ts": "2026-11-13T18:34:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KERNEL HOLDING S.A.",
+   "title": "KERNEL ANNOUNCES DATE FOR Q1 FY2027 RESULTS PUBLICATION",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71714"
+  },
+  {
+   "id": "bossa-pap-440922",
+   "date": "2026-11-13",
+   "time": "18:29",
+   "ts": "2026-11-13T18:29:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PGE szacuje zysk netto j.d. w III kw. '26 na 3 mld zł, powyżej oczekiwań (opis)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440922"
+  },
+  {
+   "id": "strefa-361dcec03ac8",
+   "date": "2026-11-13",
+   "time": "18:28",
+   "ts": "2026-11-13T18:28:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "PGE szacuje zysk netto j.d. w III kw. '26 na 3 mld zł, powyżej oczekiwań (opis)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/pge-szacuje-zysk-netto-jd-w-iii-kw-26-na-3-mld-zl-powyzej-oczekiwan-opis"
+  },
+  {
+   "id": "bossa-pap-440921",
+   "date": "2026-11-13",
+   "time": "18:27",
+   "ts": "2026-11-13T18:27:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Indeksy w Europie zniżkowały, ale pozostają blisko rekordowych poziomów",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440921"
+  },
   {
    "id": "bossa-pap-440920",
    "date": "2026-11-13",
@@ -13,6 +72,17 @@
    "title": "Nationale-Nederlanden PTE SA informuje",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440920"
+  },
+  {
+   "id": "strefa-fb42b97e6701",
+   "date": "2026-11-13",
+   "time": "18:22",
+   "ts": "2026-11-13T18:22:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Indeksy w Europie zniżkowały, ale pozostają blisko rekordowych poziomów",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/dzien-na-rynkach-indeksy-w-europie-znizkowaly-ale-pozostaja-blisko-rekordowych"
   },
   {
    "id": "bossa-pap-440919",
