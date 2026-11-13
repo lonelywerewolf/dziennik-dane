@@ -4,7 +4,7 @@
   "podsumowania": 10,
   "wyniki": 40,
   "rekomendacje": 0,
-  "korporacyjne": 23,
+  "korporacyjne": 25,
   "makro_pl": 21,
   "swiat_rynki": 4,
   "energetyka_surowce": 6,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 29
+  "pozostale": 31
  },
- "duplicatesRemoved": 53,
- "total": 189,
+ "duplicatesRemoved": 57,
+ "total": 197,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -489,6 +489,28 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "15:07",
+    "kind": "news",
+    "ticker": null,
+    "title": "ONDE z kontraktami na budowę dwóch farm wiatrowych na Litwie o wartości 17,8 mln EUR",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/onde-z-kontraktami-na-budowe-dwoch-farm-wiatrowych-na-litwie-o-wartosci-178-mln",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "15:05",
+    "kind": "news",
+    "ticker": null,
+    "title": "Onde ma umowę z litewską spółką o łącznej wartości 17,8 mln euro netto",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/onde-ma-umowe-z-litewska-spolka-o-lacznej-wartosci-178-mln-euro-netto",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "15:04",
     "kind": "pap",
@@ -1058,6 +1080,33 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "15:10",
+    "kind": "news",
+    "ticker": null,
+    "title": "Sąd Najwyższy Norwegii orzekł, iż podstawy prawne eksploatacji na części norweskiego szelfu są nieważne",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/sad-najwyzszy-norwegii-orzekl-iz-podstawy-prawne-eksploatacji-na-czesci",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "15:08",
+    "kind": "news",
+    "ticker": null,
+    "title": "Cena maksymalna dla benzyny Pb95 w dn. 14-16 listopada wyniesie 6,02 zł/l, dla ON 7,52 zł/l",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/cena-maksymalna-dla-benzyny-pb95-w-dn-14-16-listopada-wyniesie-602-zll-dla-752",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "15:08",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GALVO SA (22/2026) Inne informacje",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440823",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "15:04",
     "kind": "news",
     "ticker": null,
@@ -1067,12 +1116,12 @@
     "flags": []
    },
    {
-    "time": "14:42",
-    "kind": "pap",
+    "time": "15:04",
+    "kind": "news",
     "ticker": null,
     "title": "Doland Tusk proponuje założenie wiądacych instytutuów badawczych AI w Europie",
-    "url": "https://bossa.pl/analizy/komunikaty#message-440810",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/doland-tusk-proponuje-zalozenie-wiadacych-instytutuow-badawczych-ai-w-europie",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -1135,15 +1184,6 @@
     "ticker": null,
     "title": "Indeksy transakcyjne - WIRON",
     "url": "https://bossa.pl/analizy/komunikaty#message-440777",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "12:17",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Cena maksymalna dla benzyny Pb95 w dn. 14-16 listopada wyniesie 6,02 zł/l, dla ON 7,52 zł/l",
-    "url": "https://bossa.pl/analizy/komunikaty#message-440769",
     "src": "bossa",
     "flags": []
    },
