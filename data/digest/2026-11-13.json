@@ -2,20 +2,20 @@
  "date": "2026-11-13",
  "counts": {
   "podsumowania": 15,
-  "wyniki": 57,
+  "wyniki": 61,
   "rekomendacje": 0,
-  "korporacyjne": 35,
+  "korporacyjne": 36,
   "makro_pl": 24,
   "swiat_rynki": 9,
   "energetyka_surowce": 8,
   "nieruchomosci": 3,
-  "fundusze_drobne": 2,
+  "fundusze_drobne": 3,
   "twoje_spolki": 1,
   "obserwowane": 0,
   "pozostale": 38
  },
- "duplicatesRemoved": 92,
- "total": 284,
+ "duplicatesRemoved": 94,
+ "total": 292,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -163,12 +163,50 @@
   ],
   "wyniki": [
    {
+    "time": "17:45",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PLATIGE IMAGE SA (25/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440906",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:42",
+    "kind": "pap",
+    "ticker": null,
+    "title": "FOTO VOLT EKO ENERGIA SA (9/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440903",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:39",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wyniki Cognor Holding w III kw. 2026 roku vs. konsensus PAP (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/wyniki-cognor-holding-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
     "time": "17:37",
     "kind": "pap",
     "ticker": null,
     "title": "CONSOLE LABS SA (9/2026) Raport kwartalny za III kwartał",
     "url": "https://bossa.pl/analizy/komunikaty#message-440901",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:35",
+    "kind": "news",
+    "ticker": null,
+    "title": "Play2Chill po trzech kwartałach 2026 r. z przychodami wyższymi o prawie 25%. Dwie premiery w portfolio grupy",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/play2chill-po-trzech-kwartalach-2026-r-z-przychodami-wyzszymi-o-prawie-25-dwie",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -691,6 +729,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "17:43",
+    "kind": "espi",
+    "ticker": null,
+    "title": "E-XIM IT S.A.: Otrzymanie zawiadomień w trybie art. 69 ust. 1 i 2 ustawy o ofercie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71706",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "17:30",
     "kind": "espi",
@@ -1467,6 +1516,15 @@
    }
   ],
   "fundusze_drobne": [
+   {
+    "time": "17:48",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ALLIANZ POLSKA OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440907",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:27",
     "kind": "pap",

@@ -1,7 +1,90 @@
 {
  "date": "2026-11-13",
- "count": 284,
+ "count": 292,
  "items": [
+  {
+   "id": "bossa-pap-440907",
+   "date": "2026-11-13",
+   "time": "17:48",
+   "ts": "2026-11-13T17:48:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "ALLIANZ POLSKA OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440907"
+  },
+  {
+   "id": "bossa-pap-440906",
+   "date": "2026-11-13",
+   "time": "17:45",
+   "ts": "2026-11-13T17:45:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PLATIGE IMAGE SA (25/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440906"
+  },
+  {
+   "id": "bossa-espi-71707",
+   "date": "2026-11-13",
+   "time": "17:44",
+   "ts": "2026-11-13T17:44:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "COGNOR HOLDING S.A.",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71707"
+  },
+  {
+   "id": "bossa-espi-71706",
+   "date": "2026-11-13",
+   "time": "17:43",
+   "ts": "2026-11-13T17:43:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "E-XIM IT S.A.",
+   "title": "Otrzymanie zawiadomień w trybie art. 69 ust. 1 i 2 ustawy o ofercie",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71706"
+  },
+  {
+   "id": "bossa-pap-440903",
+   "date": "2026-11-13",
+   "time": "17:42",
+   "ts": "2026-11-13T17:42:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "FOTO VOLT EKO ENERGIA SA (9/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440903"
+  },
+  {
+   "id": "strefa-dd29c8e6f255",
+   "date": "2026-11-13",
+   "time": "17:39",
+   "ts": "2026-11-13T17:39:44+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wyniki Cognor Holding w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/wyniki-cognor-holding-w-iii-kw-2026-roku-vs-konsensus-pap-tabela"
+  },
+  {
+   "id": "bossa-espi-71704",
+   "date": "2026-11-13",
+   "time": "17:39",
+   "ts": "2026-11-13T17:39:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "IPOPEMA SECURITIES S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71704"
+  },
   {
    "id": "bossa-pap-440901",
    "date": "2026-11-13",
@@ -25,6 +108,17 @@
    "title": "Zawarcie umowy na dostawę i montaż kompensatora mocy biernej dla sektora publicznego",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-71702"
+  },
+  {
+   "id": "strefa-23d976abcc1e",
+   "date": "2026-11-13",
+   "time": "17:35",
+   "ts": "2026-11-13T17:35:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Play2Chill po trzech kwartałach 2026 r. z przychodami wyższymi o prawie 25%. Dwie premiery w portfolio grupy",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/play2chill-po-trzech-kwartalach-2026-r-z-przychodami-wyzszymi-o-prawie-25-dwie"
   },
   {
    "id": "bossa-pap-440899",
