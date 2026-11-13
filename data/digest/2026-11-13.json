@@ -8,14 +8,14 @@
   "makro_pl": 15,
   "swiat_rynki": 3,
   "energetyka_surowce": 5,
-  "nieruchomosci": 0,
+  "nieruchomosci": 1,
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 15
+  "pozostale": 16
  },
  "duplicatesRemoved": 32,
- "total": 107,
+ "total": 109,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -581,7 +581,17 @@
     "flags": []
    }
   ],
-  "nieruchomosci": [],
+  "nieruchomosci": [
+   {
+    "time": "11:31",
+    "kind": "espi",
+    "ticker": null,
+    "title": "NOWA DEWELOPER Sp. z o.o.: Przedwczesna spłata kredytu deweloperskiego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71609",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "fundusze_drobne": [],
   "twoje_spolki": [
    {
@@ -598,6 +608,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:26",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Thorium Space S.A.: Pozytywne przeprowadzenie testów poligonowych w ramach projektu SUBCOM",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71608",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:20",
     "kind": "espi",

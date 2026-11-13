@@ -1,7 +1,31 @@
 {
  "date": "2026-11-13",
- "count": 107,
+ "count": 109,
  "items": [
+  {
+   "id": "bossa-espi-71609",
+   "date": "2026-11-13",
+   "time": "11:31",
+   "ts": "2026-11-13T11:31:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "NOWA DEWELOPER Sp. z o.o.",
+   "title": "Przedwczesna spłata kredytu deweloperskiego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71609"
+  },
+  {
+   "id": "bossa-espi-71608",
+   "date": "2026-11-13",
+   "time": "11:26",
+   "ts": "2026-11-13T11:26:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Thorium Space S.A.",
+   "title": "Pozytywne przeprowadzenie testów poligonowych w ramach projektu SUBCOM",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71608"
+  },
   {
    "id": "bossa-espi-71607",
    "date": "2026-11-13",
