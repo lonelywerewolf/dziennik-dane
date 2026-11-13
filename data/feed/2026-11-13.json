@@ -1,7 +1,43 @@
 {
  "date": "2026-11-13",
- "count": 25,
+ "count": 28,
  "items": [
+  {
+   "id": "bossa-pap-440703",
+   "date": "2026-11-13",
+   "time": "08:15",
+   "ts": "2026-11-13T08:15:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "HORTICO SA (15/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440703"
+  },
+  {
+   "id": "bossa-pap-440702",
+   "date": "2026-11-13",
+   "time": "08:11",
+   "ts": "2026-11-13T08:11:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "LIFTERO/Liftero Spółka Akcyjna (11/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440702"
+  },
+  {
+   "id": "bossa-pap-440701",
+   "date": "2026-11-13",
+   "time": "08:10",
+   "ts": "2026-11-13T08:10:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "POLTRONIC SA (8/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440701"
+  },
   {
    "id": "bossa-espi-71581",
    "date": "2026-11-13",
