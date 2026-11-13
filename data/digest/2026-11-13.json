@@ -2,7 +2,7 @@
  "date": "2026-11-13",
  "counts": {
   "podsumowania": 16,
-  "wyniki": 79,
+  "wyniki": 81,
   "rekomendacje": 2,
   "korporacyjne": 42,
   "makro_pl": 26,
@@ -15,7 +15,7 @@
   "pozostale": 51
  },
  "duplicatesRemoved": 123,
- "total": 372,
+ "total": 374,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -171,6 +171,24 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "22:58",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PRIME ASI SA (38/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440977",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "22:53",
+    "kind": "pap",
+    "ticker": null,
+    "title": "DI VOLIO SA (14/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440976",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "22:41",
     "kind": "pap",
