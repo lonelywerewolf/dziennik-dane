@@ -1,6 +1,21 @@
 {
  "items": [
   {
+   "date": "2026-11-13",
+   "company": "CREEPYJAR (CRJ)",
+   "code": "CRJ",
+   "name": "CREEPYJAR",
+   "isin": "PLCRPJR00019",
+   "rating": "Kupuj",
+   "price": "369",
+   "target": "506",
+   "upside": "37.127371273713",
+   "priceAtPub": "369",
+   "house": "DM BOŚ",
+   "report": "https://strefainwestorow.pl/sites/default/files/attachments/55514829_14079607_55514829_threat_extracted_Creepy_Jar_31_FU_85_2026_DM_BOŚ_PL_disclaimer.pdf",
+   "ticker": null
+  },
+  {
    "date": "2026-11-12",
    "company": "AMICA (AMC)",
    "code": "AMC",
@@ -4351,5 +4366,5 @@
    "ticker": "XTB"
   }
  ],
- "updatedAt": "2026-11-13T18:36:24+01:00"
+ "updatedAt": "2026-11-13T18:47:24+01:00"
 }

@@ -2,20 +2,20 @@
  "date": "2026-11-13",
  "counts": {
   "podsumowania": 16,
-  "wyniki": 66,
-  "rekomendacje": 0,
+  "wyniki": 68,
+  "rekomendacje": 1,
   "korporacyjne": 37,
   "makro_pl": 25,
   "swiat_rynki": 9,
   "energetyka_surowce": 8,
   "nieruchomosci": 3,
-  "fundusze_drobne": 6,
+  "fundusze_drobne": 7,
   "twoje_spolki": 1,
   "obserwowane": 0,
   "pozostale": 42
  },
- "duplicatesRemoved": 101,
- "total": 314,
+ "duplicatesRemoved": 103,
+ "total": 320,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -171,6 +171,24 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "18:45",
+    "kind": "pap",
+    "ticker": null,
+    "title": "TELEMEDYCYNA POLSKA SA (19/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440929",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "18:45",
+    "kind": "pap",
+    "ticker": null,
+    "title": "INTERNITY SA (15/2026) Skonsolidowany raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440928",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:28",
     "kind": "news",
@@ -785,7 +803,17 @@
     "flags": []
    }
   ],
-  "rekomendacje": [],
+  "rekomendacje": [
+   {
+    "time": "18:30",
+    "kind": "news",
+    "ticker": null,
+    "title": "DM BOŚ obniżył cenę docelową akcji Creepy Jar do 506 zł, podtrzymał rekomendację \"kupuj\"",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/dm-bos-obnizyl-cene-docelowa-akcji-creepy-jar-do-506-zl-podtrzymal-rekomendacje",
+    "src": "strefainwestorow",
+    "flags": []
+   }
+  ],
   "korporacyjne": [
    {
     "time": "18:12",
@@ -1592,6 +1620,15 @@
    }
   ],
   "fundusze_drobne": [
+   {
+    "time": "18:40",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GENERALI OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440926",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:23",
     "kind": "pap",
