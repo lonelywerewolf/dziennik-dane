@@ -1,7 +1,55 @@
 {
  "date": "2026-11-13",
- "count": 238,
+ "count": 243,
  "items": [
+  {
+   "id": "bossa-pap-440863",
+   "date": "2026-11-13",
+   "time": "16:53",
+   "ts": "2026-11-13T16:53:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Prezydent zawetował ustawę dot. blokowania nielegalnych treści w internecie; miała wdrożyć DSA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440863"
+  },
+  {
+   "id": "bossa-espi-71679",
+   "date": "2026-11-13",
+   "time": "16:52",
+   "ts": "2026-11-13T16:52:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF WIG20TR PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 230 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71679"
+  },
+  {
+   "id": "bossa-pap-440861",
+   "date": "2026-11-13",
+   "time": "16:50",
+   "ts": "2026-11-13T16:50:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: w piątek polska giełda wśród liderów wzrostów w Europie",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440861"
+  },
+  {
+   "id": "bossa-espi-71678",
+   "date": "2026-11-13",
+   "time": "16:49",
+   "ts": "2026-11-13T16:49:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PHOTON ENERGY N.V.",
+   "title": "Monthly Report for October 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71678"
+  },
   {
    "id": "bossa-pap-440859",
    "date": "2026-11-13",
@@ -13,6 +61,17 @@
    "title": "ONE2TRIBE SA (10/2026) Skonsolidowany raport kwartalny za III kwartał",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440859"
+  },
+  {
+   "id": "strefa-22c9b2386356",
+   "date": "2026-11-13",
+   "time": "16:40",
+   "ts": "2026-11-13T16:40:08+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: w piątek polska giełda wśród liderów wzrostów w Europie",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/dzien-na-gpw-w-piatek-polska-gielda-wsrod-liderow-wzrostow-w-europie"
   },
   {
    "id": "bossa-espi-71676",
