@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "35cb896cebaf",
+   "ticker": "MRVL",
+   "time": "2026-11-13T17:53+01:00",
+   "title": "Stocks Pressured by Rising Bond Yields",
+   "url": "https://www.nasdaq.com/articles/stocks-pressured-rising-bond-yields-2",
+   "src": "nasdaq",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is down -0.22% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.07%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.77%.  December E-mini S&P futures (ESZ26 ) are down -0.24%, and December E-mini Nasdaq futures..."
+  },
+  {
    "id": "dbcb67cb4cbf",
    "ticker": "NVDA",
    "time": "2026-11-13T16:42+01:00",
@@ -26,6 +35,24 @@
    "url": "https://www.nasdaq.com/articles/tsmcs-terrific-growth-clearly-shows-chip-sell-overdone-here-are-best-stocks-buy-hand-over",
    "src": "nasdaq",
    "summary": "Key PointsTSMC's October sales surged nicely, and its growth rate has improved in recent months."
+  },
+  {
+   "id": "0a19e670866f",
+   "ticker": "NVDA",
+   "time": "2026-11-13T15:49+01:00",
+   "title": "4 GARP Stocks That Investors Can Scoop Up for Maximum Returns",
+   "url": "https://www.nasdaq.com/articles/4-garp-stocks-investors-can-scoop-maximum-returns-2",
+   "src": "nasdaq",
+   "summary": "The GARP strategy helps investors gain exposure to stocks that have solid prospects and are trading at a discount. RL, EXPE, NVDA and LRCX are some such stocks."
+  },
+  {
+   "id": "14d791985e45",
+   "ticker": "NVDA",
+   "time": "2026-11-13T15:22+01:00",
+   "title": "PPI +6.5% YoY: Highest in Nearly 4 Years",
+   "url": "https://www.nasdaq.com/articles/ppi-65-yoy-highest-nearly-4-years",
+   "src": "nasdaq",
+   "summary": "The Producer Price Index (PPI) at +6.5% is the highest we've seen since November of 2022."
   },
   {
    "id": "2391b6734d04",
@@ -12835,5 +12862,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-13T17:50:15+01:00"
+ "updatedAt": "2026-11-13T18:01:15+01:00"
 }

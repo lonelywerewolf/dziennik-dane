@@ -2,7 +2,7 @@
  "date": "2026-11-13",
  "counts": {
   "podsumowania": 15,
-  "wyniki": 61,
+  "wyniki": 62,
   "rekomendacje": 0,
   "korporacyjne": 36,
   "makro_pl": 24,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 3,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 38
+  "pozostale": 39
  },
- "duplicatesRemoved": 94,
- "total": 292,
+ "duplicatesRemoved": 95,
+ "total": 295,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -162,6 +162,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "17:58",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PGE POLSKA GRUPA ENERGETYCZNA S.A.: Szacunkowe wybrane dane finansowe i operacyjne za III kwartał 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71710",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "17:45",
     "kind": "pap",
@@ -1559,6 +1570,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:52",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Microsoft poinformował o dalszych postępach w przywracaniu dostępności usług, w tym Outlooka",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440908",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:31",
     "kind": "espi",
