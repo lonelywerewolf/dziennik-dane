@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "eebc2aba8730",
+   "ticker": "AVGO",
+   "time": "2026-11-13T07:24+01:00",
+   "title": "Broadcom Stock Just Jumped More Than 20% in 4 Days. It Has Done That Only 6 Other Times Since 2009.",
+   "url": "https://www.nasdaq.com/articles/broadcom-stock-just-jumped-more-20-4-days-it-has-done-only-6-other-times-2009",
+   "src": "nasdaq",
+   "summary": "Key PointsBroadcom shares gained around 25% in four trading days after closing at $293.69 on Nov. 6."
+  },
+  {
    "id": "d2952bd57d7c",
    "ticker": "NVDA",
    "time": "2026-11-13T06:28+01:00",
@@ -12637,5 +12646,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-13T07:44:07+01:00"
+ "updatedAt": "2026-11-13T07:55:07+01:00"
 }

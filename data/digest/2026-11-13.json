@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 4
+  "pozostale": 5
  },
  "duplicatesRemoved": 7,
- "total": 24,
+ "total": 25,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -153,6 +153,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "07:45",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KPPD: SA-Q",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71581",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "07:40",
     "kind": "espi",
