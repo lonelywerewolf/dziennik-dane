@@ -1,8 +1,8 @@
 {
  "date": "2026-11-13",
  "counts": {
-  "podsumowania": 7,
-  "wyniki": 15,
+  "podsumowania": 8,
+  "wyniki": 17,
   "rekomendacje": 0,
   "korporacyjne": 2,
   "makro_pl": 5,
@@ -14,11 +14,20 @@
   "obserwowane": 0,
   "pozostale": 7
  },
- "duplicatesRemoved": 17,
- "total": 59,
+ "duplicatesRemoved": 19,
+ "total": 64,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "09:18",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: Zniżkuje większość głównych indeksów; w WIG20 przewaga spadków, ale zyskuje Orlen",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/dzien-na-gpw-znizkuje-wiekszosc-glownych-indeksow-w-wig20-przewaga-spadkow-ale",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:18",
     "kind": "pap",
@@ -84,6 +93,24 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "09:27",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ANALIZY ONLINE SA (15/2026) Skonsolidowany raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440722",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "09:27",
+    "kind": "pap",
+    "ticker": null,
+    "title": "DR. FINANCE SA (22/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440721",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:22",
     "kind": "pap",

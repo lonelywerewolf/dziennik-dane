@@ -1,7 +1,55 @@
 {
  "date": "2026-11-13",
- "count": 59,
+ "count": 64,
  "items": [
+  {
+   "id": "bossa-pap-440724",
+   "date": "2026-11-13",
+   "time": "09:30",
+   "ts": "2026-11-13T09:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "ECL SA (22/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440724"
+  },
+  {
+   "id": "bossa-pap-440723",
+   "date": "2026-11-13",
+   "time": "09:30",
+   "ts": "2026-11-13T09:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: Zniżkuje większość głównych indeksów; w WIG20 przewaga spadków, ale zyskuje Orlen",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440723"
+  },
+  {
+   "id": "bossa-pap-440722",
+   "date": "2026-11-13",
+   "time": "09:27",
+   "ts": "2026-11-13T09:27:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "ANALIZY ONLINE SA (15/2026) Skonsolidowany raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440722"
+  },
+  {
+   "id": "bossa-pap-440721",
+   "date": "2026-11-13",
+   "time": "09:27",
+   "ts": "2026-11-13T09:27:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DR. FINANCE SA (22/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440721"
+  },
   {
    "id": "bossa-pap-440720",
    "date": "2026-11-13",
@@ -25,6 +73,17 @@
    "title": "Microsoft poinformował o nieznacznym postępie w usuwaniu globalnej awarii",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440719"
+  },
+  {
+   "id": "strefa-78d2173289a6",
+   "date": "2026-11-13",
+   "time": "09:18",
+   "ts": "2026-11-13T09:18:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: Zniżkuje większość głównych indeksów; w WIG20 przewaga spadków, ale zyskuje Orlen",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/dzien-na-gpw-znizkuje-wiekszosc-glownych-indeksow-w-wig20-przewaga-spadkow-ale"
   },
   {
    "id": "bossa-pap-440718",
