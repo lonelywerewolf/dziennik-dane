@@ -1,6 +1,22 @@
 {
  "items": [
   {
+   "id": "49ba576ad4a6c4",
+   "ticker": "MPWR",
+   "filed": "2026-11-13 17:09:34",
+   "tradeDate": "2026-11-11",
+   "who": "Balow Frank Anthony III",
+   "role": "CFO",
+   "type": "S - Sale",
+   "price": "$1,434.31",
+   "qty": "-20",
+   "owned": "2,921",
+   "deltaOwn": "-1%",
+   "value": "-$28,686",
+   "url": "http://www.sec.gov/Archives/edgar/data/1280452/000121465926014159/xslF345X03/marketforms-74288.xml",
+   "src": "http://openinsider.com/screener?s=MPWR"
+  },
+  {
    "id": "cdd31f90fde86b",
    "ticker": "MRVL",
    "filed": "2026-11-03 16:38:46",
@@ -5425,5 +5441,5 @@
    "src": "http://openinsider.com/screener?s=MPWR"
   }
  ],
- "updatedAt": "2026-11-13T23:00:25+01:00"
+ "updatedAt": "2026-11-13T23:11:25+01:00"
 }
