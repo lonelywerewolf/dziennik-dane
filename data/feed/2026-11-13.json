@@ -1,7 +1,55 @@
 {
  "date": "2026-11-13",
- "count": 320,
+ "count": 325,
  "items": [
+  {
+   "id": "bossa-pap-440933",
+   "date": "2026-11-13",
+   "time": "18:50",
+   "ts": "2026-11-13T18:50:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "INTERNITY SA (16/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440933"
+  },
+  {
+   "id": "bossa-pap-440932",
+   "date": "2026-11-13",
+   "time": "18:50",
+   "ts": "2026-11-13T18:50:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DM BOŚ obniżył wycenę Grupy Azoty do 13 zł oraz rekomendację do \"sprzedaj\"",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440932"
+  },
+  {
+   "id": "bossa-pap-440931",
+   "date": "2026-11-13",
+   "time": "18:49",
+   "ts": "2026-11-13T18:49:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "VEE SA (14/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440931"
+  },
+  {
+   "id": "bossa-espi-71716",
+   "date": "2026-11-13",
+   "time": "18:46",
+   "ts": "2026-11-13T18:46:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "DI VOLIO S.A.",
+   "title": "Zawarcie umowy pożyczki z podmiotem dominującym",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71716"
+  },
   {
    "id": "bossa-pap-440929",
    "date": "2026-11-13",
@@ -49,6 +97,17 @@
    "title": "GENERALI OFE wartość jednostki rozrachunkowej",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440926"
+  },
+  {
+   "id": "strefa-a044ba671972",
+   "date": "2026-11-13",
+   "time": "18:38",
+   "ts": "2026-11-13T18:38:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DM BOŚ obniżył wycenę Grupy Azoty do 13 zł oraz rekomendację do \"sprzedaj\"",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/dm-bos-obnizyl-wycene-grupy-azoty-do-13-zl-oraz-rekomendacje-do-sprzedaj"
   },
   {
    "id": "bossa-pap-440925",

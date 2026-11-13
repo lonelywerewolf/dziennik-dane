@@ -16,6 +16,21 @@
    "ticker": null
   },
   {
+   "date": "2026-11-13",
+   "company": "GRUPAAZOTY (ATT)",
+   "code": "ATT",
+   "name": "GRUPAAZOTY",
+   "isin": "PLZATRM00012",
+   "rating": "Sprzedaj",
+   "price": "16.28",
+   "target": "13",
+   "upside": "-20.14742014742",
+   "priceAtPub": "16.28",
+   "house": "DM BOŚ",
+   "report": "https://strefainwestorow.pl/sites/default/files/attachments/55514898_14079631_55514898_threat_extracted_Azoty_30_FU_84_2026_DM_BOŚ_PL_disclaimer.pdf",
+   "ticker": null
+  },
+  {
    "date": "2026-11-12",
    "company": "AMICA (AMC)",
    "code": "AMC",
@@ -4366,5 +4381,5 @@
    "ticker": "XTB"
   }
  ],
- "updatedAt": "2026-11-13T18:47:24+01:00"
+ "updatedAt": "2026-11-13T18:58:25+01:00"
 }

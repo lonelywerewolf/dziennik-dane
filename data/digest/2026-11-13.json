@@ -2,9 +2,9 @@
  "date": "2026-11-13",
  "counts": {
   "podsumowania": 16,
-  "wyniki": 68,
-  "rekomendacje": 1,
-  "korporacyjne": 37,
+  "wyniki": 69,
+  "rekomendacje": 2,
+  "korporacyjne": 38,
   "makro_pl": 25,
   "swiat_rynki": 9,
   "energetyka_surowce": 8,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 42
  },
- "duplicatesRemoved": 103,
- "total": 320,
+ "duplicatesRemoved": 105,
+ "total": 325,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -171,6 +171,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "18:50",
+    "kind": "pap",
+    "ticker": null,
+    "title": "INTERNITY SA (16/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440933",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:45",
     "kind": "pap",
@@ -805,6 +814,15 @@
   ],
   "rekomendacje": [
    {
+    "time": "18:38",
+    "kind": "news",
+    "ticker": null,
+    "title": "DM BOŚ obniżył wycenę Grupy Azoty do 13 zł oraz rekomendację do \"sprzedaj\"",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/dm-bos-obnizyl-wycene-grupy-azoty-do-13-zl-oraz-rekomendacje-do-sprzedaj",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "18:30",
     "kind": "news",
     "ticker": null,
@@ -815,6 +833,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "18:46",
+    "kind": "espi",
+    "ticker": null,
+    "title": "DI VOLIO S.A.: Zawarcie umowy pożyczki z podmiotem dominującym",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71716",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "18:12",
     "kind": "pap",
