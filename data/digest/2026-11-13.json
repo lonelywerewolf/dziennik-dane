@@ -2,9 +2,9 @@
  "date": "2026-11-13",
  "counts": {
   "podsumowania": 16,
-  "wyniki": 81,
+  "wyniki": 82,
   "rekomendacje": 2,
-  "korporacyjne": 42,
+  "korporacyjne": 43,
   "makro_pl": 26,
   "swiat_rynki": 10,
   "energetyka_surowce": 9,
@@ -15,7 +15,7 @@
   "pozostale": 51
  },
  "duplicatesRemoved": 124,
- "total": 375,
+ "total": 377,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -171,6 +171,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "23:17",
+    "kind": "pap",
+    "ticker": null,
+    "title": "EXAMOBILE SA (11/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440980",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "22:58",
     "kind": "pap",
@@ -941,6 +950,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "23:11",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Trzy podmioty obejmą akcje nowej emisji Synthaverse za 26,45 mln zł",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440979",
+    "src": "bossa",
+    "flags": [
+     "emisja"
+    ]
+   },
    {
     "time": "22:11",
     "kind": "espi",
