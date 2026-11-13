@@ -12,10 +12,10 @@
   "fundusze_drobne": 9,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 47
+  "pozostale": 48
  },
  "duplicatesRemoved": 121,
- "total": 361,
+ "total": 362,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1869,6 +1869,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "21:37",
+    "kind": "pap",
+    "ticker": null,
+    "title": "APANET SA (19/2026) Zmiana harmonogramu publikacji raportów okresowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440966",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "21:31",
     "kind": "pap",
