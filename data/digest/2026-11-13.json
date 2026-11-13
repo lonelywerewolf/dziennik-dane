@@ -1,10 +1,10 @@
 {
  "date": "2026-11-13",
  "counts": {
-  "podsumowania": 13,
-  "wyniki": 56,
+  "podsumowania": 15,
+  "wyniki": 57,
   "rekomendacje": 0,
-  "korporacyjne": 34,
+  "korporacyjne": 35,
   "makro_pl": 24,
   "swiat_rynki": 9,
   "energetyka_surowce": 8,
@@ -12,13 +12,33 @@
   "fundusze_drobne": 2,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 36
+  "pozostale": 38
  },
- "duplicatesRemoved": 88,
- "total": 274,
+ "duplicatesRemoved": 92,
+ "total": 284,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "17:33",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Notowania ciągłe - podsumowanie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440897",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "17:31",
+    "kind": "pap",
+    "ticker": null,
+    "title": "WIG20 na zamknięciu wyniósł 4298,46 pkt (0,44%)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440895",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:51",
     "kind": "skrot",
@@ -142,6 +162,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "17:37",
+    "kind": "pap",
+    "ticker": null,
+    "title": "CONSOLE LABS SA (9/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440901",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:25",
     "kind": "pap",
@@ -662,6 +691,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "17:30",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ENERGY S.A.: Zawarcie umowy na dostawę i montaż kompensatora mocy biernej dla sektora publicznego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71699",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "17:08",
     "kind": "espi",
@@ -1462,6 +1502,15 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "17:31",
+    "kind": "espi",
+    "ticker": null,
+    "title": "COGNOR HOLDING S.A.: QS",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71700",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "17:23",
     "kind": "pap",
     "ticker": null,
@@ -1486,6 +1535,15 @@
     "title": "MC: Już wkrótce granty na wdrożenia open source w JST - za nami Dzień Otwartych Technologii (komunikat)",
     "url": "https://bossa.pl/analizy/komunikaty#message-440884",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:13",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa Kino Polska szacuje, że w III kw. miała 15,3 mln zł zysku netto",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/grupa-kino-polska-szacuje-ze-w-iii-kw-miala-153-mln-zl-zysku-netto",
+    "src": "strefainwestorow",
     "flags": []
    },
    {

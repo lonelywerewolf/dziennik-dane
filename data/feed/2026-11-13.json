@@ -1,7 +1,115 @@
 {
  "date": "2026-11-13",
- "count": 274,
+ "count": 284,
  "items": [
+  {
+   "id": "bossa-pap-440901",
+   "date": "2026-11-13",
+   "time": "17:37",
+   "ts": "2026-11-13T17:37:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "CONSOLE LABS SA (9/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440901"
+  },
+  {
+   "id": "bossa-espi-71702",
+   "date": "2026-11-13",
+   "time": "17:36",
+   "ts": "2026-11-13T17:36:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ENERGY S.A.",
+   "title": "Zawarcie umowy na dostawę i montaż kompensatora mocy biernej dla sektora publicznego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71702"
+  },
+  {
+   "id": "bossa-pap-440899",
+   "date": "2026-11-13",
+   "time": "17:35",
+   "ts": "2026-11-13T17:35:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "EUVIC SA (28/2026) Skonsolidowany raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440899"
+  },
+  {
+   "id": "bossa-pap-440898",
+   "date": "2026-11-13",
+   "time": "17:34",
+   "ts": "2026-11-13T17:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Grupa Kino Polska szacuje, że w III kw. miała 15,3 mln zł zysku netto",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440898"
+  },
+  {
+   "id": "bossa-pap-440897",
+   "date": "2026-11-13",
+   "time": "17:33",
+   "ts": "2026-11-13T17:33:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Notowania ciągłe - podsumowanie",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440897"
+  },
+  {
+   "id": "bossa-pap-440895",
+   "date": "2026-11-13",
+   "time": "17:31",
+   "ts": "2026-11-13T17:31:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "WIG20 na zamknięciu wyniósł 4298,46 pkt (0,44%)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440895"
+  },
+  {
+   "id": "bossa-espi-71700",
+   "date": "2026-11-13",
+   "time": "17:31",
+   "ts": "2026-11-13T17:31:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "COGNOR HOLDING S.A.",
+   "title": "QS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71700"
+  },
+  {
+   "id": "bossa-espi-71699",
+   "date": "2026-11-13",
+   "time": "17:30",
+   "ts": "2026-11-13T17:30:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ENERGY S.A.",
+   "title": "Zawarcie umowy na dostawę i montaż kompensatora mocy biernej dla sektora publicznego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71699"
+  },
+  {
+   "id": "bossa-espi-71698",
+   "date": "2026-11-13",
+   "time": "17:27",
+   "ts": "2026-11-13T17:27:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF WIG20short PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 228 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71698"
+  },
   {
    "id": "bossa-pap-440892",
    "date": "2026-11-13",
@@ -181,6 +289,17 @@
    "title": "GO24.PL SA (10/2026) Raport kwartalny za III kwartał",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440878"
+  },
+  {
+   "id": "strefa-79bb8a34ecf7",
+   "date": "2026-11-13",
+   "time": "17:13",
+   "ts": "2026-11-13T17:13:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grupa Kino Polska szacuje, że w III kw. miała 15,3 mln zł zysku netto",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/grupa-kino-polska-szacuje-ze-w-iii-kw-miala-153-mln-zl-zysku-netto"
   },
   {
    "id": "bossa-pap-440877",

@@ -1,24 +1,24 @@
 {
  "last": {
-  "runAt": "2026-11-13T17:28:16+01:00",
+  "runAt": "2026-11-13T17:39:15+01:00",
   "sources": {
    "bossa": {
     "pages": 2,
-    "new": 10,
+    "new": 9,
     "complete": true,
-    "newest": "2026-11-13T17:25:00+01:00",
-    "oldestSeen": "2026-11-13T15:49:00+01:00",
+    "newest": "2026-11-13T17:37:00+01:00",
+    "oldestSeen": "2026-11-13T16:05:00+01:00",
     "ok": true,
-    "sec": 4.7
+    "sec": 4.8
    },
    "strefa": {
     "pages": 2,
-    "new": 0,
+    "new": 1,
     "complete": true,
-    "newest": "2026-11-13T17:08:01+01:00",
-    "oldestSeen": "2026-11-13T07:02:01+01:00",
+    "newest": "2026-11-13T17:13:01+01:00",
+    "oldestSeen": "2026-11-13T07:37:01+01:00",
     "ok": true,
-    "sec": 5.7
+    "sec": 5.6
    },
    "articles": {
     "saved": 0,
@@ -32,14 +32,14 @@
     "oldest": "2025-11-05",
     "newest": "2026-11-12",
     "ok": true,
-    "sec": 4.6
+    "sec": 3.4
    },
    "gpw": {
     "ok": true,
     "items": 20,
-    "newest": "13-11-2026 17:24:03",
-    "oldestSeen": "13-11-2026 13:23:53",
-    "sec": 5.6
+    "newest": "13-11-2026 17:31:30",
+    "oldestSeen": "13-11-2026 13:31:22",
+    "sec": 6.0
    },
    "gpw_archive": {
     "days": 0,
@@ -47,7 +47,7 @@
     "latest": "2026-11-12",
     "stored": 269,
     "ok": true,
-    "sec": 3.8
+    "sec": 4.0
    },
    "tiingo": {
     "history": 0,
@@ -60,18 +60,20 @@
     "sec": 0.0
    },
    "nasdaq": {
+    "history": 10,
+    "live": 7,
+    "errors": [],
     "ok": true,
-    "skipped": "ostatnio 16:44 – co najwyżej raz na godzinę",
-    "sec": 0.0
+    "sec": 51.1
    },
    "us_news": {
-    "new": 2,
+    "new": 1,
     "sources": {
-     "nasdaq": 2
+     "nasdaq": 1
     },
     "errors": [],
     "ok": true,
-    "sec": 18.5
+    "sec": 16.3
    },
    "quotes": {
     "ok": true,
@@ -88,13 +90,13 @@
      "2026-11-13",
      4.407
     ],
-    "sec": 1.4
+    "sec": 2.0
    },
    "insiders": {
     "new": 0,
     "errors": [],
     "ok": true,
-    "sec": 13.8
+    "sec": 6.3
    },
    "conditions": {
     "checked": 0,
@@ -120,7 +122,7 @@
     "errors": [],
     "ok": true,
     "pdfPending": 0,
-    "sec": 2.9
+    "sec": 2.4
    },
    "macro": {
     "ok": true,
@@ -140,6 +142,148 @@
   }
  },
  "runs": [
+  {
+   "runAt": "2026-11-13T17:39:15+01:00",
+   "sources": {
+    "bossa": {
+     "pages": 2,
+     "new": 9,
+     "complete": true,
+     "newest": "2026-11-13T17:37:00+01:00",
+     "oldestSeen": "2026-11-13T16:05:00+01:00",
+     "ok": true,
+     "sec": 4.8
+    },
+    "strefa": {
+     "pages": 2,
+     "new": 1,
+     "complete": true,
+     "newest": "2026-11-13T17:13:01+01:00",
+     "oldestSeen": "2026-11-13T07:37:01+01:00",
+     "ok": true,
+     "sec": 5.6
+    },
+    "articles": {
+     "saved": 0,
+     "ok": true,
+     "sec": 0.0
+    },
+    "recs": {
+     "new": 0,
+     "seen": 289,
+     "total": 290,
+     "oldest": "2025-11-05",
+     "newest": "2026-11-12",
+     "ok": true,
+     "sec": 3.4
+    },
+    "gpw": {
+     "ok": true,
+     "items": 20,
+     "newest": "13-11-2026 17:31:30",
+     "oldestSeen": "13-11-2026 13:31:22",
+     "sec": 6.0
+    },
+    "gpw_archive": {
+     "days": 0,
+     "errors": [],
+     "latest": "2026-11-12",
+     "stored": 269,
+     "ok": true,
+     "sec": 4.0
+    },
+    "tiingo": {
+     "history": 0,
+     "live": 0,
+     "errors": [
+      "api.tiingo.com wstrzymany do 2026-11-13T19:44 (odmowa 429)",
+      "iex: HostBlocked('api.tiingo.com wstrzymany do 2026-11-13T19:44 (odmowa 429)')"
+     ],
+     "ok": false,
+     "sec": 0.0
+    },
+    "nasdaq": {
+     "history": 10,
+     "live": 7,
+     "errors": [],
+     "ok": true,
+     "sec": 51.1
+    },
+    "us_news": {
+     "new": 1,
+     "sources": {
+      "nasdaq": 1
+     },
+     "errors": [],
+     "ok": true,
+     "sec": 16.3
+    },
+    "quotes": {
+     "ok": true,
+     "tickers": 26,
+     "sec": 0.1
+    },
+    "nbp": {
+     "ok": true,
+     "USD": [
+      "2026-11-13",
+      3.9852
+     ],
+     "EUR": [
+      "2026-11-13",
+      4.407
+     ],
+     "sec": 2.0
+    },
+    "insiders": {
+     "new": 0,
+     "errors": [],
+     "ok": true,
+     "sec": 6.3
+    },
+    "conditions": {
+     "checked": 0,
+     "met": 0,
+     "ok": true,
+     "sec": 0.0
+    },
+    "fundamentals": {
+     "pl": 0,
+     "us": 0,
+     "errors": [],
+     "ok": true,
+     "sec": 0.0
+    },
+    "calendar": {
+     "errors": [],
+     "ok": true,
+     "sec": 0.0
+    },
+    "pwpa": {
+     "new": 0,
+     "texts": 0,
+     "errors": [],
+     "ok": true,
+     "pdfPending": 0,
+     "sec": 2.4
+    },
+    "macro": {
+     "ok": true,
+     "skipped": true,
+     "sec": 0.0
+    },
+    "telegram": {
+     "ok": true,
+     "sent": 0,
+     "first": false,
+     "commands": [],
+     "sec": 0.4
+    }
+   },
+   "blocked": {
+    "api.tiingo.com": "2026-11-13T19:44+01:00"
+   }
+  },
   {
    "runAt": "2026-11-13T17:28:16+01:00",
    "sources": {
@@ -5562,146 +5706,6 @@
      "ok": true,
      "pdfPending": 0,
      "sec": 2.1
-    },
-    "macro": {
-     "ok": true,
-     "skipped": true,
-     "sec": 0.0
-    },
-    "telegram": {
-     "ok": true,
-     "sent": 0,
-     "first": false,
-     "commands": [],
-     "sec": 0.4
-    }
-   },
-   "blocked": {
-    "api.tiingo.com": "2026-11-13T11:50+01:00"
-   }
-  },
-  {
-   "runAt": "2026-11-13T10:29:07+01:00",
-   "sources": {
-    "bossa": {
-     "pages": 2,
-     "new": 2,
-     "complete": true,
-     "newest": "2026-11-13T10:21:00+01:00",
-     "oldestSeen": "2026-11-13T06:00:00+01:00",
-     "ok": true,
-     "sec": 4.9
-    },
-    "strefa": {
-     "pages": 2,
-     "new": 1,
-     "newest": "2026-11-13T10:16:01+01:00",
-     "oldestSeen": "2026-11-13T07:02:01+01:00",
-     "complete": false,
-     "ok": true,
-     "sec": 2.7
-    },
-    "articles": {
-     "saved": 0,
-     "ok": true,
-     "sec": 0.0
-    },
-    "recs": {
-     "new": 0,
-     "seen": 289,
-     "total": 290,
-     "oldest": "2025-11-05",
-     "newest": "2026-11-12",
-     "ok": true,
-     "sec": 4.0
-    },
-    "gpw": {
-     "ok": true,
-     "items": 20,
-     "newest": "13-11-2026 10:21:59",
-     "oldestSeen": "12-11-2026 18:02:02",
-     "sec": 4.5
-    },
-    "gpw_archive": {
-     "days": 0,
-     "errors": [],
-     "latest": "2026-11-12",
-     "stored": 269,
-     "ok": true,
-     "sec": 0.0
-    },
-    "tiingo": {
-     "history": 0,
-     "live": 0,
-     "errors": [
-      "api.tiingo.com wstrzymany do 2026-11-13T11:50 (odmowa 429)",
-      "iex: HostBlocked('api.tiingo.com wstrzymany do 2026-11-13T11:50 (odmowa 429)')"
-     ],
-     "ok": false,
-     "sec": 0.0
-    },
-    "nasdaq": {
-     "ok": true,
-     "skipped": "ostatnio 09:45 – co najwyżej raz na godzinę",
-     "sec": 0.0
-    },
-    "us_news": {
-     "new": 2,
-     "sources": {
-      "nasdaq": 2
-     },
-     "errors": [],
-     "ok": true,
-     "sec": 16.1
-    },
-    "quotes": {
-     "ok": true,
-     "tickers": 26,
-     "sec": 0.1
-    },
-    "nbp": {
-     "ok": true,
-     "USD": [
-      "2026-11-12",
-      3.9676
-     ],
-     "EUR": [
-      "2026-11-12",
-      4.4018
-     ],
-     "sec": 0.8
-    },
-    "insiders": {
-     "new": 0,
-     "errors": [],
-     "ok": true,
-     "sec": 5.3
-    },
-    "conditions": {
-     "checked": 0,
-     "met": 0,
-     "ok": true,
-     "sec": 0.0
-    },
-    "fundamentals": {
-     "pl": 0,
-     "us": 0,
-     "errors": [],
-     "ok": true,
-     "sec": 0.0
-    },
-    "calendar": {
-     "errors": [],
-     "ok": true,
-     "sec": 0.0
-    },
-    "pwpa": {
-     "new": 0,
-     "texts": 0,
-     "errors": [],
-     "ok": true,
-     "pdfPending": 0,
-     "sec": 2.2
     },
     "macro": {
      "ok": true,
