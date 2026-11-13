@@ -1,7 +1,79 @@
 {
  "date": "2026-11-13",
- "count": 132,
+ "count": 139,
  "items": [
+  {
+   "id": "bossa-pap-440780",
+   "date": "2026-11-13",
+   "time": "13:01",
+   "ts": "2026-11-13T13:01:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Orlen Lietuva ma nadzwyczajne straty, a nie zyski - minister Motyka o windfall tax na Litwie",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440780"
+  },
+  {
+   "id": "bossa-pap-440779",
+   "date": "2026-11-13",
+   "time": "12:59",
+   "ts": "2026-11-13T12:59:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "HYPE/HYPE Spółka Akcyjna (4/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440779"
+  },
+  {
+   "id": "bossa-pap-440778",
+   "date": "2026-11-13",
+   "time": "12:58",
+   "ts": "2026-11-13T12:58:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeksy transakcyjne - POLSTR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440778"
+  },
+  {
+   "id": "bossa-pap-440777",
+   "date": "2026-11-13",
+   "time": "12:57",
+   "ts": "2026-11-13T12:57:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeksy transakcyjne - WIRON",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440777"
+  },
+  {
+   "id": "bossa-pap-440775",
+   "date": "2026-11-13",
+   "time": "12:53",
+   "ts": "2026-11-13T12:53:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GENOMED SA (13/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440775"
+  },
+  {
+   "id": "bossa-espi-71621",
+   "date": "2026-11-13",
+   "time": "12:53",
+   "ts": "2026-11-13T12:53:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ART GAMES STUDIO S.A.",
+   "title": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia Art Games Studio S.A. wraz z projektami uchwał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71621"
+  },
   {
    "id": "bossa-espi-71620",
    "date": "2026-11-13",
@@ -13,6 +85,17 @@
    "title": "Uzgodnienie i udostępnienie do publicznej wiadomości planu połączenia Marvipol Development S.A. ze spółkami zależnymi",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-71620"
+  },
+  {
+   "id": "strefa-5deca496ecfc",
+   "date": "2026-11-13",
+   "time": "12:36",
+   "ts": "2026-11-13T12:36:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Orlen Lietuva ma nadzwyczajne straty, a nie zyski - minister Motyka o windfall tax na Litwie",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/orlen-lietuva-ma-nadzwyczajne-straty-nie-zyski-minister-motyka-o-windfall-tax"
   },
   {
    "id": "bossa-pap-440773",
