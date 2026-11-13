@@ -2,20 +2,20 @@
  "date": "2026-11-13",
  "counts": {
   "podsumowania": 13,
-  "wyniki": 54,
+  "wyniki": 56,
   "rekomendacje": 0,
   "korporacyjne": 34,
-  "makro_pl": 23,
-  "swiat_rynki": 8,
+  "makro_pl": 24,
+  "swiat_rynki": 9,
   "energetyka_surowce": 8,
   "nieruchomosci": 3,
   "fundusze_drobne": 2,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 33
+  "pozostale": 36
  },
- "duplicatesRemoved": 85,
- "total": 264,
+ "duplicatesRemoved": 88,
+ "total": 274,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -142,6 +142,26 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "17:25",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ROAD STUDIO SA (10/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440892",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:24",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Kino Polska TV S.A.: Wstępne wyniki finansowe Kino Polska TV S.A. oraz Grupy Kapitałowej Kino Polska TV S.A. za okres 3 i 9 miesięcy zakończony 30 września 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71695",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "17:16",
     "kind": "pap",
@@ -1004,6 +1024,15 @@
   ],
   "makro_pl": [
    {
+    "time": "17:17",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MC: Człowiek w centrum technologicznej zmiany. Ministerstwo Cyfryzacji zaprasza na Festiwal Lema | Bomba Megabitowa 2026 (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440883",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "16:56",
     "kind": "pap",
     "ticker": null,
@@ -1212,6 +1241,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "17:19",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MEDICALGORITHMICS S.A.: Dopuszczenie i warunkowe wprowadzenie do obrotu giełdowego na Głównym Rynku GPW akcji zwykłych na okaziciela serii L oraz P Spółki. Ustalenie daty pierwszego notowania akcji serii L oraz P Spółki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71693",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:38",
     "kind": "news",
@@ -1423,6 +1461,33 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:23",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Stawka Polonia wzrosła w piątek do 3,73 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440888",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:19",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MRiRW: Minister Stefan Krajewski spotkał się z przedstawicielami branży drobiarskiej (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440886",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:18",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MC: Już wkrótce granty na wdrożenia open source w JST - za nami Dzień Otwartych Technologii (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440884",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:08",
     "kind": "news",
