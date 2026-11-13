@@ -1,7 +1,43 @@
 {
  "date": "2026-11-13",
- "count": 148,
+ "count": 152,
  "items": [
+  {
+   "id": "bossa-espi-71631",
+   "date": "2026-11-13",
+   "time": "13:45",
+   "ts": "2026-11-13T13:45:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ADIUVO INVESTMENTS S.A. W RESTRUKTURYZACJI",
+   "title": "Powołanie nowej CEO w spółce powiązanej Fixnip Ltd.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71631"
+  },
+  {
+   "id": "bossa-espi-71630",
+   "date": "2026-11-13",
+   "time": "13:38",
+   "ts": "2026-11-13T13:38:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Sygnis S.A.",
+   "title": "Złożenie do Prokuratury Okręgowej w Warszawie zawiadomienia o podejrzeniu popełnienia przestępstwa w odniesieniu do realizacji zamówienia publicznego na dostawy wyposażenia laboratoriów STEAM",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71630"
+  },
+  {
+   "id": "bossa-pap-440788",
+   "date": "2026-11-13",
+   "time": "13:36",
+   "ts": "2026-11-13T13:36:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "BLACK POINT SA (11/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440788"
+  },
   {
    "id": "bossa-pap-440786",
    "date": "2026-11-13",
@@ -73,6 +109,17 @@
    "title": "Zawarcie umowy znaczącej",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-71623"
+  },
+  {
+   "id": "strefa-4b1cdb01d2a3",
+   "date": "2026-11-13",
+   "time": "13:06",
+   "ts": "2026-11-13T13:06:08+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Dark Point Games z zyskiem w III kwartale 2026 r. Premiera Brightfall już na początku 2027 r.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/dark-point-games-z-zyskiem-w-iii-kwartale-2026-r-premiera-brightfall-juz-na"
   },
   {
    "id": "strefa-b1df5f54fb9c",
