@@ -1,7 +1,89 @@
 {
  "date": "2026-11-13",
- "count": 181,
+ "count": 189,
  "items": [
+  {
+   "id": "strefa-a42f9bd5a341",
+   "date": "2026-11-13",
+   "time": "15:04",
+   "ts": "2026-11-13T15:04:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Liftero rozwija nowe warianty silników, chce zwiększyć skalę komercjalizacji systemu BOOSTER",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/liftero-rozwija-nowe-warianty-silnikow-chce-zwiekszyc-skale-komercjalizacji"
+  },
+  {
+   "id": "bossa-pap-440821",
+   "date": "2026-11-13",
+   "time": "15:04",
+   "ts": "2026-11-13T15:04:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Organizacja związkowa pracowników Erste BP chce deklaracji dot. m.in. stabilności zatrudnienia w zw. z wezwaniem",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440821"
+  },
+  {
+   "id": "bossa-pap-440820",
+   "date": "2026-11-13",
+   "time": "15:03",
+   "ts": "2026-11-13T15:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Kontrakty w USA zwyżkują; sektor AI w centrum uwagi",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440820"
+  },
+  {
+   "id": "strefa-3d2bca05c694",
+   "date": "2026-11-13",
+   "time": "15:02",
+   "ts": "2026-11-13T15:02:53+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Kontrakty w USA zwyżkują; sektor AI w centrum uwagi",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/dzien-na-rynkach-kontrakty-w-usa-zwyzkuja-sektor-ai-w-centrum-uwagi"
+  },
+  {
+   "id": "bossa-pap-440819",
+   "date": "2026-11-13",
+   "time": "14:58",
+   "ts": "2026-11-13T14:58:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "WODKAN SA (14/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440819"
+  },
+  {
+   "id": "bossa-pap-440818",
+   "date": "2026-11-13",
+   "time": "14:58",
+   "ts": "2026-11-13T14:58:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "M4B SA (11/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440818"
+  },
+  {
+   "id": "bossa-pap-440817",
+   "date": "2026-11-13",
+   "time": "14:53",
+   "ts": "2026-11-13T14:53:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Liftero rozwija nowe warianty silników, chce zwiększyć skalę komercjalizacji systemu BOOSTER",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440817"
+  },
   {
    "id": "bossa-pap-440816",
    "date": "2026-11-13",
@@ -217,6 +299,17 @@
    "title": "Stanowisko Zarządu Spółki dotyczące wezwania",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-71638"
+  },
+  {
+   "id": "strefa-9bae5c55fa50",
+   "date": "2026-11-13",
+   "time": "14:16",
+   "ts": "2026-11-13T14:16:20+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "BGK sprzedał obligacje FPC na aukcji dodatkowej za 218,9 mln zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/bgk-sprzedal-obligacje-fpc-na-aukcji-dodatkowej-za-2189-mln-zl"
   },
   {
    "id": "strefa-6462e58c8244",
