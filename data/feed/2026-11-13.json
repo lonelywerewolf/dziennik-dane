@@ -1,7 +1,67 @@
 {
  "date": "2026-11-13",
- "count": 121,
+ "count": 126,
  "items": [
+  {
+   "id": "bossa-pap-440769",
+   "date": "2026-11-13",
+   "time": "12:17",
+   "ts": "2026-11-13T12:17:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Cena maksymalna dla benzyny Pb95 w dn. 14-16 listopada wyniesie 6,02 zł/l, dla ON 7,52 zł/l",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440769"
+  },
+  {
+   "id": "bossa-pap-440768",
+   "date": "2026-11-13",
+   "time": "12:16",
+   "ts": "2026-11-13T12:16:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "T&T PROENERGY SA (8/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440768"
+  },
+  {
+   "id": "bossa-pap-440767",
+   "date": "2026-11-13",
+   "time": "12:15",
+   "ts": "2026-11-13T12:15:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MARKA SA W RESTRUKTURYZACJI (12/2026) Skonsolidowany raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440767"
+  },
+  {
+   "id": "bossa-espi-71615",
+   "date": "2026-11-13",
+   "time": "12:13",
+   "ts": "2026-11-13T12:13:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "NOWA DEWELOPER Sp. z o.o.",
+   "title": "wniesienie nieruchomości do spółki zależnej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71615"
+  },
+  {
+   "id": "bossa-pap-440765",
+   "date": "2026-11-13",
+   "time": "12:07",
+   "ts": "2026-11-13T12:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "RUCH CHORZÓW SA (13/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440765"
+  },
   {
    "id": "bossa-pap-440764",
    "date": "2026-11-13",
