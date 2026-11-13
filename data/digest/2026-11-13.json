@@ -4,9 +4,9 @@
   "podsumowania": 10,
   "wyniki": 41,
   "rekomendacje": 0,
-  "korporacyjne": 25,
+  "korporacyjne": 26,
   "makro_pl": 21,
-  "swiat_rynki": 4,
+  "swiat_rynki": 5,
   "energetyka_surowce": 6,
   "nieruchomosci": 2,
   "fundusze_drobne": 0,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 31
  },
- "duplicatesRemoved": 57,
- "total": 198,
+ "duplicatesRemoved": 58,
+ "total": 201,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -499,6 +499,17 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "15:30",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BETA ETF DYWIDENDA PLUS PORTFELOW FIZ: Raport bieżący nr 235 / 2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71655",
+    "src": "bossa",
+    "flags": [
+     "dywidenda"
+    ]
+   },
+   {
     "time": "15:07",
     "kind": "news",
     "ticker": null,
@@ -959,6 +970,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "15:16",
+    "kind": "news",
+    "ticker": null,
+    "title": "Po otwarciu sesji DJI rośnie o 0,33 proc., a S&P500 zyskuje 0,28 proc.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/po-otwarciu-sesji-dji-rosnie-o-033-proc-sp500-zyskuje-028-proc",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "14:38",
     "kind": "pap",
