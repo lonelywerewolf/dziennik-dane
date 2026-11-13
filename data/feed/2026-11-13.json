@@ -1,7 +1,113 @@
 {
  "date": "2026-11-13",
- "count": 157,
+ "count": 167,
  "items": [
+  {
+   "id": "bossa-espi-71641",
+   "date": "2026-11-13",
+   "time": "14:20",
+   "ts": "2026-11-13T14:20:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ERSTE BANK POLSKA S.A.",
+   "title": "Opinia Zakładowej Organizacji Związkowej NSZZ „Solidarność” dotycząca wezwania do zapisywania się na sprzedaż akcji Erste Bank Polska S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71641"
+  },
+  {
+   "id": "bossa-espi-71640",
+   "date": "2026-11-13",
+   "time": "14:20",
+   "ts": "2026-11-13T14:20:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "HELIO S.A.",
+   "title": "Zwołanie Zwyczajnego Walnego Zgromadzenia Spółki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71640"
+  },
+  {
+   "id": "bossa-espi-71639",
+   "date": "2026-11-13",
+   "time": "14:19",
+   "ts": "2026-11-13T14:19:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ERSTE BANK POLSKA S.A.",
+   "title": "Opinia Zakładowej Organizacji Związkowej NSZZ „Solidarność” dotycząca wezwania do zapisywania się na sprzedaż akcji Erste Bank Polska S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71639"
+  },
+  {
+   "id": "bossa-espi-71638",
+   "date": "2026-11-13",
+   "time": "14:19",
+   "ts": "2026-11-13T14:19:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "HYDRAPRES S.A.",
+   "title": "Stanowisko Zarządu Spółki dotyczące wezwania",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71638"
+  },
+  {
+   "id": "strefa-6462e58c8244",
+   "date": "2026-11-13",
+   "time": "14:16",
+   "ts": "2026-11-13T14:16:12+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Zysk netto HYPE S.A. po trzech kwartałach 2026 r. wyniósł 905,9 tys. zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/zysk-netto-hype-sa-po-trzech-kwartalach-2026-r-wyniosl-9059-tys-zl"
+  },
+  {
+   "id": "strefa-760df2de3934",
+   "date": "2026-11-13",
+   "time": "14:15",
+   "ts": "2026-11-13T14:15:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Gaming Factory wprowadza długo wyczekiwaną aktualizację do JDM: Japanese Drift Master",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/gaming-factory-wprowadza-dlugo-wyczekiwana-aktualizacje-do-jdm-japanese-drift"
+  },
+  {
+   "id": "bossa-pap-440798",
+   "date": "2026-11-13",
+   "time": "14:14",
+   "ts": "2026-11-13T14:14:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "We wrześniu wysoki wzrost eksportu sprzętu komputerowego, silników lotniczych, prod. naftowych - NBP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440798"
+  },
+  {
+   "id": "bossa-espi-71637",
+   "date": "2026-11-13",
+   "time": "14:12",
+   "ts": "2026-11-13T14:12:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ERSTE BANK POLSKA S.A.",
+   "title": "Stanowisko Zarządu dotyczące ogłoszonego przez Erste Group Bank AG wezwania do zapisywania się na sprzedaż akcji Erste Bank Polska S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71637"
+  },
+  {
+   "id": "bossa-espi-71636",
+   "date": "2026-11-13",
+   "time": "14:11",
+   "ts": "2026-11-13T14:11:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ERSTE BANK POLSKA S.A.",
+   "title": "Stanowisko Zarządu dotyczące ogłoszonego przez Erste Group Bank AG wezwania do zapisywania się na sprzedaż akcji Erste Bank Polska S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71636"
+  },
   {
    "id": "bossa-pap-440795",
    "date": "2026-11-13",
@@ -61,6 +167,17 @@
    "title": "GRUPA RECYKL SA (13/2026) Podpisanie przez emitenta z firmą audytorską umowy o badanie sprawozdań finansowych lub skonsolidowanych sprawozdań finansowych emitenta",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440791"
+  },
+  {
+   "id": "strefa-3ab9ac68e592",
+   "date": "2026-11-13",
+   "time": "13:45",
+   "ts": "2026-11-13T13:45:22+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "We wrześniu wysoki wzrost eksportu sprzętu komputerowego, silników lotniczych, prod. naftowych - NBP",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/we-wrzesniu-wysoki-wzrost-eksportu-sprzetu-komputerowego-silnikow-lotniczych"
   },
   {
    "id": "bossa-espi-71631",

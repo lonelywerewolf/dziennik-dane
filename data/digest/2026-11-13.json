@@ -2,20 +2,20 @@
  "date": "2026-11-13",
  "counts": {
   "podsumowania": 9,
-  "wyniki": 36,
+  "wyniki": 37,
   "rekomendacje": 0,
-  "korporacyjne": 16,
-  "makro_pl": 18,
+  "korporacyjne": 20,
+  "makro_pl": 19,
   "swiat_rynki": 3,
   "energetyka_surowce": 6,
   "nieruchomosci": 2,
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 24
+  "pozostale": 25
  },
- "duplicatesRemoved": 42,
- "total": 157,
+ "duplicatesRemoved": 45,
+ "total": 167,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -104,6 +104,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "14:16",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zysk netto HYPE S.A. po trzech kwartałach 2026 r. wyniósł 905,9 tys. zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/zysk-netto-hype-sa-po-trzech-kwartalach-2026-r-wyniosl-9059-tys-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "13:56",
     "kind": "pap",
@@ -443,6 +452,50 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "14:20",
+    "kind": "espi",
+    "ticker": null,
+    "title": "HELIO S.A.: Zwołanie Zwyczajnego Walnego Zgromadzenia Spółki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71640",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:19",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ERSTE BANK POLSKA S.A.: Opinia Zakładowej Organizacji Związkowej NSZZ „Solidarność” dotycząca wezwania do zapisywania się na sprzedaż akcji Erste Bank Polska S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71639",
+    "src": "bossa",
+    "flags": [
+     "wezwanie"
+    ]
+   },
+   {
+    "time": "14:19",
+    "kind": "espi",
+    "ticker": null,
+    "title": "HYDRAPRES S.A.: Stanowisko Zarządu Spółki dotyczące wezwania",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71638",
+    "src": "bossa",
+    "flags": [
+     "wezwanie",
+     "zarząd"
+    ]
+   },
+   {
+    "time": "14:11",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ERSTE BANK POLSKA S.A.: Stanowisko Zarządu dotyczące ogłoszonego przez Erste Group Bank AG wezwania do zapisywania się na sprzedaż akcji Erste Bank Polska S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71636",
+    "src": "bossa",
+    "flags": [
+     "wezwanie",
+     "zarząd"
+    ]
+   },
+   {
     "time": "14:04",
     "kind": "espi",
     "ticker": null,
@@ -619,6 +672,15 @@
     "title": "Deficyt C/A we wrześniu '26 wyniósł 718 mln euro vs konsensus deficytu 2.579 mln euro - NBP",
     "url": "https://bossa.pl/analizy/komunikaty#message-440795",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:45",
+    "kind": "news",
+    "ticker": null,
+    "title": "We wrześniu wysoki wzrost eksportu sprzętu komputerowego, silników lotniczych, prod. naftowych - NBP",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/we-wrzesniu-wysoki-wzrost-eksportu-sprzetu-komputerowego-silnikow-lotniczych",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -896,6 +958,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "14:15",
+    "kind": "news",
+    "ticker": null,
+    "title": "Gaming Factory wprowadza długo wyczekiwaną aktualizację do JDM: Japanese Drift Master",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/gaming-factory-wprowadza-dlugo-wyczekiwana-aktualizacje-do-jdm-japanese-drift",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "13:23",
     "kind": "espi",
