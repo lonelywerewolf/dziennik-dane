@@ -2,9 +2,9 @@
  "date": "2026-11-13",
  "counts": {
   "podsumowania": 11,
-  "wyniki": 42,
+  "wyniki": 44,
   "rekomendacje": 0,
-  "korporacyjne": 26,
+  "korporacyjne": 27,
   "makro_pl": 21,
   "swiat_rynki": 6,
   "energetyka_surowce": 6,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 31
  },
- "duplicatesRemoved": 61,
- "total": 207,
+ "duplicatesRemoved": 65,
+ "total": 214,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -124,6 +124,24 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "15:49",
+    "kind": "pap",
+    "ticker": null,
+    "title": "INVESTEKO SA (11/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440834",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:49",
+    "kind": "pap",
+    "ticker": null,
+    "title": "TELESTO SA (8/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440833",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:43",
     "kind": "pap",
@@ -516,6 +534,15 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "15:54",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ZE PAK S.A.: Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia ZE PAK SA",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71663",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:30",
     "kind": "espi",
