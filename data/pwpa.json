@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "date": "2026-11-13",
+   "ticker": "TOR",
+   "company": "TORPOL S.A.",
+   "file": "20261113_dom_maklerski_bdm_tor_pl_aw.pdf",
+   "url": "https://www.gpw.pl/pub/pwpa/20261113_dom_maklerski_bdm_tor_pl_aw.pdf",
+   "type": "analiza wyników",
+   "house": "Dom Maklerski BDM S.A."
+  },
+  {
    "date": "2026-11-12",
    "ticker": "ART",
    "company": "ARTIFEX MUNDI S.A.",
@@ -410,5 +419,5 @@
    "house": "Noble Securities S.A."
   }
  ],
- "updatedAt": "2026-11-13T08:17:07+01:00"
+ "updatedAt": "2026-11-13T08:28:07+01:00"
 }

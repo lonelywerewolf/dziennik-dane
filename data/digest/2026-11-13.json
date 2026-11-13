@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 5
+  "pozostale": 6
  },
- "duplicatesRemoved": 7,
- "total": 28,
+ "duplicatesRemoved": 8,
+ "total": 30,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -180,6 +180,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "08:25",
+    "kind": "espi",
+    "ticker": null,
+    "title": "AMREST: Prezentacja inwestorska",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71585",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "07:45",
     "kind": "espi",

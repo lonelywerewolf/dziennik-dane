@@ -1,7 +1,31 @@
 {
  "date": "2026-11-13",
- "count": 28,
+ "count": 30,
  "items": [
+  {
+   "id": "bossa-espi-71585",
+   "date": "2026-11-13",
+   "time": "08:25",
+   "ts": "2026-11-13T08:25:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "AMREST",
+   "title": "Prezentacja inwestorska",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71585"
+  },
+  {
+   "id": "bossa-pap-440704",
+   "date": "2026-11-13",
+   "time": "08:17",
+   "ts": "2026-11-13T08:17:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PRYMUS SA (10/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440704"
+  },
   {
    "id": "bossa-pap-440703",
    "date": "2026-11-13",
