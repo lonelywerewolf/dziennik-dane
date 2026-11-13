@@ -7,15 +7,15 @@
   "korporacyjne": 6,
   "makro_pl": 11,
   "swiat_rynki": 3,
-  "energetyka_surowce": 2,
+  "energetyka_surowce": 4,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
   "pozostale": 12
  },
- "duplicatesRemoved": 28,
- "total": 91,
+ "duplicatesRemoved": 29,
+ "total": 94,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -352,6 +352,15 @@
   ],
   "makro_pl": [
    {
+    "time": "10:16",
+    "kind": "news",
+    "ticker": null,
+    "title": "W grudniu możliwy brak zmian stóp, później decyzje zależą od cen administrowanych - Janczyk, RPP",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/w-grudniu-mozliwy-brak-zmian-stop-pozniej-decyzje-zaleza-od-cen",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "09:54",
     "kind": "news",
     "ticker": null,
@@ -440,15 +449,6 @@
     "url": "https://bossa.pl/analizy/komunikaty#message-440694",
     "src": "bossa",
     "flags": []
-   },
-   {
-    "time": "06:30",
-    "kind": "pap",
-    "ticker": null,
-    "title": "W grudniu możliwy brak zmian stóp, później decyzje zależą od cen administrowanych - Janczyk, RPP",
-    "url": "https://bossa.pl/analizy/komunikaty#message-440687",
-    "src": "bossa",
-    "flags": []
    }
   ],
   "swiat_rynki": [
@@ -481,6 +481,24 @@
    }
   ],
   "energetyka_surowce": [
+   {
+    "time": "10:21",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ONDE S.A.: Zawarcie listu intencyjnego w sprawie rozwoju projektów OZE",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71604",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:20",
+    "kind": "espi",
+    "ticker": null,
+    "title": "TAURON POLSKA ENERGIA S.A.: Zawarcie listu intencyjnego w sprawie rozwoju projektów OZE przez spółkę zależną Emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71603",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:15",
     "kind": "news",

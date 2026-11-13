@@ -1,7 +1,42 @@
 {
  "date": "2026-11-13",
- "count": 91,
+ "count": 94,
  "items": [
+  {
+   "id": "bossa-espi-71604",
+   "date": "2026-11-13",
+   "time": "10:21",
+   "ts": "2026-11-13T10:21:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ONDE S.A.",
+   "title": "Zawarcie listu intencyjnego w sprawie rozwoju projektów OZE",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71604"
+  },
+  {
+   "id": "bossa-espi-71603",
+   "date": "2026-11-13",
+   "time": "10:20",
+   "ts": "2026-11-13T10:20:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "TAURON POLSKA ENERGIA S.A.",
+   "title": "Zawarcie listu intencyjnego w sprawie rozwoju projektów OZE przez spółkę zależną Emitenta",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71603"
+  },
+  {
+   "id": "strefa-cc274db72807",
+   "date": "2026-11-13",
+   "time": "10:16",
+   "ts": "2026-11-13T10:16:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "W grudniu możliwy brak zmian stóp, później decyzje zależą od cen administrowanych - Janczyk, RPP",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/w-grudniu-mozliwy-brak-zmian-stop-pozniej-decyzje-zaleza-od-cen"
+  },
   {
    "id": "bossa-pap-440742",
    "date": "2026-11-13",
