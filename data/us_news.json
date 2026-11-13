@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "998f80d0ef87",
+   "ticker": "NVDA",
+   "time": "2026-11-13T23:20+01:00",
+   "title": "Stock Market Today, Nov. 13: Nvidia Slides After HSBC Downgrades Stock to Hold on CEO Uncertainty",
+   "url": "https://www.nasdaq.com/articles/stock-market-today-nov-13-nvidia-slides-after-hsbc-downgrades-stock-hold-ceo-uncertainty",
+   "src": "nasdaq",
+   "summary": "Nvidia (NASDAQ:NVDA), an AI accelerator, graphics processor, and data-center networking solutions provider, closed at $162.85, down 2.01%. HSBC downgraded the stock to hold, and investors are watching the earnings call on Nov. 17.Trading volume reached 360.7M shares, coming in ab"
+  },
+  {
    "id": "d367450267d3",
    "ticker": "NVDA",
    "time": "2026-11-13T22:55+01:00",
@@ -13060,5 +13069,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-13T23:33:25+01:00"
+ "updatedAt": "2026-11-13T23:44:24+01:00"
 }
