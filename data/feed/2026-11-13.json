@@ -1,7 +1,65 @@
 {
  "date": "2026-11-13",
- "count": 77,
+ "count": 83,
  "items": [
+  {
+   "id": "strefa-a66be37136e7",
+   "date": "2026-11-13",
+   "time": "09:54",
+   "ts": "2026-11-13T09:54:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ceny usług turystycznych organizowanych za granicą wzrosły w X o 5,1 proc. rdr - GUS",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/ceny-uslug-turystycznych-organizowanych-za-granica-wzrosly-w-x-o-51-proc-rdr"
+  },
+  {
+   "id": "bossa-pap-440736",
+   "date": "2026-11-13",
+   "time": "09:53",
+   "ts": "2026-11-13T09:53:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ceny usług turystycznych organizowanych za granicą wzrosły w X o 5,1 proc. rdr - GUS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440736"
+  },
+  {
+   "id": "strefa-3c3d54d4dbc0",
+   "date": "2026-11-13",
+   "time": "09:52",
+   "ts": "2026-11-13T09:52:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ceny usług finansowych w październiku wzrosły o 3,0 proc. rdr - GUS",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/ceny-uslug-finansowych-w-pazdzierniku-wzrosly-o-30-proc-rdr-gus"
+  },
+  {
+   "id": "bossa-pap-440735",
+   "date": "2026-11-13",
+   "time": "09:52",
+   "ts": "2026-11-13T09:52:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ceny usług finansowych w październiku wzrosły o 3,0 proc. rdr - GUS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440735"
+  },
+  {
+   "id": "bossa-pap-440734",
+   "date": "2026-11-13",
+   "time": "09:51",
+   "ts": "2026-11-13T09:51:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ceny transportu obniżyły październikowy wskaźnik CPI mdm o 0,69 pkt. proc. - GUS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440734"
+  },
   {
    "id": "bossa-espi-71599",
    "date": "2026-11-13",
@@ -13,6 +71,17 @@
    "title": "Projekty Uchwał Nadzwyczajnego Walnego Zgromadzenia Akcjonariuszy PHS Hydrotor SA - 10-12-2026 r.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-71599"
+  },
+  {
+   "id": "strefa-c4475d37e1a6",
+   "date": "2026-11-13",
+   "time": "09:40",
+   "ts": "2026-11-13T09:40:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ceny transportu obniżyły październikowy wskaźnik CPI mdm o 0,69 pkt. proc. - GUS",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/ceny-transportu-obnizyly-pazdziernikowy-wskaznik-cpi-mdm-o-069-pkt-proc-gus"
   },
   {
    "id": "bossa-espi-71598",
