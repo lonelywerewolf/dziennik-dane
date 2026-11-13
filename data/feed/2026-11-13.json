@@ -1,7 +1,78 @@
 {
  "date": "2026-11-13",
- "count": 201,
+ "count": 207,
  "items": [
+  {
+   "id": "bossa-espi-71659",
+   "date": "2026-11-13",
+   "time": "15:48",
+   "ts": "2026-11-13T15:48:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF TBSP IPORTFELOWY FIZ",
+   "title": "Raport bieżący nr 229 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71659"
+  },
+  {
+   "id": "bossa-espi-71658",
+   "date": "2026-11-13",
+   "time": "15:44",
+   "ts": "2026-11-13T15:44:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ONDE S.A.",
+   "title": "Zawarcie umów na wykonanie dwóch magazynów energii o łącznej wartości 129,8 mln zł netto",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71658"
+  },
+  {
+   "id": "bossa-pap-440830",
+   "date": "2026-11-13",
+   "time": "15:43",
+   "ts": "2026-11-13T15:43:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "CARPATHIA CAPITAL ASI SA (10/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440830"
+  },
+  {
+   "id": "bossa-pap-440829",
+   "date": "2026-11-13",
+   "time": "15:41",
+   "ts": "2026-11-13T15:41:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA FX/FI: W najbliższym czasie eurozłoty może nadal wahać się wokół 4,40",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440829"
+  },
+  {
+   "id": "bossa-espi-71656",
+   "date": "2026-11-13",
+   "time": "15:40",
+   "ts": "2026-11-13T15:40:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF mWIG40TR PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 230 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71656"
+  },
+  {
+   "id": "strefa-ce3e12a1307f",
+   "date": "2026-11-13",
+   "time": "15:34",
+   "ts": "2026-11-13T15:34:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA FX/FI: W najbliższym czasie eurozłoty może nadal wahać się wokół 4,40",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/dzien-na-fxfi-w-najblizszym-czasie-eurozloty-moze-nadal-wahac-sie-wokol-440"
+  },
   {
    "id": "bossa-pap-440827",
    "date": "2026-11-13",

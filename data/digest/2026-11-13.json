@@ -1,12 +1,12 @@
 {
  "date": "2026-11-13",
  "counts": {
-  "podsumowania": 10,
-  "wyniki": 41,
+  "podsumowania": 11,
+  "wyniki": 42,
   "rekomendacje": 0,
   "korporacyjne": 26,
   "makro_pl": 21,
-  "swiat_rynki": 5,
+  "swiat_rynki": 6,
   "energetyka_surowce": 6,
   "nieruchomosci": 2,
   "fundusze_drobne": 0,
@@ -14,11 +14,20 @@
   "obserwowane": 0,
   "pozostale": 31
  },
- "duplicatesRemoved": 58,
- "total": 201,
+ "duplicatesRemoved": 61,
+ "total": 207,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "15:34",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA FX/FI: W najbliższym czasie eurozłoty może nadal wahać się wokół 4,40",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/dzien-na-fxfi-w-najblizszym-czasie-eurozloty-moze-nadal-wahac-sie-wokol-440",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "15:02",
     "kind": "news",
@@ -115,6 +124,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "15:43",
+    "kind": "pap",
+    "ticker": null,
+    "title": "CARPATHIA CAPITAL ASI SA (10/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440830",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:24",
     "kind": "pap",
@@ -970,6 +988,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "15:44",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ONDE S.A.: Zawarcie umów na wykonanie dwóch magazynów energii o łącznej wartości 129,8 mln zł netto",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71658",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:16",
     "kind": "news",
