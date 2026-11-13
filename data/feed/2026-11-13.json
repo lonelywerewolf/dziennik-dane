@@ -1,7 +1,43 @@
 {
  "date": "2026-11-13",
- "count": 87,
+ "count": 91,
  "items": [
+  {
+   "id": "bossa-pap-440742",
+   "date": "2026-11-13",
+   "time": "10:15",
+   "ts": "2026-11-13T10:15:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Aby utrzymać szybki wzrost PKB Polska potrzebuje tańszej energii, rozwoju AI, konkurencyjnego eksportu - prezes NBP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440742"
+  },
+  {
+   "id": "bossa-espi-10328",
+   "date": "2026-11-13",
+   "time": "10:14",
+   "ts": "2026-11-13T10:14:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Internetowy Fundusz Leasingowy S.A.",
+   "title": "Aktualizacja prognozy wyników finansowych IFL S.A. za 2026 rok.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-10328"
+  },
+  {
+   "id": "bossa-espi-71602",
+   "date": "2026-11-13",
+   "time": "10:07",
+   "ts": "2026-11-13T10:07:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "XTPL S.A.",
+   "title": "Zakończenie subskrypcji akcji serii Z",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71602"
+  },
   {
    "id": "bossa-pap-440739",
    "date": "2026-11-13",
@@ -37,6 +73,17 @@
    "title": "Spowolnienie wzrostu III kw. to efekt przejściowej utraty tempa, a nie trwałej zmiany trendu (opinia)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-440737"
+  },
+  {
+   "id": "strefa-71f5034eebb2",
+   "date": "2026-11-13",
+   "time": "09:59",
+   "ts": "2026-11-13T09:59:06+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Aby utrzymać szybki wzrost PKB Polska potrzebuje tańszej energii, rozwoju AI, konkurencyjnego eksportu - prezes NBP",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261113/aby-utrzymac-szybki-wzrost-pkb-polska-potrzebuje-tanszej-energii-rozwoju-ai"
   },
   {
    "id": "strefa-f69d20b491ed",

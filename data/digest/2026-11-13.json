@@ -2,9 +2,9 @@
  "date": "2026-11-13",
  "counts": {
   "podsumowania": 8,
-  "wyniki": 19,
+  "wyniki": 20,
   "rekomendacje": 0,
-  "korporacyjne": 5,
+  "korporacyjne": 6,
   "makro_pl": 11,
   "swiat_rynki": 3,
   "energetyka_surowce": 2,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 11
+  "pozostale": 12
  },
- "duplicatesRemoved": 27,
- "total": 87,
+ "duplicatesRemoved": 28,
+ "total": 91,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -93,6 +93,18 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "10:14",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Internetowy Fundusz Leasingowy S.A.: Aktualizacja prognozy wyników finansowych IFL S.A. za 2026 rok.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-10328",
+    "src": "bossa",
+    "flags": [
+     "wyniki",
+     "prognoza"
+    ]
+   },
    {
     "time": "10:05",
     "kind": "pap",
@@ -271,6 +283,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "09:59",
+    "kind": "news",
+    "ticker": null,
+    "title": "Aby utrzymać szybki wzrost PKB Polska potrzebuje tańszej energii, rozwoju AI, konkurencyjnego eksportu - prezes NBP",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261113/aby-utrzymac-szybki-wzrost-pkb-polska-potrzebuje-tanszej-energii-rozwoju-ai",
+    "src": "strefainwestorow",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "09:55",
     "kind": "news",
@@ -494,6 +517,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "10:07",
+    "kind": "espi",
+    "ticker": null,
+    "title": "XTPL S.A.: Zakończenie subskrypcji akcji serii Z",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71602",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:01",
     "kind": "pap",
