@@ -1,11 +1,11 @@
 {
  "date": "2026-11-13",
  "counts": {
-  "podsumowania": 3,
-  "wyniki": 0,
+  "podsumowania": 4,
+  "wyniki": 1,
   "rekomendacje": 0,
   "korporacyjne": 0,
-  "makro_pl": 0,
+  "makro_pl": 1,
   "swiat_rynki": 0,
   "energetyka_surowce": 0,
   "nieruchomosci": 0,
@@ -14,11 +14,20 @@
   "obserwowane": 0,
   "pozostale": 2
  },
- "duplicatesRemoved": 0,
- "total": 5,
+ "duplicatesRemoved": 1,
+ "total": 9,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "06:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Przegląd prasy gospodarczej w piątek, 13 listopada",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440688",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "06:00",
     "kind": "pap",
@@ -47,10 +56,30 @@
     "flags": []
    }
   ],
-  "wyniki": [],
+  "wyniki": [
+   {
+    "time": "06:25",
+    "kind": "pap",
+    "ticker": null,
+    "title": "EXCELLENCE SA (13/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440686",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "rekomendacje": [],
   "korporacyjne": [],
-  "makro_pl": [],
+  "makro_pl": [
+   {
+    "time": "06:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "W grudniu możliwy brak zmian stóp, później decyzje zależą od cen administrowanych - Janczyk, RPP",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440687",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "swiat_rynki": [],
   "energetyka_surowce": [],
   "nieruchomosci": [],

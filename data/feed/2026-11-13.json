@@ -1,7 +1,55 @@
 {
  "date": "2026-11-13",
- "count": 5,
+ "count": 9,
  "items": [
+  {
+   "id": "bossa-pap-440688",
+   "date": "2026-11-13",
+   "time": "06:34",
+   "ts": "2026-11-13T06:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Przegląd prasy gospodarczej w piątek, 13 listopada",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440688"
+  },
+  {
+   "id": "bossa-espi-71576",
+   "date": "2026-11-13",
+   "time": "06:34",
+   "ts": "2026-11-13T06:34:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MLP GROUP S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71576"
+  },
+  {
+   "id": "bossa-pap-440687",
+   "date": "2026-11-13",
+   "time": "06:30",
+   "ts": "2026-11-13T06:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "W grudniu możliwy brak zmian stóp, później decyzje zależą od cen administrowanych - Janczyk, RPP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440687"
+  },
+  {
+   "id": "bossa-pap-440686",
+   "date": "2026-11-13",
+   "time": "06:25",
+   "ts": "2026-11-13T06:25:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "EXCELLENCE SA (13/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440686"
+  },
   {
    "id": "bossa-pap-440685",
    "date": "2026-11-13",
