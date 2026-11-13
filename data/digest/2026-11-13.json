@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 22
+  "pozostale": 23
  },
  "duplicatesRemoved": 39,
- "total": 143,
+ "total": 144,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -807,6 +807,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "13:23",
+    "kind": "espi",
+    "ticker": null,
+    "title": "UniCredit: UniCredit successfully returns to the US fixed-income market with a multi-tranche USD 3.5 billion Senior Non-Preferred issuance",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71624",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:58",
     "kind": "pap",
