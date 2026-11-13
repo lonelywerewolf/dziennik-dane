@@ -2,9 +2,9 @@
  "date": "2026-11-13",
  "counts": {
   "podsumowania": 9,
-  "wyniki": 37,
+  "wyniki": 38,
   "rekomendacje": 0,
-  "korporacyjne": 20,
+  "korporacyjne": 21,
   "makro_pl": 19,
   "swiat_rynki": 3,
   "energetyka_surowce": 6,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 25
+  "pozostale": 26
  },
  "duplicatesRemoved": 45,
- "total": 167,
+ "total": 170,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -104,6 +104,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "14:26",
+    "kind": "pap",
+    "ticker": null,
+    "title": "AUTOMATYKA-POMIARY-STEROWANIE SA (10/2026) Skonsolidowany raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440803",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:16",
     "kind": "news",
@@ -451,6 +460,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "14:31",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ONDE S.A.: Zawarcie umowy o wartości ok. 17,8 mln euro netto na realizację farmy wiatrowej na terenie Litwy",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71644",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "14:20",
     "kind": "espi",
@@ -958,6 +978,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "14:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "TELESTRADA SA (47/2026) Inne informacje",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440804",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:15",
     "kind": "news",

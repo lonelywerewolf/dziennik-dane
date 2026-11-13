@@ -1,7 +1,43 @@
 {
  "date": "2026-11-13",
- "count": 167,
+ "count": 170,
  "items": [
+  {
+   "id": "bossa-espi-71644",
+   "date": "2026-11-13",
+   "time": "14:31",
+   "ts": "2026-11-13T14:31:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ONDE S.A.",
+   "title": "Zawarcie umowy o wartości ok. 17,8 mln euro netto na realizację farmy wiatrowej na terenie Litwy",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71644"
+  },
+  {
+   "id": "bossa-pap-440804",
+   "date": "2026-11-13",
+   "time": "14:30",
+   "ts": "2026-11-13T14:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "TELESTRADA SA (47/2026) Inne informacje",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440804"
+  },
+  {
+   "id": "bossa-pap-440803",
+   "date": "2026-11-13",
+   "time": "14:26",
+   "ts": "2026-11-13T14:26:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "AUTOMATYKA-POMIARY-STEROWANIE SA (10/2026) Skonsolidowany raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440803"
+  },
   {
    "id": "bossa-espi-71641",
    "date": "2026-11-13",
