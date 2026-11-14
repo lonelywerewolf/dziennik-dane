@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 3
+  "pozostale": 4
  },
  "duplicatesRemoved": 0,
- "total": 4,
+ "total": 5,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [],
@@ -40,6 +40,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "18:48",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MADKOM SA (22/2026) Inne informacje",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440985",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:41",
     "kind": "news",
