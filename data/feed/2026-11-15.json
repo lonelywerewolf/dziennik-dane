@@ -1,7 +1,19 @@
 {
  "date": "2026-11-15",
- "count": 5,
+ "count": 6,
  "items": [
+  {
+   "id": "bossa-pap-440990",
+   "date": "2026-11-15",
+   "time": "21:54",
+   "ts": "2026-11-15T21:54:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "IBC POLSKA F&P SA (12/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440990"
+  },
   {
    "id": "bossa-pap-440989",
    "date": "2026-11-15",

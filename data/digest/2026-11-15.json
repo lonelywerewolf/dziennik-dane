@@ -2,7 +2,7 @@
  "date": "2026-11-15",
  "counts": {
   "podsumowania": 1,
-  "wyniki": 1,
+  "wyniki": 2,
   "rekomendacje": 0,
   "korporacyjne": 1,
   "makro_pl": 1,
@@ -15,7 +15,7 @@
   "pozostale": 0
  },
  "duplicatesRemoved": 1,
- "total": 5,
+ "total": 6,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -30,6 +30,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "21:54",
+    "kind": "pap",
+    "ticker": null,
+    "title": "IBC POLSKA F&P SA (12/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440990",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:11",
     "kind": "espi",
