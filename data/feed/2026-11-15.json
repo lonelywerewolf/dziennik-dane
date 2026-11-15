@@ -1,7 +1,42 @@
 {
  "date": "2026-11-15",
- "count": 2,
+ "count": 5,
  "items": [
+  {
+   "id": "bossa-pap-440989",
+   "date": "2026-11-15",
+   "time": "20:26",
+   "ts": "2026-11-15T20:26:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Siły rządowe Jemenu wycofały się z rejonu cieśniny Bab al-Mandab; teren przejęli Huti",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440989"
+  },
+  {
+   "id": "bossa-pap-440988",
+   "date": "2026-11-15",
+   "time": "20:00",
+   "ts": "2026-11-15T20:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Skrót wiadomości: sobota-niedziela, 14-15 listopada",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-440988"
+  },
+  {
+   "id": "strefa-fd59c19ee388",
+   "date": "2026-11-15",
+   "time": "18:19",
+   "ts": "2026-11-15T18:19:33+01:00",
+   "src": "strefainwestorow",
+   "kind": "skrot",
+   "title": "Skrót wiadomości: sobota-niedziela, 14-15 listopada",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261115/skrot-wiadomosci-sobota-niedziela-14-15-listopada"
+  },
   {
    "id": "bossa-espi-71757",
    "date": "2026-11-15",
