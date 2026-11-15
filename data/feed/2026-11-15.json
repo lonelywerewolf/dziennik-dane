@@ -1,7 +1,19 @@
 {
  "date": "2026-11-15",
- "count": 1,
+ "count": 2,
  "items": [
+  {
+   "id": "bossa-espi-71757",
+   "date": "2026-11-15",
+   "time": "16:31",
+   "ts": "2026-11-15T16:31:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ADVERTIGO S.A.",
+   "title": "Podpisanie porozumienia o podstawowych warunkach transakcji w wprawie połączenia z Aurumaris",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71757"
+  },
   {
    "id": "bossa-espi-71756",
    "date": "2026-11-15",
