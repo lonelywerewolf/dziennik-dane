@@ -2,7 +2,7 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 18,
-  "wyniki": 89,
+  "wyniki": 92,
   "rekomendacje": 4,
   "korporacyjne": 52,
   "makro_pl": 27,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 73
  },
- "duplicatesRemoved": 147,
- "total": 453,
+ "duplicatesRemoved": 149,
+ "total": 458,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -189,6 +189,33 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "22:08",
+    "kind": "pap",
+    "ticker": null,
+    "title": "WERTH-HOLZ SA (14/2026) Skonsolidowany raport kwartalny za IV kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441361",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "22:07",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GRUPA KLEPSYDRA SA (17/2026) Skonsolidowany raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441360",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "21:59",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BEST FASHION MEDIA SA (22/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441357",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "21:50",
     "kind": "pap",
