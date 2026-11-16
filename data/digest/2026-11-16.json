@@ -2,7 +2,7 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 19,
-  "wyniki": 95,
+  "wyniki": 96,
   "rekomendacje": 4,
   "korporacyjne": 52,
   "makro_pl": 28,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 13,
   "twoje_spolki": 8,
   "obserwowane": 0,
-  "pozostale": 73
+  "pozostale": 74
  },
  "duplicatesRemoved": 151,
- "total": 466,
+ "total": 468,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -198,6 +198,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "22:37",
+    "kind": "pap",
+    "ticker": null,
+    "title": "IRON WOLF STUDIO SA (9/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441369",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "22:21",
     "kind": "pap",
@@ -2321,6 +2330,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "22:31",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Yanosik S.A.: SA-Q",
+    "url": "https://bossa.pl/analizy/komunikaty#message-86362",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "21:23",
     "kind": "pap",

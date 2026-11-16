@@ -1,7 +1,31 @@
 {
  "date": "2026-11-16",
- "count": 466,
+ "count": 468,
  "items": [
+  {
+   "id": "bossa-pap-441369",
+   "date": "2026-11-16",
+   "time": "22:37",
+   "ts": "2026-11-16T22:37:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "IRON WOLF STUDIO SA (9/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441369"
+  },
+  {
+   "id": "bossa-espi-86362",
+   "date": "2026-11-16",
+   "time": "22:31",
+   "ts": "2026-11-16T22:31:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Yanosik S.A.",
+   "title": "SA-Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-86362"
+  },
   {
    "id": "bossa-pap-441367",
    "date": "2026-11-16",
