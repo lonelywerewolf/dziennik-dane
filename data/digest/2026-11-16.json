@@ -12,10 +12,10 @@
   "fundusze_drobne": 13,
   "twoje_spolki": 8,
   "obserwowane": 0,
-  "pozostale": 72
+  "pozostale": 73
  },
- "duplicatesRemoved": 146,
- "total": 447,
+ "duplicatesRemoved": 147,
+ "total": 449,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -2204,6 +2204,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "21:23",
+    "kind": "pap",
+    "ticker": null,
+    "title": "APANET SA (20/2026) Informacje o niestosowaniu w sposób trwały lub incydentalnym naruszeniu przez emitenta zasady ładu korporacyjnego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441352",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "20:59",
     "kind": "pap",
