@@ -2,7 +2,7 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 11,
-  "wyniki": 15,
+  "wyniki": 16,
   "rekomendacje": 2,
   "korporacyjne": 3,
   "makro_pl": 8,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 2,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 16
+  "pozostale": 17
  },
- "duplicatesRemoved": 26,
- "total": 89,
+ "duplicatesRemoved": 28,
+ "total": 93,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -122,6 +122,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "09:43",
+    "kind": "pap",
+    "ticker": null,
+    "title": "E-KIOSK SA (13/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441057",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:33",
     "kind": "pap",
@@ -479,6 +488,24 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "09:44",
+    "kind": "news",
+    "ticker": null,
+    "title": "DM BOŚ na '27 rekomenduje m.in. selektywną ekspozycję na polskie akcje",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/dm-bos-na-27-rekomenduje-min-selektywna-ekspozycje-na-polskie-akcje",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "09:37",
+    "kind": "news",
+    "ticker": null,
+    "title": "Rakieta ILR-33 BURSZTYN 2K po udanych próbach poligonowych. Technologie Thorium Space sprawdzone podczas lotu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/rakieta-ilr-33-bursztyn-2k-po-udanych-probach-poligonowych-technologie-thorium",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "09:30",
     "kind": "pap",
     "ticker": null,
@@ -493,15 +520,6 @@
     "ticker": null,
     "title": "TERMOEXPERT SA (10/2026) Rejestracja przez sąd zmiany statutu emitenta lub odmowie takiej rejestracji, z podaniem przyczyn odmowy",
     "url": "https://bossa.pl/analizy/komunikaty#message-441046",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "08:48",
-    "kind": "pap",
-    "ticker": null,
-    "title": "DM BOŚ na '27 rekomenduje m.in. selektywną ekspozycję na polskie akcje",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441040",
     "src": "bossa",
     "flags": []
    },

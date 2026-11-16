@@ -1,7 +1,53 @@
 {
  "date": "2026-11-16",
- "count": 89,
+ "count": 93,
  "items": [
+  {
+   "id": "strefa-82deca8360ea",
+   "date": "2026-11-16",
+   "time": "09:44",
+   "ts": "2026-11-16T09:44:57+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DM BOŚ na '27 rekomenduje m.in. selektywną ekspozycję na polskie akcje",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/dm-bos-na-27-rekomenduje-min-selektywna-ekspozycje-na-polskie-akcje"
+  },
+  {
+   "id": "bossa-pap-441057",
+   "date": "2026-11-16",
+   "time": "09:43",
+   "ts": "2026-11-16T09:43:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "E-KIOSK SA (13/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441057"
+  },
+  {
+   "id": "bossa-pap-441056",
+   "date": "2026-11-16",
+   "time": "09:41",
+   "ts": "2026-11-16T09:41:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PREFA GROUP SA (18/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441056"
+  },
+  {
+   "id": "strefa-a63f4bbdc6d9",
+   "date": "2026-11-16",
+   "time": "09:37",
+   "ts": "2026-11-16T09:37:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Rakieta ILR-33 BURSZTYN 2K po udanych próbach poligonowych. Technologie Thorium Space sprawdzone podczas lotu",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/rakieta-ilr-33-bursztyn-2k-po-udanych-probach-poligonowych-technologie-thorium"
+  },
   {
    "id": "bossa-pap-441055",
    "date": "2026-11-16",
