@@ -12,10 +12,10 @@
   "fundusze_drobne": 13,
   "twoje_spolki": 8,
   "obserwowane": 0,
-  "pozostale": 70
+  "pozostale": 71
  },
- "duplicatesRemoved": 140,
- "total": 435,
+ "duplicatesRemoved": 141,
+ "total": 437,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -2168,6 +2168,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "20:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BEST FASHION MEDIA SA (21/2026) Zmiana adresu emitenta lub adresu jego strony internetowej lub ostatniego wskazanego Organizatorowi Alternatywnego Systemu adresu e-mail emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441341",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "19:42",
     "kind": "pap",
