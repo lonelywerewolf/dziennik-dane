@@ -1,7 +1,30 @@
 {
  "date": "2026-11-16",
- "count": 47,
+ "count": 50,
  "items": [
+  {
+   "id": "bossa-pap-441027",
+   "date": "2026-11-16",
+   "time": "08:14",
+   "ts": "2026-11-16T08:14:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: Poniedziałkowa sesja może rozpocząć się od spadków",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441027"
+  },
+  {
+   "id": "strefa-da3efb4e8c39",
+   "date": "2026-11-16",
+   "time": "08:10",
+   "ts": "2026-11-16T08:10:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: Poniedziałkowa sesja może rozpocząć się od spadków",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/dzien-na-gpw-poniedzialkowa-sesja-moze-rozpoczac-sie-od-spadkow"
+  },
   {
    "id": "bossa-pap-441026",
    "date": "2026-11-16",
@@ -13,6 +36,17 @@
    "title": "Ceny miedzi w Londynie najniższe od ponad 4 miesięcy",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-441026"
+  },
+  {
+   "id": "strefa-28fce88d472a",
+   "date": "2026-11-16",
+   "time": "08:08",
+   "ts": "2026-11-16T08:08:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ceny miedzi w Londynie najniższe od ponad 4 miesięcy",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/ceny-miedzi-w-londynie-najnizsze-od-ponad-4-miesiecy"
   },
   {
    "id": "bossa-pap-441025",
