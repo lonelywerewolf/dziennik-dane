@@ -1,25 +1,82 @@
 {
  "date": "2026-11-16",
  "counts": {
-  "podsumowania": 0,
-  "wyniki": 1,
+  "podsumowania": 5,
+  "wyniki": 2,
   "rekomendacje": 0,
   "korporacyjne": 0,
-  "makro_pl": 0,
+  "makro_pl": 1,
   "swiat_rynki": 0,
-  "energetyka_surowce": 0,
+  "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
-  "twoje_spolki": 0,
+  "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 0
+  "pozostale": 4
  },
- "duplicatesRemoved": 0,
- "total": 1,
+ "duplicatesRemoved": 3,
+ "total": 17,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
-  "podsumowania": [],
+  "podsumowania": [
+   {
+    "time": "06:33",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Przegląd prasy gospodarczej w poniedziałek, 16 listopada",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440999",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "06:15",
+    "kind": "pap",
+    "ticker": null,
+    "title": "TYDZIEŃ W KRAJU: Inflacja bazowa, koniunktura GUS, aukcja MF, wyniki spółek",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440998",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "06:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Kalendarium spółek z WIG30 2026-11-16",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440995",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "06:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Kalendarium rynku NewConnect 2026-11-16",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440994",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "06:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Kalendarium rynku kapitałowego GPW 2026-11-16",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440993",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "wyniki": [
+   {
+    "time": "06:06",
+    "kind": "pap",
+    "ticker": null,
+    "title": "TELGAM SA (11/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440996",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "00:17",
     "kind": "pap",
@@ -32,13 +89,82 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [],
-  "makro_pl": [],
+  "makro_pl": [
+   {
+    "time": "06:37",
+    "kind": "news",
+    "ticker": null,
+    "title": "Rentowności obligacji wybranych państw (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/rentownosci-obligacji-wybranych-panstw-tabela",
+    "src": "strefainwestorow",
+    "flags": []
+   }
+  ],
   "swiat_rynki": [],
-  "energetyka_surowce": [],
+  "energetyka_surowce": [
+   {
+    "time": "06:37",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441003",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "nieruchomosci": [],
   "fundusze_drobne": [],
-  "twoje_spolki": [],
+  "twoje_spolki": [
+   {
+    "time": "06:20",
+    "kind": "news",
+    "ticker": "NVDA",
+    "title": "TYDZIEŃ NA RYNKACH: Wyniki Nvidii, IPO Anthropic, spotkanie Trump-Xi-Putin",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/tydzien-na-rynkach-wyniki-nvidii-ipo-anthropic-spotkanie-trump-xi-putin",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   }
+  ],
   "obserwowane": [],
-  "pozostale": []
+  "pozostale": [
+   {
+    "time": "06:35",
+    "kind": "pap",
+    "ticker": null,
+    "title": "TYGODNIOWY PRZEGLĄD Z REGIONU: Polityka i gospodarka, 8-15 listopada",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441001",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "06:35",
+    "kind": "pap",
+    "ticker": null,
+    "title": "TYGODNIOWY PRZEGLĄD Z REGIONU: Biznes i Rynki, 8-15 listopada",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441000",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "06:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "06:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-16",
+    "url": "https://bossa.pl/analizy/komunikaty#message-440992",
+    "src": "bossa",
+    "flags": []
+   }
+  ]
  }
 }
