@@ -1,7 +1,54 @@
 {
  "date": "2026-11-16",
- "count": 110,
+ "count": 115,
  "items": [
+  {
+   "id": "bossa-pap-441073",
+   "date": "2026-11-16",
+   "time": "10:42",
+   "ts": "2026-11-16T10:42:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne - SONIA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441073"
+  },
+  {
+   "id": "strefa-11a29527f82b",
+   "date": "2026-11-16",
+   "time": "10:41",
+   "ts": "2026-11-16T10:41:45+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ruszają zapisy na akcje Atomic Jelly. Spółka planuje pozyskać ponad 2 mln zł z emisji z prawem poboru",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/ruszaja-zapisy-na-akcje-atomic-jelly-spolka-planuje-pozyskac-ponad-2-mln-zl-z"
+  },
+  {
+   "id": "bossa-pap-441072",
+   "date": "2026-11-16",
+   "time": "10:40",
+   "ts": "2026-11-16T10:40:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MKiŚ: Rekordowe wyniki systemu kaucyjnego. Polacy zwrócili już 5,6 mld butelek i puszek (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441072"
+  },
+  {
+   "id": "bossa-espi-71795",
+   "date": "2026-11-16",
+   "time": "10:39",
+   "ts": "2026-11-16T10:39:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "FIGENE CAPITAL S.A.",
+   "title": "Informacja o opóźnieniu publikacji raportu okresowego za III kwartał 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71795"
+  },
   {
    "id": "bossa-espi-71794",
    "date": "2026-11-16",
@@ -37,6 +84,17 @@
    "title": "VRFABRIC SA (10/2026) Raport kwartalny za III kwartał",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-441068"
+  },
+  {
+   "id": "strefa-543c139d30ec",
+   "date": "2026-11-16",
+   "time": "10:08",
+   "ts": "2026-11-16T10:08:04+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "beeIN S.A. po trzech kwartałach zwiększa przychody do 21,3 mln zł i zamyka etap historycznych zapasów",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/beein-sa-po-trzech-kwartalach-zwieksza-przychody-do-213-mln-zl-i-zamyka-etap"
   },
   {
    "id": "bossa-pap-441067",

@@ -2,9 +2,9 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 11,
-  "wyniki": 21,
+  "wyniki": 23,
   "rekomendacje": 2,
-  "korporacyjne": 6,
+  "korporacyjne": 7,
   "makro_pl": 9,
   "swiat_rynki": 5,
   "energetyka_surowce": 1,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 2,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 19
+  "pozostale": 21
  },
  "duplicatesRemoved": 33,
- "total": 110,
+ "total": 115,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -123,12 +123,32 @@
   ],
   "wyniki": [
    {
+    "time": "10:40",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MKiŚ: Rekordowe wyniki systemu kaucyjnego. Polacy zwrócili już 5,6 mld butelek i puszek (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441072",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
     "time": "10:21",
     "kind": "pap",
     "ticker": null,
     "title": "VRFABRIC SA (10/2026) Raport kwartalny za III kwartał",
     "url": "https://bossa.pl/analizy/komunikaty#message-441068",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:08",
+    "kind": "news",
+    "ticker": null,
+    "title": "beeIN S.A. po trzech kwartałach zwiększa przychody do 21,3 mln zł i zamyka etap historycznych zapasów",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/beein-sa-po-trzech-kwartalach-zwieksza-przychody-do-213-mln-zl-i-zamyka-etap",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -338,6 +358,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "10:41",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ruszają zapisy na akcje Atomic Jelly. Spółka planuje pozyskać ponad 2 mln zł z emisji z prawem poboru",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/ruszaja-zapisy-na-akcje-atomic-jelly-spolka-planuje-pozyskac-ponad-2-mln-zl-z",
+    "src": "strefainwestorow",
+    "flags": [
+     "emisja"
+    ]
+   },
    {
     "time": "10:30",
     "kind": "espi",
@@ -583,6 +614,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "10:42",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźniki referencyjne - SONIA",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441073",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:39",
+    "kind": "espi",
+    "ticker": null,
+    "title": "FIGENE CAPITAL S.A.: Informacja o opóźnieniu publikacji raportu okresowego za III kwartał 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71795",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:01",
     "kind": "espi",
