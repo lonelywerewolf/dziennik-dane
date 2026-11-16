@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T23:14:53+01:00",
+ "updatedAt": "2026-11-16T23:25:52+01:00",
  "q": {
   "ASB": {
    "date": "2026-11-16",
@@ -192,9 +192,9 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/nvda",
    "chg": -4.12,
    "live": {
-    "price": 156.0,
-    "chgPct": -4.21,
-    "at": "2026-11-16T16:54:41.981105301-05:00",
+    "price": 156.14,
+    "chgPct": -4.12,
+    "at": "2026-11-16T21:00:00+00:00",
     "src": "https://www.tiingo.com/nvda/overview",
     "via": "tiingo"
    }
