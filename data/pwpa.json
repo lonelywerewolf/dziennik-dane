@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "date": "2026-11-16",
+   "ticker": "ART",
+   "company": "ARTIFEX MUNDI S.A.",
+   "file": "20261116_erste_securities_polska_art_pl_ra.pdf",
+   "url": "https://www.gpw.pl/pub/pwpa/20261116_erste_securities_polska_art_pl_ra.pdf",
+   "type": "raport aktualizujący",
+   "house": "Erste Securities Polska S.A."
+  },
+  {
    "date": "2026-11-13",
    "ticker": "TOR",
    "company": "TORPOL S.A.",
@@ -428,5 +437,5 @@
    "house": "Noble Securities S.A."
   }
  ],
- "updatedAt": "2026-11-16T07:45:21+01:00"
+ "updatedAt": "2026-11-16T07:47:58+01:00"
 }
