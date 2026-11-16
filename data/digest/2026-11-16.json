@@ -3,7 +3,7 @@
  "counts": {
   "podsumowania": 6,
   "wyniki": 5,
-  "rekomendacje": 0,
+  "rekomendacje": 1,
   "korporacyjne": 0,
   "makro_pl": 7,
   "swiat_rynki": 2,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 1,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 6
+  "pozostale": 7
  },
- "duplicatesRemoved": 8,
- "total": 37,
+ "duplicatesRemoved": 10,
+ "total": 41,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -47,12 +47,12 @@
     "flags": []
    },
    {
-    "time": "06:15",
-    "kind": "pap",
+    "time": "06:20",
+    "kind": "news",
     "ticker": null,
     "title": "TYDZIEŃ W KRAJU: Inflacja bazowa, koniunktura GUS, aukcja MF, wyniki spółek",
-    "url": "https://bossa.pl/analizy/komunikaty#message-440998",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/tydzien-w-kraju-inflacja-bazowa-koniunktura-gus-aukcja-mf-wyniki-spolek",
+    "src": "strefainwestorow",
     "flags": [
      "wyniki"
     ]
@@ -125,7 +125,17 @@
     "flags": []
    }
   ],
-  "rekomendacje": [],
+  "rekomendacje": [
+   {
+    "time": "07:48",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wood & Company podniósł rekomendację Allegro do \"kupuj\", cena docelowa 75,70 zł",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441020",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "korporacyjne": [],
   "makro_pl": [
    {
@@ -250,6 +260,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "07:29",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny ropy na świecie rosną",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/ceny-ropy-na-swiecie-rosna",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "07:04",
     "kind": "espi",
