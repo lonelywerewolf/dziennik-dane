@@ -7,15 +7,15 @@
   "korporacyjne": 49,
   "makro_pl": 26,
   "swiat_rynki": 20,
-  "energetyka_surowce": 1,
+  "energetyka_surowce": 2,
   "nieruchomosci": 0,
   "fundusze_drobne": 13,
   "twoje_spolki": 8,
   "obserwowane": 0,
   "pozostale": 70
  },
- "duplicatesRemoved": 137,
- "total": 424,
+ "duplicatesRemoved": 139,
+ "total": 427,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1880,6 +1880,15 @@
    }
   ],
   "energetyka_surowce": [
+   {
+    "time": "19:46",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ENEA: Zmiany w składzie Rady Nadzorczej Enea S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71952",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:58",
     "kind": "news",
