@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "7dafeb8b2b67",
+   "ticker": "NVDA",
+   "time": "2026-11-16T18:51+01:00",
+   "title": "Prediction: Nvidia Stock Will Beat the Market Over the Next 10 Years",
+   "url": "https://www.nasdaq.com/articles/prediction-nvidia-stock-will-beat-market-over-next-10-years",
+   "src": "nasdaq",
+   "summary": "Key PointsHuang&rsquo;s departure hurts, but Nvidia&rsquo;s AI dominance was decades in the making."
+  },
+  {
+   "id": "da67d3fd40ab",
+   "ticker": "AVGO",
+   "time": "2026-11-16T18:50+01:00",
+   "title": "Stock Indexes Retreat as Chipmakers and AI Stocks Fall",
+   "url": "https://www.nasdaq.com/articles/stock-indexes-retreat-chipmakers-and-ai-stocks-fall",
+   "src": "nasdaq",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is down -0.95% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.47%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.58%.  December E-mini S&P futures (ESZ26 ) are down -1.02%, and December E-mini Nasdaq futures..."
+  },
+  {
+   "id": "bff96c4ff8bf",
+   "ticker": "NVDA",
+   "time": "2026-11-16T18:45+01:00",
+   "title": "Stock Market Midday, Nov. 16: Nasdaq Tumbles as Wall Street Braces for Nvidia Earnings and Bitcoin Slides",
+   "url": "https://www.nasdaq.com/articles/stock-market-midday-nov-16-nasdaq-tumbles-wall-street-braces-nvidia-earnings-and-bitcoin",
+   "src": "nasdaq",
+   "summary": "Wall Street extended its recent losses on Monday, November 16, as mounting selling pressure across technology and cryptocurrency markets weighed on investor sentiment ahead of Nvidia's highly anticipated earnings report. As of 11:31 a.m. ET, the Nasdaq Composite (NASDAQINDEX:^IXI"
+  },
+  {
    "id": "7d5bb70ec574",
    "ticker": "NVDA",
    "time": "2026-11-16T18:19+01:00",
@@ -89,6 +116,24 @@
    "url": "https://www.nasdaq.com/articles/nvda-november-30th-options-begin-trading",
    "src": "nasdaq",
    "summary": "Investors in NVIDIA Corp (Symbol: NVDA) saw new options become available today, for the November 30th expiration.   At Stock Options Channel, our YieldBoost formula has looked up and down the NVDA options chain for the new November 30th contracts and identified one put and one c"
+  },
+  {
+   "id": "5c140a07a129",
+   "ticker": "NVDA",
+   "time": "2026-11-16T16:48+01:00",
+   "title": "Nvidia, AI, and the Tech Sector's Earnings Outlook",
+   "url": "https://www.nasdaq.com/articles/nvidia-ai-and-tech-sectors-earnings-outlook",
+   "src": "nasdaq",
+   "summary": "We discuss the Q3 earnings season and what effect the ongoing Nvidia story will have on AI and the Tech sector."
+  },
+  {
+   "id": "1bb04c4e085c",
+   "ticker": "VRT",
+   "time": "2026-11-16T16:48+01:00",
+   "title": "Vertiv vs. Teradyne: Which AI Infrastructure Stock Is the Better Buy?",
+   "url": "https://www.nasdaq.com/articles/vertiv-vs-teradyne-which-ai-infrastructure-stock-better-buy",
+   "src": "nasdaq",
+   "summary": "VRT emerges as a stronger AI infrastructure stock than TER, supported by robust order growth, a diversified portfolio, and stronger earnings estimate revisions."
   },
   {
    "id": "23fd11f170b7",
@@ -13762,5 +13807,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-16T19:01:52+01:00"
+ "updatedAt": "2026-11-16T19:12:52+01:00"
 }

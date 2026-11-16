@@ -4,7 +4,7 @@
   "podsumowania": 18,
   "wyniki": 75,
   "rekomendacje": 4,
-  "korporacyjne": 45,
+  "korporacyjne": 46,
   "makro_pl": 26,
   "swiat_rynki": 19,
   "energetyka_surowce": 1,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 69
  },
- "duplicatesRemoved": 132,
- "total": 410,
+ "duplicatesRemoved": 133,
+ "total": 412,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -920,6 +920,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "19:10",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Develia podwyższyła maksymalną wartość programu emisji obligacji do 1,05 mld zł",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441318",
+    "src": "bossa",
+    "flags": [
+     "emisja"
+    ]
+   },
    {
     "time": "18:29",
     "kind": "espi",
