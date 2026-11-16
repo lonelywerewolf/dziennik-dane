@@ -5,8 +5,8 @@
   "wyniki": 5,
   "rekomendacje": 0,
   "korporacyjne": 0,
-  "makro_pl": 5,
-  "swiat_rynki": 1,
+  "makro_pl": 7,
+  "swiat_rynki": 2,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 1,
@@ -15,7 +15,7 @@
   "pozostale": 6
  },
  "duplicatesRemoved": 8,
- "total": 34,
+ "total": 37,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -129,6 +129,24 @@
   "korporacyjne": [],
   "makro_pl": [
    {
+    "time": "07:35",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Produkcja przemysłu w Japonii w IX: +2,0 proc. mdm. Wstępnie: +2,2 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441018",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "07:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Produkcja przemysłowa w Chinach rdr w X: +4,8 proc. Konsensus: +5, 3 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441017",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "07:32",
     "kind": "pap",
     "ticker": null,
@@ -175,6 +193,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "07:43",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Green Lanes rozpoczął proces budowy księgi popytu; oferuje do objęcia do 500 tys. akcji serii I",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441019",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "07:22",
     "kind": "espi",
