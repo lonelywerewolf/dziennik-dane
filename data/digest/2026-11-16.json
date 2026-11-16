@@ -2,20 +2,20 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 12,
-  "wyniki": 41,
+  "wyniki": 42,
   "rekomendacje": 3,
-  "korporacyjne": 18,
+  "korporacyjne": 21,
   "makro_pl": 21,
   "swiat_rynki": 9,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
-  "fundusze_drobne": 6,
+  "fundusze_drobne": 7,
   "twoje_spolki": 3,
   "obserwowane": 0,
   "pozostale": 45
  },
- "duplicatesRemoved": 78,
- "total": 237,
+ "duplicatesRemoved": 79,
+ "total": 243,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -133,6 +133,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "15:29",
+    "kind": "pap",
+    "ticker": null,
+    "title": "JUJUBEE SA (13/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441182",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:03",
     "kind": "pap",
@@ -545,6 +554,37 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "15:29",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MARVIPOL DEVELOPMENT S.A.: Pierwsze zawiadomienie akcjonariuszy o zamiarze połączenia Marvipol Development S.A. ze spółkami zależnymi",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71860",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
+   {
+    "time": "15:27",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PRIMEBIT GAMES S.A.: Informacja dotycząca stanu realizacji układu z wierzycielami przez Prime Bit Games S.A. w restrukturyzacji",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71859",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:20",
+    "kind": "pap",
+    "ticker": null,
+    "title": "TECH ROBOTICS SA (28/2026) Zawarcie, zmiana treści, wypowiedzenie, rozwiązanie lub wygaśnięcie umowy o wykonywanie zadań Autoryzowanego Doradcy",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441178",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "14:57",
     "kind": "news",
@@ -1024,6 +1064,15 @@
   ],
   "nieruchomosci": [],
   "fundusze_drobne": [
+   {
+    "time": "15:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OFE PZU wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441183",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:03",
     "kind": "pap",
