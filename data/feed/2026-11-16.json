@@ -1,7 +1,41 @@
 {
  "date": "2026-11-16",
- "count": 225,
+ "count": 229,
  "items": [
+  {
+   "id": "bossa-espi-71852",
+   "date": "2026-11-16",
+   "time": "14:56",
+   "ts": "2026-11-16T14:56:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 PLN-HEDGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 230 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71852"
+  },
+  {
+   "id": "strefa-b261675a2021",
+   "date": "2026-11-16",
+   "time": "14:51",
+   "ts": "2026-11-16T14:51:29+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Rewitalizacja rynku obligacji tematem drugiej edycji GPW Catalyst Forum",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/rewitalizacja-rynku-obligacji-tematem-drugiej-edycji-gpw-catalyst-forum"
+  },
+  {
+   "id": "strefa-1278a36caec6",
+   "date": "2026-11-16",
+   "time": "14:50",
+   "ts": "2026-11-16T14:50:10+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Cena maksymalna dla benzyny Pb95 we wtorek 17 listopada wyniesie 6,02 zł/l, dla ON 7,64 zł/l",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/cena-maksymalna-dla-benzyny-pb95-we-wtorek-17-listopada-wyniesie-602-zll-dla"
+  },
   {
    "id": "bossa-pap-441169",
    "date": "2026-11-16",
@@ -25,6 +59,17 @@
    "title": "MRPiPS: Skrócony czas pracy? To się dzieje - we Wrocławiu! (komunikat)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-441168"
+  },
+  {
+   "id": "strefa-df0929e1c4b1",
+   "date": "2026-11-16",
+   "time": "14:44",
+   "ts": "2026-11-16T14:44:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "We wtorek 17 listopada rząd zajmie się projektem dot. maksymalnej ceny gazu w '27",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/we-wtorek-17-listopada-rzad-zajmie-sie-projektem-dot-maksymalnej-ceny-gazu-w-27"
   },
   {
    "id": "bossa-pap-441167",

@@ -5,7 +5,7 @@
   "wyniki": 40,
   "rekomendacje": 3,
   "korporacyjne": 17,
-  "makro_pl": 20,
+  "makro_pl": 21,
   "swiat_rynki": 9,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 44
  },
- "duplicatesRemoved": 70,
- "total": 225,
+ "duplicatesRemoved": 73,
+ "total": 229,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -721,6 +721,24 @@
   ],
   "makro_pl": [
    {
+    "time": "14:51",
+    "kind": "news",
+    "ticker": null,
+    "title": "Rewitalizacja rynku obligacji tematem drugiej edycji GPW Catalyst Forum",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/rewitalizacja-rynku-obligacji-tematem-drugiej-edycji-gpw-catalyst-forum",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "14:44",
+    "kind": "news",
+    "ticker": null,
+    "title": "We wtorek 17 listopada rząd zajmie się projektem dot. maksymalnej ceny gazu w '27",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/we-wtorek-17-listopada-rzad-zajmie-sie-projektem-dot-maksymalnej-ceny-gazu-w-27",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "14:15",
     "kind": "pap",
     "ticker": null,
@@ -744,15 +762,6 @@
     "ticker": null,
     "title": "MKiŚ: Miliard złotych na magazyny ciepła w ciepłownictwie systemowym. Ruszają nabory wniosków (komunikat)",
     "url": "https://bossa.pl/analizy/komunikaty#message-441150",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "13:26",
-    "kind": "pap",
-    "ticker": null,
-    "title": "We wtorek 17 listopada rząd zajmie się projektem dot. maksymalnej ceny gazu w '27",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441140",
     "src": "bossa",
     "flags": []
    },
@@ -1088,20 +1097,20 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "14:50",
+    "kind": "news",
+    "ticker": null,
+    "title": "Cena maksymalna dla benzyny Pb95 we wtorek 17 listopada wyniesie 6,02 zł/l, dla ON 7,64 zł/l",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/cena-maksymalna-dla-benzyny-pb95-we-wtorek-17-listopada-wyniesie-602-zll-dla",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "14:45",
     "kind": "pap",
     "ticker": null,
     "title": "MC: Polska ponownie w Radzie ITU (komunikat)",
     "url": "https://bossa.pl/analizy/komunikaty#message-441169",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "14:37",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Cena maksymalna dla benzyny Pb95 we wtorek 17 listopada wyniesie 6,02 zł/l, dla ON 7,64 zł/l",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441165",
     "src": "bossa",
     "flags": []
    },
