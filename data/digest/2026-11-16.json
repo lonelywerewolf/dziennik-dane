@@ -2,7 +2,7 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 19,
-  "wyniki": 101,
+  "wyniki": 102,
   "rekomendacje": 4,
   "korporacyjne": 52,
   "makro_pl": 28,
@@ -15,7 +15,7 @@
   "pozostale": 75
  },
  "duplicatesRemoved": 153,
- "total": 477,
+ "total": 478,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -198,6 +198,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "23:40",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GRUPA MODNE ZAKUPY SA (24/2026) Skonsolidowany raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441379",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "23:23",
     "kind": "pap",
