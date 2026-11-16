@@ -2,10 +2,10 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 6,
-  "wyniki": 4,
+  "wyniki": 5,
   "rekomendacje": 0,
   "korporacyjne": 0,
-  "makro_pl": 2,
+  "makro_pl": 5,
   "swiat_rynki": 1,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 6
  },
- "duplicatesRemoved": 7,
- "total": 29,
+ "duplicatesRemoved": 8,
+ "total": 34,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -78,6 +78,15 @@
   ],
   "wyniki": [
    {
+    "time": "07:12",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zysk netto j.d. GPW wyniósł w III kw. 70,3 mln zł wobec 63,3 mln zł konsensusu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/zysk-netto-jd-gpw-wyniosl-w-iii-kw-703-mln-zl-wobec-633-mln-zl-konsensusu",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "07:01",
     "kind": "news",
     "ticker": null,
@@ -119,6 +128,33 @@
   "rekomendacje": [],
   "korporacyjne": [],
   "makro_pl": [
+   {
+    "time": "07:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Sprzedaż detaliczna Chin w X: +0,4 proc. rdr. Konsensus: +0,8 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441016",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "07:31",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PKB Japonii w III kw.: -0,1 proc. kdk. Konsensus: +0,2 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441015",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "07:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Złotowe depozyty międzybankowe - WIBID, WIBOR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441014",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "07:01",
     "kind": "pap",
