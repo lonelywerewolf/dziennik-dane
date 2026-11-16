@@ -1,6 +1,21 @@
 {
  "items": [
   {
+   "date": "2026-11-16",
+   "company": "ARTIFEX (ART)",
+   "code": "ART",
+   "name": "ARTIFEX",
+   "isin": "PLARTFX00011",
+   "rating": "Kupuj",
+   "price": "19.12",
+   "target": "26.5",
+   "upside": "38.598326359833",
+   "priceAtPub": "19.12",
+   "house": "Erste",
+   "report": "https://strefainwestorow.pl/sites/default/files/attachments/55527133_14081102_55527133_20261116_0959_ART_PL_RA.pdf",
+   "ticker": null
+  },
+  {
    "date": "2026-11-13",
    "company": "CREEPYJAR (CRJ)",
    "code": "CRJ",
@@ -4381,5 +4396,5 @@
    "ticker": "XTB"
   }
  ],
- "updatedAt": "2026-11-16T08:31:59+01:00"
+ "updatedAt": "2026-11-16T08:42:58+01:00"
 }

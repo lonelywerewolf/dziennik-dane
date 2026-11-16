@@ -2,9 +2,9 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 8,
-  "wyniki": 5,
+  "wyniki": 7,
   "rekomendacje": 2,
-  "korporacyjne": 0,
+  "korporacyjne": 1,
   "makro_pl": 7,
   "swiat_rynki": 3,
   "energetyka_surowce": 1,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 1,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 11
+  "pozostale": 13
  },
- "duplicatesRemoved": 16,
- "total": 55,
+ "duplicatesRemoved": 17,
+ "total": 61,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -96,6 +96,24 @@
   ],
   "wyniki": [
    {
+    "time": "08:42",
+    "kind": "pap",
+    "ticker": null,
+    "title": "FOREVER ENTERTAINMENT SA (15/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441035",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "08:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "VOOLT SA (19/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441031",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "07:12",
     "kind": "news",
     "ticker": null,
@@ -163,7 +181,20 @@
     "flags": []
    }
   ],
-  "korporacyjne": [],
+  "korporacyjne": [
+   {
+    "time": "08:41",
+    "kind": "espi",
+    "ticker": null,
+    "title": "TELESTRADA S.A.: Zawiadomienie o nabyciu znacznego pakietu akcji Telestrady",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71769",
+    "src": "bossa",
+    "flags": [
+     "insider",
+     "akcjonariat"
+    ]
+   }
+  ],
   "makro_pl": [
    {
     "time": "07:35",
@@ -296,6 +327,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "08:38",
+    "kind": "pap",
+    "ticker": null,
+    "title": "TELESTRADA SA (48/2026) Inne informacje",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441032",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "08:31",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW spodziewa się w IV kw. CAPEX-u zbliżonego do III kw.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/gpw-spodziewa-sie-w-iv-kw-capex-u-zblizonego-do-iii-kw",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:27",
     "kind": "espi",
