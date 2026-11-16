@@ -1,7 +1,78 @@
 {
  "date": "2026-11-16",
- "count": 41,
+ "count": 47,
  "items": [
+  {
+   "id": "bossa-pap-441026",
+   "date": "2026-11-16",
+   "time": "08:09",
+   "ts": "2026-11-16T08:09:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ceny miedzi w Londynie najniższe od ponad 4 miesięcy",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441026"
+  },
+  {
+   "id": "bossa-pap-441025",
+   "date": "2026-11-16",
+   "time": "08:08",
+   "ts": "2026-11-16T08:08:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KE zaproponuje państwom unijnym nową pożyczkę na pomoc Ukrainie w wysokości 45 mld euro - \"FT\"",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441025"
+  },
+  {
+   "id": "bossa-pap-441024",
+   "date": "2026-11-16",
+   "time": "08:07",
+   "ts": "2026-11-16T08:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Najważniejsze indeksy giełdowe w Azji",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441024"
+  },
+  {
+   "id": "bossa-pap-441023",
+   "date": "2026-11-16",
+   "time": "08:01",
+   "ts": "2026-11-16T08:01:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GAMIVO SA (14/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441023"
+  },
+  {
+   "id": "bossa-espi-71766",
+   "date": "2026-11-16",
+   "time": "08:00",
+   "ts": "2026-11-16T08:00:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "XPLUS S.A.",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71766"
+  },
+  {
+   "id": "strefa-4f9d8cb04272",
+   "date": "2026-11-16",
+   "time": "07:57",
+   "ts": "2026-11-16T07:57:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Najważniejsze indeksy giełdowe w Azji",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/najwazniejsze-indeksy-gieldowe-w-azji"
+  },
   {
    "id": "bossa-pap-441021",
    "date": "2026-11-16",
