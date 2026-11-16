@@ -2,7 +2,7 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 19,
-  "wyniki": 98,
+  "wyniki": 99,
   "rekomendacje": 4,
   "korporacyjne": 52,
   "makro_pl": 28,
@@ -15,7 +15,7 @@
   "pozostale": 75
  },
  "duplicatesRemoved": 151,
- "total": 472,
+ "total": 473,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -198,6 +198,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "23:02",
+    "kind": "pap",
+    "ticker": null,
+    "title": "THE FARM 51 GROUP SA (28/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441374",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "22:45",
     "kind": "pap",

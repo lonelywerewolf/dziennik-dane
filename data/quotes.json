@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T22:52:52+01:00",
+ "updatedAt": "2026-11-16T23:03:52+01:00",
  "q": {
   "ASB": {
    "date": "2026-11-16",
@@ -158,43 +158,43 @@
    }
   },
   "MPWR": {
-   "date": "2026-11-13",
-   "close": 1390.54,
+   "date": "2026-11-16",
+   "close": 1314.0,
    "ccy": "USD",
    "src": "https://www.nasdaq.com/market-activity/stocks/mpwr",
-   "chg": -3.93,
+   "chg": -5.5,
    "live": {
-    "price": 1313.14,
-    "chgPct": -5.57,
-    "at": "2026-11-16T15:59:56.180962050-05:00",
+    "price": 1314.0,
+    "chgPct": -5.5,
+    "at": "2026-11-16T21:00:00+00:00",
     "src": "https://www.tiingo.com/mpwr/overview",
     "via": "tiingo"
    }
   },
   "MRVL": {
-   "date": "2026-11-13",
-   "close": 156.76,
+   "date": "2026-11-16",
+   "close": 145.36,
    "ccy": "USD",
    "src": "https://www.nasdaq.com/market-activity/stocks/mrvl",
-   "chg": -4.68,
+   "chg": -7.27,
    "live": {
-    "price": 145.92,
-    "chgPct": -6.92,
-    "at": "2026-11-16T16:10:56.618674912-05:00",
+    "price": 145.36,
+    "chgPct": -7.27,
+    "at": "2026-11-16T21:00:00+00:00",
     "src": "https://www.tiingo.com/mrvl/overview",
     "via": "tiingo"
    }
   },
   "NVDA": {
-   "date": "2026-11-13",
-   "close": 162.85,
+   "date": "2026-11-16",
+   "close": 156.14,
    "ccy": "USD",
    "src": "https://www.nasdaq.com/market-activity/stocks/nvda",
-   "chg": -2.01,
+   "chg": -4.12,
    "live": {
-    "price": 156.34,
-    "chgPct": -4.0,
-    "at": "2026-11-16T16:52:20.360777535-05:00",
+    "price": 156.0,
+    "chgPct": -4.21,
+    "at": "2026-11-16T16:54:41.981105301-05:00",
     "src": "https://www.tiingo.com/nvda/overview",
     "via": "tiingo"
    }
@@ -228,8 +228,8 @@
    }
   },
   "^NDQ": {
-   "date": "2026-11-13",
-   "close": 25136.27,
+   "date": "2026-11-16",
+   "close": 24512.365,
    "src": "https://www.nasdaq.com"
   },
   "^SPX": {
@@ -238,8 +238,8 @@
    "src": "https://www.nasdaq.com"
   },
   "^SOX": {
-   "date": "2026-11-13",
-   "close": 10146.32,
+   "date": "2026-11-16",
+   "close": 9597.209,
    "src": "https://www.nasdaq.com"
   }
  }
