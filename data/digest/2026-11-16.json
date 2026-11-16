@@ -4,8 +4,8 @@
   "podsumowania": 12,
   "wyniki": 34,
   "rekomendacje": 3,
-  "korporacyjne": 12,
-  "makro_pl": 16,
+  "korporacyjne": 13,
+  "makro_pl": 17,
   "swiat_rynki": 8,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 36
  },
- "duplicatesRemoved": 60,
- "total": 189,
+ "duplicatesRemoved": 62,
+ "total": 193,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -483,6 +483,17 @@
   ],
   "korporacyjne": [
    {
+    "time": "13:22",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BIOGENED S.A.: Terminowa wypłata dywidendy",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71834",
+    "src": "bossa",
+    "flags": [
+     "dywidenda"
+    ]
+   },
+   {
     "time": "12:54",
     "kind": "espi",
     "ticker": null,
@@ -615,6 +626,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "13:26",
+    "kind": "pap",
+    "ticker": null,
+    "title": "We wtorek 17 listopada rząd zajmie się projektem dot. maksymalnej ceny gazu w '27",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441140",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:55",
     "kind": "espi",
