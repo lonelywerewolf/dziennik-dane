@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T10:21:58+01:00",
+ "updatedAt": "2026-11-16T10:32:59+01:00",
  "q": {
   "ASB": {
    "date": "2026-11-13",
@@ -149,9 +149,9 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/avgo",
    "chg": -4.76,
    "live": {
-    "price": 347.01,
-    "chgPct": -4.76,
-    "at": "Nov 13, 2026",
+    "price": 336.3,
+    "chgPct": -3.09,
+    "at": "Nov 16, 2026 4:33 AM ET",
     "src": "https://www.nasdaq.com/market-activity/stocks/avgo"
    }
   },
@@ -226,8 +226,8 @@
    "src": "https://www.nasdaq.com"
   },
   "^SPX": {
-   "date": "2026-11-13",
-   "close": 754.37,
+   "date": "2026-11-16",
+   "close": 752.0965,
    "src": "https://www.nasdaq.com"
   },
   "^SOX": {

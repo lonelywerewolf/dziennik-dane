@@ -7,9 +7,9 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/asml"
   },
   "AVGO": {
-   "price": 347.01,
-   "chgPct": -4.76,
-   "at": "Nov 13, 2026",
+   "price": 336.3,
+   "chgPct": -3.09,
+   "at": "Nov 16, 2026 4:33 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/avgo"
   },
   "MPWR": {
@@ -49,9 +49,9 @@
    "src": "https://www.nasdaq.com/market-activity/index/sox"
   },
   "^SPX": {
-   "price": 754.21,
-   "chgPct": -0.38,
-   "at": "Nov 13, 2026",
+   "price": 752.0965,
+   "chgPct": -0.3,
+   "at": "Nov 16, 2026 4:32 AM ET",
    "src": "https://www.nasdaq.com/market-activity/index/spy"
   },
   "MRVL": {
@@ -61,5 +61,5 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/mrvl"
   }
  },
- "updatedAt": "2026-11-16T09:37:59+01:00"
+ "updatedAt": "2026-11-16T10:32:59+01:00"
 }

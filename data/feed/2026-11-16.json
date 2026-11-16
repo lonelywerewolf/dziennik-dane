@@ -1,7 +1,31 @@
 {
  "date": "2026-11-16",
- "count": 108,
+ "count": 110,
  "items": [
+  {
+   "id": "bossa-espi-71794",
+   "date": "2026-11-16",
+   "time": "10:30",
+   "ts": "2026-11-16T10:30:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "VOOLT S.A.",
+   "title": "Trzecia inwestycja R Ventures II – nabycie akcji Fresh Inset S.A., spółki deep-tech przygotowującej się do debiutu na rynku głównym GPW",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71794"
+  },
+  {
+   "id": "bossa-pap-441069",
+   "date": "2026-11-16",
+   "time": "10:23",
+   "ts": "2026-11-16T10:23:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "BEEIN SA (15/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441069"
+  },
   {
    "id": "bossa-pap-441068",
    "date": "2026-11-16",
