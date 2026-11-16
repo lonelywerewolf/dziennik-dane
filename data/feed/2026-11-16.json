@@ -1,7 +1,30 @@
 {
  "date": "2026-11-16",
- "count": 412,
+ "count": 415,
  "items": [
+  {
+   "id": "strefa-1696714dc10a",
+   "date": "2026-11-16",
+   "time": "19:20",
+   "ts": "2026-11-16T19:20:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Administracja Trumpa nałożyła dodatkowe restrykcje na dostęp Chin do chipów AI",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/administracja-trumpa-nalozyla-dodatkowe-restrykcje-na-dostep-chin-do-chipow-ai"
+  },
+  {
+   "id": "bossa-pap-441319",
+   "date": "2026-11-16",
+   "time": "19:19",
+   "ts": "2026-11-16T19:19:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Administracja Trumpa nałożyła dodatkowe restrykcje na dostęp Chin do chipów AI",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441319"
+  },
   {
    "id": "bossa-pap-441318",
    "date": "2026-11-16",
@@ -37,6 +60,17 @@
    "title": "Zmiana planowanego terminu premiery gry BARKOUR na PC, PlayStation 5 oraz Xbox Series X|S",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-71942"
+  },
+  {
+   "id": "strefa-575b69a36ca8",
+   "date": "2026-11-16",
+   "time": "18:59",
+   "ts": "2026-11-16T18:59:15+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Develia podwyższyła maksymalną wartość programu emisji obligacji do 1,05 mld zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/develia-podwyzszyla-maksymalna-wartosc-programu-emisji-obligacji-do-105-mld-zl"
   },
   {
    "id": "bossa-espi-71941",

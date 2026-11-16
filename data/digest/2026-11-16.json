@@ -6,7 +6,7 @@
   "rekomendacje": 4,
   "korporacyjne": 46,
   "makro_pl": 26,
-  "swiat_rynki": 19,
+  "swiat_rynki": 20,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 13,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 69
  },
- "duplicatesRemoved": 133,
- "total": 412,
+ "duplicatesRemoved": 135,
+ "total": 415,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -921,12 +921,12 @@
   ],
   "korporacyjne": [
    {
-    "time": "19:10",
-    "kind": "pap",
+    "time": "18:59",
+    "kind": "news",
     "ticker": null,
     "title": "Develia podwyższyła maksymalną wartość programu emisji obligacji do 1,05 mld zł",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441318",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/develia-podwyzszyla-maksymalna-wartosc-programu-emisji-obligacji-do-105-mld-zl",
+    "src": "strefainwestorow",
     "flags": [
      "emisja"
     ]
@@ -1638,6 +1638,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "19:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "Administracja Trumpa nałożyła dodatkowe restrykcje na dostęp Chin do chipów AI",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/administracja-trumpa-nalozyla-dodatkowe-restrykcje-na-dostep-chin-do-chipow-ai",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "18:56",
     "kind": "espi",
