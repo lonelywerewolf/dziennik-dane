@@ -1,7 +1,75 @@
 {
  "date": "2026-11-16",
- "count": 67,
+ "count": 74,
  "items": [
+  {
+   "id": "strefa-4e1fc9bb5dc7",
+   "date": "2026-11-16",
+   "time": "08:59",
+   "ts": "2026-11-16T08:59:34+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Green Lanes rozpoczął proces budowy księgi popytu; oferuje do objęcia do 500 tys. akcji serii I",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/green-lanes-rozpoczal-proces-budowy-ksiegi-popytu-oferuje-do-objecia-do-500-tys"
+  },
+  {
+   "id": "strefa-45d76d6591c3",
+   "date": "2026-11-16",
+   "time": "08:58",
+   "ts": "2026-11-16T08:58:35+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/notowania-metali-bazowych-wegla-i-paliw-tabela"
+  },
+  {
+   "id": "strefa-21fb05d4a562",
+   "date": "2026-11-16",
+   "time": "08:57",
+   "ts": "2026-11-16T08:57:48+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "W III kwartale 2026 roku Grupa TREX zwiększyła przychody o ponad 80%, a zysk netto wzrósł ponad pięciokrotnie",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/w-iii-kwartale-2026-roku-grupa-trex-zwiekszyla-przychody-o-ponad-80-zysk-netto"
+  },
+  {
+   "id": "bossa-espi-71775",
+   "date": "2026-11-16",
+   "time": "08:57",
+   "ts": "2026-11-16T08:57:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "TELESTRADA S.A.",
+   "title": "Zawiadomienie o nabyciu znacznego pakietu akcji Telestrady",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71775"
+  },
+  {
+   "id": "bossa-pap-441042",
+   "date": "2026-11-16",
+   "time": "08:55",
+   "ts": "2026-11-16T08:55:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "TELESTRADA SA (50/2026) Inne informacje",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441042"
+  },
+  {
+   "id": "strefa-da1b1188ad06",
+   "date": "2026-11-16",
+   "time": "08:54",
+   "ts": "2026-11-16T08:54:36+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Congor Holding podsumowuje wyniki za trzy kwartały 2026 r.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/congor-holding-podsumowuje-wyniki-za-trzy-kwartaly-2026-r"
+  },
   {
    "id": "bossa-espi-71773",
    "date": "2026-11-16",
@@ -97,6 +165,17 @@
    "title": "Zawiadomienie o nabyciu znacznego pakietu akcji Telestrady",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-71769"
+  },
+  {
+   "id": "strefa-de8168cc54f4",
+   "date": "2026-11-16",
+   "time": "08:40",
+   "ts": "2026-11-16T08:40:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Marek Hański powołany do Zarządu Medicalgorithmics, Przemysław Tadla kandydatem do Rady Nadzorczej",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/marek-hanski-powolany-do-zarzadu-medicalgorithmics-przemyslaw-tadla-kandydatem"
   },
   {
    "id": "bossa-pap-441033",

@@ -2,9 +2,9 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 8,
-  "wyniki": 8,
+  "wyniki": 10,
   "rekomendacje": 2,
-  "korporacyjne": 1,
+  "korporacyjne": 2,
   "makro_pl": 7,
   "swiat_rynki": 4,
   "energetyka_surowce": 1,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 14
  },
- "duplicatesRemoved": 19,
- "total": 67,
+ "duplicatesRemoved": 23,
+ "total": 74,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -95,6 +95,27 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "08:57",
+    "kind": "news",
+    "ticker": null,
+    "title": "W III kwartale 2026 roku Grupa TREX zwiększyła przychody o ponad 80%, a zysk netto wzrósł ponad pięciokrotnie",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/w-iii-kwartale-2026-roku-grupa-trex-zwiekszyla-przychody-o-ponad-80-zysk-netto",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "08:54",
+    "kind": "news",
+    "ticker": null,
+    "title": "Congor Holding podsumowuje wyniki za trzy kwartały 2026 r.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/congor-holding-podsumowuje-wyniki-za-trzy-kwartaly-2026-r",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki",
+     "umowa"
+    ]
+   },
    {
     "time": "08:45",
     "kind": "pap",
@@ -202,6 +223,17 @@
      "insider",
      "akcjonariat"
     ]
+   },
+   {
+    "time": "08:40",
+    "kind": "news",
+    "ticker": null,
+    "title": "Marek Hański powołany do Zarządu Medicalgorithmics, Przemysław Tadla kandydatem do Rady Nadzorczej",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/marek-hanski-powolany-do-zarzadu-medicalgorithmics-przemyslaw-tadla-kandydatem",
+    "src": "strefainwestorow",
+    "flags": [
+     "zarząd"
+    ]
    }
   ],
   "makro_pl": [
@@ -271,6 +303,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "08:59",
+    "kind": "news",
+    "ticker": null,
+    "title": "Green Lanes rozpoczął proces budowy księgi popytu; oferuje do objęcia do 500 tys. akcji serii I",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/green-lanes-rozpoczal-proces-budowy-ksiegi-popytu-oferuje-do-objecia-do-500-tys",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "08:42",
     "kind": "pap",
     "ticker": null,
@@ -289,15 +330,6 @@
     "flags": []
    },
    {
-    "time": "07:43",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Green Lanes rozpoczął proces budowy księgi popytu; oferuje do objęcia do 500 tys. akcji serii I",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441019",
-    "src": "bossa",
-    "flags": []
-   },
-   {
     "time": "07:22",
     "kind": "espi",
     "ticker": null,
@@ -309,12 +341,12 @@
   ],
   "energetyka_surowce": [
    {
-    "time": "06:37",
-    "kind": "pap",
+    "time": "08:58",
+    "kind": "news",
     "ticker": null,
     "title": "Notowania metali bazowych, węgla i paliw (tabela)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441003",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/notowania-metali-bazowych-wegla-i-paliw-tabela",
+    "src": "strefainwestorow",
     "flags": []
    }
   ],
