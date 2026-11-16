@@ -2,20 +2,20 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 12,
-  "wyniki": 39,
+  "wyniki": 40,
   "rekomendacje": 3,
   "korporacyjne": 17,
   "makro_pl": 20,
-  "swiat_rynki": 8,
+  "swiat_rynki": 9,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 6,
-  "twoje_spolki": 2,
+  "twoje_spolki": 3,
   "obserwowane": 0,
-  "pozostale": 42
+  "pozostale": 44
  },
- "duplicatesRemoved": 69,
- "total": 219,
+ "duplicatesRemoved": 70,
+ "total": 225,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -133,6 +133,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "14:42",
+    "kind": "pap",
+    "ticker": null,
+    "title": "HIPOWER ENERGY SA (18/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441166",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:23",
     "kind": "pap",
@@ -894,6 +903,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "14:45",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MRPiPS: Skrócony czas pracy? To się dzieje - we Wrocławiu! (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441168",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "12:57",
     "kind": "pap",
     "ticker": null,
@@ -1036,6 +1054,17 @@
   ],
   "twoje_spolki": [
    {
+    "time": "14:32",
+    "kind": "news",
+    "ticker": "NVDA",
+    "title": "DZIEŃ NA RYNKACH: Futures w USA spadają; rynki czekają na wyniki Nvidii",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/dzien-na-rynkach-futures-w-usa-spadaja-rynki-czekaja-na-wyniki-nvidii",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
     "time": "13:15",
     "kind": "espi",
     "ticker": "DIG",
@@ -1058,6 +1087,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "14:45",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MC: Polska ponownie w Radzie ITU (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441169",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:37",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Cena maksymalna dla benzyny Pb95 we wtorek 17 listopada wyniesie 6,02 zł/l, dla ON 7,64 zł/l",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441165",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:33",
     "kind": "espi",
