@@ -2,7 +2,7 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 19,
-  "wyniki": 93,
+  "wyniki": 95,
   "rekomendacje": 4,
   "korporacyjne": 52,
   "makro_pl": 28,
@@ -15,7 +15,7 @@
   "pozostale": 73
  },
  "duplicatesRemoved": 151,
- "total": 464,
+ "total": 466,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -198,6 +198,24 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "22:21",
+    "kind": "pap",
+    "ticker": null,
+    "title": "REMOR SOLAR POLSKA SA (13/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441367",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "22:20",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GENERATIONIS.AI SA (8/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441366",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "22:10",
     "kind": "pap",
