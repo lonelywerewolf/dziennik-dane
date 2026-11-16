@@ -2,7 +2,7 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 15,
-  "wyniki": 56,
+  "wyniki": 61,
   "rekomendacje": 4,
   "korporacyjne": 36,
   "makro_pl": 23,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 53
  },
- "duplicatesRemoved": 105,
- "total": 324,
+ "duplicatesRemoved": 109,
+ "total": 333,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -160,6 +160,53 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "17:29",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PRIME BIT GAMES SA W RESTRUKTURYZACJI (21/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441252",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:29",
+    "kind": "pap",
+    "ticker": null,
+    "title": "CANNABIS POLAND SA (14/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441251",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:23",
+    "kind": "pap",
+    "ticker": null,
+    "title": "RED SQUARE GAMES SA (16/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441249",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:21",
+    "kind": "pap",
+    "ticker": null,
+    "title": "LEXBONO SA (28/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441247",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wyniki Onde w III kw. 2026 roku vs. konsensus PAP (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/wyniki-onde-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "17:17",
     "kind": "pap",
