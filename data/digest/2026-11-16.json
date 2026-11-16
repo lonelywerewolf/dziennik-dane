@@ -1,8 +1,8 @@
 {
  "date": "2026-11-16",
  "counts": {
-  "podsumowania": 8,
-  "wyniki": 12,
+  "podsumowania": 10,
+  "wyniki": 14,
   "rekomendacje": 2,
   "korporacyjne": 2,
   "makro_pl": 7,
@@ -14,11 +14,29 @@
   "obserwowane": 0,
   "pozostale": 15
  },
- "duplicatesRemoved": 23,
- "total": 77,
+ "duplicatesRemoved": 24,
+ "total": 82,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "09:16",
+    "kind": "pap",
+    "ticker": null,
+    "title": "WIG20 na otwarciu wyniósł 4303,07 pkt (0,11%)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441048",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "09:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA FX/FI: Złoty ok. 4,38–4,42/EUR pod wpływem czynników globalnych, stabilizacja notowań długu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/dzien-na-fxfi-zloty-ok-438-442eur-pod-wplywem-czynnikow-globalnych-stabilizacja",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:15",
     "kind": "news",
@@ -95,6 +113,24 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "09:17",
+    "kind": "pap",
+    "ticker": null,
+    "title": "TAX-NET SA (10/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441049",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "09:16",
+    "kind": "pap",
+    "ticker": null,
+    "title": "TAMEX OBIEKTY SPORTOWE SA (8/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441047",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:06",
     "kind": "pap",
