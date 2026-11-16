@@ -2,8 +2,8 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 12,
-  "wyniki": 26,
-  "rekomendacje": 2,
+  "wyniki": 27,
+  "rekomendacje": 3,
   "korporacyjne": 9,
   "makro_pl": 12,
   "swiat_rynki": 7,
@@ -15,7 +15,7 @@
   "pozostale": 27
  },
  "duplicatesRemoved": 37,
- "total": 136,
+ "total": 138,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -133,6 +133,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "11:41",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MILKPOL SA (12/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441091",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:26",
     "kind": "pap",
@@ -379,6 +388,15 @@
    }
   ],
   "rekomendacje": [
+   {
+    "time": "11:45",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Citi obniżył rekomendację dla Kruka do \"neutralnie\"",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441092",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:28",
     "kind": "news",
