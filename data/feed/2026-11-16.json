@@ -1,7 +1,42 @@
 {
  "date": "2026-11-16",
- "count": 293,
+ "count": 297,
  "items": [
+  {
+   "id": "strefa-f23969e1455a",
+   "date": "2026-11-16",
+   "time": "16:43",
+   "ts": "2026-11-16T16:43:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Premier Donald Tusk powołał Anne-Marie Weber w skład rady nadzorczej BGK",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/premier-donald-tusk-powolal-anne-marie-weber-w-sklad-rady-nadzorczej-bgk"
+  },
+  {
+   "id": "bossa-espi-71882",
+   "date": "2026-11-16",
+   "time": "16:43",
+   "ts": "2026-11-16T16:43:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "JRH ASI S.A.",
+   "title": "Ujawnienie informacji o prowadzonych negocjacjach w sprawie zawarcia umowy o współpracy",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71882"
+  },
+  {
+   "id": "bossa-pap-441223",
+   "date": "2026-11-16",
+   "time": "16:42",
+   "ts": "2026-11-16T16:42:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: Główne indeksy przeważnie lekko spadają; dobrze radzą sobie banki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441223"
+  },
   {
    "id": "bossa-pap-441216",
    "date": "2026-11-16",
@@ -24,6 +59,17 @@
    "title": "Stan środków walutowych na koniec października wyniósł ok. 12,38 mld euro - MF",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261116/stan-srodkow-walutowych-na-koniec-pazdziernika-wyniosl-ok-1238-mld-euro-mf"
+  },
+  {
+   "id": "strefa-6abc6f514a96",
+   "date": "2026-11-16",
+   "time": "16:34",
+   "ts": "2026-11-16T16:34:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: Główne indeksy przeważnie lekko spadają; dobrze radzą sobie banki",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/dzien-na-gpw-glowne-indeksy-przewaznie-lekko-spadaja-dobrze-radza-sobie-banki"
   },
   {
    "id": "strefa-38768644c7a9",
