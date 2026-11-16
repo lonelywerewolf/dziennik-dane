@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "23fd11f170b7",
+   "ticker": "NVDA",
+   "time": "2026-11-16T16:27+01:00",
+   "title": "The S&P 500 Is on Pace to Do Something That’s Only Happened 3 Times in History",
+   "url": "https://www.nasdaq.com/articles/sp-500-pace-do-something-thats-only-happened-3-times-history",
+   "src": "nasdaq",
+   "summary": "Key PointsThe S&amp;P 500 has had three instances of four consecutive years of double-digit percentage increases."
+  },
+  {
    "id": "015c16876816",
    "ticker": "NVDA",
    "time": "2026-11-16T15:20+01:00",
@@ -17,6 +26,15 @@
    "url": "https://www.nasdaq.com/articles/it-worth-investing-vertiv-vrt-based-wall-streets-bullish-views-0",
    "src": "nasdaq",
    "summary": "Based on the average brokerage recommendation (ABR), Vertiv (VRT) should be added to one's portfolio. Wall Street analysts' overly optimistic recommendations cast doubt on the effectiveness of this highly sought-after metric. So, is the stock worth buying?"
+  },
+  {
+   "id": "58334511c86f",
+   "ticker": "ASML",
+   "time": "2026-11-16T14:30+01:00",
+   "title": "Is It Worth Investing in ASML (ASML) Based on Wall Street's Bullish Views?",
+   "url": "https://www.nasdaq.com/articles/it-worth-investing-asml-asml-based-wall-streets-bullish-views",
+   "src": "nasdaq",
+   "summary": "According to the average brokerage recommendation (ABR), one should invest in ASML (ASML). It is debatable whether this highly sought-after metric is effective because Wall Street analysts' recommendations tend to be overly optimistic. Would it be worth investing in the stock?"
   },
   {
    "id": "8fe4ccfe73a4",
@@ -13582,5 +13600,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-16T16:47:57+01:00"
+ "updatedAt": "2026-11-16T16:58:57+01:00"
 }
