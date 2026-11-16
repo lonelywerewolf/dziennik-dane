@@ -1,7 +1,67 @@
 {
  "date": "2026-11-16",
- "count": 61,
+ "count": 67,
  "items": [
+  {
+   "id": "bossa-espi-71773",
+   "date": "2026-11-16",
+   "time": "08:50",
+   "ts": "2026-11-16T08:50:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "TELESTRADA S.A.",
+   "title": "Zawiadomienie o nabyciu znacznego pakietu akcji Telestrady",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71773"
+  },
+  {
+   "id": "bossa-pap-441040",
+   "date": "2026-11-16",
+   "time": "08:48",
+   "ts": "2026-11-16T08:48:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DM BOŚ na '27 rekomenduje m.in. selektywną ekspozycję na polskie akcje",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441040"
+  },
+  {
+   "id": "bossa-pap-441039",
+   "date": "2026-11-16",
+   "time": "08:47",
+   "ts": "2026-11-16T08:47:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "TELESTRADA SA (49/2026) Inne informacje",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441039"
+  },
+  {
+   "id": "bossa-pap-441038",
+   "date": "2026-11-16",
+   "time": "08:45",
+   "ts": "2026-11-16T08:45:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KUPIEC SA (12/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441038"
+  },
+  {
+   "id": "bossa-pap-441036",
+   "date": "2026-11-16",
+   "time": "08:42",
+   "ts": "2026-11-16T08:42:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zapasy gazu w magazynach UE lekko ponad 70 proc., w Polsce niecałe 96 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441036"
+  },
   {
    "id": "bossa-pap-441035",
    "date": "2026-11-16",
@@ -13,6 +73,18 @@
    "title": "FOREVER ENTERTAINMENT SA (15/2026) Raport kwartalny za III kwartał",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-441035"
+  },
+  {
+   "id": "bossa-espi-71771",
+   "date": "2026-11-16",
+   "time": "08:42",
+   "ts": "2026-11-16T08:42:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KSG AGRO S.A.",
+   "title": "UNAUDITED INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS FOR THE NINE MONTHS ENDED 30 SEPTEMBER 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71771"
   },
   {
    "id": "bossa-espi-71769",

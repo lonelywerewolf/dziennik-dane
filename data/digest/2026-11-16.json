@@ -2,20 +2,20 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 8,
-  "wyniki": 7,
+  "wyniki": 8,
   "rekomendacje": 2,
   "korporacyjne": 1,
   "makro_pl": 7,
-  "swiat_rynki": 3,
+  "swiat_rynki": 4,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
-  "fundusze_drobne": 1,
+  "fundusze_drobne": 2,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 13
+  "pozostale": 14
  },
- "duplicatesRemoved": 17,
- "total": 61,
+ "duplicatesRemoved": 19,
+ "total": 67,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -95,6 +95,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "08:45",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KUPIEC SA (12/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441038",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:42",
     "kind": "pap",
@@ -262,6 +271,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "08:42",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Zapasy gazu w magazynach UE lekko ponad 70 proc., w Polsce niecałe 96 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441036",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "07:57",
     "kind": "news",
     "ticker": null,
@@ -303,6 +321,15 @@
   "nieruchomosci": [],
   "fundusze_drobne": [
    {
+    "time": "08:42",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KSG AGRO S.A.: UNAUDITED INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS FOR THE NINE MONTHS ENDED 30 SEPTEMBER 2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71771",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "07:01",
     "kind": "pap",
     "ticker": null,
@@ -327,6 +354,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "08:48",
+    "kind": "pap",
+    "ticker": null,
+    "title": "DM BOŚ na '27 rekomenduje m.in. selektywną ekspozycję na polskie akcje",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441040",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:38",
     "kind": "pap",
