@@ -12,20 +12,20 @@
   "fundusze_drobne": 13,
   "twoje_spolki": 8,
   "obserwowane": 0,
-  "pozostale": 62
+  "pozostale": 63
  },
- "duplicatesRemoved": 124,
- "total": 386,
+ "duplicatesRemoved": 127,
+ "total": 390,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
    {
-    "time": "18:26",
-    "kind": "pap",
+    "time": "18:27",
+    "kind": "news",
     "ticker": null,
     "title": "DZIEŃ NA RYNKACH: Indeksy w Europie spadły na początku tygodnia",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441296",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/dzien-na-rynkach-indeksy-w-europie-spadly-na-poczatku-tygodnia",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -876,12 +876,12 @@
   ],
   "korporacyjne": [
    {
-    "time": "18:19",
-    "kind": "pap",
+    "time": "18:16",
+    "kind": "news",
     "ticker": null,
     "title": "RN Alior Banku powołała Piotra Żabskiego na stanowisko prezesa zarządu",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441291",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/rn-alior-banku-powolala-piotra-zabskiego-na-stanowisko-prezesa-zarzadu",
+    "src": "strefainwestorow",
     "flags": [
      "zarząd"
     ]
@@ -1851,12 +1851,12 @@
   ],
   "twoje_spolki": [
    {
-    "time": "18:23",
-    "kind": "pap",
+    "time": "18:27",
+    "kind": "news",
     "ticker": "VRC",
     "title": "Vercom w III kw. miał 31,2 mln zł zysku netto j.d., powyżej konsensusu",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441293",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/vercom-w-iii-kw-mial-312-mln-zl-zysku-netto-jd-powyzej-konsensusu",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -1933,6 +1933,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "18:27",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BASEIG SA (22/2026) Rejestracja przez sąd zmiany statutu emitenta lub odmowie takiej rejestracji, z podaniem przyczyn odmowy",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441297",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:14",
     "kind": "espi",

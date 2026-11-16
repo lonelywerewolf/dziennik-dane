@@ -1,7 +1,41 @@
 {
  "date": "2026-11-16",
- "count": 386,
+ "count": 390,
  "items": [
+  {
+   "id": "strefa-e12a79047df0",
+   "date": "2026-11-16",
+   "time": "18:27",
+   "ts": "2026-11-16T18:27:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Vercom w III kw. miał 31,2 mln zł zysku netto j.d., powyżej konsensusu",
+   "ticker": "VRC",
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/vercom-w-iii-kw-mial-312-mln-zl-zysku-netto-jd-powyzej-konsensusu"
+  },
+  {
+   "id": "strefa-ded5b0dbfc23",
+   "date": "2026-11-16",
+   "time": "18:27",
+   "ts": "2026-11-16T18:27:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Indeksy w Europie spadły na początku tygodnia",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/dzien-na-rynkach-indeksy-w-europie-spadly-na-poczatku-tygodnia"
+  },
+  {
+   "id": "bossa-pap-441297",
+   "date": "2026-11-16",
+   "time": "18:27",
+   "ts": "2026-11-16T18:27:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "BASEIG SA (22/2026) Rejestracja przez sąd zmiany statutu emitenta lub odmowie takiej rejestracji, z podaniem przyczyn odmowy",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441297"
+  },
   {
    "id": "bossa-pap-441296",
    "date": "2026-11-16",
@@ -85,6 +119,17 @@
    "title": "Nationale-Nederlanden PTE SA informuje",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-441290"
+  },
+  {
+   "id": "strefa-25ec5b07d099",
+   "date": "2026-11-16",
+   "time": "18:16",
+   "ts": "2026-11-16T18:16:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "RN Alior Banku powołała Piotra Żabskiego na stanowisko prezesa zarządu",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/rn-alior-banku-powolala-piotra-zabskiego-na-stanowisko-prezesa-zarzadu"
   },
   {
    "id": "bossa-pap-441289",
