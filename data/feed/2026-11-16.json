@@ -1,7 +1,78 @@
 {
  "date": "2026-11-16",
- "count": 229,
+ "count": 235,
  "items": [
+  {
+   "id": "bossa-pap-441175",
+   "date": "2026-11-16",
+   "time": "15:07",
+   "ts": "2026-11-16T15:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "VIENNA OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441175"
+  },
+  {
+   "id": "bossa-espi-71854",
+   "date": "2026-11-16",
+   "time": "15:06",
+   "ts": "2026-11-16T15:06:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 2 x SHORT PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 230 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71854"
+  },
+  {
+   "id": "bossa-pap-441173",
+   "date": "2026-11-16",
+   "time": "15:03",
+   "ts": "2026-11-16T15:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "BRIDGE SOLUTIONS HUB SA (12/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441173"
+  },
+  {
+   "id": "bossa-pap-441172",
+   "date": "2026-11-16",
+   "time": "15:01",
+   "ts": "2026-11-16T15:01:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GARIN AI SA (19/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441172"
+  },
+  {
+   "id": "bossa-pap-441171",
+   "date": "2026-11-16",
+   "time": "15:00",
+   "ts": "2026-11-16T15:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MF na przetargu sprzedaży 18 listopada zaoferuje sześć serii obligacji łącznie za 8-12 mld zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441171"
+  },
+  {
+   "id": "strefa-69b38e6a0d8c",
+   "date": "2026-11-16",
+   "time": "14:57",
+   "ts": "2026-11-16T14:57:05+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "MF na przetargu sprzedaży 18 listopada zaoferuje sześć serii obligacji łącznie za 8-12 mld zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/mf-na-przetargu-sprzedazy-18-listopada-zaoferuje-szesc-serii-obligacji-lacznie"
+  },
   {
    "id": "bossa-espi-71852",
    "date": "2026-11-16",

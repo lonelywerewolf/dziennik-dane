@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T14:57:57+01:00",
+ "updatedAt": "2026-11-16T15:08:56+01:00",
  "q": {
   "ASB": {
    "date": "2026-11-13",
@@ -150,9 +150,9 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/avgo",
    "chg": -4.76,
    "live": {
-    "price": 331.83,
-    "chgPct": -4.37,
-    "at": "2026-11-16T08:53:50.600842495-05:00",
+    "price": 332.11,
+    "chgPct": -4.29,
+    "at": "2026-11-16T09:02:59.041924738-05:00",
     "src": "https://www.tiingo.com/avgo/overview",
     "via": "tiingo"
    }
@@ -192,9 +192,9 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/nvda",
    "chg": -2.01,
    "live": {
-    "price": 156.97,
-    "chgPct": -3.61,
-    "at": "2026-11-16T08:56:33.454952137-05:00",
+    "price": 157.95,
+    "chgPct": -3.01,
+    "at": "2026-11-16T09:06:28.223463342-05:00",
     "src": "https://www.tiingo.com/nvda/overview",
     "via": "tiingo"
    }
@@ -206,9 +206,9 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/tsm",
    "chg": -1.67,
    "live": {
-    "price": 379.51,
-    "chgPct": -4.82,
-    "at": "2026-11-16T08:53:58.479501360-05:00",
+    "price": 380.03,
+    "chgPct": -4.69,
+    "at": "2026-11-16T09:05:26.906694955-05:00",
     "src": "https://www.tiingo.com/tsm/overview",
     "via": "tiingo"
    }

@@ -2,9 +2,9 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 12,
-  "wyniki": 40,
+  "wyniki": 41,
   "rekomendacje": 3,
-  "korporacyjne": 17,
+  "korporacyjne": 18,
   "makro_pl": 21,
   "swiat_rynki": 9,
   "energetyka_surowce": 1,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 44
  },
- "duplicatesRemoved": 73,
- "total": 229,
+ "duplicatesRemoved": 77,
+ "total": 235,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -133,6 +133,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "15:03",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BRIDGE SOLUTIONS HUB SA (12/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441173",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:42",
     "kind": "pap",
@@ -536,6 +545,15 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "14:57",
+    "kind": "news",
+    "ticker": null,
+    "title": "MF na przetargu sprzedaży 18 listopada zaoferuje sześć serii obligacji łącznie za 8-12 mld zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/mf-na-przetargu-sprzedazy-18-listopada-zaoferuje-szesc-serii-obligacji-lacznie",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "14:17",
     "kind": "news",
