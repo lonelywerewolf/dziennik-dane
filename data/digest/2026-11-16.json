@@ -2,20 +2,20 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 15,
-  "wyniki": 51,
+  "wyniki": 56,
   "rekomendacje": 4,
-  "korporacyjne": 35,
+  "korporacyjne": 36,
   "makro_pl": 23,
-  "swiat_rynki": 15,
+  "swiat_rynki": 16,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 12,
   "twoje_spolki": 3,
   "obserwowane": 0,
-  "pozostale": 52
+  "pozostale": 53
  },
- "duplicatesRemoved": 97,
- "total": 308,
+ "duplicatesRemoved": 105,
+ "total": 324,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -160,6 +160,51 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "17:17",
+    "kind": "pap",
+    "ticker": null,
+    "title": "SOFTBLUE SA (14/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441245",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:14",
+    "kind": "pap",
+    "ticker": null,
+    "title": "STEM CELLS SPIN SA (13/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441242",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:11",
+    "kind": "pap",
+    "ticker": null,
+    "title": "NEW TECH VENTURE SA (17/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441236",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:10",
+    "kind": "pap",
+    "ticker": null,
+    "title": "M FOOD SA (11/2026) Skonsolidowany raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441235",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:10",
+    "kind": "pap",
+    "ticker": null,
+    "title": "STOHID TECHNOLOGY SA (12/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441233",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:05",
     "kind": "pap",
@@ -671,6 +716,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "17:15",
+    "kind": "espi",
+    "ticker": null,
+    "title": "DANKS S.A.: Złożenie kolejnego (piątego) zlecenia nabycia akcji w ramach skupu akcji własnych Emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71897",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
    {
     "time": "17:00",
     "kind": "espi",
@@ -1252,6 +1308,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "17:10",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wygrane oferty w listopadowych aukcjach OZE opiewają na ok. 5,58 mld zł - URE",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/wygrane-oferty-w-listopadowych-aukcjach-oze-opiewaja-na-ok-558-mld-zl-ure",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "17:06",
     "kind": "news",
     "ticker": null,
@@ -1544,6 +1609,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:12",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MRiT: Do inicjatywy Team Poland dołączają trzy instytucje wspierające (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441239",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:43",
     "kind": "news",

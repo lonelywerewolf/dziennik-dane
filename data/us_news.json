@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "id": "799ac2778cde",
+   "ticker": "AVGO",
+   "time": "2026-11-16T17:07+01:00",
+   "title": "SPYM, AVGO, GOOG, INTC: ETF Inflow Alert",
+   "url": "https://www.nasdaq.com/articles/spym-avgo-goog-intc-etf-inflow-alert",
+   "src": "nasdaq",
+   "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the Tradr 2X Long SPY Monthly ETF (Symbol: SPYM) where we have detected an approximate $1.7 billion dollar inflow -- that's a 0.9% increase week over wee"
+  },
+  {
+   "id": "7f4401b23d62",
+   "ticker": "NVDA",
+   "time": "2026-11-16T17:07+01:00",
+   "title": "NVDA November 30th Options Begin Trading",
+   "url": "https://www.nasdaq.com/articles/nvda-november-30th-options-begin-trading",
+   "src": "nasdaq",
+   "summary": "Investors in NVIDIA Corp (Symbol: NVDA) saw new options become available today, for the November 30th expiration.   At Stock Options Channel, our YieldBoost formula has looked up and down the NVDA options chain for the new November 30th contracts and identified one put and one c"
+  },
+  {
    "id": "23fd11f170b7",
    "ticker": "NVDA",
    "time": "2026-11-16T16:27+01:00",
@@ -17,6 +35,15 @@
    "url": "https://www.nasdaq.com/articles/have-semiconductors-bottomed-heres-how-current-chip-stock-plunge-compares-past-bear",
    "src": "nasdaq",
    "summary": "Key PointsSemiconductor stocks pulled back roughly 40% from their June highs to the Nov. 5 bottom."
+  },
+  {
+   "id": "5e77cf6d5d3e",
+   "ticker": "NVDA",
+   "time": "2026-11-16T14:56+01:00",
+   "title": "ESTC to Report Q2 Earnings: What's in the Cards for the Stock?",
+   "url": "https://www.nasdaq.com/articles/estc-report-q2-earnings-whats-cards-stock",
+   "src": "nasdaq",
+   "summary": "Elastic heads into Q2 FY27 with demand for AI-powered search, cybersecurity and observability, but consumption trends and cloud costs remain key factors."
   },
   {
    "id": "a598467f3751",
@@ -13600,5 +13627,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-16T17:09:57+01:00"
+ "updatedAt": "2026-11-16T17:20:56+01:00"
 }
