@@ -2,20 +2,20 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 11,
-  "wyniki": 18,
+  "wyniki": 20,
   "rekomendacje": 2,
-  "korporacyjne": 4,
-  "makro_pl": 8,
+  "korporacyjne": 5,
+  "makro_pl": 9,
   "swiat_rynki": 5,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 2,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 18
+  "pozostale": 19
  },
- "duplicatesRemoved": 30,
- "total": 100,
+ "duplicatesRemoved": 32,
+ "total": 107,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -122,6 +122,24 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "10:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "MAZOP Group S.A. z rekordowym trzecim kwartałem – przychody rosną o 23%, a zysk netto po trzech kwartałach jest ponad dwukrotnie wyższy",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/mazop-group-sa-z-rekordowym-trzecim-kwartalem-przychody-rosna-o-23-zysk-netto",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "10:02",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KOOL2PLAY SA (16/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441066",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:56",
     "kind": "pap",
@@ -312,6 +330,17 @@
   ],
   "korporacyjne": [
    {
+    "time": "09:59",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SYNTHAVERSE SA: Zgłoszenie przez akcjonariuszy alternatywnego projektu uchwały dotyczącego punktu 6 porządku obrad Nadzwyczajnego Walnego Zgromadzenia Synthaverse S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71789",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
+   {
     "time": "09:46",
     "kind": "news",
     "ticker": null,
@@ -358,6 +387,24 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "10:03",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Inflacja CPI utrzyma się w przedziale 3,6-4,2 proc. przynajmniej do połowy '27 r. - IPAG (opinia)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441067",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "09:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "Na rynkach ropy i złota stabilnie, możliwa poprawa dzięki geopolityce - Skarbiec TFI (opinia)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/na-rynkach-ropy-i-zlota-stabilnie-mozliwa-poprawa-dzieki-geopolityce-skarbiec",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:23",
     "kind": "news",
@@ -409,15 +456,6 @@
     "ticker": null,
     "title": "Złotowe depozyty międzybankowe - WIBID, WIBOR",
     "url": "https://bossa.pl/analizy/komunikaty#message-441014",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "07:01",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Na rynkach ropy i złota stabilnie, możliwa poprawa dzięki geopolityce - Skarbiec TFI (opinia)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441008",
     "src": "bossa",
     "flags": []
    },
@@ -492,20 +530,20 @@
   "nieruchomosci": [],
   "fundusze_drobne": [
    {
+    "time": "10:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Miedzi szkodzi rotacja kapitału, wsparciem AI i status quo dot. ceł - Skarbiec TFI (opinia)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/miedzi-szkodzi-rotacja-kapitalu-wsparciem-ai-i-status-quo-dot-cel-skarbiec-tfi",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "08:42",
     "kind": "espi",
     "ticker": null,
     "title": "KSG AGRO S.A.: UNAUDITED INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS FOR THE NINE MONTHS ENDED 30 SEPTEMBER 2026",
     "url": "https://bossa.pl/analizy/komunikaty#message-71771",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "07:01",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Miedzi szkodzi rotacja kapitału, wsparciem AI i status quo dot. ceł - Skarbiec TFI (opinia)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441007",
     "src": "bossa",
     "flags": []
    }
@@ -525,6 +563,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "10:01",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GOBARTO SA: GOBARTO S.A. – zmiana terminu publikacji raportu za III kwartał 2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71790",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:51",
     "kind": "pap",
