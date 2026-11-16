@@ -2,10 +2,10 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 18,
-  "wyniki": 80,
+  "wyniki": 81,
   "rekomendacje": 4,
-  "korporacyjne": 50,
-  "makro_pl": 26,
+  "korporacyjne": 52,
+  "makro_pl": 27,
   "swiat_rynki": 20,
   "energetyka_surowce": 2,
   "nieruchomosci": 0,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 70
  },
- "duplicatesRemoved": 139,
- "total": 430,
+ "duplicatesRemoved": 140,
+ "total": 435,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -189,6 +189,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "20:24",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ADVANCED MEDICAL EQUIPMENT SA (13/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441338",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "20:13",
     "kind": "pap",
@@ -966,6 +975,26 @@
   ],
   "korporacyjne": [
    {
+    "time": "20:21",
+    "kind": "espi",
+    "ticker": null,
+    "title": "LOKUM DEWELOPER S.A.: Powiadomienie o transakcjach, o którym mowa w art. 19 ust. 1 rozporządzenia MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71959",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
+    "time": "20:19",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BUMECH DEFENSE PARTNERS S.A.: Zmiana uwarunkowań rozliczenia transakcji oraz publikacja Suplementu nr 1 do Dokumentu Informacyjnego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71958",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "19:58",
     "kind": "espi",
     "ticker": null,
@@ -1489,6 +1518,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "20:21",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Tesla zamierza zainwestować 3 mld euro w produkcję autonomicznych taksówek pod Berlinem",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441337",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:38",
     "kind": "pap",

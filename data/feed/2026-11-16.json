@@ -1,7 +1,67 @@
 {
  "date": "2026-11-16",
- "count": 430,
+ "count": 435,
  "items": [
+  {
+   "id": "bossa-pap-441339",
+   "date": "2026-11-16",
+   "time": "20:28",
+   "ts": "2026-11-16T20:28:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "COSMA SA (26/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441339"
+  },
+  {
+   "id": "bossa-pap-441338",
+   "date": "2026-11-16",
+   "time": "20:24",
+   "ts": "2026-11-16T20:24:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "ADVANCED MEDICAL EQUIPMENT SA (13/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441338"
+  },
+  {
+   "id": "bossa-pap-441337",
+   "date": "2026-11-16",
+   "time": "20:21",
+   "ts": "2026-11-16T20:21:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Tesla zamierza zainwestować 3 mld euro w produkcję autonomicznych taksówek pod Berlinem",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441337"
+  },
+  {
+   "id": "bossa-espi-71959",
+   "date": "2026-11-16",
+   "time": "20:21",
+   "ts": "2026-11-16T20:21:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "LOKUM DEWELOPER S.A.",
+   "title": "Powiadomienie o transakcjach, o którym mowa w art. 19 ust. 1 rozporządzenia MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71959"
+  },
+  {
+   "id": "bossa-espi-71958",
+   "date": "2026-11-16",
+   "time": "20:19",
+   "ts": "2026-11-16T20:19:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BUMECH DEFENSE PARTNERS S.A.",
+   "title": "Zmiana uwarunkowań rozliczenia transakcji oraz publikacja Suplementu nr 1 do Dokumentu Informacyjnego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71958"
+  },
   {
    "id": "bossa-pap-441334",
    "date": "2026-11-16",
