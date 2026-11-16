@@ -2,7 +2,7 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 18,
-  "wyniki": 83,
+  "wyniki": 85,
   "rekomendacje": 4,
   "korporacyjne": 52,
   "makro_pl": 27,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 72
  },
- "duplicatesRemoved": 144,
- "total": 443,
+ "duplicatesRemoved": 146,
+ "total": 447,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -189,6 +189,24 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "21:09",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BAKED GAMES SA (17/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441349",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "21:06",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BROWAR CZARNKÓW SA (20/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441348",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "20:55",
     "kind": "pap",

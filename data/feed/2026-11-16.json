@@ -1,7 +1,43 @@
 {
  "date": "2026-11-16",
- "count": 443,
+ "count": 447,
  "items": [
+  {
+   "id": "bossa-espi-77117",
+   "date": "2026-11-16",
+   "time": "21:12",
+   "ts": "2026-11-16T21:12:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MULTIQURE S.A.",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-77117"
+  },
+  {
+   "id": "bossa-pap-441349",
+   "date": "2026-11-16",
+   "time": "21:09",
+   "ts": "2026-11-16T21:09:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "BAKED GAMES SA (17/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441349"
+  },
+  {
+   "id": "bossa-pap-441348",
+   "date": "2026-11-16",
+   "time": "21:06",
+   "ts": "2026-11-16T21:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "BROWAR CZARNKÓW SA (20/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441348"
+  },
   {
    "id": "bossa-pap-441347",
    "date": "2026-11-16",
@@ -348,6 +384,17 @@
    "title": "Administracja Trumpa nałożyła dodatkowe restrykcje na dostęp Chin do chipów AI",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261116/administracja-trumpa-nalozyla-dodatkowe-restrykcje-na-dostep-chin-do-chipow-ai"
+  },
+  {
+   "id": "strefa-130c25a6778a",
+   "date": "2026-11-16",
+   "time": "19:20",
+   "ts": "2026-11-16T19:20:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "skrot",
+   "title": "Skrót wiadomości - poniedziałek, 16 listopada, 21.00",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/skrot-wiadomosci-poniedzialek-16-listopada-2100"
   },
   {
    "id": "bossa-pap-441319",
