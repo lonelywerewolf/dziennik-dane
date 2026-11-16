@@ -2,7 +2,7 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 8,
-  "wyniki": 10,
+  "wyniki": 12,
   "rekomendacje": 2,
   "korporacyjne": 2,
   "makro_pl": 7,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 2,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 14
+  "pozostale": 15
  },
  "duplicatesRemoved": 23,
- "total": 74,
+ "total": 77,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -95,6 +95,24 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "09:06",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MAZOP GROUP SA (10/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441045",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "09:04",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GRUPA RECYKL SA (14/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441044",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:57",
     "kind": "news",
@@ -386,6 +404,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:12",
+    "kind": "pap",
+    "ticker": null,
+    "title": "TERMOEXPERT SA (10/2026) Rejestracja przez sąd zmiany statutu emitenta lub odmowie takiej rejestracji, z podaniem przyczyn odmowy",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441046",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:48",
     "kind": "pap",
