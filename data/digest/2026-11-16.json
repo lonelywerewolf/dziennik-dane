@@ -1,12 +1,12 @@
 {
  "date": "2026-11-16",
  "counts": {
-  "podsumowania": 14,
-  "wyniki": 48,
+  "podsumowania": 15,
+  "wyniki": 51,
   "rekomendacje": 4,
-  "korporacyjne": 34,
+  "korporacyjne": 35,
   "makro_pl": 23,
-  "swiat_rynki": 14,
+  "swiat_rynki": 15,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 12,
@@ -14,18 +14,27 @@
   "obserwowane": 0,
   "pozostale": 52
  },
- "duplicatesRemoved": 93,
- "total": 298,
+ "duplicatesRemoved": 97,
+ "total": 308,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
    {
-    "time": "16:56",
-    "kind": "pap",
+    "time": "17:06",
+    "kind": "news",
     "ticker": null,
     "title": "DZIEŃ NA FX/FI: Poniedziałkowa sesja bez dużych zmian na złotym; EUR/PLN może zejść poniżej 4,40",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441225",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/dzien-na-fxfi-poniedzialkowa-sesja-bez-duzych-zmian-na-zlotym-eurpln-moze-zejsc",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "16:47",
+    "kind": "skrot",
+    "ticker": null,
+    "title": "Skrót wiadomości - poniedziałek, 16 listopada, 17.00",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/skrot-wiadomosci-poniedzialek-16-listopada-1700",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -151,6 +160,33 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "17:05",
+    "kind": "pap",
+    "ticker": null,
+    "title": "TECNOVATICA SA (16/2026) Skonsolidowany raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441230",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:04",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ONICO SA W RESTRUKTURYZACJI (11/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441229",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:03",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Kolejkowo S.A.: Informacja o przychodach netto ze sprzedaży Emitenta za 10.2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71884",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:35",
     "kind": "pap",
@@ -635,6 +671,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "17:00",
+    "kind": "espi",
+    "ticker": null,
+    "title": "LEXBONO S.A.: Korekta raportu nr 11/2026 - Nabycie i umorzenie części obligacji serii P",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71883",
+    "src": "bossa",
+    "flags": [
+     "prognoza"
+    ]
+   },
    {
     "time": "16:43",
     "kind": "espi",
@@ -1204,6 +1251,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "17:06",
+    "kind": "news",
+    "ticker": null,
+    "title": "Trump zapowiedział rozmowy o Ukrainie z Xi i Putinem",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/trump-zapowiedzial-rozmowy-o-ukrainie-z-xi-i-putinem",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "15:46",
     "kind": "news",
