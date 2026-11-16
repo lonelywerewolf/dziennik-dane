@@ -1,24 +1,33 @@
 {
  "date": "2026-11-16",
  "counts": {
-  "podsumowania": 10,
-  "wyniki": 14,
+  "podsumowania": 11,
+  "wyniki": 15,
   "rekomendacje": 2,
-  "korporacyjne": 2,
-  "makro_pl": 7,
+  "korporacyjne": 3,
+  "makro_pl": 8,
   "swiat_rynki": 4,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 2,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 15
+  "pozostale": 16
  },
- "duplicatesRemoved": 24,
- "total": 82,
+ "duplicatesRemoved": 26,
+ "total": 89,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "09:35",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: W Europie na giełdach przewaga wzrostów indeksów",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/dzien-na-rynkach-w-europie-na-gieldach-przewaga-wzrostow-indeksow",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:16",
     "kind": "pap",
@@ -113,6 +122,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "09:33",
+    "kind": "pap",
+    "ticker": null,
+    "title": "AITON CALDWELL SA (9/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441053",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:17",
     "kind": "pap",
@@ -267,6 +285,17 @@
   ],
   "korporacyjne": [
    {
+    "time": "09:30",
+    "kind": "espi",
+    "ticker": null,
+    "title": "NOCTILUCA S.A.: Rozpoczęcie dostaw zaawansowanych materiałów do zastosowań w półprzewodnikach – pierwsze zamówienie od koreańskiego rządowego instytutu badawczego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71782",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
     "time": "08:41",
     "kind": "espi",
     "ticker": null,
@@ -291,6 +320,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "09:23",
+    "kind": "news",
+    "ticker": null,
+    "title": "Produkcja usług w sierpniu wzrosła o 7,2 proc. rdr, w ujęciu mdm spadła o 2,5 proc. - GUS",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/produkcja-uslug-w-sierpniu-wzrosla-o-72-proc-rdr-w-ujeciu-mdm-spadla-o-25-proc",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "07:35",
     "kind": "pap",
@@ -440,6 +478,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PREFA GROUP SA (17/2026) Zmiana harmonogramu publikacji raportów okresowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441051",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:12",
     "kind": "pap",

@@ -1,7 +1,89 @@
 {
  "date": "2026-11-16",
- "count": 82,
+ "count": 89,
  "items": [
+  {
+   "id": "bossa-pap-441055",
+   "date": "2026-11-16",
+   "time": "09:36",
+   "ts": "2026-11-16T09:36:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: W Europie na giełdach przewaga wzrostów indeksów",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441055"
+  },
+  {
+   "id": "strefa-32dfd24d2277",
+   "date": "2026-11-16",
+   "time": "09:35",
+   "ts": "2026-11-16T09:35:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: W Europie na giełdach przewaga wzrostów indeksów",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/dzien-na-rynkach-w-europie-na-gieldach-przewaga-wzrostow-indeksow"
+  },
+  {
+   "id": "bossa-pap-441054",
+   "date": "2026-11-16",
+   "time": "09:34",
+   "ts": "2026-11-16T09:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Produkcja usług w sierpniu wzrosła o 7,2 proc. rdr, w ujęciu mdm spadła o 2,5 proc. - GUS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441054"
+  },
+  {
+   "id": "bossa-pap-441053",
+   "date": "2026-11-16",
+   "time": "09:33",
+   "ts": "2026-11-16T09:33:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "AITON CALDWELL SA (9/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441053"
+  },
+  {
+   "id": "bossa-pap-441051",
+   "date": "2026-11-16",
+   "time": "09:30",
+   "ts": "2026-11-16T09:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PREFA GROUP SA (17/2026) Zmiana harmonogramu publikacji raportów okresowych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441051"
+  },
+  {
+   "id": "bossa-espi-71782",
+   "date": "2026-11-16",
+   "time": "09:30",
+   "ts": "2026-11-16T09:30:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "NOCTILUCA S.A.",
+   "title": "Rozpoczęcie dostaw zaawansowanych materiałów do zastosowań w półprzewodnikach – pierwsze zamówienie od koreańskiego rządowego instytutu badawczego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71782"
+  },
+  {
+   "id": "strefa-b5f735810d48",
+   "date": "2026-11-16",
+   "time": "09:23",
+   "ts": "2026-11-16T09:23:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Produkcja usług w sierpniu wzrosła o 7,2 proc. rdr, w ujęciu mdm spadła o 2,5 proc. - GUS",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/produkcja-uslug-w-sierpniu-wzrosla-o-72-proc-rdr-w-ujeciu-mdm-spadla-o-25-proc"
+  },
   {
    "id": "bossa-pap-441050",
    "date": "2026-11-16",
