@@ -1,7 +1,31 @@
 {
  "date": "2026-11-16",
- "count": 407,
+ "count": 410,
  "items": [
+  {
+   "id": "bossa-espi-71942",
+   "date": "2026-11-16",
+   "time": "19:00",
+   "ts": "2026-11-16T19:00:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "VARSAV GAME STUDIOS S.A.",
+   "title": "Zmiana planowanego terminu premiery gry BARKOUR na PC, PlayStation 5 oraz Xbox Series X|S",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71942"
+  },
+  {
+   "id": "bossa-espi-71941",
+   "date": "2026-11-16",
+   "time": "18:56",
+   "ts": "2026-11-16T18:56:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "FoodHub S.A.",
+   "title": "Zarekomendowanie projektu złożonego przez FoodHub S.A. do dofinansowania",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71941"
+  },
   {
    "id": "bossa-pap-441314",
    "date": "2026-11-16",
@@ -227,6 +251,17 @@
    "title": "DZIEŃ NA RYNKACH: Indeksy w Europie spadły na początku tygodnia",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261116/dzien-na-rynkach-indeksy-w-europie-spadly-na-poczatku-tygodnia"
+  },
+  {
+   "id": "strefa-52b11b88d35a",
+   "date": "2026-11-16",
+   "time": "18:27",
+   "ts": "2026-11-16T18:27:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "ONDE: 20 mln zł EBIT w trzecim kwartale i 1,7 mld zł w portfelu",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/onde-20-mln-zl-ebit-w-trzecim-kwartale-i-17-mld-zl-w-portfelu"
   },
   {
    "id": "bossa-pap-441297",
