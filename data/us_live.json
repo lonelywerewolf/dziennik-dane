@@ -1,39 +1,39 @@
 {
  "q": {
   "ASML": {
-   "price": 1495.16,
-   "chgPct": null,
-   "at": "Nov 16, 2026 7:41 AM ET",
+   "price": 1440.7,
+   "chgPct": -3.64,
+   "at": "Nov 16, 2026 8:36 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/asml"
   },
   "AVGO": {
-   "price": 333.8,
-   "chgPct": -3.81,
-   "at": "Nov 16, 2026 7:41 AM ET",
+   "price": 332.8557,
+   "chgPct": -4.08,
+   "at": "Nov 16, 2026 8:36 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/avgo"
   },
   "MPWR": {
-   "price": 1343.0,
-   "chgPct": -3.42,
-   "at": "Nov 16, 2026 7:39 AM ET",
+   "price": 1334.92,
+   "chgPct": -4.0,
+   "at": "Nov 16, 2026 8:35 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/mpwr"
   },
   "NVDA": {
-   "price": 157.6407,
-   "chgPct": -3.2,
-   "at": "Nov 16, 2026 7:41 AM ET",
+   "price": 157.1,
+   "chgPct": -3.53,
+   "at": "Nov 16, 2026 8:36 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/nvda"
   },
   "TSM": {
-   "price": 378.65,
-   "chgPct": -5.04,
-   "at": "Nov 16, 2026 7:41 AM ET",
+   "price": 380.3133,
+   "chgPct": -4.62,
+   "at": "Nov 16, 2026 8:36 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/tsm"
   },
   "VRT": {
-   "price": 190.9622,
-   "chgPct": -5.5,
-   "at": "Nov 16, 2026 7:41 AM ET",
+   "price": 190.5,
+   "chgPct": -5.73,
+   "at": "Nov 16, 2026 8:36 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/vrt"
   },
   "^NDQ": {
@@ -49,17 +49,17 @@
    "src": "https://www.nasdaq.com/market-activity/index/sox"
   },
   "^SPX": {
-   "price": 749.15,
-   "chgPct": -0.69,
-   "at": "Nov 16, 2026 7:41 AM ET",
+   "price": 749.41,
+   "chgPct": -0.66,
+   "at": "Nov 16, 2026 8:36 AM ET",
    "src": "https://www.nasdaq.com/market-activity/index/spy"
   },
   "MRVL": {
-   "price": 147.38,
-   "chgPct": -5.98,
-   "at": "Nov 16, 2026 7:41 AM ET",
+   "price": 147.05,
+   "chgPct": -6.19,
+   "at": "Nov 16, 2026 8:36 AM ET",
    "src": "https://www.nasdaq.com/market-activity/stocks/mrvl"
   }
  },
- "updatedAt": "2026-11-16T13:40:57+01:00"
+ "updatedAt": "2026-11-16T14:35:57+01:00"
 }
