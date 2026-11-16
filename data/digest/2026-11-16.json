@@ -2,20 +2,20 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 11,
-  "wyniki": 23,
+  "wyniki": 24,
   "rekomendacje": 2,
   "korporacyjne": 8,
-  "makro_pl": 9,
-  "swiat_rynki": 5,
+  "makro_pl": 12,
+  "swiat_rynki": 6,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 2,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 21
+  "pozostale": 22
  },
  "duplicatesRemoved": 33,
- "total": 116,
+ "total": 122,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -122,6 +122,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "11:04",
+    "kind": "pap",
+    "ticker": null,
+    "title": "LUKARDI SA (18/2026) Skonsolidowany raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441077",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:40",
     "kind": "pap",
@@ -450,6 +459,33 @@
   ],
   "makro_pl": [
    {
+    "time": "11:04",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Produkcja przemysłowa w Polsce we wrześniu wzrosła o 4,0 proc. rdr - Eurostat",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441079",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:04",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Produkcja przemysłowa w strefie euro w IX: +0,2 proc. mdm. Konsensus: +0,3 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441076",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:55",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Victoria Dom Spółka Akcyjna/Victoria Dom Spółka Akcyjna (10/2026) Umorzenie obligacji emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441075",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "10:03",
     "kind": "pap",
     "ticker": null,
@@ -532,6 +568,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "11:04",
+    "kind": "espi",
+    "ticker": null,
+    "title": "UniCredit: UniCredit receives FED approval regarding the offer on Commerzbank",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71798",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:50",
     "kind": "pap",
@@ -625,6 +670,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:05",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźniki referencyjne - EURIBOR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441080",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:42",
     "kind": "pap",

@@ -1,7 +1,79 @@
 {
  "date": "2026-11-16",
- "count": 116,
+ "count": 122,
  "items": [
+  {
+   "id": "bossa-pap-441080",
+   "date": "2026-11-16",
+   "time": "11:05",
+   "ts": "2026-11-16T11:05:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne - EURIBOR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441080"
+  },
+  {
+   "id": "bossa-pap-441079",
+   "date": "2026-11-16",
+   "time": "11:04",
+   "ts": "2026-11-16T11:04:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Produkcja przemysłowa w Polsce we wrześniu wzrosła o 4,0 proc. rdr - Eurostat",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441079"
+  },
+  {
+   "id": "bossa-pap-441077",
+   "date": "2026-11-16",
+   "time": "11:04",
+   "ts": "2026-11-16T11:04:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "LUKARDI SA (18/2026) Skonsolidowany raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441077"
+  },
+  {
+   "id": "bossa-pap-441076",
+   "date": "2026-11-16",
+   "time": "11:04",
+   "ts": "2026-11-16T11:04:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Produkcja przemysłowa w strefie euro w IX: +0,2 proc. mdm. Konsensus: +0,3 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441076"
+  },
+  {
+   "id": "bossa-espi-71798",
+   "date": "2026-11-16",
+   "time": "11:04",
+   "ts": "2026-11-16T11:04:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "UniCredit",
+   "title": "UniCredit receives FED approval regarding the offer on Commerzbank",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71798"
+  },
+  {
+   "id": "bossa-pap-441075",
+   "date": "2026-11-16",
+   "time": "10:55",
+   "ts": "2026-11-16T10:55:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Victoria Dom Spółka Akcyjna/Victoria Dom Spółka Akcyjna (10/2026) Umorzenie obligacji emitenta",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441075"
+  },
   {
    "id": "bossa-pap-441074",
    "date": "2026-11-16",
