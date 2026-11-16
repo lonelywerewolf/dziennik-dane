@@ -2,20 +2,20 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 12,
-  "wyniki": 33,
+  "wyniki": 34,
   "rekomendacje": 3,
   "korporacyjne": 12,
   "makro_pl": 16,
   "swiat_rynki": 8,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
-  "fundusze_drobne": 4,
-  "twoje_spolki": 1,
+  "fundusze_drobne": 5,
+  "twoje_spolki": 2,
   "obserwowane": 0,
   "pozostale": 36
  },
- "duplicatesRemoved": 58,
- "total": 184,
+ "duplicatesRemoved": 60,
+ "total": 189,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -133,6 +133,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "13:17",
+    "kind": "pap",
+    "ticker": null,
+    "title": "CARLSON INVESTMENTS SE (27/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441137",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:49",
     "kind": "pap",
@@ -839,6 +848,15 @@
   "nieruchomosci": [],
   "fundusze_drobne": [
    {
+    "time": "13:12",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PKO BP BANKOWY OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441134",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "12:02",
     "kind": "espi",
     "ticker": null,
@@ -876,6 +894,15 @@
    }
   ],
   "twoje_spolki": [
+   {
+    "time": "13:15",
+    "kind": "espi",
+    "ticker": "DIG",
+    "title": "DIGITAL NETWORK S.A.: Przyspieszenie publikacji raportu okresowego za III kwartał 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71832",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "06:20",
     "kind": "news",
