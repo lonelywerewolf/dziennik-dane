@@ -29,16 +29,16 @@
    "via": "tiingo"
   },
   "TSM": {
-   "price": 374.28,
-   "chgPct": -6.13,
-   "at": "2026-11-16T16:44:28.676165156-05:00",
+   "price": 373.45,
+   "chgPct": -6.34,
+   "at": "2026-11-16T21:00:00+00:00",
    "src": "https://www.tiingo.com/tsm/overview",
    "via": "tiingo"
   },
   "VRT": {
-   "price": 188.63,
-   "chgPct": -6.65,
-   "at": "2026-11-16T16:00:03.801756390-05:00",
+   "price": 188.67,
+   "chgPct": -6.63,
+   "at": "2026-11-16T21:00:00+00:00",
    "src": "https://www.tiingo.com/vrt/overview",
    "via": "tiingo"
   },
@@ -57,9 +57,9 @@
    "via": "tiingo (SOXX)"
   },
   "^SPX": {
-   "price": 739.985,
+   "price": 739.95,
    "chgPct": -1.91,
-   "at": "2026-11-16T16:54:50.628693780-05:00",
+   "at": "2026-11-16T21:00:00+00:00",
    "src": "https://www.tiingo.com/spy/overview",
    "via": "tiingo (SPY)"
   },
@@ -71,5 +71,5 @@
    "via": "tiingo"
   }
  },
- "updatedAt": "2026-11-16T23:03:52+01:00"
+ "updatedAt": "2026-11-16T23:14:53+01:00"
 }
