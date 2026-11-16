@@ -2,9 +2,9 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 12,
-  "wyniki": 28,
+  "wyniki": 29,
   "rekomendacje": 3,
-  "korporacyjne": 9,
+  "korporacyjne": 10,
   "makro_pl": 14,
   "swiat_rynki": 7,
   "energetyka_surowce": 1,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 31
  },
- "duplicatesRemoved": 44,
- "total": 154,
+ "duplicatesRemoved": 49,
+ "total": 161,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -133,6 +133,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "12:24",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MOSTALZAB: Szacunkowe wybrane dane finansowe Grupy Kapitałowej MOSTOSTAL ZABRZE za trzy kwartały 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71814",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "12:15",
     "kind": "pap",
@@ -427,6 +438,15 @@
   ],
   "korporacyjne": [
    {
+    "time": "12:32",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MARVIPOL DEVELOPMENT S.A.: Zwołanie Nadzwyczajnego Walnego Zgromadzenia Marvipol Development S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-9262",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "11:26",
     "kind": "espi",
     "ticker": null,
@@ -657,12 +677,12 @@
   ],
   "swiat_rynki": [
    {
-    "time": "11:34",
-    "kind": "pap",
+    "time": "12:23",
+    "kind": "news",
     "ticker": null,
     "title": "Projekt ME ws. cen gazu wydłuża taryfowanie URE w tym sektorze do końca 2030 r.",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441090",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/projekt-me-ws-cen-gazu-wydluza-taryfowanie-ure-w-tym-sektorze-do-konca-2030-r",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -786,15 +806,6 @@
   "obserwowane": [],
   "pozostale": [
    {
-    "time": "12:22",
-    "kind": "pap",
-    "ticker": null,
-    "title": "GPW spodziewa się, że IV kw. będzie trudny kosztowo; CAPEX zbliżony do III kw. (opis)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441107",
-    "src": "bossa",
-    "flags": []
-   },
-   {
     "time": "12:14",
     "kind": "pap",
     "ticker": null,
@@ -819,6 +830,15 @@
     "title": "Bechtel zainteresowany dużymi projektami infrastrukturalnymi i transportowymi w Polsce (wywiad)",
     "url": "https://bossa.pl/analizy/komunikaty#message-441098",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:52",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW spodziewa się, że IV kw. będzie trudny kosztowo; CAPEX zbliżony do III kw. (opis)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/gpw-spodziewa-sie-ze-iv-kw-bedzie-trudny-kosztowo-capex-zblizony-do-iii-kw-opis",
+    "src": "strefainwestorow",
     "flags": []
    },
    {

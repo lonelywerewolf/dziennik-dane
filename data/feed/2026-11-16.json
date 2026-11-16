@@ -1,7 +1,78 @@
 {
  "date": "2026-11-16",
- "count": 154,
+ "count": 161,
  "items": [
+  {
+   "id": "bossa-espi-9262",
+   "date": "2026-11-16",
+   "time": "12:32",
+   "ts": "2026-11-16T12:32:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MARVIPOL DEVELOPMENT S.A.",
+   "title": "Zwołanie Nadzwyczajnego Walnego Zgromadzenia Marvipol Development S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-9262"
+  },
+  {
+   "id": "bossa-espi-71816",
+   "date": "2026-11-16",
+   "time": "12:29",
+   "ts": "2026-11-16T12:29:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF WIG20lev PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 230 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71816"
+  },
+  {
+   "id": "bossa-espi-71815",
+   "date": "2026-11-16",
+   "time": "12:25",
+   "ts": "2026-11-16T12:25:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF TBSP IPORTFELOWY FIZ",
+   "title": "Raport bieżący nr 230 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71815"
+  },
+  {
+   "id": "bossa-pap-441108",
+   "date": "2026-11-16",
+   "time": "12:24",
+   "ts": "2026-11-16T12:24:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "EDITEL SA (14/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441108"
+  },
+  {
+   "id": "bossa-espi-71814",
+   "date": "2026-11-16",
+   "time": "12:24",
+   "ts": "2026-11-16T12:24:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MOSTALZAB",
+   "title": "Szacunkowe wybrane dane finansowe Grupy Kapitałowej MOSTOSTAL ZABRZE za trzy kwartały 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71814"
+  },
+  {
+   "id": "strefa-b2c5180fa4df",
+   "date": "2026-11-16",
+   "time": "12:23",
+   "ts": "2026-11-16T12:23:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Projekt ME ws. cen gazu wydłuża taryfowanie URE w tym sektorze do końca 2030 r.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/projekt-me-ws-cen-gazu-wydluza-taryfowanie-ure-w-tym-sektorze-do-konca-2030-r"
+  },
   {
    "id": "bossa-pap-441107",
    "date": "2026-11-16",
@@ -169,6 +240,17 @@
    "title": "UNIQA OFE wartość jednostki rozrachunkowej",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-441094"
+  },
+  {
+   "id": "strefa-f0e41cbf51bf",
+   "date": "2026-11-16",
+   "time": "11:52",
+   "ts": "2026-11-16T11:52:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW spodziewa się, że IV kw. będzie trudny kosztowo; CAPEX zbliżony do III kw. (opis)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/gpw-spodziewa-sie-ze-iv-kw-bedzie-trudny-kosztowo-capex-zblizony-do-iii-kw-opis"
   },
   {
    "id": "bossa-pap-441093",
