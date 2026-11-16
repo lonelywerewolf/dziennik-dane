@@ -2,9 +2,9 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 12,
-  "wyniki": 34,
+  "wyniki": 36,
   "rekomendacje": 3,
-  "korporacyjne": 13,
+  "korporacyjne": 14,
   "makro_pl": 17,
   "swiat_rynki": 8,
   "energetyka_surowce": 1,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 36
  },
- "duplicatesRemoved": 62,
- "total": 193,
+ "duplicatesRemoved": 63,
+ "total": 197,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -133,6 +133,24 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "13:48",
+    "kind": "pap",
+    "ticker": null,
+    "title": "EURO-TAX.PL SA (16/2026) Skonsolidowany raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441144",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:42",
+    "kind": "pap",
+    "ticker": null,
+    "title": "TERMOEXPERT SA (11/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441143",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:17",
     "kind": "pap",
@@ -482,6 +500,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "13:41",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Euroterminal Sławków i konsorcjum polskich firm mają umowę na budowę płyty TK-2 za ok. 88 mln zł",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441142",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "13:22",
     "kind": "espi",

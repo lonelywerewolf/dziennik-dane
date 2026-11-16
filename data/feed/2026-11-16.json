@@ -1,7 +1,55 @@
 {
  "date": "2026-11-16",
- "count": 193,
+ "count": 197,
  "items": [
+  {
+   "id": "bossa-espi-71839",
+   "date": "2026-11-16",
+   "time": "13:51",
+   "ts": "2026-11-16T13:51:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF WIG20TR PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 231 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71839"
+  },
+  {
+   "id": "bossa-pap-441144",
+   "date": "2026-11-16",
+   "time": "13:48",
+   "ts": "2026-11-16T13:48:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "EURO-TAX.PL SA (16/2026) Skonsolidowany raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441144"
+  },
+  {
+   "id": "bossa-pap-441143",
+   "date": "2026-11-16",
+   "time": "13:42",
+   "ts": "2026-11-16T13:42:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "TERMOEXPERT SA (11/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441143"
+  },
+  {
+   "id": "bossa-pap-441142",
+   "date": "2026-11-16",
+   "time": "13:41",
+   "ts": "2026-11-16T13:41:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Euroterminal Sławków i konsorcjum polskich firm mają umowę na budowę płyty TK-2 za ok. 88 mln zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441142"
+  },
   {
    "id": "bossa-pap-441141",
    "date": "2026-11-16",
