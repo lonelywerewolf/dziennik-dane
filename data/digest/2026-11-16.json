@@ -1,9 +1,9 @@
 {
  "date": "2026-11-16",
  "counts": {
-  "podsumowania": 7,
+  "podsumowania": 8,
   "wyniki": 5,
-  "rekomendacje": 1,
+  "rekomendacje": 2,
   "korporacyjne": 0,
   "makro_pl": 7,
   "swiat_rynki": 3,
@@ -12,13 +12,22 @@
   "fundusze_drobne": 1,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 10
+  "pozostale": 11
  },
- "duplicatesRemoved": 14,
- "total": 50,
+ "duplicatesRemoved": 16,
+ "total": 55,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "08:15",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: W Azji na giełdach przewaga spadków",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/dzien-na-rynkach-w-azji-na-gieldach-przewaga-spadkow",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:10",
     "kind": "news",
@@ -135,6 +144,15 @@
    }
   ],
   "rekomendacje": [
+   {
+    "time": "08:28",
+    "kind": "news",
+    "ticker": null,
+    "title": "Erste podtrzymuje \"kupuj\" dla Artifex Mundi, obniża cenę docelową do 26,5 zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/erste-podtrzymuje-kupuj-dla-artifex-mundi-obniza-cene-docelowa-do-265-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "07:48",
     "kind": "pap",
@@ -278,6 +296,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "08:27",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KSG AGRO S.A.: SETTLEMENT OF CURRENT LIABILITIES",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71767",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:08",
     "kind": "news",

@@ -1,7 +1,65 @@
 {
  "date": "2026-11-16",
- "count": 50,
+ "count": 55,
  "items": [
+  {
+   "id": "bossa-pap-441030",
+   "date": "2026-11-16",
+   "time": "08:30",
+   "ts": "2026-11-16T08:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Erste podtrzymuje \"kupuj\" dla Artifex Mundi, obniża cenę docelową do 26,5 zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441030"
+  },
+  {
+   "id": "strefa-e2aff10b9d49",
+   "date": "2026-11-16",
+   "time": "08:28",
+   "ts": "2026-11-16T08:28:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Erste podtrzymuje \"kupuj\" dla Artifex Mundi, obniża cenę docelową do 26,5 zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/erste-podtrzymuje-kupuj-dla-artifex-mundi-obniza-cene-docelowa-do-265-zl"
+  },
+  {
+   "id": "bossa-pap-441028",
+   "date": "2026-11-16",
+   "time": "08:27",
+   "ts": "2026-11-16T08:27:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: W Azji na giełdach przewaga spadków",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441028"
+  },
+  {
+   "id": "bossa-espi-71767",
+   "date": "2026-11-16",
+   "time": "08:27",
+   "ts": "2026-11-16T08:27:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KSG AGRO S.A.",
+   "title": "SETTLEMENT OF CURRENT LIABILITIES",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71767"
+  },
+  {
+   "id": "strefa-38df8111d8d6",
+   "date": "2026-11-16",
+   "time": "08:15",
+   "ts": "2026-11-16T08:15:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: W Azji na giełdach przewaga spadków",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/dzien-na-rynkach-w-azji-na-gieldach-przewaga-spadkow"
+  },
   {
    "id": "bossa-pap-441027",
    "date": "2026-11-16",
