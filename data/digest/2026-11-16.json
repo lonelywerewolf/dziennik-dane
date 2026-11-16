@@ -2,20 +2,20 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 11,
-  "wyniki": 16,
+  "wyniki": 18,
   "rekomendacje": 2,
-  "korporacyjne": 3,
+  "korporacyjne": 4,
   "makro_pl": 8,
-  "swiat_rynki": 4,
+  "swiat_rynki": 5,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 2,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 17
+  "pozostale": 18
  },
- "duplicatesRemoved": 28,
- "total": 93,
+ "duplicatesRemoved": 30,
+ "total": 100,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -122,6 +122,24 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "09:56",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ORGANIC FARMA ZDROWIA SA (21/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441063",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "09:55",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ADVERTIGO SA (16/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441062",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:43",
     "kind": "pap",
@@ -294,6 +312,17 @@
   ],
   "korporacyjne": [
    {
+    "time": "09:46",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kontrakty i umowy spółek - przegląd tygodniowy",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/kontrakty-i-umowy-spolek-przeglad-tygodniowy",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
     "time": "09:30",
     "kind": "espi",
     "ticker": null,
@@ -404,6 +433,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "09:50",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Ceny gazu w Europie spadają",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441058",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "08:59",
     "kind": "news",
     "ticker": null,
@@ -487,6 +525,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:51",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Sytuacja polityczna i fiskalna Polski coraz mocniej przyciąga uwagę inwestorów zagranicznych - RBI (wywiad)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441059",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:44",
     "kind": "news",

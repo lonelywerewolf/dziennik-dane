@@ -1,7 +1,90 @@
 {
  "date": "2026-11-16",
- "count": 93,
+ "count": 100,
  "items": [
+  {
+   "id": "bossa-pap-441063",
+   "date": "2026-11-16",
+   "time": "09:56",
+   "ts": "2026-11-16T09:56:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "ORGANIC FARMA ZDROWIA SA (21/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441063"
+  },
+  {
+   "id": "bossa-pap-441062",
+   "date": "2026-11-16",
+   "time": "09:55",
+   "ts": "2026-11-16T09:55:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "ADVERTIGO SA (16/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441062"
+  },
+  {
+   "id": "bossa-pap-441060",
+   "date": "2026-11-16",
+   "time": "09:55",
+   "ts": "2026-11-16T09:55:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Kontrakty i umowy spółek - przegląd tygodniowy",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441060"
+  },
+  {
+   "id": "bossa-espi-71787",
+   "date": "2026-11-16",
+   "time": "09:55",
+   "ts": "2026-11-16T09:55:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "TERMO-REX S.A.",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71787"
+  },
+  {
+   "id": "bossa-pap-441059",
+   "date": "2026-11-16",
+   "time": "09:51",
+   "ts": "2026-11-16T09:51:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Sytuacja polityczna i fiskalna Polski coraz mocniej przyciąga uwagę inwestorów zagranicznych - RBI (wywiad)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441059"
+  },
+  {
+   "id": "bossa-pap-441058",
+   "date": "2026-11-16",
+   "time": "09:50",
+   "ts": "2026-11-16T09:50:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ceny gazu w Europie spadają",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441058"
+  },
+  {
+   "id": "strefa-9a3489beefde",
+   "date": "2026-11-16",
+   "time": "09:46",
+   "ts": "2026-11-16T09:46:43+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Kontrakty i umowy spółek - przegląd tygodniowy",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/kontrakty-i-umowy-spolek-przeglad-tygodniowy"
+  },
   {
    "id": "strefa-82deca8360ea",
    "date": "2026-11-16",
