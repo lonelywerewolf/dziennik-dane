@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "7d5bb70ec574",
+   "ticker": "NVDA",
+   "time": "2026-11-16T18:19+01:00",
+   "title": "Monday's ETF with Unusual Volume: LST",
+   "url": "https://www.nasdaq.com/articles/mondays-etf-unusual-volume-lst",
+   "src": "nasdaq",
+   "summary": "The Leuthold Select Industries ETF is seeing unusually high volume in afternoon trading Monday, with over 327,000 shares traded versus three month average volume of about 79,000.  Shares of LST were down about 0.3% on the day.\n\nComponents of that ETF with the highest volume on M"
+  },
+  {
    "id": "c47b163161de",
    "ticker": "NVDA",
    "time": "2026-11-16T18:02+01:00",
@@ -89,6 +98,15 @@
    "url": "https://www.nasdaq.com/articles/sp-500-pace-do-something-thats-only-happened-3-times-history",
    "src": "nasdaq",
    "summary": "Key PointsThe S&amp;P 500 has had three instances of four consecutive years of double-digit percentage increases."
+  },
+  {
+   "id": "6c8492955eff",
+   "ticker": "NVDA",
+   "time": "2026-11-16T16:10+01:00",
+   "title": "PLTR Raises 2026 Guidance as Q3 AI Demand Drives 96% Revenue Growth",
+   "url": "https://www.nasdaq.com/articles/pltr-raises-2026-guidance-q3-ai-demand-drives-96-revenue-growth",
+   "src": "nasdaq",
+   "summary": "Palantir raises its 2026 revenue outlook as Q3 sales surge 96% on AI demand, fueled by U.S. commercial growth, stronger margins and expanding customer spending."
   },
   {
    "id": "138893e63ade",
@@ -13744,5 +13762,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-16T18:28:52+01:00"
+ "updatedAt": "2026-11-16T18:39:53+01:00"
 }

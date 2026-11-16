@@ -2,20 +2,20 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 18,
-  "wyniki": 70,
+  "wyniki": 72,
   "rekomendacje": 4,
-  "korporacyjne": 44,
-  "makro_pl": 25,
+  "korporacyjne": 45,
+  "makro_pl": 26,
   "swiat_rynki": 17,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 13,
   "twoje_spolki": 8,
   "obserwowane": 0,
-  "pozostale": 63
+  "pozostale": 64
  },
- "duplicatesRemoved": 127,
- "total": 390,
+ "duplicatesRemoved": 129,
+ "total": 397,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -189,6 +189,24 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "18:35",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MILISYSTEM SA (19/2026) Skonsolidowany raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441303",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "18:35",
+    "kind": "pap",
+    "ticker": null,
+    "title": "DEFENCE.HUB SA (36/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441302",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:25",
     "kind": "pap",
@@ -876,6 +894,15 @@
   ],
   "korporacyjne": [
    {
+    "time": "18:29",
+    "kind": "espi",
+    "ticker": null,
+    "title": "CYFROWY POLSAT S.A.: Zwołanie Nadzwyczajnego Walnego Zgromadzania spółki Cyfrowy Polsat S.A. na dzień 14 grudnia 2026 r. oraz treść projektów uchwał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71930",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "18:16",
     "kind": "news",
     "ticker": null,
@@ -1337,6 +1364,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "18:38",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wyzwaniami polskiego budownictwa m.in. brak długoterminowej strategii rządowej i demografia - paneliści",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441304",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:04",
     "kind": "espi",
@@ -1933,6 +1969,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "18:31",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MILISYSTEM S.A.: Aktualizacja informacji dotyczącej procesu wprowadzenia akcji serii C oraz akcji serii D do obrotu w Alternatywnym Systemie Obrotu na rynku NewConnect",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71932",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:27",
     "kind": "pap",
