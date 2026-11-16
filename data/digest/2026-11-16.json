@@ -6,16 +6,16 @@
   "rekomendacje": 3,
   "korporacyjne": 12,
   "makro_pl": 16,
-  "swiat_rynki": 7,
+  "swiat_rynki": 8,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 4,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 34
+  "pozostale": 36
  },
- "duplicatesRemoved": 53,
- "total": 176,
+ "duplicatesRemoved": 57,
+ "total": 183,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -753,6 +753,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "12:57",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Dzięki 1 mld zł z Funduszu Modernizacyjnego może powstać 30 nowych magazynów ciepła - MKiŚ, NFOŚiGW",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441125",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "12:23",
     "kind": "news",
     "ticker": null,
@@ -881,6 +890,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "13:01",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeksy transakcyjne - POLSTR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441129",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeksy transakcyjne - WIRON",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441128",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:44",
     "kind": "pap",
