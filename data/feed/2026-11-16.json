@@ -1,7 +1,79 @@
 {
  "date": "2026-11-16",
- "count": 273,
+ "count": 280,
  "items": [
+  {
+   "id": "bossa-espi-71878",
+   "date": "2026-11-16",
+   "time": "16:25",
+   "ts": "2026-11-16T16:25:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PASSUS S.A.",
+   "title": "Zawarcie umowy znaczącej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71878"
+  },
+  {
+   "id": "bossa-espi-71877",
+   "date": "2026-11-16",
+   "time": "16:25",
+   "ts": "2026-11-16T16:25:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BANK GOSPODARSTWA KRAJOWEGO",
+   "title": "Powołanie członka Rady Nadzorczej Banku Gospodarstwa Krajowego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71877"
+  },
+  {
+   "id": "bossa-pap-441211",
+   "date": "2026-11-16",
+   "time": "16:23",
+   "ts": "2026-11-16T16:23:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Komunikat w sprawie spełnienia ostatniego warunku prawnego określonego w wezwaniu do zapisywania się na sprzedaż akcji Zabka Group S.A. ogłoszonym przez Alimentation Couche-Tard Inc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441211"
+  },
+  {
+   "id": "bossa-espi-71876",
+   "date": "2026-11-16",
+   "time": "16:22",
+   "ts": "2026-11-16T16:22:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "SYNTHAVERSE SA",
+   "title": "Wykaz akcjonariuszy posiadających co najmniej 5% głosów na Nadzwyczajnym Walnym Zgromadzeniu Akcjonariuszy Emitenta zwołanym na dzień 16 listopada 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71876"
+  },
+  {
+   "id": "bossa-pap-441208",
+   "date": "2026-11-16",
+   "time": "16:18",
+   "ts": "2026-11-16T16:18:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MI planuje większy budżet na drogi lokalne; istotna deregulacja dot. decyzji środowiskowych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441208"
+  },
+  {
+   "id": "bossa-pap-441209",
+   "date": "2026-11-16",
+   "time": "16:14",
+   "ts": "2026-11-16T16:14:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MYCODERN SA (19/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441209"
+  },
   {
    "id": "bossa-espi-71874",
    "date": "2026-11-16",
@@ -37,6 +109,17 @@
    "title": "Treść uchwał podjętych przez Nadzwyczajne Walne Zgromadzenie Emitenta w dniu 16 listopada 2026 roku",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-71872"
+  },
+  {
+   "id": "strefa-3785df2d3b83",
+   "date": "2026-11-16",
+   "time": "16:03",
+   "ts": "2026-11-16T16:03:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Komunikat w sprawie spełnienia ostatniego warunku prawnego określonego w wezwaniu do zapisywania się na sprzedaż akcji Zabka Group S.A. ogłoszonym przez Alimentation Couche-Tard Inc.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/komunikat-w-sprawie-spelnienia-ostatniego-warunku-prawnego-okreslonego-w"
   },
   {
    "id": "bossa-pap-441200",

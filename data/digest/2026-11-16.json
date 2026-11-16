@@ -4,18 +4,18 @@
   "podsumowania": 12,
   "wyniki": 47,
   "rekomendacje": 4,
-  "korporacyjne": 29,
-  "makro_pl": 21,
+  "korporacyjne": 32,
+  "makro_pl": 22,
   "swiat_rynki": 14,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 9,
   "twoje_spolki": 3,
   "obserwowane": 0,
-  "pozostale": 49
+  "pozostale": 50
  },
- "duplicatesRemoved": 84,
- "total": 273,
+ "duplicatesRemoved": 86,
+ "total": 280,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -609,6 +609,28 @@
   ],
   "korporacyjne": [
    {
+    "time": "16:25",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PASSUS S.A.: Zawarcie umowy znaczącej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71878",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "16:22",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SYNTHAVERSE SA: Wykaz akcjonariuszy posiadających co najmniej 5% głosów na Nadzwyczajnym Walnym Zgromadzeniu Akcjonariuszy Emitenta zwołanym na dzień 16 listopada 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71876",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
+   {
     "time": "16:10",
     "kind": "espi",
     "ticker": null,
@@ -636,6 +658,17 @@
     "url": "https://bossa.pl/analizy/komunikaty#message-71872",
     "src": "bossa",
     "flags": []
+   },
+   {
+    "time": "16:03",
+    "kind": "news",
+    "ticker": null,
+    "title": "Komunikat w sprawie spełnienia ostatniego warunku prawnego określonego w wezwaniu do zapisywania się na sprzedaż akcji Zabka Group S.A. ogłoszonym przez Alimentation Couche-Tard Inc.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/komunikat-w-sprawie-spelnienia-ostatniego-warunku-prawnego-okreslonego-w",
+    "src": "strefainwestorow",
+    "flags": [
+     "wezwanie"
+    ]
    },
    {
     "time": "16:00",
@@ -915,6 +948,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "16:18",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MI planuje większy budżet na drogi lokalne; istotna deregulacja dot. decyzji środowiskowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441208",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:51",
     "kind": "news",
@@ -1363,6 +1405,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "16:25",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BANK GOSPODARSTWA KRAJOWEGO: Powołanie członka Rady Nadzorczej Banku Gospodarstwa Krajowego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71877",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:03",
     "kind": "pap",
