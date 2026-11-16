@@ -2,20 +2,20 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 12,
-  "wyniki": 29,
+  "wyniki": 32,
   "rekomendacje": 3,
-  "korporacyjne": 10,
-  "makro_pl": 14,
+  "korporacyjne": 11,
+  "makro_pl": 15,
   "swiat_rynki": 7,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 4,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 31
+  "pozostale": 34
  },
- "duplicatesRemoved": 49,
- "total": 161,
+ "duplicatesRemoved": 52,
+ "total": 172,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -133,6 +133,33 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "12:38",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MASSMEDICA SA (10/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441119",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:35",
+    "kind": "news",
+    "ticker": null,
+    "title": "Mostostal Zabrze szacuje w III kw. skons. zysk netto na 8,2 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/mostostal-zabrze-szacuje-w-iii-kw-skons-zysk-netto-na-82-mln-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "12:33",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BIOGENED SA (9/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441113",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:24",
     "kind": "espi",
@@ -438,6 +465,17 @@
   ],
   "korporacyjne": [
    {
+    "time": "12:34",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Liftero S.A.: Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu Liftero S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71818",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
+   {
     "time": "12:32",
     "kind": "espi",
     "ticker": null,
@@ -548,6 +586,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "12:33",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: w sprawie wprowadzenia do alternatywnego systemu obrotu na Catalyst obligacji na okaziciela serii E spółki MATEXI POLSKA HOLDING & FINANCE",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/gpw-w-sprawie-wprowadzenia-do-alternatywnego-systemu-obrotu-na-catalyst",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "12:09",
     "kind": "pap",
@@ -805,6 +852,33 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:44",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PKO BP, PZU i GPW dołączyły do Team Poland jako instytucje wspierające",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441121",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:42",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PKP PLK szacuje plan inwestycyjny w '27 na ok. 17 mld zł",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441120",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:35",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PEPCO GROUP N.V.: Share buyback programme: Acquisition of shares from 9 – 13 November 2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71819",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:14",
     "kind": "pap",
