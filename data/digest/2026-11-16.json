@@ -1,7 +1,7 @@
 {
  "date": "2026-11-16",
  "counts": {
-  "podsumowania": 11,
+  "podsumowania": 12,
   "wyniki": 24,
   "rekomendacje": 2,
   "korporacyjne": 8,
@@ -12,13 +12,24 @@
   "fundusze_drobne": 2,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 22
+  "pozostale": 26
  },
- "duplicatesRemoved": 33,
- "total": 122,
+ "duplicatesRemoved": 35,
+ "total": 129,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "11:06",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: Tydzień rozpoczął się od korekty głównych wskaźników; Orlen najsilniejszy w WIG20",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/dzien-na-gpw-tydzien-rozpoczal-sie-od-korekty-glownych-wskaznikow-orlen",
+    "src": "strefainwestorow",
+    "flags": [
+     "prognoza"
+    ]
+   },
    {
     "time": "09:35",
     "kind": "news",
@@ -486,12 +497,12 @@
     "flags": []
    },
    {
-    "time": "10:03",
-    "kind": "pap",
+    "time": "10:43",
+    "kind": "news",
     "ticker": null,
     "title": "Inflacja CPI utrzyma się w przedziale 3,6-4,2 proc. przynajmniej do połowy '27 r. - IPAG (opinia)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441067",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/inflacja-cpi-utrzyma-sie-w-przedziale-36-42-proc-przynajmniej-do-polowy-27-r",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -670,6 +681,42 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:13",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Przeciętne dalsze trwanie życia w Polsce wydłuża się, ale dystans do średniej UE się nie zmniejsza - raport",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441085",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:12",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KUBOTA S.A.: Informacja o łącznej wartości zamówień od znaczącego Kontrahenta przypadających na drugi kwartał 2027 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71799",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:09",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BGK do końca października udzielił gwarancji de minimis na 295,455 mld zł",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441083",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:08",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Udział osób w wieku 65+ w ludności Polski wzrośnie do 29,1 proc. w 2050 r. - raport",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441082",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:05",
     "kind": "pap",

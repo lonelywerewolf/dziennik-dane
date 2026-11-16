@@ -1,7 +1,78 @@
 {
  "date": "2026-11-16",
- "count": 122,
+ "count": 129,
  "items": [
+  {
+   "id": "bossa-pap-441085",
+   "date": "2026-11-16",
+   "time": "11:13",
+   "ts": "2026-11-16T11:13:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Przeciętne dalsze trwanie życia w Polsce wydłuża się, ale dystans do średniej UE się nie zmniejsza - raport",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441085"
+  },
+  {
+   "id": "bossa-espi-71799",
+   "date": "2026-11-16",
+   "time": "11:12",
+   "ts": "2026-11-16T11:12:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KUBOTA S.A.",
+   "title": "Informacja o łącznej wartości zamówień od znaczącego Kontrahenta przypadających na drugi kwartał 2027 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71799"
+  },
+  {
+   "id": "bossa-pap-441083",
+   "date": "2026-11-16",
+   "time": "11:09",
+   "ts": "2026-11-16T11:09:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "BGK do końca października udzielił gwarancji de minimis na 295,455 mld zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441083"
+  },
+  {
+   "id": "bossa-pap-441082",
+   "date": "2026-11-16",
+   "time": "11:08",
+   "ts": "2026-11-16T11:08:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Udział osób w wieku 65+ w ludności Polski wzrośnie do 29,1 proc. w 2050 r. - raport",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441082"
+  },
+  {
+   "id": "bossa-pap-441081",
+   "date": "2026-11-16",
+   "time": "11:08",
+   "ts": "2026-11-16T11:08:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: Tydzień rozpoczął się od korekty głównych wskaźników; Orlen najsilniejszy w WIG20",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441081"
+  },
+  {
+   "id": "strefa-c9709c635704",
+   "date": "2026-11-16",
+   "time": "11:06",
+   "ts": "2026-11-16T11:06:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: Tydzień rozpoczął się od korekty głównych wskaźników; Orlen najsilniejszy w WIG20",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/dzien-na-gpw-tydzien-rozpoczal-sie-od-korekty-glownych-wskaznikow-orlen"
+  },
   {
    "id": "bossa-pap-441080",
    "date": "2026-11-16",
@@ -85,6 +156,17 @@
    "title": "Do 15 XI podpisano umowy na 73,1 proc. funduszy UE na lata 2021-2027 - MFiPR",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-441074"
+  },
+  {
+   "id": "strefa-486af705852f",
+   "date": "2026-11-16",
+   "time": "10:43",
+   "ts": "2026-11-16T10:43:04+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Inflacja CPI utrzyma się w przedziale 3,6-4,2 proc. przynajmniej do połowy '27 r. - IPAG (opinia)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/inflacja-cpi-utrzyma-sie-w-przedziale-36-42-proc-przynajmniej-do-polowy-27-r"
   },
   {
    "id": "bossa-pap-441073",
