@@ -1,24 +1,44 @@
 {
  "date": "2026-11-16",
  "counts": {
-  "podsumowania": 15,
-  "wyniki": 61,
+  "podsumowania": 17,
+  "wyniki": 62,
   "rekomendacje": 4,
-  "korporacyjne": 36,
+  "korporacyjne": 39,
   "makro_pl": 23,
   "swiat_rynki": 16,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 12,
-  "twoje_spolki": 3,
+  "twoje_spolki": 6,
   "obserwowane": 0,
-  "pozostale": 53
+  "pozostale": 56
  },
- "duplicatesRemoved": 109,
- "total": 333,
+ "duplicatesRemoved": 113,
+ "total": 349,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "17:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Notowania ciągłe - podsumowanie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441259",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "17:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "WIG20 na zamknięciu wyniósł 4302,04 pkt (0,08%)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441255",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:06",
     "kind": "news",
@@ -160,6 +180,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "17:40",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MUNAR PHARMA SA (9/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441264",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:29",
     "kind": "pap",
@@ -763,6 +792,35 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "17:37",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ENEA: Treść uchwał podjętych przez Nadzwyczajne Walne Zgromadzenie Enea S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71907",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:34",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PGE POLSKA GRUPA ENERGETYCZNA S.A.: Projekty uchwał na Nadzwyczajne Walne Zgromadzenie spółki PGE Polska Grupa Energetyczna S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71906",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:33",
+    "kind": "espi",
+    "ticker": null,
+    "title": "POLIMEX-MOSTOSTAL: Informacja o transakcjach na akcjach Spółki uzyskana w trybie art. 19 MAR.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71905",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
    {
     "time": "17:15",
     "kind": "espi",
@@ -1623,6 +1681,37 @@
   ],
   "twoje_spolki": [
    {
+    "time": "17:39",
+    "kind": "news",
+    "ticker": "VRC",
+    "title": "Vercom przyspiesza wzrost:Rekordowe 14 tys. nowych klientów w Q3",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/vercom-przyspiesza-wzrostrekordowe-14-tys-nowych-klientow-w-q3",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "17:39",
+    "kind": "pap",
+    "ticker": "CBF",
+    "title": "Wyniki cyber_Folks w III kw. 2026 roku vs. konsensus PAP (tabela)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441263",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "17:34",
+    "kind": "news",
+    "ticker": "CBF",
+    "title": "cyber_Folks przyspiesza. Przychody i skorygowana EBITDA rosną o 30 proc., zysk dla akcjonariuszy o 85 proc.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/cyberfolks-przyspiesza-przychody-i-skorygowana-ebitda-rosna-o-30-proc-zysk-dla",
+    "src": "strefainwestorow",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
+   {
     "time": "14:32",
     "kind": "news",
     "ticker": "NVDA",
@@ -1656,6 +1745,35 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:41",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Backlog grupy Onde na koniec września '26 wynosił 1.317 mln zł",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441266",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:39",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Creotech Quantum S.A.: Udział Spółki w projekcie The Quantum Internet Alliance (QIA-Phase2)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71909",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:38",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PROTEKTOR: Korekta raportu bieżącego nr 73/2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71908",
+    "src": "bossa",
+    "flags": [
+     "prognoza"
+    ]
+   },
    {
     "time": "17:12",
     "kind": "pap",
