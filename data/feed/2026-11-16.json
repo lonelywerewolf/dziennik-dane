@@ -1,7 +1,31 @@
 {
  "date": "2026-11-16",
- "count": 27,
+ "count": 29,
  "items": [
+  {
+   "id": "bossa-espi-71764",
+   "date": "2026-11-16",
+   "time": "07:22",
+   "ts": "2026-11-16T07:22:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "GREEN LANES S.A.",
+   "title": "Rozpoczęcie procesu budowania księgi popytu w ramach oferty nowych akcji na okaziciela serii I",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71764"
+  },
+  {
+   "id": "bossa-espi-71763",
+   "date": "2026-11-16",
+   "time": "07:20",
+   "ts": "2026-11-16T07:20:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "LOKUM DEWELOPER S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71763"
+  },
   {
    "id": "bossa-pap-441010",
    "date": "2026-11-16",
