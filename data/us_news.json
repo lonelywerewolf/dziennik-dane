@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "d43576191cd0",
+   "ticker": "MRVL",
+   "time": "2026-11-16T19:40+01:00",
+   "title": "Why Marvell Stock Is Down Today",
+   "url": "https://www.nasdaq.com/articles/why-marvell-stock-down-today-0",
+   "src": "nasdaq",
+   "summary": "Key PointsChip stocks are sliding in the wake of Jensen Huang's departure as Nvidia CEO, and Marvell stock is down 5.5% in late-morning trading Monday."
+  },
+  {
+   "id": "039e62c1bd6f",
+   "ticker": "NVDA",
+   "time": "2026-11-16T19:35+01:00",
+   "title": "Nasdaq Stock Market Correction: These 6 Words From Warren Buffett Are More Relevant Than Ever",
+   "url": "https://www.nasdaq.com/articles/nasdaq-stock-market-correction-these-6-words-warren-buffett-are-more-relevant-ever",
+   "src": "nasdaq",
+   "summary": "Key PointsAfter closing at a record high just last month, the Nasdaq has fallen into a correction."
+  },
+  {
+   "id": "ac53447e7b1f",
+   "ticker": "NVDA",
+   "time": "2026-11-16T19:28+01:00",
+   "title": "Could Nvidia Be the Next Super Micro?",
+   "url": "https://www.nasdaq.com/articles/could-nvidia-be-next-super-micro",
+   "src": "nasdaq",
+   "summary": "Key PointsJensen Huang has resigned as president and CEO of Nvidia amid reports of an affair involving a Chinese spy and potentially sending billions of dollars' worth of chips to China."
+  },
+  {
    "id": "a1daf8d9eaa5",
    "ticker": "NVDA",
    "time": "2026-11-16T19:00+01:00",
@@ -89,6 +116,15 @@
    "url": "https://www.nasdaq.com/articles/not-nvidia-not-micron-these-2-under-radar-ai-stocks-could-be-worth-holding-through-2030",
    "src": "nasdaq",
    "summary": "Key PointsShares of Micron and Nvidia may remain under pressure owing to negative market perception."
+  },
+  {
+   "id": "1fd0493af8a4",
+   "ticker": "NVDA",
+   "time": "2026-11-16T17:30+01:00",
+   "title": "ARM's 50% Licensing Revenue Surge Signals Strong AI-Driven Demand",
+   "url": "https://www.nasdaq.com/articles/arms-50-licensing-revenue-surge-signals-strong-ai-driven-demand",
+   "src": "nasdaq",
+   "summary": "Arm Holdings' licensing revenues surge 50% to $773M in Q2 FY27, fueled by AI demand and advanced chip designs, while growing royalties bolster its outlook."
   },
   {
    "id": "bb65ae442858",
@@ -13816,5 +13852,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-16T19:56:52+01:00"
+ "updatedAt": "2026-11-16T20:07:52+01:00"
 }
