@@ -2,20 +2,20 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 12,
-  "wyniki": 36,
+  "wyniki": 37,
   "rekomendacje": 3,
   "korporacyjne": 14,
-  "makro_pl": 17,
+  "makro_pl": 19,
   "swiat_rynki": 8,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 5,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 36
+  "pozostale": 38
  },
- "duplicatesRemoved": 63,
- "total": 197,
+ "duplicatesRemoved": 66,
+ "total": 205,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -133,6 +133,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "13:57",
+    "kind": "pap",
+    "ticker": null,
+    "title": "SAKANA SA (9/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441147",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:48",
     "kind": "pap",
@@ -656,6 +665,15 @@
   ],
   "makro_pl": [
    {
+    "time": "14:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MKiŚ: Miliard złotych na magazyny ciepła w ciepłownictwie systemowym. Ruszają nabory wniosków (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441150",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "13:26",
     "kind": "pap",
     "ticker": null,
@@ -671,6 +689,15 @@
     "title": "PZU ETF OBLIGACJI SKARBOWYCH DŁUGOTERMINOWYCH PORTFELOWY FIZ: WANCI-E_30.04.18",
     "url": "https://bossa.pl/analizy/komunikaty#message-71824",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:48",
+    "kind": "news",
+    "ticker": null,
+    "title": "Inflacja bazowa w październiku wyniosła 2,9 proc. rdr i 0,0 proc. mdm - NBP",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/inflacja-bazowa-w-pazdzierniku-wyniosla-29-proc-rdr-i-00-proc-mdm-nbp",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -966,6 +993,26 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "13:59",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PCC ROKITA S.A.: Odwołanie członka Rady Nadzorczej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71841",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "13:55",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MF: 6 lat usługi Umów wizytę w urzędzie skarbowym (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441146",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:01",
     "kind": "pap",

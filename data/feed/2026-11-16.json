@@ -1,7 +1,91 @@
 {
  "date": "2026-11-16",
- "count": 197,
+ "count": 205,
  "items": [
+  {
+   "id": "bossa-espi-71843",
+   "date": "2026-11-16",
+   "time": "14:02",
+   "ts": "2026-11-16T14:02:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PCC ROKITA S.A.",
+   "title": "Powołanie członka Rady Nadzorczej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71843"
+  },
+  {
+   "id": "bossa-pap-441150",
+   "date": "2026-11-16",
+   "time": "14:00",
+   "ts": "2026-11-16T14:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MKiŚ: Miliard złotych na magazyny ciepła w ciepłownictwie systemowym. Ruszają nabory wniosków (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441150"
+  },
+  {
+   "id": "bossa-pap-441148",
+   "date": "2026-11-16",
+   "time": "14:00",
+   "ts": "2026-11-16T14:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Inflacja bazowa w październiku wyniosła 2,9 proc. rdr i 0,0 proc. mdm - NBP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441148"
+  },
+  {
+   "id": "bossa-espi-71842",
+   "date": "2026-11-16",
+   "time": "14:00",
+   "ts": "2026-11-16T14:00:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 3 x LEVERAGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 231 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71842"
+  },
+  {
+   "id": "bossa-espi-71841",
+   "date": "2026-11-16",
+   "time": "13:59",
+   "ts": "2026-11-16T13:59:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PCC ROKITA S.A.",
+   "title": "Odwołanie członka Rady Nadzorczej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71841"
+  },
+  {
+   "id": "bossa-pap-441147",
+   "date": "2026-11-16",
+   "time": "13:57",
+   "ts": "2026-11-16T13:57:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "SAKANA SA (9/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441147"
+  },
+  {
+   "id": "bossa-pap-441146",
+   "date": "2026-11-16",
+   "time": "13:55",
+   "ts": "2026-11-16T13:55:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MF: 6 lat usługi Umów wizytę w urzędzie skarbowym (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441146"
+  },
   {
    "id": "bossa-espi-71839",
    "date": "2026-11-16",
@@ -289,6 +373,17 @@
    "title": "AUXILIA SA (11/2026) Raport kwartalny za III kwartał",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-441122"
+  },
+  {
+   "id": "strefa-369fd01ec0f2",
+   "date": "2026-11-16",
+   "time": "12:48",
+   "ts": "2026-11-16T12:48:19+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Inflacja bazowa w październiku wyniosła 2,9 proc. rdr i 0,0 proc. mdm - NBP",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/inflacja-bazowa-w-pazdzierniku-wyniosla-29-proc-rdr-i-00-proc-mdm-nbp"
   },
   {
    "id": "bossa-pap-441121",
