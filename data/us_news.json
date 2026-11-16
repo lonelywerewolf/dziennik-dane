@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "id": "5d9cdac7b598",
+   "ticker": "AVGO",
+   "time": "2026-11-16T11:35+01:00",
+   "title": "Advanced Micro Devices vs. Broadcom: One Stock Has a $27 Billion Advantage Investors Shouldn't Ignore",
+   "url": "https://www.nasdaq.com/articles/advanced-micro-devices-vs-broadcom-one-stock-has-27-billion-advantage-investors-shouldnt",
+   "src": "nasdaq",
+   "summary": "Key PointsAMD is expanding its presence in AI accelerators and server processors, supported by major partnerships and growing data center demand."
+  },
+  {
+   "id": "88c7673037e4",
+   "ticker": "NVDA",
+   "time": "2026-11-16T11:22+01:00",
+   "title": "Jensen Huang Resigns: 3 Things to Watch From Nvidia on Nov. 17",
+   "url": "https://www.nasdaq.com/articles/jensen-huang-resigns-3-things-watch-nvidia-nov-17",
+   "src": "nasdaq",
+   "summary": "Key PointsNvidia is scheduled to report earnings on Nov. 17 after the market closes."
+  },
+  {
    "id": "d1cb4d35306c",
    "ticker": "NVDA",
    "time": "2026-11-16T10:55+01:00",
@@ -13492,5 +13510,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-16T11:49:58+01:00"
+ "updatedAt": "2026-11-16T12:00:58+01:00"
 }

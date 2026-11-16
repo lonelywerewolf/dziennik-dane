@@ -5,17 +5,17 @@
   "wyniki": 27,
   "rekomendacje": 3,
   "korporacyjne": 9,
-  "makro_pl": 12,
+  "makro_pl": 13,
   "swiat_rynki": 7,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
-  "fundusze_drobne": 2,
+  "fundusze_drobne": 3,
   "twoje_spolki": 1,
   "obserwowane": 0,
   "pozostale": 27
  },
- "duplicatesRemoved": 37,
- "total": 138,
+ "duplicatesRemoved": 39,
+ "total": 142,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -520,6 +520,15 @@
   ],
   "makro_pl": [
    {
+    "time": "11:27",
+    "kind": "news",
+    "ticker": null,
+    "title": "Tabela kursów średnich NBP nr 222/A/NBP/2026",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/tabela-kursow-srednich-nbp-nr-222anbp2026",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "11:04",
     "kind": "pap",
     "ticker": null,
@@ -706,6 +715,15 @@
   ],
   "nieruchomosci": [],
   "fundusze_drobne": [
+   {
+    "time": "11:55",
+    "kind": "pap",
+    "ticker": null,
+    "title": "UNIQA OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441094",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:01",
     "kind": "news",
