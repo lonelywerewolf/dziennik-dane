@@ -2,20 +2,20 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 12,
-  "wyniki": 37,
+  "wyniki": 38,
   "rekomendacje": 3,
-  "korporacyjne": 14,
+  "korporacyjne": 16,
   "makro_pl": 19,
   "swiat_rynki": 8,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
-  "fundusze_drobne": 5,
+  "fundusze_drobne": 6,
   "twoje_spolki": 2,
   "obserwowane": 0,
   "pozostale": 38
  },
  "duplicatesRemoved": 66,
- "total": 205,
+ "total": 209,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -133,6 +133,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "14:05",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KANCELARIA MEDIUS SA (22/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441154",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:57",
     "kind": "pap",
@@ -509,6 +518,26 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "14:11",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PCC ROKITA S.A.: Wykaz akcjonariuszy posiadających co najmniej 5% liczby akcji na NWZ w dniu 16 listopada 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71845",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
+   {
+    "time": "14:08",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PCC ROKITA S.A.: Uchwały Nadzwyczajnego Walnego Zgromadzenia z dnia 16 listopada 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71844",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:41",
     "kind": "pap",
@@ -923,6 +952,15 @@
   ],
   "nieruchomosci": [],
   "fundusze_drobne": [
+   {
+    "time": "14:03",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OFE POCZTYLION wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441153",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:12",
     "kind": "pap",

@@ -1,7 +1,55 @@
 {
  "date": "2026-11-16",
- "count": 205,
+ "count": 209,
  "items": [
+  {
+   "id": "bossa-espi-71845",
+   "date": "2026-11-16",
+   "time": "14:11",
+   "ts": "2026-11-16T14:11:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PCC ROKITA S.A.",
+   "title": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby akcji na NWZ w dniu 16 listopada 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71845"
+  },
+  {
+   "id": "bossa-espi-71844",
+   "date": "2026-11-16",
+   "time": "14:08",
+   "ts": "2026-11-16T14:08:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PCC ROKITA S.A.",
+   "title": "Uchwały Nadzwyczajnego Walnego Zgromadzenia z dnia 16 listopada 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71844"
+  },
+  {
+   "id": "bossa-pap-441154",
+   "date": "2026-11-16",
+   "time": "14:05",
+   "ts": "2026-11-16T14:05:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KANCELARIA MEDIUS SA (22/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441154"
+  },
+  {
+   "id": "bossa-pap-441153",
+   "date": "2026-11-16",
+   "time": "14:03",
+   "ts": "2026-11-16T14:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "OFE POCZTYLION wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441153"
+  },
   {
    "id": "bossa-espi-71843",
    "date": "2026-11-16",
