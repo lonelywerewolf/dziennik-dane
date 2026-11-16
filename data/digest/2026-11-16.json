@@ -2,10 +2,10 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 12,
-  "wyniki": 32,
+  "wyniki": 33,
   "rekomendacje": 3,
-  "korporacyjne": 11,
-  "makro_pl": 15,
+  "korporacyjne": 12,
+  "makro_pl": 16,
   "swiat_rynki": 7,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 34
  },
- "duplicatesRemoved": 52,
- "total": 172,
+ "duplicatesRemoved": 53,
+ "total": 176,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -133,6 +133,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "12:49",
+    "kind": "pap",
+    "ticker": null,
+    "title": "AUXILIA SA (11/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441122",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:38",
     "kind": "pap",
@@ -465,6 +474,17 @@
   ],
   "korporacyjne": [
    {
+    "time": "12:54",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PGE POLSKA GRUPA ENERGETYCZNA S.A.: Informacja o transakcjach w trybie art. 19 Rozporządzenia MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71823",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
     "time": "12:34",
     "kind": "espi",
     "ticker": null,
@@ -586,6 +606,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "12:55",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PZU ETF OBLIGACJI SKARBOWYCH DŁUGOTERMINOWYCH PORTFELOWY FIZ: WANCI-E_30.04.18",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71824",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:33",
     "kind": "news",
@@ -862,12 +891,12 @@
     "flags": []
    },
    {
-    "time": "12:42",
-    "kind": "pap",
+    "time": "12:37",
+    "kind": "news",
     "ticker": null,
     "title": "PKP PLK szacuje plan inwestycyjny w '27 na ok. 17 mld zł",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441120",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/pkp-plk-szacuje-plan-inwestycyjny-w-27-na-ok-17-mld-zl",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
