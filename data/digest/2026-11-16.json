@@ -2,20 +2,20 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 12,
-  "wyniki": 42,
+  "wyniki": 43,
   "rekomendacje": 3,
-  "korporacyjne": 21,
+  "korporacyjne": 23,
   "makro_pl": 21,
-  "swiat_rynki": 9,
+  "swiat_rynki": 11,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
-  "fundusze_drobne": 7,
+  "fundusze_drobne": 8,
   "twoje_spolki": 3,
   "obserwowane": 0,
   "pozostale": 45
  },
- "duplicatesRemoved": 79,
- "total": 243,
+ "duplicatesRemoved": 80,
+ "total": 250,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -133,6 +133,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "15:33",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MILTON ESSEX SA (19/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441186",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:29",
     "kind": "pap",
@@ -555,6 +564,29 @@
   ],
   "korporacyjne": [
    {
+    "time": "15:40",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BETA ETF DYWIDENDA PLUS PORTFELOW FIZ: Informacja o pobieraniu wynagrodzenia za zarządzanie Funduszem",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71868",
+    "src": "bossa",
+    "flags": [
+     "dywidenda",
+     "zarząd"
+    ]
+   },
+   {
+    "time": "15:37",
+    "kind": "espi",
+    "ticker": null,
+    "title": "UNIBEP S.A.: Zawarcie przez Unibep S.A. umowy na realizację budynków szpitala onkologicznego w Poznaniu",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71866",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
     "time": "15:29",
     "kind": "espi",
     "ticker": null,
@@ -970,6 +1002,24 @@
   ],
   "swiat_rynki": [
    {
+    "time": "15:35",
+    "kind": "news",
+    "ticker": null,
+    "title": "Cła antydumpingowe UE na stal z Azji i Turcji. Unia Europejska broni swoich hut",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/cla-antydumpingowe-ue-na-stal-z-azji-i-turcji-unia-europejska-broni-swoich-hut",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "15:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Po otwarciu sesji DJI spada o 0,15 proc., a S&P500 traci 0,8 proc.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/po-otwarciu-sesji-dji-spada-o-015-proc-sp500-traci-08-proc",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "14:45",
     "kind": "pap",
     "ticker": null,
@@ -1064,6 +1114,15 @@
   ],
   "nieruchomosci": [],
   "fundusze_drobne": [
+   {
+    "time": "15:31",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GENERALI OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441184",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:30",
     "kind": "pap",
