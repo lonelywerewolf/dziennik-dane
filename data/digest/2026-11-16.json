@@ -2,20 +2,20 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 12,
-  "wyniki": 38,
+  "wyniki": 39,
   "rekomendacje": 3,
   "korporacyjne": 16,
-  "makro_pl": 19,
+  "makro_pl": 20,
   "swiat_rynki": 8,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 6,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 38
+  "pozostale": 40
  },
- "duplicatesRemoved": 66,
- "total": 209,
+ "duplicatesRemoved": 68,
+ "total": 215,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -133,6 +133,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "14:23",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MERA SA (14/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441160",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:05",
     "kind": "pap",
@@ -694,6 +703,24 @@
   ],
   "makro_pl": [
    {
+    "time": "14:15",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wzrost PKB szybszy w '27 niż w '26 w krajach CEE8 oprócz Polski i Słowenii - Erste (opinia)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441157",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Czynnikami niepewności dla CPI w '27 ceny gazu, elektryczności i przyszłość pakietu \"CPN\" - Citi (opinia)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/czynnikami-niepewnosci-dla-cpi-w-27-ceny-gazu-elektrycznosci-i-przyszlosc",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "14:00",
     "kind": "pap",
     "ticker": null,
@@ -736,15 +763,6 @@
     "title": "GPW: w sprawie wprowadzenia do alternatywnego systemu obrotu na Catalyst obligacji na okaziciela serii E spółki MATEXI POLSKA HOLDING & FINANCE",
     "url": "https://strefainwestorow.pl/wiadomosci/20261116/gpw-w-sprawie-wprowadzenia-do-alternatywnego-systemu-obrotu-na-catalyst",
     "src": "strefainwestorow",
-    "flags": []
-   },
-   {
-    "time": "12:09",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Czynnikami niepewności dla CPI w '27 ceny gazu, elektryczności i przyszłość pakietu \"CPN\" - Citi (opinia)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441100",
-    "src": "bossa",
     "flags": []
    },
    {
@@ -1031,6 +1049,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "14:23",
+    "kind": "espi",
+    "ticker": null,
+    "title": "UniCredit: UniCredit receives unconditional EU approval for Commerzbank control",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71849",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:15",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PEPCO GROUP N.V.: Completion of cancellation of 51,153,590 treasury shares",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71846",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:59",
     "kind": "espi",

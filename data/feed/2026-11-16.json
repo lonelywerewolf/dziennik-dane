@@ -1,7 +1,67 @@
 {
  "date": "2026-11-16",
- "count": 209,
+ "count": 215,
  "items": [
+  {
+   "id": "bossa-pap-441160",
+   "date": "2026-11-16",
+   "time": "14:23",
+   "ts": "2026-11-16T14:23:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MERA SA (14/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441160"
+  },
+  {
+   "id": "bossa-espi-71849",
+   "date": "2026-11-16",
+   "time": "14:23",
+   "ts": "2026-11-16T14:23:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "UniCredit",
+   "title": "UniCredit receives unconditional EU approval for Commerzbank control",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71849"
+  },
+  {
+   "id": "bossa-pap-441159",
+   "date": "2026-11-16",
+   "time": "14:16",
+   "ts": "2026-11-16T14:16:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KLON SA (10/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441159"
+  },
+  {
+   "id": "bossa-pap-441157",
+   "date": "2026-11-16",
+   "time": "14:15",
+   "ts": "2026-11-16T14:15:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wzrost PKB szybszy w '27 niż w '26 w krajach CEE8 oprócz Polski i Słowenii - Erste (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441157"
+  },
+  {
+   "id": "bossa-espi-71846",
+   "date": "2026-11-16",
+   "time": "14:15",
+   "ts": "2026-11-16T14:15:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PEPCO GROUP N.V.",
+   "title": "Completion of cancellation of 51,153,590 treasury shares",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71846"
+  },
   {
    "id": "bossa-espi-71845",
    "date": "2026-11-16",
@@ -61,6 +121,17 @@
    "title": "Powołanie członka Rady Nadzorczej",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-71843"
+  },
+  {
+   "id": "strefa-5fb522d2032a",
+   "date": "2026-11-16",
+   "time": "14:01",
+   "ts": "2026-11-16T14:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Czynnikami niepewności dla CPI w '27 ceny gazu, elektryczności i przyszłość pakietu \"CPN\" - Citi (opinia)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/czynnikami-niepewnosci-dla-cpi-w-27-ceny-gazu-elektrycznosci-i-przyszlosc"
   },
   {
    "id": "bossa-pap-441150",
