@@ -2,20 +2,20 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 17,
-  "wyniki": 62,
+  "wyniki": 65,
   "rekomendacje": 4,
-  "korporacyjne": 40,
-  "makro_pl": 23,
-  "swiat_rynki": 16,
+  "korporacyjne": 41,
+  "makro_pl": 25,
+  "swiat_rynki": 17,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 12,
-  "twoje_spolki": 6,
+  "twoje_spolki": 7,
   "obserwowane": 0,
-  "pozostale": 58
+  "pozostale": 60
  },
- "duplicatesRemoved": 118,
- "total": 357,
+ "duplicatesRemoved": 121,
+ "total": 370,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -180,6 +180,35 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "18:03",
+    "kind": "pap",
+    "ticker": null,
+    "title": "W.G PARTNERS SA (11/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441279",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "18:01",
+    "kind": "pap",
+    "ticker": null,
+    "title": "QUBICGAMES SA (9/2026) Skonsolidowany raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441278",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "18:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MF: Szacunkowe wykonanie budżetu państwa w okresie styczeń-październik 2026 r. (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441276",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "17:40",
     "kind": "pap",
@@ -793,6 +822,17 @@
   ],
   "korporacyjne": [
    {
+    "time": "17:54",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ALIOR BANK S.A.: Powołanie Prezesa Zarządu Alior Bank S.A. na nową kadencję",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71913",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
     "time": "17:39",
     "kind": "news",
     "ticker": null,
@@ -1213,6 +1253,24 @@
   ],
   "makro_pl": [
    {
+    "time": "18:04",
+    "kind": "espi",
+    "ticker": null,
+    "title": "M.W. TRADE: Podjęcie przez spółkę zależną Sigma Defence S.A. decyzji o rozszerzeniu działalności w zakresie opracowania i produkcji systemów transportowych dla sektora defence",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71919",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "18:04",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Sigma Defence S.A.: Podjęcie decyzji o rozszerzeniu działalności w zakresie opracowania i produkcji systemów transportowych dla sektora defence",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71918",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "16:24",
     "kind": "news",
     "ticker": null,
@@ -1421,6 +1479,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "17:55",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MS: Odznaczenia i awanse w SW z okazji Narodowego Święta Niepodległości (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441273",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:10",
     "kind": "news",
@@ -1690,6 +1757,15 @@
   ],
   "twoje_spolki": [
    {
+    "time": "18:02",
+    "kind": "news",
+    "ticker": "CBF",
+    "title": "cyber_Folks w III kw. mało 24,9 mln zł zysku netto j.d., powyżej konsensusu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/cyberfolks-w-iii-kw-malo-249-mln-zl-zysku-netto-jd-powyzej-konsensusu",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "17:48",
     "kind": "news",
     "ticker": "CBF",
@@ -1755,11 +1831,20 @@
   "obserwowane": [],
   "pozostale": [
    {
-    "time": "17:52",
+    "time": "18:01",
     "kind": "pap",
     "ticker": null,
-    "title": "Portfel zleceń Erbudu na koniec września '26 wynosił ok. 3,6 mld zł",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441270",
+    "title": "W produktach emerytalnych kluczowa stabilność, nie ma planów większych zmian – Drop, MF",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441277",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:58",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GLOBAL HYDROGEN S.A.: Podjęcie decyzji o rozpoczęciu procesu likwidacji spółki stowarzyszonej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71915",
     "src": "bossa",
     "flags": []
    },
@@ -1769,6 +1854,15 @@
     "ticker": null,
     "title": "Backlog grupy Onde na koniec września '26 wynosił 1.317 mln zł",
     "url": "https://strefainwestorow.pl/wiadomosci/20261116/backlog-grupy-onde-na-koniec-wrzesnia-26-wynosil-1317-mln-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "17:48",
+    "kind": "news",
+    "ticker": null,
+    "title": "Portfel zleceń Erbudu na koniec września '26 wynosił ok. 3,6 mld zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/portfel-zlecen-erbudu-na-koniec-wrzesnia-26-wynosil-ok-36-mld-zl",
     "src": "strefainwestorow",
     "flags": []
    },
