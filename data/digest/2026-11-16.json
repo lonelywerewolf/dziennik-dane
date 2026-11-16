@@ -4,18 +4,18 @@
   "podsumowania": 12,
   "wyniki": 47,
   "rekomendacje": 3,
-  "korporacyjne": 24,
+  "korporacyjne": 25,
   "makro_pl": 21,
-  "swiat_rynki": 13,
+  "swiat_rynki": 14,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
-  "fundusze_drobne": 8,
+  "fundusze_drobne": 9,
   "twoje_spolki": 3,
   "obserwowane": 0,
   "pozostale": 47
  },
  "duplicatesRemoved": 83,
- "total": 262,
+ "total": 265,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -600,6 +600,17 @@
   ],
   "korporacyjne": [
    {
+    "time": "15:54",
+    "kind": "espi",
+    "ticker": null,
+    "title": "DEKPOL S.A.: Zawarcie aneksu do umowy o współpracy w zakresie udzielania gwarancji ubezpieczeniowych z Sopockim Towarzystwem Ubezpieczeń ERGO Hestia S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71870",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
     "time": "15:45",
     "kind": "news",
     "ticker": null,
@@ -1049,6 +1060,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "15:46",
+    "kind": "news",
+    "ticker": null,
+    "title": "Euro w EBC: 1,1014 USD i 175,78 JPY",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/euro-w-ebc-11014-usd-i-17578-jpy",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "15:36",
     "kind": "pap",
     "ticker": null,
@@ -1179,6 +1199,15 @@
   ],
   "nieruchomosci": [],
   "fundusze_drobne": [
+   {
+    "time": "15:55",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ALLIANZ POLSKA OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441199",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:31",
     "kind": "pap",
