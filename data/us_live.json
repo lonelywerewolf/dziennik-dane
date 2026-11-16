@@ -43,9 +43,9 @@
    "via": "tiingo"
   },
   "^NDQ": {
-   "price": 96.675,
-   "chgPct": -2.46,
-   "at": "2026-11-16T16:00:01.316624529-05:00",
+   "price": 96.65,
+   "chgPct": -2.48,
+   "at": "2026-11-16T21:00:00+00:00",
    "src": "https://www.tiingo.com/oneq/overview",
    "via": "tiingo (ONEQ)"
   },
@@ -71,5 +71,5 @@
    "via": "tiingo"
   }
  },
- "updatedAt": "2026-11-16T23:25:52+01:00"
+ "updatedAt": "2026-11-16T23:36:53+01:00"
 }
