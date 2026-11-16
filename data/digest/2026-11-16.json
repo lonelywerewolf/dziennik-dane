@@ -2,7 +2,7 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 18,
-  "wyniki": 81,
+  "wyniki": 82,
   "rekomendacje": 4,
   "korporacyjne": 52,
   "makro_pl": 27,
@@ -15,7 +15,7 @@
   "pozostale": 71
  },
  "duplicatesRemoved": 141,
- "total": 437,
+ "total": 438,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -189,6 +189,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "20:46",
+    "kind": "pap",
+    "ticker": null,
+    "title": "CONSTANCE CARE SA (23/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441342",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "20:24",
     "kind": "pap",
