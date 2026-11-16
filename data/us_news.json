@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "d5cb7bdcf0fa",
+   "ticker": "ASML",
+   "time": "2026-11-16T17:47+01:00",
+   "title": "Weakness in Chipmakers and AI Stocks Weighs on Stock Indexes",
+   "url": "https://www.nasdaq.com/articles/weakness-chipmakers-and-ai-stocks-weighs-stock-indexes",
+   "src": "nasdaq",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is down -0.75% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.22%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.36%.  December E-mini S&P futures (ESZ26 ) are down -0.80%, and December E-mini Nasdaq futures..."
+  },
+  {
    "id": "36b9994bb16c",
    "ticker": "NVDA",
    "time": "2026-11-16T17:30+01:00",
@@ -13690,5 +13699,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-16T17:42:56+01:00"
+ "updatedAt": "2026-11-16T17:53:56+01:00"
 }

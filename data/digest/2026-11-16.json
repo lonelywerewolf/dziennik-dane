@@ -4,7 +4,7 @@
   "podsumowania": 17,
   "wyniki": 62,
   "rekomendacje": 4,
-  "korporacyjne": 39,
+  "korporacyjne": 40,
   "makro_pl": 23,
   "swiat_rynki": 16,
   "energetyka_surowce": 1,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 12,
   "twoje_spolki": 6,
   "obserwowane": 0,
-  "pozostale": 56
+  "pozostale": 58
  },
- "duplicatesRemoved": 113,
- "total": 349,
+ "duplicatesRemoved": 118,
+ "total": 357,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -792,6 +792,15 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "17:39",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: w sprawie zawieszenia obrotu giełdowego na Catalyst obligacjami na okaziciela serii A21 wyemitowanymi przez MIASTO KIELCE",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/gpw-w-sprawie-zawieszenia-obrotu-gieldowego-na-catalyst-obligacjami-na",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:37",
     "kind": "espi",
@@ -1681,6 +1690,17 @@
   ],
   "twoje_spolki": [
    {
+    "time": "17:48",
+    "kind": "news",
+    "ticker": "CBF",
+    "title": "Wyniki cyber_Folks w III kw. 2026 roku vs. konsensus PAP (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/wyniki-cyberfolks-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
     "time": "17:39",
     "kind": "news",
     "ticker": "VRC",
@@ -1688,17 +1708,6 @@
     "url": "https://strefainwestorow.pl/wiadomosci/20261116/vercom-przyspiesza-wzrostrekordowe-14-tys-nowych-klientow-w-q3",
     "src": "strefainwestorow",
     "flags": []
-   },
-   {
-    "time": "17:39",
-    "kind": "pap",
-    "ticker": "CBF",
-    "title": "Wyniki cyber_Folks w III kw. 2026 roku vs. konsensus PAP (tabela)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441263",
-    "src": "bossa",
-    "flags": [
-     "wyniki"
-    ]
    },
    {
     "time": "17:34",
@@ -1746,13 +1755,33 @@
   "obserwowane": [],
   "pozostale": [
    {
-    "time": "17:41",
+    "time": "17:52",
     "kind": "pap",
     "ticker": null,
-    "title": "Backlog grupy Onde na koniec września '26 wynosił 1.317 mln zł",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441266",
+    "title": "Portfel zleceń Erbudu na koniec września '26 wynosił ok. 3,6 mld zł",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441270",
     "src": "bossa",
     "flags": []
+   },
+   {
+    "time": "17:48",
+    "kind": "news",
+    "ticker": null,
+    "title": "Backlog grupy Onde na koniec września '26 wynosił 1.317 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/backlog-grupy-onde-na-koniec-wrzesnia-26-wynosil-1317-mln-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "17:44",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ECC GAMES SA (9/2026) Korekta raportu okresowego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441268",
+    "src": "bossa",
+    "flags": [
+     "prognoza"
+    ]
    },
    {
     "time": "17:39",
