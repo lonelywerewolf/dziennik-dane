@@ -1,7 +1,66 @@
 {
  "date": "2026-11-16",
- "count": 129,
+ "count": 135,
  "items": [
+  {
+   "id": "bossa-pap-441089",
+   "date": "2026-11-16",
+   "time": "11:26",
+   "ts": "2026-11-16T11:26:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MADMIND STUDIO SA (21/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441089"
+  },
+  {
+   "id": "bossa-pap-441087",
+   "date": "2026-11-16",
+   "time": "11:26",
+   "ts": "2026-11-16T11:26:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Cognor liczy na zysk netto w IV kw. i szybszą poprawę wyników dzięki emisji akcji",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441087"
+  },
+  {
+   "id": "bossa-espi-71801",
+   "date": "2026-11-16",
+   "time": "11:26",
+   "ts": "2026-11-16T11:26:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MOSTALZAB",
+   "title": "Rozszerzenie zamówienia w ramach umowy spółki zależnej z Primetals Technologies Germany GmbH",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71801"
+  },
+  {
+   "id": "bossa-pap-441086",
+   "date": "2026-11-16",
+   "time": "11:23",
+   "ts": "2026-11-16T11:23:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "OLYMP SA (12/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441086"
+  },
+  {
+   "id": "strefa-2868c6a0bcbd",
+   "date": "2026-11-16",
+   "time": "11:17",
+   "ts": "2026-11-16T11:17:25+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Cognor liczy na zysk netto w IV kw. i szybszą poprawę wyników dzięki emisji akcji",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/cognor-liczy-na-zysk-netto-w-iv-kw-i-szybsza-poprawe-wynikow-dzieki-emisji"
+  },
   {
    "id": "bossa-pap-441085",
    "date": "2026-11-16",
@@ -25,6 +84,17 @@
    "title": "Informacja o łącznej wartości zamówień od znaczącego Kontrahenta przypadających na drugi kwartał 2027 r.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-71799"
+  },
+  {
+   "id": "strefa-a41865b14d67",
+   "date": "2026-11-16",
+   "time": "11:09",
+   "ts": "2026-11-16T11:09:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Webinarium z cyklu Ramy sprawozdawczości ESG po Omnibusie: „Voluntary Standard”",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/webinarium-z-cyklu-ramy-sprawozdawczosci-esg-po-omnibusie-voluntary-standard"
   },
   {
    "id": "bossa-pap-441083",

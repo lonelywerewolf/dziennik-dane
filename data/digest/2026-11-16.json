@@ -2,9 +2,9 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 12,
-  "wyniki": 24,
+  "wyniki": 26,
   "rekomendacje": 2,
-  "korporacyjne": 8,
+  "korporacyjne": 9,
   "makro_pl": 12,
   "swiat_rynki": 6,
   "energetyka_surowce": 1,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 2,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 26
+  "pozostale": 27
  },
- "duplicatesRemoved": 35,
- "total": 129,
+ "duplicatesRemoved": 37,
+ "total": 135,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -133,6 +133,27 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "11:26",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MADMIND STUDIO SA (21/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441089",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:17",
+    "kind": "news",
+    "ticker": null,
+    "title": "Cognor liczy na zysk netto w IV kw. i szybszą poprawę wyników dzięki emisji akcji",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/cognor-liczy-na-zysk-netto-w-iv-kw-i-szybsza-poprawe-wynikow-dzieki-emisji",
+    "src": "strefainwestorow",
+    "flags": [
+     "emisja",
+     "wyniki"
+    ]
+   },
    {
     "time": "11:04",
     "kind": "pap",
@@ -378,6 +399,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "11:26",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MOSTALZAB: Rozszerzenie zamówienia w ramach umowy spółki zależnej z Primetals Technologies Germany GmbH",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71801",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "10:44",
     "kind": "pap",
@@ -697,6 +729,15 @@
     "title": "KUBOTA S.A.: Informacja o łącznej wartości zamówień od znaczącego Kontrahenta przypadających na drugi kwartał 2027 r.",
     "url": "https://bossa.pl/analizy/komunikaty#message-71799",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:09",
+    "kind": "news",
+    "ticker": null,
+    "title": "Webinarium z cyklu Ramy sprawozdawczości ESG po Omnibusie: „Voluntary Standard”",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/webinarium-z-cyklu-ramy-sprawozdawczosci-esg-po-omnibusie-voluntary-standard",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
