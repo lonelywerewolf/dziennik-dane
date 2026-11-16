@@ -3,8 +3,8 @@
  "counts": {
   "podsumowania": 12,
   "wyniki": 47,
-  "rekomendacje": 3,
-  "korporacyjne": 25,
+  "rekomendacje": 4,
+  "korporacyjne": 29,
   "makro_pl": 21,
   "swiat_rynki": 14,
   "energetyka_surowce": 1,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 9,
   "twoje_spolki": 3,
   "obserwowane": 0,
-  "pozostale": 47
+  "pozostale": 49
  },
- "duplicatesRemoved": 83,
- "total": 265,
+ "duplicatesRemoved": 84,
+ "total": 273,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -571,6 +571,15 @@
   ],
   "rekomendacje": [
    {
+    "time": "16:01",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Mesko i Jelcz z grupy PGZ otrzymają dofinansowanie i zwiększą moce produkcyjne",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441203",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "11:45",
     "kind": "pap",
     "ticker": null,
@@ -599,6 +608,44 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "16:10",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Arlen S.A.: Powiadomienie o transakcjach nabycia otrzymane w trybie art. 19 MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71874",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
+    "time": "16:08",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BNP PARIBAS BANK POLSKA SA: Zwołanie Nadzwyczajnego Walnego Zgromadzenia BNP Paribas Bank Polska S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71873",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:08",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SYNTHAVERSE SA: Treść uchwał podjętych przez Nadzwyczajne Walne Zgromadzenie Emitenta w dniu 16 listopada 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71872",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MSWiA: Czasowe i terytorialne zawieszenie prawa do azylu przy granicy polsko-białoruskiej przedłużone o następne 60 dni (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441204",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:54",
     "kind": "espi",
@@ -1316,6 +1363,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "16:03",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MC: Centralny Ośrodek Informatyki przywrócił działanie najważniejszych e-usług dla obywateli (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441200",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:01",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ATOMIC JELLY SA (40/2026) Zmiana harmonogramu publikacji raportów okresowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441202",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:47",
     "kind": "pap",
