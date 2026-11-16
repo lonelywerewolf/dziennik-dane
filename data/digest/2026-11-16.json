@@ -2,9 +2,9 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 17,
-  "wyniki": 65,
+  "wyniki": 68,
   "rekomendacje": 4,
-  "korporacyjne": 41,
+  "korporacyjne": 43,
   "makro_pl": 25,
   "swiat_rynki": 17,
   "energetyka_surowce": 1,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 12,
   "twoje_spolki": 7,
   "obserwowane": 0,
-  "pozostale": 60
+  "pozostale": 62
  },
- "duplicatesRemoved": 121,
- "total": 370,
+ "duplicatesRemoved": 122,
+ "total": 378,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -180,6 +180,33 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "18:12",
+    "kind": "pap",
+    "ticker": null,
+    "title": "APN PROMISE SA (12/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441286",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "18:08",
+    "kind": "pap",
+    "ticker": null,
+    "title": "INVENTIONMED SA (14/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441284",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "18:07",
+    "kind": "pap",
+    "ticker": null,
+    "title": "EMPLOCITY SA (31/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441282",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:03",
     "kind": "pap",
@@ -821,6 +848,26 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "18:14",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Transakcje pakietowe",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441288",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "18:07",
+    "kind": "espi",
+    "ticker": null,
+    "title": "DEVELIA: Rozważana emisja obligacji",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71920",
+    "src": "bossa",
+    "flags": [
+     "emisja"
+    ]
+   },
    {
     "time": "17:54",
     "kind": "espi",
@@ -1830,6 +1877,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "18:14",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Zamknięcia na giełdach w Europie (tabela)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441289",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "18:14",
+    "kind": "espi",
+    "ticker": null,
+    "title": "DEVELIA: Podwyższenie maksymalnej wartości programu",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71925",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:01",
     "kind": "pap",
