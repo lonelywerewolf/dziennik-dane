@@ -2,20 +2,20 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 12,
-  "wyniki": 43,
+  "wyniki": 47,
   "rekomendacje": 3,
-  "korporacyjne": 23,
+  "korporacyjne": 24,
   "makro_pl": 21,
-  "swiat_rynki": 11,
+  "swiat_rynki": 13,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 8,
   "twoje_spolki": 3,
   "obserwowane": 0,
-  "pozostale": 45
+  "pozostale": 47
  },
- "duplicatesRemoved": 80,
- "total": 250,
+ "duplicatesRemoved": 83,
+ "total": 262,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -133,6 +133,42 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "15:41",
+    "kind": "news",
+    "ticker": null,
+    "title": "W III kwartale 2026 roku di volio S.A. zwiększyła przychody o ponad 127% rok do roku",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/w-iii-kwartale-2026-roku-di-volio-sa-zwiekszyla-przychody-o-ponad-127-rok-do",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "15:39",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BELEAF SA (27/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441188",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:37",
+    "kind": "pap",
+    "ticker": null,
+    "title": "EKIPA HOLDING SA (10/2026) Skonsolidowany raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441191",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:37",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BIOMASS ENERGY PROJECT SA (7/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441190",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:33",
     "kind": "pap",
@@ -563,6 +599,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "15:45",
+    "kind": "news",
+    "ticker": null,
+    "title": "Unibep ma umowę na realizację budynków szpitala w Poznaniu o wartości 83,8 mln zł netto",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/unibep-ma-umowe-na-realizacje-budynkow-szpitala-w-poznaniu-o-wartosci-838-mln",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "15:40",
     "kind": "espi",
@@ -1002,11 +1049,29 @@
   ],
   "swiat_rynki": [
    {
+    "time": "15:36",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KE nałożyła cła antydumpingowe na stal z Indii, Japonii, Tajwanu, Turcji i Wietnamu",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441193",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "15:35",
     "kind": "news",
     "ticker": null,
     "title": "Cła antydumpingowe UE na stal z Azji i Turcji. Unia Europejska broni swoich hut",
     "url": "https://strefainwestorow.pl/wiadomosci/20261116/cla-antydumpingowe-ue-na-stal-z-azji-i-turcji-unia-europejska-broni-swoich-hut",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "15:35",
+    "kind": "news",
+    "ticker": null,
+    "title": "Cła antydumpingowe UE na stal z Azji i Turcji. Przełomowa decyzja Unii w sprawie hut",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/cla-antydumpingowe-ue-na-stal-z-azji-i-turcji-przelomowa-decyzja-unii-w-sprawie",
     "src": "strefainwestorow",
     "flags": []
    },
@@ -1222,6 +1287,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "15:47",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MNiSW: Rozpoczynamy Tydzień Walki z Dezinformacją Naukową (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441197",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:36",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeks Empire Manufacturing w XI: +7,8 pkt. Konsensus: +12 pkt. Poprzednio: +25,5 pkt.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441192",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:18",
     "kind": "pap",
