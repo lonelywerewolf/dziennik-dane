@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T19:34:52+01:00",
+ "updatedAt": "2026-11-16T19:45:52+01:00",
  "q": {
   "ASB": {
    "date": "2026-11-16",
@@ -136,11 +136,10 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/asml",
    "chg": -0.13,
    "live": {
-    "price": 1414.42,
-    "chgPct": -5.4,
-    "at": "2026-11-16T13:35:08.415270945-05:00",
-    "src": "https://www.tiingo.com/asml/overview",
-    "via": "tiingo"
+    "price": 1418.005,
+    "chgPct": -5.16,
+    "at": "Nov 16, 2026 1:46 PM ET",
+    "src": "https://www.nasdaq.com/market-activity/stocks/asml"
    }
   },
   "AVGO": {
@@ -150,11 +149,10 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/avgo",
    "chg": -4.76,
    "live": {
-    "price": 330.705,
-    "chgPct": -4.7,
-    "at": "2026-11-16T13:35:08.850949778-05:00",
-    "src": "https://www.tiingo.com/avgo/overview",
-    "via": "tiingo"
+    "price": 331.56,
+    "chgPct": -4.45,
+    "at": "Nov 16, 2026 1:46 PM ET",
+    "src": "https://www.nasdaq.com/market-activity/stocks/avgo"
    }
   },
   "MPWR": {
@@ -164,11 +162,10 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/mpwr",
    "chg": -3.93,
    "live": {
-    "price": 1307.03,
-    "chgPct": -6.01,
-    "at": "2026-11-16T13:35:08.755782258-05:00",
-    "src": "https://www.tiingo.com/mpwr/overview",
-    "via": "tiingo"
+    "price": 1313.32,
+    "chgPct": -5.55,
+    "at": "Nov 16, 2026 1:46 PM ET",
+    "src": "https://www.nasdaq.com/market-activity/stocks/mpwr"
    }
   },
   "MRVL": {
@@ -178,11 +175,10 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/mrvl",
    "chg": -4.68,
    "live": {
-    "price": 146.04,
-    "chgPct": -6.84,
-    "at": "2026-11-16T13:35:06.042862258-05:00",
-    "src": "https://www.tiingo.com/mrvl/overview",
-    "via": "tiingo"
+    "price": 146.34,
+    "chgPct": -6.65,
+    "at": "Nov 16, 2026 1:46 PM ET",
+    "src": "https://www.nasdaq.com/market-activity/stocks/mrvl"
    }
   },
   "NVDA": {
@@ -192,11 +188,10 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/nvda",
    "chg": -2.01,
    "live": {
-    "price": 155.11,
-    "chgPct": -4.75,
-    "at": "2026-11-16T13:35:09.367378963-05:00",
-    "src": "https://www.tiingo.com/nvda/overview",
-    "via": "tiingo"
+    "price": 155.72,
+    "chgPct": -4.38,
+    "at": "Nov 16, 2026 1:46 PM ET",
+    "src": "https://www.nasdaq.com/market-activity/stocks/nvda"
    }
   },
   "TSM": {
@@ -206,11 +201,10 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/tsm",
    "chg": -1.67,
    "live": {
-    "price": 375.13,
-    "chgPct": -5.92,
-    "at": "2026-11-16T13:35:08.850314880-05:00",
-    "src": "https://www.tiingo.com/tsm/overview",
-    "via": "tiingo"
+    "price": 375.4007,
+    "chgPct": -5.85,
+    "at": "Nov 16, 2026 1:46 PM ET",
+    "src": "https://www.nasdaq.com/market-activity/stocks/tsm"
    }
   },
   "VRT": {
@@ -220,11 +214,10 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/vrt",
    "chg": -3.61,
    "live": {
-    "price": 187.52,
-    "chgPct": -7.2,
-    "at": "2026-11-16T13:35:08.401658978-05:00",
-    "src": "https://www.tiingo.com/vrt/overview",
-    "via": "tiingo"
+    "price": 187.9099,
+    "chgPct": -7.01,
+    "at": "Nov 16, 2026 1:46 PM ET",
+    "src": "https://www.nasdaq.com/market-activity/stocks/vrt"
    }
   },
   "^NDQ": {
