@@ -1,7 +1,79 @@
 {
  "date": "2026-11-16",
- "count": 142,
+ "count": 148,
  "items": [
+  {
+   "id": "bossa-pap-441101",
+   "date": "2026-11-16",
+   "time": "12:11",
+   "ts": "2026-11-16T12:11:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Polska coraz wyraźniej odczuwa skutki depopulacji i starzenia się ludności - raport",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441101"
+  },
+  {
+   "id": "bossa-pap-441100",
+   "date": "2026-11-16",
+   "time": "12:09",
+   "ts": "2026-11-16T12:09:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Czynnikami niepewności dla CPI w '27 ceny gazu, elektryczności i przyszłość pakietu \"CPN\" - Citi (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441100"
+  },
+  {
+   "id": "bossa-espi-71807",
+   "date": "2026-11-16",
+   "time": "12:07",
+   "ts": "2026-11-16T12:07:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF MWIG40TRlv PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 210 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71807"
+  },
+  {
+   "id": "bossa-pap-441098",
+   "date": "2026-11-16",
+   "time": "12:04",
+   "ts": "2026-11-16T12:04:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Bechtel zainteresowany dużymi projektami infrastrukturalnymi i transportowymi w Polsce (wywiad)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441098"
+  },
+  {
+   "id": "bossa-espi-71806",
+   "date": "2026-11-16",
+   "time": "12:02",
+   "ts": "2026-11-16T12:02:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF mWIG40TR PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 231 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71806"
+  },
+  {
+   "id": "bossa-pap-441096",
+   "date": "2026-11-16",
+   "time": "12:01",
+   "ts": "2026-11-16T12:01:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "LEXBONO SA (26/2026) Rejestracja przez sąd zmiany statutu emitenta lub odmowie takiej rejestracji, z podaniem przyczyn odmowy",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441096"
+  },
   {
    "id": "bossa-pap-441095",
    "date": "2026-11-16",

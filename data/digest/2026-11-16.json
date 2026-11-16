@@ -5,17 +5,17 @@
   "wyniki": 27,
   "rekomendacje": 3,
   "korporacyjne": 9,
-  "makro_pl": 13,
+  "makro_pl": 14,
   "swiat_rynki": 7,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
-  "fundusze_drobne": 3,
+  "fundusze_drobne": 4,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 27
+  "pozostale": 29
  },
- "duplicatesRemoved": 39,
- "total": 142,
+ "duplicatesRemoved": 41,
+ "total": 148,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -520,6 +520,15 @@
   ],
   "makro_pl": [
    {
+    "time": "12:09",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Czynnikami niepewności dla CPI w '27 ceny gazu, elektryczności i przyszłość pakietu \"CPN\" - Citi (opinia)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441100",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "11:27",
     "kind": "news",
     "ticker": null,
@@ -716,6 +725,15 @@
   "nieruchomosci": [],
   "fundusze_drobne": [
    {
+    "time": "12:02",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BETA ETF mWIG40TR PORTFELOWY FIZ: Raport bieżący nr 231 / 2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71806",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "11:55",
     "kind": "pap",
     "ticker": null,
@@ -758,6 +776,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:11",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Polska coraz wyraźniej odczuwa skutki depopulacji i starzenia się ludności - raport",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441101",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:04",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Bechtel zainteresowany dużymi projektami infrastrukturalnymi i transportowymi w Polsce (wywiad)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441098",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:13",
     "kind": "pap",
