@@ -2,7 +2,7 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 12,
-  "wyniki": 27,
+  "wyniki": 28,
   "rekomendacje": 3,
   "korporacyjne": 9,
   "makro_pl": 14,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 4,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 29
+  "pozostale": 31
  },
- "duplicatesRemoved": 41,
- "total": 148,
+ "duplicatesRemoved": 44,
+ "total": 154,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -133,6 +133,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "12:15",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BLACK PEARL SA (15/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441104",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:41",
     "kind": "pap",
@@ -776,6 +785,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:22",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GPW spodziewa się, że IV kw. będzie trudny kosztowo; CAPEX zbliżony do III kw. (opis)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441107",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:14",
+    "kind": "pap",
+    "ticker": null,
+    "title": "LEXBONO SA (27/2026) Zmiana adresu emitenta lub adresu jego strony internetowej lub ostatniego wskazanego Organizatorowi Alternatywnego Systemu adresu e-mail emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441103",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:11",
     "kind": "pap",

@@ -1,7 +1,79 @@
 {
  "date": "2026-11-16",
- "count": 148,
+ "count": 154,
  "items": [
+  {
+   "id": "bossa-pap-441107",
+   "date": "2026-11-16",
+   "time": "12:22",
+   "ts": "2026-11-16T12:22:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW spodziewa się, że IV kw. będzie trudny kosztowo; CAPEX zbliżony do III kw. (opis)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441107"
+  },
+  {
+   "id": "bossa-espi-71812",
+   "date": "2026-11-16",
+   "time": "12:20",
+   "ts": "2026-11-16T12:20:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF sWIG80TR PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 230 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71812"
+  },
+  {
+   "id": "bossa-espi-71811",
+   "date": "2026-11-16",
+   "time": "12:16",
+   "ts": "2026-11-16T12:16:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF OBLIGACJI 6M PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 239 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71811"
+  },
+  {
+   "id": "bossa-pap-441104",
+   "date": "2026-11-16",
+   "time": "12:15",
+   "ts": "2026-11-16T12:15:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "BLACK PEARL SA (15/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441104"
+  },
+  {
+   "id": "bossa-pap-441103",
+   "date": "2026-11-16",
+   "time": "12:14",
+   "ts": "2026-11-16T12:14:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "LEXBONO SA (27/2026) Zmiana adresu emitenta lub adresu jego strony internetowej lub ostatniego wskazanego Organizatorowi Alternatywnego Systemu adresu e-mail emitenta",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441103"
+  },
+  {
+   "id": "bossa-espi-71808",
+   "date": "2026-11-16",
+   "time": "12:12",
+   "ts": "2026-11-16T12:12:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF MWIG40TRsh PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 218 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-71808"
+  },
   {
    "id": "bossa-pap-441101",
    "date": "2026-11-16",
