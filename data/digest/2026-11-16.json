@@ -2,7 +2,7 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 6,
-  "wyniki": 3,
+  "wyniki": 4,
   "rekomendacje": 0,
   "korporacyjne": 0,
   "makro_pl": 2,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 1,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 5
+  "pozostale": 6
  },
- "duplicatesRemoved": 5,
- "total": 24,
+ "duplicatesRemoved": 6,
+ "total": 27,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -77,6 +77,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wyniki GPW w III kwartale 2026 roku vs. konsensus PAP (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/wyniki-gpw-w-iii-kwartale-2026-roku-vs-konsensus-pap-tabela",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "06:48",
     "kind": "pap",
@@ -166,6 +177,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "07:04",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GPW: QSr",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71762",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "07:01",
     "kind": "news",
