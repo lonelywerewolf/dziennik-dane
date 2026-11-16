@@ -4,7 +4,7 @@
   "podsumowania": 11,
   "wyniki": 23,
   "rekomendacje": 2,
-  "korporacyjne": 7,
+  "korporacyjne": 8,
   "makro_pl": 9,
   "swiat_rynki": 5,
   "energetyka_surowce": 1,
@@ -15,7 +15,7 @@
   "pozostale": 21
  },
  "duplicatesRemoved": 33,
- "total": 115,
+ "total": 116,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -358,6 +358,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "10:44",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Do 15 XI podpisano umowy na 73,1 proc. funduszy UE na lata 2021-2027 - MFiPR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441074",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "10:41",
     "kind": "news",
