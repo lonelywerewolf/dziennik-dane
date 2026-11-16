@@ -2,9 +2,9 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 18,
-  "wyniki": 75,
+  "wyniki": 78,
   "rekomendacje": 4,
-  "korporacyjne": 46,
+  "korporacyjne": 49,
   "makro_pl": 26,
   "swiat_rynki": 20,
   "energetyka_surowce": 1,
@@ -15,7 +15,7 @@
   "pozostale": 69
  },
  "duplicatesRemoved": 135,
- "total": 415,
+ "total": 421,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -189,6 +189,33 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "19:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "VARSAV GAME STUDIOS SA (14/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441325",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "19:31",
+    "kind": "pap",
+    "ticker": null,
+    "title": "AGENCJA ROZWOJU INNOWACJI SA (11/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441324",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "19:28",
+    "kind": "pap",
+    "ticker": null,
+    "title": "LICHTHUND SA (10/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441322",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:49",
     "kind": "pap",
@@ -920,6 +947,39 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "19:29",
+    "kind": "pap",
+    "ticker": null,
+    "title": "SZAR SA (17/2026) Odwołanie lub rezygnacja osoby zarządzającej lub nadzorującej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441323",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "19:26",
+    "kind": "pap",
+    "ticker": null,
+    "title": "SZAR SA (16/2026) Powołanie osoby zarządzającej lub nadzorującej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441321",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "19:25",
+    "kind": "espi",
+    "ticker": null,
+    "title": "FORBUILD POLSKA S.A.: Informacja o transakcjach na akcjach Forbuild S.A. otrzymana w trybie art. 19 Rozporządzenia MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71944",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
    {
     "time": "18:59",
     "kind": "news",
