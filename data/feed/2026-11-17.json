@@ -1,5 +1,30 @@
 {
  "date": "2026-11-17",
- "count": 0,
- "items": []
+ "count": 2,
+ "items": [
+  {
+   "id": "bossa-pap-441385",
+   "date": "2026-11-17",
+   "time": "00:17",
+   "ts": "2026-11-17T00:17:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MBF GROUP SA (13/2026) Raport kwartalny za III kwartał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441385"
+  },
+  {
+   "id": "bossa-espi-98614",
+   "date": "2026-11-17",
+   "time": "00:06",
+   "ts": "2026-11-17T00:06:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BEST",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-98614"
+  }
+ ]
 }

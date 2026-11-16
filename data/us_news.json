@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "4cc340cecc05",
+   "ticker": "ASML",
+   "time": "2026-11-17T00:25+01:00",
+   "title": "Stock Indexes Settle Sharply Lower on Big Tech Drubbing",
+   "url": "https://www.nasdaq.com/articles/stock-indexes-settle-sharply-lower-big-tech-drubbing",
+   "src": "nasdaq",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -1.92% on Monday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.41%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.67%.  December E-mini S&P futures (ESZ26 ) fell -1.91%, and December E-mini Nasdaq futures..."
+  },
+  {
+   "id": "28c51e39774a",
+   "ticker": "ASML",
+   "time": "2026-11-17T00:01+01:00",
+   "title": "4 Chip Stocks Down as Much as 36% From Their Highs to Buy and Hold for the Next Decade",
+   "url": "https://www.nasdaq.com/articles/4-chip-stocks-down-much-36-their-highs-buy-and-hold-next-decade",
+   "src": "nasdaq",
+   "summary": "Key PointsAMD's data center revenue climbed 97% year over year in the third quarter."
+  },
+  {
+   "id": "7f5689b92594",
+   "ticker": "NVDA",
+   "time": "2026-11-16T23:50+01:00",
+   "title": "Now That Jensen Huang is Out, Should Investors Buy AMD Stock Instead of Nvidia Stock?",
+   "url": "https://www.nasdaq.com/articles/now-jensen-huang-out-should-investors-buy-amd-stock-instead-nvidia-stock",
+   "src": "nasdaq",
+   "summary": "Should you buy stock in Nvidia right now?\nBefore you buy stock in Nvidia, consider this:Missed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Con"
+  },
+  {
    "id": "0c12fe617bf6",
    "ticker": "NVDA",
    "time": "2026-11-16T23:37+01:00",
@@ -62,6 +89,15 @@
    "url": "https://www.nasdaq.com/articles/why-arm-holdings-plunged-today",
    "src": "nasdaq",
    "summary": "Key PointsThe entire semiconductor sector sold off today ahead of Nvidia earnings."
+  },
+  {
+   "id": "2021fb7b1475",
+   "ticker": "TSM",
+   "time": "2026-11-16T21:59+01:00",
+   "title": "Top Analyst Reports for Taiwan Semiconductor, Johnson & Johnson and Palantir",
+   "url": "https://www.nasdaq.com/articles/top-analyst-reports-taiwan-semiconductor-johnson-johnson-and-palantir",
+   "src": "nasdaq",
+   "summary": "Taiwan Semiconductor, Johnson & Johnson and Palantir headline today's analyst reports, with AI growth, drug pipelines and competitive pressures shaping their outlooks."
   },
   {
    "id": "854866f5feca",
@@ -13978,5 +14014,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-17T00:00:56+01:00"
+ "updatedAt": "2026-11-17T00:50:56+01:00"
 }
