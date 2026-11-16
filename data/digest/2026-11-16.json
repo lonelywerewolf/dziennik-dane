@@ -2,20 +2,20 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 12,
-  "wyniki": 47,
+  "wyniki": 48,
   "rekomendacje": 4,
-  "korporacyjne": 32,
-  "makro_pl": 22,
+  "korporacyjne": 33,
+  "makro_pl": 23,
   "swiat_rynki": 14,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
-  "fundusze_drobne": 9,
+  "fundusze_drobne": 12,
   "twoje_spolki": 3,
   "obserwowane": 0,
-  "pozostale": 50
+  "pozostale": 52
  },
- "duplicatesRemoved": 86,
- "total": 280,
+ "duplicatesRemoved": 91,
+ "total": 293,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -133,6 +133,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "16:35",
+    "kind": "pap",
+    "ticker": null,
+    "title": "INSIDE PARK SA (17/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441216",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:41",
     "kind": "news",
@@ -609,6 +618,15 @@
   ],
   "korporacyjne": [
    {
+    "time": "16:26",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PGE POLSKA GRUPA ENERGETYCZNA S.A.: Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia spółki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-71879",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "16:25",
     "kind": "espi",
     "ticker": null,
@@ -948,6 +966,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "16:24",
+    "kind": "news",
+    "ticker": null,
+    "title": "Deficyt budżetu po październiku 2026 r. wyniósł ok. 195,2 mld zł - MF",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/deficyt-budzetu-po-pazdzierniku-2026-r-wyniosl-ok-1952-mld-zl-mf",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "16:18",
     "kind": "pap",
@@ -1289,6 +1316,33 @@
   "nieruchomosci": [],
   "fundusze_drobne": [
    {
+    "time": "16:34",
+    "kind": "news",
+    "ticker": null,
+    "title": "Tygodniowa zmiana wartości jednostek OFE",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/tygodniowa-zmiana-wartosci-jednostek-ofe",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "16:34",
+    "kind": "news",
+    "ticker": null,
+    "title": "OFE wartości jednostek rozrachunkowych z 2026.11.13",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/ofe-wartosci-jednostek-rozrachunkowych-z-20261113",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "16:29",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Nationale-Nederlanden OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441220",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "15:55",
     "kind": "pap",
     "ticker": null,
@@ -1405,6 +1459,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "16:34",
+    "kind": "news",
+    "ticker": null,
+    "title": "Stan środków walutowych na koniec października wyniósł ok. 12,38 mld euro - MF",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261116/stan-srodkow-walutowych-na-koniec-pazdziernika-wyniosl-ok-1238-mld-euro-mf",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "16:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Premier Donald Tusk powołał Anne-Marie Weber w skład rady nadzorczej BGK",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441217",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:25",
     "kind": "espi",
