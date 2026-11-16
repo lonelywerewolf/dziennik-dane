@@ -1,7 +1,53 @@
 {
  "date": "2026-11-16",
- "count": 19,
+ "count": 24,
  "items": [
+  {
+   "id": "strefa-cb9037e79902",
+   "date": "2026-11-16",
+   "time": "07:01",
+   "ts": "2026-11-16T07:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Kalendarium rynku kapitałowego GPW 2026-11-16 - 2026-11-20",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/kalendarium-rynku-kapitalowego-gpw-2026-11-16-2026-11-20"
+  },
+  {
+   "id": "strefa-07e1d2bb7021",
+   "date": "2026-11-16",
+   "time": "07:01",
+   "ts": "2026-11-16T07:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-16 - 2026-11-20",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-16-2026-11-20"
+  },
+  {
+   "id": "bossa-pap-441008",
+   "date": "2026-11-16",
+   "time": "07:01",
+   "ts": "2026-11-16T07:01:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Na rynkach ropy i złota stabilnie, możliwa poprawa dzięki geopolityce - Skarbiec TFI (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441008"
+  },
+  {
+   "id": "bossa-pap-441007",
+   "date": "2026-11-16",
+   "time": "07:01",
+   "ts": "2026-11-16T07:01:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Miedzi szkodzi rotacja kapitału, wsparciem AI i status quo dot. ceł - Skarbiec TFI (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441007"
+  },
   {
    "id": "bossa-pap-441006",
    "date": "2026-11-16",
@@ -13,6 +59,17 @@
    "title": "PROGUNS GROUP SA (27/2026) Skonsolidowany raport kwartalny za III kwartał",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-441006"
+  },
+  {
+   "id": "strefa-ce0edfb8703d",
+   "date": "2026-11-16",
+   "time": "06:39",
+   "ts": "2026-11-16T06:39:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Kalendarium rynku NewConnect 2026-11-16",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261116/kalendarium-rynku-newconnect-2026-11-16"
   },
   {
    "id": "bossa-pap-441005",
