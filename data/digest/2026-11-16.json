@@ -2,7 +2,7 @@
  "date": "2026-11-16",
  "counts": {
   "podsumowania": 18,
-  "wyniki": 82,
+  "wyniki": 83,
   "rekomendacje": 4,
   "korporacyjne": 52,
   "makro_pl": 27,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 13,
   "twoje_spolki": 8,
   "obserwowane": 0,
-  "pozostale": 71
+  "pozostale": 72
  },
- "duplicatesRemoved": 141,
- "total": 438,
+ "duplicatesRemoved": 144,
+ "total": 443,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -189,6 +189,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "20:55",
+    "kind": "pap",
+    "ticker": null,
+    "title": "TRUSTBTC SA (28/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441343",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "20:46",
     "kind": "pap",
@@ -2177,6 +2186,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "20:59",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BROWAR CZARNKÓW SA (19/2026) Informacje o niestosowaniu w sposób trwały lub incydentalnym naruszeniu przez emitenta zasady ładu korporacyjnego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441345",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "20:32",
     "kind": "pap",
