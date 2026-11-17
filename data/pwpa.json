@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "date": "2026-11-17",
+   "ticker": "IZS",
+   "company": "IZOSTAL S.A.",
+   "file": "20261117_ipopema_securities_izs_pl_aw.pdf",
+   "url": "https://www.gpw.pl/pub/pwpa/20261117_ipopema_securities_izs_pl_aw.pdf",
+   "type": "analiza wyników",
+   "house": "IPOPEMA Securities S.A."
+  },
+  {
    "date": "2026-11-16",
    "ticker": "ART",
    "company": "ARTIFEX MUNDI S.A.",
@@ -437,5 +446,5 @@
    "house": "Noble Securities S.A."
   }
  ],
- "updatedAt": "2026-11-17T07:52:18+01:00"
+ "updatedAt": "2026-11-17T08:03:18+01:00"
 }

@@ -1,7 +1,89 @@
 {
  "date": "2026-11-17",
- "count": 37,
+ "count": 44,
  "items": [
+  {
+   "id": "bossa-espi-107843",
+   "date": "2026-11-17",
+   "time": "08:02",
+   "ts": "2026-11-17T08:02:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "P4 SP. Z O.O.",
+   "title": "Wybrane skonsolidowane dane finansowe P4 Sp. z o.o. za trzeci kwartał 2026 roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-107843"
+  },
+  {
+   "id": "strefa-54eb13d3b253",
+   "date": "2026-11-17",
+   "time": "07:59",
+   "ts": "2026-11-17T07:59:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Najważniejsze indeksy giełdowe w Azji",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/najwazniejsze-indeksy-gieldowe-w-azji"
+  },
+  {
+   "id": "bossa-pap-441414",
+   "date": "2026-11-17",
+   "time": "07:59",
+   "ts": "2026-11-17T07:59:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Najważniejsze indeksy giełdowe w Azji",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441414"
+  },
+  {
+   "id": "bossa-pap-441413",
+   "date": "2026-11-17",
+   "time": "07:58",
+   "ts": "2026-11-17T07:58:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ceny miedzi w Londynie spadają",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441413"
+  },
+  {
+   "id": "bossa-espi-107435",
+   "date": "2026-11-17",
+   "time": "07:58",
+   "ts": "2026-11-17T07:58:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PRAIRIE MINING LIMITED",
+   "title": "Zakończenie rozpraw w postępowaniach o stwierdzenie nieważności wyroków arbitrażowyh oraz rozpoczęcie przygotowań do egzekucji",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-107435"
+  },
+  {
+   "id": "bossa-espi-107296",
+   "date": "2026-11-17",
+   "time": "07:57",
+   "ts": "2026-11-17T07:57:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "IMS S.A.",
+   "title": "Szacunkowe wyniki Grupy Kapitałowej IMS za pierwsze trzy kwartały 2026 roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-107296"
+  },
+  {
+   "id": "strefa-332db0510d34",
+   "date": "2026-11-17",
+   "time": "07:47",
+   "ts": "2026-11-17T07:47:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ceny miedzi w Londynie spadają",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/ceny-miedzi-w-londynie-spadaja"
+  },
   {
    "id": "bossa-pap-441410",
    "date": "2026-11-17",
