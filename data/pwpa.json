@@ -39,6 +39,15 @@
    "house": "Santander Biuro Maklerskie"
   },
   {
+   "date": "2026-11-17",
+   "ticker": "VOT",
+   "company": "VOTUM S.A.",
+   "file": "20261117_dom_maklerski_banku_ochrony_środowiska_vot_pl_pw.pdf",
+   "url": "https://www.gpw.pl/pub/pwpa/20261117_dom_maklerski_banku_ochrony_%C5%9Brodowiska_vot_pl_pw.pdf",
+   "type": "prognoza wyników",
+   "house": "Dom Maklerski Banku Ochrony Środowiska S.A."
+  },
+  {
    "date": "2026-11-16",
    "ticker": "ART",
    "company": "ARTIFEX MUNDI S.A.",
@@ -475,5 +484,5 @@
    "house": "Noble Securities S.A."
   }
  ],
- "updatedAt": "2026-11-17T18:55:31+01:00"
+ "updatedAt": "2026-11-17T19:06:31+01:00"
 }

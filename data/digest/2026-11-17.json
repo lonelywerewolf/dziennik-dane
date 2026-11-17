@@ -2,10 +2,10 @@
  "date": "2026-11-17",
  "counts": {
   "podsumowania": 15,
-  "wyniki": 25,
+  "wyniki": 26,
   "rekomendacje": 1,
-  "korporacyjne": 41,
-  "makro_pl": 28,
+  "korporacyjne": 42,
+  "makro_pl": 29,
   "swiat_rynki": 18,
   "energetyka_surowce": 6,
   "nieruchomosci": 0,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 62
  },
- "duplicatesRemoved": 108,
- "total": 318,
+ "duplicatesRemoved": 110,
+ "total": 323,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -158,6 +158,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "18:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wyniki Oponeo.pl w III kw. 2026 roku vs. konsensus PAP (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/wyniki-oponeopl-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "18:44",
     "kind": "news",
@@ -420,6 +431,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "19:05",
+    "kind": "pap",
+    "ticker": null,
+    "title": "HUB.TECH SA (12/2026) Odwołanie lub rezygnacja osoby zarządzającej lub nadzorującej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441624",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "18:11",
     "kind": "pap",
@@ -840,6 +862,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "19:04",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Rząd chce dokonać przeglądu inwestycji, które będą wymagać decyzji środowiskowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441623",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:49",
     "kind": "news",

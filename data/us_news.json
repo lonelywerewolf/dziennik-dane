@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "id": "f0167f286c0a",
+   "ticker": "ASML",
+   "time": "2026-11-17T18:56+01:00",
+   "title": "Stock Indexes Fall as Tech Stocks Retreat Ahead of Nvidia’s Earnings",
+   "url": "https://www.nasdaq.com/articles/stock-indexes-fall-tech-stocks-retreat-ahead-nvidias-earnings",
+   "src": "nasdaq",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is down -1.09% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -1.37%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.11%.  December E-mini S&P futures (ESZ26 ) are down -1.04%, and December E-mini Nasdaq futures..."
+  },
+  {
+   "id": "56cbf8bc3482",
+   "ticker": "NVDA",
+   "time": "2026-11-17T18:43+01:00",
+   "title": "In His First Statement Since His Resignation, Former CEO Jensen Huang Just Delivered Stunning News to Nvidia Shareholders",
+   "url": "https://www.nasdaq.com/articles/his-first-statement-his-resignation-former-ceo-jensen-huang-just-delivered-stunning-news",
+   "src": "nasdaq",
+   "summary": "Key PointsSince his resignation on Nov. 12, momentum has been building to reinstate Huang as CEO."
+  },
+  {
    "id": "03ef114afb2a",
    "ticker": "AVGO",
    "time": "2026-11-17T18:20+01:00",
@@ -14500,5 +14518,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-17T18:55:31+01:00"
+ "updatedAt": "2026-11-17T19:06:31+01:00"
 }
