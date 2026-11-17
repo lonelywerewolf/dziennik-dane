@@ -1,7 +1,54 @@
 {
  "date": "2026-11-17",
- "count": 45,
+ "count": 50,
  "items": [
+  {
+   "id": "bossa-pap-441419",
+   "date": "2026-11-17",
+   "time": "08:23",
+   "ts": "2026-11-17T08:23:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: W Azji na giełdach przewaga spadków",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441419"
+  },
+  {
+   "id": "bossa-pap-441418",
+   "date": "2026-11-17",
+   "time": "08:19",
+   "ts": "2026-11-17T08:19:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zakończyły się rozprawy ws. nieważności wyroków wydanych na rzecz GreenX; orzeczenia w I kw. '27",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441418"
+  },
+  {
+   "id": "strefa-f8b2270fa2c7",
+   "date": "2026-11-17",
+   "time": "08:17",
+   "ts": "2026-11-17T08:17:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: W Azji na giełdach przewaga spadków",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/dzien-na-rynkach-w-azji-na-gieldach-przewaga-spadkow"
+  },
+  {
+   "id": "bossa-pap-441417",
+   "date": "2026-11-17",
+   "time": "08:16",
+   "ts": "2026-11-17T08:16:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "EBITDAaL Play wzrósł w III kw. o 4,8 proc. rdr do 1,079 mld zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441417"
+  },
   {
    "id": "bossa-espi-109202",
    "date": "2026-11-17",
@@ -25,6 +72,17 @@
    "title": "Wybrane skonsolidowane dane finansowe P4 Sp. z o.o. za trzeci kwartał 2026 roku",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-107843"
+  },
+  {
+   "id": "strefa-428cbe653f17",
+   "date": "2026-11-17",
+   "time": "08:00",
+   "ts": "2026-11-17T08:00:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "EBITDAaL Play wzrósł w III kw. o 4,8 proc. rdr do 1,079 mld zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/ebitdaal-play-wzrosl-w-iii-kw-o-48-proc-rdr-do-1079-mld-zl"
   },
   {
    "id": "strefa-54eb13d3b253",

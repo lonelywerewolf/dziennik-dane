@@ -1,8 +1,8 @@
 {
  "date": "2026-11-17",
  "counts": {
-  "podsumowania": 5,
-  "wyniki": 6,
+  "podsumowania": 6,
+  "wyniki": 7,
   "rekomendacje": 0,
   "korporacyjne": 2,
   "makro_pl": 4,
@@ -12,13 +12,22 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 11
+  "pozostale": 12
  },
- "duplicatesRemoved": 13,
- "total": 45,
+ "duplicatesRemoved": 15,
+ "total": 50,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "08:17",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: W Azji na giełdach przewaga spadków",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/dzien-na-rynkach-w-azji-na-gieldach-przewaga-spadkow",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "07:01",
     "kind": "news",
@@ -66,6 +75,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "08:00",
+    "kind": "news",
+    "ticker": null,
+    "title": "EBITDAaL Play wzrósł w III kw. o 4,8 proc. rdr do 1,079 mld zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/ebitdaal-play-wzrosl-w-iii-kw-o-48-proc-rdr-do-1079-mld-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "07:57",
     "kind": "espi",
@@ -229,6 +247,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "08:19",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Zakończyły się rozprawy ws. nieważności wyroków wydanych na rzecz GreenX; orzeczenia w I kw. '27",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441418",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "07:58",
     "kind": "espi",
