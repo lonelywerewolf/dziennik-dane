@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "fe6d4f4473cf",
+   "ticker": "MRVL",
+   "time": "2026-11-17T17:45+01:00",
+   "title": "Stocks Pressured by Weakness in Software and Health Insurance Stocks",
+   "url": "https://www.nasdaq.com/articles/stocks-pressured-weakness-software-and-health-insurance-stocks",
+   "src": "nasdaq",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is down -0.10% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.33%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.16%.  December E-mini S&P futures (ESZ26 ) are down -0.13%, and December E-mini Nasdaq futures..."
+  },
+  {
    "id": "2515bc391d1f",
    "ticker": "NVDA",
    "time": "2026-11-17T17:05+01:00",
@@ -14464,5 +14473,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-17T17:49:30+01:00"
+ "updatedAt": "2026-11-17T18:00:30+01:00"
 }
