@@ -5,17 +5,17 @@
   "wyniki": 12,
   "rekomendacje": 0,
   "korporacyjne": 9,
-  "makro_pl": 6,
+  "makro_pl": 7,
   "swiat_rynki": 5,
   "energetyka_surowce": 5,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 22
+  "pozostale": 23
  },
  "duplicatesRemoved": 28,
- "total": 97,
+ "total": 99,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -326,6 +326,15 @@
   ],
   "makro_pl": [
    {
+    "time": "10:37",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Ceny transakcyjne nieruchomości na rynku pierwotnym w III kw. wzrosły rdr o 1,6 proc. - NBP",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441451",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "08:33",
     "kind": "pap",
     "ticker": null,
@@ -479,6 +488,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "10:33",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźniki referencyjne - SONIA",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441450",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:25",
     "kind": "espi",
