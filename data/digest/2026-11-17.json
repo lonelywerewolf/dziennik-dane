@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 17
+  "pozostale": 18
  },
- "duplicatesRemoved": 24,
- "total": 84,
+ "duplicatesRemoved": 25,
+ "total": 86,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -439,6 +439,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:44",
+    "kind": "news",
+    "ticker": null,
+    "title": "Monitor kadrowy - zestawienie od 10 do 16 listopada",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/monitor-kadrowy-zestawienie-od-10-do-16-listopada",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:34",
     "kind": "news",
