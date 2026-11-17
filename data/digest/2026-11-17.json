@@ -6,16 +6,16 @@
   "rekomendacje": 0,
   "korporacyjne": 15,
   "makro_pl": 9,
-  "swiat_rynki": 6,
+  "swiat_rynki": 8,
   "energetyka_surowce": 5,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 26
+  "pozostale": 28
  },
- "duplicatesRemoved": 37,
- "total": 122,
+ "duplicatesRemoved": 38,
+ "total": 127,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -497,6 +497,24 @@
   ],
   "swiat_rynki": [
    {
+    "time": "11:44",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BETA ETF NASDAQ-100 PLN-HEDGED PORTFELOWY FIZ: Raport bieżący nr 231 / 2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-109851",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:34",
+    "kind": "espi",
+    "ticker": null,
+    "title": "FARMY FOTOWOLTAIKI POLSKA S.A.: Uzyskanie przez spółkę zależną Emitenta ostatecznej decyzji o warunkach zabudowy dla projektu budowy magazynów energii o mocy do 200 MW",
+    "url": "https://bossa.pl/analizy/komunikaty#message-109850",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "11:03",
     "kind": "pap",
     "ticker": null,
@@ -603,6 +621,24 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:43",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MS: Ruszył nabór wniosków na Specjalistyczne Ośrodki Pomocy Pokrzywdzonym dla Dzieci (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441466",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:32",
+    "kind": "news",
+    "ticker": null,
+    "title": "Scanway i Vyoma rozwijają system monitorowania przestrzeni kosmicznej z orbity. Instrumenty optyczne Scanway trafią na satelity Kepler",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/scanway-i-vyoma-rozwijaja-system-monitorowania-przestrzeni-kosmicznej-z-orbity",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "11:17",
     "kind": "espi",
