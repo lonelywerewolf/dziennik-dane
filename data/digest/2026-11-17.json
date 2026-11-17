@@ -4,18 +4,18 @@
   "podsumowania": 11,
   "wyniki": 16,
   "rekomendacje": 0,
-  "korporacyjne": 25,
+  "korporacyjne": 26,
   "makro_pl": 20,
-  "swiat_rynki": 9,
+  "swiat_rynki": 10,
   "energetyka_surowce": 5,
   "nieruchomosci": 0,
-  "fundusze_drobne": 3,
+  "fundusze_drobne": 4,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 45
+  "pozostale": 48
  },
- "duplicatesRemoved": 65,
- "total": 201,
+ "duplicatesRemoved": 68,
+ "total": 210,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -282,6 +282,17 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "14:50",
+    "kind": "news",
+    "ticker": null,
+    "title": "Celon Pharma ma umowę o dofinansowanie projektu JARVIS w wysokości ok. 33,9 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/celon-pharma-ma-umowe-o-dofinansowanie-projektu-jarvis-w-wysokosci-ok-339-mln",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
     "time": "14:45",
     "kind": "espi",
     "ticker": null,
@@ -544,12 +555,21 @@
   ],
   "makro_pl": [
    {
-    "time": "14:39",
-    "kind": "pap",
+    "time": "14:58",
+    "kind": "news",
+    "ticker": null,
+    "title": "Rząd przyjął projekt ustawy dot. maksymalnej ceny gazu w '27 - Szłapka",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/rzad-przyjal-projekt-ustawy-dot-maksymalnej-ceny-gazu-w-27-szlapka",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "14:56",
+    "kind": "news",
     "ticker": null,
     "title": "Rząd przyjął projekt system zapasów interwencyjnych paliw",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441528",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/rzad-przyjal-projekt-system-zapasow-interwencyjnych-paliw",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -567,15 +587,6 @@
     "ticker": null,
     "title": "BANK GOSPODARSTWA KRAJOWEGO: Oprocentowanie obligacji serii FPU1130",
     "url": "https://bossa.pl/analizy/komunikaty#message-109885",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "13:40",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Rząd przyjął projekt ustawy dot. maksymalnej ceny gazu w '27 - Szłapka",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441509",
     "src": "bossa",
     "flags": []
    },
@@ -730,6 +741,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "14:53",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ME: Chronimy odbiorców gazu przed podwyżkami, nowe rozwiązania przyjęte przez Radę Ministrów (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441532",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "14:06",
     "kind": "pap",
     "ticker": null,
@@ -861,6 +881,15 @@
   "nieruchomosci": [],
   "fundusze_drobne": [
    {
+    "time": "14:54",
+    "kind": "espi",
+    "ticker": null,
+    "title": "POLTREG S.A.: Zawiadomienie o przekroczeniu przez Quercus TFI progu 10% w ogólnej liczbie głosów w PolTREG S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-109889",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "14:41",
     "kind": "pap",
     "ticker": null,
@@ -912,6 +941,33 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "15:00",
+    "kind": "news",
+    "ticker": null,
+    "title": "ME chce w I kw. 2027 r. przyjąć projekt regulujący rynek wodoru",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/me-chce-w-i-kw-2027-r-przyjac-projekt-regulujacy-rynek-wodoru",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "15:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BASEIG SA (23/2026) Zmiana adresu emitenta lub adresu jego strony internetowej lub ostatniego wskazanego Organizatorowi Alternatywnego Systemu adresu e-mail emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441536",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:56",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KRYNICA VITAMIN S.A.: Zmiana terminu publikacji raportu za III kwartał 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-109890",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:32",
     "kind": "pap",

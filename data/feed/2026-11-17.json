@@ -1,7 +1,111 @@
 {
  "date": "2026-11-17",
- "count": 201,
+ "count": 210,
  "items": [
+  {
+   "id": "strefa-10e4963b33dd",
+   "date": "2026-11-17",
+   "time": "15:00",
+   "ts": "2026-11-17T15:00:44+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "ME chce w I kw. 2027 r. przyjąć projekt regulujący rynek wodoru",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/me-chce-w-i-kw-2027-r-przyjac-projekt-regulujacy-rynek-wodoru"
+  },
+  {
+   "id": "bossa-pap-441536",
+   "date": "2026-11-17",
+   "time": "15:00",
+   "ts": "2026-11-17T15:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "BASEIG SA (23/2026) Zmiana adresu emitenta lub adresu jego strony internetowej lub ostatniego wskazanego Organizatorowi Alternatywnego Systemu adresu e-mail emitenta",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441536"
+  },
+  {
+   "id": "strefa-ef9fa63b116d",
+   "date": "2026-11-17",
+   "time": "14:58",
+   "ts": "2026-11-17T14:58:27+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Rząd przyjął projekt ustawy dot. maksymalnej ceny gazu w '27 - Szłapka",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/rzad-przyjal-projekt-ustawy-dot-maksymalnej-ceny-gazu-w-27-szlapka"
+  },
+  {
+   "id": "strefa-b1825241da81",
+   "date": "2026-11-17",
+   "time": "14:56",
+   "ts": "2026-11-17T14:56:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Rząd przyjął projekt system zapasów interwencyjnych paliw",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/rzad-przyjal-projekt-system-zapasow-interwencyjnych-paliw"
+  },
+  {
+   "id": "bossa-espi-109890",
+   "date": "2026-11-17",
+   "time": "14:56",
+   "ts": "2026-11-17T14:56:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KRYNICA VITAMIN S.A.",
+   "title": "Zmiana terminu publikacji raportu za III kwartał 2026 roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109890"
+  },
+  {
+   "id": "bossa-pap-441534",
+   "date": "2026-11-17",
+   "time": "14:55",
+   "ts": "2026-11-17T14:55:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Celon Pharma ma umowę o dofinansowanie projektu JARVIS w wysokości ok. 33,9 mln zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441534"
+  },
+  {
+   "id": "bossa-espi-109889",
+   "date": "2026-11-17",
+   "time": "14:54",
+   "ts": "2026-11-17T14:54:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "POLTREG S.A.",
+   "title": "Zawiadomienie o przekroczeniu przez Quercus TFI progu 10% w ogólnej liczbie głosów w PolTREG S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109889"
+  },
+  {
+   "id": "bossa-pap-441532",
+   "date": "2026-11-17",
+   "time": "14:53",
+   "ts": "2026-11-17T14:53:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "ME: Chronimy odbiorców gazu przed podwyżkami, nowe rozwiązania przyjęte przez Radę Ministrów (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441532"
+  },
+  {
+   "id": "strefa-e7c6019dc905",
+   "date": "2026-11-17",
+   "time": "14:50",
+   "ts": "2026-11-17T14:50:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Celon Pharma ma umowę o dofinansowanie projektu JARVIS w wysokości ok. 33,9 mln zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/celon-pharma-ma-umowe-o-dofinansowanie-projektu-jarvis-w-wysokosci-ok-339-mln"
+  },
   {
    "id": "bossa-pap-441531",
    "date": "2026-11-17",
