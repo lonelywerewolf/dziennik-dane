@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "f1831aaa7931",
+   "ticker": "NVDA",
+   "time": "2026-11-17T19:42+01:00",
+   "title": "Why Sandisk Stock Keeps On Going Down",
+   "url": "https://www.nasdaq.com/articles/why-sandisk-stock-keeps-going-down-1",
+   "src": "nasdaq",
+   "summary": "Key PointsThe Nvidia CEO scandal is the big reason Sandisk stock keeps falling."
+  },
+  {
+   "id": "1b0b13037245",
+   "ticker": "NVDA",
+   "time": "2026-11-17T19:27+01:00",
+   "title": "Why Micron Stock Keeps On Going Down",
+   "url": "https://www.nasdaq.com/articles/why-micron-stock-keeps-going-down-1",
+   "src": "nasdaq",
+   "summary": "Key PointsThe Nvidia CEO scandal fallout keeps on falling out."
+  },
+  {
+   "id": "8fc52a8db067",
+   "ticker": "AVGO",
+   "time": "2026-11-17T19:23+01:00",
+   "title": "Noteworthy Tuesday Option Activity: AVGO, AMZN, NOW",
+   "url": "https://www.nasdaq.com/articles/noteworthy-tuesday-option-activity-avgo-amzn-now",
+   "src": "nasdaq",
+   "summary": "Looking at options trading activity among components of the S&amp;P 500 index, there is noteworthy activity today in Broadcom Inc (Symbol: AVGO), where a total volume of 145,868 contracts has been traded thus far today, a contract volume which is representative of approximately"
+  },
+  {
    "id": "c4c17abf9613",
    "ticker": "NVDA",
    "time": "2026-11-17T19:17+01:00",
@@ -14527,5 +14554,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-17T19:50:31+01:00"
+ "updatedAt": "2026-11-17T20:01:31+01:00"
 }
