@@ -4,18 +4,18 @@
   "podsumowania": 11,
   "wyniki": 16,
   "rekomendacje": 0,
-  "korporacyjne": 30,
+  "korporacyjne": 31,
   "makro_pl": 24,
-  "swiat_rynki": 12,
+  "swiat_rynki": 14,
   "energetyka_surowce": 5,
   "nieruchomosci": 0,
   "fundusze_drobne": 7,
-  "twoje_spolki": 2,
+  "twoje_spolki": 3,
   "obserwowane": 0,
-  "pozostale": 54
+  "pozostale": 55
  },
- "duplicatesRemoved": 75,
- "total": 236,
+ "duplicatesRemoved": 76,
+ "total": 242,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -281,6 +281,15 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "16:06",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Anthropic dąży do ceny akcji podczas IPO w górnym przedziale zakresu – Bloomberg",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441562",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:39",
     "kind": "espi",
@@ -819,6 +828,24 @@
   ],
   "swiat_rynki": [
    {
+    "time": "16:01",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeks NAHB nastrojów firm budowlanych w USA w XI: 25 pkt. Konsensus: 29 pkt. Poprzednio: 29 pkt.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441559",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:39",
+    "kind": "news",
+    "ticker": null,
+    "title": "Euro w EBC: 1,0989 USD i 175,05 JPY",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/euro-w-ebc-10989-usd-i-17505-jpy",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "15:18",
     "kind": "pap",
     "ticker": null,
@@ -1042,6 +1069,15 @@
   ],
   "twoje_spolki": [
    {
+    "time": "16:07",
+    "kind": "pap",
+    "ticker": "XTB",
+    "title": "XTB spada o 15,4 proc. do 118,2 zł przy wysokich obrotach; mWIG40 zniżkuje o 2 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441563",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "14:27",
     "kind": "news",
     "ticker": "NVDA",
@@ -1064,6 +1100,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "16:02",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ALIOR BANK S.A.: Zgłoszenie kandydatki do Rady Nadzorczej Alior Bank S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-109899",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:48",
     "kind": "pap",

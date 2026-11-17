@@ -1,7 +1,67 @@
 {
  "date": "2026-11-17",
- "count": 236,
+ "count": 242,
  "items": [
+  {
+   "id": "bossa-pap-441563",
+   "date": "2026-11-17",
+   "time": "16:07",
+   "ts": "2026-11-17T16:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "XTB spada o 15,4 proc. do 118,2 zł przy wysokich obrotach; mWIG40 zniżkuje o 2 proc.",
+   "ticker": "XTB",
+   "url": "https://bossa.pl/analizy/komunikaty#message-441563"
+  },
+  {
+   "id": "bossa-pap-441562",
+   "date": "2026-11-17",
+   "time": "16:06",
+   "ts": "2026-11-17T16:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Anthropic dąży do ceny akcji podczas IPO w górnym przedziale zakresu – Bloomberg",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441562"
+  },
+  {
+   "id": "bossa-pap-441561",
+   "date": "2026-11-17",
+   "time": "16:03",
+   "ts": "2026-11-17T16:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Euro w EBC: 1,0989 USD i 175,05 JPY",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441561"
+  },
+  {
+   "id": "bossa-espi-109899",
+   "date": "2026-11-17",
+   "time": "16:02",
+   "ts": "2026-11-17T16:02:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ALIOR BANK S.A.",
+   "title": "Zgłoszenie kandydatki do Rady Nadzorczej Alior Bank S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109899"
+  },
+  {
+   "id": "bossa-pap-441559",
+   "date": "2026-11-17",
+   "time": "16:01",
+   "ts": "2026-11-17T16:01:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeks NAHB nastrojów firm budowlanych w USA w XI: 25 pkt. Konsensus: 29 pkt. Poprzednio: 29 pkt.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441559"
+  },
   {
    "id": "bossa-pap-441558",
    "date": "2026-11-17",
@@ -25,6 +85,17 @@
    "title": "KPRP: Konferencja „Ich przyszłość. Nasza odpowiedzialność. Their future. Our responsibility” - program (komunikat)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-441557"
+  },
+  {
+   "id": "strefa-56a5e8a66ce7",
+   "date": "2026-11-17",
+   "time": "15:39",
+   "ts": "2026-11-17T15:39:12+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Euro w EBC: 1,0989 USD i 175,05 JPY",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/euro-w-ebc-10989-usd-i-17505-jpy"
   },
   {
    "id": "bossa-espi-109898",

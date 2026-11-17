@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T15:59:30+01:00",
+ "updatedAt": "2026-11-17T16:10:30+01:00",
  "q": {
   "ASB": {
    "date": "2026-11-16",
@@ -136,9 +136,9 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/asml",
    "chg": -5.91,
    "live": {
-    "price": 1404.845,
-    "chgPct": -0.14,
-    "at": "2026-11-17T09:59:50.842780332-05:00",
+    "price": 1396.155,
+    "chgPct": -0.76,
+    "at": "2026-11-17T10:10:42.295369866-05:00",
     "src": "https://www.tiingo.com/asml/overview",
     "via": "tiingo"
    }
@@ -150,9 +150,9 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/avgo",
    "chg": -3.92,
    "live": {
-    "price": 340.91,
-    "chgPct": 2.25,
-    "at": "2026-11-17T09:59:50.574217561-05:00",
+    "price": 337.705,
+    "chgPct": 1.29,
+    "at": "2026-11-17T10:10:43.350938279-05:00",
     "src": "https://www.tiingo.com/avgo/overview",
     "via": "tiingo"
    }
@@ -164,9 +164,9 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/mpwr",
    "chg": -5.5,
    "live": {
-    "price": 1350.56,
-    "chgPct": 2.78,
-    "at": "2026-11-17T09:59:47.531395797-05:00",
+    "price": 1342.32,
+    "chgPct": 2.16,
+    "at": "2026-11-17T10:10:43.260725895-05:00",
     "src": "https://www.tiingo.com/mpwr/overview",
     "via": "tiingo"
    }
@@ -178,9 +178,9 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/mrvl",
    "chg": -7.27,
    "live": {
-    "price": 148.01,
-    "chgPct": 1.82,
-    "at": "2026-11-17T09:59:50.868050501-05:00",
+    "price": 145.5,
+    "chgPct": 0.1,
+    "at": "2026-11-17T10:10:39.664577541-05:00",
     "src": "https://www.tiingo.com/mrvl/overview",
     "via": "tiingo"
    }
@@ -192,9 +192,9 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/nvda",
    "chg": -4.12,
    "live": {
-    "price": 155.815,
-    "chgPct": -0.21,
-    "at": "2026-11-17T09:59:50.684819380-05:00",
+    "price": 154.385,
+    "chgPct": -1.12,
+    "at": "2026-11-17T10:10:42.378000704-05:00",
     "src": "https://www.tiingo.com/nvda/overview",
     "via": "tiingo"
    }
@@ -206,9 +206,9 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/tsm",
    "chg": -6.34,
    "live": {
-    "price": 367.89,
-    "chgPct": -1.49,
-    "at": "2026-11-17T09:59:50.768142893-05:00",
+    "price": 363.05,
+    "chgPct": -2.78,
+    "at": "2026-11-17T10:10:40.112423968-05:00",
     "src": "https://www.tiingo.com/tsm/overview",
     "via": "tiingo"
    }
@@ -220,9 +220,9 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/vrt",
    "chg": -6.63,
    "live": {
-    "price": 194.68,
-    "chgPct": 3.19,
-    "at": "2026-11-17T09:59:47.088917183-05:00",
+    "price": 192.55,
+    "chgPct": 2.06,
+    "at": "2026-11-17T10:10:39.652124804-05:00",
     "src": "https://www.tiingo.com/vrt/overview",
     "via": "tiingo"
    }
