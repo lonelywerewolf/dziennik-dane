@@ -1,7 +1,30 @@
 {
  "date": "2026-11-17",
- "count": 82,
+ "count": 84,
  "items": [
+  {
+   "id": "bossa-pap-441440",
+   "date": "2026-11-17",
+   "time": "09:43",
+   "ts": "2026-11-17T09:43:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Action szacuje przychody w III kw. '26 na 926,1 mln zł w porównaniu do 744,6 mln zł rok wcześniej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441440"
+  },
+  {
+   "id": "strefa-fd645f375d08",
+   "date": "2026-11-17",
+   "time": "09:42",
+   "ts": "2026-11-17T09:42:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Action szacuje przychody w III kw. '26 na 926,1 mln zł w porównaniu do 744,6 mln zł rok wcześniej",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/action-szacuje-przychody-w-iii-kw-26-na-9261-mln-zl-w-porownaniu-do-7446-mln-zl"
+  },
   {
    "id": "bossa-pap-441439",
    "date": "2026-11-17",
