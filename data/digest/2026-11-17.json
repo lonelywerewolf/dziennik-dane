@@ -10,12 +10,12 @@
   "energetyka_surowce": 6,
   "nieruchomosci": 0,
   "fundusze_drobne": 10,
-  "twoje_spolki": 6,
+  "twoje_spolki": 7,
   "obserwowane": 0,
   "pozostale": 71
  },
  "duplicatesRemoved": 124,
- "total": 360,
+ "total": 361,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1560,6 +1560,17 @@
    }
   ],
   "twoje_spolki": [
+   {
+    "time": "22:30",
+    "kind": "pap",
+    "ticker": "NVDA",
+    "title": "Kwartalne wyniki Nvidii powyżej oczekiwań, akcje idą w górę",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441652",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "22:02",
     "kind": "news",
