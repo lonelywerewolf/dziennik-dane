@@ -1,7 +1,30 @@
 {
  "date": "2026-11-17",
- "count": 232,
+ "count": 234,
  "items": [
+  {
+   "id": "bossa-espi-109898",
+   "date": "2026-11-17",
+   "time": "15:39",
+   "ts": "2026-11-17T15:39:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MADKOM S.A.",
+   "title": "Wykaz akcjonariuszy posiadających co najmniej 5% głosów na Nadzwyczajnym Walnym Zgromadzeniu Akcjonariuszy Spółki w dniu 9 czerwca 2026r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109898"
+  },
+  {
+   "id": "strefa-e23047b7c986",
+   "date": "2026-11-17",
+   "time": "15:34",
+   "ts": "2026-11-17T15:34:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Unum Życie TUiR chce objąć 1 mln klientów ochroną ubezpieczeniową do 2030 r.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/unum-zycie-tuir-chce-objac-1-mln-klientow-ochrona-ubezpieczeniowa-do-2030-r"
+  },
   {
    "id": "bossa-pap-441555",
    "date": "2026-11-17",
