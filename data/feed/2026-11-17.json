@@ -1,7 +1,79 @@
 {
  "date": "2026-11-17",
- "count": 127,
+ "count": 134,
  "items": [
+  {
+   "id": "bossa-pap-441473",
+   "date": "2026-11-17",
+   "time": "11:53",
+   "ts": "2026-11-17T11:53:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Szczyt deficytu budżetowego najprawdopodobniej już minął - Pekao (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441473"
+  },
+  {
+   "id": "bossa-espi-109855",
+   "date": "2026-11-17",
+   "time": "11:52",
+   "ts": "2026-11-17T11:52:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF BITCOIN PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 234 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109855"
+  },
+  {
+   "id": "bossa-pap-441470",
+   "date": "2026-11-17",
+   "time": "11:51",
+   "ts": "2026-11-17T11:51:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Tabela kursów średnich NBP nr 223/A/NBP/2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441470"
+  },
+  {
+   "id": "bossa-espi-109854",
+   "date": "2026-11-17",
+   "time": "11:51",
+   "ts": "2026-11-17T11:51:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Sygnis S.A.",
+   "title": "Otrzymanie informacji o zakwalifikowaniu projektu współtworzonego przez Syglass do programu PhotonHub",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109854"
+  },
+  {
+   "id": "bossa-espi-109853",
+   "date": "2026-11-17",
+   "time": "11:49",
+   "ts": "2026-11-17T11:49:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "TRAKCJA S.A.",
+   "title": "Rejestracja zmiany Statutu Spółki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109853"
+  },
+  {
+   "id": "bossa-espi-109852",
+   "date": "2026-11-17",
+   "time": "11:48",
+   "ts": "2026-11-17T11:48:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF S&P 500 PLN-HEDGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 231 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109852"
+  },
   {
    "id": "bossa-espi-109851",
    "date": "2026-11-17",
@@ -37,6 +109,17 @@
    "title": "Ceny transakcyjne nieruchomości na rynku pierwotnym w III kw. wzrosły rdr o 1,6 proc. - NBP (opis)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-441465"
+  },
+  {
+   "id": "strefa-caaf8f8240c5",
+   "date": "2026-11-17",
+   "time": "11:37",
+   "ts": "2026-11-17T11:37:31+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Tabela kursów średnich NBP nr 223/A/NBP/2026",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/tabela-kursow-srednich-nbp-nr-223anbp2026"
   },
   {
    "id": "bossa-espi-109850",

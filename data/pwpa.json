@@ -30,6 +30,15 @@
    "pdfTries": 3
   },
   {
+   "date": "2026-11-17",
+   "ticker": "SNK",
+   "company": "SANOK RUBBER COMPANY S.A.",
+   "file": "20261117_santander_biuro_maklerskie_snk_pl_aw.pdf",
+   "url": "https://www.gpw.pl/pub/pwpa/20261117_santander_biuro_maklerskie_snk_pl_aw.pdf",
+   "type": "analiza wyników",
+   "house": "Santander Biuro Maklerskie"
+  },
+  {
    "date": "2026-11-16",
    "ticker": "ART",
    "company": "ARTIFEX MUNDI S.A.",
@@ -466,5 +475,5 @@
    "house": "Noble Securities S.A."
   }
  ],
- "updatedAt": "2026-11-17T11:45:19+01:00"
+ "updatedAt": "2026-11-17T11:56:20+01:00"
 }
