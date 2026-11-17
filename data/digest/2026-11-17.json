@@ -4,18 +4,18 @@
   "podsumowania": 11,
   "wyniki": 13,
   "rekomendacje": 0,
-  "korporacyjne": 19,
-  "makro_pl": 13,
+  "korporacyjne": 20,
+  "makro_pl": 15,
   "swiat_rynki": 8,
   "energetyka_surowce": 5,
   "nieruchomosci": 0,
   "fundusze_drobne": 1,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 32
+  "pozostale": 34
  },
- "duplicatesRemoved": 46,
- "total": 148,
+ "duplicatesRemoved": 50,
+ "total": 157,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -253,6 +253,17 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "12:30",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MIRBUD S.A.: Podpisanie umowy na budowę Komendy Miejskiej Policji w Elblągu",
+    "url": "https://bossa.pl/analizy/komunikaty#message-109863",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
     "time": "12:29",
     "kind": "pap",
     "ticker": null,
@@ -447,6 +458,24 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "12:31",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PZU ETF OBLIGACJI SKARBOWYCH DŁUGOTERMINOWYCH PORTFELOWY FIZ: WANCI-E_30.04.18",
+    "url": "https://bossa.pl/analizy/komunikaty#message-109864",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:24",
+    "kind": "news",
+    "ticker": null,
+    "title": "Rząd będzie pracował nad rozwiązaniami dot. cen energii elektrycznej - premier (opis)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/rzad-bedzie-pracowal-nad-rozwiazaniami-dot-cen-energii-elektrycznej-premier",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "12:16",
     "kind": "pap",
@@ -705,6 +734,24 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:36",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Akcje Deutsche Banku spadają o 5 proc. wobec ujawnionych powiązań m.in. z Epsteinem",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441493",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:35",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MS: Zaproszenie na premierę podręcznika Rady Europy dla dziennikarzy (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441491",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:13",
     "kind": "pap",

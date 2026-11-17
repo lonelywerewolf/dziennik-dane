@@ -1,7 +1,103 @@
 {
  "date": "2026-11-17",
- "count": 148,
+ "count": 157,
  "items": [
+  {
+   "id": "bossa-espi-109867",
+   "date": "2026-11-17",
+   "time": "12:37",
+   "ts": "2026-11-17T12:37:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF GOLD PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109867"
+  },
+  {
+   "id": "bossa-pap-441493",
+   "date": "2026-11-17",
+   "time": "12:36",
+   "ts": "2026-11-17T12:36:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Akcje Deutsche Banku spadają o 5 proc. wobec ujawnionych powiązań m.in. z Epsteinem",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441493"
+  },
+  {
+   "id": "bossa-pap-441492",
+   "date": "2026-11-17",
+   "time": "12:36",
+   "ts": "2026-11-17T12:36:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Rząd będzie pracował nad rozwiązaniami dot. cen energii elektrycznej - premier (opis)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441492"
+  },
+  {
+   "id": "bossa-pap-441491",
+   "date": "2026-11-17",
+   "time": "12:35",
+   "ts": "2026-11-17T12:35:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MS: Zaproszenie na premierę podręcznika Rady Europy dla dziennikarzy (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441491"
+  },
+  {
+   "id": "bossa-espi-109866",
+   "date": "2026-11-17",
+   "time": "12:35",
+   "ts": "2026-11-17T12:35:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF OBLIGACJI SKARBOWYCH ZMIENNOKUPONOWYCH PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109866"
+  },
+  {
+   "id": "bossa-espi-109865",
+   "date": "2026-11-17",
+   "time": "12:33",
+   "ts": "2026-11-17T12:33:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF MWIG40TRsh PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 219 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109865"
+  },
+  {
+   "id": "bossa-espi-109864",
+   "date": "2026-11-17",
+   "time": "12:31",
+   "ts": "2026-11-17T12:31:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF OBLIGACJI SKARBOWYCH DŁUGOTERMINOWYCH PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109864"
+  },
+  {
+   "id": "bossa-espi-109863",
+   "date": "2026-11-17",
+   "time": "12:30",
+   "ts": "2026-11-17T12:30:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MIRBUD S.A.",
+   "title": "Podpisanie umowy na budowę Komendy Miejskiej Policji w Elblągu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109863"
+  },
   {
    "id": "bossa-pap-441486",
    "date": "2026-11-17",
@@ -49,6 +145,17 @@
    "title": "Raport bieżący nr 211 / 2026",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-109862"
+  },
+  {
+   "id": "strefa-e8c99d7055ef",
+   "date": "2026-11-17",
+   "time": "12:24",
+   "ts": "2026-11-17T12:24:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Rząd będzie pracował nad rozwiązaniami dot. cen energii elektrycznej - premier (opis)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/rzad-bedzie-pracowal-nad-rozwiazaniami-dot-cen-energii-elektrycznej-premier"
   },
   {
    "id": "bossa-pap-441482",
