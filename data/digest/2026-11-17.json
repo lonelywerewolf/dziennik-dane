@@ -1,10 +1,10 @@
 {
  "date": "2026-11-17",
  "counts": {
-  "podsumowania": 11,
-  "wyniki": 17,
+  "podsumowania": 13,
+  "wyniki": 18,
   "rekomendacje": 0,
-  "korporacyjne": 33,
+  "korporacyjne": 34,
   "makro_pl": 25,
   "swiat_rynki": 14,
   "energetyka_surowce": 5,
@@ -14,11 +14,29 @@
   "obserwowane": 0,
   "pozostale": 57
  },
- "duplicatesRemoved": 81,
- "total": 256,
+ "duplicatesRemoved": 83,
+ "total": 262,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "17:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Skrót wiadomości - wtorek, 17 listopada, 17.00",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441576",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA FX/FI: PLN stabilny do EUR i USD, ale pozostaje pod presją z powodu umocnienia dolara",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/dzien-na-fxfi-pln-stabilny-do-eur-i-usd-ale-pozostaje-pod-presja-z-powodu",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "11:11",
     "kind": "news",
@@ -120,6 +138,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "17:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Matexi Polska Holding/Matexi Polska Holding & Finance Spółka Akcyjna (6/2026) Emisja obligacji, obligacji zamiennych na akcje, obligacji z prawem pierwszeństwa oraz obligacji przychodowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441577",
+    "src": "bossa",
+    "flags": [
+     "emisja"
+    ]
+   },
    {
     "time": "16:29",
     "kind": "espi",
@@ -292,6 +321,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "17:02",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ENERGY S.A.: Zawarcie umowy na analizę gruntów i opracowanie programu funkcjonalno-użytkowego dla instalacji fotowoltaicznych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-109905",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "16:38",
     "kind": "news",
@@ -1125,12 +1165,12 @@
   ],
   "twoje_spolki": [
    {
-    "time": "16:43",
-    "kind": "pap",
+    "time": "16:46",
+    "kind": "news",
     "ticker": "XTB",
     "title": "DZIEŃ NA GPW: Na giełdzie korekcyjna sesja; XTB spada o 15,4 proc.",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441573",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/dzien-na-gpw-na-gieldzie-korekcyjna-sesja-xtb-spada-o-154-proc",
+    "src": "strefainwestorow",
     "flags": []
    },
    {

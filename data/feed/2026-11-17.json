@@ -1,7 +1,66 @@
 {
  "date": "2026-11-17",
- "count": 256,
+ "count": 262,
  "items": [
+  {
+   "id": "bossa-espi-109905",
+   "date": "2026-11-17",
+   "time": "17:02",
+   "ts": "2026-11-17T17:02:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ENERGY S.A.",
+   "title": "Zawarcie umowy na analizę gruntów i opracowanie programu funkcjonalno-użytkowego dla instalacji fotowoltaicznych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109905"
+  },
+  {
+   "id": "bossa-pap-441577",
+   "date": "2026-11-17",
+   "time": "17:00",
+   "ts": "2026-11-17T17:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Matexi Polska Holding/Matexi Polska Holding & Finance Spółka Akcyjna (6/2026) Emisja obligacji, obligacji zamiennych na akcje, obligacji z prawem pierwszeństwa oraz obligacji przychodowych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441577"
+  },
+  {
+   "id": "bossa-pap-441576",
+   "date": "2026-11-17",
+   "time": "17:00",
+   "ts": "2026-11-17T17:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Skrót wiadomości - wtorek, 17 listopada, 17.00",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441576"
+  },
+  {
+   "id": "bossa-pap-441575",
+   "date": "2026-11-17",
+   "time": "16:57",
+   "ts": "2026-11-17T16:57:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA FX/FI: PLN stabilny do EUR i USD, ale pozostaje pod presją z powodu umocnienia dolara",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441575"
+  },
+  {
+   "id": "strefa-aa347cd35857",
+   "date": "2026-11-17",
+   "time": "16:55",
+   "ts": "2026-11-17T16:55:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA FX/FI: PLN stabilny do EUR i USD, ale pozostaje pod presją z powodu umocnienia dolara",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/dzien-na-fxfi-pln-stabilny-do-eur-i-usd-ale-pozostaje-pod-presja-z-powodu"
+  },
   {
    "id": "bossa-pap-441574",
    "date": "2026-11-17",
@@ -13,6 +72,17 @@
    "title": "Rząd przyjął projekt ustawy dot. maksymalnej ceny gazu w '27 (opis)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-441574"
+  },
+  {
+   "id": "strefa-5f4e4d2776eb",
+   "date": "2026-11-17",
+   "time": "16:46",
+   "ts": "2026-11-17T16:46:31+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: Na giełdzie korekcyjna sesja; XTB spada o 15,4 proc.",
+   "ticker": "XTB",
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/dzien-na-gpw-na-gieldzie-korekcyjna-sesja-xtb-spada-o-154-proc"
   },
   {
    "id": "bossa-pap-441573",
