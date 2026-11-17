@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 8
+  "pozostale": 9
  },
- "duplicatesRemoved": 10,
- "total": 35,
+ "duplicatesRemoved": 11,
+ "total": 37,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -190,6 +190,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "07:30",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny ropy na świecie idą w dół",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/ceny-ropy-na-swiecie-ida-w-dol",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "07:29",
     "kind": "pap",
