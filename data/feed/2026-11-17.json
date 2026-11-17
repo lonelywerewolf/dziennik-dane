@@ -1,7 +1,31 @@
 {
  "date": "2026-11-17",
- "count": 134,
+ "count": 136,
  "items": [
+  {
+   "id": "bossa-pap-441475",
+   "date": "2026-11-17",
+   "time": "12:03",
+   "ts": "2026-11-17T12:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Projekt współtworzony przez spółkę zal. Sygnis zakwalifikowany do unijnego programu PhotonHub",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441475"
+  },
+  {
+   "id": "bossa-espi-109856",
+   "date": "2026-11-17",
+   "time": "12:00",
+   "ts": "2026-11-17T12:00:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF mWIG40TR PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 232 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109856"
+  },
   {
    "id": "bossa-pap-441473",
    "date": "2026-11-17",
