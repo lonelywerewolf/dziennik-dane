@@ -1,7 +1,42 @@
 {
  "date": "2026-11-17",
- "count": 357,
+ "count": 360,
  "items": [
+  {
+   "id": "bossa-pap-441651",
+   "date": "2026-11-17",
+   "time": "22:08",
+   "ts": "2026-11-17T22:08:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Spadki na Wall Street w oczekiwaniu na wyniki Nvidii",
+   "ticker": "NVDA",
+   "url": "https://bossa.pl/analizy/komunikaty#message-441651"
+  },
+  {
+   "id": "bossa-espi-130575",
+   "date": "2026-11-17",
+   "time": "22:05",
+   "ts": "2026-11-17T22:05:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "POLSKA GRUPA HUTNICZA S.A.",
+   "title": "Zawarcie umowy pożyczki z Huta Małapanew sp. z o.o.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-130575"
+  },
+  {
+   "id": "strefa-cdd476e39f9b",
+   "date": "2026-11-17",
+   "time": "22:02",
+   "ts": "2026-11-17T22:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Spadki na Wall Street w oczekiwaniu na wyniki Nvidii",
+   "ticker": "NVDA",
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/dzien-na-rynkach-spadki-na-wall-street-w-oczekiwaniu-na-wyniki-nvidii"
+  },
   {
    "id": "bossa-pap-441649",
    "date": "2026-11-17",
