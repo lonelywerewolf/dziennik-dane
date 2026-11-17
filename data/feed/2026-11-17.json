@@ -1,7 +1,100 @@
 {
  "date": "2026-11-17",
- "count": 50,
+ "count": 58,
  "items": [
+  {
+   "id": "bossa-pap-441424",
+   "date": "2026-11-17",
+   "time": "08:35",
+   "ts": "2026-11-17T08:35:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Saudi Aramco nie zgłosiło do tej pory chęci sprzedaży udziałów w Rafinerii Gdańskiej - Balczun",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441424"
+  },
+  {
+   "id": "bossa-pap-441423",
+   "date": "2026-11-17",
+   "time": "08:33",
+   "ts": "2026-11-17T08:33:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Stopa bezrobocia w W. Brytanii w IX: 4,6 proc. Konsensus: 4,7 proc. Poprzednio: 4,7 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441423"
+  },
+  {
+   "id": "strefa-ef52323b16c0",
+   "date": "2026-11-17",
+   "time": "08:32",
+   "ts": "2026-11-17T08:32:11+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Saudi Aramco nie zgłosiło do tej pory chęci sprzedaży udziałów w Rafinerii Gdańskiej - Balczun",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/saudi-aramco-nie-zglosilo-do-tej-pory-checi-sprzedazy-udzialow-w-rafinerii"
+  },
+  {
+   "id": "bossa-pap-441422",
+   "date": "2026-11-17",
+   "time": "08:32",
+   "ts": "2026-11-17T08:32:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Chiny i Kanada obniżają wzajemne cła po spotkaniu Xi z Carneyem",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441422"
+  },
+  {
+   "id": "bossa-pap-441421",
+   "date": "2026-11-17",
+   "time": "08:29",
+   "ts": "2026-11-17T08:29:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ryzyko przekroczenia tegorocznego limitu deficytu budżetowego marginalne - PKO BP (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441421"
+  },
+  {
+   "id": "strefa-190836a041c6",
+   "date": "2026-11-17",
+   "time": "08:26",
+   "ts": "2026-11-17T08:26:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Fresh Inset złożył prospekt w KNF i planuje debiut na GPW w I kw. '27",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/fresh-inset-zlozyl-prospekt-w-knf-i-planuje-debiut-na-gpw-w-i-kw-27"
+  },
+  {
+   "id": "bossa-pap-441420",
+   "date": "2026-11-17",
+   "time": "08:25",
+   "ts": "2026-11-17T08:25:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Poczta Polska ma finansowanie na kupno Orlen Paczki - Balczun",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441420"
+  },
+  {
+   "id": "strefa-c046930d4f14",
+   "date": "2026-11-17",
+   "time": "08:24",
+   "ts": "2026-11-17T08:24:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Poczta Polska ma finansowanie na kupno Orlen Paczki - Balczun",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/poczta-polska-ma-finansowanie-na-kupno-orlen-paczki-balczun"
+  },
   {
    "id": "bossa-pap-441419",
    "date": "2026-11-17",

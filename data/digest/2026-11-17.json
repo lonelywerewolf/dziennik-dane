@@ -4,18 +4,18 @@
   "podsumowania": 6,
   "wyniki": 7,
   "rekomendacje": 0,
-  "korporacyjne": 2,
-  "makro_pl": 4,
+  "korporacyjne": 3,
+  "makro_pl": 6,
   "swiat_rynki": 2,
-  "energetyka_surowce": 2,
+  "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 12
+  "pozostale": 13
  },
- "duplicatesRemoved": 15,
- "total": 50,
+ "duplicatesRemoved": 18,
+ "total": 58,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -146,6 +146,24 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "08:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Chiny i Kanada obniżają wzajemne cła po spotkaniu Xi z Carneyem",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441422",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "08:26",
+    "kind": "news",
+    "ticker": null,
+    "title": "Fresh Inset złożył prospekt w KNF i planuje debiut na GPW w I kw. '27",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/fresh-inset-zlozyl-prospekt-w-knf-i-planuje-debiut-na-gpw-w-i-kw-27",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "08:12",
     "kind": "espi",
     "ticker": null,
@@ -153,18 +171,27 @@
     "url": "https://bossa.pl/analizy/komunikaty#message-109202",
     "src": "bossa",
     "flags": []
-   },
-   {
-    "time": "07:23",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Fresh Inset złożył prospekt w KNF i planuje debiut na GPW w I kw. '27",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441406",
-    "src": "bossa",
-    "flags": []
    }
   ],
   "makro_pl": [
+   {
+    "time": "08:33",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Stopa bezrobocia w W. Brytanii w IX: 4,6 proc. Konsensus: 4,7 proc. Poprzednio: 4,7 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441423",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "08:29",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Ryzyko przekroczenia tegorocznego limitu deficytu budżetowego marginalne - PKO BP (opinia)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441421",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "07:38",
     "kind": "pap",
@@ -224,6 +251,15 @@
   ],
   "energetyka_surowce": [
    {
+    "time": "08:24",
+    "kind": "news",
+    "ticker": null,
+    "title": "Poczta Polska ma finansowanie na kupno Orlen Paczki - Balczun",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/poczta-polska-ma-finansowanie-na-kupno-orlen-paczki-balczun",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "06:34",
     "kind": "pap",
     "ticker": null,
@@ -247,6 +283,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "08:32",
+    "kind": "news",
+    "ticker": null,
+    "title": "Saudi Aramco nie zgłosiło do tej pory chęci sprzedaży udziałów w Rafinerii Gdańskiej - Balczun",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/saudi-aramco-nie-zglosilo-do-tej-pory-checi-sprzedazy-udzialow-w-rafinerii",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:19",
     "kind": "pap",
