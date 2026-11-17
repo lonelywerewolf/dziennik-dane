@@ -4,7 +4,7 @@
   "podsumowania": 15,
   "wyniki": 26,
   "rekomendacje": 1,
-  "korporacyjne": 44,
+  "korporacyjne": 45,
   "makro_pl": 30,
   "swiat_rynki": 19,
   "energetyka_surowce": 6,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 62
  },
- "duplicatesRemoved": 115,
- "total": 333,
+ "duplicatesRemoved": 117,
+ "total": 336,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -432,12 +432,21 @@
   ],
   "korporacyjne": [
    {
-    "time": "19:24",
-    "kind": "pap",
+    "time": "19:34",
+    "kind": "news",
     "ticker": null,
     "title": "GPW: w sprawie zawieszenia obrotu na Catalyst obligacjami na okaziciela serii 1 spółki BANK POLSKA KASA OPIEKI S.A.",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441631",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/gpw-w-sprawie-zawieszenia-obrotu-na-catalyst-obligacjami-na-okaziciela-serii-1",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "19:24",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: w sprawie zawieszenia obrotu na rynku NewConnect akcjami spółek w związku z nieprzekazaniem raportu kwartalnego za III kwartał roku 2026",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/gpw-w-sprawie-zawieszenia-obrotu-na-rynku-newconnect-akcjami-spolek-w-zwiazku-z",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
