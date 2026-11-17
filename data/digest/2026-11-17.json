@@ -5,17 +5,17 @@
   "wyniki": 16,
   "rekomendacje": 0,
   "korporacyjne": 30,
-  "makro_pl": 23,
+  "makro_pl": 24,
   "swiat_rynki": 12,
   "energetyka_surowce": 5,
   "nieruchomosci": 0,
   "fundusze_drobne": 7,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 53
+  "pozostale": 54
  },
  "duplicatesRemoved": 75,
- "total": 234,
+ "total": 236,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -597,6 +597,15 @@
   ],
   "makro_pl": [
    {
+    "time": "15:50",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ME: Rząd uszczelnia system zapasów interwencyjnych paliw (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441558",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "15:31",
     "kind": "pap",
     "ticker": null,
@@ -1055,6 +1064,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "15:48",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KPRP: Konferencja „Ich przyszłość. Nasza odpowiedzialność. Their future. Our responsibility” - program (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441557",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:34",
     "kind": "news",
