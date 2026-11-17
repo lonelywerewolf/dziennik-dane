@@ -9,13 +9,13 @@
   "swiat_rynki": 18,
   "energetyka_surowce": 6,
   "nieruchomosci": 0,
-  "fundusze_drobne": 9,
+  "fundusze_drobne": 10,
   "twoje_spolki": 5,
   "obserwowane": 0,
   "pozostale": 62
  },
  "duplicatesRemoved": 110,
- "total": 323,
+ "total": 324,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1350,6 +1350,15 @@
   ],
   "nieruchomosci": [],
   "fundusze_drobne": [
+   {
+    "time": "19:10",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Nationale-Nederlanden PTE SA informuje",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441625",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:19",
     "kind": "pap",
