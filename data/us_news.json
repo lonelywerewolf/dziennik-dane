@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "69f5d2bc1263",
+   "ticker": "NVDA",
+   "time": "2026-11-17T20:08+01:00",
+   "title": "Why Intel Stock Just Dropped",
+   "url": "https://www.nasdaq.com/articles/why-intel-stock-just-dropped",
+   "src": "nasdaq",
+   "summary": "Key PointsNvidia liquidated 25% of its Intel stake by the end of September."
+  },
+  {
+   "id": "db537d0b4dcf",
+   "ticker": "NVDA",
+   "time": "2026-11-17T19:56+01:00",
+   "title": "Is AMD Stock a Buy Amid the Uncertainty Around Nvidia?",
+   "url": "https://www.nasdaq.com/articles/amd-stock-buy-amid-uncertainty-around-nvidia",
+   "src": "nasdaq",
+   "summary": "Key PointsAfter Jensen Huang's resignation as Nvidia CEO, there's uncertainty about who will lead AMD's largest rival."
+  },
+  {
+   "id": "917f094c133a",
+   "ticker": "AVGO",
+   "time": "2026-11-17T19:53+01:00",
+   "title": "Prediction: These 2 Stocks Will Be Worth More Than SpaceX 5 Years From Now",
+   "url": "https://www.nasdaq.com/articles/prediction-these-2-stocks-will-be-worth-more-spacex-5-years-now",
+   "src": "nasdaq",
+   "summary": "Key PointsBroadcom's AI semiconductor revenue grew 221% year over year in its fiscal third quarter, driven by demand for its custom AI accelerators and networking equipment."
+  },
+  {
    "id": "f1831aaa7931",
    "ticker": "NVDA",
    "time": "2026-11-17T19:42+01:00",
@@ -14554,5 +14581,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-17T20:23:30+01:00"
+ "updatedAt": "2026-11-17T20:34:30+01:00"
 }

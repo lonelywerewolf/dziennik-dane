@@ -12,10 +12,10 @@
   "fundusze_drobne": 10,
   "twoje_spolki": 5,
   "obserwowane": 0,
-  "pozostale": 64
+  "pozostale": 65
  },
  "duplicatesRemoved": 117,
- "total": 339,
+ "total": 340,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1550,6 +1550,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "20:27",
+    "kind": "pap",
+    "ticker": null,
+    "title": "W najbliższych tygodniach decyzja o ewentualnym przedłużeniu CPN na początek 2027 r. - Domański",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441636",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "20:16",
     "kind": "pap",
