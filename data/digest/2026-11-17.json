@@ -1,10 +1,10 @@
 {
  "date": "2026-11-17",
  "counts": {
-  "podsumowania": 10,
+  "podsumowania": 11,
   "wyniki": 12,
   "rekomendacje": 0,
-  "korporacyjne": 12,
+  "korporacyjne": 13,
   "makro_pl": 9,
   "swiat_rynki": 6,
   "energetyka_surowce": 5,
@@ -12,13 +12,22 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 25
+  "pozostale": 26
  },
- "duplicatesRemoved": 33,
- "total": 112,
+ "duplicatesRemoved": 35,
+ "total": 117,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "11:11",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: WIG20 spada po pięciu wzrostowych sesjach; CD Projekt RED traci 3,6 proc.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/dzien-na-gpw-wig20-spada-po-pieciu-wzrostowych-sesjach-cd-projekt-red-traci-36",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:26",
     "kind": "news",
@@ -232,6 +241,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "11:13",
+    "kind": "news",
+    "ticker": null,
+    "title": "Fitch nadał rating \"BB+(EXP)\" planowanej emisji obligacji hybrydowych Enei",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/fitch-nadal-rating-bbexp-planowanej-emisji-obligacji-hybrydowych-enei",
+    "src": "strefainwestorow",
+    "flags": [
+     "emisja"
+    ]
+   },
    {
     "time": "11:10",
     "kind": "espi",
@@ -550,6 +570,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:17",
+    "kind": "espi",
+    "ticker": null,
+    "title": "VIVID GAMES S.A.: Zidentyfikowanie ryzyka ziszczenia się przesłanek z art. 397 k.s.h.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-109848",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:08",
     "kind": "pap",

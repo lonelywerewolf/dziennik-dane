@@ -1,7 +1,65 @@
 {
  "date": "2026-11-17",
- "count": 112,
+ "count": 117,
  "items": [
+  {
+   "id": "bossa-espi-109848",
+   "date": "2026-11-17",
+   "time": "11:17",
+   "ts": "2026-11-17T11:17:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "VIVID GAMES S.A.",
+   "title": "Zidentyfikowanie ryzyka ziszczenia się przesłanek z art. 397 k.s.h.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109848"
+  },
+  {
+   "id": "bossa-pap-441459",
+   "date": "2026-11-17",
+   "time": "11:15",
+   "ts": "2026-11-17T11:15:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Fitch nadał rating \"BB+(EXP)\" planowanej emisji obligacji hybrydowych Enei",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441459"
+  },
+  {
+   "id": "strefa-d86f43846b8e",
+   "date": "2026-11-17",
+   "time": "11:13",
+   "ts": "2026-11-17T11:13:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Fitch nadał rating \"BB+(EXP)\" planowanej emisji obligacji hybrydowych Enei",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/fitch-nadal-rating-bbexp-planowanej-emisji-obligacji-hybrydowych-enei"
+  },
+  {
+   "id": "bossa-pap-441458",
+   "date": "2026-11-17",
+   "time": "11:12",
+   "ts": "2026-11-17T11:12:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: WIG20 spada po pięciu wzrostowych sesjach; CD Projekt RED traci 3,6 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441458"
+  },
+  {
+   "id": "strefa-bf047c47a608",
+   "date": "2026-11-17",
+   "time": "11:11",
+   "ts": "2026-11-17T11:11:27+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: WIG20 spada po pięciu wzrostowych sesjach; CD Projekt RED traci 3,6 proc.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/dzien-na-gpw-wig20-spada-po-pieciu-wzrostowych-sesjach-cd-projekt-red-traci-36"
+  },
   {
    "id": "bossa-espi-109847",
    "date": "2026-11-17",
