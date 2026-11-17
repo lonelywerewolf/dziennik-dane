@@ -1,24 +1,33 @@
 {
  "date": "2026-11-17",
  "counts": {
-  "podsumowania": 9,
+  "podsumowania": 10,
   "wyniki": 10,
   "rekomendacje": 0,
-  "korporacyjne": 6,
+  "korporacyjne": 7,
   "makro_pl": 6,
-  "swiat_rynki": 3,
+  "swiat_rynki": 4,
   "energetyka_surowce": 5,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 16
+  "pozostale": 17
  },
- "duplicatesRemoved": 21,
- "total": 76,
+ "duplicatesRemoved": 23,
+ "total": 82,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "09:26",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: W Europie na giełdach spadki indeksów",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/dzien-na-rynkach-w-europie-na-gieldach-spadki-indeksow",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:17",
     "kind": "news",
@@ -204,6 +213,17 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "09:36",
+    "kind": "pap",
+    "ticker": null,
+    "title": "INDOS SA (12/2026) Podpisanie przez emitenta z firmą audytorską umowy o badanie sprawozdań finansowych lub skonsolidowanych sprawozdań finansowych emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441437",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
     "time": "09:23",
     "kind": "pap",
     "ticker": null,
@@ -322,6 +342,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "09:38",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Ceny gazu w Europie rosną, bo Iran kontynuuje ataki na bazy USA na Bliskim Wschodzie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441438",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "09:22",
     "kind": "news",
     "ticker": null,
@@ -401,6 +430,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:34",
+    "kind": "news",
+    "ticker": null,
+    "title": "Orange przeznaczy dodatkowe 250 mln euro na Orange Ventures do ’32, by inwestować w startupy",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/orange-przeznaczy-dodatkowe-250-mln-euro-na-orange-ventures-do-32-inwestowac-w",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:25",
     "kind": "news",
