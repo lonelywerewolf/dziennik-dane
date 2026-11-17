@@ -4,18 +4,18 @@
   "podsumowania": 10,
   "wyniki": 12,
   "rekomendacje": 0,
-  "korporacyjne": 10,
-  "makro_pl": 7,
-  "swiat_rynki": 5,
+  "korporacyjne": 12,
+  "makro_pl": 9,
+  "swiat_rynki": 6,
   "energetyka_surowce": 5,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 24
+  "pozostale": 25
  },
- "duplicatesRemoved": 31,
- "total": 104,
+ "duplicatesRemoved": 33,
+ "total": 112,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -233,6 +233,28 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "11:10",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PGE POLSKA GRUPA ENERGETYCZNA S.A.: Informacja o transakcjach w trybie art. 19 Rozporządzenia MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-109847",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
+    "time": "11:08",
+    "kind": "news",
+    "ticker": null,
+    "title": "Polska spółka JRH ASI i były minister obrony Ukrainy Mykhailo Fedorov podpisują umowę o współpracy w obszarze technologii obronnych",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/polska-spolka-jrh-asi-i-byly-minister-obrony-ukrainy-mykhailo-fedorov-podpisuja",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
     "time": "10:51",
     "kind": "news",
     "ticker": null,
@@ -335,6 +357,28 @@
   ],
   "makro_pl": [
    {
+    "time": "11:05",
+    "kind": "news",
+    "ticker": null,
+    "title": "KE prognozuje dla Polski deficyt gg w '27 r. na poziomie 7,1 proc. PKB, w '28 r. na poziomie 7,2 proc. PKB",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/ke-prognozuje-dla-polski-deficyt-gg-w-27-r-na-poziomie-71-proc-pkb-w-28-r-na",
+    "src": "strefainwestorow",
+    "flags": [
+     "prognoza"
+    ]
+   },
+   {
+    "time": "10:56",
+    "kind": "news",
+    "ticker": null,
+    "title": "KE prognozuje spowolnienie wzrostu PKB Polski w '27 do 2,7 proc. z 3,5 proc. w '26",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/ke-prognozuje-spowolnienie-wzrostu-pkb-polski-w-27-do-27-proc-z-35-proc-w-26",
+    "src": "strefainwestorow",
+    "flags": [
+     "prognoza"
+    ]
+   },
+   {
     "time": "10:55",
     "kind": "news",
     "ticker": null,
@@ -399,6 +443,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "11:03",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeks ZEW w Niemczech w XI: +35,6 pkt. Konsensus: +28,8 pkt.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441453",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:53",
     "kind": "news",
@@ -497,6 +550,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:08",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźniki referencyjne - EURIBOR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441456",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:56",
     "kind": "espi",

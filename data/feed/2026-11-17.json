@@ -1,7 +1,100 @@
 {
  "date": "2026-11-17",
- "count": 104,
+ "count": 112,
  "items": [
+  {
+   "id": "bossa-espi-109847",
+   "date": "2026-11-17",
+   "time": "11:10",
+   "ts": "2026-11-17T11:10:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PGE POLSKA GRUPA ENERGETYCZNA S.A.",
+   "title": "Informacja o transakcjach w trybie art. 19 Rozporządzenia MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109847"
+  },
+  {
+   "id": "strefa-b126d7e791cf",
+   "date": "2026-11-17",
+   "time": "11:08",
+   "ts": "2026-11-17T11:08:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Polska spółka JRH ASI i były minister obrony Ukrainy Mykhailo Fedorov podpisują umowę o współpracy w obszarze technologii obronnych",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/polska-spolka-jrh-asi-i-byly-minister-obrony-ukrainy-mykhailo-fedorov-podpisuja"
+  },
+  {
+   "id": "bossa-pap-441456",
+   "date": "2026-11-17",
+   "time": "11:08",
+   "ts": "2026-11-17T11:08:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne - EURIBOR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441456"
+  },
+  {
+   "id": "bossa-pap-441455",
+   "date": "2026-11-17",
+   "time": "11:07",
+   "ts": "2026-11-17T11:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KE prognozuje dla Polski deficyt gg w '27 r. na poziomie 7,1 proc. PKB, w '28 r. na poziomie 7,2 proc. PKB",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441455"
+  },
+  {
+   "id": "strefa-e92cb810f324",
+   "date": "2026-11-17",
+   "time": "11:05",
+   "ts": "2026-11-17T11:05:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "KE prognozuje dla Polski deficyt gg w '27 r. na poziomie 7,1 proc. PKB, w '28 r. na poziomie 7,2 proc. PKB",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/ke-prognozuje-dla-polski-deficyt-gg-w-27-r-na-poziomie-71-proc-pkb-w-28-r-na"
+  },
+  {
+   "id": "bossa-pap-441454",
+   "date": "2026-11-17",
+   "time": "11:04",
+   "ts": "2026-11-17T11:04:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KE prognozuje spowolnienie wzrostu PKB Polski w '27 do 2,7 proc. z 3,5 proc. w '26",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441454"
+  },
+  {
+   "id": "bossa-pap-441453",
+   "date": "2026-11-17",
+   "time": "11:03",
+   "ts": "2026-11-17T11:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeks ZEW w Niemczech w XI: +35,6 pkt. Konsensus: +28,8 pkt.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441453"
+  },
+  {
+   "id": "strefa-f167857d2a7a",
+   "date": "2026-11-17",
+   "time": "10:56",
+   "ts": "2026-11-17T10:56:11+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "KE prognozuje spowolnienie wzrostu PKB Polski w '27 do 2,7 proc. z 3,5 proc. w '26",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/ke-prognozuje-spowolnienie-wzrostu-pkb-polski-w-27-do-27-proc-z-35-proc-w-26"
+  },
   {
    "id": "bossa-espi-109846",
    "date": "2026-11-17",
