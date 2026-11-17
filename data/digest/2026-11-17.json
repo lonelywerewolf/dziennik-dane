@@ -2,7 +2,7 @@
  "date": "2026-11-17",
  "counts": {
   "podsumowania": 11,
-  "wyniki": 13,
+  "wyniki": 14,
   "rekomendacje": 0,
   "korporacyjne": 20,
   "makro_pl": 15,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 1,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 34
+  "pozostale": 35
  },
- "duplicatesRemoved": 50,
- "total": 157,
+ "duplicatesRemoved": 54,
+ "total": 163,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -120,6 +120,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "12:37",
+    "kind": "news",
+    "ticker": null,
+    "title": "IFL w III kw. z przychodami 1,96 mln zł, EBITDA 903 tys. zł i zyskiem netto 745 tys. zł - od początku roku portfel leasingowy wzrósł o 23,9% r/r do 21,78 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/ifl-w-iii-kw-z-przychodami-196-mln-zl-ebitda-903-tys-zl-i-zyskiem-netto-745-tys",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "11:17",
     "kind": "news",
@@ -734,6 +743,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:48",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Cena maksymalna dla benzyny Pb95 w środę wyniesie 5,99 zł/l, dla ON 7,57 zł/l",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441499",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:36",
     "kind": "pap",

@@ -1,7 +1,78 @@
 {
  "date": "2026-11-17",
- "count": 157,
+ "count": 163,
  "items": [
+  {
+   "id": "bossa-pap-441499",
+   "date": "2026-11-17",
+   "time": "12:48",
+   "ts": "2026-11-17T12:48:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Cena maksymalna dla benzyny Pb95 w środę wyniesie 5,99 zł/l, dla ON 7,57 zł/l",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441499"
+  },
+  {
+   "id": "bossa-espi-109871",
+   "date": "2026-11-17",
+   "time": "12:46",
+   "ts": "2026-11-17T12:46:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF WIG20TR PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 232 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109871"
+  },
+  {
+   "id": "bossa-espi-109870",
+   "date": "2026-11-17",
+   "time": "12:45",
+   "ts": "2026-11-17T12:45:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF WIG20 TR + mWIG40 TR PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109870"
+  },
+  {
+   "id": "bossa-espi-109869",
+   "date": "2026-11-17",
+   "time": "12:42",
+   "ts": "2026-11-17T12:42:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF OBLIGACJI 6M PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 240 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109869"
+  },
+  {
+   "id": "bossa-espi-109868",
+   "date": "2026-11-17",
+   "time": "12:40",
+   "ts": "2026-11-17T12:40:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF MSCI WORLD PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109868"
+  },
+  {
+   "id": "strefa-927b4bba8278",
+   "date": "2026-11-17",
+   "time": "12:37",
+   "ts": "2026-11-17T12:37:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "IFL w III kw. z przychodami 1,96 mln zł, EBITDA 903 tys. zł i zyskiem netto 745 tys. zł - od początku roku portfel leasingowy wzrósł o 23,9% r/r do 21,78 mln zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/ifl-w-iii-kw-z-przychodami-196-mln-zl-ebitda-903-tys-zl-i-zyskiem-netto-745-tys"
+  },
   {
    "id": "bossa-espi-109867",
    "date": "2026-11-17",
