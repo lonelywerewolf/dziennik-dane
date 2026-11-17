@@ -12,10 +12,10 @@
   "fundusze_drobne": 10,
   "twoje_spolki": 5,
   "obserwowane": 0,
-  "pozostale": 63
+  "pozostale": 64
  },
  "duplicatesRemoved": 117,
- "total": 338,
+ "total": 339,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1550,6 +1550,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "20:16",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KPRM: Premier o wotum nieufności: To polityczna hucpa (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441635",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "19:46",
     "kind": "pap",
