@@ -1,7 +1,78 @@
 {
  "date": "2026-11-17",
- "count": 8,
+ "count": 14,
  "items": [
+  {
+   "id": "strefa-36e1532e655b",
+   "date": "2026-11-17",
+   "time": "06:34",
+   "ts": "2026-11-17T06:34:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Rentowności obligacji wybranych państw (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/rentownosci-obligacji-wybranych-panstw-tabela"
+  },
+  {
+   "id": "bossa-pap-441395",
+   "date": "2026-11-17",
+   "time": "06:34",
+   "ts": "2026-11-17T06:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441395"
+  },
+  {
+   "id": "bossa-espi-103385",
+   "date": "2026-11-17",
+   "time": "06:34",
+   "ts": "2026-11-17T06:34:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MABION S.A.",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-103385"
+  },
+  {
+   "id": "bossa-pap-441394",
+   "date": "2026-11-17",
+   "time": "06:33",
+   "ts": "2026-11-17T06:33:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441394"
+  },
+  {
+   "id": "bossa-pap-441393",
+   "date": "2026-11-17",
+   "time": "06:30",
+   "ts": "2026-11-17T06:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Victoria Dom w '27 chce zwiększyć sprzedaż o ok. 20 proc. (wywiad)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441393"
+  },
+  {
+   "id": "bossa-espi-103384",
+   "date": "2026-11-17",
+   "time": "06:26",
+   "ts": "2026-11-17T06:26:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "GRUPA PRACUJ S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-103384"
+  },
   {
    "id": "bossa-pap-441391",
    "date": "2026-11-17",

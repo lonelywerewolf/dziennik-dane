@@ -5,17 +5,17 @@
   "wyniki": 1,
   "rekomendacje": 0,
   "korporacyjne": 0,
-  "makro_pl": 0,
+  "makro_pl": 1,
   "swiat_rynki": 0,
-  "energetyka_surowce": 1,
+  "energetyka_surowce": 2,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 2
+  "pozostale": 5
  },
- "duplicatesRemoved": 0,
- "total": 8,
+ "duplicatesRemoved": 1,
+ "total": 14,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -69,9 +69,28 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [],
-  "makro_pl": [],
+  "makro_pl": [
+   {
+    "time": "06:34",
+    "kind": "news",
+    "ticker": null,
+    "title": "Rentowności obligacji wybranych państw (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/rentownosci-obligacji-wybranych-panstw-tabela",
+    "src": "strefainwestorow",
+    "flags": []
+   }
+  ],
   "swiat_rynki": [],
   "energetyka_surowce": [
+   {
+    "time": "06:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441395",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "01:19",
     "kind": "espi",
@@ -87,6 +106,33 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "06:34",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MABION S.A.: Q",
+    "url": "https://bossa.pl/analizy/komunikaty#message-103385",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "06:33",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441394",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "06:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Victoria Dom w '27 chce zwiększyć sprzedaż o ok. 20 proc. (wywiad)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441393",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "06:00",
     "kind": "pap",
