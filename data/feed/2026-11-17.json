@@ -1,7 +1,79 @@
 {
  "date": "2026-11-17",
- "count": 179,
+ "count": 185,
  "items": [
+  {
+   "id": "bossa-pap-441518",
+   "date": "2026-11-17",
+   "time": "14:06",
+   "ts": "2026-11-17T14:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Narodowy Bank Węgier pozostawił bez zmian główną stopę na poziomie 5,50 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441518"
+  },
+  {
+   "id": "bossa-espi-109883",
+   "date": "2026-11-17",
+   "time": "14:06",
+   "ts": "2026-11-17T14:06:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 2 x SHORT PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 231 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109883"
+  },
+  {
+   "id": "bossa-espi-109882",
+   "date": "2026-11-17",
+   "time": "14:03",
+   "ts": "2026-11-17T14:03:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "TRAKCJA S.A.",
+   "title": "Szacunkowe wyniki finansowe Grupy Trakcja za okres 9 miesięcy zakończony 30 września 2026 roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109882"
+  },
+  {
+   "id": "bossa-espi-109881",
+   "date": "2026-11-17",
+   "time": "14:00",
+   "ts": "2026-11-17T14:00:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "TRAKCJA S.A.",
+   "title": "Zmiana terminu publikacji raportu okresowego za trzeci kwartał 2026 roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109881"
+  },
+  {
+   "id": "bossa-espi-109880",
+   "date": "2026-11-17",
+   "time": "13:59",
+   "ts": "2026-11-17T13:59:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Bowim",
+   "title": "Zmiana terminu publikacji raportu okresowego za III kwartał 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109880"
+  },
+  {
+   "id": "bossa-espi-109879",
+   "date": "2026-11-17",
+   "time": "13:58",
+   "ts": "2026-11-17T13:58:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF TBSP PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 231 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109879"
+  },
   {
    "id": "bossa-pap-441513",
    "date": "2026-11-17",

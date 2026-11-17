@@ -2,20 +2,20 @@
  "date": "2026-11-17",
  "counts": {
   "podsumowania": 11,
-  "wyniki": 15,
+  "wyniki": 16,
   "rekomendacje": 0,
   "korporacyjne": 23,
   "makro_pl": 17,
-  "swiat_rynki": 8,
+  "swiat_rynki": 9,
   "energetyka_surowce": 5,
   "nieruchomosci": 0,
   "fundusze_drobne": 2,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 40
+  "pozostale": 41
  },
- "duplicatesRemoved": 58,
- "total": 179,
+ "duplicatesRemoved": 61,
+ "total": 185,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -120,6 +120,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "14:03",
+    "kind": "espi",
+    "ticker": null,
+    "title": "TRAKCJA S.A.: Szacunkowe wyniki finansowe Grupy Trakcja za okres 9 miesięcy zakończony 30 września 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-109882",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "13:09",
     "kind": "news",
@@ -669,6 +680,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "14:06",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Narodowy Bank Węgier pozostawił bez zmian główną stopę na poziomie 5,50 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441518",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "11:44",
     "kind": "espi",
     "ticker": null,
@@ -812,6 +832,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "13:59",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Bowim: Zmiana terminu publikacji raportu okresowego za III kwartał 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-109880",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:55",
     "kind": "espi",
