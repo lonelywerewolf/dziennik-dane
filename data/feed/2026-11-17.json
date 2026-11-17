@@ -1,7 +1,79 @@
 {
  "date": "2026-11-17",
- "count": 219,
+ "count": 225,
  "items": [
+  {
+   "id": "bossa-pap-441549",
+   "date": "2026-11-17",
+   "time": "15:22",
+   "ts": "2026-11-17T15:22:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Nationale-Nederlanden OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441549"
+  },
+  {
+   "id": "bossa-pap-441548",
+   "date": "2026-11-17",
+   "time": "15:20",
+   "ts": "2026-11-17T15:20:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Temu może naruszać unijny akt o usługach cyfrowych - KE",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441548"
+  },
+  {
+   "id": "bossa-pap-441547",
+   "date": "2026-11-17",
+   "time": "15:18",
+   "ts": "2026-11-17T15:18:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KPRM: Premier: Zdecydowaliśmy o zamrożeniu cen gazu (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441547"
+  },
+  {
+   "id": "bossa-pap-441546",
+   "date": "2026-11-17",
+   "time": "15:16",
+   "ts": "2026-11-17T15:16:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Unum Życie TUiR chce objąć 1 mln klientów ochroną ubezpieczeniową do 2030 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441546"
+  },
+  {
+   "id": "bossa-pap-441545",
+   "date": "2026-11-17",
+   "time": "15:16",
+   "ts": "2026-11-17T15:16:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MC: Rząd przyjął projekt ustawy o Europejskim Portfelu Tożsamości Cyfrowej (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441545"
+  },
+  {
+   "id": "bossa-espi-109896",
+   "date": "2026-11-17",
+   "time": "15:14",
+   "ts": "2026-11-17T15:14:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BUMECH S.A.",
+   "title": "Zmiana terminu publikacji raportu okresowego za trzy kwartały 2026 roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109896"
+  },
   {
    "id": "bossa-espi-109895",
    "date": "2026-11-17",

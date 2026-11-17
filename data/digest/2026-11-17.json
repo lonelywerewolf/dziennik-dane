@@ -5,17 +5,17 @@
   "wyniki": 16,
   "rekomendacje": 0,
   "korporacyjne": 28,
-  "makro_pl": 21,
-  "swiat_rynki": 10,
+  "makro_pl": 22,
+  "swiat_rynki": 11,
   "energetyka_surowce": 5,
   "nieruchomosci": 0,
-  "fundusze_drobne": 5,
+  "fundusze_drobne": 6,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 49
+  "pozostale": 51
  },
- "duplicatesRemoved": 72,
- "total": 219,
+ "duplicatesRemoved": 73,
+ "total": 225,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -575,6 +575,15 @@
   ],
   "makro_pl": [
    {
+    "time": "15:16",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MC: Rząd przyjął projekt ustawy o Europejskim Portfelu Tożsamości Cyfrowej (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441545",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "15:06",
     "kind": "espi",
     "ticker": null,
@@ -770,6 +779,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "15:18",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KPRM: Premier: Zdecydowaliśmy o zamrożeniu cen gazu (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441547",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "14:53",
     "kind": "pap",
     "ticker": null,
@@ -910,6 +928,15 @@
   "nieruchomosci": [],
   "fundusze_drobne": [
    {
+    "time": "15:22",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Nationale-Nederlanden OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441549",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "15:06",
     "kind": "pap",
     "ticker": null,
@@ -979,6 +1006,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "15:20",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Temu może naruszać unijny akt o usługach cyfrowych - KE",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441548",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:16",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Unum Życie TUiR chce objąć 1 mln klientów ochroną ubezpieczeniową do 2030 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441546",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:05",
     "kind": "pap",
