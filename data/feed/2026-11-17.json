@@ -1,7 +1,19 @@
 {
  "date": "2026-11-17",
- "count": 251,
+ "count": 253,
  "items": [
+  {
+   "id": "bossa-pap-441572",
+   "date": "2026-11-17",
+   "time": "16:33",
+   "ts": "2026-11-17T16:33:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Nabywcami wyemitowanych przez BGK obligacji w euro głównie fundusze inwestycyjne",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441572"
+  },
   {
    "id": "bossa-espi-109904",
    "date": "2026-11-17",
@@ -25,6 +37,17 @@
    "title": "Zmiana porządku obrad Zwyczajnego Walnego Zgromadzenia Spółki",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-109903"
+  },
+  {
+   "id": "strefa-54a2ed5e71e1",
+   "date": "2026-11-17",
+   "time": "16:21",
+   "ts": "2026-11-17T16:21:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Nabywcami wyemitowanych przez BGK obligacji w euro głównie fundusze inwestycyjne",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/nabywcami-wyemitowanych-przez-bgk-obligacji-w-euro-glownie-fundusze"
   },
   {
    "id": "bossa-pap-441569",
