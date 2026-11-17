@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "id": "c14f243973ef",
+   "ticker": "NVDA",
+   "time": "2026-11-17T23:04+01:00",
+   "title": "NVIDIA Q3 Profit More Than Doubles",
+   "url": "https://www.nasdaq.com/articles/nvidia-q3-profit-more-doubles",
+   "src": "nasdaq",
+   "summary": "(RTTNews) - NVIDIA Corporation (NVDA) on Tuesday reported a record profit for the third quarter results, with revenue more than doubling from a year earlier on strong demand for its data center products."
+  },
+  {
+   "id": "ccb28aa623db",
+   "ticker": "NVDA",
+   "time": "2026-11-17T22:55+01:00",
+   "title": "Huang Open To Returning As Nvidia CEO During Board Review",
+   "url": "https://www.nasdaq.com/articles/huang-open-returning-nvidia-ceo-during-board-review",
+   "src": "nasdaq",
+   "summary": "(RTTNews) - Jensen Huang has said he would be honored to return as Nvidia (NVDA) CEO if the board believes his reinstatement is in the best interests of shareholders, employees, and the company. This is his first public statement since stepping down after 33 years leading the AI"
+  },
+  {
    "id": "9355b38e5de1",
    "ticker": "NVDA",
    "time": "2026-11-17T22:30+01:00",
@@ -14635,5 +14653,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-17T22:59:32+01:00"
+ "updatedAt": "2026-11-17T23:10:32+01:00"
 }
