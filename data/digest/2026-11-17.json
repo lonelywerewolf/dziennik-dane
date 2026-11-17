@@ -2,7 +2,7 @@
  "date": "2026-11-17",
  "counts": {
   "podsumowania": 15,
-  "wyniki": 21,
+  "wyniki": 22,
   "rekomendacje": 1,
   "korporacyjne": 40,
   "makro_pl": 27,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 9,
   "twoje_spolki": 4,
   "obserwowane": 0,
-  "pozostale": 60
+  "pozostale": 61
  },
- "duplicatesRemoved": 94,
- "total": 292,
+ "duplicatesRemoved": 95,
+ "total": 295,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -158,6 +158,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "18:07",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Zysk netto j.d. Inter Cars w III kw. '26 wyniósł 290,7 mln zł wobec 298,2 mln zł konsensusu",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441606",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:34",
     "kind": "news",
@@ -1360,6 +1369,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:48",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zamknięcia na giełdach w Europie (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/zamkniecia-na-gieldach-w-europie-tabela",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:37",
     "kind": "espi",
