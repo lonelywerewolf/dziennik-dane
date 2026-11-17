@@ -4,7 +4,7 @@
   "podsumowania": 10,
   "wyniki": 12,
   "rekomendacje": 0,
-  "korporacyjne": 8,
+  "korporacyjne": 9,
   "makro_pl": 6,
   "swiat_rynki": 5,
   "energetyka_surowce": 5,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 20
+  "pozostale": 22
  },
- "duplicatesRemoved": 27,
- "total": 93,
+ "duplicatesRemoved": 28,
+ "total": 97,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -232,6 +232,15 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "10:17",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KRUK S.A.: Informacja o transakcjach na akcjach KRUK S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-109844",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:12",
     "kind": "news",
@@ -470,6 +479,24 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "10:25",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MILITARY GROUP S.A.: Informacja na temat planów spółki i spółek zależnych w zakresie rynków kapitałowych oraz statusu projektów inwestycyjnych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-109845",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:14",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa Pracuj szuka celów akwizycyjnych zarówno w obszarze pre-, jak i post-hire",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/grupa-pracuj-szuka-celow-akwizycyjnych-zarowno-w-obszarze-pre-jak-i-post-hire",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "10:09",
     "kind": "pap",

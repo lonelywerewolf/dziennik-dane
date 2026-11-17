@@ -1,7 +1,54 @@
 {
  "date": "2026-11-17",
- "count": 93,
+ "count": 97,
  "items": [
+  {
+   "id": "bossa-espi-109845",
+   "date": "2026-11-17",
+   "time": "10:25",
+   "ts": "2026-11-17T10:25:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MILITARY GROUP S.A.",
+   "title": "Informacja na temat planów spółki i spółek zależnych w zakresie rynków kapitałowych oraz statusu projektów inwestycyjnych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109845"
+  },
+  {
+   "id": "bossa-pap-441448",
+   "date": "2026-11-17",
+   "time": "10:24",
+   "ts": "2026-11-17T10:24:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Grupa Pracuj szuka celów akwizycyjnych zarówno w obszarze pre-, jak i post-hire",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441448"
+  },
+  {
+   "id": "bossa-espi-109844",
+   "date": "2026-11-17",
+   "time": "10:17",
+   "ts": "2026-11-17T10:17:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KRUK S.A.",
+   "title": "Informacja o transakcjach na akcjach KRUK S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109844"
+  },
+  {
+   "id": "strefa-2573ca991704",
+   "date": "2026-11-17",
+   "time": "10:14",
+   "ts": "2026-11-17T10:14:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grupa Pracuj szuka celów akwizycyjnych zarówno w obszarze pre-, jak i post-hire",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/grupa-pracuj-szuka-celow-akwizycyjnych-zarowno-w-obszarze-pre-jak-i-post-hire"
+  },
   {
    "id": "bossa-pap-441446",
    "date": "2026-11-17",
