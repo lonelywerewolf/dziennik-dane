@@ -4,18 +4,18 @@
   "podsumowania": 11,
   "wyniki": 16,
   "rekomendacje": 0,
-  "korporacyjne": 23,
-  "makro_pl": 17,
+  "korporacyjne": 24,
+  "makro_pl": 18,
   "swiat_rynki": 9,
   "energetyka_surowce": 5,
   "nieruchomosci": 0,
   "fundusze_drobne": 2,
-  "twoje_spolki": 0,
+  "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 42
+  "pozostale": 43
  },
- "duplicatesRemoved": 62,
- "total": 187,
+ "duplicatesRemoved": 64,
+ "total": 193,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -282,6 +282,17 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "14:21",
+    "kind": "espi",
+    "ticker": null,
+    "title": "CELON PHARMA S.A.: Zawarcie umowy o dofinansowanie projektu JARVIS w ramach programu Fundusze Europejskie dla Nowoczesnej Gospodarki 2021 - 2027",
+    "url": "https://bossa.pl/analizy/komunikaty#message-109884",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
     "time": "13:42",
     "kind": "espi",
     "ticker": null,
@@ -520,6 +531,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "14:22",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BANK GOSPODARSTWA KRAJOWEGO: Oprocentowanie obligacji serii FPU1130",
+    "url": "https://bossa.pl/analizy/komunikaty#message-109885",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:40",
     "kind": "pap",
@@ -829,9 +849,28 @@
     "flags": []
    }
   ],
-  "twoje_spolki": [],
+  "twoje_spolki": [
+   {
+    "time": "14:20",
+    "kind": "news",
+    "ticker": "CBF",
+    "title": "cyber_Folks z dużym komfortem podchodzi do realizacji celów ESOP na 2026 - 2027",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/cyberfolks-z-duzym-komfortem-podchodzi-do-realizacji-celow-esop-na-2026-2027",
+    "src": "strefainwestorow",
+    "flags": []
+   }
+  ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "14:17",
+    "kind": "news",
+    "ticker": null,
+    "title": "Scope Fluidics aktualizuje model finansowania spółek celowych w Scope Discovery",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/scope-fluidics-aktualizuje-model-finansowania-spolek-celowych-w-scope-discovery",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "13:59",
     "kind": "espi",

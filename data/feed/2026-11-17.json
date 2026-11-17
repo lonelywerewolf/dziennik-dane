@@ -1,7 +1,77 @@
 {
  "date": "2026-11-17",
- "count": 187,
+ "count": 193,
  "items": [
+  {
+   "id": "bossa-pap-441524",
+   "date": "2026-11-17",
+   "time": "14:26",
+   "ts": "2026-11-17T14:26:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "cyber_Folks z dużym komfortem podchodzi do realizacji celów ESOP na 2026 - 2027",
+   "ticker": "CBF",
+   "url": "https://bossa.pl/analizy/komunikaty#message-441524"
+  },
+  {
+   "id": "bossa-espi-109886",
+   "date": "2026-11-17",
+   "time": "14:25",
+   "ts": "2026-11-17T14:25:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BANK GOSPODARSTWA KRAJOWEGO",
+   "title": "Oprocentowanie obligacji serii FPU1130",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109886"
+  },
+  {
+   "id": "bossa-espi-109885",
+   "date": "2026-11-17",
+   "time": "14:22",
+   "ts": "2026-11-17T14:22:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BANK GOSPODARSTWA KRAJOWEGO",
+   "title": "Oprocentowanie obligacji serii FPU1130",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109885"
+  },
+  {
+   "id": "bossa-espi-109884",
+   "date": "2026-11-17",
+   "time": "14:21",
+   "ts": "2026-11-17T14:21:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "CELON PHARMA S.A.",
+   "title": "Zawarcie umowy o dofinansowanie projektu JARVIS w ramach programu Fundusze Europejskie dla Nowoczesnej Gospodarki 2021 - 2027",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109884"
+  },
+  {
+   "id": "strefa-db0578f94847",
+   "date": "2026-11-17",
+   "time": "14:20",
+   "ts": "2026-11-17T14:20:53+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "cyber_Folks z dużym komfortem podchodzi do realizacji celów ESOP na 2026 - 2027",
+   "ticker": "CBF",
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/cyberfolks-z-duzym-komfortem-podchodzi-do-realizacji-celow-esop-na-2026-2027"
+  },
+  {
+   "id": "strefa-7db340ae4b5b",
+   "date": "2026-11-17",
+   "time": "14:17",
+   "ts": "2026-11-17T14:17:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Scope Fluidics aktualizuje model finansowania spółek celowych w Scope Discovery",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/scope-fluidics-aktualizuje-model-finansowania-spolek-celowych-w-scope-discovery"
+  },
   {
    "id": "bossa-pap-441520",
    "date": "2026-11-17",
