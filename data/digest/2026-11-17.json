@@ -4,9 +4,9 @@
   "podsumowania": 15,
   "wyniki": 26,
   "rekomendacje": 1,
-  "korporacyjne": 42,
-  "makro_pl": 29,
-  "swiat_rynki": 18,
+  "korporacyjne": 44,
+  "makro_pl": 30,
+  "swiat_rynki": 19,
   "energetyka_surowce": 6,
   "nieruchomosci": 0,
   "fundusze_drobne": 10,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 62
  },
- "duplicatesRemoved": 110,
- "total": 324,
+ "duplicatesRemoved": 115,
+ "total": 333,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -431,6 +431,26 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "19:24",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GPW: w sprawie zawieszenia obrotu na Catalyst obligacjami na okaziciela serii 1 spółki BANK POLSKA KASA OPIEKI S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441631",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "19:24",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Niemiec Brunnermeier kandydatem do zarządu EBC; Hiszpan Hernandez de Cos z największą szansą na prezesurę - \"FT\"",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441630",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "19:05",
     "kind": "pap",
@@ -863,6 +883,15 @@
   ],
   "makro_pl": [
    {
+    "time": "19:19",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Rząd chce przedłużyć obowiązek dywersyfikacji dostaw gazu z zagranicy na lata 2027–36",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441626",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "19:04",
     "kind": "pap",
     "ticker": null,
@@ -1129,6 +1158,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "19:06",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: w sprawie dopuszczenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów inwestycyjnych serii BX emitowanych przez EQUES AKCJI SEKTORA PRYWATNEGO FUNDUSZ INWESTYCYJNY ZAMKNIĘTY",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/gpw-w-sprawie-dopuszczenia-do-obrotu-gieldowego-na-glownym-rynku-gpw",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "18:45",
     "kind": "pap",

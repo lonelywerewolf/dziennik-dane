@@ -1,7 +1,101 @@
 {
  "date": "2026-11-17",
- "count": 324,
+ "count": 333,
  "items": [
+  {
+   "id": "bossa-pap-441631",
+   "date": "2026-11-17",
+   "time": "19:24",
+   "ts": "2026-11-17T19:24:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie zawieszenia obrotu na Catalyst obligacjami na okaziciela serii 1 spółki BANK POLSKA KASA OPIEKI S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441631"
+  },
+  {
+   "id": "bossa-pap-441630",
+   "date": "2026-11-17",
+   "time": "19:24",
+   "ts": "2026-11-17T19:24:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Niemiec Brunnermeier kandydatem do zarządu EBC; Hiszpan Hernandez de Cos z największą szansą na prezesurę - \"FT\"",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441630"
+  },
+  {
+   "id": "strefa-e541491cc712",
+   "date": "2026-11-17",
+   "time": "19:23",
+   "ts": "2026-11-17T19:23:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie dopuszczenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów inwestycyjnych serii P56 emitowanych przez EQUES AKUMULACJI MAJĄTKU FUNDUSZ INWESTYCYJNY ZAMKNIĘTY",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/gpw-w-sprawie-dopuszczenia-do-obrotu-gieldowego-na-glownym-rynku-gpw-1"
+  },
+  {
+   "id": "bossa-pap-441629",
+   "date": "2026-11-17",
+   "time": "19:23",
+   "ts": "2026-11-17T19:23:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie dopuszczenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów inwestycyjnych serii P56 emitowanych przez EQUES AKUMULACJI MAJĄTKU FUNDUSZ INWESTYCYJNY ZAMKNIĘTY",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441629"
+  },
+  {
+   "id": "strefa-e7fe98dbd666",
+   "date": "2026-11-17",
+   "time": "19:21",
+   "ts": "2026-11-17T19:21:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie dopuszczenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów inwestycyjnych serii DF emitowanych przez EQUES AKTYWNEGO INWESTOWANIA FUNDUSZ INWESTYCYJNY ZAMKNIĘTY",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/gpw-w-sprawie-dopuszczenia-do-obrotu-gieldowego-na-glownym-rynku-gpw-0"
+  },
+  {
+   "id": "bossa-pap-441628",
+   "date": "2026-11-17",
+   "time": "19:21",
+   "ts": "2026-11-17T19:21:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie dopuszczenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów inwestycyjnych serii DF emitowanych przez EQUES AKTYWNEGO INWESTOWANIA FUNDUSZ INWESTYCYJNY ZAMKNIĘTY",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441628"
+  },
+  {
+   "id": "bossa-pap-441627",
+   "date": "2026-11-17",
+   "time": "19:20",
+   "ts": "2026-11-17T19:20:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie dopuszczenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów inwestycyjnych serii BX emitowanych przez EQUES AKCJI SEKTORA PRYWATNEGO FUNDUSZ INWESTYCYJNY ZAMKNIĘTY",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441627"
+  },
+  {
+   "id": "bossa-pap-441626",
+   "date": "2026-11-17",
+   "time": "19:19",
+   "ts": "2026-11-17T19:19:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Rząd chce przedłużyć obowiązek dywersyfikacji dostaw gazu z zagranicy na lata 2027–36",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441626"
+  },
   {
    "id": "bossa-pap-441625",
    "date": "2026-11-17",
@@ -13,6 +107,17 @@
    "title": "Nationale-Nederlanden PTE SA informuje",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-441625"
+  },
+  {
+   "id": "strefa-b67d54709050",
+   "date": "2026-11-17",
+   "time": "19:06",
+   "ts": "2026-11-17T19:06:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie dopuszczenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów inwestycyjnych serii BX emitowanych przez EQUES AKCJI SEKTORA PRYWATNEGO FUNDUSZ INWESTYCYJNY ZAMKNIĘTY",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/gpw-w-sprawie-dopuszczenia-do-obrotu-gieldowego-na-glownym-rynku-gpw"
   },
   {
    "id": "bossa-pap-441624",
