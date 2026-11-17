@@ -1,7 +1,79 @@
 {
  "date": "2026-11-17",
- "count": 225,
+ "count": 232,
  "items": [
+  {
+   "id": "bossa-pap-441555",
+   "date": "2026-11-17",
+   "time": "15:33",
+   "ts": "2026-11-17T15:33:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Po otwarciu sesji DJI spada o 0,75 proc., a S&P500 traci 0,22 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441555"
+  },
+  {
+   "id": "bossa-pap-441554",
+   "date": "2026-11-17",
+   "time": "15:31",
+   "ts": "2026-11-17T15:31:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Produkcja przemysłowa w USA w X: -0,4 proc. mdm. Konsensus: +0,1 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441554"
+  },
+  {
+   "id": "bossa-pap-441553",
+   "date": "2026-11-17",
+   "time": "15:31",
+   "ts": "2026-11-17T15:31:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "OFE PZU wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441553"
+  },
+  {
+   "id": "bossa-espi-109897",
+   "date": "2026-11-17",
+   "time": "15:29",
+   "ts": "2026-11-17T15:29:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "INTROL S.A.",
+   "title": "Zawarcie umowy istotnej przez jednostkę zależną Emitenta",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109897"
+  },
+  {
+   "id": "bossa-pap-441551",
+   "date": "2026-11-17",
+   "time": "15:27",
+   "ts": "2026-11-17T15:27:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MC: Bezpieczna cyfrowa przyszłość - zapraszamy do udziału w konsultacjach społecznych (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441551"
+  },
+  {
+   "id": "bossa-pap-441550",
+   "date": "2026-11-17",
+   "time": "15:24",
+   "ts": "2026-11-17T15:24:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MRiT: Nowe zasady usuwania azbestu i ochrony pracowników (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441550"
+  },
   {
    "id": "bossa-pap-441549",
    "date": "2026-11-17",
@@ -85,6 +157,17 @@
    "title": "Korekta raportu bieżącego nr 22/2026 - Zwołanie Nadzwyczajnego Walnego Zgromadzenia Marvipol Development S.A.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-109895"
+  },
+  {
+   "id": "strefa-c2ec0271994b",
+   "date": "2026-11-17",
+   "time": "15:10",
+   "ts": "2026-11-17T15:10:34+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Po otwarciu sesji DJI spada o 0,75 proc., a S&P500 traci 0,22 proc.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/po-otwarciu-sesji-dji-spada-o-075-proc-sp500-traci-022-proc"
   },
   {
    "id": "bossa-pap-441541",
