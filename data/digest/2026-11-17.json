@@ -4,7 +4,7 @@
   "podsumowania": 10,
   "wyniki": 12,
   "rekomendacje": 0,
-  "korporacyjne": 9,
+  "korporacyjne": 10,
   "makro_pl": 7,
   "swiat_rynki": 5,
   "energetyka_surowce": 5,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 23
+  "pozostale": 24
  },
- "duplicatesRemoved": 28,
- "total": 99,
+ "duplicatesRemoved": 31,
+ "total": 104,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -233,6 +233,15 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "10:51",
+    "kind": "news",
+    "ticker": null,
+    "title": "European Defence Group (EDG) zapowiada debiuty giełdowe: jedna spółka portfelowa w drodze na główny rynek GPW, dwie na NewConnect",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/european-defence-group-edg-zapowiada-debiuty-gieldowe-jedna-spolka-portfelowa-w",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "10:17",
     "kind": "espi",
     "ticker": null,
@@ -326,6 +335,15 @@
   ],
   "makro_pl": [
    {
+    "time": "10:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "BGK wycenił 10-letnie obligacje za 750 mln EUR na rzecz KFD",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/bgk-wycenil-10-letnie-obligacje-za-750-mln-eur-na-rzecz-kfd",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "10:37",
     "kind": "pap",
     "ticker": null,
@@ -371,15 +389,6 @@
     "flags": []
    },
    {
-    "time": "06:41",
-    "kind": "pap",
-    "ticker": null,
-    "title": "BGK wycenił 10-letnie obligacje za 750 mln EUR na rzecz KFD",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441401",
-    "src": "bossa",
-    "flags": []
-   },
-   {
     "time": "06:34",
     "kind": "news",
     "ticker": null,
@@ -391,20 +400,20 @@
   ],
   "swiat_rynki": [
    {
+    "time": "10:53",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny gazu w Europie rosną, bo Iran kontynuuje ataki na bazy USA na Bliskim Wschodzie",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/ceny-gazu-w-europie-rosna-bo-iran-kontynuuje-ataki-na-bazy-usa-na-bliskim",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "10:06",
     "kind": "espi",
     "ticker": null,
     "title": "JRH ASI S.A.: Podpisanie porozumienia o współpracy w obszarze technologii obronnych ze spółką tworzoną przez Mychajła Fedorowa",
     "url": "https://bossa.pl/analizy/komunikaty#message-109842",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "09:38",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Ceny gazu w Europie rosną, bo Iran kontynuuje ataki na bazy USA na Bliskim Wschodzie",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441438",
     "src": "bossa",
     "flags": []
    },
@@ -489,12 +498,32 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "10:56",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ACTION S.A.: Korekta raporty bieżącego 58/2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-109846",
+    "src": "bossa",
+    "flags": [
+     "prognoza"
+    ]
+   },
+   {
     "time": "10:33",
     "kind": "pap",
     "ticker": null,
     "title": "Wskaźniki referencyjne - SONIA",
     "url": "https://bossa.pl/analizy/komunikaty#message-441450",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:25",
+    "kind": "news",
+    "ticker": null,
+    "title": "Victoria Dom w '27 chce zwiększyć sprzedaż o ok. 20 proc. (wywiad)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/victoria-dom-w-27-chce-zwiekszyc-sprzedaz-o-ok-20-proc-wywiad",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -674,15 +703,6 @@
     "ticker": null,
     "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
     "url": "https://bossa.pl/analizy/komunikaty#message-441394",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "06:30",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Victoria Dom w '27 chce zwiększyć sprzedaż o ok. 20 proc. (wywiad)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441393",
     "src": "bossa",
     "flags": []
    },

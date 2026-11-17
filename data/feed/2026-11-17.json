@@ -1,7 +1,52 @@
 {
  "date": "2026-11-17",
- "count": 99,
+ "count": 104,
  "items": [
+  {
+   "id": "bossa-espi-109846",
+   "date": "2026-11-17",
+   "time": "10:56",
+   "ts": "2026-11-17T10:56:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ACTION S.A.",
+   "title": "Korekta raporty bieżącego 58/2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109846"
+  },
+  {
+   "id": "strefa-3e3d9ed1f6a6",
+   "date": "2026-11-17",
+   "time": "10:55",
+   "ts": "2026-11-17T10:55:22+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "BGK wycenił 10-letnie obligacje za 750 mln EUR na rzecz KFD",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/bgk-wycenil-10-letnie-obligacje-za-750-mln-eur-na-rzecz-kfd"
+  },
+  {
+   "id": "strefa-1e58a076d87b",
+   "date": "2026-11-17",
+   "time": "10:53",
+   "ts": "2026-11-17T10:53:34+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ceny gazu w Europie rosną, bo Iran kontynuuje ataki na bazy USA na Bliskim Wschodzie",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/ceny-gazu-w-europie-rosna-bo-iran-kontynuuje-ataki-na-bazy-usa-na-bliskim"
+  },
+  {
+   "id": "strefa-8a660ceb632d",
+   "date": "2026-11-17",
+   "time": "10:51",
+   "ts": "2026-11-17T10:51:26+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "European Defence Group (EDG) zapowiada debiuty giełdowe: jedna spółka portfelowa w drodze na główny rynek GPW, dwie na NewConnect",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/european-defence-group-edg-zapowiada-debiuty-gieldowe-jedna-spolka-portfelowa-w"
+  },
   {
    "id": "bossa-pap-441451",
    "date": "2026-11-17",
@@ -25,6 +70,17 @@
    "title": "Wskaźniki referencyjne - SONIA",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-441450"
+  },
+  {
+   "id": "strefa-116dbe28fa0a",
+   "date": "2026-11-17",
+   "time": "10:25",
+   "ts": "2026-11-17T10:25:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Victoria Dom w '27 chce zwiększyć sprzedaż o ok. 20 proc. (wywiad)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/victoria-dom-w-27-chce-zwiekszyc-sprzedaz-o-ok-20-proc-wywiad"
   },
   {
    "id": "bossa-espi-109845",
