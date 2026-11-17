@@ -1,7 +1,55 @@
 {
  "date": "2026-11-17",
- "count": 167,
+ "count": 172,
  "items": [
+  {
+   "id": "bossa-pap-441507",
+   "date": "2026-11-17",
+   "time": "13:08",
+   "ts": "2026-11-17T13:08:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "HalfPrice rozpoczął sprzedaż w Belgii",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441507"
+  },
+  {
+   "id": "bossa-pap-441506",
+   "date": "2026-11-17",
+   "time": "13:08",
+   "ts": "2026-11-17T13:08:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GKS GIEKSA KATOWICE SA (18/2026) Odwołanie lub rezygnacja osoby zarządzającej lub nadzorującej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441506"
+  },
+  {
+   "id": "bossa-espi-109874",
+   "date": "2026-11-17",
+   "time": "13:07",
+   "ts": "2026-11-17T13:07:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MOL",
+   "title": "OFAC guidance regarding crude oil imports through the Druzhba pipeline extended",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109874"
+  },
+  {
+   "id": "bossa-pap-441504",
+   "date": "2026-11-17",
+   "time": "13:05",
+   "ts": "2026-11-17T13:05:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MRiT: Nowelizacja ustawy o cmentarzach i chowaniu zmarłych (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441504"
+  },
   {
    "id": "bossa-pap-441503",
    "date": "2026-11-17",
@@ -61,6 +109,17 @@
    "title": "Cena maksymalna dla benzyny Pb95 w środę wyniesie 5,99 zł/l, dla ON 7,57 zł/l",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-441499"
+  },
+  {
+   "id": "strefa-dcc16fe8b0d3",
+   "date": "2026-11-17",
+   "time": "12:46",
+   "ts": "2026-11-17T12:46:15+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "HalfPrice rozpoczął sprzedaż w Belgii",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/halfprice-rozpoczal-sprzedaz-w-belgii"
   },
   {
    "id": "bossa-espi-109871",
