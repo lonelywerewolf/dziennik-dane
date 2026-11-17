@@ -1,7 +1,89 @@
 {
  "date": "2026-11-17",
- "count": 86,
+ "count": 93,
  "items": [
+  {
+   "id": "bossa-pap-441446",
+   "date": "2026-11-17",
+   "time": "10:13",
+   "ts": "2026-11-17T10:13:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Koalicja nie ustaliła jeszcze, kiedy Sejm głosować będzie ws. TS dla prezesa NBP - marszałek",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441446"
+  },
+  {
+   "id": "strefa-7fb48b1a55d8",
+   "date": "2026-11-17",
+   "time": "10:12",
+   "ts": "2026-11-17T10:12:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Koalicja nie ustaliła jeszcze, kiedy Sejm głosować będzie ws. TS dla prezesa NBP - marszałek",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/koalicja-nie-ustalila-jeszcze-kiedy-sejm-glosowac-bedzie-ws-ts-dla-prezesa-nbp"
+  },
+  {
+   "id": "bossa-pap-441445",
+   "date": "2026-11-17",
+   "time": "10:11",
+   "ts": "2026-11-17T10:11:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Grupa Pracuj podtrzymuje prognozy dot. przychodów z serwisów; liczy na ponad 400 mln zł skor. EBITDA w '27",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441445"
+  },
+  {
+   "id": "bossa-pap-441444",
+   "date": "2026-11-17",
+   "time": "10:09",
+   "ts": "2026-11-17T10:09:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Panattoni wynajęło w Polsce ponad 338 tys. m kw. powierzchni w III kwartale 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441444"
+  },
+  {
+   "id": "bossa-espi-109843",
+   "date": "2026-11-17",
+   "time": "10:07",
+   "ts": "2026-11-17T10:07:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "European Defence Group S.A.",
+   "title": "Aktualizacja celów strategicznych Spółki w zakresie rynków kapitałowych oraz statusu projektów inwestycyjnych.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109843"
+  },
+  {
+   "id": "bossa-espi-109842",
+   "date": "2026-11-17",
+   "time": "10:06",
+   "ts": "2026-11-17T10:06:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "JRH ASI S.A.",
+   "title": "Podpisanie porozumienia o współpracy w obszarze technologii obronnych ze spółką tworzoną przez Mychajła Fedorowa",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109842"
+  },
+  {
+   "id": "strefa-ca99a5816da3",
+   "date": "2026-11-17",
+   "time": "09:56",
+   "ts": "2026-11-17T09:56:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grupa Pracuj podtrzymuje prognozy dot. przychodów z serwisów; liczy na ponad 400 mln zł skor. EBITDA w '27",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/grupa-pracuj-podtrzymuje-prognozy-dot-przychodow-z-serwisow-liczy-na-ponad-400"
+  },
   {
    "id": "bossa-pap-441441",
    "date": "2026-11-17",
