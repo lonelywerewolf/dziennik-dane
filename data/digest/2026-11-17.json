@@ -12,10 +12,10 @@
   "fundusze_drobne": 10,
   "twoje_spolki": 5,
   "obserwowane": 0,
-  "pozostale": 66
+  "pozostale": 67
  },
  "duplicatesRemoved": 118,
- "total": 345,
+ "total": 346,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1581,6 +1581,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "20:50",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Awaria szeregu usług Apple",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441642",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "20:42",
     "kind": "espi",
