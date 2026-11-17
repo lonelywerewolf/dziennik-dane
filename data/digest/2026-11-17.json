@@ -9,13 +9,13 @@
   "swiat_rynki": 8,
   "energetyka_surowce": 5,
   "nieruchomosci": 0,
-  "fundusze_drobne": 1,
+  "fundusze_drobne": 2,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 39
+  "pozostale": 40
  },
- "duplicatesRemoved": 57,
- "total": 176,
+ "duplicatesRemoved": 58,
+ "total": 179,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -791,6 +791,15 @@
   "nieruchomosci": [],
   "fundusze_drobne": [
    {
+    "time": "13:56",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PKO BP BANKOWY OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441513",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "12:28",
     "kind": "pap",
     "ticker": null,
@@ -803,6 +812,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "13:55",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SCOPE FLUIDICS S.A.: Aktualizacja modelu finansowania nowych spółek wywodzących się ze Scope Discovery",
+    "url": "https://bossa.pl/analizy/komunikaty#message-109878",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:07",
     "kind": "espi",
