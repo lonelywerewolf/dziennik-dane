@@ -1,7 +1,79 @@
 {
  "date": "2026-11-17",
- "count": 269,
+ "count": 276,
  "items": [
+  {
+   "id": "bossa-pap-441590",
+   "date": "2026-11-17",
+   "time": "17:26",
+   "ts": "2026-11-17T17:26:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wyniki Inter Carsu w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441590"
+  },
+  {
+   "id": "bossa-espi-109912",
+   "date": "2026-11-17",
+   "time": "17:23",
+   "ts": "2026-11-17T17:23:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KOMPAP",
+   "title": "Wykaz Akcjonariuszy posiadających co najmniej 5 % głosów na NWZ Spółki w dniu 17.11.2026r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109912"
+  },
+  {
+   "id": "bossa-pap-441588",
+   "date": "2026-11-17",
+   "time": "17:21",
+   "ts": "2026-11-17T17:21:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "SIGMA DEFENCE SA (35/2026) Informacje o walnym zgromadzeniu - zwołanie WZ z projektami uchwał, zmiany w porządku obrad WZ",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441588"
+  },
+  {
+   "id": "bossa-espi-109910",
+   "date": "2026-11-17",
+   "time": "17:20",
+   "ts": "2026-11-17T17:20:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BORYSZEW",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109910"
+  },
+  {
+   "id": "bossa-pap-441586",
+   "date": "2026-11-17",
+   "time": "17:17",
+   "ts": "2026-11-17T17:17:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Sejm odrzucił wniosek o wyrażenie wotum nieufności wobec rządu Donalda Tuska",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441586"
+  },
+  {
+   "id": "bossa-espi-12049",
+   "date": "2026-11-17",
+   "time": "17:16",
+   "ts": "2026-11-17T17:16:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "INTERCARS",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-12049"
+  },
   {
    "id": "bossa-espi-109909",
    "date": "2026-11-17",
@@ -25,6 +97,17 @@
    "title": "Wyniki Wirtualnej Polski w III kw. 2026 roku vs. konsensus PAP (tabela)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-441583"
+  },
+  {
+   "id": "strefa-cf9c06206952",
+   "date": "2026-11-17",
+   "time": "17:06",
+   "ts": "2026-11-17T17:06:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wyniki Wirtualnej Polski w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/wyniki-wirtualnej-polski-w-iii-kw-2026-roku-vs-konsensus-pap-tabela"
   },
   {
    "id": "bossa-espi-109908",
