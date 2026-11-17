@@ -4,7 +4,7 @@
   "podsumowania": 15,
   "wyniki": 26,
   "rekomendacje": 1,
-  "korporacyjne": 45,
+  "korporacyjne": 48,
   "makro_pl": 31,
   "swiat_rynki": 19,
   "energetyka_surowce": 6,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 10,
   "twoje_spolki": 5,
   "obserwowane": 0,
-  "pozostale": 65
+  "pozostale": 66
  },
- "duplicatesRemoved": 117,
- "total": 340,
+ "duplicatesRemoved": 118,
+ "total": 345,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -431,6 +431,37 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "20:42",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PUŁAWY: Podpisanie przez jednostkę dominującą Emitenta listu zobowiązującego dotyczącego restrukturyzacji określonych zobowiązań wraz ze zmienionymi warunkami i zasadami umowy międzywierzycielskiej oraz pismami kosztowymi.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-122642",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "20:40",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BUMECH S.A.: Informacja o transakcji na akcjach Spółki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-122405",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "20:40",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GRUPA AZOTY SA: Podpisanie listu zobowiązującego dotyczącego restrukturyzacji określonych zobowiązań wraz ze zmienionymi warunkami i zasadami umowy międzywierzycielskiej oraz pismami kosztowymi.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-122362",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "19:34",
     "kind": "news",
@@ -1550,6 +1581,17 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "20:42",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BANK HANDLOWY W WARSZAWIE S.A.: Informacja o decyzji członka Rady Nadzorczej Banku Handlowego w Warszawie S.A. o rezygnacji z funkcji członka Rady Nadzorczej Banku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-122641",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "20:27",
     "kind": "pap",

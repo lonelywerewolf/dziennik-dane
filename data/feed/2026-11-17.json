@@ -1,7 +1,67 @@
 {
  "date": "2026-11-17",
- "count": 340,
+ "count": 345,
  "items": [
+  {
+   "id": "bossa-espi-122803",
+   "date": "2026-11-17",
+   "time": "20:44",
+   "ts": "2026-11-17T20:44:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "POLICE",
+   "title": "Podpisanie listu zobowiązującego dotyczącego restrukturyzacji określonych zobowiązań wraz ze zmienionymi warunkami i zasadami umowy międzywierzycielskiej oraz pismami kosztowymi.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-122803"
+  },
+  {
+   "id": "bossa-espi-122642",
+   "date": "2026-11-17",
+   "time": "20:42",
+   "ts": "2026-11-17T20:42:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PUŁAWY",
+   "title": "Podpisanie przez jednostkę dominującą Emitenta listu zobowiązującego dotyczącego restrukturyzacji określonych zobowiązań wraz ze zmienionymi warunkami i zasadami umowy międzywierzycielskiej oraz pismami kosztowymi.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-122642"
+  },
+  {
+   "id": "bossa-espi-122641",
+   "date": "2026-11-17",
+   "time": "20:42",
+   "ts": "2026-11-17T20:42:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BANK HANDLOWY W WARSZAWIE S.A.",
+   "title": "Informacja o decyzji członka Rady Nadzorczej Banku Handlowego w Warszawie S.A. o rezygnacji z funkcji członka Rady Nadzorczej Banku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-122641"
+  },
+  {
+   "id": "bossa-espi-122405",
+   "date": "2026-11-17",
+   "time": "20:40",
+   "ts": "2026-11-17T20:40:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BUMECH S.A.",
+   "title": "Informacja o transakcji na akcjach Spółki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-122405"
+  },
+  {
+   "id": "bossa-espi-122362",
+   "date": "2026-11-17",
+   "time": "20:40",
+   "ts": "2026-11-17T20:40:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "GRUPA AZOTY SA",
+   "title": "Podpisanie listu zobowiązującego dotyczącego restrukturyzacji określonych zobowiązań wraz ze zmienionymi warunkami i zasadami umowy międzywierzycielskiej oraz pismami kosztowymi.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-122362"
+  },
   {
    "id": "bossa-pap-441636",
    "date": "2026-11-17",
