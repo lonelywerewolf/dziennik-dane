@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "9355b38e5de1",
+   "ticker": "NVDA",
+   "time": "2026-11-17T22:30+01:00",
+   "title": "NVIDIA Corporation Q3 Profit Rises",
+   "url": "https://www.nasdaq.com/articles/nvidia-corporation-q3-profit-rises",
+   "src": "nasdaq",
+   "summary": "(RTTNews) - NVIDIA Corporation (NVDA) released earnings for its third quarter that Increases, from the same period last year"
+  },
+  {
    "id": "f57d3478f59a",
    "ticker": "AVGO",
    "time": "2026-11-17T21:50+01:00",
@@ -14626,5 +14635,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-17T22:37:33+01:00"
+ "updatedAt": "2026-11-17T22:48:32+01:00"
 }
