@@ -2,20 +2,20 @@
  "date": "2026-11-17",
  "counts": {
   "podsumowania": 4,
-  "wyniki": 1,
+  "wyniki": 3,
   "rekomendacje": 0,
   "korporacyjne": 0,
-  "makro_pl": 1,
+  "makro_pl": 2,
   "swiat_rynki": 0,
   "energetyka_surowce": 2,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 5
+  "pozostale": 6
  },
- "duplicatesRemoved": 1,
- "total": 14,
+ "duplicatesRemoved": 4,
+ "total": 21,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -58,6 +58,26 @@
   ],
   "wyniki": [
    {
+    "time": "06:37",
+    "kind": "news",
+    "ticker": null,
+    "title": "Skor. EBITDA Grupy Pracuj w III kw. 2026 r. wyniosła 106,5 mln zł, wobec 100,8 mln zł konsensusu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/skor-ebitda-grupy-pracuj-w-iii-kw-2026-r-wyniosla-1065-mln-zl-wobec-1008-mln-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "06:35",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wyniki Grupy Pracuj w III kw. 2026 roku vs. konsensus PAP (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/wyniki-grupy-pracuj-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
     "time": "00:17",
     "kind": "pap",
     "ticker": null,
@@ -70,6 +90,15 @@
   "rekomendacje": [],
   "korporacyjne": [],
   "makro_pl": [
+   {
+    "time": "06:41",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BGK wycenił 10-letnie obligacje za 750 mln EUR na rzecz KFD",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441401",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "06:34",
     "kind": "news",
@@ -106,6 +135,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "06:35",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźniki referencyjne ON na wybranych rynkach rozwiniętych (tabela)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441398",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "06:34",
     "kind": "espi",
