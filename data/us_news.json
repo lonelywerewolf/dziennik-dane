@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "id": "2cfae4d63b2b",
+   "ticker": "NVDA",
+   "time": "2026-11-17T16:03+01:00",
+   "title": "Anthropic's Quarterly Revenue Jumped 47% to $17 Billion Ahead of Its IPO",
+   "url": "https://www.nasdaq.com/articles/anthropics-quarterly-revenue-jumped-47-17-billion-ahead-its-ipo",
+   "src": "nasdaq",
+   "summary": "Key PointsAnthropic's quarterly revenue is seeing huge sequential growth."
+  },
+  {
+   "id": "f37ac134067c",
+   "ticker": "NVDA",
+   "time": "2026-11-17T15:50+01:00",
+   "title": "Michael Burry Shorted Nvidia Stock. Is He About to Make Another Fortune?",
+   "url": "https://www.nasdaq.com/articles/michael-burry-shorted-nvidia-stock-he-about-make-another-fortune",
+   "src": "nasdaq",
+   "summary": "Key PointsMichael Burry has had short positions in Nvidia for more than a year, and he recently compared its business model to a protection racket."
+  },
+  {
    "id": "9679428669d3",
    "ticker": "TSM",
    "time": "2026-11-17T15:23+01:00",
@@ -14338,5 +14356,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-17T16:10:30+01:00"
+ "updatedAt": "2026-11-17T16:21:30+01:00"
 }

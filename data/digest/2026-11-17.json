@@ -4,18 +4,18 @@
   "podsumowania": 11,
   "wyniki": 16,
   "rekomendacje": 0,
-  "korporacyjne": 31,
+  "korporacyjne": 32,
   "makro_pl": 24,
   "swiat_rynki": 14,
   "energetyka_surowce": 5,
   "nieruchomosci": 0,
-  "fundusze_drobne": 7,
+  "fundusze_drobne": 9,
   "twoje_spolki": 3,
   "obserwowane": 0,
-  "pozostale": 55
+  "pozostale": 57
  },
- "duplicatesRemoved": 76,
- "total": 242,
+ "duplicatesRemoved": 78,
+ "total": 249,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -281,6 +281,15 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "16:12",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wpłynął wniosek o przejęcie spółki Węglokoks Kraj przez Polską Grupę Górniczą - UOKiK",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441564",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:06",
     "kind": "pap",
@@ -1004,6 +1013,24 @@
   "nieruchomosci": [],
   "fundusze_drobne": [
    {
+    "time": "16:19",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ALLIANZ POLSKA OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441567",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:04",
+    "kind": "news",
+    "ticker": null,
+    "title": "OFE wartości jednostek rozrachunkowych z 2026.11.13",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/ofe-wartosci-jednostek-rozrachunkowych-z-20261113",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "15:31",
     "kind": "pap",
     "ticker": null,
@@ -1100,6 +1127,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "16:20",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KPRM: Komunikat po posiedzeniu Rady Ministrów (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441568",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:19",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MOL: Transaction by person closely associated with a person discharging managerial responsibilities",
+    "url": "https://bossa.pl/analizy/komunikaty#message-109901",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:02",
     "kind": "espi",
