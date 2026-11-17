@@ -1,7 +1,67 @@
 {
  "date": "2026-11-17",
- "count": 284,
+ "count": 290,
  "items": [
+  {
+   "id": "bossa-pap-441602",
+   "date": "2026-11-17",
+   "time": "17:47",
+   "ts": "2026-11-17T17:47:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Notowania ciągłe - podsumowanie",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441602"
+  },
+  {
+   "id": "bossa-pap-441601",
+   "date": "2026-11-17",
+   "time": "17:46",
+   "ts": "2026-11-17T17:46:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zysk netto j.d. Wirtualnej Polski w III kw. wyniósł 92,7 mln zł wobec 90,8 mln zł konsensusu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441601"
+  },
+  {
+   "id": "bossa-pap-441599",
+   "date": "2026-11-17",
+   "time": "17:43",
+   "ts": "2026-11-17T17:43:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "LEGIMI SA (16/2026) Informacje o walnym zgromadzeniu - zwołanie WZ z projektami uchwał, zmiany w porządku obrad WZ",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441599"
+  },
+  {
+   "id": "bossa-espi-109918",
+   "date": "2026-11-17",
+   "time": "17:43",
+   "ts": "2026-11-17T17:43:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PKP CARGO S.A. W RESTRUKTURYZACJI",
+   "title": "Postanowienie o umorzeniu śledztwa w sprawie działań na szkodę PKP CARGO S.A. w restrukturyzacji",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109918"
+  },
+  {
+   "id": "bossa-espi-10419",
+   "date": "2026-11-17",
+   "time": "17:39",
+   "ts": "2026-11-17T17:39:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ENERGY S.A.",
+   "title": "Wniesienie zaliczki na poczet opłaty za przyłączenie do sieci dla projektu magazynu energii",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-10419"
+  },
   {
    "id": "bossa-pap-441596",
    "date": "2026-11-17",
@@ -25,6 +85,17 @@
    "title": "SA-Q",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-109916"
+  },
+  {
+   "id": "strefa-1cc3563793d3",
+   "date": "2026-11-17",
+   "time": "17:34",
+   "ts": "2026-11-17T17:34:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Zysk netto j.d. Wirtualnej Polski w III kw. wyniósł 92,7 mln zł wobec 90,8 mln zł konsensusu",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/zysk-netto-jd-wirtualnej-polski-w-iii-kw-wyniosl-927-mln-zl-wobec-908-mln-zl"
   },
   {
    "id": "bossa-espi-109915",

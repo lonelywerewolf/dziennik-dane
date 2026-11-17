@@ -1,12 +1,12 @@
 {
  "date": "2026-11-17",
  "counts": {
-  "podsumowania": 14,
-  "wyniki": 20,
+  "podsumowania": 15,
+  "wyniki": 21,
   "rekomendacje": 1,
-  "korporacyjne": 38,
+  "korporacyjne": 39,
   "makro_pl": 27,
-  "swiat_rynki": 15,
+  "swiat_rynki": 16,
   "energetyka_surowce": 5,
   "nieruchomosci": 0,
   "fundusze_drobne": 9,
@@ -14,11 +14,22 @@
   "obserwowane": 0,
   "pozostale": 60
  },
- "duplicatesRemoved": 91,
- "total": 284,
+ "duplicatesRemoved": 93,
+ "total": 290,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "17:47",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Notowania ciągłe - podsumowanie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441602",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "17:37",
     "kind": "pap",
@@ -147,6 +158,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "17:34",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zysk netto j.d. Wirtualnej Polski w III kw. wyniósł 92,7 mln zł wobec 90,8 mln zł konsensusu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/zysk-netto-jd-wirtualnej-polski-w-iii-kw-wyniosl-927-mln-zl-wobec-908-mln-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:20",
     "kind": "news",
@@ -362,6 +382,15 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "17:43",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PKP CARGO S.A. W RESTRUKTURYZACJI: Postanowienie o umorzeniu śledztwa w sprawie działań na szkodę PKP CARGO S.A. w restrukturyzacji",
+    "url": "https://bossa.pl/analizy/komunikaty#message-109918",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:31",
     "kind": "espi",
@@ -1004,6 +1033,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "17:39",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ENERGY S.A.: Wniesienie zaliczki na poczet opłaty za przyłączenie do sieci dla projektu magazynu energii",
+    "url": "https://bossa.pl/analizy/komunikaty#message-10419",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:34",
     "kind": "espi",
