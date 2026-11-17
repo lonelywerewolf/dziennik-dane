@@ -1,7 +1,31 @@
 {
  "date": "2026-11-17",
- "count": 352,
+ "count": 355,
  "items": [
+  {
+   "id": "bossa-pap-441648",
+   "date": "2026-11-17",
+   "time": "21:41",
+   "ts": "2026-11-17T21:41:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MADKOM SA (24/2026) Powołanie osoby zarządzającej lub nadzorującej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441648"
+  },
+  {
+   "id": "bossa-pap-441647",
+   "date": "2026-11-17",
+   "time": "21:34",
+   "ts": "2026-11-17T21:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MADKOM SA (23/2026) Informacje o walnym zgromadzeniu - treść uchwał podjętych przez WZ (w tym informacje o ogłoszeniu przerwy w obradach)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441647"
+  },
   {
    "id": "bossa-pap-441645",
    "date": "2026-11-17",
@@ -25,6 +49,17 @@
    "title": "Zmiana regulaminu długoterminowego programu motywacyjnego na lata 2025–2027 w celu przyspieszonego rozliczenia programu oraz zakończenie nabywania akcji własnych w ramach programu skupu akcji własnych",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-128891"
+  },
+  {
+   "id": "strefa-ed0b12fbdf96",
+   "date": "2026-11-17",
+   "time": "21:23",
+   "ts": "2026-11-17T21:23:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "skrot",
+   "title": "Skrót wiadomości - wtorek, 17 listopada, 21.25",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/skrot-wiadomosci-wtorek-17-listopada-2125"
   },
   {
    "id": "bossa-pap-441644",

@@ -4,7 +4,7 @@
   "podsumowania": 15,
   "wyniki": 26,
   "rekomendacje": 1,
-  "korporacyjne": 49,
+  "korporacyjne": 50,
   "makro_pl": 31,
   "swiat_rynki": 19,
   "energetyka_surowce": 6,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 10,
   "twoje_spolki": 5,
   "obserwowane": 0,
-  "pozostale": 69
+  "pozostale": 70
  },
- "duplicatesRemoved": 121,
- "total": 352,
+ "duplicatesRemoved": 122,
+ "total": 355,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -431,6 +431,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "21:41",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MADKOM SA (24/2026) Powołanie osoby zarządzającej lub nadzorującej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441648",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "20:42",
     "kind": "espi",
@@ -1590,6 +1601,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "21:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MADKOM SA (23/2026) Informacje o walnym zgromadzeniu - treść uchwał podjętych przez WZ (w tym informacje o ogłoszeniu przerwy w obradach)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441647",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "21:27",
     "kind": "espi",
