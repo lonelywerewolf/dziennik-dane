@@ -1,7 +1,79 @@
 {
  "date": "2026-11-17",
- "count": 262,
+ "count": 269,
  "items": [
+  {
+   "id": "bossa-espi-109909",
+   "date": "2026-11-17",
+   "time": "17:14",
+   "ts": "2026-11-17T17:14:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "OT LOGISTICS",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109909"
+  },
+  {
+   "id": "bossa-pap-441583",
+   "date": "2026-11-17",
+   "time": "17:13",
+   "ts": "2026-11-17T17:13:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wyniki Wirtualnej Polski w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441583"
+  },
+  {
+   "id": "bossa-espi-109908",
+   "date": "2026-11-17",
+   "time": "17:06",
+   "ts": "2026-11-17T17:06:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KOMPAP",
+   "title": "Uchwały podjęte na Nadzwyczajnym Walnym Zgromadzeniu PPH „KOMPAP” S.A. z siedzibą w Laskowicach w dniu 17.11.2026r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109908"
+  },
+  {
+   "id": "bossa-espi-109907",
+   "date": "2026-11-17",
+   "time": "17:06",
+   "ts": "2026-11-17T17:06:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "WIRTUALNA POLSKA HOLDING S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109907"
+  },
+  {
+   "id": "bossa-pap-441579",
+   "date": "2026-11-17",
+   "time": "17:05",
+   "ts": "2026-11-17T17:05:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MC: Rekomendacja Pełnomocnika Rządu ds. Cyberbezpieczeństwa m.in. dla sektora bankowości (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441579"
+  },
+  {
+   "id": "bossa-espi-109906",
+   "date": "2026-11-17",
+   "time": "17:05",
+   "ts": "2026-11-17T17:05:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "DADELO S.A.",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109906"
+  },
   {
    "id": "bossa-espi-109905",
    "date": "2026-11-17",
@@ -37,6 +109,17 @@
    "title": "Skrót wiadomości - wtorek, 17 listopada, 17.00",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-441576"
+  },
+  {
+   "id": "strefa-32551e43a048",
+   "date": "2026-11-17",
+   "time": "16:58",
+   "ts": "2026-11-17T16:58:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "skrot",
+   "title": "Skrót wiadomości - wtorek, 17 listopada, 17.00",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/skrot-wiadomosci-wtorek-17-listopada-1700"
   },
   {
    "id": "bossa-pap-441575",
