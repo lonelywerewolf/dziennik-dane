@@ -4,7 +4,7 @@
   "podsumowania": 5,
   "wyniki": 6,
   "rekomendacje": 0,
-  "korporacyjne": 1,
+  "korporacyjne": 2,
   "makro_pl": 4,
   "swiat_rynki": 2,
   "energetyka_surowce": 2,
@@ -15,7 +15,7 @@
   "pozostale": 11
  },
  "duplicatesRemoved": 13,
- "total": 44,
+ "total": 45,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -127,6 +127,15 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "08:12",
+    "kind": "espi",
+    "ticker": null,
+    "title": "COGNOR HOLDING S.A.: Informacja o rozszerzeniu porządku obrad Nadzwyczajnego Walnego Zgromadzenia Spółki zwołanego na dzień 07 grudnia 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-109202",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "07:23",
     "kind": "pap",
