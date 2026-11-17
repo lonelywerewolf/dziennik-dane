@@ -1,7 +1,55 @@
 {
  "date": "2026-11-17",
- "count": 63,
+ "count": 68,
  "items": [
+  {
+   "id": "bossa-pap-441432",
+   "date": "2026-11-17",
+   "time": "09:20",
+   "ts": "2026-11-17T09:20:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA FX/FI: Złoty pod dominującym wpływem globalnego apetytu na ryzyko",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441432"
+  },
+  {
+   "id": "bossa-pap-441431",
+   "date": "2026-11-17",
+   "time": "09:16",
+   "ts": "2026-11-17T09:16:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DM BOŚ podniósł wycenę akcji Orlenu do 190 zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441431"
+  },
+  {
+   "id": "bossa-pap-441430",
+   "date": "2026-11-17",
+   "time": "09:15",
+   "ts": "2026-11-17T09:15:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "WIG20 na otwarciu wyniósł 4303,07 pkt (0,02%)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441430"
+  },
+  {
+   "id": "bossa-espi-109840",
+   "date": "2026-11-17",
+   "time": "09:13",
+   "ts": "2026-11-17T09:13:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ACTION S.A.",
+   "title": "Informacja o wstępnych szacunkowych wynikach finansowych za III kwartał 2026 roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109840"
+  },
   {
    "id": "bossa-espi-109839",
    "date": "2026-11-17",
@@ -25,6 +73,17 @@
    "title": "System kaucyjny zwiększa ruch w sklepach, ale sieci mierzą się z kosztami i problemami IT - ZEME",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-441427"
+  },
+  {
+   "id": "strefa-09e6782628b6",
+   "date": "2026-11-17",
+   "time": "08:50",
+   "ts": "2026-11-17T08:50:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DM BOŚ podniósł wycenę akcji Orlenu do 190 zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/dm-bos-podniosl-wycene-akcji-orlenu-do-190-zl"
   },
   {
    "id": "bossa-pap-441426",
