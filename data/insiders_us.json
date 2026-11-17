@@ -1,6 +1,22 @@
 {
  "items": [
   {
+   "id": "188979c308a92d",
+   "ticker": "MPWR",
+   "filed": "2026-11-16 19:04:09",
+   "tradeDate": "2026-11-13",
+   "who": "Elmiger Eugen J",
+   "role": "Dir",
+   "type": "S - Sale",
+   "price": "$1,361.10",
+   "qty": "-2,500",
+   "owned": "2,902",
+   "deltaOwn": "-46%",
+   "value": "-$3,402,752",
+   "url": "http://www.sec.gov/Archives/edgar/data/1280452/000121465926014455/xslF345X03/marketforms-74318.xml",
+   "src": "http://openinsider.com/screener?s=MPWR"
+  },
+  {
    "id": "49ba576ad4a6c4",
    "ticker": "MPWR",
    "filed": "2026-11-13 17:09:34",
@@ -5441,5 +5457,5 @@
    "src": "http://openinsider.com/screener?s=MPWR"
   }
  ],
- "updatedAt": "2026-11-17T00:50:56+01:00"
+ "updatedAt": "2026-11-17T01:40:55+01:00"
 }
