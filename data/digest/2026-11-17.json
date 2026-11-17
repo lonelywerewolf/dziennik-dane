@@ -2,20 +2,20 @@
  "date": "2026-11-17",
  "counts": {
   "podsumowania": 15,
-  "wyniki": 22,
+  "wyniki": 23,
   "rekomendacje": 1,
-  "korporacyjne": 40,
+  "korporacyjne": 41,
   "makro_pl": 27,
   "swiat_rynki": 16,
-  "energetyka_surowce": 5,
+  "energetyka_surowce": 6,
   "nieruchomosci": 0,
   "fundusze_drobne": 9,
-  "twoje_spolki": 4,
+  "twoje_spolki": 5,
   "obserwowane": 0,
   "pozostale": 61
  },
- "duplicatesRemoved": 95,
- "total": 295,
+ "duplicatesRemoved": 99,
+ "total": 303,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -159,12 +159,21 @@
   ],
   "wyniki": [
    {
-    "time": "18:07",
+    "time": "18:18",
     "kind": "pap",
     "ticker": null,
-    "title": "Zysk netto j.d. Inter Cars w III kw. '26 wyniósł 290,7 mln zł wobec 298,2 mln zł konsensusu",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441606",
+    "title": "Grupa OT Logistics po III kw. 2026 r. miała 47,1 mln zł EBITDA i 12 mln zł straty netto",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441611",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "18:05",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zysk netto j.d. Inter Cars w III kw. '26 wyniósł 290,7 mln zł wobec 298,2 mln zł konsensusu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/zysk-netto-jd-inter-cars-w-iii-kw-26-wyniosl-2907-mln-zl-wobec-2982-mln-zl",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -391,6 +400,15 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "18:11",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Transakcje pakietowe",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441607",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:52",
     "kind": "espi",
@@ -1198,6 +1216,15 @@
   ],
   "energetyka_surowce": [
    {
+    "time": "18:19",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Śledztwo dot. szkody poniesionej przez PKP Cargo przy transporcie węgla umorzone",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441612",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "08:50",
     "kind": "news",
     "ticker": null,
@@ -1328,6 +1355,17 @@
    }
   ],
   "twoje_spolki": [
+   {
+    "time": "18:13",
+    "kind": "news",
+    "ticker": "NVDA",
+    "title": "DZIEŃ NA RYNKACH: Indeksy w Europie zniżkowały; rynki czekają na wyniki Nvidii",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/dzien-na-rynkach-indeksy-w-europie-znizkowaly-rynki-czekaja-na-wyniki-nvidii",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "16:46",
     "kind": "news",

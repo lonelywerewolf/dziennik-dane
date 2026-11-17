@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "ef1e5a69de54",
+   "ticker": "MRVL",
+   "time": "2026-11-17T18:05+01:00",
+   "title": "Marvell and Intel Are Both Down at Least 50% From Their 2026 Highs. Only 1 Is a Stock I’d Buy.",
+   "url": "https://www.nasdaq.com/articles/marvell-and-intel-are-both-down-least-50-their-2026-highs-only-1-stock-id-buy",
+   "src": "nasdaq",
+   "summary": "Key PointsIntel stock tumbled as AI spending increased and its foundry business continues to disappoint."
+  },
+  {
    "id": "fe6d4f4473cf",
    "ticker": "MRVL",
    "time": "2026-11-17T17:45+01:00",
@@ -665,6 +674,15 @@
    "url": "https://www.nasdaq.com/articles/mondays-etf-unusual-volume-lst",
    "src": "nasdaq",
    "summary": "The Leuthold Select Industries ETF is seeing unusually high volume in afternoon trading Monday, with over 327,000 shares traded versus three month average volume of about 79,000.  Shares of LST were down about 0.3% on the day.\n\nComponents of that ETF with the highest volume on M"
+  },
+  {
+   "id": "bf1a49fa4e3f",
+   "ticker": "VRT",
+   "time": "2026-11-16T18:05+01:00",
+   "title": "Modine Manufacturing Scales Up to Solve the AI Heat Problem",
+   "url": "https://www.nasdaq.com/articles/modine-manufacturing-scales-solve-ai-heat-problem",
+   "src": "nasdaq",
+   "summary": "Next-generation processors generate heat loads that traditional air conditioning struggles to handle. This physical limitation makes thermal infrastructure an increasingly important data center bottleneck alongside silicon supply. Investors searching for foundational ways to par"
   },
   {
    "id": "c47b163161de",
@@ -14473,5 +14491,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-17T18:11:31+01:00"
+ "updatedAt": "2026-11-17T18:22:31+01:00"
 }

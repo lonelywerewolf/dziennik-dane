@@ -1,7 +1,90 @@
 {
  "date": "2026-11-17",
- "count": 295,
+ "count": 303,
  "items": [
+  {
+   "id": "bossa-pap-441612",
+   "date": "2026-11-17",
+   "time": "18:19",
+   "ts": "2026-11-17T18:19:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Śledztwo dot. szkody poniesionej przez PKP Cargo przy transporcie węgla umorzone",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441612"
+  },
+  {
+   "id": "bossa-pap-441611",
+   "date": "2026-11-17",
+   "time": "18:18",
+   "ts": "2026-11-17T18:18:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Grupa OT Logistics po III kw. 2026 r. miała 47,1 mln zł EBITDA i 12 mln zł straty netto",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441611"
+  },
+  {
+   "id": "bossa-espi-109922",
+   "date": "2026-11-17",
+   "time": "18:14",
+   "ts": "2026-11-17T18:14:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "APATOR",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109922"
+  },
+  {
+   "id": "strefa-15acbb01d8fa",
+   "date": "2026-11-17",
+   "time": "18:13",
+   "ts": "2026-11-17T18:13:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Indeksy w Europie zniżkowały; rynki czekają na wyniki Nvidii",
+   "ticker": "NVDA",
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/dzien-na-rynkach-indeksy-w-europie-znizkowaly-rynki-czekaja-na-wyniki-nvidii"
+  },
+  {
+   "id": "bossa-pap-441609",
+   "date": "2026-11-17",
+   "time": "18:13",
+   "ts": "2026-11-17T18:13:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Indeksy w Europie zniżkowały; rynki czekają na wyniki Nvidii",
+   "ticker": "NVDA",
+   "url": "https://bossa.pl/analizy/komunikaty#message-441609"
+  },
+  {
+   "id": "bossa-espi-109921",
+   "date": "2026-11-17",
+   "time": "18:12",
+   "ts": "2026-11-17T18:12:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ANSWEAR.COM S.A.",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109921"
+  },
+  {
+   "id": "bossa-pap-441607",
+   "date": "2026-11-17",
+   "time": "18:11",
+   "ts": "2026-11-17T18:11:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Transakcje pakietowe",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441607"
+  },
   {
    "id": "bossa-pap-441606",
    "date": "2026-11-17",
@@ -13,6 +96,17 @@
    "title": "Zysk netto j.d. Inter Cars w III kw. '26 wyniósł 290,7 mln zł wobec 298,2 mln zł konsensusu",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-441606"
+  },
+  {
+   "id": "strefa-8e3cb422a06a",
+   "date": "2026-11-17",
+   "time": "18:05",
+   "ts": "2026-11-17T18:05:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Zysk netto j.d. Inter Cars w III kw. '26 wyniósł 290,7 mln zł wobec 298,2 mln zł konsensusu",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/zysk-netto-jd-inter-cars-w-iii-kw-26-wyniosl-2907-mln-zl-wobec-2982-mln-zl"
   },
   {
    "id": "bossa-pap-441605",
