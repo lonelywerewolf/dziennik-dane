@@ -1,7 +1,79 @@
 {
  "date": "2026-11-17",
- "count": 141,
+ "count": 148,
  "items": [
+  {
+   "id": "bossa-pap-441486",
+   "date": "2026-11-17",
+   "time": "12:29",
+   "ts": "2026-11-17T12:29:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MRiRW: Przejęcie długu przez KOWR - dostępne dla wszystkich rolników spełniających warunki (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441486"
+  },
+  {
+   "id": "bossa-pap-441485",
+   "date": "2026-11-17",
+   "time": "12:28",
+   "ts": "2026-11-17T12:28:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "UNIQA OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441485"
+  },
+  {
+   "id": "bossa-pap-441484",
+   "date": "2026-11-17",
+   "time": "12:27",
+   "ts": "2026-11-17T12:27:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "FUNDUSZ HIPOTECZNY DOM SA (10/2026) Podpisanie przez emitenta z firmą audytorską umowy o badanie sprawozdań finansowych lub skonsolidowanych sprawozdań finansowych emitenta",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441484"
+  },
+  {
+   "id": "bossa-espi-109862",
+   "date": "2026-11-17",
+   "time": "12:27",
+   "ts": "2026-11-17T12:27:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF MWIG40TRlv PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 211 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109862"
+  },
+  {
+   "id": "bossa-pap-441482",
+   "date": "2026-11-17",
+   "time": "12:23",
+   "ts": "2026-11-17T12:23:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Obok paliw i gazu, rząd będzie pracował też nad rozwiązaniami dot. cen energii elektrycznej - premier",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441482"
+  },
+  {
+   "id": "bossa-espi-109860",
+   "date": "2026-11-17",
+   "time": "12:20",
+   "ts": "2026-11-17T12:20:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF sWIG80TR PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 231 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109860"
+  },
   {
    "id": "bossa-pap-441480",
    "date": "2026-11-17",
@@ -97,6 +169,17 @@
    "title": "Szczyt deficytu budżetowego najprawdopodobniej już minął - Pekao (opinia)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-441473"
+  },
+  {
+   "id": "strefa-d33fc199ca01",
+   "date": "2026-11-17",
+   "time": "11:52",
+   "ts": "2026-11-17T11:52:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Obok paliw i gazu, rząd będzie pracował też nad rozwiązaniami dot. cen energii elektrycznej - premier",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/obok-paliw-i-gazu-rzad-bedzie-pracowal-tez-nad-rozwiazaniami-dot-cen-energii"
   },
   {
    "id": "bossa-espi-109855",

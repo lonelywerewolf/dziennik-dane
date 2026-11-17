@@ -4,18 +4,18 @@
   "podsumowania": 11,
   "wyniki": 13,
   "rekomendacje": 0,
-  "korporacyjne": 17,
-  "makro_pl": 12,
+  "korporacyjne": 19,
+  "makro_pl": 13,
   "swiat_rynki": 8,
   "energetyka_surowce": 5,
   "nieruchomosci": 0,
-  "fundusze_drobne": 0,
+  "fundusze_drobne": 1,
   "twoje_spolki": 0,
   "obserwowane": 0,
   "pozostale": 32
  },
- "duplicatesRemoved": 43,
- "total": 141,
+ "duplicatesRemoved": 46,
+ "total": 148,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -253,6 +253,26 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "12:29",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MRiRW: Przejęcie długu przez KOWR - dostępne dla wszystkich rolników spełniających warunki (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441486",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:27",
+    "kind": "pap",
+    "ticker": null,
+    "title": "FUNDUSZ HIPOTECZNY DOM SA (10/2026) Podpisanie przez emitenta z firmą audytorską umowy o badanie sprawozdań finansowych lub skonsolidowanych sprawozdań finansowych emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441484",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
     "time": "12:13",
     "kind": "espi",
     "ticker": null,
@@ -443,6 +463,15 @@
     "title": "Szczyt deficytu budżetowego najprawdopodobniej już minął - Pekao (opinia)",
     "url": "https://bossa.pl/analizy/komunikaty#message-441473",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:52",
+    "kind": "news",
+    "ticker": null,
+    "title": "Obok paliw i gazu, rząd będzie pracował też nad rozwiązaniami dot. cen energii elektrycznej - premier",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/obok-paliw-i-gazu-rzad-bedzie-pracowal-tez-nad-rozwiazaniami-dot-cen-energii",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -662,7 +691,17 @@
    }
   ],
   "nieruchomosci": [],
-  "fundusze_drobne": [],
+  "fundusze_drobne": [
+   {
+    "time": "12:28",
+    "kind": "pap",
+    "ticker": null,
+    "title": "UNIQA OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441485",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
