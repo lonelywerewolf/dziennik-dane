@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 61
  },
- "duplicatesRemoved": 99,
- "total": 303,
+ "duplicatesRemoved": 102,
+ "total": 306,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1216,12 +1216,12 @@
   ],
   "energetyka_surowce": [
    {
-    "time": "18:19",
-    "kind": "pap",
+    "time": "18:27",
+    "kind": "news",
     "ticker": null,
     "title": "Śledztwo dot. szkody poniesionej przez PKP Cargo przy transporcie węgla umorzone",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441612",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/sledztwo-dot-szkody-poniesionej-przez-pkp-cargo-przy-transporcie-wegla-umorzone",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
