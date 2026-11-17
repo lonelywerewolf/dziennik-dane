@@ -1,7 +1,31 @@
 {
  "date": "2026-11-17",
- "count": 61,
+ "count": 63,
  "items": [
+  {
+   "id": "bossa-espi-109839",
+   "date": "2026-11-17",
+   "time": "09:08",
+   "ts": "2026-11-17T09:08:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "AQUA",
+   "title": "Informacja ws. zatwierdzenia przez Dyrektora Regionalnego Zarządu Gospodarki Wodnej w Gliwicach Państwowego Gospodarstwa Wodnego Wody Polskie taryfy na okres kolejnych 3 lat",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109839"
+  },
+  {
+   "id": "bossa-pap-441427",
+   "date": "2026-11-17",
+   "time": "09:00",
+   "ts": "2026-11-17T09:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "System kaucyjny zwiększa ruch w sklepach, ale sieci mierzą się z kosztami i problemami IT - ZEME",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441427"
+  },
   {
    "id": "bossa-pap-441426",
    "date": "2026-11-17",
