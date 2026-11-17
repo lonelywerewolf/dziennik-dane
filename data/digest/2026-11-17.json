@@ -5,17 +5,17 @@
   "wyniki": 26,
   "rekomendacje": 1,
   "korporacyjne": 45,
-  "makro_pl": 30,
+  "makro_pl": 31,
   "swiat_rynki": 19,
   "energetyka_surowce": 6,
   "nieruchomosci": 0,
   "fundusze_drobne": 10,
   "twoje_spolki": 5,
   "obserwowane": 0,
-  "pozostale": 62
+  "pozostale": 63
  },
  "duplicatesRemoved": 117,
- "total": 336,
+ "total": 338,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -892,6 +892,15 @@
   ],
   "makro_pl": [
    {
+    "time": "19:41",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ECHO: Wcześniejszy całkowity wykup obligacji serii 5I/2024 przez Emitenta (opcja call)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-114930",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "19:19",
     "kind": "pap",
     "ticker": null,
@@ -1541,6 +1550,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "19:46",
+    "kind": "pap",
+    "ticker": null,
+    "title": "AGENCJA ROZWOJU INNOWACJI SA (12/2026) Rejestracja przez sąd zmiany statutu emitenta lub odmowie takiej rejestracji, z podaniem przyczyn odmowy",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441634",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:40",
     "kind": "pap",

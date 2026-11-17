@@ -1,7 +1,31 @@
 {
  "date": "2026-11-17",
- "count": 336,
+ "count": 338,
  "items": [
+  {
+   "id": "bossa-pap-441634",
+   "date": "2026-11-17",
+   "time": "19:46",
+   "ts": "2026-11-17T19:46:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "AGENCJA ROZWOJU INNOWACJI SA (12/2026) Rejestracja przez sąd zmiany statutu emitenta lub odmowie takiej rejestracji, z podaniem przyczyn odmowy",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441634"
+  },
+  {
+   "id": "bossa-espi-114930",
+   "date": "2026-11-17",
+   "time": "19:41",
+   "ts": "2026-11-17T19:41:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ECHO",
+   "title": "Wcześniejszy całkowity wykup obligacji serii 5I/2024 przez Emitenta (opcja call)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-114930"
+  },
   {
    "id": "strefa-b19046967d36",
    "date": "2026-11-17",
