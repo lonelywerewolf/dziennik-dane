@@ -12,10 +12,10 @@
   "fundusze_drobne": 10,
   "twoje_spolki": 5,
   "obserwowane": 0,
-  "pozostale": 70
+  "pozostale": 71
  },
- "duplicatesRemoved": 122,
- "total": 355,
+ "duplicatesRemoved": 123,
+ "total": 357,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1601,6 +1601,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "21:34",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zabka Group przyspiesza rozliczenie programu motywacyjnego; kończy nabywanie akcji własnych",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/zabka-group-przyspiesza-rozliczenie-programu-motywacyjnego-konczy-nabywanie",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "21:34",
     "kind": "pap",

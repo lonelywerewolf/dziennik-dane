@@ -1,7 +1,19 @@
 {
  "date": "2026-11-17",
- "count": 355,
+ "count": 357,
  "items": [
+  {
+   "id": "bossa-pap-441649",
+   "date": "2026-11-17",
+   "time": "21:58",
+   "ts": "2026-11-17T21:58:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zabka Group przyspiesza rozliczenie programu motywacyjnego; kończy nabywanie akcji własnych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441649"
+  },
   {
    "id": "bossa-pap-441648",
    "date": "2026-11-17",
@@ -13,6 +25,17 @@
    "title": "MADKOM SA (24/2026) Powołanie osoby zarządzającej lub nadzorującej",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-441648"
+  },
+  {
+   "id": "strefa-9c6ec25d7d6f",
+   "date": "2026-11-17",
+   "time": "21:34",
+   "ts": "2026-11-17T21:34:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Zabka Group przyspiesza rozliczenie programu motywacyjnego; kończy nabywanie akcji własnych",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/zabka-group-przyspiesza-rozliczenie-programu-motywacyjnego-konczy-nabywanie"
   },
   {
    "id": "bossa-pap-441647",
