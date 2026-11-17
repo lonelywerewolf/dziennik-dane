@@ -2,9 +2,9 @@
  "date": "2026-11-17",
  "counts": {
   "podsumowania": 5,
-  "wyniki": 4,
+  "wyniki": 5,
   "rekomendacje": 0,
-  "korporacyjne": 0,
+  "korporacyjne": 1,
   "makro_pl": 3,
   "swiat_rynki": 0,
   "energetyka_surowce": 2,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 6
+  "pozostale": 8
  },
- "duplicatesRemoved": 9,
- "total": 29,
+ "duplicatesRemoved": 10,
+ "total": 34,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -67,6 +67,15 @@
   ],
   "wyniki": [
    {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Proacta S.A. po trzech kwartałach zwiększa przychody do 9,6 mln zł i przygotowuje się do kluczowego etapu certyfikacji Smart LAB",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/proacta-sa-po-trzech-kwartalach-zwieksza-przychody-do-96-mln-zl-i-przygotowuje",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "06:41",
     "kind": "news",
     "ticker": null,
@@ -106,7 +115,17 @@
    }
   ],
   "rekomendacje": [],
-  "korporacyjne": [],
+  "korporacyjne": [
+   {
+    "time": "07:23",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Fresh Inset złożył prospekt w KNF i planuje debiut na GPW w I kw. '27",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441406",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "makro_pl": [
    {
     "time": "07:00",
@@ -162,6 +181,24 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "07:29",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Zestawienie publikowanych w ostatnim czasie cen wybranych towarów (tabela)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441408",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "07:23",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ART GAMES STUDIO S.A.: Ustalenie daty premiery gry „Fell & Sell” w wersji na platformę XBOX Series X|S",
+    "url": "https://bossa.pl/analizy/komunikaty#message-103388",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "07:01",
     "kind": "news",
