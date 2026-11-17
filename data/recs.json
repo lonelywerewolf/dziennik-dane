@@ -1,6 +1,21 @@
 {
  "items": [
   {
+   "date": "2026-11-17",
+   "company": "PKNORLEN (PKN)",
+   "code": "PKN",
+   "name": "PKNORLEN",
+   "isin": "PLPKN0000018",
+   "rating": "Kupuj",
+   "price": "130",
+   "target": "190",
+   "upside": "46.153846153846",
+   "priceAtPub": "131.72",
+   "house": "DM BOŚ",
+   "report": "https://strefainwestorow.pl/sites/default/files/attachments/55535850_14082947_55535850_Orlen_32_FU_87_2026_DM_BOŚ_PL_disclaimer.pdf",
+   "ticker": null
+  },
+  {
    "date": "2026-11-16",
    "company": "ARTIFEX (ART)",
    "code": "ART",
@@ -4396,5 +4411,5 @@
    "ticker": "XTB"
   }
  ],
- "updatedAt": "2026-11-17T09:20:18+01:00"
+ "updatedAt": "2026-11-17T09:31:18+01:00"
 }
