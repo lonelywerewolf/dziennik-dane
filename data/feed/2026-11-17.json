@@ -1,7 +1,19 @@
 {
  "date": "2026-11-17",
- "count": 362,
+ "count": 363,
  "items": [
+  {
+   "id": "bossa-espi-130576",
+   "date": "2026-11-17",
+   "time": "23:12",
+   "ts": "2026-11-17T23:12:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ASM GROUP S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-130576"
+  },
   {
    "id": "bossa-pap-441653",
    "date": "2026-11-17",
