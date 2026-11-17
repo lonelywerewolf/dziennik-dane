@@ -1,7 +1,75 @@
 {
  "date": "2026-11-17",
- "count": 22,
+ "count": 28,
  "items": [
+  {
+   "id": "strefa-ed71d692671e",
+   "date": "2026-11-17",
+   "time": "07:01",
+   "ts": "2026-11-17T07:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Skor. EBITDA Grupy Pracuj w III kw. 2026 r. wyniosła 106,5 mln zł, wobec 100,8 mln zł konsensusu (opis)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/skor-ebitda-grupy-pracuj-w-iii-kw-2026-r-wyniosla-1065-mln-zl-wobec-1008-mln-0"
+  },
+  {
+   "id": "strefa-c65ec4ab3ce8",
+   "date": "2026-11-17",
+   "time": "07:01",
+   "ts": "2026-11-17T07:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-17",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-17"
+  },
+  {
+   "id": "strefa-253084ca67e5",
+   "date": "2026-11-17",
+   "time": "07:01",
+   "ts": "2026-11-17T07:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Kalendarium rynku NewConnect 2026-11-17 - 2026-11-23",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/kalendarium-rynku-newconnect-2026-11-17-2026-11-23"
+  },
+  {
+   "id": "bossa-pap-441403",
+   "date": "2026-11-17",
+   "time": "07:00",
+   "ts": "2026-11-17T07:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Skor. EBITDA Grupy Pracuj w III kw. 2026 r. wyniosła 106,5 mln zł, wobec 100,8 mln zł konsensusu (opis)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441403"
+  },
+  {
+   "id": "bossa-pap-441402",
+   "date": "2026-11-17",
+   "time": "07:00",
+   "ts": "2026-11-17T07:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "EBOR wskazuje na ryzyko nasilenia presji inflacyjnej w Polsce przy zwiększaniu produkcji zbrojeniowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441402"
+  },
+  {
+   "id": "strefa-47d91c2acedd",
+   "date": "2026-11-17",
+   "time": "06:48",
+   "ts": "2026-11-17T06:48:44+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Kalendarium rynku kapitałowego GPW 2026-11-17",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/kalendarium-rynku-kapitalowego-gpw-2026-11-17"
+  },
   {
    "id": "strefa-85276e332395",
    "date": "2026-11-17",
