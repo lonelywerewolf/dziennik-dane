@@ -2,9 +2,9 @@
  "date": "2026-11-17",
  "counts": {
   "podsumowania": 11,
-  "wyniki": 16,
+  "wyniki": 17,
   "rekomendacje": 0,
-  "korporacyjne": 32,
+  "korporacyjne": 33,
   "makro_pl": 24,
   "swiat_rynki": 14,
   "energetyka_surowce": 5,
@@ -15,7 +15,7 @@
   "pozostale": 57
  },
  "duplicatesRemoved": 78,
- "total": 249,
+ "total": 251,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -120,6 +120,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "16:29",
+    "kind": "espi",
+    "ticker": null,
+    "title": "HELIO S.A.: Wstępne szacunkowe wyniki finansowe za I kwartał roku obrotowego 2026/2027",
+    "url": "https://bossa.pl/analizy/komunikaty#message-109904",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "14:03",
     "kind": "espi",
@@ -281,6 +292,15 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "16:22",
+    "kind": "espi",
+    "ticker": null,
+    "title": "HELIO S.A.: Zmiana porządku obrad Zwyczajnego Walnego Zgromadzenia Spółki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-109903",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:12",
     "kind": "pap",

@@ -1,7 +1,31 @@
 {
  "date": "2026-11-17",
- "count": 249,
+ "count": 251,
  "items": [
+  {
+   "id": "bossa-espi-109904",
+   "date": "2026-11-17",
+   "time": "16:29",
+   "ts": "2026-11-17T16:29:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "HELIO S.A.",
+   "title": "Wstępne szacunkowe wyniki finansowe za I kwartał roku obrotowego 2026/2027",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109904"
+  },
+  {
+   "id": "bossa-espi-109903",
+   "date": "2026-11-17",
+   "time": "16:22",
+   "ts": "2026-11-17T16:22:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "HELIO S.A.",
+   "title": "Zmiana porządku obrad Zwyczajnego Walnego Zgromadzenia Spółki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109903"
+  },
   {
    "id": "bossa-pap-441569",
    "date": "2026-11-17",
