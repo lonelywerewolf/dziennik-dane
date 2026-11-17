@@ -1,7 +1,67 @@
 {
  "date": "2026-11-17",
- "count": 136,
+ "count": 141,
  "items": [
+  {
+   "id": "bossa-pap-441480",
+   "date": "2026-11-17",
+   "time": "12:16",
+   "ts": "2026-11-17T12:16:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Rząd chce przyjąć rozporządzenia ws. wprowadzenia zakazów i ograniczeń w ruchu lotniczym",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441480"
+  },
+  {
+   "id": "bossa-pap-441478",
+   "date": "2026-11-17",
+   "time": "12:13",
+   "ts": "2026-11-17T12:13:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MFiPR: Większy dostęp do opieki paliatywnej na polsko – ukraińskim pograniczu (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441478"
+  },
+  {
+   "id": "bossa-espi-109859",
+   "date": "2026-11-17",
+   "time": "12:13",
+   "ts": "2026-11-17T12:13:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ATLANTAPL",
+   "title": "Ogłoszenie o zwołaniu Zwyczajnego Walnego Zgromadzenia ATLANTA POLAND S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109859"
+  },
+  {
+   "id": "bossa-espi-109858",
+   "date": "2026-11-17",
+   "time": "12:10",
+   "ts": "2026-11-17T12:10:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF DYWIDENDA PLUS PORTFELOW FIZ",
+   "title": "Raport bieżący nr 238 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109858"
+  },
+  {
+   "id": "bossa-espi-109857",
+   "date": "2026-11-17",
+   "time": "12:07",
+   "ts": "2026-11-17T12:07:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PEKAO BANK HIPOTECZNY",
+   "title": "Powiadomienie o transakcji na instrumentach finansowych Pekao Banku Hipotecznego S.A. dokonanych przez Bank Polska Kasa Opieki S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109857"
+  },
   {
    "id": "bossa-pap-441475",
    "date": "2026-11-17",
