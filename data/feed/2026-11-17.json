@@ -1,7 +1,30 @@
 {
  "date": "2026-11-17",
- "count": 172,
+ "count": 174,
  "items": [
+  {
+   "id": "bossa-espi-109875",
+   "date": "2026-11-17",
+   "time": "13:27",
+   "ts": "2026-11-17T13:27:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF WIG20short PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 230 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109875"
+  },
+  {
+   "id": "strefa-363123247f20",
+   "date": "2026-11-17",
+   "time": "13:09",
+   "ts": "2026-11-17T13:09:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grupa Best Fashion Media: 1 826 tys. zł przychodów po trzech kwartałach 2026 r., o 88 proc. więcej r/r",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/grupa-best-fashion-media-1-826-tys-zl-przychodow-po-trzech-kwartalach-2026-r-o"
+  },
   {
    "id": "bossa-pap-441507",
    "date": "2026-11-17",

@@ -2,7 +2,7 @@
  "date": "2026-11-17",
  "counts": {
   "podsumowania": 11,
-  "wyniki": 14,
+  "wyniki": 15,
   "rekomendacje": 0,
   "korporacyjne": 22,
   "makro_pl": 16,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 39
  },
- "duplicatesRemoved": 56,
- "total": 172,
+ "duplicatesRemoved": 57,
+ "total": 174,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -120,6 +120,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "13:09",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa Best Fashion Media: 1 826 tys. zł przychodów po trzech kwartałach 2026 r., o 88 proc. więcej r/r",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/grupa-best-fashion-media-1-826-tys-zl-przychodow-po-trzech-kwartalach-2026-r-o",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "12:37",
     "kind": "news",
