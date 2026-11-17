@@ -12,10 +12,10 @@
   "fundusze_drobne": 2,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 41
+  "pozostale": 42
  },
- "duplicatesRemoved": 61,
- "total": 185,
+ "duplicatesRemoved": 62,
+ "total": 187,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -848,6 +848,15 @@
     "title": "SCOPE FLUIDICS S.A.: Aktualizacja modelu finansowania nowych spółek wywodzących się ze Scope Discovery",
     "url": "https://bossa.pl/analizy/komunikaty#message-109878",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:26",
+    "kind": "news",
+    "ticker": null,
+    "title": "Scope Fluidics zmienił model finansowania nowych spółek wywodzących się ze Scope Discovery",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/scope-fluidics-zmienil-model-finansowania-nowych-spolek-wywodzacych-sie-ze",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
