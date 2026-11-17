@@ -4,18 +4,18 @@
   "podsumowania": 11,
   "wyniki": 16,
   "rekomendacje": 0,
-  "korporacyjne": 26,
-  "makro_pl": 20,
+  "korporacyjne": 28,
+  "makro_pl": 21,
   "swiat_rynki": 10,
   "energetyka_surowce": 5,
   "nieruchomosci": 0,
-  "fundusze_drobne": 4,
+  "fundusze_drobne": 5,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 48
+  "pozostale": 49
  },
- "duplicatesRemoved": 68,
- "total": 210,
+ "duplicatesRemoved": 72,
+ "total": 219,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -281,6 +281,26 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "15:11",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MARVIPOL DEVELOPMENT S.A.: Korekta raportu bieżącego nr 22/2026 - Zwołanie Nadzwyczajnego Walnego Zgromadzenia Marvipol Development S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-109895",
+    "src": "bossa",
+    "flags": [
+     "prognoza"
+    ]
+   },
+   {
+    "time": "15:05",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BUMECH S.A.: Zmiany sposobu rozliczenia transakcji zbycia udziałów spółki zależnej Bumech Defense sp. z o.o. na rzecz spółki zależnej Bumech Defense Partners S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-109892",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:50",
     "kind": "news",
@@ -554,6 +574,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "15:06",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Olivia Fin Sp. z o.o. S.K.A.: Informacja nt. zamiaru dokonania przedterminowego wykupu i umorzenia obligacji serii Z23",
+    "url": "https://bossa.pl/analizy/komunikaty#message-109894",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:58",
     "kind": "news",
@@ -881,6 +910,15 @@
   "nieruchomosci": [],
   "fundusze_drobne": [
    {
+    "time": "15:06",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GENERALI OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441539",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "14:54",
     "kind": "espi",
     "ticker": null,
@@ -941,6 +979,33 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "15:05",
+    "kind": "pap",
+    "ticker": null,
+    "title": "RED SQUARE GAMES SA (17/2026) Informacje o walnym zgromadzeniu - treść uchwał podjętych przez WZ (w tym informacje o ogłoszeniu przerwy w obradach)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441537",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:03",
+    "kind": "news",
+    "ticker": null,
+    "title": "Projekt współtworzony przez spółkę zal. Sygnis zakwalifikowany do unijnego programu PhotonHub",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/projekt-wspoltworzony-przez-spolke-zal-sygnis-zakwalifikowany-do-unijnego",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "15:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "Cena maksymalna dla benzyny Pb95 w środę wyniesie 5,99 zł/l, dla ON 7,57 zł/l",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/cena-maksymalna-dla-benzyny-pb95-w-srode-wyniesie-599-zll-dla-757-zll",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "15:00",
     "kind": "news",
@@ -1052,15 +1117,6 @@
     "flags": []
    },
    {
-    "time": "12:48",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Cena maksymalna dla benzyny Pb95 w środę wyniesie 5,99 zł/l, dla ON 7,57 zł/l",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441499",
-    "src": "bossa",
-    "flags": []
-   },
-   {
     "time": "12:46",
     "kind": "news",
     "ticker": null,
@@ -1093,15 +1149,6 @@
     "ticker": null,
     "title": "MFiPR: Większy dostęp do opieki paliatywnej na polsko – ukraińskim pograniczu (komunikat)",
     "url": "https://bossa.pl/analizy/komunikaty#message-441478",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "12:03",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Projekt współtworzony przez spółkę zal. Sygnis zakwalifikowany do unijnego programu PhotonHub",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441475",
     "src": "bossa",
     "flags": []
    },
