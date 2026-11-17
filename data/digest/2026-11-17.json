@@ -5,17 +5,17 @@
   "wyniki": 16,
   "rekomendacje": 0,
   "korporacyjne": 24,
-  "makro_pl": 18,
+  "makro_pl": 20,
   "swiat_rynki": 9,
   "energetyka_surowce": 5,
   "nieruchomosci": 0,
   "fundusze_drobne": 2,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 43
+  "pozostale": 45
  },
  "duplicatesRemoved": 64,
- "total": 193,
+ "total": 197,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -532,6 +532,24 @@
   ],
   "makro_pl": [
    {
+    "time": "14:39",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Rząd przyjął projekt system zapasów interwencyjnych paliw",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441528",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:33",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Sprzedaż detaliczna w USA w X: +0,2 proc. mdm. Konsensus: +0,1 proc. mdm",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441527",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "14:22",
     "kind": "espi",
     "ticker": null,
@@ -862,6 +880,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "14:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Przesunięcia kosztowe i czasowe w projekcie Darlington były zasadniczo spodziewane - GE Vernova",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441526",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:30",
+    "kind": "espi",
+    "ticker": null,
+    "title": "CREOTECH INSTRUMENTS S.A.: Przekazanie Segmentu Użytkownika w ramach realizacji projektu Mikroglob",
+    "url": "https://bossa.pl/analizy/komunikaty#message-109887",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:17",
     "kind": "news",

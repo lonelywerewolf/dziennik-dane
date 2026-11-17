@@ -1,7 +1,55 @@
 {
  "date": "2026-11-17",
- "count": 193,
+ "count": 197,
  "items": [
+  {
+   "id": "bossa-pap-441528",
+   "date": "2026-11-17",
+   "time": "14:39",
+   "ts": "2026-11-17T14:39:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Rząd przyjął projekt system zapasów interwencyjnych paliw",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441528"
+  },
+  {
+   "id": "bossa-pap-441527",
+   "date": "2026-11-17",
+   "time": "14:33",
+   "ts": "2026-11-17T14:33:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Sprzedaż detaliczna w USA w X: +0,2 proc. mdm. Konsensus: +0,1 proc. mdm",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441527"
+  },
+  {
+   "id": "bossa-pap-441526",
+   "date": "2026-11-17",
+   "time": "14:32",
+   "ts": "2026-11-17T14:32:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Przesunięcia kosztowe i czasowe w projekcie Darlington były zasadniczo spodziewane - GE Vernova",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441526"
+  },
+  {
+   "id": "bossa-espi-109887",
+   "date": "2026-11-17",
+   "time": "14:30",
+   "ts": "2026-11-17T14:30:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "CREOTECH INSTRUMENTS S.A.",
+   "title": "Przekazanie Segmentu Użytkownika w ramach realizacji projektu Mikroglob",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109887"
+  },
   {
    "id": "bossa-pap-441524",
    "date": "2026-11-17",
