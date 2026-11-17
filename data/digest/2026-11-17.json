@@ -12,10 +12,10 @@
   "fundusze_drobne": 10,
   "twoje_spolki": 5,
   "obserwowane": 0,
-  "pozostale": 67
+  "pozostale": 69
  },
- "duplicatesRemoved": 119,
- "total": 348,
+ "duplicatesRemoved": 121,
+ "total": 352,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1590,6 +1590,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "21:27",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Zabka: Zmiana regulaminu długoterminowego programu motywacyjnego na lata 2025–2027 w celu przyspieszonego rozliczenia programu oraz zakończenie nabywania akcji własnych w ramach programu skupu akcji własnych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-128891",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "21:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa Azoty zawarła kolejne uzgodnienia dot. długoterminowego finansowania",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/grupa-azoty-zawarla-kolejne-uzgodnienia-dot-dlugoterminowego-finansowania",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "20:50",
     "kind": "pap",

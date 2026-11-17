@@ -1,7 +1,54 @@
 {
  "date": "2026-11-17",
- "count": 348,
+ "count": 352,
  "items": [
+  {
+   "id": "bossa-pap-441645",
+   "date": "2026-11-17",
+   "time": "21:27",
+   "ts": "2026-11-17T21:27:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Skrót wiadomości - wtorek, 17 listopada, 21.25",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441645"
+  },
+  {
+   "id": "bossa-espi-128891",
+   "date": "2026-11-17",
+   "time": "21:27",
+   "ts": "2026-11-17T21:27:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Zabka",
+   "title": "Zmiana regulaminu długoterminowego programu motywacyjnego na lata 2025–2027 w celu przyspieszonego rozliczenia programu oraz zakończenie nabywania akcji własnych w ramach programu skupu akcji własnych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-128891"
+  },
+  {
+   "id": "bossa-pap-441644",
+   "date": "2026-11-17",
+   "time": "21:22",
+   "ts": "2026-11-17T21:22:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Grupa Azoty zawarła kolejne uzgodnienia dot. długoterminowego finansowania",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441644"
+  },
+  {
+   "id": "strefa-b5ace01ec900",
+   "date": "2026-11-17",
+   "time": "21:20",
+   "ts": "2026-11-17T21:20:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grupa Azoty zawarła kolejne uzgodnienia dot. długoterminowego finansowania",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/grupa-azoty-zawarla-kolejne-uzgodnienia-dot-dlugoterminowego-finansowania"
+  },
   {
    "id": "bossa-pap-441643",
    "date": "2026-11-17",
