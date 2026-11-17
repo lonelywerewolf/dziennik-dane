@@ -10,12 +10,12 @@
   "energetyka_surowce": 5,
   "nieruchomosci": 0,
   "fundusze_drobne": 9,
-  "twoje_spolki": 3,
+  "twoje_spolki": 4,
   "obserwowane": 0,
   "pozostale": 57
  },
- "duplicatesRemoved": 79,
- "total": 253,
+ "duplicatesRemoved": 81,
+ "total": 256,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -293,20 +293,20 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "16:38",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wpłynął wniosek o przejęcie spółki Węglokoks Kraj przez Polską Grupę Górniczą - UOKiK",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/wplynal-wniosek-o-przejecie-spolki-weglokoks-kraj-przez-polska-grupe-gornicza",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "16:22",
     "kind": "espi",
     "ticker": null,
     "title": "HELIO S.A.: Zmiana porządku obrad Zwyczajnego Walnego Zgromadzenia Spółki",
     "url": "https://bossa.pl/analizy/komunikaty#message-109903",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "16:12",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Wpłynął wniosek o przejęcie spółki Węglokoks Kraj przez Polską Grupę Górniczą - UOKiK",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441564",
     "src": "bossa",
     "flags": []
    },
@@ -1124,6 +1124,15 @@
    }
   ],
   "twoje_spolki": [
+   {
+    "time": "16:43",
+    "kind": "pap",
+    "ticker": "XTB",
+    "title": "DZIEŃ NA GPW: Na giełdzie korekcyjna sesja; XTB spada o 15,4 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441573",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:07",
     "kind": "pap",

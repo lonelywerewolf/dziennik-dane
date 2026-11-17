@@ -1,7 +1,42 @@
 {
  "date": "2026-11-17",
- "count": 253,
+ "count": 256,
  "items": [
+  {
+   "id": "bossa-pap-441574",
+   "date": "2026-11-17",
+   "time": "16:49",
+   "ts": "2026-11-17T16:49:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Rząd przyjął projekt ustawy dot. maksymalnej ceny gazu w '27 (opis)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441574"
+  },
+  {
+   "id": "bossa-pap-441573",
+   "date": "2026-11-17",
+   "time": "16:43",
+   "ts": "2026-11-17T16:43:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: Na giełdzie korekcyjna sesja; XTB spada o 15,4 proc.",
+   "ticker": "XTB",
+   "url": "https://bossa.pl/analizy/komunikaty#message-441573"
+  },
+  {
+   "id": "strefa-45ae45097f92",
+   "date": "2026-11-17",
+   "time": "16:38",
+   "ts": "2026-11-17T16:38:11+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wpłynął wniosek o przejęcie spółki Węglokoks Kraj przez Polską Grupę Górniczą - UOKiK",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/wplynal-wniosek-o-przejecie-spolki-weglokoks-kraj-przez-polska-grupe-gornicza"
+  },
   {
    "id": "bossa-pap-441572",
    "date": "2026-11-17",
