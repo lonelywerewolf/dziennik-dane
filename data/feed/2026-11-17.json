@@ -1,7 +1,65 @@
 {
  "date": "2026-11-17",
- "count": 117,
+ "count": 122,
  "items": [
+  {
+   "id": "bossa-pap-441463",
+   "date": "2026-11-17",
+   "time": "11:31",
+   "ts": "2026-11-17T11:31:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Atlanta Poland chce przeznaczyć 5,18 mln zł na wypłatę dywidendy za 2025/2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441463"
+  },
+  {
+   "id": "strefa-47a3a9f352f6",
+   "date": "2026-11-17",
+   "time": "11:27",
+   "ts": "2026-11-17T11:27:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Atlanta Poland chce przeznaczyć 5,18 mln zł na wypłatę dywidendy za 2025/2026",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/atlanta-poland-chce-przeznaczyc-518-mln-zl-na-wyplate-dywidendy-za-20252026"
+  },
+  {
+   "id": "bossa-pap-441462",
+   "date": "2026-11-17",
+   "time": "11:26",
+   "ts": "2026-11-17T11:26:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Erbud liczy na duże lepsze wyniki w '27, chce, by Onde wyszło poza obsługę OZE",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441462"
+  },
+  {
+   "id": "bossa-espi-109849",
+   "date": "2026-11-17",
+   "time": "11:25",
+   "ts": "2026-11-17T11:25:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ATLANTAPL",
+   "title": "Deklaracja w sprawie wypłaty dywidendy z zysku netto za rok obrotowy 2025/2026.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-109849"
+  },
+  {
+   "id": "strefa-344873fbf950",
+   "date": "2026-11-17",
+   "time": "11:17",
+   "ts": "2026-11-17T11:17:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Erbud liczy na duże lepsze wyniki w '27, chce, by Onde wyszło poza obsługę OZE",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261117/erbud-liczy-na-duze-lepsze-wyniki-w-27-chce-onde-wyszlo-poza-obsluge-oze"
+  },
   {
    "id": "bossa-espi-109848",
    "date": "2026-11-17",
