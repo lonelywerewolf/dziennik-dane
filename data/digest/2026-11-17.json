@@ -1,24 +1,33 @@
 {
  "date": "2026-11-17",
  "counts": {
-  "podsumowania": 13,
+  "podsumowania": 14,
   "wyniki": 20,
   "rekomendacje": 1,
-  "korporacyjne": 35,
+  "korporacyjne": 38,
   "makro_pl": 27,
-  "swiat_rynki": 14,
+  "swiat_rynki": 15,
   "energetyka_surowce": 5,
   "nieruchomosci": 0,
   "fundusze_drobne": 9,
   "twoje_spolki": 4,
   "obserwowane": 0,
-  "pozostale": 58
+  "pozostale": 60
  },
- "duplicatesRemoved": 90,
- "total": 276,
+ "duplicatesRemoved": 91,
+ "total": 284,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "17:37",
+    "kind": "pap",
+    "ticker": null,
+    "title": "WIG20 na zamknięciu wyniósł 4252,28 pkt (1,16%)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441596",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:58",
     "kind": "skrot",
@@ -139,12 +148,12 @@
   ],
   "wyniki": [
    {
-    "time": "17:26",
-    "kind": "pap",
+    "time": "17:20",
+    "kind": "news",
     "ticker": null,
     "title": "Wyniki Inter Carsu w III kw. 2026 roku vs. konsensus PAP (tabela)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441590",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261117/wyniki-inter-carsu-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+    "src": "strefainwestorow",
     "flags": [
      "wyniki"
     ]
@@ -353,6 +362,35 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "17:31",
+    "kind": "espi",
+    "ticker": null,
+    "title": "R.POWER S.A.: Zawarcie umowy o świadczenie usług magazynowania przez spółkę z Grupy R.Power S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-10183",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "17:30",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Sigma Defence S.A.: Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia Spółki na dzień 14 grudnia 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-109914",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:28",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Euvic S.A.: Rozszerzenie grupy kapitałowej Euvic poprzez przejęcie 50,42% udziałów Jantar sp. z o.o. z siedzibą w Bielsku-Białej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-109913",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:23",
     "kind": "espi",
@@ -967,6 +1005,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "17:34",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GREEN LANES S.A.: Zakończenie procesu budowania księgi popytu, ustalenie ceny emisyjnej oraz podjęcie decyzji o skierowaniu ofert objęcia akcji serii I",
+    "url": "https://bossa.pl/analizy/komunikaty#message-109915",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "16:01",
     "kind": "pap",
     "ticker": null,
@@ -1266,6 +1313,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:37",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Onesano S.A.: SA-Q",
+    "url": "https://bossa.pl/analizy/komunikaty#message-109916",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:28",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Stawka Polonia spadła we wtorek do 3,65 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441591",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:06",
     "kind": "espi",
