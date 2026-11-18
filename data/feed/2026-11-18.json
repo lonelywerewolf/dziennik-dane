@@ -1,7 +1,43 @@
 {
  "date": "2026-11-18",
- "count": 198,
+ "count": 201,
  "items": [
+  {
+   "id": "bossa-pap-441791",
+   "date": "2026-11-18",
+   "time": "14:30",
+   "ts": "2026-11-18T14:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MF w ramach sprzedaży dodatkowej uplasowało papiery za 607,95 mln zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441791"
+  },
+  {
+   "id": "bossa-pap-441790",
+   "date": "2026-11-18",
+   "time": "14:28",
+   "ts": "2026-11-18T14:28:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Orange Polska jest technicznie gotowe do uruchomienia technologii 5G SA - Jaworski",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441790"
+  },
+  {
+   "id": "bossa-espi-136479",
+   "date": "2026-11-18",
+   "time": "14:25",
+   "ts": "2026-11-18T14:25:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PEPEES",
+   "title": "Oddalenie apelacji Epsilon w sprawie o uchylenie pięciu uchwał ZWZ z 2019 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136479"
+  },
   {
    "id": "bossa-espi-136478",
    "date": "2026-11-18",
