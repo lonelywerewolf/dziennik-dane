@@ -10,6 +10,24 @@
    "house": "PKO Bank Polski S.A."
   },
   {
+   "date": "2026-11-18",
+   "ticker": "ACT",
+   "company": "ACTION S.A.",
+   "file": "20261118_dom_maklerski_banku_ochrony_środowiska_act_pl_aw.pdf",
+   "url": "https://www.gpw.pl/pub/pwpa/20261118_dom_maklerski_banku_ochrony_%C5%9Brodowiska_act_pl_aw.pdf",
+   "type": "analiza wyników",
+   "house": "Dom Maklerski Banku Ochrony Środowiska S.A."
+  },
+  {
+   "date": "2026-11-18",
+   "ticker": "APT",
+   "company": "APATOR S.A.",
+   "file": "20261118_biuro_maklerskie_banku_pekao_apt_pl_aw.pdf",
+   "url": "https://www.gpw.pl/pub/pwpa/20261118_biuro_maklerskie_banku_pekao_apt_pl_aw.pdf",
+   "type": "analiza wyników",
+   "house": "Biuro Maklerskie Banku Pekao S.A."
+  },
+  {
    "date": "2026-11-17",
    "ticker": "IZS",
    "company": "IZOSTAL S.A.",
@@ -26,7 +44,8 @@
    "url": "https://www.gpw.pl/pub/pwpa/20261117_erste_securities_polska_vrc_pl_aw.pdf",
    "type": "analiza wyników",
    "house": "Erste Securities Polska S.A.",
-   "pdfTries": 3
+   "pdfTries": 4,
+   "pdfLastTry": "2026-11-18T08:30+01:00"
   },
   {
    "date": "2026-11-17",
@@ -36,7 +55,8 @@
    "url": "https://www.gpw.pl/pub/pwpa/20261117_mbank_cbf_pl_aw.pdf",
    "type": "analiza wyników",
    "house": "mBank S.A.",
-   "pdfTries": 3
+   "pdfTries": 4,
+   "pdfLastTry": "2026-11-18T08:30+01:00"
   },
   {
    "date": "2026-11-17",
@@ -493,5 +513,5 @@
    "house": "Noble Securities S.A."
   }
  ],
- "updatedAt": "2026-11-18T08:19:40+01:00"
+ "updatedAt": "2026-11-18T08:30:40+01:00"
 }
