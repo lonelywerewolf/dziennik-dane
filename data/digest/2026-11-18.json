@@ -10,12 +10,12 @@
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
-  "twoje_spolki": 1,
+  "twoje_spolki": 2,
   "obserwowane": 0,
   "pozostale": 3
  },
- "duplicatesRemoved": 4,
- "total": 14,
+ "duplicatesRemoved": 5,
+ "total": 16,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -85,6 +85,17 @@
   "nieruchomosci": [],
   "fundusze_drobne": [],
   "twoje_spolki": [
+   {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": "SNT",
+    "title": "Wyniki Synektik w IV kw. 2025/26 roku vs. konsensus PAP Biznes (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/wyniki-synektik-w-iv-kw-202526-roku-vs-konsensus-pap-biznes-tabela",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "06:03",
     "kind": "espi",
