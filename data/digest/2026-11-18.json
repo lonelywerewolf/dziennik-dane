@@ -4,7 +4,7 @@
   "podsumowania": 17,
   "wyniki": 19,
   "rekomendacje": 0,
-  "korporacyjne": 46,
+  "korporacyjne": 47,
   "makro_pl": 26,
   "swiat_rynki": 26,
   "energetyka_surowce": 10,
@@ -15,7 +15,7 @@
   "pozostale": 64
  },
  "duplicatesRemoved": 137,
- "total": 369,
+ "total": 370,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -366,6 +366,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "20:03",
+    "kind": "espi",
+    "ticker": null,
+    "title": "LIBET S.A.: Doręczenie Spółce zawiadomień, o których mowa w art. 69 i 69a ustawy o ofercie publicznej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136534",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "19:36",
     "kind": "pap",
