@@ -2,7 +2,7 @@
  "date": "2026-11-18",
  "counts": {
   "podsumowania": 4,
-  "wyniki": 0,
+  "wyniki": 1,
   "rekomendacje": 0,
   "korporacyjne": 0,
   "makro_pl": 1,
@@ -15,7 +15,7 @@
   "pozostale": 3
  },
  "duplicatesRemoved": 5,
- "total": 16,
+ "total": 17,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -56,7 +56,19 @@
     "flags": []
    }
   ],
-  "wyniki": [],
+  "wyniki": [
+   {
+    "time": "07:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "Modernizacja sieci w Polsce napędza wyniki Grupy Apator w okresie trzech kwartałów 2026 roku",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/modernizacja-sieci-w-polsce-napedza-wyniki-grupy-apator-w-okresie-trzech",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   }
+  ],
   "rekomendacje": [],
   "korporacyjne": [],
   "makro_pl": [
