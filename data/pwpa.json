@@ -37,6 +37,15 @@
    "house": "Biuro Maklerskie Banku Pekao S.A."
   },
   {
+   "date": "2026-11-18",
+   "ticker": "DAD",
+   "company": "DADELO S.A.",
+   "file": "20261118_trigon_dom_maklerski_dad_pl_aw.pdf",
+   "url": "https://www.gpw.pl/pub/pwpa/20261118_trigon_dom_maklerski_dad_pl_aw.pdf",
+   "type": "analiza wyników",
+   "house": "Trigon Dom Maklerski S.A."
+  },
+  {
    "date": "2026-11-17",
    "ticker": "IZS",
    "company": "IZOSTAL S.A.",
@@ -522,5 +531,5 @@
    "house": "Noble Securities S.A."
   }
  ],
- "updatedAt": "2026-11-18T09:25:40+01:00"
+ "updatedAt": "2026-11-18T09:36:40+01:00"
 }

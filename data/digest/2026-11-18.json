@@ -1,24 +1,33 @@
 {
  "date": "2026-11-18",
  "counts": {
-  "podsumowania": 8,
+  "podsumowania": 9,
   "wyniki": 6,
   "rekomendacje": 0,
   "korporacyjne": 7,
-  "makro_pl": 4,
+  "makro_pl": 6,
   "swiat_rynki": 5,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
-  "fundusze_drobne": 0,
-  "twoje_spolki": 7,
+  "fundusze_drobne": 1,
+  "twoje_spolki": 8,
   "obserwowane": 0,
   "pozostale": 11
  },
- "duplicatesRemoved": 22,
- "total": 71,
+ "duplicatesRemoved": 27,
+ "total": 81,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "09:23",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: W Europie na giełdach wahania wskaźników",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/dzien-na-rynkach-w-europie-na-gieldach-wahania-wskaznikow",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:15",
     "kind": "pap",
@@ -232,6 +241,24 @@
   ],
   "makro_pl": [
    {
+    "time": "09:35",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BOM: Rok Sejmu Włodzimierza Czarzastego (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441701",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "09:28",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PZU ETF OBLIGACJI SKARBOWYCH DŁUGOTERMINOWYCH PORTFELOWY FIZ: RB_FI_E_30.04.18",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136433",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "08:25",
     "kind": "news",
     "ticker": null,
@@ -327,8 +354,27 @@
    }
   ],
   "nieruchomosci": [],
-  "fundusze_drobne": [],
+  "fundusze_drobne": [
+   {
+    "time": "09:35",
+    "kind": "espi",
+    "ticker": null,
+    "title": "FUNDUSZ DŁUGU KORPORACYJNEGO RENTIER FIZ: PC-E_30.04.18",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136438",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "twoje_spolki": [
+   {
+    "time": "09:34",
+    "kind": "news",
+    "ticker": "NVDA",
+    "title": "Potężny kwartał Nvidii. Sprzedaż ma sięgnąć aż 130 mld dolarów, kurs akcji rośnie",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/potezny-kwartal-nvidii-sprzedaz-ma-siegnac-az-130-mld-dolarow-kurs-akcji-rosnie",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:22",
     "kind": "news",
