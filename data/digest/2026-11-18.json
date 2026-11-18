@@ -2,20 +2,20 @@
  "date": "2026-11-18",
  "counts": {
   "podsumowania": 10,
-  "wyniki": 6,
+  "wyniki": 7,
   "rekomendacje": 0,
-  "korporacyjne": 20,
-  "makro_pl": 17,
+  "korporacyjne": 23,
+  "makro_pl": 18,
   "swiat_rynki": 12,
-  "energetyka_surowce": 3,
+  "energetyka_surowce": 5,
   "nieruchomosci": 0,
   "fundusze_drobne": 3,
   "twoje_spolki": 9,
   "obserwowane": 0,
   "pozostale": 30
  },
- "duplicatesRemoved": 55,
- "total": 165,
+ "duplicatesRemoved": 65,
+ "total": 182,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -112,6 +112,17 @@
   ],
   "wyniki": [
    {
+    "time": "13:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Dąbrowski z RPP nie widzi potrzeby podnoszenia stóp wobec wyników projekcji, czy braku presji płacowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441768",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
     "time": "09:20",
     "kind": "news",
     "ticker": null,
@@ -172,6 +183,59 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "13:39",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ELQ S.A.: Zawarcie umowy sprzedaży magazynu energii w Polsce w ramach rozwoju działalności BESS Local Content zgodnie z wcześniejszymi komunikatami.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136471",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "13:38",
+    "kind": "news",
+    "ticker": null,
+    "title": "BGK w 2027 r. wróci na rynek z emisjami na rzecz Funduszu Pomocy",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/bgk-w-2027-r-wroci-na-rynek-z-emisjami-na-rzecz-funduszu-pomocy",
+    "src": "strefainwestorow",
+    "flags": [
+     "emisja"
+    ]
+   },
+   {
+    "time": "13:37",
+    "kind": "news",
+    "ticker": null,
+    "title": "W ramach emisji na rzecz FPC w '27 r. BGK skupi się na rynku krajowym",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/w-ramach-emisji-na-rzecz-fpc-w-27-r-bgk-skupi-sie-na-rynku-krajowym",
+    "src": "strefainwestorow",
+    "flags": [
+     "emisja"
+    ]
+   },
+   {
+    "time": "13:33",
+    "kind": "espi",
+    "ticker": null,
+    "title": "VIVID GAMES S.A.: Ogłoszenie o zwołaniu NWZA",
+    "url": "https://bossa.pl/analizy/komunikaty#message-5892",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:31",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MR HAMBURGER S.A.: Zawiadomienia akcjonariuszy w trybie art. 69 ustawy o ofercie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136466",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "13:15",
     "kind": "espi",
@@ -272,34 +336,12 @@
     "time": "11:20",
     "kind": "pap",
     "ticker": null,
-    "title": "W ramach emisji na rzecz FPC w '27 r. BGK skupi się na rynku krajowym",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441720",
-    "src": "bossa",
-    "flags": [
-     "emisja"
-    ]
-   },
-   {
-    "time": "11:20",
-    "kind": "pap",
-    "ticker": null,
     "title": "Ostatnia emisja w EUR w znacznym stopniu zabezpieczyła potrzeby KFD na '27 - BGK",
     "url": "https://bossa.pl/analizy/komunikaty#message-441719",
     "src": "bossa",
     "flags": [
      "emisja",
      "akcjonariat"
-    ]
-   },
-   {
-    "time": "11:20",
-    "kind": "pap",
-    "ticker": null,
-    "title": "BGK w 2027 r. wróci na rynek z emisjami na rzecz Funduszu Pomocy",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441718",
-    "src": "bossa",
-    "flags": [
-     "emisja"
     ]
    },
    {
@@ -391,6 +433,33 @@
   ],
   "makro_pl": [
    {
+    "time": "13:39",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zamrożenie cen gazu i prądu w '27 odjęłoby ok. 0,7 pkt. proc. od średniorocznej inflacji - ING (opinia)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/zamrozenie-cen-gazu-i-pradu-w-27-odjeloby-ok-07-pkt-proc-od-sredniorocznej",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "13:36",
+    "kind": "news",
+    "ticker": null,
+    "title": "Rynek obligacji jest obecnie jedynie uzupełniającym źródłem pozyskiwania środków na FWSZ - BGK",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/rynek-obligacji-jest-obecnie-jedynie-uzupelniajacym-zrodlem-pozyskiwania",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "13:34",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PZU ETF OBLIGACJI SKARBOWYCH DŁUGOTERMINOWYCH PORTFELOWY FIZ: WANCI-E_30.04.18",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136467",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "13:21",
     "kind": "news",
     "ticker": null,
@@ -442,24 +511,6 @@
     "title": "Tabela kursów średnich NBP nr 224/A/NBP/2026",
     "url": "https://strefainwestorow.pl/wiadomosci/20261118/tabela-kursow-srednich-nbp-nr-224anbp2026",
     "src": "strefainwestorow",
-    "flags": []
-   },
-   {
-    "time": "11:21",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Rynek obligacji jest obecnie jedynie uzupełniającym źródłem pozyskiwania środków na FWSZ - BGK",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441721",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "11:02",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Zamrożenie cen gazu i prądu w '27 odjęłoby ok. 0,7 pkt. proc. od średniorocznej inflacji - ING (opinia)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441713",
-    "src": "bossa",
     "flags": []
    },
    {
@@ -656,12 +707,30 @@
   ],
   "energetyka_surowce": [
    {
-    "time": "12:42",
-    "kind": "pap",
+    "time": "13:36",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zużycie energii elektrycznej przez centra danych może się niemal podwoić do 2030 r. - raport EY",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/zuzycie-energii-elektrycznej-przez-centra-danych-moze-sie-niemal-podwoic-do",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "13:35",
+    "kind": "news",
+    "ticker": null,
+    "title": "Onde rozszerza działalność o segment usług wspierających stabilność krajowego systemu elektroenergetycznego",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/onde-rozszerza-dzialalnosc-o-segment-uslug-wspierajacych-stabilnosc-krajowego",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "13:27",
+    "kind": "news",
     "ticker": null,
     "title": "Kroki dotyczące cen prądu zostaną przedstawione w kolejnych tygodniach - Motyka",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441746",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/kroki-dotyczace-cen-pradu-zostana-przedstawione-w-kolejnych-tygodniach-motyka",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
