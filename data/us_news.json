@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "8d05b6ba25b7",
+   "ticker": "NVDA",
+   "time": "2026-11-18T18:03+01:00",
+   "title": "Stocks Mixed as Nvidia Erases Overnight Gains",
+   "url": "https://www.nasdaq.com/articles/stocks-mixed-nvidia-erases-overnight-gains",
+   "src": "nasdaq",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is down -0.20% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.96%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.36%.  December E-mini S&P futures (ESZ26 ) are down -0.15%, and December E-mini Nasdaq futures..."
+  },
+  {
    "id": "8b2c2c144e79",
    "ticker": "NVDA",
    "time": "2026-11-18T17:07+01:00",
@@ -15013,5 +15022,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-18T18:12:00+01:00"
+ "updatedAt": "2026-11-18T18:22:59+01:00"
 }

@@ -12,10 +12,10 @@
   "fundusze_drobne": 11,
   "twoje_spolki": 10,
   "obserwowane": 0,
-  "pozostale": 59
+  "pozostale": 60
  },
- "duplicatesRemoved": 124,
- "total": 338,
+ "duplicatesRemoved": 128,
+ "total": 343,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1522,6 +1522,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "18:20",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MILISYSTEM S.A.: Aktualizacja informacji dotyczącej procesu wprowadzenia akcji serii C oraz akcji serii D do obrotu w Alternatywnym Systemie Obrotu na rynku NewConnect",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136528",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:08",
     "kind": "espi",
