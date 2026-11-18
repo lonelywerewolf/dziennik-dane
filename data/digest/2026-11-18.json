@@ -2,7 +2,7 @@
  "date": "2026-11-18",
  "counts": {
   "podsumowania": 10,
-  "wyniki": 7,
+  "wyniki": 8,
   "rekomendacje": 0,
   "korporacyjne": 23,
   "makro_pl": 18,
@@ -10,12 +10,12 @@
   "energetyka_surowce": 5,
   "nieruchomosci": 1,
   "fundusze_drobne": 3,
-  "twoje_spolki": 9,
+  "twoje_spolki": 10,
   "obserwowane": 0,
   "pozostale": 30
  },
- "duplicatesRemoved": 69,
- "total": 187,
+ "duplicatesRemoved": 71,
+ "total": 191,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -111,6 +111,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "13:42",
+    "kind": "news",
+    "ticker": null,
+    "title": "Answear liczy na udany IV kw.; zakłada realizację celu EBITDA w '26 z programu motywacyjnego",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/answear-liczy-na-udany-iv-kw-zaklada-realizacje-celu-ebitda-w-26-z-programu",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "13:32",
     "kind": "pap",
@@ -795,6 +804,15 @@
    }
   ],
   "twoje_spolki": [
+   {
+    "time": "13:52",
+    "kind": "news",
+    "ticker": "SNT",
+    "title": "Synektik zakłada w 2026/27 utrzymanie rdr poziomu sprzedaży da Vinci; IV kw. nie reprezentuje potencjału grupy",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/synektik-zaklada-w-202627-utrzymanie-rdr-poziomu-sprzedazy-da-vinci-iv-kw-nie",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "10:38",
     "kind": "pap",

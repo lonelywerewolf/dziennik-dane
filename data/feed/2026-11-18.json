@@ -1,7 +1,42 @@
 {
  "date": "2026-11-18",
- "count": 187,
+ "count": 191,
  "items": [
+  {
+   "id": "bossa-pap-441781",
+   "date": "2026-11-18",
+   "time": "13:53",
+   "ts": "2026-11-18T13:53:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Synektik zakłada w 2026/27 utrzymanie rdr poziomu sprzedaży da Vinci; IV kw. nie reprezentuje potencjału grupy",
+   "ticker": "SNT",
+   "url": "https://bossa.pl/analizy/komunikaty#message-441781"
+  },
+  {
+   "id": "strefa-692b87fcfdfd",
+   "date": "2026-11-18",
+   "time": "13:52",
+   "ts": "2026-11-18T13:52:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Synektik zakłada w 2026/27 utrzymanie rdr poziomu sprzedaży da Vinci; IV kw. nie reprezentuje potencjału grupy",
+   "ticker": "SNT",
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/synektik-zaklada-w-202627-utrzymanie-rdr-poziomu-sprzedazy-da-vinci-iv-kw-nie"
+  },
+  {
+   "id": "bossa-pap-441780",
+   "date": "2026-11-18",
+   "time": "13:50",
+   "ts": "2026-11-18T13:50:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Answear liczy na udany IV kw.; zakłada realizację celu EBITDA w '26 z programu motywacyjnego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441780"
+  },
   {
    "id": "bossa-pap-441779",
    "date": "2026-11-18",
@@ -25,6 +60,17 @@
    "title": "WANCI-E_30.04.18",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-136474"
+  },
+  {
+   "id": "strefa-a64c37622f08",
+   "date": "2026-11-18",
+   "time": "13:42",
+   "ts": "2026-11-18T13:42:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Answear liczy na udany IV kw.; zakłada realizację celu EBITDA w '26 z programu motywacyjnego",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/answear-liczy-na-udany-iv-kw-zaklada-realizacje-celu-ebitda-w-26-z-programu"
   },
   {
    "id": "strefa-4f15b288e40a",
