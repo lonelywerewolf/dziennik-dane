@@ -1,7 +1,55 @@
 {
  "date": "2026-11-18",
- "count": 129,
+ "count": 134,
  "items": [
+  {
+   "id": "bossa-espi-4941",
+   "date": "2026-11-18",
+   "time": "12:32",
+   "ts": "2026-11-18T12:32:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF S&P 500 PLN-HEDGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 232 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-4941"
+  },
+  {
+   "id": "bossa-pap-441738",
+   "date": "2026-11-18",
+   "time": "12:27",
+   "ts": "2026-11-18T12:27:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Na razie skala rozlewania się cen energii na inne towary i usługi jest ograniczona - Kightley, NBP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441738"
+  },
+  {
+   "id": "bossa-espi-5077",
+   "date": "2026-11-18",
+   "time": "12:27",
+   "ts": "2026-11-18T12:27:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 PLN-HEDGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 232 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-5077"
+  },
+  {
+   "id": "bossa-espi-136450",
+   "date": "2026-11-18",
+   "time": "12:27",
+   "ts": "2026-11-18T12:27:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "RANK PROGRESS S.A.",
+   "title": "Zawarcie umowy kredytu przez spółkę zależną Emitenta",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136450"
+  },
   {
    "id": "bossa-espi-136449",
    "date": "2026-11-18",
@@ -85,6 +133,17 @@
    "title": "Zawarcie umowy generalnego wykonawstwa hali produkcyjno-magazynowej w woj. kujawsko-pomorskim",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-136444"
+  },
+  {
+   "id": "strefa-d04b60fd091f",
+   "date": "2026-11-18",
+   "time": "11:50",
+   "ts": "2026-11-18T11:50:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Na razie skala rozlewania się cen energii na inne towary i usługi jest ograniczona - Kightley, NBP",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/na-razie-skala-rozlewania-sie-cen-energii-na-inne-towary-i-uslugi-jest"
   },
   {
    "id": "bossa-pap-441729",
