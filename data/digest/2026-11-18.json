@@ -1,11 +1,11 @@
 {
  "date": "2026-11-18",
  "counts": {
-  "podsumowania": 9,
+  "podsumowania": 10,
   "wyniki": 6,
   "rekomendacje": 0,
-  "korporacyjne": 8,
-  "makro_pl": 10,
+  "korporacyjne": 11,
+  "makro_pl": 11,
   "swiat_rynki": 9,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
@@ -14,11 +14,20 @@
   "obserwowane": 0,
   "pozostale": 18
  },
- "duplicatesRemoved": 32,
- "total": 103,
+ "duplicatesRemoved": 33,
+ "total": 109,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "11:06",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: Główne indeksy lekko zniżkują; w WIG20 najsłabszy KGHM",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/dzien-na-gpw-glowne-indeksy-lekko-znizkuja-w-wig20-najslabszy-kghm",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:23",
     "kind": "news",
@@ -164,6 +173,40 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "11:20",
+    "kind": "pap",
+    "ticker": null,
+    "title": "W ramach emisji na rzecz FPC w '27 r. BGK skupi się na rynku krajowym",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441720",
+    "src": "bossa",
+    "flags": [
+     "emisja"
+    ]
+   },
+   {
+    "time": "11:20",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Ostatnia emisja w EUR w znacznym stopniu zabezpieczyła potrzeby KFD na '27 - BGK",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441719",
+    "src": "bossa",
+    "flags": [
+     "emisja",
+     "akcjonariat"
+    ]
+   },
+   {
+    "time": "11:20",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BGK w 2027 r. wróci na rynek z emisjami na rzecz Funduszu Pomocy",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441718",
+    "src": "bossa",
+    "flags": [
+     "emisja"
+    ]
+   },
+   {
     "time": "09:36",
     "kind": "news",
     "ticker": null,
@@ -251,6 +294,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "11:21",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Rynek obligacji jest obecnie jedynie uzupełniającym źródłem pozyskiwania środków na FWSZ - BGK",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441721",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:02",
     "kind": "pap",

@@ -1,7 +1,67 @@
 {
  "date": "2026-11-18",
- "count": 103,
+ "count": 109,
  "items": [
+  {
+   "id": "bossa-pap-441721",
+   "date": "2026-11-18",
+   "time": "11:21",
+   "ts": "2026-11-18T11:21:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Rynek obligacji jest obecnie jedynie uzupełniającym źródłem pozyskiwania środków na FWSZ - BGK",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441721"
+  },
+  {
+   "id": "bossa-pap-441720",
+   "date": "2026-11-18",
+   "time": "11:20",
+   "ts": "2026-11-18T11:20:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "W ramach emisji na rzecz FPC w '27 r. BGK skupi się na rynku krajowym",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441720"
+  },
+  {
+   "id": "bossa-pap-441719",
+   "date": "2026-11-18",
+   "time": "11:20",
+   "ts": "2026-11-18T11:20:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ostatnia emisja w EUR w znacznym stopniu zabezpieczyła potrzeby KFD na '27 - BGK",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441719"
+  },
+  {
+   "id": "bossa-pap-441718",
+   "date": "2026-11-18",
+   "time": "11:20",
+   "ts": "2026-11-18T11:20:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "BGK w 2027 r. wróci na rynek z emisjami na rzecz Funduszu Pomocy",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441718"
+  },
+  {
+   "id": "bossa-pap-441717",
+   "date": "2026-11-18",
+   "time": "11:16",
+   "ts": "2026-11-18T11:16:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: Główne indeksy lekko zniżkują; w WIG20 najsłabszy KGHM",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441717"
+  },
   {
    "id": "bossa-pap-441716",
    "date": "2026-11-18",
@@ -13,6 +73,17 @@
    "title": "Wskaźniki referencyjne - EURIBOR",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-441716"
+  },
+  {
+   "id": "strefa-60f24baff2fa",
+   "date": "2026-11-18",
+   "time": "11:06",
+   "ts": "2026-11-18T11:06:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: Główne indeksy lekko zniżkują; w WIG20 najsłabszy KGHM",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/dzien-na-gpw-glowne-indeksy-lekko-znizkuja-w-wig20-najslabszy-kghm"
   },
   {
    "id": "bossa-pap-441715",
