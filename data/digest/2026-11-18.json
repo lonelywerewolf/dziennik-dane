@@ -12,10 +12,10 @@
   "fundusze_drobne": 1,
   "twoje_spolki": 9,
   "obserwowane": 0,
-  "pozostale": 13
+  "pozostale": 14
  },
  "duplicatesRemoved": 31,
- "total": 95,
+ "total": 96,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -519,6 +519,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "10:51",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MC: Programiści zmierzą się z wyzwaniami. Trwa rejestracja na HackNation 2026? (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441710",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:32",
     "kind": "pap",
