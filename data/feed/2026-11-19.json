@@ -1,7 +1,43 @@
 {
  "date": "2026-11-19",
- "count": 1,
+ "count": 4,
  "items": [
+  {
+   "id": "bossa-espi-162307",
+   "date": "2026-11-19",
+   "time": "00:24",
+   "ts": "2026-11-19T00:24:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "SKYLINE INVESTMENT S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-162307"
+  },
+  {
+   "id": "bossa-espi-162006",
+   "date": "2026-11-19",
+   "time": "00:23",
+   "ts": "2026-11-19T00:23:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "DOM DEVELOPMENT S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-162006"
+  },
+  {
+   "id": "bossa-espi-160244",
+   "date": "2026-11-19",
+   "time": "00:07",
+   "ts": "2026-11-19T00:07:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "CENTRUM MEDYCZNE ENEL-MED S.A.",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-160244"
+  },
   {
    "id": "bossa-espi-159314",
    "date": "2026-11-19",
