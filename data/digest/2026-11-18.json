@@ -4,7 +4,7 @@
   "podsumowania": 17,
   "wyniki": 19,
   "rekomendacje": 0,
-  "korporacyjne": 51,
+  "korporacyjne": 52,
   "makro_pl": 26,
   "swiat_rynki": 28,
   "energetyka_surowce": 10,
@@ -15,7 +15,7 @@
   "pozostale": 65
  },
  "duplicatesRemoved": 145,
- "total": 386,
+ "total": 387,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -366,6 +366,15 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "22:33",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Anthropic ustalił cenę w IPO na 83 USD za akcję - media",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441933",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "22:22",
     "kind": "espi",
