@@ -1,7 +1,87 @@
 {
  "date": "2026-11-18",
- "count": 23,
+ "count": 30,
  "items": [
+  {
+   "id": "strefa-470126a589c5",
+   "date": "2026-11-18",
+   "time": "07:54",
+   "ts": "2026-11-18T07:54:13+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Cena emisyjna akcji Green Lanes ustalona na 10 zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/cena-emisyjna-akcji-green-lanes-ustalona-na-10-zl"
+  },
+  {
+   "id": "strefa-088fd7ecb677",
+   "date": "2026-11-18",
+   "time": "07:52",
+   "ts": "2026-11-18T07:52:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Kwartalne wyniki Nvidii powyżej oczekiwań, akcje idą w górę (opis)",
+   "ticker": "NVDA",
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/kwartalne-wyniki-nvidii-powyzej-oczekiwan-akcje-ida-w-gore-opis"
+  },
+  {
+   "id": "bossa-pap-441672",
+   "date": "2026-11-18",
+   "time": "07:51",
+   "ts": "2026-11-18T07:51:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ceny miedzi w Londynie testują 5-miesięczne minimum",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441672"
+  },
+  {
+   "id": "strefa-13bf213f8196",
+   "date": "2026-11-18",
+   "time": "07:50",
+   "ts": "2026-11-18T07:50:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ceny miedzi w Londynie testują 5-miesięczne minimum",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/ceny-miedzi-w-londynie-testuja-5-miesieczne-minimum"
+  },
+  {
+   "id": "bossa-pap-441670",
+   "date": "2026-11-18",
+   "time": "07:49",
+   "ts": "2026-11-18T07:49:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Synektik przedstawił cele operacyjne na rok finansowy 2026, m.in. dalszy wzrost przychodów powtarzalnych",
+   "ticker": "SNT",
+   "url": "https://bossa.pl/analizy/komunikaty#message-441670"
+  },
+  {
+   "id": "bossa-espi-9629",
+   "date": "2026-11-18",
+   "time": "07:49",
+   "ts": "2026-11-18T07:49:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "VIVID GAMES S.A.",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-9629"
+  },
+  {
+   "id": "strefa-60cacecc2885",
+   "date": "2026-11-18",
+   "time": "07:42",
+   "ts": "2026-11-18T07:42:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Synektik przedstawił cele operacyjne na rok finansowy 2026, m.in. dalszy wzrost przychodów powtarzalnych",
+   "ticker": "SNT",
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/synektik-przedstawil-cele-operacyjne-na-rok-finansowy-2026-min-dalszy-wzrost"
+  },
   {
    "id": "strefa-2fc14bbcd573",
    "date": "2026-11-18",

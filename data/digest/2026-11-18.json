@@ -10,12 +10,12 @@
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
-  "twoje_spolki": 3,
+  "twoje_spolki": 5,
   "obserwowane": 0,
-  "pozostale": 3
+  "pozostale": 6
  },
- "duplicatesRemoved": 8,
- "total": 23,
+ "duplicatesRemoved": 10,
+ "total": 30,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -117,6 +117,26 @@
   "fundusze_drobne": [],
   "twoje_spolki": [
    {
+    "time": "07:52",
+    "kind": "news",
+    "ticker": "NVDA",
+    "title": "Kwartalne wyniki Nvidii powyżej oczekiwań, akcje idą w górę (opis)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/kwartalne-wyniki-nvidii-powyzej-oczekiwan-akcje-ida-w-gore-opis",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "07:42",
+    "kind": "news",
+    "ticker": "SNT",
+    "title": "Synektik przedstawił cele operacyjne na rok finansowy 2026, m.in. dalszy wzrost przychodów powtarzalnych",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/synektik-przedstawil-cele-operacyjne-na-rok-finansowy-2026-min-dalszy-wzrost",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "07:20",
     "kind": "news",
     "ticker": "SNT",
@@ -148,6 +168,33 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "07:54",
+    "kind": "news",
+    "ticker": null,
+    "title": "Cena emisyjna akcji Green Lanes ustalona na 10 zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/cena-emisyjna-akcji-green-lanes-ustalona-na-10-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "07:50",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny miedzi w Londynie testują 5-miesięczne minimum",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/ceny-miedzi-w-londynie-testuja-5-miesieczne-minimum",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "07:49",
+    "kind": "espi",
+    "ticker": null,
+    "title": "VIVID GAMES S.A.: Q",
+    "url": "https://bossa.pl/analizy/komunikaty#message-9629",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "07:01",
     "kind": "news",
