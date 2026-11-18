@@ -1,7 +1,43 @@
 {
  "date": "2026-11-18",
- "count": 191,
+ "count": 194,
  "items": [
+  {
+   "id": "bossa-espi-136475",
+   "date": "2026-11-18",
+   "time": "14:10",
+   "ts": "2026-11-18T14:10:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MENNICA",
+   "title": "Zawiadomienie o transakcjach w trybie art. 19 MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136475"
+  },
+  {
+   "id": "bossa-pap-441783",
+   "date": "2026-11-18",
+   "time": "14:08",
+   "ts": "2026-11-18T14:08:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeks wniosków o kredyt hipoteczny MBA w USA: -2,3 proc. Poprzednio: +6,2 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441783"
+  },
+  {
+   "id": "bossa-pap-441782",
+   "date": "2026-11-18",
+   "time": "14:07",
+   "ts": "2026-11-18T14:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Cena referencyjna węgla we wrześniu wyniosła 21,57 zł za gigadżul - ARP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441782"
+  },
   {
    "id": "bossa-pap-441781",
    "date": "2026-11-18",
