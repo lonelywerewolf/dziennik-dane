@@ -4,18 +4,18 @@
   "podsumowania": 17,
   "wyniki": 19,
   "rekomendacje": 0,
-  "korporacyjne": 43,
-  "makro_pl": 25,
+  "korporacyjne": 44,
+  "makro_pl": 26,
   "swiat_rynki": 26,
   "energetyka_surowce": 10,
   "nieruchomosci": 1,
   "fundusze_drobne": 13,
   "twoje_spolki": 10,
   "obserwowane": 0,
-  "pozostale": 62
+  "pozostale": 63
  },
- "duplicatesRemoved": 133,
- "total": 359,
+ "duplicatesRemoved": 136,
+ "total": 365,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -366,6 +366,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "19:04",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Komunikat w sprawie zmiany wezwania do zapisywania się na sprzedaż akcji ERSTE BANK POLSKA S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441915",
+    "src": "bossa",
+    "flags": [
+     "wezwanie"
+    ]
+   },
    {
     "time": "18:50",
     "kind": "espi",
@@ -825,6 +836,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "19:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "PKO BP wyemitował obligacje o łącznej wartości nominalnej 500 mln dolarów",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/pko-bp-wyemitowal-obligacje-o-lacznej-wartosci-nominalnej-500-mln-dolarow",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "18:24",
     "kind": "pap",
@@ -1610,12 +1630,21 @@
   "obserwowane": [],
   "pozostale": [
    {
-    "time": "18:52",
-    "kind": "pap",
+    "time": "18:57",
+    "kind": "news",
     "ticker": null,
     "title": "Mostostal Warszawa ustalił cenę emisyjną akcji serii VI na 2,75 zł",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441912",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/mostostal-warszawa-ustalil-cene-emisyjna-akcji-serii-vi-na-275-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "18:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wyższe ceny alkoholu od 2027 roku. Prezydent Karol Nawrocki złożył podpis pod nowelizacją",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/wyzsze-ceny-alkoholu-od-2027-roku-prezydent-karol-nawrocki-zlozyl-podpis-pod",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
