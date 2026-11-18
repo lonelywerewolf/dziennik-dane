@@ -4,8 +4,8 @@
   "podsumowania": 4,
   "wyniki": 1,
   "rekomendacje": 0,
-  "korporacyjne": 0,
-  "makro_pl": 2,
+  "korporacyjne": 2,
+  "makro_pl": 3,
   "swiat_rynki": 2,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 7
  },
- "duplicatesRemoved": 11,
- "total": 33,
+ "duplicatesRemoved": 13,
+ "total": 38,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -70,8 +70,38 @@
    }
   ],
   "rekomendacje": [],
-  "korporacyjne": [],
+  "korporacyjne": [
+   {
+    "time": "08:13",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MIRACULUM S.A.: Informacja o transakcjach na akcjach Spółki.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136428",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "07:58",
+    "kind": "news",
+    "ticker": null,
+    "title": "Orlen dostarczy Ukrainie gaz ziemny na podstawie nowego kontraktu z Naftogazem",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/orlen-dostarczy-ukrainie-gaz-ziemny-na-podstawie-nowego-kontraktu-z-naftogazem",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   }
+  ],
   "makro_pl": [
+   {
+    "time": "08:10",
+    "kind": "news",
+    "ticker": null,
+    "title": "W I kw. '27 RPP może być zmuszona podnieść stopy - Zarzecki, RPP",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/w-i-kw-27-rpp-moze-byc-zmuszona-podniesc-stopy-zarzecki-rpp",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "07:30",
     "kind": "pap",

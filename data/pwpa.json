@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "date": "2026-11-18",
+   "ticker": "OPN",
+   "company": "OPONEO.PL S.A.",
+   "file": "20261118_pko_bank_polski_opn_pl_aw.pdf",
+   "url": "https://www.gpw.pl/pub/pwpa/20261118_pko_bank_polski_opn_pl_aw.pdf",
+   "type": "analiza wyników",
+   "house": "PKO Bank Polski S.A."
+  },
+  {
    "date": "2026-11-17",
    "ticker": "IZS",
    "company": "IZOSTAL S.A.",
@@ -484,5 +493,5 @@
    "house": "Noble Securities S.A."
   }
  ],
- "updatedAt": "2026-11-18T08:08:41+01:00"
+ "updatedAt": "2026-11-18T08:19:40+01:00"
 }
