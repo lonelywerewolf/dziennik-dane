@@ -1,24 +1,33 @@
 {
  "date": "2026-11-18",
  "counts": {
-  "podsumowania": 16,
+  "podsumowania": 17,
   "wyniki": 17,
   "rekomendacje": 0,
-  "korporacyjne": 37,
+  "korporacyjne": 40,
   "makro_pl": 24,
   "swiat_rynki": 25,
-  "energetyka_surowce": 9,
+  "energetyka_surowce": 10,
   "nieruchomosci": 1,
-  "fundusze_drobne": 10,
+  "fundusze_drobne": 11,
   "twoje_spolki": 10,
   "obserwowane": 0,
-  "pozostale": 55
+  "pozostale": 59
  },
- "duplicatesRemoved": 116,
- "total": 320,
+ "duplicatesRemoved": 124,
+ "total": 338,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "18:06",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Indeksy w Europie spadły; inwestorzy czekają na IPO Anthropic",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/dzien-na-rynkach-indeksy-w-europie-spadly-inwestorzy-czekaja-na-ipo-anthropic",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:36",
     "kind": "pap",
@@ -339,6 +348,35 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "18:07",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Transakcje pakietowe",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441893",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "18:06",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: w sprawie zawieszenia obrotu na Catalyst obligacjami na okaziciela serii 1/2024 spółki MURAPOL S.A.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/gpw-w-sprawie-zawieszenia-obrotu-na-catalyst-obligacjami-na-okaziciela-serii",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "18:02",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BENEFIT SYSTEMS S.A.: Zwołanie – na żądanie akcjonariusza - Nadzwyczajnego Walnego Zgromadzenia Spółki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-9797",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "17:36",
     "kind": "pap",
@@ -737,12 +775,12 @@
   ],
   "makro_pl": [
    {
-    "time": "18:00",
-    "kind": "pap",
+    "time": "18:06",
+    "kind": "news",
     "ticker": null,
     "title": "GPW: w sprawie wyznaczenia pierwszego dnia notowania w alternatywnym systemie obrotu na Catalyst obligacji na okaziciela serii E spółki MATEXI POLSKA HOLDING & FINANCE S.A.",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441884",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/gpw-w-sprawie-wyznaczenia-pierwszego-dnia-notowania-w-alternatywnym-systemie",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -1182,6 +1220,15 @@
   ],
   "energetyka_surowce": [
    {
+    "time": "18:06",
+    "kind": "news",
+    "ticker": null,
+    "title": "Tauron miał w III kw. 1.020 mln zł zysku netto, zgodnie z szacunkami",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/tauron-mial-w-iii-kw-1020-mln-zl-zysku-netto-zgodnie-z-szacunkami",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "15:59",
     "kind": "espi",
     "ticker": null,
@@ -1275,6 +1322,15 @@
    }
   ],
   "fundusze_drobne": [
+   {
+    "time": "18:05",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Nationale-Nederlanden PTE SA informuje",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441891",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:21",
     "kind": "news",
@@ -1466,6 +1522,42 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "18:08",
+    "kind": "espi",
+    "ticker": null,
+    "title": "URTESTE S.A.: Zawiadomienia o zmianie stanu posiadania akcji Spółki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136525",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "18:06",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: komunikat - MATEXI POLSKA HOLDING & FINANCE",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/gpw-komunikat-matexi-polska-holding-finance",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "18:06",
+    "kind": "pap",
+    "ticker": null,
+    "title": "FALCON 1 GREEN WORLD SA (7/2026) Nałożenie na emitenta kary pieniężnej lub innego środka dyscyplinującego przez Organizatora Alternatywnego Systemu lub nałożeniu sankcji administracyjnej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441892",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:56",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zamknięcia na giełdach w Europie (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/zamkniecia-na-gieldach-w-europie-tabela",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:54",
     "kind": "pap",
