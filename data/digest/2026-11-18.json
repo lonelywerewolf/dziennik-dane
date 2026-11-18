@@ -4,18 +4,18 @@
   "podsumowania": 10,
   "wyniki": 6,
   "rekomendacje": 0,
-  "korporacyjne": 11,
+  "korporacyjne": 13,
   "makro_pl": 11,
-  "swiat_rynki": 9,
-  "energetyka_surowce": 1,
+  "swiat_rynki": 10,
+  "energetyka_surowce": 2,
   "nieruchomosci": 0,
   "fundusze_drobne": 1,
   "twoje_spolki": 9,
   "obserwowane": 0,
-  "pozostale": 18
+  "pozostale": 19
  },
- "duplicatesRemoved": 33,
- "total": 109,
+ "duplicatesRemoved": 35,
+ "total": 116,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -172,6 +172,26 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "11:36",
+    "kind": "news",
+    "ticker": null,
+    "title": "MF na przetargu sprzedało obligacje za 11,99 mld zł przy popycie 17,4 mld zł (opis)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/mf-na-przetargu-sprzedalo-obligacje-za-1199-mld-zl-przy-popycie-174-mld-zl-opis",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "11:29",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ENEA WYTWARZANIE SP. Z.O.O.: POWIADOMIENIE O TRANSAKCJI W TRYBIE ART. 19 MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136441",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
    {
     "time": "11:20",
     "kind": "pap",
@@ -396,6 +416,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "11:29",
+    "kind": "news",
+    "ticker": null,
+    "title": "ONDE Balancing Services - kolejny krok Grupy ONDE w budowie kompleksowej oferty dla rynku energetycznego",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/onde-balancing-services-kolejny-krok-grupy-onde-w-budowie-kompleksowej-oferty",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "10:36",
     "kind": "news",
     "ticker": null,
@@ -478,6 +507,15 @@
    }
   ],
   "energetyka_surowce": [
+   {
+    "time": "11:31",
+    "kind": "espi",
+    "ticker": null,
+    "title": "C&C ENERGY SA: Q(1)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136442",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:57",
     "kind": "news",
@@ -589,6 +627,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:17",
+    "kind": "news",
+    "ticker": null,
+    "title": "Euvic przejmuje większościowy pakiet Jantaru, dostawcy IT dla handlu i logistyki",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/euvic-przejmuje-wiekszosciowy-pakiet-jantaru-dostawcy-it-dla-handlu-i-logistyki",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "11:08",
     "kind": "pap",

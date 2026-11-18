@@ -1,7 +1,77 @@
 {
  "date": "2026-11-18",
- "count": 109,
+ "count": 116,
  "items": [
+  {
+   "id": "strefa-857ea48f00ea",
+   "date": "2026-11-18",
+   "time": "11:36",
+   "ts": "2026-11-18T11:36:50+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "MF na przetargu sprzedało obligacje za 11,99 mld zł przy popycie 17,4 mld zł (opis)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/mf-na-przetargu-sprzedalo-obligacje-za-1199-mld-zl-przy-popycie-174-mld-zl-opis"
+  },
+  {
+   "id": "bossa-pap-441725",
+   "date": "2026-11-18",
+   "time": "11:32",
+   "ts": "2026-11-18T11:32:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MF na przetargu sprzedało obligacje za 11,99 mld zł przy popycie 17,4 mld zł (opis)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441725"
+  },
+  {
+   "id": "bossa-espi-136442",
+   "date": "2026-11-18",
+   "time": "11:31",
+   "ts": "2026-11-18T11:31:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "C&C ENERGY SA",
+   "title": "Q(1)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136442"
+  },
+  {
+   "id": "bossa-pap-441723",
+   "date": "2026-11-18",
+   "time": "11:30",
+   "ts": "2026-11-18T11:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MF na przetargu sprzedało obligacje za 11,99 mld zł przy popycie 17,4 mld zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441723"
+  },
+  {
+   "id": "strefa-0f12eb96433e",
+   "date": "2026-11-18",
+   "time": "11:29",
+   "ts": "2026-11-18T11:29:31+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "ONDE Balancing Services - kolejny krok Grupy ONDE w budowie kompleksowej oferty dla rynku energetycznego",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/onde-balancing-services-kolejny-krok-grupy-onde-w-budowie-kompleksowej-oferty"
+  },
+  {
+   "id": "bossa-espi-136441",
+   "date": "2026-11-18",
+   "time": "11:29",
+   "ts": "2026-11-18T11:29:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ENEA WYTWARZANIE SP. Z.O.O.",
+   "title": "POWIADOMIENIE O TRANSAKCJI W TRYBIE ART. 19 MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136441"
+  },
   {
    "id": "bossa-pap-441721",
    "date": "2026-11-18",
@@ -49,6 +119,17 @@
    "title": "BGK w 2027 r. wróci na rynek z emisjami na rzecz Funduszu Pomocy",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-441718"
+  },
+  {
+   "id": "strefa-6d677747ef40",
+   "date": "2026-11-18",
+   "time": "11:17",
+   "ts": "2026-11-18T11:17:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Euvic przejmuje większościowy pakiet Jantaru, dostawcy IT dla handlu i logistyki",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/euvic-przejmuje-wiekszosciowy-pakiet-jantaru-dostawcy-it-dla-handlu-i-logistyki"
   },
   {
    "id": "bossa-pap-441717",
