@@ -4,18 +4,18 @@
   "podsumowania": 11,
   "wyniki": 8,
   "rekomendacje": 0,
-  "korporacyjne": 26,
+  "korporacyjne": 28,
   "makro_pl": 19,
   "swiat_rynki": 14,
   "energetyka_surowce": 6,
   "nieruchomosci": 1,
-  "fundusze_drobne": 6,
+  "fundusze_drobne": 7,
   "twoje_spolki": 10,
   "obserwowane": 0,
   "pozostale": 33
  },
  "duplicatesRemoved": 74,
- "total": 208,
+ "total": 211,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -201,6 +201,28 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "14:53",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MAXIPIZZA SA (11/2026) Podpisanie przez emitenta z firmą audytorską umowy o badanie sprawozdań finansowych lub skonsolidowanych sprawozdań finansowych emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441800",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "14:47",
+    "kind": "pap",
+    "ticker": null,
+    "title": "YOSHI INNOVATION SA (25/2026) Powołanie osoby zarządzającej lub nadzorującej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441798",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "14:16",
     "kind": "espi",
@@ -849,6 +871,15 @@
    }
   ],
   "fundusze_drobne": [
+   {
+    "time": "14:49",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ALLIANZ POLSKA OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441799",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:39",
     "kind": "pap",
