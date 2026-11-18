@@ -4,18 +4,18 @@
   "podsumowania": 10,
   "wyniki": 6,
   "rekomendacje": 0,
-  "korporacyjne": 18,
+  "korporacyjne": 20,
   "makro_pl": 16,
-  "swiat_rynki": 11,
+  "swiat_rynki": 12,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 3,
   "twoje_spolki": 9,
   "obserwowane": 0,
-  "pozostale": 28
+  "pozostale": 29
  },
- "duplicatesRemoved": 47,
- "total": 151,
+ "duplicatesRemoved": 50,
+ "total": 158,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -172,6 +172,28 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "13:15",
+    "kind": "espi",
+    "ticker": null,
+    "title": "QUBICGAMES S.A.: Powiadomienie o transakcjach na akcjach Spółki w trybie art. 19 ust. 1 Rozporządzenia MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136461",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
+    "time": "13:14",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GENOMED S.A.: Zawarcie umowy regulującej sprzedaż akcji Genomed S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136460",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "12:50",
     "kind": "espi",
@@ -515,6 +537,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "12:51",
+    "kind": "news",
+    "ticker": null,
+    "title": "Diagnostyka może kupić akcje Genomed stanowiące 47,14 proc. kapitału zakładowego",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/diagnostyka-moze-kupic-akcje-genomed-stanowiace-4714-proc-kapitalu-zakladowego",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "12:27",
     "kind": "espi",
     "ticker": null,
@@ -764,6 +795,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "13:14",
+    "kind": "pap",
+    "ticker": null,
+    "title": "CIS: Konferencja inaugurująca Ogólnopolską Naradę Obywatelską o bezpiecznym internecie (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441760",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:03",
     "kind": "espi",

@@ -1,7 +1,79 @@
 {
  "date": "2026-11-18",
- "count": 151,
+ "count": 158,
  "items": [
+  {
+   "id": "bossa-espi-136461",
+   "date": "2026-11-18",
+   "time": "13:15",
+   "ts": "2026-11-18T13:15:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "QUBICGAMES S.A.",
+   "title": "Powiadomienie o transakcjach na akcjach Spółki w trybie art. 19 ust. 1 Rozporządzenia MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136461"
+  },
+  {
+   "id": "bossa-pap-441760",
+   "date": "2026-11-18",
+   "time": "13:14",
+   "ts": "2026-11-18T13:14:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "CIS: Konferencja inaugurująca Ogólnopolską Naradę Obywatelską o bezpiecznym internecie (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441760"
+  },
+  {
+   "id": "bossa-espi-136460",
+   "date": "2026-11-18",
+   "time": "13:14",
+   "ts": "2026-11-18T13:14:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "GENOMED S.A.",
+   "title": "Zawarcie umowy regulującej sprzedaż akcji Genomed S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136460"
+  },
+  {
+   "id": "bossa-pap-441758",
+   "date": "2026-11-18",
+   "time": "13:13",
+   "ts": "2026-11-18T13:13:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Diagnostyka może kupić akcje Genomed stanowiące 47,14 proc. kapitału zakładowego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441758"
+  },
+  {
+   "id": "bossa-espi-136459",
+   "date": "2026-11-18",
+   "time": "13:13",
+   "ts": "2026-11-18T13:13:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF sWIG80TR PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 232 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136459"
+  },
+  {
+   "id": "bossa-espi-12534",
+   "date": "2026-11-18",
+   "time": "13:08",
+   "ts": "2026-11-18T13:08:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF OBLIGACJI 6M PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 241 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-12534"
+  },
   {
    "id": "bossa-espi-12226",
    "date": "2026-11-18",
@@ -73,6 +145,17 @@
    "title": "Raport bieżący nr 233 / 2026",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-136456"
+  },
+  {
+   "id": "strefa-0041ca84ad45",
+   "date": "2026-11-18",
+   "time": "12:51",
+   "ts": "2026-11-18T12:51:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Diagnostyka może kupić akcje Genomed stanowiące 47,14 proc. kapitału zakładowego",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/diagnostyka-moze-kupic-akcje-genomed-stanowiace-4714-proc-kapitalu-zakladowego"
   },
   {
    "id": "bossa-pap-441749",
