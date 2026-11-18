@@ -12,10 +12,10 @@
   "fundusze_drobne": 2,
   "twoje_spolki": 9,
   "obserwowane": 0,
-  "pozostale": 21
+  "pozostale": 22
  },
  "duplicatesRemoved": 37,
- "total": 123,
+ "total": 124,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -656,6 +656,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:07",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PROTEKTOR: Rejestracja akcji serii I Emitenta w depozycie papierów wartościowych prowadzonym przez KDPW S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136445",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:49",
     "kind": "pap",
