@@ -1,7 +1,31 @@
 {
  "date": "2026-11-18",
- "count": 17,
+ "count": 19,
  "items": [
+  {
+   "id": "bossa-pap-441667",
+   "date": "2026-11-18",
+   "time": "07:30",
+   "ts": "2026-11-18T07:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Złotowe depozyty międzybankowe - WIBID, WIBOR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441667"
+  },
+  {
+   "id": "bossa-espi-130744",
+   "date": "2026-11-18",
+   "time": "07:27",
+   "ts": "2026-11-18T07:27:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "LW BOGDANKA S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-130744"
+  },
   {
    "id": "strefa-265b569c9416",
    "date": "2026-11-18",

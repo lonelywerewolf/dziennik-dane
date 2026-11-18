@@ -13,9 +13,9 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/avgo"
   },
   "MPWR": {
-   "price": 1314.0,
-   "chgPct": -5.5,
-   "at": "Nov 16, 2026",
+   "price": 1317.37,
+   "chgPct": 0.26,
+   "at": "Nov 17, 2026",
    "src": "https://www.nasdaq.com/market-activity/stocks/mpwr"
   },
   "NVDA": {
@@ -25,9 +25,9 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/nvda"
   },
   "TSM": {
-   "price": 373.455,
-   "chgPct": -6.34,
-   "at": "Nov 16, 2026",
+   "price": 359.637,
+   "chgPct": -3.7,
+   "at": "Nov 17, 2026",
    "src": "https://www.nasdaq.com/market-activity/stocks/tsm"
   },
   "VRT": {
@@ -61,5 +61,5 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/mrvl"
   }
  },
- "updatedAt": "2026-11-18T06:39:31+01:00"
+ "updatedAt": "2026-11-18T07:35:40+01:00"
 }
