@@ -5,17 +5,17 @@
   "wyniki": 6,
   "rekomendacje": 0,
   "korporacyjne": 20,
-  "makro_pl": 16,
+  "makro_pl": 17,
   "swiat_rynki": 12,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 3,
   "twoje_spolki": 9,
   "obserwowane": 0,
-  "pozostale": 29
+  "pozostale": 30
  },
- "duplicatesRemoved": 50,
- "total": 158,
+ "duplicatesRemoved": 55,
+ "total": 165,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -390,6 +390,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "13:21",
+    "kind": "news",
+    "ticker": null,
+    "title": "Rząd może w tym roku przyjąć projekt zwiększenia obliga giełdowego na rynku gazu - minister energii",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/rzad-moze-w-tym-roku-przyjac-projekt-zwiekszenia-obliga-gieldowego-na-rynku",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "12:39",
     "kind": "news",
@@ -795,6 +804,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "13:20",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KUBOTA S.A.: Uzupełnienie informacji o realizacji skupu akcji własnych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136463",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:14",
     "kind": "pap",

@@ -1,7 +1,78 @@
 {
  "date": "2026-11-18",
- "count": 158,
+ "count": 165,
  "items": [
+  {
+   "id": "bossa-espi-136465",
+   "date": "2026-11-18",
+   "time": "13:28",
+   "ts": "2026-11-18T13:28:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF DYWIDENDA PLUS PORTFELOW FIZ",
+   "title": "Raport bieżący nr 239 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136465"
+  },
+  {
+   "id": "bossa-espi-136464",
+   "date": "2026-11-18",
+   "time": "13:23",
+   "ts": "2026-11-18T13:23:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF MWIG40TRsh PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 221 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136464"
+  },
+  {
+   "id": "strefa-931eaf2d97c3",
+   "date": "2026-11-18",
+   "time": "13:21",
+   "ts": "2026-11-18T13:21:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Rząd może w tym roku przyjąć projekt zwiększenia obliga giełdowego na rynku gazu - minister energii",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/rzad-moze-w-tym-roku-przyjac-projekt-zwiekszenia-obliga-gieldowego-na-rynku"
+  },
+  {
+   "id": "bossa-pap-441763",
+   "date": "2026-11-18",
+   "time": "13:20",
+   "ts": "2026-11-18T13:20:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Diagnostyka może kupić akcje Genomed stanowiące 47, 14 proc. kapitału zakładowego (aktl.)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441763"
+  },
+  {
+   "id": "bossa-espi-136463",
+   "date": "2026-11-18",
+   "time": "13:20",
+   "ts": "2026-11-18T13:20:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KUBOTA S.A.",
+   "title": "Uzupełnienie informacji o realizacji skupu akcji własnych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136463"
+  },
+  {
+   "id": "bossa-espi-136462",
+   "date": "2026-11-18",
+   "time": "13:18",
+   "ts": "2026-11-18T13:18:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF TBSP PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 232 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136462"
+  },
   {
    "id": "bossa-espi-136461",
    "date": "2026-11-18",
@@ -13,6 +84,17 @@
    "title": "Powiadomienie o transakcjach na akcjach Spółki w trybie art. 19 ust. 1 Rozporządzenia MAR",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-136461"
+  },
+  {
+   "id": "strefa-cba2a6f5bb16",
+   "date": "2026-11-18",
+   "time": "13:14",
+   "ts": "2026-11-18T13:14:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Diagnostyka może kupić akcje Genomed stanowiące 47, 14 proc. kapitału zakładowego (aktl.)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/diagnostyka-moze-kupic-akcje-genomed-stanowiace-47-14-proc-kapitalu-zakladowego"
   },
   {
    "id": "bossa-pap-441760",
