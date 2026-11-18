@@ -1,7 +1,124 @@
 {
  "date": "2026-11-18",
- "count": 270,
+ "count": 281,
  "items": [
+  {
+   "id": "bossa-espi-136510",
+   "date": "2026-11-18",
+   "time": "17:08",
+   "ts": "2026-11-18T17:08:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Matexi Polska Holding & Finance S.A.",
+   "title": "Powiadomienie o transakcjach dokonanych przez osoby pełniące obowiązki zarządcze, o których mowa w art. 19 ust. 1 rozporządzania MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136510"
+  },
+  {
+   "id": "bossa-espi-136509",
+   "date": "2026-11-18",
+   "time": "17:07",
+   "ts": "2026-11-18T17:07:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MODIVO S.A.",
+   "title": "Przedłużenie finansowania kredytowego spółki zależnej Emitenta",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136509"
+  },
+  {
+   "id": "bossa-espi-136508",
+   "date": "2026-11-18",
+   "time": "17:06",
+   "ts": "2026-11-18T17:06:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KGHM POLSKA MIEDŹ SA",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136508"
+  },
+  {
+   "id": "bossa-espi-136507",
+   "date": "2026-11-18",
+   "time": "17:06",
+   "ts": "2026-11-18T17:06:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "CELON PHARMA S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136507"
+  },
+  {
+   "id": "strefa-b1cf2a4ac812",
+   "date": "2026-11-18",
+   "time": "17:05",
+   "ts": "2026-11-18T17:05:54+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA FX/FI: PLN osłabił się, bo maleją oczekiwania na podwyżki stóp proc.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/dzien-na-fxfi-pln-oslabil-sie-bo-maleja-oczekiwania-na-podwyzki-stop-proc"
+  },
+  {
+   "id": "bossa-pap-441851",
+   "date": "2026-11-18",
+   "time": "17:05",
+   "ts": "2026-11-18T17:05:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA FX/FI: PLN osłabił się, bo maleją oczekiwania na podwyżki stóp proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441851"
+  },
+  {
+   "id": "strefa-67a57813ea5d",
+   "date": "2026-11-18",
+   "time": "17:04",
+   "ts": "2026-11-18T17:04:59+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "MF w ramach sprzedaży dodatkowej uplasowało papiery za 607,95 mln zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/mf-w-ramach-sprzedazy-dodatkowej-uplasowalo-papiery-za-60795-mln-zl"
+  },
+  {
+   "id": "bossa-espi-136506",
+   "date": "2026-11-18",
+   "time": "17:03",
+   "ts": "2026-11-18T17:03:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "SYNTHAVERSE SA",
+   "title": "Podjęcie przez Zarząd uchwały w sprawie podwyższenia kapitału zakładowego w ramach kapitału docelowego poprzez emisję akcji serii Y",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136506"
+  },
+  {
+   "id": "strefa-c9bd1b6c5a4b",
+   "date": "2026-11-18",
+   "time": "17:02",
+   "ts": "2026-11-18T17:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "MF może rozważyć zerowy VAT na transport pasażerski, gdy znajdzie się przestrzeń w budżecie - MF",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/mf-moze-rozwazyc-zerowy-vat-na-transport-pasazerski-gdy-znajdzie-sie-przestrzen"
+  },
+  {
+   "id": "bossa-pap-441849",
+   "date": "2026-11-18",
+   "time": "17:00",
+   "ts": "2026-11-18T17:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Skrót wiadomości - środa, 18 listopada, 17.00",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441849"
+  },
   {
    "id": "bossa-espi-136505",
    "date": "2026-11-18",
@@ -49,6 +166,17 @@
    "title": "MF może rozważyć zerowy VAT na transport pasażerski, gdy znajdzie się przestrzeń w budżecie - MF",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-441845"
+  },
+  {
+   "id": "strefa-43db9bac3a80",
+   "date": "2026-11-18",
+   "time": "16:45",
+   "ts": "2026-11-18T16:45:17+01:00",
+   "src": "strefainwestorow",
+   "kind": "skrot",
+   "title": "Skrót wiadomości - środa, 18 listopada, 17.00",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/skrot-wiadomosci-sroda-18-listopada-1700"
   },
   {
    "id": "bossa-pap-441843",
