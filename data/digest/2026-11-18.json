@@ -4,7 +4,7 @@
   "podsumowania": 9,
   "wyniki": 6,
   "rekomendacje": 0,
-  "korporacyjne": 7,
+  "korporacyjne": 8,
   "makro_pl": 7,
   "swiat_rynki": 5,
   "energetyka_surowce": 1,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 12
  },
- "duplicatesRemoved": 27,
- "total": 83,
+ "duplicatesRemoved": 28,
+ "total": 85,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -163,6 +163,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "09:36",
+    "kind": "news",
+    "ticker": null,
+    "title": "Prezes UOKiK nałożył blisko 55 mln zł kary na Allegro za greenwashing",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/prezes-uokik-nalozyl-blisko-55-mln-zl-kary-na-allegro-za-greenwashing",
+    "src": "strefainwestorow",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "09:22",
     "kind": "news",

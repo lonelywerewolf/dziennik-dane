@@ -1,7 +1,19 @@
 {
  "date": "2026-11-18",
- "count": 83,
+ "count": 85,
  "items": [
+  {
+   "id": "bossa-pap-441704",
+   "date": "2026-11-18",
+   "time": "10:01",
+   "ts": "2026-11-18T10:01:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Prezes UOKiK nałożył blisko 55 mln zł kary na Allegro za greenwashing",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441704"
+  },
   {
    "id": "bossa-pap-441703",
    "date": "2026-11-18",
@@ -25,6 +37,17 @@
    "title": "Stopy procentowe Islandii bez zmian",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-441702"
+  },
+  {
+   "id": "strefa-92c1fd57c090",
+   "date": "2026-11-18",
+   "time": "09:36",
+   "ts": "2026-11-18T09:36:17+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Prezes UOKiK nałożył blisko 55 mln zł kary na Allegro za greenwashing",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/prezes-uokik-nalozyl-blisko-55-mln-zl-kary-na-allegro-za-greenwashing"
   },
   {
    "id": "bossa-pap-441701",
