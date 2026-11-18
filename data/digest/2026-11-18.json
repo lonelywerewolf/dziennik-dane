@@ -2,11 +2,11 @@
  "date": "2026-11-18",
  "counts": {
   "podsumowania": 6,
-  "wyniki": 4,
+  "wyniki": 5,
   "rekomendacje": 0,
-  "korporacyjne": 4,
+  "korporacyjne": 5,
   "makro_pl": 4,
-  "swiat_rynki": 3,
+  "swiat_rynki": 5,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 7
  },
- "duplicatesRemoved": 17,
- "total": 51,
+ "duplicatesRemoved": 18,
+ "total": 56,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -76,6 +76,15 @@
   ],
   "wyniki": [
    {
+    "time": "08:56",
+    "kind": "news",
+    "ticker": null,
+    "title": "LW Bogdanka po trzech kwartałach 2026: ponad 2 mld zł przychodów i utrzymanie zyskowności mimo presji cenowej",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/lw-bogdanka-po-trzech-kwartalach-2026-ponad-2-mld-zl-przychodow-i-utrzymanie",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "08:33",
     "kind": "news",
     "ticker": null,
@@ -118,6 +127,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "08:49",
+    "kind": "news",
+    "ticker": null,
+    "title": "ORLEN dostarczy Ukrainie więcej gazu. Nowy kontrakt z Naftogazem",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/orlen-dostarczy-ukrainie-wiecej-gazu-nowy-kontrakt-z-naftogazem",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "08:29",
     "kind": "espi",
@@ -201,6 +221,24 @@
   ],
   "swiat_rynki": [
    {
+    "time": "08:57",
+    "kind": "news",
+    "ticker": null,
+    "title": "Creotech Instruments rozpoczyna działalność w Niemczech. Stawia na współpracę z niemieckim sektorem kosmicznym",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/creotech-instruments-rozpoczyna-dzialalnosc-w-niemczech-stawia-na-wspolprace-z",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "08:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "Eco5tech w III kw. 2026 r. zdywersyfikowało biznes w kierunku międzynarodowej grupy technologicznej - rozwój napędza sukces oferty publicznej i pozyskanie z rynku blisko 1,1 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/eco5tech-w-iii-kw-2026-r-zdywersyfikowalo-biznes-w-kierunku-miedzynarodowej",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "08:40",
     "kind": "news",
     "ticker": null,
@@ -230,12 +268,12 @@
   ],
   "energetyka_surowce": [
    {
-    "time": "06:34",
-    "kind": "pap",
+    "time": "08:57",
+    "kind": "news",
     "ticker": null,
     "title": "Notowania metali bazowych, węgla i paliw (tabela)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441661",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/notowania-metali-bazowych-wegla-i-paliw-tabela",
+    "src": "strefainwestorow",
     "flags": []
    }
   ],
