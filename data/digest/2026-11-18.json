@@ -6,16 +6,16 @@
   "rekomendacje": 0,
   "korporacyjne": 32,
   "makro_pl": 19,
-  "swiat_rynki": 19,
+  "swiat_rynki": 20,
   "energetyka_surowce": 9,
   "nieruchomosci": 1,
-  "fundusze_drobne": 8,
+  "fundusze_drobne": 10,
   "twoje_spolki": 10,
   "obserwowane": 0,
   "pozostale": 46
  },
- "duplicatesRemoved": 86,
- "total": 250,
+ "duplicatesRemoved": 87,
+ "total": 254,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -735,6 +735,15 @@
     "flags": []
    },
    {
+    "time": "16:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Premiera GTA VI już 19 listopada. Rekordowe oceny na Metacritic i 1,65 mld USD z przedsprzedaży",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/premiera-gta-vi-juz-19-listopada-rekordowe-oceny-na-metacritic-i-165-mld-usd-z",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "15:59",
     "kind": "news",
     "ticker": null,
@@ -992,6 +1001,24 @@
    }
   ],
   "fundusze_drobne": [
+   {
+    "time": "16:21",
+    "kind": "news",
+    "ticker": null,
+    "title": "OFE wartości jednostek rozrachunkowych z 2026.11.17",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/ofe-wartosci-jednostek-rozrachunkowych-z-20261117",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "16:20",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OFE PZU wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441833",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:50",
     "kind": "pap",
