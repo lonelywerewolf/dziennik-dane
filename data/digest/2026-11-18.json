@@ -2,20 +2,20 @@
  "date": "2026-11-18",
  "counts": {
   "podsumowania": 17,
-  "wyniki": 17,
+  "wyniki": 18,
   "rekomendacje": 0,
-  "korporacyjne": 40,
-  "makro_pl": 24,
+  "korporacyjne": 42,
+  "makro_pl": 25,
   "swiat_rynki": 25,
   "energetyka_surowce": 10,
   "nieruchomosci": 1,
-  "fundusze_drobne": 11,
+  "fundusze_drobne": 13,
   "twoje_spolki": 10,
   "obserwowane": 0,
   "pozostale": 60
  },
- "duplicatesRemoved": 128,
- "total": 343,
+ "duplicatesRemoved": 129,
+ "total": 350,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -176,6 +176,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "18:24",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Skorygowana EBITDA Unimotu wyniosła w III kw. 136 mln zł",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441903",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:55",
     "kind": "news",
@@ -348,6 +357,28 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "18:28",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Zabka: Zawarcie przez spółkę zależną Emitenta przyrzeczonej umowy sprzedaży nieruchomości – centrum logistycznego w Kątach Wrocławskich",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136531",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "18:23",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MILISYSTEM S.A.: Otrzymanie zawiadomienia w trybie art. 69 ustawy o ofercie publicznej – zmniejszenie stanu posiadania",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136529",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "18:07",
     "kind": "pap",
@@ -774,6 +805,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "18:24",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MFiPR: Od strategicznych inwestycji i reform po projekty lokalne – KPO zmienia Polskę (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441902",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:06",
     "kind": "news",
@@ -1322,6 +1362,24 @@
    }
   ],
   "fundusze_drobne": [
+   {
+    "time": "18:30",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MOSTALWAR: Ustalenie ceny emisyjnej, ostatecznej liczby oferowanych akcji serii VI oraz parytetu prawa poboru",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136532",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "18:27",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MRiT: Polska Strefa Inwestycji będzie oferowała jeszcze lepsze warunki dla przedsiębiorców (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441905",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:05",
     "kind": "pap",
