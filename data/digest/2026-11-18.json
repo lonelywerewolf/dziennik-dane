@@ -4,18 +4,18 @@
   "podsumowania": 11,
   "wyniki": 8,
   "rekomendacje": 0,
-  "korporacyjne": 28,
+  "korporacyjne": 30,
   "makro_pl": 19,
-  "swiat_rynki": 14,
+  "swiat_rynki": 15,
   "energetyka_surowce": 6,
   "nieruchomosci": 1,
   "fundusze_drobne": 7,
   "twoje_spolki": 10,
   "obserwowane": 0,
-  "pozostale": 33
+  "pozostale": 35
  },
  "duplicatesRemoved": 74,
- "total": 211,
+ "total": 216,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -201,6 +201,26 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "15:02",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ALLEGRO.EU S.A.: Treść uchwał podjętych przez Zwyczajne Walne Zgromadzenie i Nadzwyczajne Walne Zgromadzenie Allegro.eu w dniu 18 listopada 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136484",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:01",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ATLANTAPL: Powołanie członków Zarządu na kolejną kadencję.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136483",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "14:53",
     "kind": "pap",
@@ -677,6 +697,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "15:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indonezja i Chiny zawarły porozumienia inwestycyjne warte 71,8 mld dolarów",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441801",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "14:36",
     "kind": "pap",
     "ticker": null,
@@ -1035,6 +1064,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "15:07",
+    "kind": "pap",
+    "ticker": null,
+    "title": "INTERMARUM SA (35/2026) Nałożenie na emitenta kary pieniężnej lub innego środka dyscyplinującego przez Organizatora Alternatywnego Systemu lub nałożeniu sankcji administracyjnej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441805",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:06",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ALLEGRO.EU S.A.: Ujawnienie dotyczące ogólnej liczby głosów w Allegro.eu",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136485",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:28",
     "kind": "pap",

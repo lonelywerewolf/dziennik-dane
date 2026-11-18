@@ -1,7 +1,67 @@
 {
  "date": "2026-11-18",
- "count": 211,
+ "count": 216,
  "items": [
+  {
+   "id": "bossa-pap-441805",
+   "date": "2026-11-18",
+   "time": "15:07",
+   "ts": "2026-11-18T15:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "INTERMARUM SA (35/2026) Nałożenie na emitenta kary pieniężnej lub innego środka dyscyplinującego przez Organizatora Alternatywnego Systemu lub nałożeniu sankcji administracyjnej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441805"
+  },
+  {
+   "id": "bossa-espi-136485",
+   "date": "2026-11-18",
+   "time": "15:06",
+   "ts": "2026-11-18T15:06:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ALLEGRO.EU S.A.",
+   "title": "Ujawnienie dotyczące ogólnej liczby głosów w Allegro.eu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136485"
+  },
+  {
+   "id": "bossa-espi-136484",
+   "date": "2026-11-18",
+   "time": "15:02",
+   "ts": "2026-11-18T15:02:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ALLEGRO.EU S.A.",
+   "title": "Treść uchwał podjętych przez Zwyczajne Walne Zgromadzenie i Nadzwyczajne Walne Zgromadzenie Allegro.eu w dniu 18 listopada 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136484"
+  },
+  {
+   "id": "bossa-espi-136483",
+   "date": "2026-11-18",
+   "time": "15:01",
+   "ts": "2026-11-18T15:01:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ATLANTAPL",
+   "title": "Powołanie członków Zarządu na kolejną kadencję.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136483"
+  },
+  {
+   "id": "bossa-pap-441801",
+   "date": "2026-11-18",
+   "time": "15:00",
+   "ts": "2026-11-18T15:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indonezja i Chiny zawarły porozumienia inwestycyjne warte 71,8 mld dolarów",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441801"
+  },
   {
    "id": "bossa-pap-441800",
    "date": "2026-11-18",
