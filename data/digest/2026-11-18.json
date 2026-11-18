@@ -12,10 +12,10 @@
   "fundusze_drobne": 3,
   "twoje_spolki": 9,
   "obserwowane": 0,
-  "pozostale": 25
+  "pozostale": 28
  },
- "duplicatesRemoved": 45,
- "total": 146,
+ "duplicatesRemoved": 47,
+ "total": 151,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -764,6 +764,33 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "13:03",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GENOMED S.A.: Publikacja opóźnionej informacjii poufnej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136458",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:59",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeksy transakcyjne - POLSTR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441753",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:58",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeksy transakcyjne - WIRON",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441752",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:39",
     "kind": "pap",
