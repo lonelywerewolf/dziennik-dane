@@ -4,18 +4,18 @@
   "podsumowania": 17,
   "wyniki": 19,
   "rekomendacje": 0,
-  "korporacyjne": 42,
+  "korporacyjne": 43,
   "makro_pl": 25,
-  "swiat_rynki": 25,
+  "swiat_rynki": 26,
   "energetyka_surowce": 10,
   "nieruchomosci": 1,
   "fundusze_drobne": 13,
   "twoje_spolki": 10,
   "obserwowane": 0,
-  "pozostale": 61
+  "pozostale": 62
  },
- "duplicatesRemoved": 132,
- "total": 355,
+ "duplicatesRemoved": 133,
+ "total": 359,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -366,6 +366,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "18:50",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PKO BANK POLSKI S.A.: Przeprowadzenie emisji senioralnych obligacji nieuprzywilejowanych (senior non preferred notes) o łącznej wartości nominalnej 500.000.000 USD emitowanych w ramach Programu EMTN",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136533",
+    "src": "bossa",
+    "flags": [
+     "emisja"
+    ]
+   },
    {
     "time": "18:28",
     "kind": "espi",
@@ -1042,6 +1053,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "18:52",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Aktualne wskaźniki giełdowe",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441913",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "17:55",
     "kind": "news",
     "ticker": null,
@@ -1590,12 +1610,30 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "18:52",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Mostostal Warszawa ustalił cenę emisyjną akcji serii VI na 2,75 zł",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441912",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "18:43",
     "kind": "pap",
     "ticker": null,
     "title": "KPRM: Udział premiera Donalda Tuska w spotkaniu Koalicji Chętnych (komunikat)",
     "url": "https://bossa.pl/analizy/komunikaty#message-441910",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "18:37",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW Benchmark: komunikat - HYPESA",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/gpw-benchmark-komunikat-hypesa",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -1649,15 +1687,6 @@
     "ticker": null,
     "title": "Stawka Polonia spadła w środę do 3,64 proc.",
     "url": "https://bossa.pl/analizy/komunikaty#message-441882",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "17:44",
-    "kind": "pap",
-    "ticker": null,
-    "title": "GPW Benchmark: komunikat - HYPESA",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441876",
     "src": "bossa",
     "flags": []
    },
