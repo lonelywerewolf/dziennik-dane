@@ -1,7 +1,90 @@
 {
  "date": "2026-11-18",
- "count": 259,
+ "count": 266,
  "items": [
+  {
+   "id": "bossa-pap-441843",
+   "date": "2026-11-18",
+   "time": "16:43",
+   "ts": "2026-11-18T16:43:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Prezydent podpisał ustawę likwidującą ulgę podatkową na internet i zwiększającą ulgę na krwiodawstwo",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441843"
+  },
+  {
+   "id": "bossa-espi-136503",
+   "date": "2026-11-18",
+   "time": "16:43",
+   "ts": "2026-11-18T16:43:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "FUNDUSZ DŁUGU KORPORACYJNEGO RENTIER FIZ",
+   "title": "RB_FI_E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136503"
+  },
+  {
+   "id": "bossa-espi-136502",
+   "date": "2026-11-18",
+   "time": "16:42",
+   "ts": "2026-11-18T16:42:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "FUNDUSZ DŁUGU KORPORACYJNEGO RENTIER FIZ",
+   "title": "RB_FI_E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136502"
+  },
+  {
+   "id": "bossa-pap-441841",
+   "date": "2026-11-18",
+   "time": "16:40",
+   "ts": "2026-11-18T16:40:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "UNIVERSE SA (14/2026) Rejestracja przez sąd zmiany statutu emitenta lub odmowie takiej rejestracji, z podaniem przyczyn odmowy",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441841"
+  },
+  {
+   "id": "bossa-espi-136501",
+   "date": "2026-11-18",
+   "time": "16:40",
+   "ts": "2026-11-18T16:40:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "SOPHARMA AD",
+   "title": "Publication of materials for holding an Extraordinary General Meeting of Shareholders of “Sopharma” AD, scheduled for 15 January 2027",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136501"
+  },
+  {
+   "id": "bossa-espi-136500",
+   "date": "2026-11-18",
+   "time": "16:36",
+   "ts": "2026-11-18T16:36:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BEST",
+   "title": "Informacja o transakcjach na obligacjach Emitenta uzyskana w trybie art. 19 Rozporządzenia MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136500"
+  },
+  {
+   "id": "strefa-faf51baa537c",
+   "date": "2026-11-18",
+   "time": "16:34",
+   "ts": "2026-11-18T16:34:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Cena maksymalna dla benzyny Pb95 w czwartek wyniesie 5,97 zł/l, dla ON 7,51 zł/l (aktl.)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/cena-maksymalna-dla-benzyny-pb95-w-czwartek-wyniesie-597-zll-dla-751-zll-aktl"
+  },
   {
    "id": "bossa-pap-441838",
    "date": "2026-11-18",

@@ -4,18 +4,18 @@
   "podsumowania": 12,
   "wyniki": 8,
   "rekomendacje": 0,
-  "korporacyjne": 33,
-  "makro_pl": 19,
+  "korporacyjne": 34,
+  "makro_pl": 20,
   "swiat_rynki": 20,
   "energetyka_surowce": 9,
   "nieruchomosci": 1,
   "fundusze_drobne": 10,
   "twoje_spolki": 10,
   "obserwowane": 0,
-  "pozostale": 48
+  "pozostale": 49
  },
- "duplicatesRemoved": 89,
- "total": 259,
+ "duplicatesRemoved": 93,
+ "total": 266,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -210,6 +210,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "16:36",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BEST: Informacja o transakcjach na obligacjach Emitenta uzyskana w trybie art. 19 Rozporządzenia MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136500",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
    {
     "time": "16:29",
     "kind": "espi",
@@ -561,6 +572,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "16:43",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Prezydent podpisał ustawę likwidującą ulgę podatkową na internet i zwiększającą ulgę na krwiodawstwo",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441843",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:30",
     "kind": "pap",
@@ -1201,6 +1221,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "16:40",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SOPHARMA AD: Publication of materials for holding an Extraordinary General Meeting of Shareholders of “Sopharma” AD, scheduled for 15 January 2027",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136501",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:34",
     "kind": "pap",
