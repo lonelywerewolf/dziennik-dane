@@ -1,7 +1,31 @@
 {
  "date": "2026-11-18",
- "count": 380,
+ "count": 382,
  "items": [
+  {
+   "id": "bossa-espi-137782",
+   "date": "2026-11-18",
+   "time": "21:26",
+   "ts": "2026-11-18T21:26:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "SYNTHAVERSE SA",
+   "title": "Otrzymanie zawiadomienia o zawarciu porozumienia akcjonariuszy Synthaverse S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-137782"
+  },
+  {
+   "id": "bossa-pap-441928",
+   "date": "2026-11-18",
+   "time": "21:20",
+   "ts": "2026-11-18T21:20:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "IMAGE POWER SA (20/2026) Informacje o walnym zgromadzeniu - treść uchwał podjętych przez WZ (w tym informacje o ogłoszeniu przerwy w obradach)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441928"
+  },
   {
    "id": "bossa-espi-136569",
    "date": "2026-11-18",
