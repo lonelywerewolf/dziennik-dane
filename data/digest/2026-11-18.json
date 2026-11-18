@@ -6,16 +6,16 @@
   "rekomendacje": 0,
   "korporacyjne": 31,
   "makro_pl": 19,
-  "swiat_rynki": 15,
+  "swiat_rynki": 16,
   "energetyka_surowce": 7,
   "nieruchomosci": 1,
   "fundusze_drobne": 7,
   "twoje_spolki": 10,
   "obserwowane": 0,
-  "pozostale": 37
+  "pozostale": 44
  },
- "duplicatesRemoved": 77,
- "total": 223,
+ "duplicatesRemoved": 79,
+ "total": 233,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -706,6 +706,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "15:31",
+    "kind": "news",
+    "ticker": null,
+    "title": "Po otwarciu sesji DJI spada o 0,3 proc., a S&P500 zyskuje 0,35 proc.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/po-otwarciu-sesji-dji-spada-o-03-proc-sp500-zyskuje-035-proc",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "15:00",
     "kind": "pap",
     "ticker": null,
@@ -1083,6 +1092,60 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "15:41",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MOL: Transaction by person closely associated with a person discharging managerial responsibilities",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136494",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:40",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MRiRW: Silne gospodarstwa, konkurencyjne rolnictwo. Wspólnie z branżą wyznaczamy kierunki rozwoju (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441819",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:38",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BASEIG S.A.: Otrzymanie zawiadomień o zmianie udziału w ogólnej liczbie głosów Emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136493",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:35",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MFiPR: Badania, które łączą różne dziedziny nauki - nabór na interdyscyplinarne badania podstawowe ogłoszony (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441817",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MRiRW: 75 lat Instytutu Ogrodnictwa – nauka w służbie polskiego rolnictwa (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441815",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:31",
+    "kind": "espi",
+    "ticker": null,
+    "title": "CELON PHARMA S.A.: Zawarcie dwóch umów o dofinansowanie projektów w ramach konkursu Agencji Badań Medycznych o łącznej wartości dofinansowania blisko 30 mln zł",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136492",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "15:28",
     "kind": "pap",
     "ticker": null,
@@ -1116,6 +1179,15 @@
     "title": "ALLEGRO.EU S.A.: Ujawnienie dotyczące ogólnej liczby głosów w Allegro.eu",
     "url": "https://bossa.pl/analizy/komunikaty#message-136485",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:37",
+    "kind": "news",
+    "ticker": null,
+    "title": "Allegro podniosło maksymalną cenę skupu akcji do 65 zł za akcję",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/allegro-podnioslo-maksymalna-cene-skupu-akcji-do-65-zl-za-akcje",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
