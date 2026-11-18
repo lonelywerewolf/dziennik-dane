@@ -4,18 +4,18 @@
   "podsumowania": 12,
   "wyniki": 8,
   "rekomendacje": 0,
-  "korporacyjne": 31,
+  "korporacyjne": 32,
   "makro_pl": 19,
-  "swiat_rynki": 16,
-  "energetyka_surowce": 7,
+  "swiat_rynki": 19,
+  "energetyka_surowce": 9,
   "nieruchomosci": 1,
   "fundusze_drobne": 8,
   "twoje_spolki": 10,
   "obserwowane": 0,
-  "pozostale": 45
+  "pozostale": 46
  },
- "duplicatesRemoved": 81,
- "total": 238,
+ "duplicatesRemoved": 86,
+ "total": 250,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -210,6 +210,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "15:55",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ATREM S.A.: Zawarcie umowy z TAURON Dystrybucja S.A na realizację zadania pn.: „Modernizacja dwutorowej linii 110 kV Jaworzno 1 - Siersza - Włodzimierz - Trzebinia - Jaworzno 1 – Trzebinia\"",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136495",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "15:11",
     "kind": "espi",
@@ -715,6 +726,33 @@
   ],
   "swiat_rynki": [
    {
+    "time": "16:02",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Liczba umów na sprzedaż domów w USA w X: -4,7 proc. mdm. Konsensus: -2 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441832",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:59",
+    "kind": "news",
+    "ticker": null,
+    "title": "Euro w EBC: 1,0968 USD i 174,85 JPY",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/euro-w-ebc-10968-usd-i-17485-jpy",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "15:56",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: w sprawie dopuszczenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów strukturyzowanych emitowanych przez ING BANK N.V.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/gpw-w-sprawie-dopuszczenia-do-obrotu-gieldowego-na-glownym-rynku-gpw",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "15:31",
     "kind": "news",
     "ticker": null,
@@ -860,6 +898,24 @@
    }
   ],
   "energetyka_surowce": [
+   {
+    "time": "15:59",
+    "kind": "espi",
+    "ticker": null,
+    "title": "FARMY FOTOWOLTAIKI POLSKA S.A.: Informacja o wpisie spółki zależnej Emitenta do rejestru wytwórców energii",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136497",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:55",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PFR i amerykańska agencja DFC deklarują współpracę ws. finansowania energetyki jądrowej w Polsce",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441827",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:29",
     "kind": "pap",
@@ -1110,6 +1166,24 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "15:55",
+    "kind": "espi",
+    "ticker": null,
+    "title": "DI VOLIO S.A.: Rozpoczęcie działalności operacyjnej przez spółkę zależną di volio Česko s.r.o. poprzez uruchomienie dedykowanego sklepu internetowego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136496",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:52",
+    "kind": "news",
+    "ticker": null,
+    "title": "Orange Polska jest technicznie gotowe do uruchomienia technologii 5G SA - Jaworski",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/orange-polska-jest-technicznie-gotowe-do-uruchomienia-technologii-5g-sa",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "15:43",
     "kind": "pap",
     "ticker": null,
@@ -1215,15 +1289,6 @@
     "title": "Allegro podniosło maksymalną cenę skupu akcji do 65 zł za akcję",
     "url": "https://strefainwestorow.pl/wiadomosci/20261118/allegro-podnioslo-maksymalna-cene-skupu-akcji-do-65-zl-za-akcje",
     "src": "strefainwestorow",
-    "flags": []
-   },
-   {
-    "time": "14:28",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Orange Polska jest technicznie gotowe do uruchomienia technologii 5G SA - Jaworski",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441790",
-    "src": "bossa",
     "flags": []
    },
    {
