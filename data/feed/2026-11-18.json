@@ -1,7 +1,30 @@
 {
  "date": "2026-11-18",
- "count": 49,
+ "count": 51,
  "items": [
+  {
+   "id": "bossa-pap-441683",
+   "date": "2026-11-18",
+   "time": "08:48",
+   "ts": "2026-11-18T08:48:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Creotech Instruments rozpoczyna działalność w Niemczech",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441683"
+  },
+  {
+   "id": "strefa-7d4944967f34",
+   "date": "2026-11-18",
+   "time": "08:40",
+   "ts": "2026-11-18T08:40:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Creotech Instruments rozpoczyna działalność w Niemczech",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/creotech-instruments-rozpoczyna-dzialalnosc-w-niemczech"
+  },
   {
    "id": "bossa-pap-441682",
    "date": "2026-11-18",
