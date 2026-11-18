@@ -6,7 +6,7 @@
   "rekomendacje": 0,
   "korporacyjne": 8,
   "makro_pl": 7,
-  "swiat_rynki": 7,
+  "swiat_rynki": 8,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 1,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 12
  },
- "duplicatesRemoved": 29,
- "total": 88,
+ "duplicatesRemoved": 30,
+ "total": 90,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -316,6 +316,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "10:16",
+    "kind": "news",
+    "ticker": null,
+    "title": "Orlen podpisał porozumienie o współpracy w obszarze gazu z węgierską spółką MVM",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/orlen-podpisal-porozumienie-o-wspolpracy-w-obszarze-gazu-z-wegierska-spolka-mvm",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "10:11",
     "kind": "news",
