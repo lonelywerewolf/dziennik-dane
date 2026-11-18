@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T14:35:31+01:00",
+ "updatedAt": "2026-11-18T14:46:31+01:00",
  "q": {
   "ASB": {
    "date": "2026-11-17",
@@ -136,9 +136,9 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/asml",
    "chg": -1.68,
    "live": {
-    "price": 1403.45,
-    "chgPct": 1.47,
-    "at": "Nov 18, 2026 7:53 AM ET",
+    "price": 1402.0,
+    "chgPct": 1.37,
+    "at": "Nov 18, 2026 8:47 AM ET",
     "src": "https://www.nasdaq.com/market-activity/stocks/asml"
    }
   },
@@ -149,9 +149,9 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/avgo",
    "chg": 2.46,
    "live": {
-    "price": 348.56,
-    "chgPct": 2.04,
-    "at": "Nov 18, 2026 7:53 AM ET",
+    "price": 349.5273,
+    "chgPct": 2.32,
+    "at": "Nov 18, 2026 8:48 AM ET",
     "src": "https://www.nasdaq.com/market-activity/stocks/avgo"
    }
   },
@@ -188,9 +188,9 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/nvda",
    "chg": -0.44,
    "live": {
-    "price": 160.1,
-    "chgPct": 2.98,
-    "at": "Nov 18, 2026 7:53 AM ET",
+    "price": 159.9294,
+    "chgPct": 2.87,
+    "at": "Nov 18, 2026 8:48 AM ET",
     "src": "https://www.nasdaq.com/market-activity/stocks/nvda"
    }
   },
@@ -201,11 +201,10 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/tsm",
    "chg": -3.68,
    "live": {
-    "price": 359.69,
-    "chgPct": -3.68,
-    "at": "2026-11-17T21:00:00+00:00",
-    "src": "https://www.tiingo.com/tsm/overview",
-    "via": "tiingo"
+    "price": 370.0,
+    "chgPct": 2.87,
+    "at": "Nov 18, 2026 8:48 AM ET",
+    "src": "https://www.nasdaq.com/market-activity/stocks/tsm"
    }
   },
   "VRT": {
@@ -215,11 +214,10 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/vrt",
    "chg": 0.9,
    "live": {
-    "price": 190.37,
-    "chgPct": 0.9,
-    "at": "2026-11-17T21:00:00+00:00",
-    "src": "https://www.tiingo.com/vrt/overview",
-    "via": "tiingo"
+    "price": 194.5703,
+    "chgPct": 2.21,
+    "at": "Nov 18, 2026 8:48 AM ET",
+    "src": "https://www.nasdaq.com/market-activity/stocks/vrt"
    }
   },
   "^NDQ": {

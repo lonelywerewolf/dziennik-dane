@@ -1,7 +1,79 @@
 {
  "date": "2026-11-18",
- "count": 201,
+ "count": 208,
  "items": [
+  {
+   "id": "bossa-espi-136480",
+   "date": "2026-11-18",
+   "time": "14:43",
+   "ts": "2026-11-18T14:43:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "FORBUILD POLSKA S.A.",
+   "title": "Otrzymanie zawiadomień o zmianie udziału w ogólnej liczbie głosów w Forbuild S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136480"
+  },
+  {
+   "id": "bossa-pap-441796",
+   "date": "2026-11-18",
+   "time": "14:39",
+   "ts": "2026-11-18T14:39:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "OFE POCZTYLION wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441796"
+  },
+  {
+   "id": "bossa-pap-441794",
+   "date": "2026-11-18",
+   "time": "14:39",
+   "ts": "2026-11-18T14:39:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Nationale-Nederlanden OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441794"
+  },
+  {
+   "id": "bossa-pap-441795",
+   "date": "2026-11-18",
+   "time": "14:36",
+   "ts": "2026-11-18T14:36:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Liczba nowych pozwoleń na budowę domów w USA w X: 1,295 mln; Konsensus: 1,375 mln",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441795"
+  },
+  {
+   "id": "bossa-pap-441793",
+   "date": "2026-11-18",
+   "time": "14:36",
+   "ts": "2026-11-18T14:36:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Futures w USA głównie rosną; rynki czekają na IPO Anthropic",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441793"
+  },
+  {
+   "id": "bossa-pap-441792",
+   "date": "2026-11-18",
+   "time": "14:35",
+   "ts": "2026-11-18T14:35:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Liczba rozpoczętych inwestycji budowy domów w USA w X: 1,309 mln. Konsensus: 1,25 mln",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441792"
+  },
   {
    "id": "bossa-pap-441791",
    "date": "2026-11-18",
@@ -121,6 +193,17 @@
    "title": "Cena referencyjna węgla we wrześniu wyniosła 21,57 zł za gigadżul - ARP",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-441782"
+  },
+  {
+   "id": "strefa-426e549d03be",
+   "date": "2026-11-18",
+   "time": "13:54",
+   "ts": "2026-11-18T13:54:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Futures w USA głównie rosną; rynki czekają na IPO Anthropic",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/dzien-na-rynkach-futures-w-usa-glownie-rosna-rynki-czekaja-na-ipo-anthropic"
   },
   {
    "id": "bossa-pap-441781",

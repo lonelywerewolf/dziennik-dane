@@ -1,24 +1,33 @@
 {
  "date": "2026-11-18",
  "counts": {
-  "podsumowania": 10,
+  "podsumowania": 11,
   "wyniki": 8,
   "rekomendacje": 0,
   "korporacyjne": 26,
   "makro_pl": 19,
-  "swiat_rynki": 12,
+  "swiat_rynki": 14,
   "energetyka_surowce": 6,
   "nieruchomosci": 1,
-  "fundusze_drobne": 4,
+  "fundusze_drobne": 6,
   "twoje_spolki": 10,
   "obserwowane": 0,
   "pozostale": 33
  },
- "duplicatesRemoved": 72,
- "total": 201,
+ "duplicatesRemoved": 74,
+ "total": 208,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "13:54",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Futures w USA głównie rosną; rynki czekają na IPO Anthropic",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/dzien-na-rynkach-futures-w-usa-glownie-rosna-rynki-czekaja-na-ipo-anthropic",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "11:06",
     "kind": "news",
@@ -646,6 +655,24 @@
   ],
   "swiat_rynki": [
    {
+    "time": "14:36",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Liczba nowych pozwoleń na budowę domów w USA w X: 1,295 mln; Konsensus: 1,375 mln",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441795",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:35",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Liczba rozpoczętych inwestycji budowy domów w USA w X: 1,309 mln. Konsensus: 1,25 mln",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441792",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "12:51",
     "kind": "news",
     "ticker": null,
@@ -822,6 +849,24 @@
    }
   ],
   "fundusze_drobne": [
+   {
+    "time": "14:39",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OFE POCZTYLION wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441796",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:39",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Nationale-Nederlanden OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441794",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:13",
     "kind": "pap",
