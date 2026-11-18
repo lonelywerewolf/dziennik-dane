@@ -1,7 +1,115 @@
 {
  "date": "2026-11-18",
- "count": 281,
+ "count": 291,
  "items": [
+  {
+   "id": "bossa-espi-136515",
+   "date": "2026-11-18",
+   "time": "17:19",
+   "ts": "2026-11-18T17:19:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ENEA",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136515"
+  },
+  {
+   "id": "bossa-pap-441862",
+   "date": "2026-11-18",
+   "time": "17:18",
+   "ts": "2026-11-18T17:18:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wyniki Cyfrowego Polsatu w III kw. 2026 roku vs. konsensus PAP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441862"
+  },
+  {
+   "id": "bossa-pap-441861",
+   "date": "2026-11-18",
+   "time": "17:15",
+   "ts": "2026-11-18T17:15:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Gaz-System podpisał porozumienie z operatorem litewskim ws. ochrony terminali LNG",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441861"
+  },
+  {
+   "id": "bossa-pap-441859",
+   "date": "2026-11-18",
+   "time": "17:14",
+   "ts": "2026-11-18T17:14:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Skonsolidowane wyniki KGHM w III kw. 2026 r. vs konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441859"
+  },
+  {
+   "id": "bossa-espi-136514",
+   "date": "2026-11-18",
+   "time": "17:14",
+   "ts": "2026-11-18T17:14:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "INTROL S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136514"
+  },
+  {
+   "id": "bossa-espi-136513",
+   "date": "2026-11-18",
+   "time": "17:13",
+   "ts": "2026-11-18T17:13:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "STALEXPORT AUTOSTRADY",
+   "title": "Uchwała o zamiarze przeprowadzenia procedury zwolnień grupowych w Stalexport Autostrada Małopolska S.A., spółce zależnej Emitenta",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136513"
+  },
+  {
+   "id": "bossa-pap-441855",
+   "date": "2026-11-18",
+   "time": "17:11",
+   "ts": "2026-11-18T17:11:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Prezydent zawetował ustawę, która miała podnieść VAT na napoje energetyczne i piwa bezalkoholowe z sokiem",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441855"
+  },
+  {
+   "id": "bossa-espi-136512",
+   "date": "2026-11-18",
+   "time": "17:11",
+   "ts": "2026-11-18T17:11:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "TAURON POLSKA ENERGIA S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136512"
+  },
+  {
+   "id": "bossa-espi-136511",
+   "date": "2026-11-18",
+   "time": "17:11",
+   "ts": "2026-11-18T17:11:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "CYFROWY POLSAT S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136511"
+  },
   {
    "id": "bossa-espi-136510",
    "date": "2026-11-18",
@@ -25,6 +133,17 @@
    "title": "Przedłużenie finansowania kredytowego spółki zależnej Emitenta",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-136509"
+  },
+  {
+   "id": "strefa-8d93510d70ed",
+   "date": "2026-11-18",
+   "time": "17:06",
+   "ts": "2026-11-18T17:06:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Skonsolidowane wyniki KGHM w III kw. 2026 r. vs konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/skonsolidowane-wyniki-kghm-w-iii-kw-2026-r-vs-konsensus-pap-tabela"
   },
   {
    "id": "bossa-espi-136508",
