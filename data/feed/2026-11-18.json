@@ -1,7 +1,66 @@
 {
  "date": "2026-11-18",
- "count": 306,
+ "count": 311,
  "items": [
+  {
+   "id": "bossa-espi-136521",
+   "date": "2026-11-18",
+   "time": "17:49",
+   "ts": "2026-11-18T17:49:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "DI VOLIO S.A.",
+   "title": "Wprowadzenie zakupów towarów na własny stan magazynowy jako stałego elementu modelu zaopatrzenia Spółki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136521"
+  },
+  {
+   "id": "bossa-pap-441878",
+   "date": "2026-11-18",
+   "time": "17:47",
+   "ts": "2026-11-18T17:47:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Grupa Enea miała w III kw. 1.139 mln zł zysku EBITDA, zgodnie z szacunkami",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441878"
+  },
+  {
+   "id": "bossa-pap-441877",
+   "date": "2026-11-18",
+   "time": "17:46",
+   "ts": "2026-11-18T17:46:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Cyfrowy Polsat miał w III kw. 838,9 mln zł skor. EBITDA wobec 807,8 mln zł konsensusu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441877"
+  },
+  {
+   "id": "bossa-pap-441876",
+   "date": "2026-11-18",
+   "time": "17:44",
+   "ts": "2026-11-18T17:44:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW Benchmark: komunikat - HYPESA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441876"
+  },
+  {
+   "id": "strefa-572ba45d88ca",
+   "date": "2026-11-18",
+   "time": "17:40",
+   "ts": "2026-11-18T17:40:30+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grupa UNIMOT opublikowała wyniki za III kwartał 2026 r.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/grupa-unimot-opublikowala-wyniki-za-iii-kwartal-2026-r"
+  },
   {
    "id": "bossa-pap-441875",
    "date": "2026-11-18",

@@ -46,6 +46,15 @@
    "house": "Trigon Dom Maklerski S.A."
   },
   {
+   "date": "2026-11-18",
+   "ticker": "IMS",
+   "company": "IMS S.A.",
+   "file": "20261118_bank_millennium_ims_pl_aw.pdf",
+   "url": "https://www.gpw.pl/pub/pwpa/20261118_bank_millennium_ims_pl_aw.pdf",
+   "type": "analiza wyników",
+   "house": "Bank Millennium S.A."
+  },
+  {
    "date": "2026-11-17",
    "ticker": "IZS",
    "company": "IZOSTAL S.A.",
@@ -62,8 +71,8 @@
    "url": "https://www.gpw.pl/pub/pwpa/20261117_erste_securities_polska_vrc_pl_aw.pdf",
    "type": "analiza wyników",
    "house": "Erste Securities Polska S.A.",
-   "pdfTries": 5,
-   "pdfLastTry": "2026-11-18T10:31+01:00"
+   "pdfTries": 6,
+   "pdfLastTry": "2026-11-18T17:50+01:00"
   },
   {
    "date": "2026-11-17",
@@ -73,8 +82,8 @@
    "url": "https://www.gpw.pl/pub/pwpa/20261117_mbank_cbf_pl_aw.pdf",
    "type": "analiza wyników",
    "house": "mBank S.A.",
-   "pdfTries": 5,
-   "pdfLastTry": "2026-11-18T10:31+01:00"
+   "pdfTries": 6,
+   "pdfLastTry": "2026-11-18T17:50+01:00"
   },
   {
    "date": "2026-11-17",
@@ -531,5 +540,5 @@
    "house": "Noble Securities S.A."
   }
  ],
- "updatedAt": "2026-11-18T12:21:40+01:00"
+ "updatedAt": "2026-11-18T17:50:00+01:00"
 }

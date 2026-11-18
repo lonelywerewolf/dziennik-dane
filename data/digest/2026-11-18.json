@@ -2,20 +2,20 @@
  "date": "2026-11-18",
  "counts": {
   "podsumowania": 16,
-  "wyniki": 13,
+  "wyniki": 16,
   "rekomendacje": 0,
   "korporacyjne": 37,
   "makro_pl": 23,
-  "swiat_rynki": 22,
+  "swiat_rynki": 23,
   "energetyka_surowce": 9,
   "nieruchomosci": 1,
   "fundusze_drobne": 10,
   "twoje_spolki": 10,
   "obserwowane": 0,
-  "pozostale": 53
+  "pozostale": 54
  },
  "duplicatesRemoved": 112,
- "total": 306,
+ "total": 311,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -167,6 +167,35 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "17:47",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Grupa Enea miała w III kw. 1.139 mln zł zysku EBITDA, zgodnie z szacunkami",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441878",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:46",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Cyfrowy Polsat miał w III kw. 838,9 mln zł skor. EBITDA wobec 807,8 mln zł konsensusu",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441877",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:40",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa UNIMOT opublikowała wyniki za III kwartał 2026 r.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/grupa-unimot-opublikowala-wyniki-za-iii-kwartal-2026-r",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "17:27",
     "kind": "news",
@@ -908,6 +937,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "17:49",
+    "kind": "espi",
+    "ticker": null,
+    "title": "DI VOLIO S.A.: Wprowadzenie zakupów towarów na własny stan magazynowy jako stałego elementu modelu zaopatrzenia Spółki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136521",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "17:37",
     "kind": "pap",
     "ticker": null,
@@ -1392,6 +1430,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:44",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GPW Benchmark: komunikat - HYPESA",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441876",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:28",
     "kind": "espi",
