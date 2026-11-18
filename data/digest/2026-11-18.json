@@ -12,10 +12,10 @@
   "fundusze_drobne": 13,
   "twoje_spolki": 11,
   "obserwowane": 0,
-  "pozostale": 65
+  "pozostale": 66
  },
  "duplicatesRemoved": 145,
- "total": 388,
+ "total": 389,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1751,6 +1751,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "23:20",
+    "kind": "pap",
+    "ticker": null,
+    "title": "HONEY PAYMENT GROUP SA (26/2026) Nałożenie na emitenta kary pieniężnej lub innego środka dyscyplinującego przez Organizatora Alternatywnego Systemu lub nałożeniu sankcji administracyjnej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441935",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "21:16",
     "kind": "espi",
