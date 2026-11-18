@@ -2,7 +2,7 @@
  "date": "2026-11-18",
  "counts": {
   "podsumowania": 17,
-  "wyniki": 18,
+  "wyniki": 19,
   "rekomendacje": 0,
   "korporacyjne": 42,
   "makro_pl": 25,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 13,
   "twoje_spolki": 10,
   "obserwowane": 0,
-  "pozostale": 60
+  "pozostale": 61
  },
- "duplicatesRemoved": 129,
- "total": 350,
+ "duplicatesRemoved": 132,
+ "total": 355,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -177,12 +177,21 @@
   ],
   "wyniki": [
    {
-    "time": "18:24",
-    "kind": "pap",
+    "time": "18:34",
+    "kind": "news",
+    "ticker": null,
+    "title": "PHN po trzech kwartałach '26 odnotował zysk netto w wys. 45,2 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/phn-po-trzech-kwartalach-26-odnotowal-zysk-netto-w-wys-452-mln-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "18:20",
+    "kind": "news",
     "ticker": null,
     "title": "Skorygowana EBITDA Unimotu wyniosła w III kw. 136 mln zł",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441903",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/skorygowana-ebitda-unimotu-wyniosla-w-iii-kw-136-mln-zl",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -1580,6 +1589,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "18:43",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KPRM: Udział premiera Donalda Tuska w spotkaniu Koalicji Chętnych (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441910",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:20",
     "kind": "espi",

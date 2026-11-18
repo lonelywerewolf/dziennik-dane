@@ -1,7 +1,54 @@
 {
  "date": "2026-11-18",
- "count": 350,
+ "count": 355,
  "items": [
+  {
+   "id": "bossa-pap-441910",
+   "date": "2026-11-18",
+   "time": "18:43",
+   "ts": "2026-11-18T18:43:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KPRM: Udział premiera Donalda Tuska w spotkaniu Koalicji Chętnych (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441910"
+  },
+  {
+   "id": "bossa-pap-441909",
+   "date": "2026-11-18",
+   "time": "18:41",
+   "ts": "2026-11-18T18:41:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne - SARON",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441909"
+  },
+  {
+   "id": "bossa-pap-441908",
+   "date": "2026-11-18",
+   "time": "18:36",
+   "ts": "2026-11-18T18:36:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PHN po trzech kwartałach '26 odnotował zysk netto w wys. 45,2 mln zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441908"
+  },
+  {
+   "id": "strefa-14afff0abfe9",
+   "date": "2026-11-18",
+   "time": "18:34",
+   "ts": "2026-11-18T18:34:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "PHN po trzech kwartałach '26 odnotował zysk netto w wys. 45,2 mln zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/phn-po-trzech-kwartalach-26-odnotowal-zysk-netto-w-wys-452-mln-zl"
+  },
   {
    "id": "bossa-espi-136532",
    "date": "2026-11-18",
@@ -85,6 +132,17 @@
    "title": "Otrzymanie zawiadomienia w trybie art. 69 ustawy o ofercie publicznej – zmniejszenie stanu posiadania",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-136529"
+  },
+  {
+   "id": "strefa-e6743256c011",
+   "date": "2026-11-18",
+   "time": "18:20",
+   "ts": "2026-11-18T18:20:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Skorygowana EBITDA Unimotu wyniosła w III kw. 136 mln zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/skorygowana-ebitda-unimotu-wyniosla-w-iii-kw-136-mln-zl"
   },
   {
    "id": "bossa-espi-136528",
