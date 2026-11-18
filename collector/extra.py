@@ -133,6 +133,31 @@ def calendar():
 
 
 # ---------- 4. Raporty PWPA (gpw.pl) ----------
+# PDF z gpw.pl/pub/pwpa często zrywa połączenie (RemoteDisconnected / błąd serwera). Zamiast 3 prób w ciągu
+# pół godziny – próby rozłożone w czasie: 3 pierwsze co przebieg, potem odstęp 1 h, 2 h, 4 h … (maks. 12 h),
+# łącznie do PDF_MAX_TRIES prób przez ok. 3 doby od publikacji. Nie omijamy żadnych zabezpieczeń – to zwykłe ponowienie.
+PDF_MAX_TRIES = 14
+
+
+def _pdf_due(it):
+    n = it.get("pdfTries", 0)
+    if n >= PDF_MAX_TRIES:
+        return False
+    try:
+        if (NOW.date() - dt.date.fromisoformat(it["date"][:10])).days > 4:
+            return False
+    except Exception:
+        pass
+    if n < 3 or not it.get("pdfLastTry"):
+        return True
+    gap_h = min(12, 2 ** (n - 3))
+    try:
+        last = dt.datetime.fromisoformat(it["pdfLastTry"])
+        return (NOW - last).total_seconds() >= gap_h * 3600
+    except Exception:
+        return True
+
+
 def pwpa():
     st = {"new": 0, "texts": 0, "errors": []}
     path = D("pwpa.json")
@@ -159,10 +184,11 @@ def pwpa():
     try:
         from pypdf import PdfReader
         for it in data["items"]:
-            if it["ticker"] not in want or it.get("textFile") or it.get("pdfTries", 0) >= 3:
+            if it["ticker"] not in want or it.get("textFile") or not _pdf_due(it):
                 continue
             try:
                 it["pdfTries"] = it.get("pdfTries", 0) + 1
+                it["pdfLastTry"] = NOW.isoformat(timespec="minutes")
                 req = urllib.request.Request(it["url"], headers={"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
                                                                  "Accept": "application/pdf,*/*", "Referer": "https://www.gpw.pl/gpwpa"})
                 b = opener.open(req, timeout=60).read()   # ta sama sesja (ciasteczka) co lista raportów
@@ -179,7 +205,7 @@ def pwpa():
                 time.sleep(1)
             except Exception as e:
                 # PDF to źródło pomocnicze: po 3 nieudanych próbach raport pobiera go sam (WebFetch url) – nie traktujemy tego jako luki
-                (st.setdefault("pdfFailed", []) if it["pdfTries"] >= 3 else st["errors"]).append(f"{it['file']}: {e!r}"[:140])
+                (st.setdefault("pdfFailed", []) if it["pdfTries"] >= PDF_MAX_TRIES else st["errors"]).append(f"{it['file']}: {e!r}"[:140])
     except ImportError:
         st["errors"].append("brak pypdf")
     data["items"].sort(key=lambda i: i["date"], reverse=True)
