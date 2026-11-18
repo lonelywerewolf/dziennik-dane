@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "71c205b1260f",
+   "ticker": "NVDA",
+   "time": "2026-11-18T19:20+01:00",
+   "title": "Stocks Pressured by Renewed Weakness in Chipmakers",
+   "url": "https://www.nasdaq.com/articles/stocks-pressured-renewed-weakness-chipmakers",
+   "src": "nasdaq",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is down -0.32% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -1.13%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.35%.  December E-mini S&P futures (ESZ26 ) are down -0.35%, and December E-mini Nasdaq futures..."
+  },
+  {
    "id": "1e189b67652e",
    "ticker": "ASML",
    "time": "2026-11-18T18:51+01:00",
@@ -8,6 +17,15 @@
    "url": "https://www.nasdaq.com/articles/nasdaq-correction-and-traders-are-pricing-december-fed-funds-rate-hike-3-ai-infrastructure",
    "src": "nasdaq",
    "summary": "Key PointsThe Nasdaq is down 11% from its high, and traders see a 95.4% chance of the Federal Reserve boosting its benchmark interest rate in December."
+  },
+  {
+   "id": "74c7bde7b0df",
+   "ticker": "NVDA",
+   "time": "2026-11-18T18:48+01:00",
+   "title": "Wednesday's ETF with Unusual Volume: FRWD",
+   "url": "https://www.nasdaq.com/articles/wednesdays-etf-unusual-volume-frwd",
+   "src": "nasdaq",
+   "summary": "The Nomura Transformational Technologies ETF is seeing unusually high volume in afternoon trading Wednesday, with over 696,000 shares traded versus three month average volume of about 33,000.  Shares of FRWD were up about 0.2% on the day.\n\nComponents of that ETF with the highest"
   },
   {
    "id": "14f7227867fc",
@@ -15085,5 +15103,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-18T19:18:00+01:00"
+ "updatedAt": "2026-11-18T19:29:00+01:00"
 }
