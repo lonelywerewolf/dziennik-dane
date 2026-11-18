@@ -1,24 +1,33 @@
 {
  "date": "2026-11-18",
  "counts": {
-  "podsumowania": 7,
-  "wyniki": 5,
+  "podsumowania": 8,
+  "wyniki": 6,
   "rekomendacje": 0,
-  "korporacyjne": 6,
+  "korporacyjne": 7,
   "makro_pl": 4,
   "swiat_rynki": 5,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
-  "twoje_spolki": 6,
+  "twoje_spolki": 7,
   "obserwowane": 0,
-  "pozostale": 9
+  "pozostale": 11
  },
- "duplicatesRemoved": 19,
- "total": 62,
+ "duplicatesRemoved": 22,
+ "total": 71,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "09:15",
+    "kind": "pap",
+    "ticker": null,
+    "title": "WIG20 na otwarciu wyniósł 4258,89 pkt (0,16%)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441689",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:59",
     "kind": "news",
@@ -85,6 +94,15 @@
   ],
   "wyniki": [
    {
+    "time": "09:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "Skonsolidowane przychody ze sprzedaży Bogdanki w III kw. wyniosły 682,69 mln zł, wzrost o 40,3 proc. (opis)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/skonsolidowane-przychody-ze-sprzedazy-bogdanki-w-iii-kw-wyniosly-68269-mln-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "08:56",
     "kind": "news",
     "ticker": null,
@@ -136,6 +154,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "09:22",
+    "kind": "news",
+    "ticker": null,
+    "title": "Matexi Polska pozyskało 125 mln zł z emisji obligacji",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/matexi-polska-pozyskalo-125-mln-zl-z-emisji-obligacji",
+    "src": "strefainwestorow",
+    "flags": [
+     "emisja"
+    ]
+   },
    {
     "time": "09:05",
     "kind": "espi",
@@ -301,6 +330,15 @@
   "fundusze_drobne": [],
   "twoje_spolki": [
    {
+    "time": "09:22",
+    "kind": "news",
+    "ticker": "XTB",
+    "title": "Kurs XTB spada o 5,1 proc. do 109,3 zł przy wysokich obrotach; mWIG40 lekko zniżkuje",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/kurs-xtb-spada-o-51-proc-do-1093-zl-przy-wysokich-obrotach-mwig40-lekko",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "09:12",
     "kind": "pap",
     "ticker": "SNT",
@@ -361,6 +399,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:18",
+    "kind": "espi",
+    "ticker": null,
+    "title": "RYVU THERAPEUTICS S.A.: Dane przedkliniczne dotyczące RVU602, nowego payloadu ADC zaprezentowane podczas Sympozjum EORTC-NCI-AACR 2026 / Preclinical data on RVU602, a novel ADC payload presented at the 2026 EORTC-NCI-AACR Symposium",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136432",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "09:13",
+    "kind": "news",
+    "ticker": null,
+    "title": "Polskie rozwiązanie może zmienić rynek pomp ciepła. beeIN S.A. zgłasza autorską technologię do ochrony patentowej",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/polskie-rozwiazanie-moze-zmienic-rynek-pomp-ciepla-beein-sa-zglasza-autorska",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:12",
     "kind": "pap",

@@ -1,7 +1,111 @@
 {
  "date": "2026-11-18",
- "count": 62,
+ "count": 71,
  "items": [
+  {
+   "id": "strefa-90f0f3accac7",
+   "date": "2026-11-18",
+   "time": "09:22",
+   "ts": "2026-11-18T09:22:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Matexi Polska pozyskało 125 mln zł z emisji obligacji",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/matexi-polska-pozyskalo-125-mln-zl-z-emisji-obligacji"
+  },
+  {
+   "id": "strefa-811e32d8eaba",
+   "date": "2026-11-18",
+   "time": "09:22",
+   "ts": "2026-11-18T09:22:07+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Kurs XTB spada o 5,1 proc. do 109,3 zł przy wysokich obrotach; mWIG40 lekko zniżkuje",
+   "ticker": "XTB",
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/kurs-xtb-spada-o-51-proc-do-1093-zl-przy-wysokich-obrotach-mwig40-lekko"
+  },
+  {
+   "id": "bossa-pap-441693",
+   "date": "2026-11-18",
+   "time": "09:22",
+   "ts": "2026-11-18T09:22:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Kurs XTB spada o 5,1 proc. do 109,3 zł przy wysokich obrotach; mWIG40 lekko zniżkuje",
+   "ticker": "XTB",
+   "url": "https://bossa.pl/analizy/komunikaty#message-441693"
+  },
+  {
+   "id": "bossa-pap-441692",
+   "date": "2026-11-18",
+   "time": "09:21",
+   "ts": "2026-11-18T09:21:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Skonsolidowane przychody ze sprzedaży Bogdanki w III kw. wyniosły 682,69 mln zł, wzrost o 40,3 proc. (opis)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441692"
+  },
+  {
+   "id": "strefa-719d72c2bf92",
+   "date": "2026-11-18",
+   "time": "09:20",
+   "ts": "2026-11-18T09:20:37+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Skonsolidowane przychody ze sprzedaży Bogdanki w III kw. wyniosły 682,69 mln zł, wzrost o 40,3 proc. (opis)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/skonsolidowane-przychody-ze-sprzedazy-bogdanki-w-iii-kw-wyniosly-68269-mln-zl"
+  },
+  {
+   "id": "bossa-pap-441691",
+   "date": "2026-11-18",
+   "time": "09:20",
+   "ts": "2026-11-18T09:20:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Matexi Polska pozyskało 125 mln zł z emisji obligacji serii E",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441691"
+  },
+  {
+   "id": "bossa-espi-136432",
+   "date": "2026-11-18",
+   "time": "09:18",
+   "ts": "2026-11-18T09:18:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "RYVU THERAPEUTICS S.A.",
+   "title": "Dane przedkliniczne dotyczące RVU602, nowego payloadu ADC zaprezentowane podczas Sympozjum EORTC-NCI-AACR 2026 / Preclinical data on RVU602, a novel ADC payload presented at the 2026 EORTC-NCI-AACR Symposium",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136432"
+  },
+  {
+   "id": "bossa-pap-441689",
+   "date": "2026-11-18",
+   "time": "09:15",
+   "ts": "2026-11-18T09:15:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "WIG20 na otwarciu wyniósł 4258,89 pkt (0,16%)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441689"
+  },
+  {
+   "id": "strefa-b36ba58a31c1",
+   "date": "2026-11-18",
+   "time": "09:13",
+   "ts": "2026-11-18T09:13:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Polskie rozwiązanie może zmienić rynek pomp ciepła. beeIN S.A. zgłasza autorską technologię do ochrony patentowej",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/polskie-rozwiazanie-moze-zmienic-rynek-pomp-ciepla-beein-sa-zglasza-autorska"
+  },
   {
    "id": "bossa-pap-441688",
    "date": "2026-11-18",
