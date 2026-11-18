@@ -1,7 +1,42 @@
 {
  "date": "2026-11-18",
- "count": 371,
+ "count": 374,
  "items": [
+  {
+   "id": "bossa-espi-136535",
+   "date": "2026-11-18",
+   "time": "20:41",
+   "ts": "2026-11-18T20:41:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MEDICALGORITHMICS S.A.",
+   "title": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu Medicalgorithmics S.A. w dniu 18 listopada 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136535"
+  },
+  {
+   "id": "bossa-pap-441922",
+   "date": "2026-11-18",
+   "time": "20:36",
+   "ts": "2026-11-18T20:36:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Niemal wszyscy członkowie FOMC oceniają dalsze podwyżki stóp w USA za właściwe - minutes Fed (opis)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441922"
+  },
+  {
+   "id": "strefa-d51874b0aaa9",
+   "date": "2026-11-18",
+   "time": "20:20",
+   "ts": "2026-11-18T20:20:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Niemal wszyscy członkowie FOMC oceniają dalsze podwyżki stóp w USA za właściwe - minutes Fed (opis)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/niemal-wszyscy-czlonkowie-fomc-oceniaja-dalsze-podwyzki-stop-w-usa-za-0"
+  },
   {
    "id": "bossa-espi-136534",
    "date": "2026-11-18",
