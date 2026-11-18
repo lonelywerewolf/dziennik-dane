@@ -1,6 +1,54 @@
 {
  "items": [
   {
+   "id": "00a7eb787fe2e0",
+   "ticker": "MPWR",
+   "filed": "2026-11-17 19:29:36",
+   "tradeDate": "2026-11-16",
+   "who": "Chang Kuo Wei Herbert",
+   "role": "Dir",
+   "type": "S - Sale",
+   "price": "$1,319.56",
+   "qty": "-100",
+   "owned": "415",
+   "deltaOwn": "-19%",
+   "value": "-$131,957",
+   "url": "http://www.sec.gov/Archives/edgar/data/1280452/000121465926014526/xslF345X03/marketforms-74355.xml",
+   "src": "http://openinsider.com/screener?s=MPWR"
+  },
+  {
+   "id": "a941f26a9c9314",
+   "ticker": "MPWR",
+   "filed": "2026-11-17 19:24:18",
+   "tradeDate": "2026-11-16",
+   "who": "Dean Robert W II",
+   "role": "Chief Accounting Officer",
+   "type": "S - Sale",
+   "price": "$1,320.29",
+   "qty": "-5",
+   "owned": "7,146",
+   "deltaOwn": "0%",
+   "value": "-$6,601",
+   "url": "http://www.sec.gov/Archives/edgar/data/1280452/000121465926014525/xslF345X03/marketforms-74332.xml",
+   "src": "http://openinsider.com/screener?s=MPWR"
+  },
+  {
+   "id": "0b101626313488",
+   "ticker": "MRVL",
+   "filed": "2026-11-17 19:03:48",
+   "tradeDate": "2026-11-16",
+   "who": "Murphy Matthew J",
+   "role": "COB, CEO",
+   "type": "S - Sale",
+   "price": "$146.54",
+   "qty": "-7,500",
+   "owned": "770,863",
+   "deltaOwn": "-1%",
+   "value": "-$1,099,050",
+   "url": "http://www.sec.gov/Archives/edgar/data/1835632/000162828026074618/xslF345X03/wk-form4_1794960225.xml",
+   "src": "http://openinsider.com/screener?s=MRVL"
+  },
+  {
    "id": "188979c308a92d",
    "ticker": "MPWR",
    "filed": "2026-11-16 19:04:09",
@@ -5457,5 +5505,5 @@
    "src": "http://openinsider.com/screener?s=MPWR"
   }
  ],
- "updatedAt": "2026-11-18T00:55:32+01:00"
+ "updatedAt": "2026-11-18T01:45:33+01:00"
 }
