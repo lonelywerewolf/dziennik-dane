@@ -4,7 +4,7 @@
   "podsumowania": 17,
   "wyniki": 19,
   "rekomendacje": 0,
-  "korporacyjne": 48,
+  "korporacyjne": 49,
   "makro_pl": 26,
   "swiat_rynki": 27,
   "energetyka_surowce": 10,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 13,
   "twoje_spolki": 10,
   "obserwowane": 0,
-  "pozostale": 64
+  "pozostale": 65
  },
- "duplicatesRemoved": 141,
- "total": 376,
+ "duplicatesRemoved": 143,
+ "total": 380,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -366,6 +366,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "21:14",
+    "kind": "espi",
+    "ticker": null,
+    "title": "IMAGE POWER S.A.: Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Walnym Zgromadzeniu w dniu 18 listopada 2026 roku.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136537",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "21:05",
     "kind": "espi",
@@ -1680,6 +1691,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "21:16",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MEDICALGORITHMICS S.A.: Zmiany w składzie Rady Nadzorczej Medicalgorithmics S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136569",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "19:46",
     "kind": "pap",

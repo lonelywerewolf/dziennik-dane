@@ -1,7 +1,43 @@
 {
  "date": "2026-11-18",
- "count": 376,
+ "count": 380,
  "items": [
+  {
+   "id": "bossa-espi-136569",
+   "date": "2026-11-18",
+   "time": "21:16",
+   "ts": "2026-11-18T21:16:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MEDICALGORITHMICS S.A.",
+   "title": "Zmiany w składzie Rady Nadzorczej Medicalgorithmics S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136569"
+  },
+  {
+   "id": "bossa-pap-441926",
+   "date": "2026-11-18",
+   "time": "21:15",
+   "ts": "2026-11-18T21:15:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Skrót wiadomości - środa, 18 listopada, 21.00",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441926"
+  },
+  {
+   "id": "bossa-espi-136537",
+   "date": "2026-11-18",
+   "time": "21:14",
+   "ts": "2026-11-18T21:14:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "IMAGE POWER S.A.",
+   "title": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Walnym Zgromadzeniu w dniu 18 listopada 2026 roku.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136537"
+  },
   {
    "id": "bossa-espi-136536",
    "date": "2026-11-18",
@@ -25,6 +61,17 @@
    "title": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu Medicalgorithmics S.A. w dniu 18 listopada 2026 r.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-136535"
+  },
+  {
+   "id": "strefa-bad83818614e",
+   "date": "2026-11-18",
+   "time": "20:37",
+   "ts": "2026-11-18T20:37:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "skrot",
+   "title": "Skrót wiadomości - środa, 18 listopada, 21.00",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/skrot-wiadomosci-sroda-18-listopada-2100"
   },
   {
    "id": "bossa-pap-441922",
