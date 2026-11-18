@@ -5,17 +5,17 @@
   "wyniki": 8,
   "rekomendacje": 0,
   "korporacyjne": 34,
-  "makro_pl": 20,
+  "makro_pl": 22,
   "swiat_rynki": 20,
   "energetyka_surowce": 9,
   "nieruchomosci": 1,
   "fundusze_drobne": 10,
   "twoje_spolki": 10,
   "obserwowane": 0,
-  "pozostale": 49
+  "pozostale": 50
  },
- "duplicatesRemoved": 93,
- "total": 266,
+ "duplicatesRemoved": 94,
+ "total": 270,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -572,6 +572,24 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "16:52",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Prezydent podpisał ustawę ws. podwyżki akcyzy na alkohol w '27 i przeznaczenia wpływu na NFZ",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441846",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:48",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MF może rozważyć zerowy VAT na transport pasażerski, gdy znajdzie się przestrzeń w budżecie - MF",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441845",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:43",
     "kind": "pap",
@@ -1221,6 +1239,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "16:54",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BANK GOSPODARSTWA KRAJOWEGO: Powołanie członka Rady Nadzorczej Banku Gospodarstwa Krajowego – informacje uzupełniające",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136504",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:40",
     "kind": "espi",

@@ -1,7 +1,55 @@
 {
  "date": "2026-11-18",
- "count": 266,
+ "count": 270,
  "items": [
+  {
+   "id": "bossa-espi-136505",
+   "date": "2026-11-18",
+   "time": "16:57",
+   "ts": "2026-11-18T16:57:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BANK GOSPODARSTWA KRAJOWEGO",
+   "title": "Powołanie członka Rady Nadzorczej Banku Gospodarstwa Krajowego – informacje uzupełniające",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136505"
+  },
+  {
+   "id": "bossa-espi-136504",
+   "date": "2026-11-18",
+   "time": "16:54",
+   "ts": "2026-11-18T16:54:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BANK GOSPODARSTWA KRAJOWEGO",
+   "title": "Powołanie członka Rady Nadzorczej Banku Gospodarstwa Krajowego – informacje uzupełniające",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136504"
+  },
+  {
+   "id": "bossa-pap-441846",
+   "date": "2026-11-18",
+   "time": "16:52",
+   "ts": "2026-11-18T16:52:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Prezydent podpisał ustawę ws. podwyżki akcyzy na alkohol w '27 i przeznaczenia wpływu na NFZ",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441846"
+  },
+  {
+   "id": "bossa-pap-441845",
+   "date": "2026-11-18",
+   "time": "16:48",
+   "ts": "2026-11-18T16:48:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MF może rozważyć zerowy VAT na transport pasażerski, gdy znajdzie się przestrzeń w budżecie - MF",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441845"
+  },
   {
    "id": "bossa-pap-441843",
    "date": "2026-11-18",
