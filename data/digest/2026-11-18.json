@@ -10,12 +10,12 @@
   "energetyka_surowce": 10,
   "nieruchomosci": 1,
   "fundusze_drobne": 13,
-  "twoje_spolki": 10,
+  "twoje_spolki": 11,
   "obserwowane": 0,
   "pozostale": 65
  },
- "duplicatesRemoved": 144,
- "total": 382,
+ "duplicatesRemoved": 145,
+ "total": 384,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1605,6 +1605,17 @@
    }
   ],
   "twoje_spolki": [
+   {
+    "time": "21:16",
+    "kind": "news",
+    "ticker": "NVDA",
+    "title": "DZIEŃ NA RYNKACH: DJIA w dół, Nasdaq lekko w górę po wynikach Nvidii",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/dzien-na-rynkach-djia-w-dol-nasdaq-lekko-w-gore-po-wynikach-nvidii",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "13:52",
     "kind": "news",

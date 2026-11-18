@@ -1,7 +1,19 @@
 {
  "date": "2026-11-18",
- "count": 382,
+ "count": 384,
  "items": [
+  {
+   "id": "bossa-pap-441930",
+   "date": "2026-11-18",
+   "time": "22:08",
+   "ts": "2026-11-18T22:08:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: DJIA w dół, Nasdaq lekko w górę po wynikach Nvidii",
+   "ticker": "NVDA",
+   "url": "https://bossa.pl/analizy/komunikaty#message-441930"
+  },
   {
    "id": "bossa-espi-137782",
    "date": "2026-11-18",
@@ -25,6 +37,17 @@
    "title": "IMAGE POWER SA (20/2026) Informacje o walnym zgromadzeniu - treść uchwał podjętych przez WZ (w tym informacje o ogłoszeniu przerwy w obradach)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-441928"
+  },
+  {
+   "id": "strefa-dbfa3f9616de",
+   "date": "2026-11-18",
+   "time": "21:16",
+   "ts": "2026-11-18T21:16:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: DJIA w dół, Nasdaq lekko w górę po wynikach Nvidii",
+   "ticker": "NVDA",
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/dzien-na-rynkach-djia-w-dol-nasdaq-lekko-w-gore-po-wynikach-nvidii"
   },
   {
    "id": "bossa-espi-136569",
