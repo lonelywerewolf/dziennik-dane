@@ -1,7 +1,65 @@
 {
  "date": "2026-11-18",
- "count": 90,
+ "count": 95,
  "items": [
+  {
+   "id": "bossa-pap-441709",
+   "date": "2026-11-18",
+   "time": "10:38",
+   "ts": "2026-11-18T10:38:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wtorkowy spadek XTB to przereagowanie, ale negatywny sentyment do spółki może się utrzymywać (opinia)",
+   "ticker": "XTB",
+   "url": "https://bossa.pl/analizy/komunikaty#message-441709"
+  },
+  {
+   "id": "strefa-f562d5f5f4bc",
+   "date": "2026-11-18",
+   "time": "10:36",
+   "ts": "2026-11-18T10:36:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "LNG i dostawy gazu na Węgry. ORLEN podpisał porozumienie z MVM ONEnergy",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/lng-i-dostawy-gazu-na-wegry-orlen-podpisal-porozumienie-z-mvm-onenergy"
+  },
+  {
+   "id": "bossa-pap-441708",
+   "date": "2026-11-18",
+   "time": "10:35",
+   "ts": "2026-11-18T10:35:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "M. Kightley nadzoruje dwa departamenty NBP, L. Kotecki i P. Litwiniuk po jednym (popr.)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441708"
+  },
+  {
+   "id": "bossa-pap-441707",
+   "date": "2026-11-18",
+   "time": "10:32",
+   "ts": "2026-11-18T10:32:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne - SONIA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441707"
+  },
+  {
+   "id": "strefa-cdb901163c7c",
+   "date": "2026-11-18",
+   "time": "10:30",
+   "ts": "2026-11-18T10:30:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "M. Kightley nadzoruje dwa departamenty NBP, L. Kotecki i P. Litwiniuk po jednym (popr.)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/m-kightley-nadzoruje-dwa-departamenty-nbp-l-kotecki-i-p-litwiniuk-po-jednym"
+  },
   {
    "id": "bossa-pap-441706",
    "date": "2026-11-18",
