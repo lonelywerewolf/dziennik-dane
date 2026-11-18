@@ -6,7 +6,7 @@
   "rekomendacje": 0,
   "korporacyjne": 47,
   "makro_pl": 26,
-  "swiat_rynki": 26,
+  "swiat_rynki": 27,
   "energetyka_surowce": 10,
   "nieruchomosci": 1,
   "fundusze_drobne": 13,
@@ -15,7 +15,7 @@
   "pozostale": 64
  },
  "duplicatesRemoved": 137,
- "total": 370,
+ "total": 371,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1105,6 +1105,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "19:13",
+    "kind": "news",
+    "ticker": null,
+    "title": "Niemal wszyscy członkowie FOMC oceniają dalsze podwyżki stóp w USA za właściwe - minutes Fed",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/niemal-wszyscy-czlonkowie-fomc-oceniaja-dalsze-podwyzki-stop-w-usa-za-wlasciwe",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "18:52",
     "kind": "pap",
