@@ -1,7 +1,7 @@
 {
  "date": "2026-11-18",
  "counts": {
-  "podsumowania": 11,
+  "podsumowania": 12,
   "wyniki": 8,
   "rekomendacje": 0,
   "korporacyjne": 31,
@@ -9,16 +9,25 @@
   "swiat_rynki": 16,
   "energetyka_surowce": 7,
   "nieruchomosci": 1,
-  "fundusze_drobne": 7,
+  "fundusze_drobne": 8,
   "twoje_spolki": 10,
   "obserwowane": 0,
-  "pozostale": 44
+  "pozostale": 45
  },
- "duplicatesRemoved": 79,
- "total": 233,
+ "duplicatesRemoved": 81,
+ "total": 238,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "15:36",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: WIG20 najsilniejszy z głównych indeksów m. in. dzięki 7-proc. zwyżce CD Projektu RED",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/dzien-na-gpw-wig20-najsilniejszy-z-glownych-indeksow-m-dzieki-7-proc-zwyzce-cd",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "13:54",
     "kind": "news",
@@ -928,6 +937,15 @@
   ],
   "fundusze_drobne": [
    {
+    "time": "15:50",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GENERALI OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441823",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "14:49",
     "kind": "pap",
     "ticker": null,
@@ -1091,6 +1109,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "15:43",
+    "kind": "pap",
+    "ticker": null,
+    "title": "CIS: Przekazanie archiwów H. i L. Wujców do Archiwum Akt Nowych (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441821",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:41",
     "kind": "espi",

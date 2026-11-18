@@ -1,7 +1,55 @@
 {
  "date": "2026-11-18",
- "count": 233,
+ "count": 238,
  "items": [
+  {
+   "id": "bossa-pap-441824",
+   "date": "2026-11-18",
+   "time": "15:51",
+   "ts": "2026-11-18T15:51:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: WIG20 najsilniejszy z głównych indeksów m. in. dzięki 7-proc. zwyżce CD Projektu RED",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441824"
+  },
+  {
+   "id": "bossa-pap-441823",
+   "date": "2026-11-18",
+   "time": "15:50",
+   "ts": "2026-11-18T15:50:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GENERALI OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441823"
+  },
+  {
+   "id": "bossa-pap-441822",
+   "date": "2026-11-18",
+   "time": "15:49",
+   "ts": "2026-11-18T15:49:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "VIENNA OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441822"
+  },
+  {
+   "id": "bossa-pap-441821",
+   "date": "2026-11-18",
+   "time": "15:43",
+   "ts": "2026-11-18T15:43:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "CIS: Przekazanie archiwów H. i L. Wujców do Archiwum Akt Nowych (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441821"
+  },
   {
    "id": "bossa-espi-136494",
    "date": "2026-11-18",
@@ -37,6 +85,17 @@
    "title": "Otrzymanie zawiadomień o zmianie udziału w ogólnej liczbie głosów Emitenta",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-136493"
+  },
+  {
+   "id": "strefa-f2d7014e7626",
+   "date": "2026-11-18",
+   "time": "15:36",
+   "ts": "2026-11-18T15:36:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: WIG20 najsilniejszy z głównych indeksów m. in. dzięki 7-proc. zwyżce CD Projektu RED",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/dzien-na-gpw-wig20-najsilniejszy-z-glownych-indeksow-m-dzieki-7-proc-zwyzce-cd"
   },
   {
    "id": "bossa-pap-441817",
