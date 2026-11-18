@@ -12,10 +12,10 @@
   "fundusze_drobne": 13,
   "twoje_spolki": 10,
   "obserwowane": 0,
-  "pozostale": 63
+  "pozostale": 64
  },
  "duplicatesRemoved": 137,
- "total": 368,
+ "total": 369,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1651,6 +1651,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "19:46",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MSZ: Wicepremier Radosław Sikorski udaje się z wizytą do Budapesztu (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441919",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:57",
     "kind": "news",
