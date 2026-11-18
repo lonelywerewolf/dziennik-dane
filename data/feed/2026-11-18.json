@@ -1,7 +1,31 @@
 {
  "date": "2026-11-18",
- "count": 127,
+ "count": 129,
  "items": [
+  {
+   "id": "bossa-espi-136449",
+   "date": "2026-11-18",
+   "time": "12:21",
+   "ts": "2026-11-18T12:21:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KRKA",
+   "title": "Share buy-back programme schedule from January to June 2027",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136449"
+  },
+  {
+   "id": "bossa-espi-136448",
+   "date": "2026-11-18",
+   "time": "12:20",
+   "ts": "2026-11-18T12:20:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "AC S.A.",
+   "title": "Rozwiązanie umowy o badanie sprawozdania finansowego za rok obrotowy 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136448"
+  },
   {
    "id": "bossa-pap-441734",
    "date": "2026-11-18",
