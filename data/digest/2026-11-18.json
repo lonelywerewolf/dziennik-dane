@@ -6,16 +6,16 @@
   "rekomendacje": 0,
   "korporacyjne": 0,
   "makro_pl": 2,
-  "swiat_rynki": 0,
+  "swiat_rynki": 1,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
-  "twoje_spolki": 2,
+  "twoje_spolki": 3,
   "obserwowane": 0,
   "pozostale": 3
  },
- "duplicatesRemoved": 6,
- "total": 19,
+ "duplicatesRemoved": 8,
+ "total": 23,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -91,7 +91,17 @@
     "flags": []
    }
   ],
-  "swiat_rynki": [],
+  "swiat_rynki": [
+   {
+    "time": "07:41",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny ropy spadają; inwestorzy oceniają dane o zapasach paliw w USA",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/ceny-ropy-spadaja-inwestorzy-oceniaja-dane-o-zapasach-paliw-w-usa",
+    "src": "strefainwestorow",
+    "flags": []
+   }
+  ],
   "energetyka_surowce": [
    {
     "time": "06:34",
@@ -106,6 +116,15 @@
   "nieruchomosci": [],
   "fundusze_drobne": [],
   "twoje_spolki": [
+   {
+    "time": "07:20",
+    "kind": "news",
+    "ticker": "SNT",
+    "title": "Synektik w IV kw. 2025/26 roku miał 40,5 mln zł EBITDA, lekko poniżej konsensusu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/synektik-w-iv-kw-202526-roku-mial-405-mln-zl-ebitda-lekko-ponizej-konsensusu",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "07:01",
     "kind": "news",
