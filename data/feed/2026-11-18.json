@@ -1,7 +1,55 @@
 {
  "date": "2026-11-18",
- "count": 96,
+ "count": 100,
  "items": [
+  {
+   "id": "bossa-pap-441714",
+   "date": "2026-11-18",
+   "time": "11:02",
+   "ts": "2026-11-18T11:02:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ceny konsumpcyjne w strefie euro w X: +4 proc. rdr. Konsensus: +4 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441714"
+  },
+  {
+   "id": "bossa-pap-441713",
+   "date": "2026-11-18",
+   "time": "11:02",
+   "ts": "2026-11-18T11:02:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zamrożenie cen gazu i prądu w '27 odjęłoby ok. 0,7 pkt. proc. od średniorocznej inflacji - ING (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441713"
+  },
+  {
+   "id": "bossa-espi-136440",
+   "date": "2026-11-18",
+   "time": "10:59",
+   "ts": "2026-11-18T10:59:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MOVIE GAMES S.A.",
+   "title": "Informacje dotyczące Drug Dealer Simulator 3",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136440"
+  },
+  {
+   "id": "bossa-espi-136439",
+   "date": "2026-11-18",
+   "time": "10:56",
+   "ts": "2026-11-18T10:56:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "FORBUILD POLSKA S.A.",
+   "title": "Otrzymanie zawiadomień o zmianie udziału w ogólnej liczbie głosów w Forbuild S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136439"
+  },
   {
    "id": "bossa-pap-441710",
    "date": "2026-11-18",
