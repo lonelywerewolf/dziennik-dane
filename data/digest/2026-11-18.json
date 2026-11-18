@@ -2,7 +2,7 @@
  "date": "2026-11-18",
  "counts": {
   "podsumowania": 14,
-  "wyniki": 10,
+  "wyniki": 12,
   "rekomendacje": 0,
   "korporacyjne": 36,
   "makro_pl": 23,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 10,
   "twoje_spolki": 10,
   "obserwowane": 0,
-  "pozostale": 52
+  "pozostale": 53
  },
- "duplicatesRemoved": 105,
- "total": 291,
+ "duplicatesRemoved": 109,
+ "total": 298,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -148,12 +148,32 @@
   ],
   "wyniki": [
    {
-    "time": "17:18",
-    "kind": "pap",
+    "time": "17:27",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wyniki Celon Pharma w III kw. 2026 roku vs. konsensus PAP (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/wyniki-celon-pharma-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "17:27",
+    "kind": "news",
+    "ticker": null,
+    "title": "Skorygowana EBITDA grupy KGHM wyniosła w III kw. 3,996 mld zł wobec 3,564 mld zł konsensusu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/skorygowana-ebitda-grupy-kghm-wyniosla-w-iii-kw-3996-mld-zl-wobec-3564-mld-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "17:15",
+    "kind": "news",
     "ticker": null,
     "title": "Wyniki Cyfrowego Polsatu w III kw. 2026 roku vs. konsensus PAP",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441862",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/wyniki-cyfrowego-polsatu-w-iii-kw-2026-roku-vs-konsensus-pap",
+    "src": "strefainwestorow",
     "flags": [
      "wyniki"
     ]
@@ -1321,6 +1341,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:28",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SILVAIR INC: QS",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136517",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:13",
     "kind": "espi",

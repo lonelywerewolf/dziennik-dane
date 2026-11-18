@@ -1,7 +1,77 @@
 {
  "date": "2026-11-18",
- "count": 291,
+ "count": 298,
  "items": [
+  {
+   "id": "bossa-espi-136517",
+   "date": "2026-11-18",
+   "time": "17:28",
+   "ts": "2026-11-18T17:28:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "SILVAIR INC",
+   "title": "QS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136517"
+  },
+  {
+   "id": "bossa-espi-136516",
+   "date": "2026-11-18",
+   "time": "17:28",
+   "ts": "2026-11-18T17:28:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PHN S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136516"
+  },
+  {
+   "id": "strefa-bbfde862f70e",
+   "date": "2026-11-18",
+   "time": "17:27",
+   "ts": "2026-11-18T17:27:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wyniki Celon Pharma w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/wyniki-celon-pharma-w-iii-kw-2026-roku-vs-konsensus-pap-tabela"
+  },
+  {
+   "id": "strefa-b2f7aac8ff91",
+   "date": "2026-11-18",
+   "time": "17:27",
+   "ts": "2026-11-18T17:27:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Skorygowana EBITDA grupy KGHM wyniosła w III kw. 3,996 mld zł wobec 3,564 mld zł konsensusu",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/skorygowana-ebitda-grupy-kghm-wyniosla-w-iii-kw-3996-mld-zl-wobec-3564-mld-zl"
+  },
+  {
+   "id": "bossa-pap-441865",
+   "date": "2026-11-18",
+   "time": "17:24",
+   "ts": "2026-11-18T17:24:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wyniki Celon Pharma w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441865"
+  },
+  {
+   "id": "bossa-pap-441864",
+   "date": "2026-11-18",
+   "time": "17:21",
+   "ts": "2026-11-18T17:21:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Skorygowana EBITDA grupy KGHM wyniosła w III kw. 3,996 mld zł wobec 3,564 mld zł konsensusu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441864"
+  },
   {
    "id": "bossa-espi-136515",
    "date": "2026-11-18",
@@ -25,6 +95,17 @@
    "title": "Wyniki Cyfrowego Polsatu w III kw. 2026 roku vs. konsensus PAP",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-441862"
+  },
+  {
+   "id": "strefa-7f3d5f508859",
+   "date": "2026-11-18",
+   "time": "17:15",
+   "ts": "2026-11-18T17:15:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wyniki Cyfrowego Polsatu w III kw. 2026 roku vs. konsensus PAP",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/wyniki-cyfrowego-polsatu-w-iii-kw-2026-roku-vs-konsensus-pap"
   },
   {
    "id": "bossa-pap-441861",
