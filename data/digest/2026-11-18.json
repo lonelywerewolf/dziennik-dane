@@ -5,17 +5,17 @@
   "wyniki": 6,
   "rekomendacje": 0,
   "korporacyjne": 8,
-  "makro_pl": 9,
+  "makro_pl": 10,
   "swiat_rynki": 9,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 1,
   "twoje_spolki": 9,
   "obserwowane": 0,
-  "pozostale": 17
+  "pozostale": 18
  },
- "duplicatesRemoved": 31,
- "total": 100,
+ "duplicatesRemoved": 32,
+ "total": 103,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -258,6 +258,15 @@
     "title": "Zamrożenie cen gazu i prądu w '27 odjęłoby ok. 0,7 pkt. proc. od średniorocznej inflacji - ING (opinia)",
     "url": "https://bossa.pl/analizy/komunikaty#message-441713",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:36",
+    "kind": "news",
+    "ticker": null,
+    "title": "Inflacja według HICP w Polsce w październiku wyniosła 3,7 proc. rdr - Eurostat",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/inflacja-wedlug-hicp-w-polsce-w-pazdzierniku-wyniosla-37-proc-rdr-eurostat",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -528,6 +537,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:08",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźniki referencyjne - EURIBOR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441716",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:02",
     "kind": "pap",
