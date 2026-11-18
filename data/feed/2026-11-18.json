@@ -1,7 +1,42 @@
 {
  "date": "2026-11-18",
- "count": 45,
+ "count": 49,
  "items": [
+  {
+   "id": "bossa-pap-441682",
+   "date": "2026-11-18",
+   "time": "08:39",
+   "ts": "2026-11-18T08:39:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "W III kw. skonsolidowane przychody ze sprzedaży Bogdanki wyniosły 682,69 mln zł, wzrost o 40,3 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441682"
+  },
+  {
+   "id": "strefa-ea10e8671d94",
+   "date": "2026-11-18",
+   "time": "08:33",
+   "ts": "2026-11-18T08:33:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "W III kw. skonsolidowane przychody ze sprzedaży Bogdanki wyniosły 682,69 mln zł, wzrost o 40,3 proc.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/w-iii-kw-skonsolidowane-przychody-ze-sprzedazy-bogdanki-wyniosly-68269-mln-zl"
+  },
+  {
+   "id": "bossa-pap-441681",
+   "date": "2026-11-18",
+   "time": "08:32",
+   "ts": "2026-11-18T08:32:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: Środowa sesja może rozpocząć się od spadków",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441681"
+  },
   {
    "id": "bossa-espi-136429",
    "date": "2026-11-18",
@@ -13,6 +48,17 @@
    "title": "Otrzymanie zawiadomień sporządzonych na podstawie art. 69 ustawy o ofercie",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-136429"
+  },
+  {
+   "id": "strefa-4365d9ab4262",
+   "date": "2026-11-18",
+   "time": "08:28",
+   "ts": "2026-11-18T08:28:38+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: Środowa sesja może rozpocząć się od spadków",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/dzien-na-gpw-srodowa-sesja-moze-rozpoczac-sie-od-spadkow"
   },
   {
    "id": "strefa-634b4ed8af71",
