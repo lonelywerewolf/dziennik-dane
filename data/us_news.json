@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "73b3433e5566",
+   "ticker": "NVDA",
+   "time": "2026-11-18T23:11+01:00",
+   "title": "Stock Market Today, Nov. 18: Nvidia Slips on Strong Results as Succession and China Business Risks Weigh",
+   "url": "https://www.nasdaq.com/articles/stock-market-today-nov-18-nvidia-slips-strong-results-succession-and-china-business-risks",
+   "src": "nasdaq",
+   "summary": "Nvidia (NASDAQ:NVDA), the leading AI accelerators, GPUs, and data-center networking systems provider, closed at $150.96, down 2.89%. Strong quarterly results and upbeat revenue guidance initially lifted the stock, but investors are now watching succession uncertainty and China-re"
+  },
+  {
    "id": "a17bc577da9f",
    "ticker": "NVDA",
    "time": "2026-11-18T22:28+01:00",
@@ -26,6 +35,15 @@
    "url": "https://www.nasdaq.com/articles/spacex-now-nvidias-biggest-stock-holding-ahead-intel-heres-what-says-about-spacex",
    "src": "nasdaq",
    "summary": "Key PointsSpaceX was 40.7% of the stock portfolio Nvidia reported for Sept. 30, just ahead of Intel with 40.1%."
+  },
+  {
+   "id": "7fe3314ac083",
+   "ticker": "NVDA",
+   "time": "2026-11-18T20:52+01:00",
+   "title": "Buy the Spike in Target (TGT) Stock After Strong Q3 Earnings?",
+   "url": "https://www.nasdaq.com/articles/buy-spike-target-tgt-stock-after-strong-q3-earnings",
+   "src": "nasdaq",
+   "summary": "Target stock has surged as much as 7% after strong Q3 results and raised guidance, but is TGT still a buy following its 75% year-to-date rally?"
   },
   {
    "id": "fbf7b339c925",
@@ -15184,5 +15202,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-18T23:21:57+01:00"
+ "updatedAt": "2026-11-18T23:32:58+01:00"
 }
