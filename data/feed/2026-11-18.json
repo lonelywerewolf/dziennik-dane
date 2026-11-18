@@ -1,7 +1,78 @@
 {
  "date": "2026-11-18",
- "count": 56,
+ "count": 62,
  "items": [
+  {
+   "id": "bossa-pap-441688",
+   "date": "2026-11-18",
+   "time": "09:12",
+   "ts": "2026-11-18T09:12:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA FX/FI: Złoty może zejść nieco poniżej 4,40/EUR, przetarg MF z małym wpływem na rentowności",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441688"
+  },
+  {
+   "id": "bossa-pap-441687",
+   "date": "2026-11-18",
+   "time": "09:12",
+   "ts": "2026-11-18T09:12:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Kurs Synektika spada o 7,6 proc. do 294,8 zł; indeks mWIG40 zniżkuje o 0,3 proc.",
+   "ticker": "SNT",
+   "url": "https://bossa.pl/analizy/komunikaty#message-441687"
+  },
+  {
+   "id": "bossa-pap-441686",
+   "date": "2026-11-18",
+   "time": "09:12",
+   "ts": "2026-11-18T09:12:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MRPiPS: Historyczny krok dla niezależnego życia osób z niepełnosprawnościami (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441686"
+  },
+  {
+   "id": "bossa-espi-136431",
+   "date": "2026-11-18",
+   "time": "09:05",
+   "ts": "2026-11-18T09:05:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF MWIG40TRsh PORTFELOWY FIZ",
+   "title": "Informacja o transakcjach uzyskanych w trybie art. 19 ust. 3 rozporządzenia MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136431"
+  },
+  {
+   "id": "bossa-espi-136430",
+   "date": "2026-11-18",
+   "time": "09:04",
+   "ts": "2026-11-18T09:04:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BEEIN S.A.",
+   "title": "Dokonanie zgłoszeń patentowych dotyczących innowacyjnych rozwiązań technologicznych w zakresie pomp ciepła",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136430"
+  },
+  {
+   "id": "strefa-526432aae6ce",
+   "date": "2026-11-18",
+   "time": "08:59",
+   "ts": "2026-11-18T08:59:49+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA FX/FI: Złoty może zejść nieco poniżej 4,40/EUR, przetarg MF z małym wpływem na rentowności",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/dzien-na-fxfi-zloty-moze-zejsc-nieco-ponizej-440eur-przetarg-mf-z-malym-wplywem"
+  },
   {
    "id": "strefa-ad4460a1a7f1",
    "date": "2026-11-18",

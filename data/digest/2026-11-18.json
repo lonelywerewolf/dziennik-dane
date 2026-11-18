@@ -1,24 +1,33 @@
 {
  "date": "2026-11-18",
  "counts": {
-  "podsumowania": 6,
+  "podsumowania": 7,
   "wyniki": 5,
   "rekomendacje": 0,
-  "korporacyjne": 5,
+  "korporacyjne": 6,
   "makro_pl": 4,
   "swiat_rynki": 5,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
-  "twoje_spolki": 5,
+  "twoje_spolki": 6,
   "obserwowane": 0,
-  "pozostale": 7
+  "pozostale": 9
  },
- "duplicatesRemoved": 18,
- "total": 56,
+ "duplicatesRemoved": 19,
+ "total": 62,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "08:59",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA FX/FI: Złoty może zejść nieco poniżej 4,40/EUR, przetarg MF z małym wpływem na rentowności",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/dzien-na-fxfi-zloty-moze-zejsc-nieco-ponizej-440eur-przetarg-mf-z-malym-wplywem",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:28",
     "kind": "news",
@@ -127,6 +136,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "09:05",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BETA ETF MWIG40TRsh PORTFELOWY FIZ: Informacja o transakcjach uzyskanych w trybie art. 19 ust. 3 rozporządzenia MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136431",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
    {
     "time": "08:49",
     "kind": "news",
@@ -281,6 +301,15 @@
   "fundusze_drobne": [],
   "twoje_spolki": [
    {
+    "time": "09:12",
+    "kind": "pap",
+    "ticker": "SNT",
+    "title": "Kurs Synektika spada o 7,6 proc. do 294,8 zł; indeks mWIG40 zniżkuje o 0,3 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441687",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "07:52",
     "kind": "news",
     "ticker": "NVDA",
@@ -332,6 +361,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:12",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MRPiPS: Historyczny krok dla niezależnego życia osób z niepełnosprawnościami (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441686",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "09:04",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BEEIN S.A.: Dokonanie zgłoszeń patentowych dotyczących innowacyjnych rozwiązań technologicznych w zakresie pomp ciepła",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136430",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:02",
     "kind": "pap",
