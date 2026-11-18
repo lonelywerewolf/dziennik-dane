@@ -1,12 +1,12 @@
 {
  "date": "2026-11-18",
  "counts": {
-  "podsumowania": 14,
-  "wyniki": 12,
+  "podsumowania": 16,
+  "wyniki": 13,
   "rekomendacje": 0,
-  "korporacyjne": 36,
+  "korporacyjne": 37,
   "makro_pl": 23,
-  "swiat_rynki": 21,
+  "swiat_rynki": 22,
   "energetyka_surowce": 9,
   "nieruchomosci": 1,
   "fundusze_drobne": 10,
@@ -14,11 +14,31 @@
   "obserwowane": 0,
   "pozostale": 53
  },
- "duplicatesRemoved": 109,
- "total": 298,
+ "duplicatesRemoved": 112,
+ "total": 306,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "17:36",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Notowania ciągłe - podsumowanie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441872",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "17:33",
+    "kind": "pap",
+    "ticker": null,
+    "title": "WIG20 na zamknięciu wyniósł 4226,28 pkt (-0,61%)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441870",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:05",
     "kind": "news",
@@ -151,6 +171,17 @@
     "time": "17:27",
     "kind": "news",
     "ticker": null,
+    "title": "KGHM po trzech kwartałach 2026 roku: dobre wyniki umożliwiają planowanie i realizację przyszłościowych inwestycji",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/kghm-po-trzech-kwartalach-2026-roku-dobre-wyniki-umozliwiaja-planowanie-i",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "17:27",
+    "kind": "news",
+    "ticker": null,
     "title": "Wyniki Celon Pharma w III kw. 2026 roku vs. konsensus PAP (tabela)",
     "url": "https://strefainwestorow.pl/wiadomosci/20261118/wyniki-celon-pharma-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
     "src": "strefainwestorow",
@@ -270,6 +301,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "17:36",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GENOMED SA (15/2026) Powołanie osoby zarządzającej lub nadzorującej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441873",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "17:08",
     "kind": "espi",
@@ -865,6 +907,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "17:37",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Zapasy ropy w USA w ubiegłym tygodniu wzrosły o 3,38 mln baryłek - DoE",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441874",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:15",
     "kind": "pap",

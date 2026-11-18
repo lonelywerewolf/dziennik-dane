@@ -1,7 +1,91 @@
 {
  "date": "2026-11-18",
- "count": 298,
+ "count": 306,
  "items": [
+  {
+   "id": "bossa-pap-441875",
+   "date": "2026-11-18",
+   "time": "17:39",
+   "ts": "2026-11-18T17:39:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Gaz-System podpisał porozumienie z operatorami litewskimi ws. ochrony terminali LNG (aktl.)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441875"
+  },
+  {
+   "id": "bossa-pap-441874",
+   "date": "2026-11-18",
+   "time": "17:37",
+   "ts": "2026-11-18T17:37:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zapasy ropy w USA w ubiegłym tygodniu wzrosły o 3,38 mln baryłek - DoE",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441874"
+  },
+  {
+   "id": "bossa-pap-441873",
+   "date": "2026-11-18",
+   "time": "17:36",
+   "ts": "2026-11-18T17:36:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GENOMED SA (15/2026) Powołanie osoby zarządzającej lub nadzorującej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441873"
+  },
+  {
+   "id": "bossa-pap-441872",
+   "date": "2026-11-18",
+   "time": "17:36",
+   "ts": "2026-11-18T17:36:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Notowania ciągłe - podsumowanie",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441872"
+  },
+  {
+   "id": "bossa-espi-136519",
+   "date": "2026-11-18",
+   "time": "17:34",
+   "ts": "2026-11-18T17:34:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "IDM SA",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136519"
+  },
+  {
+   "id": "bossa-pap-441870",
+   "date": "2026-11-18",
+   "time": "17:33",
+   "ts": "2026-11-18T17:33:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "WIG20 na zamknięciu wyniósł 4226,28 pkt (-0,61%)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441870"
+  },
+  {
+   "id": "bossa-espi-136518",
+   "date": "2026-11-18",
+   "time": "17:31",
+   "ts": "2026-11-18T17:31:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "UNIMOT S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136518"
+  },
   {
    "id": "bossa-espi-136517",
    "date": "2026-11-18",
@@ -25,6 +109,17 @@
    "title": "QSr",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-136516"
+  },
+  {
+   "id": "strefa-e82ec867e6ab",
+   "date": "2026-11-18",
+   "time": "17:27",
+   "ts": "2026-11-18T17:27:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "KGHM po trzech kwartałach 2026 roku: dobre wyniki umożliwiają planowanie i realizację przyszłościowych inwestycji",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/kghm-po-trzech-kwartalach-2026-roku-dobre-wyniki-umozliwiaja-planowanie-i"
   },
   {
    "id": "strefa-bbfde862f70e",
