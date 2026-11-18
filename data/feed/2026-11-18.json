@@ -1,7 +1,31 @@
 {
  "date": "2026-11-18",
- "count": 216,
+ "count": 218,
  "items": [
+  {
+   "id": "bossa-espi-136488",
+   "date": "2026-11-18",
+   "time": "15:11",
+   "ts": "2026-11-18T15:11:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ALLEGRO.EU S.A.",
+   "title": "Zmiana warunków Fazy II Programu Skupu Akcji – implementacja uchwały ZWZ i podwyższenie maksymalnej ceny nabycia do 65 zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136488"
+  },
+  {
+   "id": "bossa-espi-136487",
+   "date": "2026-11-18",
+   "time": "15:09",
+   "ts": "2026-11-18T15:09:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ALLEGRO.EU S.A.",
+   "title": "Zmiany w składzie Rady Dyrektorów Allegro.eu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136487"
+  },
   {
    "id": "bossa-pap-441805",
    "date": "2026-11-18",
