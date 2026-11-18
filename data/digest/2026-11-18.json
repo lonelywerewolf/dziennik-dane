@@ -2,20 +2,20 @@
  "date": "2026-11-18",
  "counts": {
   "podsumowania": 16,
-  "wyniki": 16,
+  "wyniki": 17,
   "rekomendacje": 0,
   "korporacyjne": 37,
-  "makro_pl": 23,
-  "swiat_rynki": 23,
+  "makro_pl": 24,
+  "swiat_rynki": 25,
   "energetyka_surowce": 9,
   "nieruchomosci": 1,
   "fundusze_drobne": 10,
   "twoje_spolki": 10,
   "obserwowane": 0,
-  "pozostale": 54
+  "pozostale": 55
  },
- "duplicatesRemoved": 112,
- "total": 311,
+ "duplicatesRemoved": 116,
+ "total": 320,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -168,21 +168,30 @@
   ],
   "wyniki": [
    {
-    "time": "17:47",
-    "kind": "pap",
+    "time": "17:55",
+    "kind": "news",
     "ticker": null,
-    "title": "Grupa Enea miała w III kw. 1.139 mln zł zysku EBITDA, zgodnie z szacunkami",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441878",
-    "src": "bossa",
+    "title": "Cyfrowy Polsat miał w III kw. 838,9 mln zł skor. EBITDA wobec 807,8 mln zł konsensusu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/cyfrowy-polsat-mial-w-iii-kw-8389-mln-zl-skor-ebitda-wobec-8078-mln-zl",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
-    "time": "17:46",
-    "kind": "pap",
+    "time": "17:55",
+    "kind": "news",
     "ticker": null,
-    "title": "Cyfrowy Polsat miał w III kw. 838,9 mln zł skor. EBITDA wobec 807,8 mln zł konsensusu",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441877",
-    "src": "bossa",
+    "title": "Grupa Enea miała w III kw. 1.139 mln zł zysku EBITDA, zgodnie z szacunkami",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/grupa-enea-miala-w-iii-kw-1139-mln-zl-zysku-ebitda-zgodnie-z-szacunkami",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "17:42",
+    "kind": "news",
+    "ticker": null,
+    "title": "Skorygowana EBITDA grupy KGHM wyniosła w III kw. 3,996 mld zł, powyżej konsensusu (opis)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/skorygowana-ebitda-grupy-kghm-wyniosla-w-iii-kw-3996-mld-zl-powyzej-konsensusu",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -728,6 +737,15 @@
   ],
   "makro_pl": [
    {
+    "time": "18:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GPW: w sprawie wyznaczenia pierwszego dnia notowania w alternatywnym systemie obrotu na Catalyst obligacji na okaziciela serii E spółki MATEXI POLSKA HOLDING & FINANCE S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441884",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "17:11",
     "kind": "pap",
     "ticker": null,
@@ -936,6 +954,24 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "17:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: w sprawie dopuszczenia i wprowadzenia do obrotu giełdowego na Głównym Rynku GPW akcji zwykłych na okaziciela serii H spółki „INTERBUD – LUBLIN” S.A.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/gpw-w-sprawie-dopuszczenia-i-wprowadzenia-do-obrotu-gieldowego-na-glownym-rynku",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "17:54",
+    "kind": "espi",
+    "ticker": null,
+    "title": "URTESTE S.A.: Rejestracja podwyższenia kapitału zakładowego i zmian w statucie Spółki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136522",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:49",
     "kind": "espi",
@@ -1430,6 +1466,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:54",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Stawka Polonia spadła w środę do 3,64 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441882",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:44",
     "kind": "pap",
