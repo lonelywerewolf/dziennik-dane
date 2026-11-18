@@ -14,11 +14,20 @@
   "obserwowane": 0,
   "pozostale": 3
  },
- "duplicatesRemoved": 1,
- "total": 11,
+ "duplicatesRemoved": 4,
+ "total": 14,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kalendarium rynku kapitałowego GPW 2026-11-18",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/kalendarium-rynku-kapitalowego-gpw-2026-11-18",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "06:41",
     "kind": "pap",
@@ -29,21 +38,12 @@
     "flags": []
    },
    {
-    "time": "06:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Kalendarium rynku kapitałowego GPW 2026-11-18",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441658",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "06:00",
-    "kind": "pap",
+    "time": "06:36",
+    "kind": "news",
     "ticker": null,
     "title": "Kalendarium rynku NewConnect 2026-11-18",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441657",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/kalendarium-rynku-newconnect-2026-11-18",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -98,6 +98,15 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-18",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-18",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "06:36",
     "kind": "pap",
     "ticker": null,
@@ -112,15 +121,6 @@
     "ticker": null,
     "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
     "url": "https://bossa.pl/analizy/komunikaty#message-441660",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "06:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-18",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441655",
     "src": "bossa",
     "flags": []
    }
