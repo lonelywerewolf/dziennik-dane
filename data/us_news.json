@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "5eb4b5cca1d9",
+   "ticker": "NVDA",
+   "time": "2026-11-18T23:27+01:00",
+   "title": "Nvidia Bars Huang's CEO Return",
+   "url": "https://www.nasdaq.com/articles/nvidia-bars-huangs-ceo-return",
+   "src": "nasdaq",
+   "summary": "(RTTNews) - Nvidia (NVDA) has confirmed that founder Jensen Huang will not return as chief executive, with the board unanimously accepting his resignation and expressing full confidence in interim CEO Colette Kress."
+  },
+  {
    "id": "73b3433e5566",
    "ticker": "NVDA",
    "time": "2026-11-18T23:11+01:00",
@@ -15202,5 +15211,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-18T23:54:57+01:00"
+ "updatedAt": "2026-11-19T00:05:57+01:00"
 }
