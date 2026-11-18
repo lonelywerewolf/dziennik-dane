@@ -1,7 +1,7 @@
 {
  "date": "2026-11-18",
  "counts": {
-  "podsumowania": 0,
+  "podsumowania": 3,
   "wyniki": 0,
   "rekomendacje": 0,
   "korporacyjne": 0,
@@ -10,15 +10,43 @@
   "energetyka_surowce": 0,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
-  "twoje_spolki": 0,
+  "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 0
+  "pozostale": 1
  },
  "duplicatesRemoved": 0,
- "total": 0,
+ "total": 5,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
-  "podsumowania": [],
+  "podsumowania": [
+   {
+    "time": "06:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Kalendarium rynku kapitałowego GPW 2026-11-18",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441658",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "06:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Kalendarium rynku NewConnect 2026-11-18",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441657",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "06:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Kalendarium spółek z WIG30 2026-11-18",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441656",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "wyniki": [],
   "rekomendacje": [],
   "korporacyjne": [],
@@ -27,8 +55,28 @@
   "energetyka_surowce": [],
   "nieruchomosci": [],
   "fundusze_drobne": [],
-  "twoje_spolki": [],
+  "twoje_spolki": [
+   {
+    "time": "06:03",
+    "kind": "espi",
+    "ticker": "SNT",
+    "title": "SYNEKTIK S.A.: QSr",
+    "url": "https://bossa.pl/analizy/komunikaty#message-130577",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "obserwowane": [],
-  "pozostale": []
+  "pozostale": [
+   {
+    "time": "06:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-18",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441655",
+    "src": "bossa",
+    "flags": []
+   }
+  ]
  }
 }
