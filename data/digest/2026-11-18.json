@@ -5,17 +5,17 @@
   "wyniki": 6,
   "rekomendacje": 0,
   "korporacyjne": 17,
-  "makro_pl": 14,
+  "makro_pl": 15,
   "swiat_rynki": 11,
-  "energetyka_surowce": 2,
+  "energetyka_surowce": 3,
   "nieruchomosci": 0,
-  "fundusze_drobne": 2,
+  "fundusze_drobne": 3,
   "twoje_spolki": 9,
   "obserwowane": 0,
-  "pozostale": 24
+  "pozostale": 25
  },
- "duplicatesRemoved": 39,
- "total": 134,
+ "duplicatesRemoved": 42,
+ "total": 141,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -357,6 +357,15 @@
   ],
   "makro_pl": [
    {
+    "time": "12:28",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: w sprawie wprowadzenia do alternatywnego systemu obrotu na Catalyst obligacji na okaziciela serii E spółki 7R S.A.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/gpw-w-sprawie-wprowadzenia-do-alternatywnego-systemu-obrotu-na-catalyst",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "12:14",
     "kind": "pap",
     "ticker": null,
@@ -586,6 +595,15 @@
   ],
   "energetyka_surowce": [
    {
+    "time": "12:42",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Kroki dotyczące cen prądu zostaną przedstawione w kolejnych tygodniach - Motyka",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441746",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "11:31",
     "kind": "espi",
     "ticker": null,
@@ -606,6 +624,17 @@
   ],
   "nieruchomosci": [],
   "fundusze_drobne": [
+   {
+    "time": "12:35",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Kombinat Konopny S.A.: Odwołanie oferty publicznej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136452",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "11:38",
     "kind": "pap",
@@ -714,6 +743,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:39",
+    "kind": "pap",
+    "ticker": null,
+    "title": "W Polsce przybywa przedsiębiorców technologicznych, ale trafia tu tylko 0,4 proc. inwestycji - raport Atomico",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441744",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:21",
     "kind": "espi",

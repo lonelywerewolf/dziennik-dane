@@ -1,7 +1,79 @@
 {
  "date": "2026-11-18",
- "count": 134,
+ "count": 141,
  "items": [
+  {
+   "id": "bossa-pap-441746",
+   "date": "2026-11-18",
+   "time": "12:42",
+   "ts": "2026-11-18T12:42:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Kroki dotyczące cen prądu zostaną przedstawione w kolejnych tygodniach - Motyka",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441746"
+  },
+  {
+   "id": "bossa-pap-441744",
+   "date": "2026-11-18",
+   "time": "12:39",
+   "ts": "2026-11-18T12:39:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "W Polsce przybywa przedsiębiorców technologicznych, ale trafia tu tylko 0,4 proc. inwestycji - raport Atomico",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441744"
+  },
+  {
+   "id": "bossa-espi-136453",
+   "date": "2026-11-18",
+   "time": "12:39",
+   "ts": "2026-11-18T12:39:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF BITCOIN PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 235 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136453"
+  },
+  {
+   "id": "bossa-pap-441743",
+   "date": "2026-11-18",
+   "time": "12:38",
+   "ts": "2026-11-18T12:38:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie wprowadzenia do alternatywnego systemu obrotu na Catalyst obligacji na okaziciela serii E spółki 7R S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441743"
+  },
+  {
+   "id": "bossa-espi-136452",
+   "date": "2026-11-18",
+   "time": "12:35",
+   "ts": "2026-11-18T12:35:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Kombinat Konopny S.A.",
+   "title": "Odwołanie oferty publicznej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136452"
+  },
+  {
+   "id": "bossa-espi-136451",
+   "date": "2026-11-18",
+   "time": "12:35",
+   "ts": "2026-11-18T12:35:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 3 x LEVERAGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 233 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136451"
+  },
   {
    "id": "bossa-espi-4941",
    "date": "2026-11-18",
@@ -13,6 +85,17 @@
    "title": "Raport bieżący nr 232 / 2026",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-4941"
+  },
+  {
+   "id": "strefa-04578b1fc934",
+   "date": "2026-11-18",
+   "time": "12:28",
+   "ts": "2026-11-18T12:28:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie wprowadzenia do alternatywnego systemu obrotu na Catalyst obligacji na okaziciela serii E spółki 7R S.A.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/gpw-w-sprawie-wprowadzenia-do-alternatywnego-systemu-obrotu-na-catalyst"
   },
   {
    "id": "bossa-pap-441738",
