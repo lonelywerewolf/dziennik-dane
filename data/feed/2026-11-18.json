@@ -1,7 +1,65 @@
 {
  "date": "2026-11-18",
- "count": 182,
+ "count": 187,
  "items": [
+  {
+   "id": "bossa-pap-441779",
+   "date": "2026-11-18",
+   "time": "13:45",
+   "ts": "2026-11-18T13:45:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MON: Komunikat informacyjny dla mieszkańców Warszawy i okolicznych miejscowości (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441779"
+  },
+  {
+   "id": "bossa-espi-136474",
+   "date": "2026-11-18",
+   "time": "13:44",
+   "ts": "2026-11-18T13:44:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF WIG20 TR + mWIG40 TR PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136474"
+  },
+  {
+   "id": "strefa-4f15b288e40a",
+   "date": "2026-11-18",
+   "time": "13:41",
+   "ts": "2026-11-18T13:41:09+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ostatnia emisja w EUR w znacznym stopniu zabezpieczyła potrzeby KFD na '27 - BGK",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/ostatnia-emisja-w-eur-w-znacznym-stopniu-zabezpieczyla-potrzeby-kfd-na-27-bgk"
+  },
+  {
+   "id": "bossa-espi-136473",
+   "date": "2026-11-18",
+   "time": "13:41",
+   "ts": "2026-11-18T13:41:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF MSCI WORLD PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-136473"
+  },
+  {
+   "id": "strefa-cf5388dd7c38",
+   "date": "2026-11-18",
+   "time": "13:40",
+   "ts": "2026-11-18T13:40:16+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Cena maksymalna dla benzyny Pb95 w czwartek wyniesie 5,97 zł/l, dla ON 7,30 zł/l",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261118/cena-maksymalna-dla-benzyny-pb95-w-czwartek-wyniesie-597-zll-dla-730-zll"
+  },
   {
    "id": "strefa-81ec0751341d",
    "date": "2026-11-18",

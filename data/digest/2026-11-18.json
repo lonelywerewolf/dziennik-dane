@@ -8,14 +8,14 @@
   "makro_pl": 18,
   "swiat_rynki": 12,
   "energetyka_surowce": 5,
-  "nieruchomosci": 0,
+  "nieruchomosci": 1,
   "fundusze_drobne": 3,
   "twoje_spolki": 9,
   "obserwowane": 0,
   "pozostale": 30
  },
- "duplicatesRemoved": 65,
- "total": 182,
+ "duplicatesRemoved": 69,
+ "total": 187,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -184,6 +184,18 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "13:41",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ostatnia emisja w EUR w znacznym stopniu zabezpieczyła potrzeby KFD na '27 - BGK",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/ostatnia-emisja-w-eur-w-znacznym-stopniu-zabezpieczyla-potrzeby-kfd-na-27-bgk",
+    "src": "strefainwestorow",
+    "flags": [
+     "emisja",
+     "akcjonariat"
+    ]
+   },
+   {
     "time": "13:39",
     "kind": "espi",
     "ticker": null,
@@ -330,18 +342,6 @@
     "src": "bossa",
     "flags": [
      "insider"
-    ]
-   },
-   {
-    "time": "11:20",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Ostatnia emisja w EUR w znacznym stopniu zabezpieczyła potrzeby KFD na '27 - BGK",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441719",
-    "src": "bossa",
-    "flags": [
-     "emisja",
-     "akcjonariat"
     ]
    },
    {
@@ -752,7 +752,17 @@
     "flags": []
    }
   ],
-  "nieruchomosci": [],
+  "nieruchomosci": [
+   {
+    "time": "13:45",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MON: Komunikat informacyjny dla mieszkańców Warszawy i okolicznych miejscowości (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441779",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "fundusze_drobne": [
    {
     "time": "12:35",
@@ -874,6 +884,15 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "13:40",
+    "kind": "news",
+    "ticker": null,
+    "title": "Cena maksymalna dla benzyny Pb95 w czwartek wyniesie 5,97 zł/l, dla ON 7,30 zł/l",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261118/cena-maksymalna-dla-benzyny-pb95-w-czwartek-wyniesie-597-zll-dla-730-zll",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "13:20",
     "kind": "espi",
     "ticker": null,
@@ -951,15 +970,6 @@
     "ticker": null,
     "title": "PROTEKTOR: Rejestracja akcji serii I Emitenta w depozycie papierów wartościowych prowadzonym przez KDPW S.A.",
     "url": "https://bossa.pl/analizy/komunikaty#message-136445",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "11:49",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Cena maksymalna dla benzyny Pb95 w czwartek wyniesie 5,97 zł/l, dla ON 7,30 zł/l",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441729",
     "src": "bossa",
     "flags": []
    },
