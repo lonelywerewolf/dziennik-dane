@@ -4,7 +4,7 @@
   "podsumowania": 17,
   "wyniki": 19,
   "rekomendacje": 0,
-  "korporacyjne": 47,
+  "korporacyjne": 48,
   "makro_pl": 26,
   "swiat_rynki": 27,
   "energetyka_surowce": 10,
@@ -15,7 +15,7 @@
   "pozostale": 64
  },
  "duplicatesRemoved": 141,
- "total": 375,
+ "total": 376,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -366,6 +366,15 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "21:05",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MEDICALGORITHMICS S.A.: Uchwały Nadzwyczajnego Walnego Zgromadzenia Medicalgorithmics S.A., które odbyło się w dniu 18 listopada 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-136536",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "20:03",
     "kind": "espi",
