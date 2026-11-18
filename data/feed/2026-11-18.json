@@ -1,7 +1,19 @@
 {
  "date": "2026-11-18",
- "count": 10,
+ "count": 11,
  "items": [
+  {
+   "id": "bossa-pap-441664",
+   "date": "2026-11-18",
+   "time": "06:41",
+   "ts": "2026-11-18T06:41:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Przegląd prasy gospodarczej w środę, 18 listopada",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441664"
+  },
   {
    "id": "bossa-pap-441663",
    "date": "2026-11-18",
