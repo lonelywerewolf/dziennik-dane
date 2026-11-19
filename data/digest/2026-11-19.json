@@ -12,10 +12,10 @@
   "fundusze_drobne": 16,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 78
+  "pozostale": 80
  },
- "duplicatesRemoved": 162,
- "total": 419,
+ "duplicatesRemoved": 164,
+ "total": 423,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1778,6 +1778,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "18:41",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KERNEL HOLDING S.A.: UPDATE ON THE MANDATORY SELL-OUT PROCEEDING – DECISION OF THE LUXEMBOURG ADMINISTRATIVE COURT ON THE APPLICATION FOR SUSPENSION OF THE CSSF’S DECISION SETTING THE FAIR PRICE",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184111",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "18:34",
+    "kind": "news",
+    "ticker": null,
+    "title": "Portfel zamówień grupy ZUE wynosi ok. 4,7 mld zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/portfel-zamowien-grupy-zue-wynosi-ok-47-mld-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "18:20",
     "kind": "news",

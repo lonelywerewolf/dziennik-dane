@@ -1,7 +1,43 @@
 {
  "date": "2026-11-19",
- "count": 419,
+ "count": 423,
  "items": [
+  {
+   "id": "bossa-pap-442243",
+   "date": "2026-11-19",
+   "time": "18:43",
+   "ts": "2026-11-19T18:43:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne - SARON",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442243"
+  },
+  {
+   "id": "bossa-pap-442242",
+   "date": "2026-11-19",
+   "time": "18:43",
+   "ts": "2026-11-19T18:43:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Portfel zamówień grupy ZUE wynosi ok. 4,7 mld zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442242"
+  },
+  {
+   "id": "bossa-espi-184111",
+   "date": "2026-11-19",
+   "time": "18:41",
+   "ts": "2026-11-19T18:41:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KERNEL HOLDING S.A.",
+   "title": "UPDATE ON THE MANDATORY SELL-OUT PROCEEDING – DECISION OF THE LUXEMBOURG ADMINISTRATIVE COURT ON THE APPLICATION FOR SUSPENSION OF THE CSSF’S DECISION SETTING THE FAIR PRICE",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184111"
+  },
   {
    "id": "bossa-espi-184110",
    "date": "2026-11-19",
@@ -13,6 +49,17 @@
    "title": "QS",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-184110"
+  },
+  {
+   "id": "strefa-db52482f3872",
+   "date": "2026-11-19",
+   "time": "18:34",
+   "ts": "2026-11-19T18:34:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Portfel zamówień grupy ZUE wynosi ok. 4,7 mld zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/portfel-zamowien-grupy-zue-wynosi-ok-47-mld-zl"
   },
   {
    "id": "bossa-espi-184109",
