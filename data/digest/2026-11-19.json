@@ -2,12 +2,12 @@
  "date": "2026-11-19",
  "counts": {
   "podsumowania": 17,
-  "wyniki": 28,
+  "wyniki": 29,
   "rekomendacje": 0,
   "korporacyjne": 67,
   "makro_pl": 25,
   "swiat_rynki": 23,
-  "energetyka_surowce": 10,
+  "energetyka_surowce": 11,
   "nieruchomosci": 0,
   "fundusze_drobne": 16,
   "twoje_spolki": 1,
@@ -15,7 +15,7 @@
   "pozostale": 86
  },
  "duplicatesRemoved": 169,
- "total": 442,
+ "total": 444,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -176,6 +176,18 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "20:17",
+    "kind": "espi",
+    "ticker": null,
+    "title": "FABRITY S.A.: Wybrane nieaudytowane, wstępne, szacunkowe skonsolidowane dane finansowe za 9 miesięcy 2026 r. z komentarzem Zarządu",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184125",
+    "src": "bossa",
+    "flags": [
+     "wyniki",
+     "zarząd"
+    ]
+   },
    {
     "time": "19:09",
     "kind": "pap",
@@ -1605,6 +1617,15 @@
    }
   ],
   "energetyka_surowce": [
+   {
+    "time": "20:21",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Decyzje ws. cen prądu możliwe na początku grudnia - Motyka",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442262",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "19:37",
     "kind": "espi",
