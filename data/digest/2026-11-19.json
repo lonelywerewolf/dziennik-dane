@@ -4,7 +4,7 @@
   "podsumowania": 10,
   "wyniki": 17,
   "rekomendacje": 0,
-  "korporacyjne": 18,
+  "korporacyjne": 20,
   "makro_pl": 12,
   "swiat_rynki": 12,
   "energetyka_surowce": 6,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 7,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 36
+  "pozostale": 38
  },
- "duplicatesRemoved": 68,
- "total": 187,
+ "duplicatesRemoved": 71,
+ "total": 194,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -288,6 +288,26 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "13:07",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ANALIZY ONLINE S.A.: Zwołanie Nadzwyczajnego Walnego Zgromadzenia na dzień 16 grudnia 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184019",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:00",
+    "kind": "espi",
+    "ticker": null,
+    "title": "NANOGROUP S.A.: Podpisanie przez spółkę zależną NanoSanguis S.A. umowy o dofinansowanie projektu „Innowacyjne bioadsorbery”",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184018",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "12:54",
     "kind": "pap",
@@ -832,6 +852,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:59",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeksy transakcyjne - POLSTR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442070",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:58",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeksy transakcyjne - WIRON",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442069",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:41",
     "kind": "pap",

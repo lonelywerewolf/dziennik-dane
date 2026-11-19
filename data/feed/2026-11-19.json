@@ -1,7 +1,79 @@
 {
  "date": "2026-11-19",
- "count": 187,
+ "count": 194,
  "items": [
+  {
+   "id": "bossa-espi-184019",
+   "date": "2026-11-19",
+   "time": "13:07",
+   "ts": "2026-11-19T13:07:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ANALIZY ONLINE S.A.",
+   "title": "Zwołanie Nadzwyczajnego Walnego Zgromadzenia na dzień 16 grudnia 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184019"
+  },
+  {
+   "id": "bossa-espi-184018",
+   "date": "2026-11-19",
+   "time": "13:00",
+   "ts": "2026-11-19T13:00:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "NANOGROUP S.A.",
+   "title": "Podpisanie przez spółkę zależną NanoSanguis S.A. umowy o dofinansowanie projektu „Innowacyjne bioadsorbery”",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184018"
+  },
+  {
+   "id": "bossa-pap-442070",
+   "date": "2026-11-19",
+   "time": "12:59",
+   "ts": "2026-11-19T12:59:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeksy transakcyjne - POLSTR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442070"
+  },
+  {
+   "id": "bossa-pap-442069",
+   "date": "2026-11-19",
+   "time": "12:58",
+   "ts": "2026-11-19T12:58:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeksy transakcyjne - WIRON",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442069"
+  },
+  {
+   "id": "bossa-pap-442068",
+   "date": "2026-11-19",
+   "time": "12:57",
+   "ts": "2026-11-19T12:57:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "ANALIZY ONLINE SA (16/2026) Informacje o walnym zgromadzeniu - zwołanie WZ z projektami uchwał, zmiany w porządku obrad WZ",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442068"
+  },
+  {
+   "id": "bossa-espi-184016",
+   "date": "2026-11-19",
+   "time": "12:56",
+   "ts": "2026-11-19T12:56:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Enea Elektrownia Połaniec Sp. z o.o.",
+   "title": "POWIADOMIENIE O TRANSAKCJI W TRYBIE ART. 19 MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184016"
+  },
   {
    "id": "bossa-pap-442066",
    "date": "2026-11-19",
@@ -13,6 +85,17 @@
    "title": "DO RZECZY SA (14/2026) Podpisanie przez emitenta z firmą audytorską umowy o badanie sprawozdań finansowych lub skonsolidowanych sprawozdań finansowych emitenta",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-442066"
+  },
+  {
+   "id": "strefa-cfd3eccffd38",
+   "date": "2026-11-19",
+   "time": "12:48",
+   "ts": "2026-11-19T12:48:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "MLP Group w '27 wejdzie na co najmniej jeden nowy rynek; przegląd opcji ma przyspieszyć rozwój grupy (wywiad)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/mlp-group-w-27-wejdzie-na-co-najmniej-jeden-nowy-rynek-przeglad-opcji-ma-0"
   },
   {
    "id": "bossa-pap-442065",
