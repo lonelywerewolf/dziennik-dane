@@ -1,7 +1,7 @@
 {
  "date": "2026-11-19",
  "counts": {
-  "podsumowania": 12,
+  "podsumowania": 13,
   "wyniki": 22,
   "rekomendacje": 0,
   "korporacyjne": 48,
@@ -12,13 +12,22 @@
   "fundusze_drobne": 16,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 58
+  "pozostale": 62
  },
- "duplicatesRemoved": 116,
- "total": 323,
+ "duplicatesRemoved": 118,
+ "total": 330,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "16:41",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA FX/FI: Złoty osłabia się do powyżej 4,43/EUR; rentowności SPW spadają",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/dzien-na-fxfi-zloty-oslabia-sie-do-powyzej-443eur-rentownosci-spw-spadaja",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "16:09",
     "kind": "news",
@@ -859,6 +868,15 @@
   ],
   "makro_pl": [
    {
+    "time": "16:40",
+    "kind": "news",
+    "ticker": null,
+    "title": "Bank Pocztowy zdecydował o wcześniejszym wykupie obligacji serii C4 o wartości 50 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/bank-pocztowy-zdecydowal-o-wczesniejszym-wykupie-obligacji-serii-c4-o-wartosci",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "16:23",
     "kind": "news",
     "ticker": null,
@@ -900,15 +918,6 @@
     "ticker": null,
     "title": "W październiku RPP ponownie odrzuciła wniosek J. Tyrowicz o podwyżkę stóp o 100 pb.",
     "url": "https://bossa.pl/analizy/komunikaty#message-442135",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "14:27",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Bank Pocztowy zdecydował o wcześniejszym wykupie obligacji serii C4 o wartości 50 mln zł",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442124",
     "src": "bossa",
     "flags": []
    },
@@ -1475,6 +1484,42 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "16:40",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MOL: Director/PDMR transaction",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184071",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:39",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa PZU zwiększa skalę działalności i rośnie w kluczowych obszarach biznesu (MediaRoom)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/grupa-pzu-zwieksza-skale-dzialalnosci-i-rosnie-w-kluczowych-obszarach-biznesu",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "16:38",
+    "kind": "news",
+    "ticker": null,
+    "title": "Premier zapowiedział organizację w przyszłym roku w Warszawie szczytu dotyczącego AI",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/premier-zapowiedzial-organizacje-w-przyszlym-roku-w-warszawie-szczytu",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "16:36",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BUMECH DEFENSE PARTNERS S.A.: Zmiana terminu notowania jednostkowych praw poboru",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184070",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:09",
     "kind": "pap",
