@@ -1,7 +1,103 @@
 {
  "date": "2026-11-19",
- "count": 339,
+ "count": 348,
  "items": [
+  {
+   "id": "bossa-espi-184086",
+   "date": "2026-11-19",
+   "time": "17:20",
+   "ts": "2026-11-19T17:20:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "DEVELIA",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184086"
+  },
+  {
+   "id": "bossa-espi-184085",
+   "date": "2026-11-19",
+   "time": "17:17",
+   "ts": "2026-11-19T17:17:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "UNIBEP S.A.",
+   "title": "Zawarcie przez Konsorcjum z udziałem Unibep S.A. umowy na realizację zadania inwestycyjnego dotyczącego modernizacji oczyszczalni ścieków w Płocku na rzecz Orlen S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184085"
+  },
+  {
+   "id": "bossa-espi-184084",
+   "date": "2026-11-19",
+   "time": "17:17",
+   "ts": "2026-11-19T17:17:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ECB SA",
+   "title": "Podpisanie umowy na zakup węgla z Glencore International AG.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184084"
+  },
+  {
+   "id": "bossa-espi-184083",
+   "date": "2026-11-19",
+   "time": "17:15",
+   "ts": "2026-11-19T17:15:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ATREM S.A.",
+   "title": "Zawarcie przez Konsorcjum z udziałem Emitenta umowy z ORLEN Spółka Akcyjna na realizację zadania inwestycyjnego pn.: „Zakup w formule EPC dla projektu Nowa Chemia – OSBL pakiet K-008.1 „Modernizacja Centralnej Oczyszczalni Ścieków” – Pakiet IV „Oczyszczalnia biologiczna, Etap I”.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184083"
+  },
+  {
+   "id": "bossa-espi-184082",
+   "date": "2026-11-19",
+   "time": "17:15",
+   "ts": "2026-11-19T17:15:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BENEFIT SYSTEMS S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184082"
+  },
+  {
+   "id": "bossa-espi-184081",
+   "date": "2026-11-19",
+   "time": "17:14",
+   "ts": "2026-11-19T17:14:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "CAPTOR THERAPEUTICS S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184081"
+  },
+  {
+   "id": "bossa-espi-184080",
+   "date": "2026-11-19",
+   "time": "17:12",
+   "ts": "2026-11-19T17:12:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "FERRO S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184080"
+  },
+  {
+   "id": "bossa-espi-184079",
+   "date": "2026-11-19",
+   "time": "17:10",
+   "ts": "2026-11-19T17:10:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ORZEŁ BIAŁY S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184079"
+  },
   {
    "id": "bossa-espi-184078",
    "date": "2026-11-19",
@@ -61,6 +157,17 @@
    "title": "SA-Q",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-184074"
+  },
+  {
+   "id": "strefa-229b46a4783b",
+   "date": "2026-11-19",
+   "time": "17:02",
+   "ts": "2026-11-19T17:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie dopuszczenia i wprowadzenia do obrotu giełdowego na Głównym Rynku GPW akcji zwykłych na okaziciela serii G spółki CPD",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/gpw-w-sprawie-dopuszczenia-i-wprowadzenia-do-obrotu-gieldowego-na-glownym-rynku"
   },
   {
    "id": "bossa-espi-184073",

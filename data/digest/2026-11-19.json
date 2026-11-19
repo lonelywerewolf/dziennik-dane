@@ -4,9 +4,9 @@
   "podsumowania": 14,
   "wyniki": 22,
   "rekomendacje": 0,
-  "korporacyjne": 49,
+  "korporacyjne": 52,
   "makro_pl": 25,
-  "swiat_rynki": 19,
+  "swiat_rynki": 20,
   "energetyka_surowce": 6,
   "nieruchomosci": 0,
   "fundusze_drobne": 16,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 65
  },
- "duplicatesRemoved": 122,
- "total": 339,
+ "duplicatesRemoved": 127,
+ "total": 348,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -373,6 +373,39 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "17:17",
+    "kind": "espi",
+    "ticker": null,
+    "title": "UNIBEP S.A.: Zawarcie przez Konsorcjum z udziałem Unibep S.A. umowy na realizację zadania inwestycyjnego dotyczącego modernizacji oczyszczalni ścieków w Płocku na rzecz Orlen S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184085",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "17:17",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ECB SA: Podpisanie umowy na zakup węgla z Glencore International AG.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184084",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "17:15",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ATREM S.A.: Zawarcie przez Konsorcjum z udziałem Emitenta umowy z ORLEN Spółka Akcyjna na realizację zadania inwestycyjnego pn.: „Zakup w formule EPC dla projektu Nowa Chemia – OSBL pakiet K-008.1 „Modernizacja Centralnej Oczyszczalni Ścieków” – Pakiet IV „Oczyszczalnia biologiczna, Etap I”.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184083",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "17:08",
     "kind": "espi",
@@ -1115,6 +1148,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "17:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: w sprawie dopuszczenia i wprowadzenia do obrotu giełdowego na Głównym Rynku GPW akcji zwykłych na okaziciela serii G spółki CPD",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/gpw-w-sprawie-dopuszczenia-i-wprowadzenia-do-obrotu-gieldowego-na-glownym-rynku",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "16:15",
     "kind": "pap",
