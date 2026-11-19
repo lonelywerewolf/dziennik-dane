@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 58
  },
- "duplicatesRemoved": 115,
- "total": 322,
+ "duplicatesRemoved": 116,
+ "total": 323,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -859,6 +859,15 @@
   ],
   "makro_pl": [
    {
+    "time": "16:23",
+    "kind": "news",
+    "ticker": null,
+    "title": "Rząd traktuje wyzwania dotyczące finansów publicznych bardzo poważnie - Domański",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/rzad-traktuje-wyzwania-dotyczace-finansow-publicznych-bardzo-powaznie-domanski",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "15:48",
     "kind": "pap",
     "ticker": null,
@@ -874,15 +883,6 @@
     "title": "Rząd pracuje nad rozwiązaniem ws. zamrożenia przez NBP rachunków TK - Domański",
     "url": "https://strefainwestorow.pl/wiadomosci/20261119/rzad-pracuje-nad-rozwiazaniem-ws-zamrozenia-przez-nbp-rachunkow-tk-domanski",
     "src": "strefainwestorow",
-    "flags": []
-   },
-   {
-    "time": "15:36",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Rząd traktuje wyzwania dotyczące finansów publicznych bardzo poważnie - Domański",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442152",
-    "src": "bossa",
     "flags": []
    },
    {
