@@ -4,18 +4,18 @@
   "podsumowania": 10,
   "wyniki": 21,
   "rekomendacje": 0,
-  "korporacyjne": 31,
+  "korporacyjne": 34,
   "makro_pl": 15,
-  "swiat_rynki": 14,
+  "swiat_rynki": 15,
   "energetyka_surowce": 6,
   "nieruchomosci": 0,
   "fundusze_drobne": 9,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 48
+  "pozostale": 50
  },
- "duplicatesRemoved": 89,
- "total": 244,
+ "duplicatesRemoved": 90,
+ "total": 251,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -328,6 +328,37 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "14:12",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SEDIVIO S.A.: Zawarcie umowy ramowej na świadczenie usług programistycznych dla Tramwajów Warszawskich sp. z o.o.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-5732",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "14:10",
+    "kind": "espi",
+    "ticker": null,
+    "title": "POLIMEX-MOSTOSTAL: Informacja o transakcjach na akcjach Spółki uzyskana w trybie art. 19 MAR.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184045",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
+    "time": "14:04",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Powodzenie oferty Anthropic zwiększa szanse na kolejne udane transakcje w sektorze - Niszcz, Trigon (opinia)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442111",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:57",
     "kind": "espi",
@@ -793,6 +824,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "13:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "W Europie nie widać żadnego zainteresowania wznawianiem dostaw z Rosji - sekretarz energii USA",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/w-europie-nie-widac-zadnego-zainteresowania-wznawianiem-dostaw-z-rosji",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "13:41",
     "kind": "news",
     "ticker": null,
@@ -1074,6 +1114,26 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "14:07",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BANK HANDLOWY W WARSZAWIE S.A.: Informacja o decyzji członka Rady Nadzorczej Banku Handlowego w Warszawie S.A. o rezygnacji z funkcji członka Rady Nadzorczej Banku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184044",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "14:03",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MRPiPS: PIP sprawdzi, czy sklepy nie zmuszają pracowników handlu do pracy w niedzielę (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442112",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:54",
     "kind": "pap",

@@ -1,7 +1,79 @@
 {
  "date": "2026-11-19",
- "count": 244,
+ "count": 251,
  "items": [
+  {
+   "id": "bossa-espi-5732",
+   "date": "2026-11-19",
+   "time": "14:12",
+   "ts": "2026-11-19T14:12:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "SEDIVIO S.A.",
+   "title": "Zawarcie umowy ramowej na świadczenie usług programistycznych dla Tramwajów Warszawskich sp. z o.o.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-5732"
+  },
+  {
+   "id": "bossa-espi-184045",
+   "date": "2026-11-19",
+   "time": "14:10",
+   "ts": "2026-11-19T14:10:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "POLIMEX-MOSTOSTAL",
+   "title": "Informacja o transakcjach na akcjach Spółki uzyskana w trybie art. 19 MAR.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184045"
+  },
+  {
+   "id": "bossa-pap-442115",
+   "date": "2026-11-19",
+   "time": "14:07",
+   "ts": "2026-11-19T14:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "W Europie nie widać żadnego zainteresowania wznawianiem dostaw z Rosji - sekretarz energii USA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442115"
+  },
+  {
+   "id": "bossa-espi-184044",
+   "date": "2026-11-19",
+   "time": "14:07",
+   "ts": "2026-11-19T14:07:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BANK HANDLOWY W WARSZAWIE S.A.",
+   "title": "Informacja o decyzji członka Rady Nadzorczej Banku Handlowego w Warszawie S.A. o rezygnacji z funkcji członka Rady Nadzorczej Banku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184044"
+  },
+  {
+   "id": "bossa-pap-442111",
+   "date": "2026-11-19",
+   "time": "14:04",
+   "ts": "2026-11-19T14:04:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Powodzenie oferty Anthropic zwiększa szanse na kolejne udane transakcje w sektorze - Niszcz, Trigon (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442111"
+  },
+  {
+   "id": "bossa-pap-442112",
+   "date": "2026-11-19",
+   "time": "14:03",
+   "ts": "2026-11-19T14:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MRPiPS: PIP sprawdzi, czy sklepy nie zmuszają pracowników handlu do pracy w niedzielę (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442112"
+  },
   {
    "id": "bossa-espi-184043",
    "date": "2026-11-19",
@@ -25,6 +97,17 @@
    "title": "Zarejestrowanie umowy o przedłużeniu okresu funkcjonowania Podatkowej Grupy Kapitałowej Agora na rok 2027",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-184042"
+  },
+  {
+   "id": "strefa-8a6307662072",
+   "date": "2026-11-19",
+   "time": "13:55",
+   "ts": "2026-11-19T13:55:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "W Europie nie widać żadnego zainteresowania wznawianiem dostaw z Rosji - sekretarz energii USA",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/w-europie-nie-widac-zadnego-zainteresowania-wznawianiem-dostaw-z-rosji"
   },
   {
    "id": "strefa-77930e880cf6",
