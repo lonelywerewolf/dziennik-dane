@@ -2,11 +2,11 @@
  "date": "2026-11-19",
  "counts": {
   "podsumowania": 12,
-  "wyniki": 21,
+  "wyniki": 22,
   "rekomendacje": 0,
-  "korporacyjne": 47,
+  "korporacyjne": 48,
   "makro_pl": 25,
-  "swiat_rynki": 18,
+  "swiat_rynki": 19,
   "energetyka_surowce": 6,
   "nieruchomosci": 0,
   "fundusze_drobne": 16,
@@ -14,18 +14,18 @@
   "obserwowane": 0,
   "pozostale": 58
  },
- "duplicatesRemoved": 112,
- "total": 316,
+ "duplicatesRemoved": 115,
+ "total": 322,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
    {
-    "time": "16:14",
-    "kind": "pap",
+    "time": "16:09",
+    "kind": "news",
     "ticker": null,
     "title": "DZIEŃ NA GPW: Na giełdzie sesja bez wyraźnego kierunku; CD Projekt RED spada o ok. 3 proc.",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442166",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/dzien-na-gpw-na-gieldzie-sesja-bez-wyraznego-kierunku-cd-projekt-red-spada-o-ok",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -129,6 +129,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "16:20",
+    "kind": "pap",
+    "ticker": null,
+    "title": "CHERRYPICK GAMES SA (16/2026) Raport kwartalny za III kwartał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442167",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:55",
     "kind": "news",
@@ -347,6 +356,26 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "16:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "Akcje Anthropic mają zadebiutować na giełdzie z ok. 20-proc. wzrostem względem ceny z IPO",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/akcje-anthropic-maja-zadebiutowac-na-gieldzie-z-ok-20-proc-wzrostem-wzgledem",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "16:18",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BANK PEKAO S.A.: Akcjonariusze posiadający co najmniej 5% głosów na Nadzwyczajnym Walnym Zgromadzeniu Banku Polska Kasa Opieki Spółka Akcyjna w dniu 19 listopada 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184068",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
+   {
     "time": "16:13",
     "kind": "espi",
     "ticker": null,
@@ -392,15 +421,6 @@
     "ticker": null,
     "title": "BANK PEKAO S.A.: Uchwały Nadzwyczajnego Walnego Zgromadzenia Banku Polska Kasa Opieki Spółka Akcyjna",
     "url": "https://bossa.pl/analizy/komunikaty#message-184064",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "16:03",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Akcje Anthropic mają zadebiutować na giełdzie z ok. 20-proc. wzrostem względem ceny z IPO",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442156",
     "src": "bossa",
     "flags": []
    },
@@ -1065,6 +1085,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "16:15",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeks wyprzedzający koniunktury Conference Board w USA w X: -0,3 proc. mdm. Konsensus: 0,0 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442169",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:06",
     "kind": "news",
