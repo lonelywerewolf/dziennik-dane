@@ -2,9 +2,9 @@
  "date": "2026-11-19",
  "counts": {
   "podsumowania": 16,
-  "wyniki": 24,
+  "wyniki": 25,
   "rekomendacje": 0,
-  "korporacyjne": 55,
+  "korporacyjne": 58,
   "makro_pl": 25,
   "swiat_rynki": 20,
   "energetyka_surowce": 8,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 16,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 70
+  "pozostale": 74
  },
- "duplicatesRemoved": 136,
- "total": 371,
+ "duplicatesRemoved": 138,
+ "total": 381,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -167,6 +167,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "17:44",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Zysk netto j.d. Develii w III kw. '26 wyniósł 70,1 mln zł, powyżej konsensusu",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442211",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:40",
     "kind": "news",
@@ -415,6 +424,37 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "17:52",
+    "kind": "espi",
+    "ticker": null,
+    "title": "NESTMEDIC S.A.: Zawarcie umowy o wyłącznej dystrybucji urządzeń Pregnabit PRO na rynku polskim",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184096",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "17:51",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ERBUD S.A.: Informacja o transakcjach otrzymana w trybie art. 19 MAR.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184095",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
+    "time": "17:50",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BANK HANDLOWY W WARSZAWIE S.A.: Informacje zawarte w ogłoszeniu o zwołaniu Nadzwyczajnego Walnego Zgromadzenia Banku Handlowego w Warszawie S.A. na dzień 18 grudnia 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184094",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:26",
     "kind": "espi",
@@ -1640,6 +1680,42 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:50",
+    "kind": "news",
+    "ticker": null,
+    "title": "Captor Therapeutics publikuje sprawozdanie za trzy kwartały 2026 roku",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/captor-therapeutics-publikuje-sprawozdanie-za-trzy-kwartaly-2026-roku",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "17:48",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Mało prawdopodobne, aby Rosja była gotowa do rozmów ws. pokoju przed końcem zimy - premier",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442210",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:43",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa Develia osiągnęła 389 mln zł zysku netto w trzech kwartałach 2026 r.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/grupa-develia-osiagnela-389-mln-zl-zysku-netto-w-trzech-kwartalach-2026-r",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "17:42",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ECNOLOGY GROUP SA (8/2026) Nałożenie na emitenta kary pieniężnej lub innego środka dyscyplinującego przez Organizatora Alternatywnego Systemu lub nałożeniu sankcji administracyjnej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442213",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:41",
     "kind": "news",
