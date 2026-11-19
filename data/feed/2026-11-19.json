@@ -1,7 +1,91 @@
 {
  "date": "2026-11-19",
- "count": 268,
+ "count": 275,
  "items": [
+  {
+   "id": "bossa-pap-442133",
+   "date": "2026-11-19",
+   "time": "14:43",
+   "ts": "2026-11-19T14:43:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "OFE PZU wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442133"
+  },
+  {
+   "id": "bossa-pap-442132",
+   "date": "2026-11-19",
+   "time": "14:42",
+   "ts": "2026-11-19T14:42:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "HIPOWER ENERGY SA (19/2026) Informacje udzielone akcjonariuszowi poza WZ na podstawie art. 428 § 5 lub 6 ksh lub art. 429 § 1 lub 2 ksh",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442132"
+  },
+  {
+   "id": "bossa-pap-442128",
+   "date": "2026-11-19",
+   "time": "14:41",
+   "ts": "2026-11-19T14:41:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "OFE POCZTYLION wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442128"
+  },
+  {
+   "id": "bossa-pap-442129",
+   "date": "2026-11-19",
+   "time": "14:40",
+   "ts": "2026-11-19T14:40:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "ALLIANZ POLSKA OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442129"
+  },
+  {
+   "id": "bossa-espi-184052",
+   "date": "2026-11-19",
+   "time": "14:40",
+   "ts": "2026-11-19T14:40:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF WIG20short PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 232 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184052"
+  },
+  {
+   "id": "bossa-pap-442131",
+   "date": "2026-11-19",
+   "time": "14:38",
+   "ts": "2026-11-19T14:38:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KGHM wydłużył termin umowy odnawialnego kredytu konsorcjalnego o wartości 1,5 mld USD o rok",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442131"
+  },
+  {
+   "id": "bossa-espi-184051",
+   "date": "2026-11-19",
+   "time": "14:36",
+   "ts": "2026-11-19T14:36:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF DYWIDENDA PLUS PORTFELOW FIZ",
+   "title": "Raport bieżący nr 240 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184051"
+  },
   {
    "id": "bossa-pap-442126",
    "date": "2026-11-19",

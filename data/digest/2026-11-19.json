@@ -4,18 +4,18 @@
   "podsumowania": 11,
   "wyniki": 21,
   "rekomendacje": 0,
-  "korporacyjne": 35,
+  "korporacyjne": 37,
   "makro_pl": 20,
   "swiat_rynki": 16,
   "energetyka_surowce": 6,
   "nieruchomosci": 0,
-  "fundusze_drobne": 9,
+  "fundusze_drobne": 12,
   "twoje_spolki": 1,
   "obserwowane": 0,
   "pozostale": 53
  },
- "duplicatesRemoved": 96,
- "total": 268,
+ "duplicatesRemoved": 98,
+ "total": 275,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -337,6 +337,28 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "14:42",
+    "kind": "pap",
+    "ticker": null,
+    "title": "HIPOWER ENERGY SA (19/2026) Informacje udzielone akcjonariuszowi poza WZ na podstawie art. 428 § 5 lub 6 ksh lub art. 429 § 1 lub 2 ksh",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442132",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
+   {
+    "time": "14:38",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KGHM wydłużył termin umowy odnawialnego kredytu konsorcjalnego o wartości 1,5 mld USD o rok",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442131",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "14:27",
     "kind": "espi",
@@ -1093,6 +1115,33 @@
   ],
   "nieruchomosci": [],
   "fundusze_drobne": [
+   {
+    "time": "14:43",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OFE PZU wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442133",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:41",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OFE POCZTYLION wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442128",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:40",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ALLIANZ POLSKA OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442129",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:47",
     "kind": "pap",
