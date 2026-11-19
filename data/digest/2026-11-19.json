@@ -4,7 +4,7 @@
   "podsumowania": 17,
   "wyniki": 26,
   "rekomendacje": 0,
-  "korporacyjne": 61,
+  "korporacyjne": 65,
   "makro_pl": 25,
   "swiat_rynki": 20,
   "energetyka_surowce": 8,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 16,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 77
+  "pozostale": 78
  },
- "duplicatesRemoved": 154,
- "total": 405,
+ "duplicatesRemoved": 159,
+ "total": 415,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -442,6 +442,50 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "18:21",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SZAR S.A.: Zawiadomienia o zbyciu znacznego pakietu akcji",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184108",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
+   {
+    "time": "18:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "PHN rozważa przeprowadzenie emisji obligacji w IV kw.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/phn-rozwaza-przeprowadzenie-emisji-obligacji-w-iv-kw",
+    "src": "strefainwestorow",
+    "flags": [
+     "emisja"
+    ]
+   },
+   {
+    "time": "18:17",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MF: Małgorzata Krok wybrana na przewodniczącą Zarządu EUCA (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442234",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "18:09",
+    "kind": "news",
+    "ticker": null,
+    "title": "Konsorcjum z Unibepem i Atremem zawarło umowę na modernizację oczyszczalni ścieków na rzecz Orlenu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/konsorcjum-z-unibepem-i-atremem-zawarlo-umowe-na-modernizacje-oczyszczalni",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "18:08",
     "kind": "pap",
@@ -1726,11 +1770,20 @@
   "obserwowane": [],
   "pozostale": [
    {
-    "time": "18:11",
-    "kind": "pap",
+    "time": "18:20",
+    "kind": "news",
     "ticker": null,
     "title": "Benefit Systems zakłada w '27 m.in. wzrost netto o ok. 150 tys. kart w Polsce",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442230",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/benefit-systems-zaklada-w-27-min-wzrost-netto-o-ok-150-tys-kart-w-polsce",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "18:17",
+    "kind": "espi",
+    "ticker": null,
+    "title": "4MASS S.A.: Zakończenie skupu akcji własnych Spółki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184107",
     "src": "bossa",
     "flags": []
    },

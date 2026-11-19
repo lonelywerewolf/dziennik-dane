@@ -1,7 +1,112 @@
 {
  "date": "2026-11-19",
- "count": 405,
+ "count": 415,
  "items": [
+  {
+   "id": "bossa-pap-442237",
+   "date": "2026-11-19",
+   "time": "18:21",
+   "ts": "2026-11-19T18:21:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PHN rozważa przeprowadzenie emisji obligacji w IV kw.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442237"
+  },
+  {
+   "id": "bossa-espi-184108",
+   "date": "2026-11-19",
+   "time": "18:21",
+   "ts": "2026-11-19T18:21:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "SZAR S.A.",
+   "title": "Zawiadomienia o zbyciu znacznego pakietu akcji",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184108"
+  },
+  {
+   "id": "strefa-dc3d2832ec1f",
+   "date": "2026-11-19",
+   "time": "18:20",
+   "ts": "2026-11-19T18:20:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wyniki Selvity w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/wyniki-selvity-w-iii-kw-2026-roku-vs-konsensus-pap-tabela"
+  },
+  {
+   "id": "strefa-be75a1be966e",
+   "date": "2026-11-19",
+   "time": "18:20",
+   "ts": "2026-11-19T18:20:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "PHN rozważa przeprowadzenie emisji obligacji w IV kw.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/phn-rozwaza-przeprowadzenie-emisji-obligacji-w-iv-kw"
+  },
+  {
+   "id": "strefa-29741c0c8299",
+   "date": "2026-11-19",
+   "time": "18:20",
+   "ts": "2026-11-19T18:20:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Benefit Systems zakłada w '27 m.in. wzrost netto o ok. 150 tys. kart w Polsce",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/benefit-systems-zaklada-w-27-min-wzrost-netto-o-ok-150-tys-kart-w-polsce"
+  },
+  {
+   "id": "bossa-pap-442232",
+   "date": "2026-11-19",
+   "time": "18:19",
+   "ts": "2026-11-19T18:19:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wyniki Selvity w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442232"
+  },
+  {
+   "id": "bossa-pap-442234",
+   "date": "2026-11-19",
+   "time": "18:17",
+   "ts": "2026-11-19T18:17:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MF: Małgorzata Krok wybrana na przewodniczącą Zarządu EUCA (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442234"
+  },
+  {
+   "id": "bossa-espi-184107",
+   "date": "2026-11-19",
+   "time": "18:17",
+   "ts": "2026-11-19T18:17:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "4MASS S.A.",
+   "title": "Zakończenie skupu akcji własnych Spółki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184107"
+  },
+  {
+   "id": "bossa-pap-442235",
+   "date": "2026-11-19",
+   "time": "18:12",
+   "ts": "2026-11-19T18:12:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Konsorcjum z Unibepem i Atremem zawarło umowę na modernizację oczyszczalni ścieków na rzecz Orlenu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442235"
+  },
   {
    "id": "bossa-pap-442230",
    "date": "2026-11-19",
@@ -37,6 +142,17 @@
    "title": "Zawiadomienie o transakcjach w trybie art. 19 MAR",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-184105"
+  },
+  {
+   "id": "strefa-2ccf299027c1",
+   "date": "2026-11-19",
+   "time": "18:09",
+   "ts": "2026-11-19T18:09:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Konsorcjum z Unibepem i Atremem zawarło umowę na modernizację oczyszczalni ścieków na rzecz Orlenu",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/konsorcjum-z-unibepem-i-atremem-zawarlo-umowe-na-modernizacje-oczyszczalni"
   },
   {
    "id": "bossa-pap-442227",
