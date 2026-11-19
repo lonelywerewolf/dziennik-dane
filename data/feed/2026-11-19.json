@@ -1,7 +1,31 @@
 {
  "date": "2026-11-19",
- "count": 454,
+ "count": 457,
  "items": [
+  {
+   "id": "bossa-pap-442271",
+   "date": "2026-11-19",
+   "time": "23:21",
+   "ts": "2026-11-19T23:21:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Eurocash rozpoczyna przygotowania do IPO Frisco",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442271"
+  },
+  {
+   "id": "bossa-espi-186851",
+   "date": "2026-11-19",
+   "time": "23:21",
+   "ts": "2026-11-19T23:21:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "NOOBZ FROM POLAND S.A.",
+   "title": "Powiadomienie o transakcji na akcjach Spółki dokonanych przez osobę pełniącą obowiązki zarządcze",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-186851"
+  },
   {
    "id": "bossa-pap-442269",
    "date": "2026-11-19",
@@ -13,6 +37,17 @@
    "title": "Jeśli spełnione będą warunki, Polska może przyznać pomoc na rozbudowę fabryki MAN w Niepołomicach - KE",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-442269"
+  },
+  {
+   "id": "strefa-8318ee8e932c",
+   "date": "2026-11-19",
+   "time": "22:20",
+   "ts": "2026-11-19T22:20:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Eurocash rozpoczyna przygotowania do IPO Frisco",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/eurocash-rozpoczyna-przygotowania-do-ipo-frisco"
   },
   {
    "id": "bossa-pap-442268",
