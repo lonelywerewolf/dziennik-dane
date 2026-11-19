@@ -2,20 +2,20 @@
  "date": "2026-11-19",
  "counts": {
   "podsumowania": 10,
-  "wyniki": 19,
+  "wyniki": 21,
   "rekomendacje": 0,
-  "korporacyjne": 27,
-  "makro_pl": 13,
+  "korporacyjne": 31,
+  "makro_pl": 15,
   "swiat_rynki": 14,
   "energetyka_surowce": 6,
   "nieruchomosci": 0,
-  "fundusze_drobne": 8,
+  "fundusze_drobne": 9,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 45
+  "pozostale": 48
  },
- "duplicatesRemoved": 84,
- "total": 227,
+ "duplicatesRemoved": 89,
+ "total": 244,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -112,11 +112,31 @@
   ],
   "wyniki": [
    {
+    "time": "13:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "Cyfrowy Polsat spodziewa się niższych wyników w IV kw. niż w III kw.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/cyfrowy-polsat-spodziewa-sie-nizszych-wynikow-w-iv-kw-niz-w-iii-kw",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
     "time": "13:45",
     "kind": "news",
     "ticker": null,
     "title": "W III kw. EBITDA JSW wyniosła 135,2 mln zł, a strata netto 286,0 mln zł - szacunki",
     "url": "https://strefainwestorow.pl/wiadomosci/20261119/w-iii-kw-ebitda-jsw-wyniosla-1352-mln-zl-strata-netto-2860-mln-zl-szacunki",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "13:45",
+    "kind": "news",
+    "ticker": null,
+    "title": "Apator w IV kw. chce zakończyć zabezpieczanie zapasów; liczy na wzrost przychodów w '27",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/apator-w-iv-kw-chce-zakonczyc-zabezpieczanie-zapasow-liczy-na-wzrost-przychodow",
     "src": "strefainwestorow",
     "flags": []
    },
@@ -308,6 +328,50 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "13:57",
+    "kind": "espi",
+    "ticker": null,
+    "title": "AGORA: Zarejestrowanie umowy o przedłużeniu okresu funkcjonowania Podatkowej Grupy Kapitałowej Agora na rok 2027",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184042",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "13:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "Scope Fluidics podpisał umowę dot. dystrybucji systemu BACTEROMIC na terytorium Polski",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/scope-fluidics-podpisal-umowe-dot-dystrybucji-systemu-bacteromic-na-terytorium",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "13:54",
+    "kind": "espi",
+    "ticker": null,
+    "title": "FEERUM S.A.: Otrzymanie zaliczki na podstawie kontraktu na wykonanie zbożowych obiektów magazynowo-suszarniczych w Egipcie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184039",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "13:53",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MEDTECH SOLUTIONS S.A.: Wybór oferty spółki zależnej od Emitenta w postępowaniu o udzielenie zamówienia publicznego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184037",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "13:42",
     "kind": "espi",
@@ -591,6 +655,24 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "13:55",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PragmaGo S.A.: Warunkowy przydział obligacji serii F1",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184041",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:48",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Budżety JST zamknęły się po III kw. '26 nadwyżką budżetową 45,523 mld zł - MF",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442100",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:12",
     "kind": "espi",
@@ -898,6 +980,15 @@
   "nieruchomosci": [],
   "fundusze_drobne": [
    {
+    "time": "13:47",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PKO BP BANKOWY OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442101",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "13:41",
     "kind": "news",
     "ticker": null,
@@ -983,6 +1074,33 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "13:54",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Cena maksymalna dla benzyny Pb95 w piątek wyniesie 5,93 zł/l, dla ON 7,45 zł/l",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442106",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:53",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GKS GIEKSA KATOWICE SA (22/2026) Informacje o walnym zgromadzeniu - informacje po odbyciu WZ (w tym ogłoszenie przerwy) - uchwały",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442105",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:52",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wydatki na inwestycje JST w III kwartale wyniosły 46,3 mld zł",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442103",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:44",
     "kind": "pap",
