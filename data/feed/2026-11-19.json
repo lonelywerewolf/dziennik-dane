@@ -1,7 +1,55 @@
 {
  "date": "2026-11-19",
- "count": 47,
+ "count": 52,
  "items": [
+  {
+   "id": "bossa-pap-441971",
+   "date": "2026-11-19",
+   "time": "07:10",
+   "ts": "2026-11-19T07:10:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MLP Group w '27 wejdzie na co najmniej jeden nowy rynek; przegląd opcji ma przyspieszyć rozwój grupy (wywiad)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441971"
+  },
+  {
+   "id": "bossa-pap-441970",
+   "date": "2026-11-19",
+   "time": "07:07",
+   "ts": "2026-11-19T07:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zainteresowanie promocjami w Black Friday jest wyższe niż w zeszłym roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441970"
+  },
+  {
+   "id": "bossa-pap-441969",
+   "date": "2026-11-19",
+   "time": "07:06",
+   "ts": "2026-11-19T07:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "W 2027 r. możliwe odbicie na polskim rynku M&A oraz mocna aktywność inwestorów zagranicznych (wywiad)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441969"
+  },
+  {
+   "id": "bossa-pap-441968",
+   "date": "2026-11-19",
+   "time": "07:03",
+   "ts": "2026-11-19T07:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wyniki Ryvu Therapeutics w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441968"
+  },
   {
    "id": "strefa-d97f06f92df0",
    "date": "2026-11-19",
@@ -12,6 +60,17 @@
    "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-19",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261119/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-19"
+  },
+  {
+   "id": "strefa-d4ebd36329d2",
+   "date": "2026-11-19",
+   "time": "07:01",
+   "ts": "2026-11-19T07:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wyniki Ryvu Therapeutics w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/wyniki-ryvu-therapeutics-w-iii-kw-2026-roku-vs-konsensus-pap-tabela"
   },
   {
    "id": "strefa-a02eb967dd17",

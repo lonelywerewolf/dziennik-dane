@@ -2,7 +2,7 @@
  "date": "2026-11-19",
  "counts": {
   "podsumowania": 4,
-  "wyniki": 6,
+  "wyniki": 7,
   "rekomendacje": 0,
   "korporacyjne": 3,
   "makro_pl": 1,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 7
+  "pozostale": 10
  },
- "duplicatesRemoved": 25,
- "total": 47,
+ "duplicatesRemoved": 26,
+ "total": 52,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -57,6 +57,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wyniki Ryvu Therapeutics w III kw. 2026 roku vs. konsensus PAP (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/wyniki-ryvu-therapeutics-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "06:47",
     "kind": "news",
@@ -179,6 +190,33 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "07:10",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MLP Group w '27 wejdzie na co najmniej jeden nowy rynek; przegląd opcji ma przyspieszyć rozwój grupy (wywiad)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441971",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "07:07",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Zainteresowanie promocjami w Black Friday jest wyższe niż w zeszłym roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441970",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "07:06",
+    "kind": "pap",
+    "ticker": null,
+    "title": "W 2027 r. możliwe odbicie na polskim rynku M&A oraz mocna aktywność inwestorów zagranicznych (wywiad)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441969",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "07:01",
     "kind": "news",
