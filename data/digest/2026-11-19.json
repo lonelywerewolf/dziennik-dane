@@ -2,20 +2,20 @@
  "date": "2026-11-19",
  "counts": {
   "podsumowania": 10,
-  "wyniki": 18,
+  "wyniki": 19,
   "rekomendacje": 0,
-  "korporacyjne": 26,
+  "korporacyjne": 27,
   "makro_pl": 13,
   "swiat_rynki": 14,
   "energetyka_surowce": 6,
   "nieruchomosci": 0,
-  "fundusze_drobne": 7,
+  "fundusze_drobne": 8,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 44
+  "pozostale": 45
  },
- "duplicatesRemoved": 79,
- "total": 218,
+ "duplicatesRemoved": 84,
+ "total": 227,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -111,6 +111,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "13:45",
+    "kind": "news",
+    "ticker": null,
+    "title": "W III kw. EBITDA JSW wyniosła 135,2 mln zł, a strata netto 286,0 mln zł - szacunki",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/w-iii-kw-ebitda-jsw-wyniosla-1352-mln-zl-strata-netto-2860-mln-zl-szacunki",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "13:23",
     "kind": "espi",
@@ -299,6 +308,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "13:42",
+    "kind": "espi",
+    "ticker": null,
+    "title": "POLTREG S.A.: Zawarcie umowy o współpracy z nowym Dyrektorem Finansowym (CFO).",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184036",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "13:39",
     "kind": "espi",
@@ -691,12 +711,12 @@
   ],
   "swiat_rynki": [
    {
-    "time": "13:32",
-    "kind": "pap",
+    "time": "13:41",
+    "kind": "news",
     "ticker": null,
     "title": "PKO BP buduje relacje z inwestorami w USA, fundusze pytają o gospodarkę, demografię i AI",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442091",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/pko-bp-buduje-relacje-z-inwestorami-w-usa-fundusze-pytaja-o-gospodarke",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -878,6 +898,15 @@
   "nieruchomosci": [],
   "fundusze_drobne": [
    {
+    "time": "13:41",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wartość akcji spółek z GPW będących w posiadaniu OFE spadła w październiku o 0,2 mld zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/wartosc-akcji-spolek-z-gpw-bedacych-w-posiadaniu-ofe-spadla-w-pazdzierniku-o-02",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "12:21",
     "kind": "news",
     "ticker": null,
@@ -955,12 +984,21 @@
   "obserwowane": [],
   "pozostale": [
    {
-    "time": "13:34",
+    "time": "13:44",
     "kind": "pap",
     "ticker": null,
-    "title": "PKO BP uwzględnia 800 plus w ocenie zdolności kredytowej; dostosowuje procesy do zaleceń KNF",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442090",
+    "title": "MEDTECH SOLUTIONS SA (17/2026) Rejestracja przez sąd zmiany statutu emitenta lub odmowie takiej rejestracji, z podaniem przyczyn odmowy",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442097",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:27",
+    "kind": "news",
+    "ticker": null,
+    "title": "PKO BP uwzględnia 800 plus w ocenie zdolności kredytowej; dostosowuje procesy do zaleceń KNF",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/pko-bp-uwzglednia-800-plus-w-ocenie-zdolnosci-kredytowej-dostosowuje-procesy-do",
+    "src": "strefainwestorow",
     "flags": []
    },
    {

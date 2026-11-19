@@ -1,7 +1,100 @@
 {
  "date": "2026-11-19",
- "count": 218,
+ "count": 227,
  "items": [
+  {
+   "id": "strefa-d19718bd293a",
+   "date": "2026-11-19",
+   "time": "13:45",
+   "ts": "2026-11-19T13:45:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "W III kw. EBITDA JSW wyniosła 135,2 mln zł, a strata netto 286,0 mln zł - szacunki",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/w-iii-kw-ebitda-jsw-wyniosla-1352-mln-zl-strata-netto-2860-mln-zl-szacunki"
+  },
+  {
+   "id": "bossa-pap-442097",
+   "date": "2026-11-19",
+   "time": "13:44",
+   "ts": "2026-11-19T13:44:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MEDTECH SOLUTIONS SA (17/2026) Rejestracja przez sąd zmiany statutu emitenta lub odmowie takiej rejestracji, z podaniem przyczyn odmowy",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442097"
+  },
+  {
+   "id": "bossa-pap-442096",
+   "date": "2026-11-19",
+   "time": "13:44",
+   "ts": "2026-11-19T13:44:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wartość akcji spółek z GPW będących w posiadaniu OFE spadła w październiku o 0,2 mld zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442096"
+  },
+  {
+   "id": "bossa-pap-442095",
+   "date": "2026-11-19",
+   "time": "13:44",
+   "ts": "2026-11-19T13:44:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "W III kw. EBITDA JSW wyniosła 135,2 mln zł, a strata netto 286,0 mln zł - szacunki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442095"
+  },
+  {
+   "id": "bossa-espi-184036",
+   "date": "2026-11-19",
+   "time": "13:42",
+   "ts": "2026-11-19T13:42:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "POLTREG S.A.",
+   "title": "Zawarcie umowy o współpracy z nowym Dyrektorem Finansowym (CFO).",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184036"
+  },
+  {
+   "id": "bossa-espi-184035",
+   "date": "2026-11-19",
+   "time": "13:42",
+   "ts": "2026-11-19T13:42:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF BITCOIN PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 236 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184035"
+  },
+  {
+   "id": "strefa-d2e93da0ef99",
+   "date": "2026-11-19",
+   "time": "13:41",
+   "ts": "2026-11-19T13:41:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "PKO BP buduje relacje z inwestorami w USA, fundusze pytają o gospodarkę, demografię i AI",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/pko-bp-buduje-relacje-z-inwestorami-w-usa-fundusze-pytaja-o-gospodarke"
+  },
+  {
+   "id": "strefa-10367941b71e",
+   "date": "2026-11-19",
+   "time": "13:41",
+   "ts": "2026-11-19T13:41:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wartość akcji spółek z GPW będących w posiadaniu OFE spadła w październiku o 0,2 mld zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/wartosc-akcji-spolek-z-gpw-bedacych-w-posiadaniu-ofe-spadla-w-pazdzierniku-o-02"
+  },
   {
    "id": "bossa-espi-184034",
    "date": "2026-11-19",
@@ -37,6 +130,17 @@
    "title": "PKO BP buduje relacje z inwestorami w USA, fundusze pytają o gospodarkę, demografię i AI",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-442091"
+  },
+  {
+   "id": "strefa-78ae7bcc5026",
+   "date": "2026-11-19",
+   "time": "13:27",
+   "ts": "2026-11-19T13:27:49+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "PKO BP uwzględnia 800 plus w ocenie zdolności kredytowej; dostosowuje procesy do zaleceń KNF",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/pko-bp-uwzglednia-800-plus-w-ocenie-zdolnosci-kredytowej-dostosowuje-procesy-do"
   },
   {
    "id": "strefa-0cb88b3364d1",
