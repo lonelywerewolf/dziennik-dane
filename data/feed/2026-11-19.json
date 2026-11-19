@@ -1,7 +1,19 @@
 {
  "date": "2026-11-19",
- "count": 439,
+ "count": 440,
  "items": [
+  {
+   "id": "bossa-espi-184122",
+   "date": "2026-11-19",
+   "time": "19:50",
+   "ts": "2026-11-19T19:50:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "SZAR S.A.",
+   "title": "zawiadomienie o zbyciu znacznego pakietu akcji",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184122"
+  },
   {
    "id": "bossa-pap-442257",
    "date": "2026-11-19",
