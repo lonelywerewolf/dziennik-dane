@@ -1,7 +1,19 @@
 {
  "date": "2026-11-19",
- "count": 450,
+ "count": 454,
  "items": [
+  {
+   "id": "bossa-pap-442269",
+   "date": "2026-11-19",
+   "time": "22:26",
+   "ts": "2026-11-19T22:26:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Jeśli spełnione będą warunki, Polska może przyznać pomoc na rozbudowę fabryki MAN w Niepołomicach - KE",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442269"
+  },
   {
    "id": "bossa-pap-442268",
    "date": "2026-11-19",
@@ -15,6 +27,18 @@
    "url": "https://bossa.pl/analizy/komunikaty#message-442268"
   },
   {
+   "id": "bossa-espi-184127",
+   "date": "2026-11-19",
+   "time": "21:59",
+   "ts": "2026-11-19T21:59:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "EUROCASH",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184127"
+  },
+  {
    "id": "strefa-99763ff21106",
    "date": "2026-11-19",
    "time": "21:55",
@@ -24,6 +48,30 @@
    "title": "DZIEŃ NA RYNKACH: Na Wall Street mocne spadki w dniu historycznego debiutu Anthropic",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261119/dzien-na-rynkach-na-wall-street-mocne-spadki-w-dniu-historycznego-debiutu"
+  },
+  {
+   "id": "bossa-pap-442265",
+   "date": "2026-11-19",
+   "time": "21:52",
+   "ts": "2026-11-19T21:52:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Bogdanka ma ogromny potencjał - Balczun",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442265"
+  },
+  {
+   "id": "bossa-espi-184126",
+   "date": "2026-11-19",
+   "time": "21:49",
+   "ts": "2026-11-19T21:49:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BAKED GAMES S.A.",
+   "title": "Wyniki sprzedaży gry Alaska Gold Fever na platformie Steam",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184126"
   },
   {
    "id": "bossa-pap-442264",

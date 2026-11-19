@@ -2,11 +2,11 @@
  "date": "2026-11-19",
  "counts": {
   "podsumowania": 18,
-  "wyniki": 29,
+  "wyniki": 30,
   "rekomendacje": 0,
   "korporacyjne": 67,
   "makro_pl": 26,
-  "swiat_rynki": 23,
+  "swiat_rynki": 24,
   "energetyka_surowce": 11,
   "nieruchomosci": 0,
   "fundusze_drobne": 16,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 87
  },
- "duplicatesRemoved": 172,
- "total": 450,
+ "duplicatesRemoved": 174,
+ "total": 454,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -185,6 +185,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "21:49",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BAKED GAMES S.A.: Wyniki sprzedaży gry Alaska Gold Fever na platformie Steam",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184126",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "20:17",
     "kind": "espi",
@@ -1424,6 +1435,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "22:26",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Jeśli spełnione będą warunki, Polska może przyznać pomoc na rozbudowę fabryki MAN w Niepołomicach - KE",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442269",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "19:22",
     "kind": "pap",
