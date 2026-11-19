@@ -4,18 +4,18 @@
   "podsumowania": 9,
   "wyniki": 16,
   "rekomendacje": 0,
-  "korporacyjne": 11,
-  "makro_pl": 6,
+  "korporacyjne": 14,
+  "makro_pl": 7,
   "swiat_rynki": 10,
-  "energetyka_surowce": 3,
+  "energetyka_surowce": 4,
   "nieruchomosci": 0,
-  "fundusze_drobne": 1,
+  "fundusze_drobne": 3,
   "twoje_spolki": 1,
   "obserwowane": 0,
   "pozostale": 25
  },
- "duplicatesRemoved": 54,
- "total": 136,
+ "duplicatesRemoved": 55,
+ "total": 144,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -269,6 +269,33 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "11:11",
+    "kind": "espi",
+    "ticker": null,
+    "title": "REINO CAPITAL SA: Nabycie 100% udziałów spółki Loredo RES Sp. z o.o. prowadzącej działalność na rynku usług facility management",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184005",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:10",
+    "kind": "espi",
+    "ticker": null,
+    "title": "THE FARM 51 GROUP S.A.: Ustanowienie tymczasowego nadzorcy sądowego w postępowaniu o ogłoszenie upadłości Emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184004",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:08",
+    "kind": "espi",
+    "ticker": null,
+    "title": "THE FARM 51 GROUP S.A.: Otrzymanie nieprawomocnego postanowienia sądu o odmowie zatwierdzenia układu",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184003",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "11:00",
     "kind": "espi",
     "ticker": null,
@@ -387,6 +414,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "11:15",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MRiRW: Dzięki działaniom ministerstwa rolnictwa polski drób wraca na rynek chiński (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442034",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:35",
     "kind": "news",
@@ -538,6 +574,15 @@
   ],
   "energetyka_surowce": [
    {
+    "time": "10:31",
+    "kind": "news",
+    "ticker": null,
+    "title": "ORLEN i Carlyle podpisały porozumienie o poszukiwaniu możliwości inwestycyjnych w sektorze energetycznym",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/orlen-i-carlyle-podpisaly-porozumienie-o-poszukiwaniu-mozliwosci-inwestycyjnych",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "09:38",
     "kind": "news",
     "ticker": null,
@@ -568,6 +613,24 @@
   "nieruchomosci": [],
   "fundusze_drobne": [
    {
+    "time": "11:13",
+    "kind": "news",
+    "ticker": null,
+    "title": "TFI PZU wprowadza ETF-y pod OKI",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/tfi-pzu-wprowadza-etf-y-pod-oki",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "11:07",
+    "kind": "pap",
+    "ticker": null,
+    "title": "UNIQA OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442030",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "10:50",
     "kind": "espi",
     "ticker": null,
@@ -590,6 +653,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:12",
+    "kind": "news",
+    "ticker": null,
+    "title": "MLP Group w '27 wejdzie na co najmniej jeden nowy rynek; przegląd opcji ma przyspieszyć rozwój grupy (wywiad)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/mlp-group-w-27-wejdzie-na-co-najmniej-jeden-nowy-rynek-przeglad-opcji-ma",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "11:02",
     "kind": "pap",
@@ -725,15 +797,6 @@
     "title": "Auto Partner będzie koncentrować się na efektywności operacyjnej, rozwija zaplecze logistyczne",
     "url": "https://strefainwestorow.pl/wiadomosci/20261119/auto-partner-bedzie-koncentrowac-sie-na-efektywnosci-operacyjnej-rozwija",
     "src": "strefainwestorow",
-    "flags": []
-   },
-   {
-    "time": "07:10",
-    "kind": "pap",
-    "ticker": null,
-    "title": "MLP Group w '27 wejdzie na co najmniej jeden nowy rynek; przegląd opcji ma przyspieszyć rozwój grupy (wywiad)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441971",
-    "src": "bossa",
     "flags": []
    },
    {

@@ -1,7 +1,89 @@
 {
  "date": "2026-11-19",
- "count": 136,
+ "count": 144,
  "items": [
+  {
+   "id": "bossa-pap-442034",
+   "date": "2026-11-19",
+   "time": "11:15",
+   "ts": "2026-11-19T11:15:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MRiRW: Dzięki działaniom ministerstwa rolnictwa polski drób wraca na rynek chiński (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442034"
+  },
+  {
+   "id": "strefa-c1b04c40b8bd",
+   "date": "2026-11-19",
+   "time": "11:13",
+   "ts": "2026-11-19T11:13:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "TFI PZU wprowadza ETF-y pod OKI",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/tfi-pzu-wprowadza-etf-y-pod-oki"
+  },
+  {
+   "id": "strefa-790c44908596",
+   "date": "2026-11-19",
+   "time": "11:12",
+   "ts": "2026-11-19T11:12:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "MLP Group w '27 wejdzie na co najmniej jeden nowy rynek; przegląd opcji ma przyspieszyć rozwój grupy (wywiad)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/mlp-group-w-27-wejdzie-na-co-najmniej-jeden-nowy-rynek-przeglad-opcji-ma"
+  },
+  {
+   "id": "bossa-espi-184005",
+   "date": "2026-11-19",
+   "time": "11:11",
+   "ts": "2026-11-19T11:11:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "REINO CAPITAL SA",
+   "title": "Nabycie 100% udziałów spółki Loredo RES Sp. z o.o. prowadzącej działalność na rynku usług facility management",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184005"
+  },
+  {
+   "id": "bossa-espi-184004",
+   "date": "2026-11-19",
+   "time": "11:10",
+   "ts": "2026-11-19T11:10:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "THE FARM 51 GROUP S.A.",
+   "title": "Ustanowienie tymczasowego nadzorcy sądowego w postępowaniu o ogłoszenie upadłości Emitenta",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184004"
+  },
+  {
+   "id": "bossa-espi-184003",
+   "date": "2026-11-19",
+   "time": "11:08",
+   "ts": "2026-11-19T11:08:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "THE FARM 51 GROUP S.A.",
+   "title": "Otrzymanie nieprawomocnego postanowienia sądu o odmowie zatwierdzenia układu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184003"
+  },
+  {
+   "id": "bossa-pap-442030",
+   "date": "2026-11-19",
+   "time": "11:07",
+   "ts": "2026-11-19T11:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "UNIQA OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442030"
+  },
   {
    "id": "bossa-pap-442029",
    "date": "2026-11-19",
@@ -157,6 +239,17 @@
    "title": "Wskaźniki referencyjne - SONIA",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-442017"
+  },
+  {
+   "id": "strefa-1e32dcc21c1e",
+   "date": "2026-11-19",
+   "time": "10:31",
+   "ts": "2026-11-19T10:31:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "ORLEN i Carlyle podpisały porozumienie o poszukiwaniu możliwości inwestycyjnych w sektorze energetycznym",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/orlen-i-carlyle-podpisaly-porozumienie-o-poszukiwaniu-mozliwosci-inwestycyjnych"
   },
   {
    "id": "bossa-pap-442016",
