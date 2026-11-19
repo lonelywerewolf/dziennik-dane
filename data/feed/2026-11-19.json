@@ -1,7 +1,43 @@
 {
  "date": "2026-11-19",
- "count": 215,
+ "count": 218,
  "items": [
+  {
+   "id": "bossa-espi-184034",
+   "date": "2026-11-19",
+   "time": "13:39",
+   "ts": "2026-11-19T13:39:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KOGENERA",
+   "title": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia Spółki Zespół Elektrociepłowni Wrocławskich KOGENERACJA S.A. na dzień 16 grudnia 2026 roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184034"
+  },
+  {
+   "id": "bossa-pap-442090",
+   "date": "2026-11-19",
+   "time": "13:34",
+   "ts": "2026-11-19T13:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PKO BP uwzględnia 800 plus w ocenie zdolności kredytowej; dostosowuje procesy do zaleceń KNF",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442090"
+  },
+  {
+   "id": "bossa-pap-442091",
+   "date": "2026-11-19",
+   "time": "13:32",
+   "ts": "2026-11-19T13:32:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PKO BP buduje relacje z inwestorami w USA, fundusze pytają o gospodarkę, demografię i AI",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442091"
+  },
   {
    "id": "strefa-0cb88b3364d1",
    "date": "2026-11-19",

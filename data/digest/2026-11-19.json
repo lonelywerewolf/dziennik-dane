@@ -4,18 +4,18 @@
   "podsumowania": 10,
   "wyniki": 18,
   "rekomendacje": 0,
-  "korporacyjne": 25,
+  "korporacyjne": 26,
   "makro_pl": 13,
-  "swiat_rynki": 13,
+  "swiat_rynki": 14,
   "energetyka_surowce": 6,
   "nieruchomosci": 0,
   "fundusze_drobne": 7,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 43
+  "pozostale": 44
  },
  "duplicatesRemoved": 79,
- "total": 215,
+ "total": 218,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -299,6 +299,15 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "13:39",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KOGENERA: Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia Spółki Zespół Elektrociepłowni Wrocławskich KOGENERACJA S.A. na dzień 16 grudnia 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184034",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:22",
     "kind": "pap",
@@ -682,6 +691,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "13:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PKO BP buduje relacje z inwestorami w USA, fundusze pytają o gospodarkę, demografię i AI",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442091",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "13:24",
     "kind": "news",
     "ticker": null,
@@ -936,6 +954,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "13:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PKO BP uwzględnia 800 plus w ocenie zdolności kredytowej; dostosowuje procesy do zaleceń KNF",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442090",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:27",
     "kind": "news",
