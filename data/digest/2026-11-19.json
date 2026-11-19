@@ -12,10 +12,10 @@
   "fundusze_drobne": 16,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 85
+  "pozostale": 86
  },
- "duplicatesRemoved": 168,
- "total": 440,
+ "duplicatesRemoved": 169,
+ "total": 442,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1856,6 +1856,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "20:09",
+    "kind": "espi",
+    "ticker": null,
+    "title": "3R Games S.A.: Premiera płatnego dodatku „Bloodveil” oraz aktualizacji gry „Cave Crave” na platformie Meta Quest",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184123",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "19:22",
     "kind": "espi",

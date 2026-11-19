@@ -1,7 +1,31 @@
 {
  "date": "2026-11-19",
- "count": 440,
+ "count": 442,
  "items": [
+  {
+   "id": "bossa-espi-184124",
+   "date": "2026-11-19",
+   "time": "20:14",
+   "ts": "2026-11-19T20:14:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "CASPAR AM SA",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184124"
+  },
+  {
+   "id": "bossa-espi-184123",
+   "date": "2026-11-19",
+   "time": "20:09",
+   "ts": "2026-11-19T20:09:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "3R Games S.A.",
+   "title": "Premiera płatnego dodatku „Bloodveil” oraz aktualizacji gry „Cave Crave” na platformie Meta Quest",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184123"
+  },
   {
    "id": "bossa-espi-184122",
    "date": "2026-11-19",
