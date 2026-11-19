@@ -4,18 +4,18 @@
   "podsumowania": 10,
   "wyniki": 17,
   "rekomendacje": 0,
-  "korporacyjne": 20,
-  "makro_pl": 12,
+  "korporacyjne": 22,
+  "makro_pl": 13,
   "swiat_rynki": 12,
   "energetyka_surowce": 6,
   "nieruchomosci": 0,
   "fundusze_drobne": 7,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 38
+  "pozostale": 40
  },
- "duplicatesRemoved": 71,
- "total": 194,
+ "duplicatesRemoved": 75,
+ "total": 203,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -289,6 +289,28 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "13:09",
+    "kind": "espi",
+    "ticker": null,
+    "title": "DANKS S.A.: Nabycie akcji własnych w ramach kolejnego (piątego) zlecenia skupu akcji własnych Emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184022",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
+    "time": "13:09",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SCOPE FLUIDICS S.A.: Zawarcie przez Bacteromic umowy dystrybucyjnej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184021",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
     "time": "13:07",
     "kind": "espi",
     "ticker": null,
@@ -496,6 +518,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "13:12",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PZU ETF OBLIGACJI SKARBOWYCH DŁUGOTERMINOWYCH PORTFELOWY FIZ: WANCI-E_30.04.18",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184023",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:59",
     "kind": "pap",
@@ -852,6 +883,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "13:18",
+    "kind": "espi",
+    "ticker": null,
+    "title": "UNIDEVELOPMENT S.A.: Zmiany osobowe w organach Unidevelopment S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184027",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:06",
+    "kind": "news",
+    "ticker": null,
+    "title": "NanoGroup pozyskuje 6,9 mln zł na bioadsorbery nowej generacji. Kolejny filar technologiczny obok NanOX",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/nanogroup-pozyskuje-69-mln-zl-na-bioadsorbery-nowej-generacji-kolejny-filar",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "12:59",
     "kind": "pap",

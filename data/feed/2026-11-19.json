@@ -1,7 +1,103 @@
 {
  "date": "2026-11-19",
- "count": 194,
+ "count": 203,
  "items": [
+  {
+   "id": "bossa-espi-184027",
+   "date": "2026-11-19",
+   "time": "13:18",
+   "ts": "2026-11-19T13:18:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "UNIDEVELOPMENT S.A.",
+   "title": "Zmiany osobowe w organach Unidevelopment S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184027"
+  },
+  {
+   "id": "bossa-espi-184026",
+   "date": "2026-11-19",
+   "time": "13:17",
+   "ts": "2026-11-19T13:17:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF GOLD PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184026"
+  },
+  {
+   "id": "bossa-espi-184025",
+   "date": "2026-11-19",
+   "time": "13:17",
+   "ts": "2026-11-19T13:17:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 PLN-HEDGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 233 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184025"
+  },
+  {
+   "id": "bossa-espi-184024",
+   "date": "2026-11-19",
+   "time": "13:15",
+   "ts": "2026-11-19T13:15:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF OBLIGACJI SKARBOWYCH ZMIENNOKUPONOWYCH PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184024"
+  },
+  {
+   "id": "bossa-espi-184023",
+   "date": "2026-11-19",
+   "time": "13:12",
+   "ts": "2026-11-19T13:12:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF OBLIGACJI SKARBOWYCH DŁUGOTERMINOWYCH PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184023"
+  },
+  {
+   "id": "bossa-espi-184022",
+   "date": "2026-11-19",
+   "time": "13:09",
+   "ts": "2026-11-19T13:09:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "DANKS S.A.",
+   "title": "Nabycie akcji własnych w ramach kolejnego (piątego) zlecenia skupu akcji własnych Emitenta",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184022"
+  },
+  {
+   "id": "bossa-espi-184021",
+   "date": "2026-11-19",
+   "time": "13:09",
+   "ts": "2026-11-19T13:09:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "SCOPE FLUIDICS S.A.",
+   "title": "Zawarcie przez Bacteromic umowy dystrybucyjnej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184021"
+  },
+  {
+   "id": "bossa-espi-184020",
+   "date": "2026-11-19",
+   "time": "13:08",
+   "ts": "2026-11-19T13:08:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 3 x LEVERAGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 234 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184020"
+  },
   {
    "id": "bossa-espi-184019",
    "date": "2026-11-19",
@@ -13,6 +109,17 @@
    "title": "Zwołanie Nadzwyczajnego Walnego Zgromadzenia na dzień 16 grudnia 2026 r.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-184019"
+  },
+  {
+   "id": "strefa-40196dae73d2",
+   "date": "2026-11-19",
+   "time": "13:06",
+   "ts": "2026-11-19T13:06:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "NanoGroup pozyskuje 6,9 mln zł na bioadsorbery nowej generacji. Kolejny filar technologiczny obok NanOX",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/nanogroup-pozyskuje-69-mln-zl-na-bioadsorbery-nowej-generacji-kolejny-filar"
   },
   {
    "id": "bossa-espi-184018",
