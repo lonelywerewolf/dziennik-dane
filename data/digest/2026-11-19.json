@@ -2,7 +2,7 @@
  "date": "2026-11-19",
  "counts": {
   "podsumowania": 17,
-  "wyniki": 27,
+  "wyniki": 28,
   "rekomendacje": 0,
   "korporacyjne": 65,
   "makro_pl": 25,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 16,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 82
+  "pozostale": 83
  },
- "duplicatesRemoved": 164,
- "total": 426,
+ "duplicatesRemoved": 165,
+ "total": 429,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -176,6 +176,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "19:09",
+    "kind": "pap",
+    "ticker": null,
+    "title": "7R/7R Spółka Akcyjna (20/2026) Emisja obligacji, obligacji zamiennych na akcje, obligacji z prawem pierwszeństwa oraz obligacji przychodowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442247",
+    "src": "bossa",
+    "flags": [
+     "emisja"
+    ]
+   },
    {
     "time": "18:23",
     "kind": "news",
@@ -1788,6 +1799,15 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "19:09",
+    "kind": "pap",
+    "ticker": null,
+    "title": "7R/7R Spółka Akcyjna (19/2026) Inne informacje",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442248",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "18:58",
     "kind": "pap",
     "ticker": null,
@@ -1797,12 +1817,12 @@
     "flags": []
    },
    {
-    "time": "18:55",
-    "kind": "pap",
+    "time": "18:48",
+    "kind": "news",
     "ticker": null,
     "title": "Backlog Selvity na '26 wynosi 330 mln zł",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442245",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/backlog-selvity-na-26-wynosi-330-mln-zl",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
