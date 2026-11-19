@@ -1,24 +1,33 @@
 {
  "date": "2026-11-19",
  "counts": {
-  "podsumowania": 8,
+  "podsumowania": 9,
   "wyniki": 16,
   "rekomendacje": 0,
   "korporacyjne": 6,
-  "makro_pl": 4,
+  "makro_pl": 5,
   "swiat_rynki": 7,
   "energetyka_surowce": 2,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 18
+  "pozostale": 19
  },
- "duplicatesRemoved": 49,
- "total": 110,
+ "duplicatesRemoved": 52,
+ "total": 116,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "09:24",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: W Europie na giełdach indeksy rosną",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/dzien-na-rynkach-w-europie-na-gieldach-indeksy-rosna",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:22",
     "kind": "news",
@@ -325,6 +334,15 @@
   ],
   "makro_pl": [
    {
+    "time": "09:31",
+    "kind": "news",
+    "ticker": null,
+    "title": "W listopadzie przesunięcie oczekiwań inflacyjnych konsumentów w kierunku nieco niższej nflacji - GUS",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/w-listopadzie-przesuniecie-oczekiwan-inflacyjnych-konsumentow-w-kierunku-nieco",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "07:55",
     "kind": "pap",
     "ticker": null,
@@ -453,6 +471,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:26",
+    "kind": "news",
+    "ticker": null,
+    "title": "Gaming Factory ustalił datę premiery gry \"Pizza Slice\" na konsole PlayStation 5 oraz Xbox X/S na 8 XII",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/gaming-factory-ustalil-date-premiery-gry-pizza-slice-na-konsole-playstation-5",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:15",
     "kind": "espi",
