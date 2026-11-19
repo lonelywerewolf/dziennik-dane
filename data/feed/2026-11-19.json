@@ -1,7 +1,18 @@
 {
  "date": "2026-11-19",
- "count": 301,
+ "count": 303,
  "items": [
+  {
+   "id": "strefa-4b391e22465d",
+   "date": "2026-11-19",
+   "time": "15:55",
+   "ts": "2026-11-19T15:55:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Votum chce wypłacić zaliczkę na poczet dywidendy za '26 w wysokości 1,5 zł na akcję",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/votum-chce-wyplacic-zaliczke-na-poczet-dywidendy-za-26-w-wysokosci-15-zl-na"
+  },
   {
    "id": "bossa-pap-442155",
    "date": "2026-11-19",
@@ -37,6 +48,17 @@
    "title": "Rząd pracuje nad rozwiązaniem ws. zamrożenia przez NBP rachunków TK - Domański",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-442153"
+  },
+  {
+   "id": "strefa-e90b88fb40cf",
+   "date": "2026-11-19",
+   "time": "15:41",
+   "ts": "2026-11-19T15:41:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Rząd pracuje nad rozwiązaniem ws. zamrożenia przez NBP rachunków TK - Domański",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/rzad-pracuje-nad-rozwiazaniem-ws-zamrozenia-przez-nbp-rachunkow-tk-domanski"
   },
   {
    "id": "bossa-pap-442152",

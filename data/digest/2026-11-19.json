@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 56
  },
- "duplicatesRemoved": 108,
- "total": 301,
+ "duplicatesRemoved": 110,
+ "total": 303,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -338,12 +338,12 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
-    "time": "15:50",
-    "kind": "pap",
+    "time": "15:55",
+    "kind": "news",
     "ticker": null,
     "title": "Votum chce wypłacić zaliczkę na poczet dywidendy za '26 w wysokości 1,5 zł na akcję",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442155",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/votum-chce-wyplacic-zaliczke-na-poczet-dywidendy-za-26-w-wysokosci-15-zl-na",
+    "src": "strefainwestorow",
     "flags": [
      "dywidenda"
     ]
@@ -781,12 +781,12 @@
     "flags": []
    },
    {
-    "time": "15:45",
-    "kind": "pap",
+    "time": "15:41",
+    "kind": "news",
     "ticker": null,
     "title": "Rząd pracuje nad rozwiązaniem ws. zamrożenia przez NBP rachunków TK - Domański",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442153",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/rzad-pracuje-nad-rozwiazaniem-ws-zamrozenia-przez-nbp-rachunkow-tk-domanski",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
