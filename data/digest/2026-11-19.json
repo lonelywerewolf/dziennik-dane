@@ -6,16 +6,16 @@
   "rekomendacje": 0,
   "korporacyjne": 67,
   "makro_pl": 25,
-  "swiat_rynki": 22,
-  "energetyka_surowce": 9,
+  "swiat_rynki": 23,
+  "energetyka_surowce": 10,
   "nieruchomosci": 0,
   "fundusze_drobne": 16,
   "twoje_spolki": 1,
   "obserwowane": 0,
   "pozostale": 85
  },
- "duplicatesRemoved": 166,
- "total": 436,
+ "duplicatesRemoved": 167,
+ "total": 439,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1404,6 +1404,15 @@
     "flags": []
    },
    {
+    "time": "19:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "Bogdanka do końca lutego '27 podniesie płace zasadnicze; ma rozpocząć projekt budowy nowego szybu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/bogdanka-do-konca-lutego-27-podniesie-place-zasadnicze-ma-rozpoczac-projekt",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "18:51",
     "kind": "pap",
     "ticker": null,
@@ -1596,6 +1605,15 @@
    }
   ],
   "energetyka_surowce": [
+   {
+    "time": "19:37",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PHOTON ENERGY N.V.: Announcement on Coupon Payment due on 23 November 2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184121",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "19:15",
     "kind": "espi",
