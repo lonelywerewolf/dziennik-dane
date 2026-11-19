@@ -12,29 +12,29 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 6
+  "pozostale": 7
  },
- "duplicatesRemoved": 20,
- "total": 41,
+ "duplicatesRemoved": 25,
+ "total": 47,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
    {
-    "time": "06:00",
-    "kind": "pap",
+    "time": "07:01",
+    "kind": "news",
     "ticker": null,
-    "title": "Kalendarium rynku kapitałowego GPW 2026-11-19",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441948",
-    "src": "bossa",
+    "title": "Kalendarium rynku NewConnect 2026-11-19",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/kalendarium-rynku-newconnect-2026-11-19",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
-    "time": "06:00",
-    "kind": "pap",
+    "time": "07:01",
+    "kind": "news",
     "ticker": null,
-    "title": "Kalendarium rynku NewConnect 2026-11-19",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441947",
-    "src": "bossa",
+    "title": "Kalendarium rynku kapitałowego GPW 2026-11-19",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/kalendarium-rynku-kapitalowego-gpw-2026-11-19",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -180,6 +180,24 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-19",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-19",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "06:49",
+    "kind": "news",
+    "ticker": null,
+    "title": "Agora podtrzymuje założenia co do tempa wzrostu rynku reklamy w Polsce w '26",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/agora-podtrzymuje-zalozenia-co-do-tempa-wzrostu-rynku-reklamy-w-polsce-w-26",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "06:36",
     "kind": "pap",
     "ticker": null,
@@ -203,15 +221,6 @@
     "ticker": null,
     "title": "Putin na szczycie APEC wzywa kraje regionu do korzystania z rosyjskiej logistyki",
     "url": "https://bossa.pl/analizy/komunikaty#message-441950",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "06:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-19",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441945",
     "src": "bossa",
     "flags": []
    },

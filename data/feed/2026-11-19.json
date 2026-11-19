@@ -1,7 +1,75 @@
 {
  "date": "2026-11-19",
- "count": 41,
+ "count": 47,
  "items": [
+  {
+   "id": "strefa-d97f06f92df0",
+   "date": "2026-11-19",
+   "time": "07:01",
+   "ts": "2026-11-19T07:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-19",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-19"
+  },
+  {
+   "id": "strefa-a02eb967dd17",
+   "date": "2026-11-19",
+   "time": "07:01",
+   "ts": "2026-11-19T07:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Kalendarium rynku NewConnect 2026-11-19",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/kalendarium-rynku-newconnect-2026-11-19"
+  },
+  {
+   "id": "strefa-423dd5698bf1",
+   "date": "2026-11-19",
+   "time": "07:01",
+   "ts": "2026-11-19T07:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Kalendarium rynku kapitałowego GPW 2026-11-19",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/kalendarium-rynku-kapitalowego-gpw-2026-11-19"
+  },
+  {
+   "id": "bossa-pap-441967",
+   "date": "2026-11-19",
+   "time": "07:00",
+   "ts": "2026-11-19T07:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Agora podtrzymuje założenia co do tempa wzrostu rynku reklamy w Polsce w '26",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441967"
+  },
+  {
+   "id": "bossa-espi-5963",
+   "date": "2026-11-19",
+   "time": "06:53",
+   "ts": "2026-11-19T06:53:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "RYVU THERAPEUTICS S.A.",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-5963"
+  },
+  {
+   "id": "strefa-3198a1829887",
+   "date": "2026-11-19",
+   "time": "06:49",
+   "ts": "2026-11-19T06:49:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Agora podtrzymuje założenia co do tempa wzrostu rynku reklamy w Polsce w '26",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/agora-podtrzymuje-zalozenia-co-do-tempa-wzrostu-rynku-reklamy-w-polsce-w-26"
+  },
   {
    "id": "bossa-pap-441965",
    "date": "2026-11-19",
