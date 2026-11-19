@@ -4,18 +4,18 @@
   "podsumowania": 11,
   "wyniki": 21,
   "rekomendacje": 0,
-  "korporacyjne": 38,
+  "korporacyjne": 39,
   "makro_pl": 22,
   "swiat_rynki": 16,
   "energetyka_surowce": 6,
   "nieruchomosci": 0,
-  "fundusze_drobne": 13,
+  "fundusze_drobne": 15,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 53
+  "pozostale": 54
  },
- "duplicatesRemoved": 101,
- "total": 282,
+ "duplicatesRemoved": 104,
+ "total": 289,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -337,6 +337,15 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "15:11",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ADIUVO INVESTMENTS S.A. W RESTRUKTURYZACJI: Zmiany w strukturze udziałowej SmartMedics Sp. z o.o.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184059",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:06",
     "kind": "espi",
@@ -1145,6 +1154,24 @@
   "nieruchomosci": [],
   "fundusze_drobne": [
    {
+    "time": "15:19",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OFE wartości jednostek rozrachunkowych z 2026.11.18",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442146",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:17",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GENERALI OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442144",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "15:05",
     "kind": "pap",
     "ticker": null,
@@ -1275,6 +1302,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "15:15",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KPRM: Sprawiedliwy pokój dla Ukrainy fundamentem bezpieczeństwa Europy (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442143",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:24",
     "kind": "news",

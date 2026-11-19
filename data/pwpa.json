@@ -46,6 +46,15 @@
    "house": "Biuro Maklerskie Banku Pekao S.A."
   },
   {
+   "date": "2026-11-19",
+   "ticker": "AGO",
+   "company": "AGORA S.A.",
+   "file": "20261119_dom_maklerski_bdm_ago_pl_aw.pdf",
+   "url": "https://www.gpw.pl/pub/pwpa/20261119_dom_maklerski_bdm_ago_pl_aw.pdf",
+   "type": "analiza wyników",
+   "house": "Dom Maklerski BDM S.A."
+  },
+  {
    "date": "2026-11-18",
    "ticker": "OPN",
    "company": "OPONEO.PL S.A.",
@@ -585,5 +594,5 @@
    "house": "Noble Securities S.A."
   }
  ],
- "updatedAt": "2026-11-19T15:09:56+01:00"
+ "updatedAt": "2026-11-19T15:20:56+01:00"
 }
