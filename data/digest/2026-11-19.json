@@ -4,18 +4,18 @@
   "podsumowania": 9,
   "wyniki": 16,
   "rekomendacje": 0,
-  "korporacyjne": 7,
+  "korporacyjne": 9,
   "makro_pl": 6,
-  "swiat_rynki": 8,
+  "swiat_rynki": 10,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
-  "fundusze_drobne": 0,
-  "twoje_spolki": 0,
+  "fundusze_drobne": 1,
+  "twoje_spolki": 1,
   "obserwowane": 0,
   "pozostale": 23
  },
  "duplicatesRemoved": 54,
- "total": 126,
+ "total": 132,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -269,6 +269,28 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "10:52",
+    "kind": "espi",
+    "ticker": null,
+    "title": "REINO CAPITAL SA: Podsumowanie subskrypcji prywatnej akcji Spółki serii N",
+    "url": "https://bossa.pl/analizy/komunikaty#message-183998",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "10:51",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Kombinat Konopny S.A.: Informacja o otrzymaniu powiadomienia, o którym mowa w art. 19 ust. 1 rozporządzenia MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-183997",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
     "time": "10:43",
     "kind": "pap",
     "ticker": null,
@@ -401,6 +423,24 @@
   ],
   "swiat_rynki": [
    {
+    "time": "10:53",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ATREM S.A.: Wybór oferty konsorcjum z udziałem Emitenta jako liderem przez PGE Energetyka Kolejowa Operator sp. z o.o. na realizację zadania pn.: „Opracowanie dokumentacji projektowej oraz budowa w systemie „projektuj i buduj” PT Pszczyna wraz z infrastrukturą techniczną\"",
+    "url": "https://bossa.pl/analizy/komunikaty#message-183999",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:51",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Europa musi postawić na atom, zarówno wielkoskalowy, jak i modułowy - Motyka",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442023",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "10:03",
     "kind": "pap",
     "ticker": null,
@@ -505,8 +545,28 @@
    }
   ],
   "nieruchomosci": [],
-  "fundusze_drobne": [],
-  "twoje_spolki": [],
+  "fundusze_drobne": [
+   {
+    "time": "10:50",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MEDICALGORITHMICS S.A.: Ustalenie harmonogramu oferty publicznej akcji serii R oraz zasad ich przydziału i subskrypcji",
+    "url": "https://bossa.pl/analizy/komunikaty#message-183996",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
+  "twoje_spolki": [
+   {
+    "time": "10:44",
+    "kind": "pap",
+    "ticker": "VRT",
+    "title": "Vertiv sfinalizował przejęcie UtilityInnovation Group",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442020",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "obserwowane": [],
   "pozostale": [
    {
