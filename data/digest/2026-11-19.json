@@ -2,10 +2,10 @@
  "date": "2026-11-19",
  "counts": {
   "podsumowania": 4,
-  "wyniki": 7,
+  "wyniki": 8,
   "rekomendacje": 0,
   "korporacyjne": 3,
-  "makro_pl": 1,
+  "makro_pl": 2,
   "swiat_rynki": 1,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 10
  },
- "duplicatesRemoved": 27,
- "total": 54,
+ "duplicatesRemoved": 31,
+ "total": 60,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -57,6 +57,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "07:32",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wyniki Mo-Bruku w III kw. 2026 r. vs konsensus PAP (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/wyniki-mo-bruku-w-iii-kw-2026-r-vs-konsensus-pap-tabela",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "07:01",
     "kind": "news",
@@ -163,6 +174,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "07:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Złotowe depozyty międzybankowe - WIBID, WIBOR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441974",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "06:34",
     "kind": "news",

@@ -1,7 +1,77 @@
 {
  "date": "2026-11-19",
- "count": 54,
+ "count": 60,
  "items": [
+  {
+   "id": "bossa-pap-441976",
+   "date": "2026-11-19",
+   "time": "07:34",
+   "ts": "2026-11-19T07:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wyniki Mo-Bruku w III kw. 2026 r. vs konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441976"
+  },
+  {
+   "id": "strefa-81e383bd21c1",
+   "date": "2026-11-19",
+   "time": "07:32",
+   "ts": "2026-11-19T07:32:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wyniki Mo-Bruku w III kw. 2026 r. vs konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/wyniki-mo-bruku-w-iii-kw-2026-r-vs-konsensus-pap-tabela"
+  },
+  {
+   "id": "bossa-pap-441975",
+   "date": "2026-11-19",
+   "time": "07:31",
+   "ts": "2026-11-19T07:31:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zysk netto grupy PZU w III kw. '26 wyniósł 1,443 mld zł, zgodnie z oczekiwaniami (opis)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441975"
+  },
+  {
+   "id": "bossa-pap-441974",
+   "date": "2026-11-19",
+   "time": "07:30",
+   "ts": "2026-11-19T07:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Złotowe depozyty międzybankowe - WIBID, WIBOR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441974"
+  },
+  {
+   "id": "bossa-espi-178093",
+   "date": "2026-11-19",
+   "time": "07:25",
+   "ts": "2026-11-19T07:25:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MO-BRUK S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-178093"
+  },
+  {
+   "id": "strefa-d7c08553a322",
+   "date": "2026-11-19",
+   "time": "07:15",
+   "ts": "2026-11-19T07:15:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Zysk netto grupy PZU w III kw. '26 wyniósł 1,443 mld zł, zgodnie z oczekiwaniami (opis)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/zysk-netto-grupy-pzu-w-iii-kw-26-wyniosl-1443-mld-zl-zgodnie-z-oczekiwaniami-0"
+  },
   {
    "id": "bossa-pap-441972",
    "date": "2026-11-19",
