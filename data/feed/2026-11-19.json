@@ -1,7 +1,65 @@
 {
  "date": "2026-11-19",
- "count": 93,
+ "count": 99,
  "items": [
+  {
+   "id": "bossa-pap-442000",
+   "date": "2026-11-19",
+   "time": "08:48",
+   "ts": "2026-11-19T08:48:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: Sesja może rozpocząć się pozytywnie; wydarzeniem dnia debiut Anthropic",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442000"
+  },
+  {
+   "id": "bossa-pap-441999",
+   "date": "2026-11-19",
+   "time": "08:44",
+   "ts": "2026-11-19T08:44:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wyniki KGHM za III kw. powyżej oczekiwań (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441999"
+  },
+  {
+   "id": "strefa-bec44da88c6e",
+   "date": "2026-11-19",
+   "time": "08:43",
+   "ts": "2026-11-19T08:43:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: Sesja może rozpocząć się pozytywnie; wydarzeniem dnia debiut Anthropic",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/dzien-na-gpw-sesja-moze-rozpoczac-sie-pozytywnie-wydarzeniem-dnia-debiut"
+  },
+  {
+   "id": "strefa-3c0260f08edf",
+   "date": "2026-11-19",
+   "time": "08:42",
+   "ts": "2026-11-19T08:42:17+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "multiQure rozpoczyna etap wytwarzania terapii genowej MQ-201",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/multiqure-rozpoczyna-etap-wytwarzania-terapii-genowej-mq-201"
+  },
+  {
+   "id": "bossa-pap-441998",
+   "date": "2026-11-19",
+   "time": "08:42",
+   "ts": "2026-11-19T08:42:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "multiQure rozpoczyna etap wytwarzania terapii genowej MQ-201",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441998"
+  },
   {
    "id": "bossa-espi-183990",
    "date": "2026-11-19",
@@ -25,6 +83,17 @@
    "title": "Zapasy gazu w magazynach UE wynoszą równo 70 proc., w Polsce to 95,5 proc.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-441996"
+  },
+  {
+   "id": "strefa-468f0ed618f9",
+   "date": "2026-11-19",
+   "time": "08:36",
+   "ts": "2026-11-19T08:36:19+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "multiQure rozpoczyna etap wytwarzania terapii genowej MQ-201 dla pierwszych pacjentów z chorobą Huntingtona - partnerem produkcyjnym amerykański Andelyn Biosciences",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/multiqure-rozpoczyna-etap-wytwarzania-terapii-genowej-mq-201-dla-pierwszych"
   },
   {
    "id": "bossa-espi-183989",

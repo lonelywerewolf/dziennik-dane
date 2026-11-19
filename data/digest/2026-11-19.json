@@ -1,24 +1,33 @@
 {
  "date": "2026-11-19",
  "counts": {
-  "podsumowania": 5,
-  "wyniki": 14,
+  "podsumowania": 6,
+  "wyniki": 15,
   "rekomendacje": 0,
   "korporacyjne": 6,
   "makro_pl": 4,
-  "swiat_rynki": 6,
+  "swiat_rynki": 7,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 13
+  "pozostale": 14
  },
- "duplicatesRemoved": 44,
- "total": 93,
+ "duplicatesRemoved": 46,
+ "total": 99,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "08:43",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: Sesja może rozpocząć się pozytywnie; wydarzeniem dnia debiut Anthropic",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/dzien-na-gpw-sesja-moze-rozpoczac-sie-pozytywnie-wydarzeniem-dnia-debiut",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:22",
     "kind": "news",
@@ -66,6 +75,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "08:44",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wyniki KGHM za III kw. powyżej oczekiwań (opinia)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441999",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "08:27",
     "kind": "news",
@@ -323,6 +343,15 @@
     "flags": []
    },
    {
+    "time": "08:36",
+    "kind": "news",
+    "ticker": null,
+    "title": "multiQure rozpoczyna etap wytwarzania terapii genowej MQ-201 dla pierwszych pacjentów z chorobą Huntingtona - partnerem produkcyjnym amerykański Andelyn Biosciences",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/multiqure-rozpoczyna-etap-wytwarzania-terapii-genowej-mq-201-dla-pierwszych",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "08:21",
     "kind": "news",
     "ticker": null,
@@ -386,6 +415,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "08:42",
+    "kind": "news",
+    "ticker": null,
+    "title": "multiQure rozpoczyna etap wytwarzania terapii genowej MQ-201",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/multiqure-rozpoczyna-etap-wytwarzania-terapii-genowej-mq-201",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:13",
     "kind": "pap",
