@@ -12,10 +12,10 @@
   "fundusze_drobne": 6,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 32
+  "pozostale": 36
  },
- "duplicatesRemoved": 66,
- "total": 179,
+ "duplicatesRemoved": 67,
+ "total": 184,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -812,6 +812,42 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:41",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Spółki z CEE mogą być atrakcyjną dywersyfikacją poza sektor technologii - UniCredit (opinia)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442064",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:37",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Polska może zostać już na stałe w G20 - Baranowski, MRiT",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442063",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:35",
+    "kind": "pap",
+    "ticker": null,
+    "title": "EUVIC SA (29/2026) Rejestracja przez sąd zmiany statutu emitenta lub odmowie takiej rejestracji, z podaniem przyczyn odmowy",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442062",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:35",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MOL: Transaction by person closely associated with a person discharging managerial responsibilities",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184013",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:37",
     "kind": "pap",

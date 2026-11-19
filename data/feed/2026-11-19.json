@@ -1,7 +1,67 @@
 {
  "date": "2026-11-19",
- "count": 179,
+ "count": 184,
  "items": [
+  {
+   "id": "bossa-pap-442064",
+   "date": "2026-11-19",
+   "time": "12:41",
+   "ts": "2026-11-19T12:41:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Spółki z CEE mogą być atrakcyjną dywersyfikacją poza sektor technologii - UniCredit (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442064"
+  },
+  {
+   "id": "bossa-pap-442063",
+   "date": "2026-11-19",
+   "time": "12:37",
+   "ts": "2026-11-19T12:37:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Polska może zostać już na stałe w G20 - Baranowski, MRiT",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442063"
+  },
+  {
+   "id": "bossa-pap-442062",
+   "date": "2026-11-19",
+   "time": "12:35",
+   "ts": "2026-11-19T12:35:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "EUVIC SA (29/2026) Rejestracja przez sąd zmiany statutu emitenta lub odmowie takiej rejestracji, z podaniem przyczyn odmowy",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442062"
+  },
+  {
+   "id": "bossa-espi-184014",
+   "date": "2026-11-19",
+   "time": "12:35",
+   "ts": "2026-11-19T12:35:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF OBLIGACJI 6M PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 242 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184014"
+  },
+  {
+   "id": "bossa-espi-184013",
+   "date": "2026-11-19",
+   "time": "12:35",
+   "ts": "2026-11-19T12:35:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MOL",
+   "title": "Transaction by person closely associated with a person discharging managerial responsibilities",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184013"
+  },
   {
    "id": "bossa-espi-184012",
    "date": "2026-11-19",
