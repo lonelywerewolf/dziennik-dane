@@ -1,7 +1,101 @@
 {
  "date": "2026-11-19",
- "count": 260,
+ "count": 268,
  "items": [
+  {
+   "id": "bossa-pap-442126",
+   "date": "2026-11-19",
+   "time": "14:35",
+   "ts": "2026-11-19T14:35:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Liczba nowych bezrobotnych w USA w ub. tyg.: 203 tys. Konsensus: 198 tys. Poprzednio: 202 tys.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442126"
+  },
+  {
+   "id": "strefa-90548419b5dd",
+   "date": "2026-11-19",
+   "time": "14:34",
+   "ts": "2026-11-19T14:34:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Futures w USA rosną; oczekiwanie na IPO Anthropic",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/dzien-na-rynkach-futures-w-usa-rosna-oczekiwanie-na-ipo-anthropic"
+  },
+  {
+   "id": "bossa-pap-442125",
+   "date": "2026-11-19",
+   "time": "14:33",
+   "ts": "2026-11-19T14:33:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "AI może pomóc gospodarce wygrać z demografią, skorzystają banki, finanse i software - BM PKO BP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442125"
+  },
+  {
+   "id": "bossa-pap-442124",
+   "date": "2026-11-19",
+   "time": "14:27",
+   "ts": "2026-11-19T14:27:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Bank Pocztowy zdecydował o wcześniejszym wykupie obligacji serii C4 o wartości 50 mln zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442124"
+  },
+  {
+   "id": "bossa-espi-184050",
+   "date": "2026-11-19",
+   "time": "14:27",
+   "ts": "2026-11-19T14:27:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 2 x SHORT PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 233 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184050"
+  },
+  {
+   "id": "bossa-espi-184049",
+   "date": "2026-11-19",
+   "time": "14:27",
+   "ts": "2026-11-19T14:27:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KGHM POLSKA MIEDŹ SA",
+   "title": "Wydłużenie terminu obowiązywania umowy odnawialnego kredytu konsorcjalnego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184049"
+  },
+  {
+   "id": "bossa-pap-442119",
+   "date": "2026-11-19",
+   "time": "14:26",
+   "ts": "2026-11-19T14:26:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Futures w USA rosną; oczekiwanie na IPO Anthropic",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442119"
+  },
+  {
+   "id": "strefa-98da16924ba5",
+   "date": "2026-11-19",
+   "time": "14:24",
+   "ts": "2026-11-19T14:24:41+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "AI może pomóc gospodarce wygrać z demografią, skorzystają banki, finanse i software - BM PKO BP",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/ai-moze-pomoc-gospodarce-wygrac-z-demografia-skorzystaja-banki-finanse-i"
+  },
   {
    "id": "strefa-39d42006b91e",
    "date": "2026-11-19",

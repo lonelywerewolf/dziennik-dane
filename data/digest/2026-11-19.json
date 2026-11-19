@@ -1,24 +1,33 @@
 {
  "date": "2026-11-19",
  "counts": {
-  "podsumowania": 10,
+  "podsumowania": 11,
   "wyniki": 21,
   "rekomendacje": 0,
-  "korporacyjne": 34,
-  "makro_pl": 19,
-  "swiat_rynki": 15,
+  "korporacyjne": 35,
+  "makro_pl": 20,
+  "swiat_rynki": 16,
   "energetyka_surowce": 6,
   "nieruchomosci": 0,
   "fundusze_drobne": 9,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 52
+  "pozostale": 53
  },
- "duplicatesRemoved": 93,
- "total": 260,
+ "duplicatesRemoved": 96,
+ "total": 268,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "14:34",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Futures w USA rosną; oczekiwanie na IPO Anthropic",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/dzien-na-rynkach-futures-w-usa-rosna-oczekiwanie-na-ipo-anthropic",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "11:19",
     "kind": "news",
@@ -328,6 +337,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "14:27",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KGHM POLSKA MIEDŹ SA: Wydłużenie terminu obowiązywania umowy odnawialnego kredytu konsorcjalnego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184049",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "14:12",
     "kind": "espi",
@@ -687,6 +707,15 @@
   ],
   "makro_pl": [
    {
+    "time": "14:27",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Bank Pocztowy zdecydował o wcześniejszym wykupie obligacji serii C4 o wartości 50 mln zł",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442124",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "14:23",
     "kind": "news",
     "ticker": null,
@@ -859,6 +888,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "14:35",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Liczba nowych bezrobotnych w USA w ub. tyg.: 203 tys. Konsensus: 198 tys. Poprzednio: 202 tys.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442126",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:55",
     "kind": "news",
@@ -1150,6 +1188,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "14:24",
+    "kind": "news",
+    "ticker": null,
+    "title": "AI może pomóc gospodarce wygrać z demografią, skorzystają banki, finanse i software - BM PKO BP",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/ai-moze-pomoc-gospodarce-wygrac-z-demografia-skorzystaja-banki-finanse-i",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "14:21",
     "kind": "news",
