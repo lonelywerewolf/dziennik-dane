@@ -1,7 +1,55 @@
 {
  "date": "2026-11-19",
- "count": 63,
+ "count": 67,
  "items": [
+  {
+   "id": "bossa-pap-441982",
+   "date": "2026-11-19",
+   "time": "07:55",
+   "ts": "2026-11-19T07:55:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Na razie można jeszcze nie przesądzać, czy konieczna będzie zmiana parametrów polityki pien. - Litiwniuk, NBP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441982"
+  },
+  {
+   "id": "bossa-espi-181380",
+   "date": "2026-11-19",
+   "time": "07:52",
+   "ts": "2026-11-19T07:52:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "RELPOL",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-181380"
+  },
+  {
+   "id": "bossa-pap-441980",
+   "date": "2026-11-19",
+   "time": "07:51",
+   "ts": "2026-11-19T07:51:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Medicalgorithmics spodziewa się wzrostu przychodów; poprawa w IV kw., ale skokowy wzrost w '27 (wywiad)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441980"
+  },
+  {
+   "id": "bossa-espi-181269",
+   "date": "2026-11-19",
+   "time": "07:51",
+   "ts": "2026-11-19T07:51:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "APS ENERGIA S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-181269"
+  },
   {
    "id": "bossa-pap-441978",
    "date": "2026-11-19",

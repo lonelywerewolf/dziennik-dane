@@ -2,10 +2,10 @@
  "date": "2026-11-19",
  "counts": {
   "podsumowania": 4,
-  "wyniki": 8,
+  "wyniki": 9,
   "rekomendacje": 0,
   "korporacyjne": 3,
-  "makro_pl": 3,
+  "makro_pl": 4,
   "swiat_rynki": 1,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 10
  },
- "duplicatesRemoved": 33,
- "total": 63,
+ "duplicatesRemoved": 35,
+ "total": 67,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -57,6 +57,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "07:51",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Medicalgorithmics spodziewa się wzrostu przychodów; poprawa w IV kw., ale skokowy wzrost w '27 (wywiad)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441980",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "07:32",
     "kind": "news",
@@ -174,6 +183,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "07:55",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Na razie można jeszcze nie przesądzać, czy konieczna będzie zmiana parametrów polityki pien. - Litiwniuk, NBP",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441982",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "07:35",
     "kind": "news",
