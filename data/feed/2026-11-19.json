@@ -1,7 +1,55 @@
 {
  "date": "2026-11-19",
- "count": 429,
+ "count": 433,
  "items": [
+  {
+   "id": "bossa-pap-442249",
+   "date": "2026-11-19",
+   "time": "19:22",
+   "ts": "2026-11-19T19:22:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MEDCAMP SA (29/2026) Podjęcie uchwały o podwyższeniu kapitału zakładowego z zachowaniem prawa poboru",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442249"
+  },
+  {
+   "id": "bossa-espi-184118",
+   "date": "2026-11-19",
+   "time": "19:22",
+   "ts": "2026-11-19T19:22:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "CPD S.A.",
+   "title": "Dopuszczenie i wprowadzenie akcji serii G do obrotu na Głównym Rynku GPW",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184118"
+  },
+  {
+   "id": "bossa-espi-184116",
+   "date": "2026-11-19",
+   "time": "19:20",
+   "ts": "2026-11-19T19:20:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "LW BOGDANKA S.A.",
+   "title": "Podpisanie deklaracji po spotkaniu w dniu 19.11.2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184116"
+  },
+  {
+   "id": "bossa-espi-184115",
+   "date": "2026-11-19",
+   "time": "19:15",
+   "ts": "2026-11-19T19:15:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PHOTON ENERGY N.V.",
+   "title": "Financial Report for Q3 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184115"
+  },
   {
    "id": "bossa-pap-442248",
    "date": "2026-11-19",

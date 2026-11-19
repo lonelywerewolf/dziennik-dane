@@ -6,16 +6,16 @@
   "rekomendacje": 0,
   "korporacyjne": 65,
   "makro_pl": 25,
-  "swiat_rynki": 21,
-  "energetyka_surowce": 8,
+  "swiat_rynki": 22,
+  "energetyka_surowce": 9,
   "nieruchomosci": 0,
   "fundusze_drobne": 16,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 83
+  "pozostale": 85
  },
  "duplicatesRemoved": 165,
- "total": 429,
+ "total": 433,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1373,6 +1373,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "19:22",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MEDCAMP SA (29/2026) Podjęcie uchwały o podwyższeniu kapitału zakładowego z zachowaniem prawa poboru",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442249",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "18:51",
     "kind": "pap",
     "ticker": null,
@@ -1565,6 +1574,15 @@
    }
   ],
   "energetyka_surowce": [
+   {
+    "time": "19:15",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PHOTON ENERGY N.V.: Financial Report for Q3 2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184115",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:40",
     "kind": "pap",
@@ -1798,6 +1816,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "19:22",
+    "kind": "espi",
+    "ticker": null,
+    "title": "CPD S.A.: Dopuszczenie i wprowadzenie akcji serii G do obrotu na Głównym Rynku GPW",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184118",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "19:20",
+    "kind": "espi",
+    "ticker": null,
+    "title": "LW BOGDANKA S.A.: Podpisanie deklaracji po spotkaniu w dniu 19.11.2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184116",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "19:09",
     "kind": "pap",
