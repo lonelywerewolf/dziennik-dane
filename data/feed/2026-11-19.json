@@ -1,7 +1,98 @@
 {
  "date": "2026-11-19",
- "count": 251,
+ "count": 260,
  "items": [
+  {
+   "id": "strefa-39d42006b91e",
+   "date": "2026-11-19",
+   "time": "14:23",
+   "ts": "2026-11-19T14:23:45+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Sejm uchwalił ustawę, która ma zwiększyć możliwości produkcji półprzewodników w Polsce",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/sejm-uchwalil-ustawe-ktora-ma-zwiekszyc-mozliwosci-produkcji-polprzewodnikow-w"
+  },
+  {
+   "id": "strefa-cca4b9517ddc",
+   "date": "2026-11-19",
+   "time": "14:22",
+   "ts": "2026-11-19T14:22:27+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Sejm uchwalił nowelizację specustawy jądrowej",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/sejm-uchwalil-nowelizacje-specustawy-jadrowej"
+  },
+  {
+   "id": "strefa-97b073f5157e",
+   "date": "2026-11-19",
+   "time": "14:21",
+   "ts": "2026-11-19T14:21:34+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Cena maksymalna dla benzyny Pb95 w piątek wyniesie 5,93 zł/l, dla ON 7,45 zł/l",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/cena-maksymalna-dla-benzyny-pb95-w-piatek-wyniesie-593-zll-dla-745-zll"
+  },
+  {
+   "id": "bossa-espi-184048",
+   "date": "2026-11-19",
+   "time": "14:21",
+   "ts": "2026-11-19T14:21:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF sWIG80TR PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 233 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184048"
+  },
+  {
+   "id": "strefa-52c585adac37",
+   "date": "2026-11-19",
+   "time": "14:20",
+   "ts": "2026-11-19T14:20:13+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Sejm za poprawkami Senatu dot. regulacji najmu krótkoterminowego",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/sejm-za-poprawkami-senatu-dot-regulacji-najmu-krotkoterminowego"
+  },
+  {
+   "id": "bossa-espi-184047",
+   "date": "2026-11-19",
+   "time": "14:17",
+   "ts": "2026-11-19T14:17:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BANK POCZTOWY S.A.",
+   "title": "Wcześniejszy wykup Obligacji serii C4",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184047"
+  },
+  {
+   "id": "strefa-a41eda3bf43f",
+   "date": "2026-11-19",
+   "time": "14:16",
+   "ts": "2026-11-19T14:16:41+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Resorty obrony Polski i Grecji z memorandum ws. wspólnego pozyskiwania satelitów obserwacyjnych",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/resorty-obrony-polski-i-grecji-z-memorandum-ws-wspolnego-pozyskiwania-satelitow"
+  },
+  {
+   "id": "bossa-espi-184046",
+   "date": "2026-11-19",
+   "time": "14:15",
+   "ts": "2026-11-19T14:15:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF TBSP PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 233 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184046"
+  },
   {
    "id": "bossa-espi-5732",
    "date": "2026-11-19",
@@ -25,6 +116,17 @@
    "title": "Informacja o transakcjach na akcjach Spółki uzyskana w trybie art. 19 MAR.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-184045"
+  },
+  {
+   "id": "strefa-7e017edd1c8a",
+   "date": "2026-11-19",
+   "time": "14:08",
+   "ts": "2026-11-19T14:08:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Maciej Gamrot nowym dyrektorem finansowym PolTREG",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/maciej-gamrot-nowym-dyrektorem-finansowym-poltreg"
   },
   {
    "id": "bossa-pap-442115",

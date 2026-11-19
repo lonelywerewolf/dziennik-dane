@@ -5,17 +5,17 @@
   "wyniki": 21,
   "rekomendacje": 0,
   "korporacyjne": 34,
-  "makro_pl": 15,
+  "makro_pl": 19,
   "swiat_rynki": 15,
   "energetyka_surowce": 6,
   "nieruchomosci": 0,
   "fundusze_drobne": 9,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 50
+  "pozostale": 52
  },
- "duplicatesRemoved": 90,
- "total": 251,
+ "duplicatesRemoved": 93,
+ "total": 260,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -687,6 +687,42 @@
   ],
   "makro_pl": [
    {
+    "time": "14:23",
+    "kind": "news",
+    "ticker": null,
+    "title": "Sejm uchwalił ustawę, która ma zwiększyć możliwości produkcji półprzewodników w Polsce",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/sejm-uchwalil-ustawe-ktora-ma-zwiekszyc-mozliwosci-produkcji-polprzewodnikow-w",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "14:22",
+    "kind": "news",
+    "ticker": null,
+    "title": "Sejm uchwalił nowelizację specustawy jądrowej",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/sejm-uchwalil-nowelizacje-specustawy-jadrowej",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "14:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "Sejm za poprawkami Senatu dot. regulacji najmu krótkoterminowego",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/sejm-za-poprawkami-senatu-dot-regulacji-najmu-krotkoterminowego",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "14:17",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BANK POCZTOWY S.A.: Wcześniejszy wykup Obligacji serii C4",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184047",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "13:55",
     "kind": "espi",
     "ticker": null,
@@ -1115,6 +1151,33 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "14:21",
+    "kind": "news",
+    "ticker": null,
+    "title": "Cena maksymalna dla benzyny Pb95 w piątek wyniesie 5,93 zł/l, dla ON 7,45 zł/l",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/cena-maksymalna-dla-benzyny-pb95-w-piatek-wyniesie-593-zll-dla-745-zll",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "14:16",
+    "kind": "news",
+    "ticker": null,
+    "title": "Resorty obrony Polski i Grecji z memorandum ws. wspólnego pozyskiwania satelitów obserwacyjnych",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/resorty-obrony-polski-i-grecji-z-memorandum-ws-wspolnego-pozyskiwania-satelitow",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "14:08",
+    "kind": "news",
+    "ticker": null,
+    "title": "Maciej Gamrot nowym dyrektorem finansowym PolTREG",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/maciej-gamrot-nowym-dyrektorem-finansowym-poltreg",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "14:07",
     "kind": "espi",
     "ticker": null,
@@ -1131,15 +1194,6 @@
     "ticker": null,
     "title": "MRPiPS: PIP sprawdzi, czy sklepy nie zmuszają pracowników handlu do pracy w niedzielę (komunikat)",
     "url": "https://bossa.pl/analizy/komunikaty#message-442112",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "13:54",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Cena maksymalna dla benzyny Pb95 w piątek wyniesie 5,93 zł/l, dla ON 7,45 zł/l",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442106",
     "src": "bossa",
     "flags": []
    },
