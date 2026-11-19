@@ -1,7 +1,135 @@
 {
  "date": "2026-11-19",
- "count": 359,
+ "count": 371,
  "items": [
+  {
+   "id": "strefa-f1a44a6f8c03",
+   "date": "2026-11-19",
+   "time": "17:41",
+   "ts": "2026-11-19T17:41:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wyniki Develii w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/wyniki-develii-w-iii-kw-2026-roku-vs-konsensus-pap-tabela"
+  },
+  {
+   "id": "strefa-27f39499de4c",
+   "date": "2026-11-19",
+   "time": "17:41",
+   "ts": "2026-11-19T17:41:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Sąd Apelacyjny obniżył karę dla Biedronki z 723 mln zł do 170 mln zł; sieć złoży skargę kasacyjną",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/sad-apelacyjny-obnizyl-kare-dla-biedronki-z-723-mln-zl-do-170-mln-zl-siec-zlozy"
+  },
+  {
+   "id": "bossa-pap-442206",
+   "date": "2026-11-19",
+   "time": "17:41",
+   "ts": "2026-11-19T17:41:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Sąd Apelacyjny obniżył karę dla Biedronki z 723 mln zł do 170 mln zł; sieć złoży skargę kasacyjną",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442206"
+  },
+  {
+   "id": "strefa-6570a161bdbb",
+   "date": "2026-11-19",
+   "time": "17:40",
+   "ts": "2026-11-19T17:40:54+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wyniki Benefit Systems w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/wyniki-benefit-systems-w-iii-kw-2026-roku-vs-konsensus-pap-tabela"
+  },
+  {
+   "id": "bossa-pap-442205",
+   "date": "2026-11-19",
+   "time": "17:40",
+   "ts": "2026-11-19T17:40:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "ME: O niezależności energetycznej i bezpieczeństwie energetycznym regionu podczas drugiego dnia 7. Szczytu P-TEC (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442205"
+  },
+  {
+   "id": "strefa-09720963255f",
+   "date": "2026-11-19",
+   "time": "17:39",
+   "ts": "2026-11-19T17:39:54+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "FO Dębica po trzech kwartałach 2026 r.: Stabilna płynność pomimo presji kosztowej",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/fo-debica-po-trzech-kwartalach-2026-r-stabilna-plynnosc-pomimo-presji-kosztowej"
+  },
+  {
+   "id": "bossa-pap-442199",
+   "date": "2026-11-19",
+   "time": "17:36",
+   "ts": "2026-11-19T17:36:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Notowania ciągłe - podsumowanie",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442199"
+  },
+  {
+   "id": "bossa-pap-442200",
+   "date": "2026-11-19",
+   "time": "17:35",
+   "ts": "2026-11-19T17:35:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wyniki Benefit Systems w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442200"
+  },
+  {
+   "id": "bossa-pap-442201",
+   "date": "2026-11-19",
+   "time": "17:33",
+   "ts": "2026-11-19T17:33:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Prezydent dokona zmian w składzie Rady Ministrów w piątek, o godz. 11.00",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442201"
+  },
+  {
+   "id": "bossa-pap-442202",
+   "date": "2026-11-19",
+   "time": "17:32",
+   "ts": "2026-11-19T17:32:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wyniki Develii w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442202"
+  },
+  {
+   "id": "bossa-pap-442203",
+   "date": "2026-11-19",
+   "time": "17:31",
+   "ts": "2026-11-19T17:31:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "WIG20 na zamknięciu wyniósł 4204,7 pkt (-0,51%)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442203"
+  },
   {
    "id": "bossa-espi-184092",
    "date": "2026-11-19",
@@ -25,6 +153,17 @@
    "title": "QNA Technology chce pozyskać dodatkowe finansowanie",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-442198"
+  },
+  {
+   "id": "strefa-c204146beb92",
+   "date": "2026-11-19",
+   "time": "17:27",
+   "ts": "2026-11-19T17:27:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grupa FERRO notuje solidne wyniki dzięki konsekwencji w rozbudowie oferty, dywersyfikacji i doskonałości operacyjnej",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/grupa-ferro-notuje-solidne-wyniki-dzieki-konsekwencji-w-rozbudowie-oferty"
   },
   {
    "id": "bossa-espi-184091",

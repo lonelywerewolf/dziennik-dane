@@ -1,24 +1,44 @@
 {
  "date": "2026-11-19",
  "counts": {
-  "podsumowania": 14,
-  "wyniki": 22,
+  "podsumowania": 16,
+  "wyniki": 24,
   "rekomendacje": 0,
   "korporacyjne": 55,
   "makro_pl": 25,
   "swiat_rynki": 20,
-  "energetyka_surowce": 7,
+  "energetyka_surowce": 8,
   "nieruchomosci": 0,
   "fundusze_drobne": 16,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 67
+  "pozostale": 70
  },
- "duplicatesRemoved": 132,
- "total": 359,
+ "duplicatesRemoved": 136,
+ "total": 371,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "17:36",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Notowania ciągłe - podsumowanie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442199",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "17:31",
+    "kind": "pap",
+    "ticker": null,
+    "title": "WIG20 na zamknięciu wyniósł 4204,7 pkt (-0,51%)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442203",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:48",
     "kind": "skrot",
@@ -147,6 +167,28 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "17:40",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wyniki Benefit Systems w III kw. 2026 roku vs. konsensus PAP (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/wyniki-benefit-systems-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "17:27",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa FERRO notuje solidne wyniki dzięki konsekwencji w rozbudowie oferty, dywersyfikacji i doskonałości operacyjnej",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/grupa-ferro-notuje-solidne-wyniki-dzieki-konsekwencji-w-rozbudowie-oferty",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "16:20",
     "kind": "pap",
@@ -1366,6 +1408,15 @@
   ],
   "energetyka_surowce": [
    {
+    "time": "17:40",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ME: O niezależności energetycznej i bezpieczeństwie energetycznym regionu podczas drugiego dnia 7. Szczytu P-TEC (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442205",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "17:26",
     "kind": "espi",
     "ticker": null,
@@ -1589,6 +1640,33 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:41",
+    "kind": "news",
+    "ticker": null,
+    "title": "Sąd Apelacyjny obniżył karę dla Biedronki z 723 mln zł do 170 mln zł; sieć złoży skargę kasacyjną",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/sad-apelacyjny-obnizyl-kare-dla-biedronki-z-723-mln-zl-do-170-mln-zl-siec-zlozy",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "17:39",
+    "kind": "news",
+    "ticker": null,
+    "title": "FO Dębica po trzech kwartałach 2026 r.: Stabilna płynność pomimo presji kosztowej",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/fo-debica-po-trzech-kwartalach-2026-r-stabilna-plynnosc-pomimo-presji-kosztowej",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "17:33",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Prezydent dokona zmian w składzie Rady Ministrów w piątek, o godz. 11.00",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442201",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:28",
     "kind": "pap",
