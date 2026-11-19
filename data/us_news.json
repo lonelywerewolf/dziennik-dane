@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "id": "ceb4c6738d0d",
+   "ticker": "ASML",
+   "time": "2026-11-20T00:34+01:00",
+   "title": "Stock Indices Plunge Amid Broad Market Weakness",
+   "url": "https://www.nasdaq.com/articles/stock-indices-plunge-amid-broad-market-weakness",
+   "src": "nasdaq",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -2.02% on Thursday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -2.19%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.21%.  December E-mini S&P futures (ESZ26 ) fell -2.03%, and December E-mini Nasdaq futures..."
+  },
+  {
+   "id": "9b736c8480e6",
+   "ticker": "AVGO",
+   "time": "2026-11-19T23:45+01:00",
+   "title": "This Beaten-Down Semiconductor Stock Could Soar in 2027",
+   "url": "https://www.nasdaq.com/articles/beaten-down-semiconductor-stock-could-soar-2027",
+   "src": "nasdaq",
+   "summary": "Key PointsBroadcom designs some of the custom AI chips behind Alphabet, Meta, and Anthropic&rsquo;s build-outs."
+  },
+  {
    "id": "70bc74e172e4",
    "ticker": "NVDA",
    "time": "2026-11-19T23:20+01:00",
@@ -15571,5 +15589,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-20T00:00:27+01:00"
+ "updatedAt": "2026-11-20T00:50:26+01:00"
 }
