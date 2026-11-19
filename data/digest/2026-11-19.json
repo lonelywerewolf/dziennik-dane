@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 20
+  "pozostale": 21
  },
  "duplicatesRemoved": 53,
- "total": 119,
+ "total": 120,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -480,6 +480,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:56",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MZ: Eksperci: Bezpiecznej alternatywy dla papierosów nie ma (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442014",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:46",
     "kind": "espi",
