@@ -2,11 +2,11 @@
  "date": "2026-11-19",
  "counts": {
   "podsumowania": 5,
-  "wyniki": 13,
+  "wyniki": 14,
   "rekomendacje": 0,
   "korporacyjne": 6,
   "makro_pl": 4,
-  "swiat_rynki": 5,
+  "swiat_rynki": 6,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 13
  },
- "duplicatesRemoved": 42,
- "total": 89,
+ "duplicatesRemoved": 44,
+ "total": 93,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -66,6 +66,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "08:27",
+    "kind": "news",
+    "ticker": null,
+    "title": "Historyczny rekord IPO Anthropic na Wall Street. Twórca Claude pobił wynik SpaceX Elona Muska",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/historyczny-rekord-ipo-anthropic-na-wall-street-tworca-claude-pobil-wynik",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "08:20",
     "kind": "news",
@@ -302,6 +313,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "08:38",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Zapasy gazu w magazynach UE wynoszą równo 70 proc., w Polsce to 95,5 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441996",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:21",
     "kind": "news",

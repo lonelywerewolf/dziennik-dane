@@ -1,7 +1,54 @@
 {
  "date": "2026-11-19",
- "count": 89,
+ "count": 93,
  "items": [
+  {
+   "id": "bossa-espi-183990",
+   "date": "2026-11-19",
+   "time": "08:39",
+   "ts": "2026-11-19T08:39:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Dr. Miele Cosmed Group S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-183990"
+  },
+  {
+   "id": "bossa-pap-441996",
+   "date": "2026-11-19",
+   "time": "08:38",
+   "ts": "2026-11-19T08:38:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zapasy gazu w magazynach UE wynoszą równo 70 proc., w Polsce to 95,5 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441996"
+  },
+  {
+   "id": "bossa-espi-183989",
+   "date": "2026-11-19",
+   "time": "08:33",
+   "ts": "2026-11-19T08:33:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ENEA WYTWARZANIE SP. Z.O.O.",
+   "title": "POWIADOMIENIE O TRANSAKCJI W TRYBIE ART. 19 MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-183989"
+  },
+  {
+   "id": "strefa-02081669e9e8",
+   "date": "2026-11-19",
+   "time": "08:27",
+   "ts": "2026-11-19T08:27:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Historyczny rekord IPO Anthropic na Wall Street. Twórca Claude pobił wynik SpaceX Elona Muska",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/historyczny-rekord-ipo-anthropic-na-wall-street-tworca-claude-pobil-wynik"
+  },
   {
    "id": "bossa-pap-441993",
    "date": "2026-11-19",
