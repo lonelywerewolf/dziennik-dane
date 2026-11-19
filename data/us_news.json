@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "a4cbcc35f940",
+   "ticker": "AVGO",
+   "time": "2026-11-19T21:01+01:00",
+   "title": "Why Broadcom Stock Took a Wild Ride on Thursday",
+   "url": "https://www.nasdaq.com/articles/why-broadcom-stock-took-wild-ride-thursday",
+   "src": "nasdaq",
+   "summary": "Key PointsBroadcom had ties to Anthropic's high-profile IPO."
+  },
+  {
    "id": "508d461388a2",
    "ticker": "NVDA",
    "time": "2026-11-19T20:17+01:00",
@@ -15535,5 +15544,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-19T21:15:26+01:00"
+ "updatedAt": "2026-11-19T21:26:26+01:00"
 }

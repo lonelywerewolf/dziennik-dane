@@ -5,7 +5,7 @@
   "wyniki": 29,
   "rekomendacje": 0,
   "korporacyjne": 67,
-  "makro_pl": 25,
+  "makro_pl": 26,
   "swiat_rynki": 23,
   "energetyka_surowce": 11,
   "nieruchomosci": 0,
@@ -15,7 +15,7 @@
   "pozostale": 86
  },
  "duplicatesRemoved": 171,
- "total": 446,
+ "total": 447,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1179,6 +1179,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "21:17",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MRiT: Inwestycje mieszkaniowe z rządowym wsparciem w całej Polsce. Konsekwentna polityka mieszkaniowa rządu (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442264",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:40",
     "kind": "news",
