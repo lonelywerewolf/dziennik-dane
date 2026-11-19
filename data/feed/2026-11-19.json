@@ -1,7 +1,42 @@
 {
  "date": "2026-11-19",
- "count": 289,
+ "count": 293,
  "items": [
+  {
+   "id": "bossa-espi-184062",
+   "date": "2026-11-19",
+   "time": "15:28",
+   "ts": "2026-11-19T15:28:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "VOTUM S.A.",
+   "title": "Decyzja Zarządu Votum S.A. o zamiarze wypłaty drugiej zaliczki na poczet dywidendy za 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184062"
+  },
+  {
+   "id": "strefa-2b0701522b48",
+   "date": "2026-11-19",
+   "time": "15:27",
+   "ts": "2026-11-19T15:27:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "TSUE odchodzi od automatyzmu \"małego TSUE\" z '19 i pełnego zwrotu kosztów w przypadku przedterminowej spłaty - ZBP",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/tsue-odchodzi-od-automatyzmu-malego-tsue-z-19-i-pelnego-zwrotu-kosztow-w"
+  },
+  {
+   "id": "bossa-espi-184061",
+   "date": "2026-11-19",
+   "time": "15:23",
+   "ts": "2026-11-19T15:23:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF WIG20TR PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 234 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184061"
+  },
   {
    "id": "bossa-pap-442146",
    "date": "2026-11-19",
@@ -145,6 +180,17 @@
    "title": "W październiku RPP ponownie odrzuciła wniosek J. Tyrowicz o podwyżkę stóp o 100 pb.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-442135"
+  },
+  {
+   "id": "strefa-2f5eefe696c0",
+   "date": "2026-11-19",
+   "time": "14:48",
+   "ts": "2026-11-19T14:48:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "OFE wartości jednostek rozrachunkowych z 2026.11.18",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/ofe-wartosci-jednostek-rozrachunkowych-z-20261118"
   },
   {
    "id": "bossa-espi-184054",
