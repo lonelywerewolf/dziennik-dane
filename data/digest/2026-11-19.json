@@ -1,7 +1,7 @@
 {
  "date": "2026-11-19",
  "counts": {
-  "podsumowania": 17,
+  "podsumowania": 18,
   "wyniki": 29,
   "rekomendacje": 0,
   "korporacyjne": 67,
@@ -14,11 +14,20 @@
   "obserwowane": 0,
   "pozostale": 87
  },
- "duplicatesRemoved": 171,
- "total": 448,
+ "duplicatesRemoved": 172,
+ "total": 450,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "21:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Na Wall Street mocne spadki w dniu historycznego debiutu Anthropic",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/dzien-na-rynkach-na-wall-street-mocne-spadki-w-dniu-historycznego-debiutu",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "18:07",
     "kind": "news",
