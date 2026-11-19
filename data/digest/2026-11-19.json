@@ -7,15 +7,15 @@
   "korporacyjne": 6,
   "makro_pl": 6,
   "swiat_rynki": 8,
-  "energetyka_surowce": 2,
+  "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
   "pozostale": 21
  },
- "duplicatesRemoved": 53,
- "total": 121,
+ "duplicatesRemoved": 54,
+ "total": 123,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -465,6 +465,15 @@
    }
   ],
   "energetyka_surowce": [
+   {
+    "time": "09:38",
+    "kind": "news",
+    "ticker": null,
+    "title": "Orlen i amerykański fundusz Carlyle podpisały podczas P-TEC 2026 memorandum o współpracy w dziedzinie energii i inwestycji",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/orlen-i-amerykanski-fundusz-carlyle-podpisaly-podczas-p-tec-2026-memorandum-o",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:10",
     "kind": "pap",
