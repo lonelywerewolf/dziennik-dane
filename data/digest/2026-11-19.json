@@ -2,7 +2,7 @@
  "date": "2026-11-19",
  "counts": {
   "podsumowania": 4,
-  "wyniki": 4,
+  "wyniki": 6,
   "rekomendacje": 0,
   "korporacyjne": 3,
   "makro_pl": 1,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 6
  },
- "duplicatesRemoved": 18,
- "total": 37,
+ "duplicatesRemoved": 20,
+ "total": 41,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -57,6 +57,24 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "06:47",
+    "kind": "news",
+    "ticker": null,
+    "title": "Neuca miała w III kw. 128,6 mln zł EBITDA, powyżej konsensusu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/neuca-miala-w-iii-kw-1286-mln-zl-ebitda-powyzej-konsensusu",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "06:36",
+    "kind": "news",
+    "ticker": null,
+    "title": "Agora miała w III kw. miała 0,4 mln zł straty netto j.d. i 82,3 mln zł zysku EBITDA",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/agora-miala-w-iii-kw-miala-04-mln-zl-straty-netto-jd-i-823-mln-zl-zysku-ebitda",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "06:08",
     "kind": "news",

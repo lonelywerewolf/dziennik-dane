@@ -1,7 +1,42 @@
 {
  "date": "2026-11-19",
- "count": 37,
+ "count": 41,
  "items": [
+  {
+   "id": "bossa-pap-441965",
+   "date": "2026-11-19",
+   "time": "06:48",
+   "ts": "2026-11-19T06:48:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Neuca miała w III kw. 128,6 mln zł EBITDA, powyżej konsensusu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441965"
+  },
+  {
+   "id": "strefa-4984b4d896d1",
+   "date": "2026-11-19",
+   "time": "06:47",
+   "ts": "2026-11-19T06:47:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Neuca miała w III kw. 128,6 mln zł EBITDA, powyżej konsensusu",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/neuca-miala-w-iii-kw-1286-mln-zl-ebitda-powyzej-konsensusu"
+  },
+  {
+   "id": "bossa-pap-441964",
+   "date": "2026-11-19",
+   "time": "06:46",
+   "ts": "2026-11-19T06:46:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Agora miała w III kw. miała 0,4 mln zł straty netto j.d. i 82,3 mln zł zysku EBITDA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441964"
+  },
   {
    "id": "bossa-espi-178092",
    "date": "2026-11-19",
@@ -13,6 +48,17 @@
    "title": "Informacja o transakcjach wykonywanych przez osoby pełniące obowiązki zarządcze w trybie art. 19 Rozporządzenia MAR",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-178092"
+  },
+  {
+   "id": "strefa-bc182b33565c",
+   "date": "2026-11-19",
+   "time": "06:36",
+   "ts": "2026-11-19T06:36:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Agora miała w III kw. miała 0,4 mln zł straty netto j.d. i 82,3 mln zł zysku EBITDA",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/agora-miala-w-iii-kw-miala-04-mln-zl-straty-netto-jd-i-823-mln-zl-zysku-ebitda"
   },
   {
    "id": "strefa-ac7dcabea097",
