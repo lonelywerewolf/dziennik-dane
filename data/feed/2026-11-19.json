@@ -1,7 +1,43 @@
 {
  "date": "2026-11-19",
- "count": 433,
+ "count": 436,
  "items": [
+  {
+   "id": "bossa-pap-442255",
+   "date": "2026-11-19",
+   "time": "19:26",
+   "ts": "2026-11-19T19:26:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MEDCAMP SA (30/2026) Powołanie osoby zarządzającej lub nadzorującej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442255"
+  },
+  {
+   "id": "bossa-espi-184120",
+   "date": "2026-11-19",
+   "time": "19:24",
+   "ts": "2026-11-19T19:24:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "QUBICGAMES S.A.",
+   "title": "Powiadomienie o transakcjach na akcjach Spółki w trybie art. 19 ust. 1 Rozporządzenia MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184120"
+  },
+  {
+   "id": "bossa-espi-184119",
+   "date": "2026-11-19",
+   "time": "19:23",
+   "ts": "2026-11-19T19:23:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "P.A. NOVA S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184119"
+  },
   {
    "id": "bossa-pap-442249",
    "date": "2026-11-19",
