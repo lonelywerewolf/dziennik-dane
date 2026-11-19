@@ -1,7 +1,31 @@
 {
  "date": "2026-11-19",
- "count": 280,
+ "count": 282,
  "items": [
+  {
+   "id": "bossa-espi-184057",
+   "date": "2026-11-19",
+   "time": "15:08",
+   "ts": "2026-11-19T15:08:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BANK GOSPODARSTWA KRAJOWEGO",
+   "title": "Zakończenie subskrypcji obligacji serii 36 o wartości nominalnej 750.000.000 EUR na rzecz Krajowego Funduszu Drogowego, emitowanych w ramach programu MTN",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184057"
+  },
+  {
+   "id": "bossa-espi-184056",
+   "date": "2026-11-19",
+   "time": "15:08",
+   "ts": "2026-11-19T15:08:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ROCKBRIDGE FIZ MULTI INWESTYCJA",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184056"
+  },
   {
    "id": "bossa-espi-184055",
    "date": "2026-11-19",
