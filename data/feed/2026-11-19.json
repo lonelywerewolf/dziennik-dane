@@ -1,7 +1,125 @@
 {
  "date": "2026-11-19",
- "count": 381,
+ "count": 392,
  "items": [
+  {
+   "id": "bossa-espi-184103",
+   "date": "2026-11-19",
+   "time": "18:04",
+   "ts": "2026-11-19T18:04:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BANK HANDLOWY W WARSZAWIE S.A.",
+   "title": "Treść projektów uchwał, które mają być przedmiotem Nadzwyczajnego Walnego Zgromadzenia Banku Handlowego w Warszawie S.A. zwołanego na dzień 18 grudnia 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184103"
+  },
+  {
+   "id": "bossa-espi-184102",
+   "date": "2026-11-19",
+   "time": "18:04",
+   "ts": "2026-11-19T18:04:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ZUE S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184102"
+  },
+  {
+   "id": "bossa-espi-184101",
+   "date": "2026-11-19",
+   "time": "18:03",
+   "ts": "2026-11-19T18:03:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "POLICE",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184101"
+  },
+  {
+   "id": "bossa-espi-184100",
+   "date": "2026-11-19",
+   "time": "18:03",
+   "ts": "2026-11-19T18:03:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ATREM S.A.",
+   "title": "QS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184100"
+  },
+  {
+   "id": "bossa-espi-184099",
+   "date": "2026-11-19",
+   "time": "18:02",
+   "ts": "2026-11-19T18:02:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PUŁAWY",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184099"
+  },
+  {
+   "id": "bossa-espi-184098",
+   "date": "2026-11-19",
+   "time": "18:00",
+   "ts": "2026-11-19T18:00:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "GRUPA AZOTY SA",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184098"
+  },
+  {
+   "id": "bossa-espi-184097",
+   "date": "2026-11-19",
+   "time": "17:59",
+   "ts": "2026-11-19T17:59:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "RAFAMET",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184097"
+  },
+  {
+   "id": "bossa-pap-442215",
+   "date": "2026-11-19",
+   "time": "17:58",
+   "ts": "2026-11-19T17:58:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Akcje Anthropic rosną o 34 proc. po IPO; spółka debiutuje na Nasdaq po cenie 111,50 USD za akcję",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442215"
+  },
+  {
+   "id": "strefa-f69b39279cf1",
+   "date": "2026-11-19",
+   "time": "17:55",
+   "ts": "2026-11-19T17:55:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Mało prawdopodobne, aby Rosja była gotowa do rozmów ws. pokoju przed końcem zimy - premier",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/malo-prawdopodobne-aby-rosja-byla-gotowa-do-rozmow-ws-pokoju-przed-koncem-zimy"
+  },
+  {
+   "id": "strefa-470ec8149988",
+   "date": "2026-11-19",
+   "time": "17:55",
+   "ts": "2026-11-19T17:55:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Zysk netto j.d. Develii w III kw. '26 wyniósł 70,1 mln zł, powyżej konsensusu",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/zysk-netto-jd-develii-w-iii-kw-26-wyniosl-701-mln-zl-powyzej-konsensusu"
+  },
   {
    "id": "bossa-espi-184096",
    "date": "2026-11-19",
@@ -13,6 +131,17 @@
    "title": "Zawarcie umowy o wyłącznej dystrybucji urządzeń Pregnabit PRO na rynku polskim",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-184096"
+  },
+  {
+   "id": "strefa-4a0ab8dde44f",
+   "date": "2026-11-19",
+   "time": "17:51",
+   "ts": "2026-11-19T17:51:18+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wyniki Ferro w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/wyniki-ferro-w-iii-kw-2026-roku-vs-konsensus-pap-tabela"
   },
   {
    "id": "bossa-espi-184095",

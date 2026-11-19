@@ -4,7 +4,7 @@
   "podsumowania": 16,
   "wyniki": 25,
   "rekomendacje": 0,
-  "korporacyjne": 58,
+  "korporacyjne": 60,
   "makro_pl": 25,
   "swiat_rynki": 20,
   "energetyka_surowce": 8,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 74
  },
- "duplicatesRemoved": 138,
- "total": 381,
+ "duplicatesRemoved": 147,
+ "total": 392,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -168,12 +168,12 @@
   ],
   "wyniki": [
    {
-    "time": "17:44",
-    "kind": "pap",
+    "time": "17:55",
+    "kind": "news",
     "ticker": null,
     "title": "Zysk netto j.d. Develii w III kw. '26 wyniósł 70,1 mln zł, powyżej konsensusu",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442211",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/zysk-netto-jd-develii-w-iii-kw-26-wyniosl-701-mln-zl-powyzej-konsensusu",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -424,6 +424,24 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "18:04",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BANK HANDLOWY W WARSZAWIE S.A.: Treść projektów uchwał, które mają być przedmiotem Nadzwyczajnego Walnego Zgromadzenia Banku Handlowego w Warszawie S.A. zwołanego na dzień 18 grudnia 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184103",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:58",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Akcje Anthropic rosną o 34 proc. po IPO; spółka debiutuje na Nasdaq po cenie 111,50 USD za akcję",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442215",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:52",
     "kind": "espi",
@@ -1681,21 +1699,21 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "17:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "Mało prawdopodobne, aby Rosja była gotowa do rozmów ws. pokoju przed końcem zimy - premier",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/malo-prawdopodobne-aby-rosja-byla-gotowa-do-rozmow-ws-pokoju-przed-koncem-zimy",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "17:50",
     "kind": "news",
     "ticker": null,
     "title": "Captor Therapeutics publikuje sprawozdanie za trzy kwartały 2026 roku",
     "url": "https://strefainwestorow.pl/wiadomosci/20261119/captor-therapeutics-publikuje-sprawozdanie-za-trzy-kwartaly-2026-roku",
     "src": "strefainwestorow",
-    "flags": []
-   },
-   {
-    "time": "17:48",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Mało prawdopodobne, aby Rosja była gotowa do rozmów ws. pokoju przed końcem zimy - premier",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442210",
-    "src": "bossa",
     "flags": []
    },
    {
