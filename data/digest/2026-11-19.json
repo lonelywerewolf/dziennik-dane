@@ -2,7 +2,7 @@
  "date": "2026-11-19",
  "counts": {
   "podsumowania": 17,
-  "wyniki": 26,
+  "wyniki": 27,
   "rekomendacje": 0,
   "korporacyjne": 65,
   "makro_pl": 25,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 78
  },
- "duplicatesRemoved": 159,
- "total": 415,
+ "duplicatesRemoved": 162,
+ "total": 419,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -176,6 +176,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "18:23",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa Azoty miała w III kw. stratę EBITDA na poziomie 25 mln zł, zgodnie z szacunkami",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/grupa-azoty-miala-w-iii-kw-strate-ebitda-na-poziomie-25-mln-zl-zgodnie-z",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:55",
     "kind": "news",

@@ -1,7 +1,54 @@
 {
  "date": "2026-11-19",
- "count": 415,
+ "count": 419,
  "items": [
+  {
+   "id": "bossa-espi-184110",
+   "date": "2026-11-19",
+   "time": "18:35",
+   "ts": "2026-11-19T18:35:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "COMPERIA.PL S.A.",
+   "title": "QS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184110"
+  },
+  {
+   "id": "bossa-espi-184109",
+   "date": "2026-11-19",
+   "time": "18:30",
+   "ts": "2026-11-19T18:30:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "GRUPA VIRTUS S.A.",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184109"
+  },
+  {
+   "id": "bossa-pap-442238",
+   "date": "2026-11-19",
+   "time": "18:29",
+   "ts": "2026-11-19T18:29:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Grupa Azoty miała w III kw. stratę EBITDA na poziomie 25 mln zł, zgodnie z szacunkami",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442238"
+  },
+  {
+   "id": "strefa-cb5a2f6a8b18",
+   "date": "2026-11-19",
+   "time": "18:23",
+   "ts": "2026-11-19T18:23:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grupa Azoty miała w III kw. stratę EBITDA na poziomie 25 mln zł, zgodnie z szacunkami",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/grupa-azoty-miala-w-iii-kw-strate-ebitda-na-poziomie-25-mln-zl-zgodnie-z"
+  },
   {
    "id": "bossa-pap-442237",
    "date": "2026-11-19",
