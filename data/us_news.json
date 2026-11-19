@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "id": "ef731899e35b",
+   "ticker": "NVDA",
+   "time": "2026-11-19T16:46+01:00",
+   "title": "QQQ, XVAD: Big ETF Inflows",
+   "url": "https://www.nasdaq.com/articles/qqq-xvad-big-etf-inflows",
+   "src": "nasdaq",
+   "summary": "Comparing units outstanding versus one week ago at the coverage universe of ETFs at ETF Channel, the biggest inflow was seen in the Invesco QQQ Trust, which added 20,050,000 units, or a 3.0% increase week over week.  Among the largest underlying components of QQQ, in morning tra"
+  },
+  {
+   "id": "eeb7351bf320",
+   "ticker": "NVDA",
+   "time": "2026-11-19T16:29+01:00",
+   "title": "Dow Movers: KO, HONIV",
+   "url": "https://www.nasdaq.com/articles/dow-movers-ko-honiv",
+   "src": "nasdaq",
+   "summary": "In early trading on Thursday, shares of Honeywell International topped the list of the day's best performing Dow Jones Industrial Average components, trading up 7.5%.  Year to date, Honeywell International registers a 42.2% gain.\n\nAnd the worst performing Dow component thus far"
+  },
+  {
    "id": "75841089f2fb",
    "ticker": "ASML",
    "time": "2026-11-19T16:27+01:00",
@@ -17,6 +35,15 @@
    "url": "https://www.nasdaq.com/articles/prediction-stock-market-crash-coming-heres-what-investors-should-do-based-100-years",
    "src": "nasdaq",
    "summary": "Key PointsThe stock market is currently trading near record highs amid widespread optimism around generative AI."
+  },
+  {
+   "id": "5c17ecb950f3",
+   "ticker": "NVDA",
+   "time": "2026-11-19T14:32+01:00",
+   "title": "ETFs to Buy as NVIDIA Tops Q3 Earnings, Hikes Outlook Amid CEO Fallout",
+   "url": "https://www.nasdaq.com/articles/etfs-buy-nvidia-tops-q3-earnings-hikes-outlook-amid-ceo-fallout",
+   "src": "nasdaq",
+   "summary": "NVIDIA's strong Q3 results and higher revenue outlook contrast with credit risks, making NVDA-heavy ETFs an option for investors seeking AI exposure."
   },
   {
    "id": "79df1ece447e",
@@ -15355,5 +15382,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-19T16:48:57+01:00"
+ "updatedAt": "2026-11-19T16:59:57+01:00"
 }
