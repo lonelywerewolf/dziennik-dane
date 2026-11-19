@@ -5,17 +5,17 @@
   "wyniki": 21,
   "rekomendacje": 0,
   "korporacyjne": 40,
-  "makro_pl": 22,
-  "swiat_rynki": 16,
+  "makro_pl": 23,
+  "swiat_rynki": 17,
   "energetyka_surowce": 6,
   "nieruchomosci": 0,
   "fundusze_drobne": 15,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 55
+  "pozostale": 56
  },
- "duplicatesRemoved": 106,
- "total": 293,
+ "duplicatesRemoved": 108,
+ "total": 298,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -761,6 +761,15 @@
   ],
   "makro_pl": [
    {
+    "time": "15:36",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Rząd traktuje wyzwania dotyczące finansów publicznych bardzo poważnie - Domański",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442152",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "15:08",
     "kind": "espi",
     "ticker": null,
@@ -960,6 +969,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "15:27",
+    "kind": "news",
+    "ticker": null,
+    "title": "Po otwarciu sesji DJI rośnie o 0,43 proc., a S&P500 zyskuje 1,06 proc.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/po-otwarciu-sesji-dji-rosnie-o-043-proc-sp500-zyskuje-106-proc",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "14:35",
     "kind": "pap",
@@ -1314,6 +1332,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "15:31",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Liczba nowych rejestracji osobowych aut elektrycznych w X spadła o 28,4 proc. rdr - PZPM",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442148",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:27",
     "kind": "news",

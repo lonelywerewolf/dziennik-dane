@@ -1,7 +1,55 @@
 {
  "date": "2026-11-19",
- "count": 293,
+ "count": 298,
  "items": [
+  {
+   "id": "bossa-pap-442152",
+   "date": "2026-11-19",
+   "time": "15:36",
+   "ts": "2026-11-19T15:36:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Rząd traktuje wyzwania dotyczące finansów publicznych bardzo poważnie - Domański",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442152"
+  },
+  {
+   "id": "bossa-pap-442151",
+   "date": "2026-11-19",
+   "time": "15:35",
+   "ts": "2026-11-19T15:35:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Po otwarciu sesji DJI rośnie o 0,43 proc., a S&P500 zyskuje 1,06 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442151"
+  },
+  {
+   "id": "bossa-pap-442148",
+   "date": "2026-11-19",
+   "time": "15:31",
+   "ts": "2026-11-19T15:31:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Liczba nowych rejestracji osobowych aut elektrycznych w X spadła o 28,4 proc. rdr - PZPM",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442148"
+  },
+  {
+   "id": "bossa-espi-184063",
+   "date": "2026-11-19",
+   "time": "15:31",
+   "ts": "2026-11-19T15:31:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "REINO CAPITAL SA",
+   "title": "Podsumowanie subskrypcji prywatnej akcji Spółki serii O",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184063"
+  },
   {
    "id": "bossa-espi-184062",
    "date": "2026-11-19",
@@ -13,6 +61,17 @@
    "title": "Decyzja Zarządu Votum S.A. o zamiarze wypłaty drugiej zaliczki na poczet dywidendy za 2026 r.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-184062"
+  },
+  {
+   "id": "strefa-fbf14065fd58",
+   "date": "2026-11-19",
+   "time": "15:27",
+   "ts": "2026-11-19T15:27:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Po otwarciu sesji DJI rośnie o 0,43 proc., a S&P500 zyskuje 1,06 proc.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/po-otwarciu-sesji-dji-rosnie-o-043-proc-sp500-zyskuje-106-proc"
   },
   {
    "id": "strefa-2b0701522b48",
