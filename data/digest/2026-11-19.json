@@ -12,10 +12,10 @@
   "fundusze_drobne": 16,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 86
+  "pozostale": 87
  },
  "duplicatesRemoved": 171,
- "total": 447,
+ "total": 448,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1886,6 +1886,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "21:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "Bogdanka ma ogromny potencjał - Balczun",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/bogdanka-ma-ogromny-potencjal-balczun",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "20:09",
     "kind": "espi",
