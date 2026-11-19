@@ -2,20 +2,20 @@
  "date": "2026-11-19",
  "counts": {
   "podsumowania": 10,
-  "wyniki": 17,
+  "wyniki": 18,
   "rekomendacje": 0,
-  "korporacyjne": 22,
+  "korporacyjne": 25,
   "makro_pl": 13,
-  "swiat_rynki": 12,
+  "swiat_rynki": 13,
   "energetyka_surowce": 6,
   "nieruchomosci": 0,
   "fundusze_drobne": 7,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 40
+  "pozostale": 43
  },
- "duplicatesRemoved": 75,
- "total": 203,
+ "duplicatesRemoved": 79,
+ "total": 215,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -111,6 +111,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "13:23",
+    "kind": "espi",
+    "ticker": null,
+    "title": "JSW S.A.: Szacunkowe skonsolidowane wyniki finansowe Grupy Kapitałowej JSW za III kwartał 2026 roku i 9 miesięcy 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184032",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "11:23",
     "kind": "news",
@@ -288,6 +299,39 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "13:22",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GKS GIEKSA KATOWICE SA (20/2026) Powołanie osoby zarządzającej lub nadzorującej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442085",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "13:16",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GKS GIEKSA KATOWICE SA (19/2026) Odwołanie lub rezygnacja osoby zarządzającej lub nadzorującej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442081",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "13:09",
+    "kind": "news",
+    "ticker": null,
+    "title": "Scope Fluidics podpisał umowę dot. dystrybucji systemu BACTEROMIC na polskim rynku",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/scope-fluidics-podpisal-umowe-dot-dystrybucji-systemu-bacteromic-na-polskim",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "13:09",
     "kind": "espi",
@@ -638,6 +682,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "13:24",
+    "kind": "news",
+    "ticker": null,
+    "title": "KGHM szuka projektów M&A za granicą; rozbudowa Sierra Gorda głównie z finansowania zewnętrznego",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/kghm-szuka-projektow-ma-za-granica-rozbudowa-sierra-gorda-glownie-z",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "11:58",
     "kind": "pap",
     "ticker": null,
@@ -884,11 +937,38 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "13:27",
+    "kind": "news",
+    "ticker": null,
+    "title": "Farm Innovations S.A. pozyskała 15 mln zł. Kapitał przyspieszy rozwój biznesu i nowych produktów",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/farm-innovations-sa-pozyskala-15-mln-zl-kapital-przyspieszy-rozwoj-biznesu-i",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "13:21",
+    "kind": "espi",
+    "ticker": null,
+    "title": "FARM INNOVATIONS S.A.: Zakończenie subskrypcji akcji serii D i pozyskanie 15 mln zł na rozwój",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184029",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "13:18",
     "kind": "espi",
     "ticker": null,
     "title": "UNIDEVELOPMENT S.A.: Zmiany osobowe w organach Unidevelopment S.A.",
     "url": "https://bossa.pl/analizy/komunikaty#message-184027",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:14",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Zysk na akcję Walmart w III kw. wyniósł 65 centów, powyżej oczekiwań",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442083",
     "src": "bossa",
     "flags": []
    },
