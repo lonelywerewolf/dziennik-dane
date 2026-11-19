@@ -2,7 +2,7 @@
  "date": "2026-11-19",
  "counts": {
   "podsumowania": 0,
-  "wyniki": 0,
+  "wyniki": 2,
   "rekomendacje": 0,
   "korporacyjne": 0,
   "makro_pl": 0,
@@ -14,12 +14,33 @@
   "obserwowane": 0,
   "pozostale": 2
  },
- "duplicatesRemoved": 2,
- "total": 4,
+ "duplicatesRemoved": 3,
+ "total": 7,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [],
-  "wyniki": [],
+  "wyniki": [
+   {
+    "time": "05:48",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zysk netto j.d. Dom Development w III kw. '26 wyniósł 174,8 mln zł, zgodnie z oczekiwaniami",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/zysk-netto-jd-dom-development-w-iii-kw-26-wyniosl-1748-mln-zl-zgodnie-z",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "05:45",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wyniki Dom Development w III kw. 2026 roku vs. konsensus PAP (tabela)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441940",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   }
+  ],
   "rekomendacje": [],
   "korporacyjne": [],
   "makro_pl": [],
