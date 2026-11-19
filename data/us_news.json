@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "70bc74e172e4",
+   "ticker": "NVDA",
+   "time": "2026-11-19T23:20+01:00",
+   "title": "Stock Market Today, Nov. 19: Nvidia Slides as Investors Weigh CEO Transition Fallout Despite Strong Q3 Results",
+   "url": "https://www.nasdaq.com/articles/stock-market-today-nov-19-nvidia-slides-investors-weigh-ceo-transition-fallout-despite",
+   "src": "nasdaq",
+   "summary": "Nvidia (NASDAQ:NVDA), a leader in AI accelerators, chips, and data-center networking hardware, closed at $145.98, down 3.30%. Strong third-quarter results, a raised outlook, and investor excitement over Anthropic's IPO supported shares early, but leadership and AI-spending concer"
+  },
+  {
    "id": "c35020e13dfb",
    "ticker": "NVDA",
    "time": "2026-11-19T22:35+01:00",
@@ -15562,5 +15571,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-19T23:38:26+01:00"
+ "updatedAt": "2026-11-19T23:49:26+01:00"
 }
