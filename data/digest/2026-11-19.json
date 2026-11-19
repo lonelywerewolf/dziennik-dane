@@ -2,11 +2,11 @@
  "date": "2026-11-19",
  "counts": {
   "podsumowania": 4,
-  "wyniki": 9,
+  "wyniki": 10,
   "rekomendacje": 0,
-  "korporacyjne": 3,
+  "korporacyjne": 4,
   "makro_pl": 4,
-  "swiat_rynki": 1,
+  "swiat_rynki": 4,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 10
  },
- "duplicatesRemoved": 35,
- "total": 67,
+ "duplicatesRemoved": 38,
+ "total": 75,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -57,6 +57,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "08:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zysk netto Mo-Bruku w III kw. '26 wyniósł 49,3 mln zł; powyżej oczekiwań",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/zysk-netto-mo-bruku-w-iii-kw-26-wyniosl-493-mln-zl-powyzej-oczekiwan",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "07:51",
     "kind": "pap",
@@ -150,6 +159,17 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "08:01",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Enea Elektrownia Połaniec Sp. z o.o.: POWIADOMIENIE O TRANSAKCJI W TRYBIE ART. 19 MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-182711",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
     "time": "06:39",
     "kind": "espi",
     "ticker": null,
@@ -221,6 +241,35 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "08:04",
+    "kind": "news",
+    "ticker": null,
+    "title": "Najważniejsze indeksy giełdowe w Azji",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/najwazniejsze-indeksy-gieldowe-w-azji",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "08:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Startup LATO pozyskał 4,7 mln dolarów w rundzie seed",
+    "url": "https://bossa.pl/analizy/komunikaty#message-441983",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "07:41",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny ropy nieznacznie rosną; Donald Trump rozważa nowe ataki USA na Iran",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/ceny-ropy-nieznacznie-rosna-donald-trump-rozwaza-nowe-ataki-usa-na-iran",
+    "src": "strefainwestorow",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "07:04",
     "kind": "news",
