@@ -1,24 +1,33 @@
 {
  "date": "2026-11-19",
  "counts": {
-  "podsumowania": 11,
+  "podsumowania": 12,
   "wyniki": 21,
   "rekomendacje": 0,
-  "korporacyjne": 41,
+  "korporacyjne": 47,
   "makro_pl": 25,
-  "swiat_rynki": 17,
+  "swiat_rynki": 18,
   "energetyka_surowce": 6,
   "nieruchomosci": 0,
-  "fundusze_drobne": 15,
+  "fundusze_drobne": 16,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 56
+  "pozostale": 58
  },
- "duplicatesRemoved": 110,
- "total": 303,
+ "duplicatesRemoved": 112,
+ "total": 316,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "16:14",
+    "kind": "pap",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: Na giełdzie sesja bez wyraźnego kierunku; CD Projekt RED spada o ok. 3 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442166",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:34",
     "kind": "news",
@@ -337,6 +346,64 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "16:13",
+    "kind": "espi",
+    "ticker": null,
+    "title": "VOTUM S.A.: Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia VOTUM S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184067",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:13",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PEKAO BANK HIPOTECZNY: Powiadomienie o transakcji na instrumentach finansowych Pekao Banku Hipotecznego S.A. dokonanych przez Bank Polska Kasa Opieki S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184066",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:11",
+    "kind": "espi",
+    "ticker": null,
+    "title": "AC S.A.: Przekazanie przez firmę audytorską do KNF zawiadomienia o rozwiązaniu umowy o badanie sprawozdania finansowego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184065",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "16:08",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MFiPR: Roczne podsumowanie programu Fundusze Europejskie dla Nowoczesnej Gospodarki (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442159",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "16:07",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BANK PEKAO S.A.: Uchwały Nadzwyczajnego Walnego Zgromadzenia Banku Polska Kasa Opieki Spółka Akcyjna",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184064",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:03",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Akcje Anthropic mają zadebiutować na giełdzie z ok. 20-proc. wzrostem względem ceny z IPO",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442156",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:55",
     "kind": "news",
@@ -999,6 +1066,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "16:06",
+    "kind": "news",
+    "ticker": null,
+    "title": "Euro w EBC: 1,0992 USD i 175,84 JPY",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/euro-w-ebc-10992-usd-i-17584-jpy",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "15:27",
     "kind": "news",
     "ticker": null,
@@ -1213,6 +1289,15 @@
   "nieruchomosci": [],
   "fundusze_drobne": [
    {
+    "time": "16:08",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Nationale-Nederlanden PTE SA informuje",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442160",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "15:17",
     "kind": "pap",
     "ticker": null,
@@ -1361,6 +1446,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "16:09",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MS: Większa ochrona przed deepfake'ami i przemocą w sieci (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442162",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "Atende spodziewa się dobrego IV kwartału i myśli o akwizycjach",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/atende-spodziewa-sie-dobrego-iv-kwartalu-i-mysli-o-akwizycjach",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "15:31",
     "kind": "pap",
