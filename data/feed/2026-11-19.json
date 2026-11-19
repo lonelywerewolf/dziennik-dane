@@ -1,7 +1,19 @@
 {
  "date": "2026-11-19",
- "count": 52,
+ "count": 54,
  "items": [
+  {
+   "id": "bossa-pap-441972",
+   "date": "2026-11-19",
+   "time": "07:14",
+   "ts": "2026-11-19T07:14:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Neuca zdecydowała, że nie utworzy rezerw finansowych związanych z decyzją UOKiK",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441972"
+  },
   {
    "id": "bossa-pap-441971",
    "date": "2026-11-19",
@@ -37,6 +49,17 @@
    "title": "W 2027 r. możliwe odbicie na polskim rynku M&A oraz mocna aktywność inwestorów zagranicznych (wywiad)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-441969"
+  },
+  {
+   "id": "strefa-9abb38cdd905",
+   "date": "2026-11-19",
+   "time": "07:04",
+   "ts": "2026-11-19T07:04:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Neuca zdecydowała, że nie utworzy rezerw finansowych związanych z decyzją UOKiK",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/neuca-zdecydowala-ze-nie-utworzy-rezerw-finansowych-zwiazanych-z-decyzja-uokik"
   },
   {
    "id": "bossa-pap-441968",
