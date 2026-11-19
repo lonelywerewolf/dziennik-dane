@@ -1,7 +1,42 @@
 {
  "date": "2026-11-19",
- "count": 175,
+ "count": 178,
  "items": [
+  {
+   "id": "bossa-espi-6199",
+   "date": "2026-11-19",
+   "time": "12:20",
+   "ts": "2026-11-19T12:20:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF MWIG40TRlv PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 213 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-6199"
+  },
+  {
+   "id": "bossa-espi-184011",
+   "date": "2026-11-19",
+   "time": "12:13",
+   "ts": "2026-11-19T12:13:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF mWIG40TR PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 234 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184011"
+  },
+  {
+   "id": "strefa-7a81467d5e8e",
+   "date": "2026-11-19",
+   "time": "12:07",
+   "ts": "2026-11-19T12:07:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "ORLEN przyspiesza technologiczną transformację. Trzy porozumienia na szczycie P-TEC",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/orlen-przyspiesza-technologiczna-transformacje-trzy-porozumienia-na-szczycie-p"
+  },
   {
    "id": "bossa-pap-442056",
    "date": "2026-11-19",
