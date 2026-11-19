@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 53
  },
- "duplicatesRemoved": 98,
- "total": 275,
+ "duplicatesRemoved": 100,
+ "total": 277,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -349,12 +349,12 @@
     ]
    },
    {
-    "time": "14:38",
-    "kind": "pap",
+    "time": "14:34",
+    "kind": "news",
     "ticker": null,
     "title": "KGHM wydłużył termin umowy odnawialnego kredytu konsorcjalnego o wartości 1,5 mld USD o rok",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442131",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/kghm-wydluzyl-termin-umowy-odnawialnego-kredytu-konsorcjalnego-o-wartosci-15",
+    "src": "strefainwestorow",
     "flags": [
      "umowa"
     ]
