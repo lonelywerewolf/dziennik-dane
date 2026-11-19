@@ -1,7 +1,54 @@
 {
  "date": "2026-11-19",
- "count": 21,
+ "count": 25,
  "items": [
+  {
+   "id": "bossa-pap-441954",
+   "date": "2026-11-19",
+   "time": "06:23",
+   "ts": "2026-11-19T06:23:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "NWZ Medicalgorithmics zdecydowało o emisji akcji serii R",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441954"
+  },
+  {
+   "id": "bossa-espi-178090",
+   "date": "2026-11-19",
+   "time": "06:23",
+   "ts": "2026-11-19T06:23:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MFO S.A.",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-178090"
+  },
+  {
+   "id": "bossa-espi-178089",
+   "date": "2026-11-19",
+   "time": "06:21",
+   "ts": "2026-11-19T06:21:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MANGATA HOLDING SA",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-178089"
+  },
+  {
+   "id": "strefa-fdd8369ffe26",
+   "date": "2026-11-19",
+   "time": "06:16",
+   "ts": "2026-11-19T06:16:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "NWZ Medicalgorithmics zdecydowało o emisji akcji serii R",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/nwz-medicalgorithmics-zdecydowalo-o-emisji-akcji-serii-r"
+  },
   {
    "id": "bossa-pap-441952",
    "date": "2026-11-19",
