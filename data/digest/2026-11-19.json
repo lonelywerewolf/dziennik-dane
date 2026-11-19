@@ -1,12 +1,12 @@
 {
  "date": "2026-11-19",
  "counts": {
-  "podsumowania": 4,
-  "wyniki": 10,
+  "podsumowania": 5,
+  "wyniki": 13,
   "rekomendacje": 0,
-  "korporacyjne": 5,
+  "korporacyjne": 6,
   "makro_pl": 4,
-  "swiat_rynki": 4,
+  "swiat_rynki": 5,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
@@ -14,11 +14,20 @@
   "obserwowane": 0,
   "pozostale": 13
  },
- "duplicatesRemoved": 41,
- "total": 82,
+ "duplicatesRemoved": 42,
+ "total": 89,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "08:22",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: W Azji na giełdach indeksy się wahają",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/dzien-na-rynkach-w-azji-na-gieldach-indeksy-sie-wahaja",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "07:01",
     "kind": "news",
@@ -57,6 +66,38 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "08:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wyniki Grupy Mo-BRUK po trzech kwartałach 2026 r. Wzrost EBITDA o 63 proc. r/r, do 145,5 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/wyniki-grupy-mo-bruk-po-trzech-kwartalach-2026-r-wzrost-ebitda-o-63-proc-rr-do",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "08:19",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ryvu Therapeutics publikuje wyniki finansowe za III kwartał 2026 r.oraz podsumowuje najważniejsze zdarzenia korporacyjne",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/ryvu-therapeutics-publikuje-wyniki-finansowe-za-iii-kwartal-2026-roraz",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki",
+     "umowa"
+    ]
+   },
+   {
+    "time": "08:11",
+    "kind": "news",
+    "ticker": null,
+    "title": "23,9 mld zł przychodów po III kwartale - Grupa PZU zwiększa skalę działalności i rośnie w kluczowych obszarach biznesu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/239-mld-zl-przychodow-po-iii-kwartale-grupa-pzu-zwieksza-skale-dzialalnosci-i",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:02",
     "kind": "news",
@@ -159,6 +200,17 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "08:26",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MULTIQURE S.A.: Wybór Andelyn Biosciences, Inc. jako wytwórcy wektora AAV5 dla programu terapii genowej choroby Huntingtona oraz zawarcie umowy na pierwszy etap prac.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-183988",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
     "time": "08:12",
     "kind": "espi",
     "ticker": null,
@@ -250,6 +302,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "08:21",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa Dom Development po trzech kwartałach 2026 roku: rekordowa sprzedaż i 433 mln zł zysku netto",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/grupa-dom-development-po-trzech-kwartalach-2026-roku-rekordowa-sprzedaz-i-433",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:04",
     "kind": "news",

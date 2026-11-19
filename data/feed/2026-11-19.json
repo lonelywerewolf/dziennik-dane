@@ -1,7 +1,75 @@
 {
  "date": "2026-11-19",
- "count": 82,
+ "count": 89,
  "items": [
+  {
+   "id": "bossa-pap-441993",
+   "date": "2026-11-19",
+   "time": "08:26",
+   "ts": "2026-11-19T08:26:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: W Azji na giełdach indeksy się wahają",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-441993"
+  },
+  {
+   "id": "bossa-espi-183988",
+   "date": "2026-11-19",
+   "time": "08:26",
+   "ts": "2026-11-19T08:26:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MULTIQURE S.A.",
+   "title": "Wybór Andelyn Biosciences, Inc. jako wytwórcy wektora AAV5 dla programu terapii genowej choroby Huntingtona oraz zawarcie umowy na pierwszy etap prac.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-183988"
+  },
+  {
+   "id": "strefa-79acfb9afeba",
+   "date": "2026-11-19",
+   "time": "08:22",
+   "ts": "2026-11-19T08:22:19+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: W Azji na giełdach indeksy się wahają",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/dzien-na-rynkach-w-azji-na-gieldach-indeksy-sie-wahaja"
+  },
+  {
+   "id": "strefa-5d08e09df9ff",
+   "date": "2026-11-19",
+   "time": "08:21",
+   "ts": "2026-11-19T08:21:50+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grupa Dom Development po trzech kwartałach 2026 roku: rekordowa sprzedaż i 433 mln zł zysku netto",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/grupa-dom-development-po-trzech-kwartalach-2026-roku-rekordowa-sprzedaz-i-433"
+  },
+  {
+   "id": "strefa-0ad05e17499d",
+   "date": "2026-11-19",
+   "time": "08:20",
+   "ts": "2026-11-19T08:20:32+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wyniki Grupy Mo-BRUK po trzech kwartałach 2026 r. Wzrost EBITDA o 63 proc. r/r, do 145,5 mln zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/wyniki-grupy-mo-bruk-po-trzech-kwartalach-2026-r-wzrost-ebitda-o-63-proc-rr-do"
+  },
+  {
+   "id": "strefa-e49bc45584f2",
+   "date": "2026-11-19",
+   "time": "08:19",
+   "ts": "2026-11-19T08:19:21+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ryvu Therapeutics publikuje wyniki finansowe za III kwartał 2026 r.oraz podsumowuje najważniejsze zdarzenia korporacyjne",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/ryvu-therapeutics-publikuje-wyniki-finansowe-za-iii-kwartal-2026-roraz"
+  },
   {
    "id": "bossa-pap-441992",
    "date": "2026-11-19",
@@ -25,6 +93,17 @@
    "title": "Wniosek o rozszerzenie porządku obrad NWZA zwołanego na dzień 9.12.2026 r.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-183987"
+  },
+  {
+   "id": "strefa-69f12a995bd4",
+   "date": "2026-11-19",
+   "time": "08:11",
+   "ts": "2026-11-19T08:11:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "23,9 mld zł przychodów po III kwartale - Grupa PZU zwiększa skalę działalności i rośnie w kluczowych obszarach biznesu",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/239-mld-zl-przychodow-po-iii-kwartale-grupa-pzu-zwieksza-skale-dzialalnosci-i"
   },
   {
    "id": "strefa-cd5847c85711",
