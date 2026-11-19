@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 14
  },
- "duplicatesRemoved": 46,
- "total": 99,
+ "duplicatesRemoved": 48,
+ "total": 101,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -75,6 +75,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "08:49",
+    "kind": "news",
+    "ticker": null,
+    "title": "Medicalgorithmics spodziewa się wzrostu przychodów; poprawa w IV kw., ale skokowy wzrost w '27 (wywiad)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/medicalgorithmics-spodziewa-sie-wzrostu-przychodow-poprawa-w-iv-kw-ale-skokowy",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:44",
     "kind": "pap",
@@ -136,15 +145,6 @@
     "title": "Zysk netto Mo-Bruku w III kw. '26 wyniósł 49,3 mln zł; powyżej oczekiwań",
     "url": "https://strefainwestorow.pl/wiadomosci/20261119/zysk-netto-mo-bruku-w-iii-kw-26-wyniosl-493-mln-zl-powyzej-oczekiwan",
     "src": "strefainwestorow",
-    "flags": []
-   },
-   {
-    "time": "07:51",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Medicalgorithmics spodziewa się wzrostu przychodów; poprawa w IV kw., ale skokowy wzrost w '27 (wywiad)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-441980",
-    "src": "bossa",
     "flags": []
    },
    {
