@@ -2,7 +2,7 @@
  "date": "2026-11-19",
  "counts": {
   "podsumowania": 4,
-  "wyniki": 3,
+  "wyniki": 4,
   "rekomendacje": 0,
   "korporacyjne": 1,
   "makro_pl": 0,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 4
  },
- "duplicatesRemoved": 5,
- "total": 17,
+ "duplicatesRemoved": 8,
+ "total": 21,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -57,6 +57,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "06:08",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zysk netto grupy PZU w III kw. '26 wyniósł 1,443 mld zł, zgodnie z oczekiwaniami",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/zysk-netto-grupy-pzu-w-iii-kw-26-wyniosl-1443-mld-zl-zgodnie-z-oczekiwaniami",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "05:52",
     "kind": "news",
