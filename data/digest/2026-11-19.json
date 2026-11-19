@@ -4,7 +4,7 @@
   "podsumowania": 9,
   "wyniki": 16,
   "rekomendacje": 0,
-  "korporacyjne": 9,
+  "korporacyjne": 11,
   "makro_pl": 6,
   "swiat_rynki": 10,
   "energetyka_surowce": 3,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 1,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 23
+  "pozostale": 25
  },
  "duplicatesRemoved": 54,
- "total": 132,
+ "total": 136,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -268,6 +268,27 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "11:00",
+    "kind": "espi",
+    "ticker": null,
+    "title": "REINO CAPITAL SA: Podjęcie uchwały Zarządu w sprawie podwyższenia kapitału zakładowego Spółki w drodze emisji akcji zwykłych na okaziciela serii O w ramach kapitału docelowego oraz zmiany §8 ust. 1 i ust. 2 Statutu Spółki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184002",
+    "src": "bossa",
+    "flags": [
+     "emisja",
+     "zarząd"
+    ]
+   },
+   {
+    "time": "10:58",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PKP CARGO S.A. W RESTRUKTURYZACJI: Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia PKP CARGO S.A. w restrukturyzacji wraz z projektami uchwał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184001",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:52",
     "kind": "espi",
@@ -569,6 +590,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:02",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MC: ePUAP ponownie działa w pełnym zakresie (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442029",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:56",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ATLANTAPL: Załączniki do projektów uchwał ZWZ Atlanta Poland SA zwołanego na 16 grudnia 2026.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-184000",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:37",
     "kind": "pap",

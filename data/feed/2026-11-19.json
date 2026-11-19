@@ -1,7 +1,55 @@
 {
  "date": "2026-11-19",
- "count": 132,
+ "count": 136,
  "items": [
+  {
+   "id": "bossa-pap-442029",
+   "date": "2026-11-19",
+   "time": "11:02",
+   "ts": "2026-11-19T11:02:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MC: ePUAP ponownie działa w pełnym zakresie (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442029"
+  },
+  {
+   "id": "bossa-espi-184002",
+   "date": "2026-11-19",
+   "time": "11:00",
+   "ts": "2026-11-19T11:00:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "REINO CAPITAL SA",
+   "title": "Podjęcie uchwały Zarządu w sprawie podwyższenia kapitału zakładowego Spółki w drodze emisji akcji zwykłych na okaziciela serii O w ramach kapitału docelowego oraz zmiany §8 ust. 1 i ust. 2 Statutu Spółki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184002"
+  },
+  {
+   "id": "bossa-espi-184001",
+   "date": "2026-11-19",
+   "time": "10:58",
+   "ts": "2026-11-19T10:58:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PKP CARGO S.A. W RESTRUKTURYZACJI",
+   "title": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia PKP CARGO S.A. w restrukturyzacji wraz z projektami uchwał",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184001"
+  },
+  {
+   "id": "bossa-espi-184000",
+   "date": "2026-11-19",
+   "time": "10:56",
+   "ts": "2026-11-19T10:56:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ATLANTAPL",
+   "title": "Załączniki do projektów uchwał ZWZ Atlanta Poland SA zwołanego na 16 grudnia 2026.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184000"
+  },
   {
    "id": "bossa-espi-183999",
    "date": "2026-11-19",
