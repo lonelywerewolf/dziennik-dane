@@ -5,17 +5,17 @@
   "wyniki": 17,
   "rekomendacje": 0,
   "korporacyjne": 17,
-  "makro_pl": 7,
-  "swiat_rynki": 10,
+  "makro_pl": 8,
+  "swiat_rynki": 11,
   "energetyka_surowce": 5,
   "nieruchomosci": 0,
-  "fundusze_drobne": 3,
+  "fundusze_drobne": 4,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 28
+  "pozostale": 32
  },
  "duplicatesRemoved": 60,
- "total": 158,
+ "total": 165,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -466,6 +466,15 @@
   ],
   "makro_pl": [
    {
+    "time": "11:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MS: Kolejne rozstrzygnięcia sądów korzystne dla Ministerstwa Sprawiedliwości w sprawach AWS (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442046",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "11:15",
     "kind": "pap",
     "ticker": null,
@@ -530,6 +539,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "11:28",
+    "kind": "news",
+    "ticker": null,
+    "title": "di volio rozwija bezpośrednią sprzedaż w Czechach i wprowadza zakupy towarów na własny stan magazynowy",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/di-volio-rozwija-bezposrednia-sprzedaz-w-czechach-i-wprowadza-zakupy-towarow-na",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "10:53",
     "kind": "espi",
@@ -673,6 +691,15 @@
   "nieruchomosci": [],
   "fundusze_drobne": [
    {
+    "time": "11:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Finalna cena akcji Anthropic powyżej widełek potwierdza silny popyt na inwestycje w AI - ESALIENS TFI (opinia)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442047",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "11:13",
     "kind": "news",
     "ticker": null,
@@ -713,6 +740,44 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:37",
+    "kind": "pap",
+    "ticker": null,
+    "title": "SGE podpisała porozumienie dot. możliwości wdrożenia technologii BWRX-300 w Bułgarii",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442049",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:37",
+    "kind": "pap",
+    "ticker": null,
+    "title": "LUKARDI SA (19/2026) Informacje o walnym zgromadzeniu - odwołanie lub nieodbycie WZ",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442048",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "11:33",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa REINO przejmuje spółkę Loredo RES",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/grupa-reino-przejmuje-spolke-loredo-res",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "11:29",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PEJ i Westinghouse-Bechtel podpisały list intencyjny ws. zamówień kluczowych elementów dla EJ",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442045",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:28",
     "kind": "news",
