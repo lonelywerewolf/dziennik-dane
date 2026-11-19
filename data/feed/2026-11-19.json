@@ -1,7 +1,31 @@
 {
  "date": "2026-11-19",
- "count": 165,
+ "count": 168,
  "items": [
+  {
+   "id": "bossa-pap-442051",
+   "date": "2026-11-19",
+   "time": "11:49",
+   "ts": "2026-11-19T11:49:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Tabela kursów średnich NBP nr 225/A/NBP/2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442051"
+  },
+  {
+   "id": "bossa-pap-442050",
+   "date": "2026-11-19",
+   "time": "11:40",
+   "ts": "2026-11-19T11:40:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "LUKARDI SA (20/2026) Informacje o walnym zgromadzeniu - zwołanie WZ z projektami uchwał, zmiany w porządku obrad WZ",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442050"
+  },
   {
    "id": "bossa-pap-442049",
    "date": "2026-11-19",
@@ -25,6 +49,17 @@
    "title": "LUKARDI SA (19/2026) Informacje o walnym zgromadzeniu - odwołanie lub nieodbycie WZ",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-442048"
+  },
+  {
+   "id": "strefa-9fa0d7161b7b",
+   "date": "2026-11-19",
+   "time": "11:33",
+   "ts": "2026-11-19T11:33:42+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Tabela kursów średnich NBP nr 225/A/NBP/2026",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/tabela-kursow-srednich-nbp-nr-225anbp2026"
   },
   {
    "id": "strefa-609d798c9210",
