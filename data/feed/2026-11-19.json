@@ -1,7 +1,43 @@
 {
  "date": "2026-11-19",
- "count": 101,
+ "count": 104,
  "items": [
+  {
+   "id": "bossa-espi-183993",
+   "date": "2026-11-19",
+   "time": "09:11",
+   "ts": "2026-11-19T09:11:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "GAMING FACTORY S.A.",
+   "title": "Ustalenie daty premiery gry Pizza Slice w wersji na konsole PlayStation oraz Xbox",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-183993"
+  },
+  {
+   "id": "bossa-pap-442003",
+   "date": "2026-11-19",
+   "time": "09:10",
+   "ts": "2026-11-19T09:10:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PZU spada o 3 proc., a KGHM rośnie o 2,3 proc.; WIG20 lekko zwyżkuje",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442003"
+  },
+  {
+   "id": "bossa-espi-183992",
+   "date": "2026-11-19",
+   "time": "09:08",
+   "ts": "2026-11-19T09:08:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "UniCredit",
+   "title": "Statement of Andrea Orcel, Group Chief Executive Officer",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-183992"
+  },
   {
    "id": "bossa-espi-183991",
    "date": "2026-11-19",
