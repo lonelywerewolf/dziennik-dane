@@ -5,7 +5,7 @@
   "wyniki": 8,
   "rekomendacje": 0,
   "korporacyjne": 3,
-  "makro_pl": 2,
+  "makro_pl": 3,
   "swiat_rynki": 1,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 10
  },
- "duplicatesRemoved": 31,
- "total": 60,
+ "duplicatesRemoved": 33,
+ "total": 63,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -174,6 +174,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "07:35",
+    "kind": "news",
+    "ticker": null,
+    "title": "Obecnie są mniejsze nadzieje na zysk NBP za '26 niż kilka tygodni temu - Litiwniuk, NBP",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/obecnie-sa-mniejsze-nadzieje-na-zysk-nbp-za-26-niz-kilka-tygodni-temu-litiwniuk",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "07:30",
     "kind": "pap",
