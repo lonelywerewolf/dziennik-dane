@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "9e27e1f99372",
+   "ticker": "NVDA",
+   "time": "2026-11-19T17:57+01:00",
+   "title": "Nvidia Stock Could Soar 90% After Jensen Huang's Exit, According to One Wall Street Firm. Is It Time to Buy?",
+   "url": "https://www.nasdaq.com/articles/nvidia-stock-could-soar-90-after-jensen-huangs-exit-according-one-wall-street-firm-it-time",
+   "src": "nasdaq",
+   "summary": "Key PointsWedbush raised its Nvidia price target to $293 from $275, nearly double the stock's current price."
+  },
+  {
    "id": "5ad4fb74d64f",
    "ticker": "MRVL",
    "time": "2026-11-19T17:45+01:00",
@@ -80,6 +89,15 @@
    "url": "https://www.nasdaq.com/articles/prediction-stock-market-crash-coming-heres-what-investors-should-do-based-100-years",
    "src": "nasdaq",
    "summary": "Key PointsThe stock market is currently trading near record highs amid widespread optimism around generative AI."
+  },
+  {
+   "id": "0ab21bd713dd",
+   "ticker": "NVDA",
+   "time": "2026-11-19T15:36+01:00",
+   "title": "Zacks Earnings Trends Highlights: Nvidia, Micron and Alphabet",
+   "url": "https://www.nasdaq.com/articles/zacks-earnings-trends-highlights-nvidia-micron-and-alphabet",
+   "src": "nasdaq",
+   "summary": "Nvidia, Micron and Alphabet shape Tech's 47.7% Q3 earnings growth, while softer Q4 estimate revisions raise questions about the 2027 outlook."
   },
   {
    "id": "6764db3402d0",
@@ -15436,5 +15454,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-19T18:05:56+01:00"
+ "updatedAt": "2026-11-19T18:16:56+01:00"
 }

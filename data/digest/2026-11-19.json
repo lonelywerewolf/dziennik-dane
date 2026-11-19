@@ -1,10 +1,10 @@
 {
  "date": "2026-11-19",
  "counts": {
-  "podsumowania": 16,
-  "wyniki": 25,
+  "podsumowania": 17,
+  "wyniki": 26,
   "rekomendacje": 0,
-  "korporacyjne": 60,
+  "korporacyjne": 61,
   "makro_pl": 25,
   "swiat_rynki": 20,
   "energetyka_surowce": 8,
@@ -12,13 +12,22 @@
   "fundusze_drobne": 16,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 74
+  "pozostale": 77
  },
- "duplicatesRemoved": 147,
- "total": 392,
+ "duplicatesRemoved": 154,
+ "total": 405,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "18:07",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Indeksy w Europie zniżkowały; IPO Anthropic w centrum uwagi",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/dzien-na-rynkach-indeksy-w-europie-znizkowaly-ipo-anthropic-w-centrum-uwagi",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:36",
     "kind": "pap",
@@ -167,6 +176,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "17:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zysk netto j.d. Ferro w III kw. '26 wyniósł 16,4 mln zł, wobec 18,5 mln zł konsensusu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/zysk-netto-jd-ferro-w-iii-kw-26-wyniosl-164-mln-zl-wobec-185-mln-zl-konsensusu",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:55",
     "kind": "news",
@@ -424,6 +442,15 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "18:08",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Transakcje pakietowe",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442226",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:04",
     "kind": "espi",
@@ -1698,6 +1725,33 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "18:11",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Benefit Systems zakłada w '27 m.in. wzrost netto o ok. 150 tys. kart w Polsce",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442230",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "18:06",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zamknięcia na giełdach w Europie (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/zamkniecia-na-gieldach-w-europie-tabela",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "18:06",
+    "kind": "news",
+    "ticker": null,
+    "title": "Benefit Systems miał w III kw. 284,4 mln zł zysku netto j.d. wobec konsensusu 221 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/benefit-systems-mial-w-iii-kw-2844-mln-zl-zysku-netto-jd-wobec-konsensusu-221",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:55",
     "kind": "news",

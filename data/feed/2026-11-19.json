@@ -1,7 +1,136 @@
 {
  "date": "2026-11-19",
- "count": 392,
+ "count": 405,
  "items": [
+  {
+   "id": "bossa-pap-442230",
+   "date": "2026-11-19",
+   "time": "18:11",
+   "ts": "2026-11-19T18:11:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Benefit Systems zakłada w '27 m.in. wzrost netto o ok. 150 tys. kart w Polsce",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442230"
+  },
+  {
+   "id": "bossa-espi-184106",
+   "date": "2026-11-19",
+   "time": "18:11",
+   "ts": "2026-11-19T18:11:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ASTARTA HOLDING",
+   "title": "QS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184106"
+  },
+  {
+   "id": "bossa-espi-184105",
+   "date": "2026-11-19",
+   "time": "18:11",
+   "ts": "2026-11-19T18:11:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MENNICA",
+   "title": "Zawiadomienie o transakcjach w trybie art. 19 MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184105"
+  },
+  {
+   "id": "bossa-pap-442227",
+   "date": "2026-11-19",
+   "time": "18:08",
+   "ts": "2026-11-19T18:08:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Indeksy w Europie zniżkowały; IPO Anthropic w centrum uwagi",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442227"
+  },
+  {
+   "id": "bossa-pap-442226",
+   "date": "2026-11-19",
+   "time": "18:08",
+   "ts": "2026-11-19T18:08:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Transakcje pakietowe",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442226"
+  },
+  {
+   "id": "bossa-espi-184104",
+   "date": "2026-11-19",
+   "time": "18:08",
+   "ts": "2026-11-19T18:08:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "SELVITA S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-184104"
+  },
+  {
+   "id": "strefa-7641ce98944d",
+   "date": "2026-11-19",
+   "time": "18:07",
+   "ts": "2026-11-19T18:07:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Indeksy w Europie zniżkowały; IPO Anthropic w centrum uwagi",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/dzien-na-rynkach-indeksy-w-europie-znizkowaly-ipo-anthropic-w-centrum-uwagi"
+  },
+  {
+   "id": "strefa-f1a9bae43241",
+   "date": "2026-11-19",
+   "time": "18:06",
+   "ts": "2026-11-19T18:06:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Zamknięcia na giełdach w Europie (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/zamkniecia-na-gieldach-w-europie-tabela"
+  },
+  {
+   "id": "strefa-5955e0249e1c",
+   "date": "2026-11-19",
+   "time": "18:06",
+   "ts": "2026-11-19T18:06:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Benefit Systems miał w III kw. 284,4 mln zł zysku netto j.d. wobec konsensusu 221 mln zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/benefit-systems-mial-w-iii-kw-2844-mln-zl-zysku-netto-jd-wobec-konsensusu-221"
+  },
+  {
+   "id": "bossa-pap-442216",
+   "date": "2026-11-19",
+   "time": "18:06",
+   "ts": "2026-11-19T18:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zamknięcia na giełdach w Europie (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442216"
+  },
+  {
+   "id": "bossa-pap-442217",
+   "date": "2026-11-19",
+   "time": "18:05",
+   "ts": "2026-11-19T18:05:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zysk netto j.d. Ferro w III kw. '26 wyniósł 16,4 mln zł, wobec 18,5 mln zł konsensusu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442217"
+  },
   {
    "id": "bossa-espi-184103",
    "date": "2026-11-19",
@@ -63,6 +192,18 @@
    "url": "https://bossa.pl/analizy/komunikaty#message-184099"
   },
   {
+   "id": "bossa-pap-442223",
+   "date": "2026-11-19",
+   "time": "18:00",
+   "ts": "2026-11-19T18:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Benefit Systems miał w III kw. 284,4 mln zł zysku netto j.d. wobec konsensusu 221 mln zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442223"
+  },
+  {
    "id": "bossa-espi-184098",
    "date": "2026-11-19",
    "time": "18:00",
@@ -108,6 +249,17 @@
    "title": "Mało prawdopodobne, aby Rosja była gotowa do rozmów ws. pokoju przed końcem zimy - premier",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261119/malo-prawdopodobne-aby-rosja-byla-gotowa-do-rozmow-ws-pokoju-przed-koncem-zimy"
+  },
+  {
+   "id": "strefa-9f90f360ff24",
+   "date": "2026-11-19",
+   "time": "17:55",
+   "ts": "2026-11-19T17:55:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Zysk netto j.d. Ferro w III kw. '26 wyniósł 16,4 mln zł, wobec 18,5 mln zł konsensusu",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261119/zysk-netto-jd-ferro-w-iii-kw-26-wyniosl-164-mln-zl-wobec-185-mln-zl-konsensusu"
   },
   {
    "id": "strefa-470ec8149988",
