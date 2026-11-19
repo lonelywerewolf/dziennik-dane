@@ -19,6 +19,15 @@
    "house": "PKO Bank Polski S.A."
   },
   {
+   "date": "2026-11-19",
+   "ticker": "UNT",
+   "company": "UNIMOT S.A.",
+   "file": "20261119_biuro_maklerskie_banku_pekao_unt_pl_aw.pdf",
+   "url": "https://www.gpw.pl/pub/pwpa/20261119_biuro_maklerskie_banku_pekao_unt_pl_aw.pdf",
+   "type": "analiza wyników",
+   "house": "Biuro Maklerskie Banku Pekao S.A."
+  },
+  {
    "date": "2026-11-18",
    "ticker": "OPN",
    "company": "OPONEO.PL S.A.",
@@ -558,5 +567,5 @@
    "house": "Noble Securities S.A."
   }
  ],
- "updatedAt": "2026-11-19T09:13:56+01:00"
+ "updatedAt": "2026-11-19T09:24:56+01:00"
 }

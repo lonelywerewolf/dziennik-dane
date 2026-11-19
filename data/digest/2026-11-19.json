@@ -1,8 +1,8 @@
 {
  "date": "2026-11-19",
  "counts": {
-  "podsumowania": 6,
-  "wyniki": 15,
+  "podsumowania": 8,
+  "wyniki": 16,
   "rekomendacje": 0,
   "korporacyjne": 6,
   "makro_pl": 4,
@@ -12,13 +12,31 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 16
+  "pozostale": 18
  },
- "duplicatesRemoved": 48,
- "total": 104,
+ "duplicatesRemoved": 49,
+ "total": 110,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "09:22",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA FX/FI: Złoty nadal w konsolidacji 4,38–4,42/EUR, a rentowności 10-letnich obligacji ok. 6,30 proc.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/dzien-na-fxfi-zloty-nadal-w-konsolidacji-438-442eur-rentownosci-10-letnich",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "09:16",
+    "kind": "pap",
+    "ticker": null,
+    "title": "WIG20 na otwarciu wyniósł 4238,95 pkt (0,30%)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442006",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:43",
     "kind": "news",
@@ -75,6 +93,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "09:18",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wyniki Cyfrowego Polsatu powyżej konsensusu, największym pozytywnym zaskoczeniem media (opinia)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442007",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "08:49",
     "kind": "news",
@@ -425,6 +454,15 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "09:15",
+    "kind": "espi",
+    "ticker": null,
+    "title": "RYVU THERAPEUTICS S.A.: Dane przedkliniczne dotyczące platformy ONCO Prime zaprezentowane podczas Sympozjum EORTC-NCI-AACR 2026 / Preclinical data on the ONCO Prime platform presented at the 2026 EORTC-NCI-AACR Symposium",
+    "url": "https://bossa.pl/analizy/komunikaty#message-183994",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "09:11",
     "kind": "espi",
     "ticker": null,
@@ -440,6 +478,15 @@
     "title": "UniCredit: Statement of Andrea Orcel, Group Chief Executive Officer",
     "url": "https://bossa.pl/analizy/komunikaty#message-183992",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "09:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Gaming Factory wprowadza Pizza Slice na konsole. Premiera 8 grudnia",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261119/gaming-factory-wprowadza-pizza-slice-na-konsole-premiera-8-grudnia",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
