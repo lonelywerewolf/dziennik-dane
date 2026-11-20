@@ -4,7 +4,7 @@
   "podsumowania": 17,
   "wyniki": 10,
   "rekomendacje": 2,
-  "korporacyjne": 56,
+  "korporacyjne": 57,
   "makro_pl": 29,
   "swiat_rynki": 22,
   "energetyka_surowce": 9,
@@ -15,7 +15,7 @@
   "pozostale": 76
  },
  "duplicatesRemoved": 147,
- "total": 385,
+ "total": 386,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -308,6 +308,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "21:42",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GRUPA AZOTY SA: Uchwała Zarządu w sprawie objęcia akcji w podwyższonym kapitale zakładowym Spółki Zależnej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-240516",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "21:37",
     "kind": "espi",
