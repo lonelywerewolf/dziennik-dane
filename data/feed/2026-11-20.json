@@ -1,7 +1,31 @@
 {
  "date": "2026-11-20",
- "count": 95,
+ "count": 97,
  "items": [
+  {
+   "id": "bossa-pap-442337",
+   "date": "2026-11-20",
+   "time": "09:51",
+   "ts": "2026-11-20T09:51:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "RCB: Zakończył się atak powietrzny na Ukrainę; brak zagrożenia na terenie Polski (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442337"
+  },
+  {
+   "id": "bossa-espi-216836",
+   "date": "2026-11-20",
+   "time": "09:47",
+   "ts": "2026-11-20T09:47:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "COLUMBUS ENERGY S.A.",
+   "title": "Złożenie pozwu o zapłatę przeciwko Wojewódzkiemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej w Poznaniu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216836"
+  },
   {
    "id": "bossa-pap-442335",
    "date": "2026-11-20",

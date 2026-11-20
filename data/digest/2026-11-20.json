@@ -6,16 +6,16 @@
   "rekomendacje": 0,
   "korporacyjne": 5,
   "makro_pl": 6,
-  "swiat_rynki": 5,
+  "swiat_rynki": 6,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 1,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 21
+  "pozostale": 22
  },
  "duplicatesRemoved": 37,
- "total": 95,
+ "total": 97,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -275,6 +275,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "09:47",
+    "kind": "espi",
+    "ticker": null,
+    "title": "COLUMBUS ENERGY S.A.: Złożenie pozwu o zapłatę przeciwko Wojewódzkiemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej w Poznaniu",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216836",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "09:35",
     "kind": "news",
     "ticker": null,
@@ -385,6 +394,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:51",
+    "kind": "pap",
+    "ticker": null,
+    "title": "RCB: Zakończył się atak powietrzny na Ukrainę; brak zagrożenia na terenie Polski (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442337",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:35",
     "kind": "pap",
