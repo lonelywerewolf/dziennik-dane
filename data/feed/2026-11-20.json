@@ -1,7 +1,43 @@
 {
  "date": "2026-11-20",
- "count": 10,
+ "count": 13,
  "items": [
+  {
+   "id": "bossa-pap-442284",
+   "date": "2026-11-20",
+   "time": "06:10",
+   "ts": "2026-11-20T06:10:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wyniki Amiki w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442284"
+  },
+  {
+   "id": "bossa-pap-442283",
+   "date": "2026-11-20",
+   "time": "06:01",
+   "ts": "2026-11-20T06:01:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Przegląd prasy gospodarczej w piątek, 20 listopada",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442283"
+  },
+  {
+   "id": "bossa-espi-213530",
+   "date": "2026-11-20",
+   "time": "06:01",
+   "ts": "2026-11-20T06:01:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "AMICA",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-213530"
+  },
   {
    "id": "bossa-pap-442281",
    "date": "2026-11-20",

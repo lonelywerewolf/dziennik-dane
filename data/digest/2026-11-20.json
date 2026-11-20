@@ -1,8 +1,8 @@
 {
  "date": "2026-11-20",
  "counts": {
-  "podsumowania": 3,
-  "wyniki": 0,
+  "podsumowania": 4,
+  "wyniki": 1,
   "rekomendacje": 0,
   "korporacyjne": 0,
   "makro_pl": 0,
@@ -14,11 +14,20 @@
   "obserwowane": 0,
   "pozostale": 5
  },
- "duplicatesRemoved": 1,
- "total": 10,
+ "duplicatesRemoved": 2,
+ "total": 13,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "06:01",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Przegląd prasy gospodarczej w piątek, 20 listopada",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442283",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "06:00",
     "kind": "pap",
@@ -47,7 +56,19 @@
     "flags": []
    }
   ],
-  "wyniki": [],
+  "wyniki": [
+   {
+    "time": "06:10",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wyniki Amiki w III kw. 2026 roku vs. konsensus PAP (tabela)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442284",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   }
+  ],
   "rekomendacje": [],
   "korporacyjne": [],
   "makro_pl": [],
