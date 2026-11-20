@@ -4,7 +4,7 @@
   "podsumowania": 9,
   "wyniki": 6,
   "rekomendacje": 0,
-  "korporacyjne": 6,
+  "korporacyjne": 7,
   "makro_pl": 10,
   "swiat_rynki": 6,
   "energetyka_surowce": 3,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 1,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 24
+  "pozostale": 26
  },
- "duplicatesRemoved": 39,
- "total": 106,
+ "duplicatesRemoved": 40,
+ "total": 110,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -167,6 +167,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "10:46",
+    "kind": "pap",
+    "ticker": null,
+    "title": "DEFENCE.HUB SA (37/2026) Zawarcie, zmiana treści, wypowiedzenie, rozwiązanie lub wygaśnięcie umowy o wykonywanie zadań Autoryzowanego Doradcy",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442348",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "09:57",
     "kind": "espi",
@@ -442,6 +453,15 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "10:42",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźniki referencyjne - SONIA",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442346",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "10:14",
     "kind": "pap",
     "ticker": null,
@@ -451,6 +471,15 @@
     "flags": [
      "zarząd"
     ]
+   },
+   {
+    "time": "09:57",
+    "kind": "news",
+    "ticker": null,
+    "title": "Benefit Systems planuje w '27 lekki wzrost nakładów inwestycyjnych",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/benefit-systems-planuje-w-27-lekki-wzrost-nakladow-inwestycyjnych",
+    "src": "strefainwestorow",
+    "flags": []
    },
    {
     "time": "09:51",

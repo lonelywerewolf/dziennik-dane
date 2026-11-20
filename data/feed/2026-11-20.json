@@ -1,7 +1,43 @@
 {
  "date": "2026-11-20",
- "count": 106,
+ "count": 110,
  "items": [
+  {
+   "id": "bossa-pap-442348",
+   "date": "2026-11-20",
+   "time": "10:46",
+   "ts": "2026-11-20T10:46:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DEFENCE.HUB SA (37/2026) Zawarcie, zmiana treści, wypowiedzenie, rozwiązanie lub wygaśnięcie umowy o wykonywanie zadań Autoryzowanego Doradcy",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442348"
+  },
+  {
+   "id": "bossa-pap-442347",
+   "date": "2026-11-20",
+   "time": "10:46",
+   "ts": "2026-11-20T10:46:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Benefit Systems planuje w '27 lekki wzrost nakładów inwestycyjnych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442347"
+  },
+  {
+   "id": "bossa-pap-442346",
+   "date": "2026-11-20",
+   "time": "10:42",
+   "ts": "2026-11-20T10:42:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne - SONIA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442346"
+  },
   {
    "id": "bossa-pap-442345",
    "date": "2026-11-20",
@@ -73,6 +109,17 @@
    "title": "Jeśli nie powróci globalny apetyt na ryzyko, EUR/PLN może zakotwiczyć się przy 4,45 - BGK (opinia)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-442340"
+  },
+  {
+   "id": "strefa-9a766733f67c",
+   "date": "2026-11-20",
+   "time": "09:57",
+   "ts": "2026-11-20T09:57:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Benefit Systems planuje w '27 lekki wzrost nakładów inwestycyjnych",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/benefit-systems-planuje-w-27-lekki-wzrost-nakladow-inwestycyjnych"
   },
   {
    "id": "bossa-espi-216837",
