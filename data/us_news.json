@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "id": "2dd896125ac0",
+   "ticker": "NVDA",
+   "time": "2026-11-20T23:00+01:00",
+   "title": "Chartstopper: November 20, 2026",
+   "url": "https://www.nasdaq.com/economic-institute/chartstopper-112026",
+   "src": "nasdaq",
+   "summary": "This week saw the historic Anthropic IPO (✓), mega-cap earnings beats (✓), and positive economic data (✓), so naturally the stock market is [checks notes] down 8% this week. So what gives?"
+  },
+  {
+   "id": "35b0fed0ece6",
+   "ticker": "NVDA",
+   "time": "2026-11-20T22:55+01:00",
+   "title": "Stock Market Today, Nov. 20: Nvidia's $2.5 Trillion Rout Deepens as SEC Accounting Probe Adds to Wall Street's AI Sell-Off",
+   "url": "https://www.nasdaq.com/articles/stock-market-today-nov-20-nvidias-25-trillion-rout-deepens-sec-accounting-probe-adds-wall",
+   "src": "nasdaq",
+   "summary": "Nvidia (NASDAQ:NVDA) plunged 14.01% on Friday, November 20, closing at $125.53 as Wall Street's sell-off intensified. Reports of a Securities and Exchange Commission (SEC) accounting investigation added to mounting concerns surrounding the company's regulatory exposure, while gro"
+  },
+  {
    "id": "0411b9742475",
    "ticker": "MRVL",
    "time": "2026-11-20T22:43+01:00",
@@ -16012,5 +16030,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-20T23:10:54+01:00"
+ "updatedAt": "2026-11-20T23:21:53+01:00"
 }

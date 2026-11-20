@@ -12,10 +12,10 @@
   "fundusze_drobne": 13,
   "twoje_spolki": 3,
   "obserwowane": 0,
-  "pozostale": 79
+  "pozostale": 80
  },
  "duplicatesRemoved": 150,
- "total": 396,
+ "total": 397,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1673,6 +1673,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "23:09",
+    "kind": "pap",
+    "ticker": null,
+    "title": "POLKAP SA (18/2026) Nałożenie na emitenta kary pieniężnej lub innego środka dyscyplinującego przez Organizatora Alternatywnego Systemu lub nałożeniu sankcji administracyjnej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442564",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "23:04",
     "kind": "espi",
