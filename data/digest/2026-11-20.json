@@ -4,7 +4,7 @@
   "podsumowania": 10,
   "wyniki": 8,
   "rekomendacje": 0,
-  "korporacyjne": 9,
+  "korporacyjne": 12,
   "makro_pl": 14,
   "swiat_rynki": 8,
   "energetyka_surowce": 4,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 1,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 32
+  "pozostale": 33
  },
- "duplicatesRemoved": 49,
- "total": 137,
+ "duplicatesRemoved": 50,
+ "total": 142,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -198,6 +198,39 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "12:02",
+    "kind": "pap",
+    "ticker": null,
+    "title": "E-XIM IT SA (9/2026) Powołanie osoby zarządzającej lub nadzorującej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442373",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "12:01",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Gmina Aleksandrów Łódzki: zmiana warunków emisji obligacji seria A 24",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216847",
+    "src": "bossa",
+    "flags": [
+     "emisja"
+    ]
+   },
+   {
+    "time": "11:58",
+    "kind": "pap",
+    "ticker": null,
+    "title": "E-XIM IT SA (8/2026) Odwołanie lub rezygnacja osoby zarządzającej lub nadzorującej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442371",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "11:14",
     "kind": "espi",
@@ -568,6 +601,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:03",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MFiPR: Agnieszka Bartol nową Minister Funduszy i Polityki Regionalnej (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442374",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:25",
     "kind": "pap",
