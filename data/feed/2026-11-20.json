@@ -1,7 +1,19 @@
 {
  "date": "2026-11-20",
- "count": 5,
+ "count": 6,
  "items": [
+  {
+   "id": "bossa-espi-213529",
+   "date": "2026-11-20",
+   "time": "05:43",
+   "ts": "2026-11-20T05:43:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "CDRL S.A.",
+   "title": "QS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-213529"
+  },
   {
    "id": "bossa-espi-213528",
    "date": "2026-11-20",
