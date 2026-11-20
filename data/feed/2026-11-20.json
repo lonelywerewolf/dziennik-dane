@@ -1,7 +1,124 @@
 {
  "date": "2026-11-20",
- "count": 340,
+ "count": 351,
  "items": [
+  {
+   "id": "bossa-pap-442528",
+   "date": "2026-11-20",
+   "time": "18:08",
+   "ts": "2026-11-20T18:08:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "RN Banku Millennium podjęła uchwałę ws. emisji euroobligacji Additional Tier I o wartości do 250 mln euro",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442528"
+  },
+  {
+   "id": "strefa-ea0a0fcd2260",
+   "date": "2026-11-20",
+   "time": "18:07",
+   "ts": "2026-11-20T18:07:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Zamknięcia na giełdach w Europie (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/zamkniecia-na-gieldach-w-europie-tabela"
+  },
+  {
+   "id": "strefa-9c22d28e3c96",
+   "date": "2026-11-20",
+   "time": "18:07",
+   "ts": "2026-11-20T18:07:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie wznowienia obrotu na Głównym Rynku GPW akcjami spółki INVESTMENT FRIENDS CAPITAL SE",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/gpw-w-sprawie-wznowienia-obrotu-na-glownym-rynku-gpw-akcjami-spolki-investment"
+  },
+  {
+   "id": "strefa-504f87db3d05",
+   "date": "2026-11-20",
+   "time": "18:07",
+   "ts": "2026-11-20T18:07:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "RN Banku Millennium podjęła uchwałę ws. emisji euroobligacji Additional Tier I o wartości do 250 mln euro",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/rn-banku-millennium-podjela-uchwale-ws-emisji-euroobligacji-additional-tier-i-o"
+  },
+  {
+   "id": "bossa-pap-442527",
+   "date": "2026-11-20",
+   "time": "18:06",
+   "ts": "2026-11-20T18:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zamknięcia na giełdach w Europie (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442527"
+  },
+  {
+   "id": "bossa-pap-442526",
+   "date": "2026-11-20",
+   "time": "18:06",
+   "ts": "2026-11-20T18:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie wznowienia obrotu na Głównym Rynku GPW akcjami spółki INVESTMENT FRIENDS CAPITAL SE",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442526"
+  },
+  {
+   "id": "bossa-pap-442525",
+   "date": "2026-11-20",
+   "time": "18:06",
+   "ts": "2026-11-20T18:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Indeksy w Europie w dół; największy tygodniowy spadek od kwietnia 2025 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442525"
+  },
+  {
+   "id": "bossa-pap-442520",
+   "date": "2026-11-20",
+   "time": "18:00",
+   "ts": "2026-11-20T18:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MNiSW: Najpopularniejsze uczelnie i kierunki studiów w roku akademickim 2026/2027 (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442520"
+  },
+  {
+   "id": "bossa-espi-216918",
+   "date": "2026-11-20",
+   "time": "17:58",
+   "ts": "2026-11-20T17:58:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "cyber_Folks S.A.",
+   "title": "Powiadomienie o transakcjach w trybie art. 19 MAR",
+   "ticker": "CBF",
+   "url": "https://bossa.pl/analizy/komunikaty#message-216918"
+  },
+  {
+   "id": "bossa-pap-442522",
+   "date": "2026-11-20",
+   "time": "17:56",
+   "ts": "2026-11-20T17:56:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW Benchmark: komunikat - okresowa zmiana portfela indeksu obligacji korporacyjnych i listów zastawnych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442522"
+  },
   {
    "id": "strefa-51191492fe01",
    "date": "2026-11-20",
@@ -23,6 +140,17 @@
    "title": "GPW: komunikat",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261120/gpw-komunikat-0"
+  },
+  {
+   "id": "strefa-06158fecb3d2",
+   "date": "2026-11-20",
+   "time": "17:55",
+   "ts": "2026-11-20T17:55:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Indeksy w Europie w dół; największy tygodniowy spadek od kwietnia 2025 r.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/dzien-na-rynkach-indeksy-w-europie-w-dol-najwiekszy-tygodniowy-spadek-od"
   },
   {
    "id": "bossa-espi-216917",
