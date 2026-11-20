@@ -1,7 +1,55 @@
 {
  "date": "2026-11-20",
- "count": 179,
+ "count": 184,
  "items": [
+  {
+   "id": "bossa-pap-442405",
+   "date": "2026-11-20",
+   "time": "13:04",
+   "ts": "2026-11-20T13:04:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Aplisens ma więcej zamówień i liczy na szybszy wzrost sprzedaży",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442405"
+  },
+  {
+   "id": "bossa-pap-442404",
+   "date": "2026-11-20",
+   "time": "13:04",
+   "ts": "2026-11-20T13:04:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeksy transakcyjne - POLSTR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442404"
+  },
+  {
+   "id": "bossa-pap-442403",
+   "date": "2026-11-20",
+   "time": "13:03",
+   "ts": "2026-11-20T13:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeksy transakcyjne - WIRON",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442403"
+  },
+  {
+   "id": "bossa-espi-216863",
+   "date": "2026-11-20",
+   "time": "13:02",
+   "ts": "2026-11-20T13:02:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Liftero S.A.",
+   "title": "Powiadomienia o transakcji na akcjach Spółki otrzymane w trybie art. 19 MAR.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216863"
+  },
   {
    "id": "bossa-pap-442401",
    "date": "2026-11-20",
@@ -61,6 +109,17 @@
    "title": "Preliminary sales revenue data for October 2026",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-10791"
+  },
+  {
+   "id": "strefa-ffb638c74612",
+   "date": "2026-11-20",
+   "time": "12:46",
+   "ts": "2026-11-20T12:46:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Aplisens ma więcej zamówień i liczy na szybszy wzrost sprzedaży",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/aplisens-ma-wiecej-zamowien-i-liczy-na-szybszy-wzrost-sprzedazy"
   },
   {
    "id": "bossa-pap-442395",

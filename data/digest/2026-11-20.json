@@ -4,7 +4,7 @@
   "podsumowania": 10,
   "wyniki": 9,
   "rekomendacje": 0,
-  "korporacyjne": 16,
+  "korporacyjne": 17,
   "makro_pl": 17,
   "swiat_rynki": 8,
   "energetyka_surowce": 7,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 3,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 40
+  "pozostale": 43
  },
- "duplicatesRemoved": 67,
- "total": 179,
+ "duplicatesRemoved": 68,
+ "total": 184,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -209,6 +209,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "13:02",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Liftero S.A.: Powiadomienia o transakcji na akcjach Spółki otrzymane w trybie art. 19 MAR.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216863",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
    {
     "time": "12:32",
     "kind": "news",
@@ -729,12 +740,39 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "13:04",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeksy transakcyjne - POLSTR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442404",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:03",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeksy transakcyjne - WIRON",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442403",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "12:48",
     "kind": "espi",
     "ticker": null,
     "title": "SOPHARMA AD: Preliminary sales revenue data for October 2026",
     "url": "https://bossa.pl/analizy/komunikaty#message-10791",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:46",
+    "kind": "news",
+    "ticker": null,
+    "title": "Aplisens ma więcej zamówień i liczy na szybszy wzrost sprzedaży",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/aplisens-ma-wiecej-zamowien-i-liczy-na-szybszy-wzrost-sprzedazy",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
