@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "b23c713bc915",
+   "ticker": "NVDA",
+   "time": "2026-11-20T00:43+01:00",
+   "title": "The Semiconductor ETF Is on Track to Beat the S&P 500 for a 4th Straight Year. It Has Never Done That Before.",
+   "url": "https://www.nasdaq.com/articles/semiconductor-etf-track-beat-sp-500-4th-straight-year-it-has-never-done",
+   "src": "nasdaq",
+   "summary": "Key PointsThe VanEck Semiconductor ETF was up around 28% in 2026 as of Nov. 17, while the S&amp;P 500 had climbed about 7%."
+  },
+  {
    "id": "ceb4c6738d0d",
    "ticker": "ASML",
    "time": "2026-11-20T00:34+01:00",
@@ -28,6 +37,24 @@
    "summary": "Nvidia (NASDAQ:NVDA), a leader in AI accelerators, chips, and data-center networking hardware, closed at $145.98, down 3.30%. Strong third-quarter results, a raised outlook, and investor excitement over Anthropic's IPO supported shares early, but leadership and AI-spending concer"
   },
   {
+   "id": "3199e349d6bf",
+   "ticker": "TSM",
+   "time": "2026-11-19T22:50+01:00",
+   "title": "Cracks in the &quot;AI&quot; Cap-Ex Boom Have Emerged",
+   "url": "https://www.nasdaq.com/articles/cracks-ai-cap-ex-boom-have-emerged",
+   "src": "nasdaq",
+   "summary": "As a Share Investor, Should You Worry?"
+  },
+  {
+   "id": "6f5ee4a48248",
+   "ticker": "AVGO",
+   "time": "2026-11-19T22:45+01:00",
+   "title": "Why Broadcom Inc. (AVGO) Dipped More Than Broader Market Today",
+   "url": "https://www.nasdaq.com/articles/why-broadcom-inc-avgo-dipped-more-broader-market-today",
+   "src": "nasdaq",
+   "summary": "In the closing of the recent trading day, Broadcom Inc. (AVGO) stood at $346.52, denoting a -2.13% move from the preceding trading day."
+  },
+  {
    "id": "c35020e13dfb",
    "ticker": "NVDA",
    "time": "2026-11-19T22:35+01:00",
@@ -35,6 +62,15 @@
    "url": "https://www.nasdaq.com/articles/nvidia-stock-once-decade-buying-opportunity-after-its-latest-earnings",
    "src": "nasdaq",
    "summary": "Key PointsNvidia beat estimates once again, and the company&rsquo;s profits are growing faster than revenue."
+  },
+  {
+   "id": "dc03af2fdedb",
+   "ticker": "AVGO",
+   "time": "2026-11-19T22:30+01:00",
+   "title": "Globant (GLOB) Q3 Earnings and Revenues Top Estimates",
+   "url": "https://www.nasdaq.com/articles/globant-glob-q3-earnings-and-revenues-top-estimates",
+   "src": "nasdaq",
+   "summary": "Globant (GLOB) delivered earnings and revenue surprises of +0.68% and +0.01%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?"
   },
   {
    "id": "a4cbcc35f940",
@@ -15589,5 +15625,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-20T00:50:26+01:00"
+ "updatedAt": "2026-11-20T01:40:27+01:00"
 }
