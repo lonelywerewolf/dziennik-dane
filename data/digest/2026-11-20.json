@@ -4,18 +4,18 @@
   "podsumowania": 11,
   "wyniki": 9,
   "rekomendacje": 0,
-  "korporacyjne": 32,
-  "makro_pl": 19,
+  "korporacyjne": 34,
+  "makro_pl": 20,
   "swiat_rynki": 11,
   "energetyka_surowce": 8,
   "nieruchomosci": 1,
-  "fundusze_drobne": 7,
+  "fundusze_drobne": 8,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 54
+  "pozostale": 55
  },
- "duplicatesRemoved": 94,
- "total": 248,
+ "duplicatesRemoved": 95,
+ "total": 254,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -220,6 +220,28 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "15:23",
+    "kind": "pap",
+    "ticker": null,
+    "title": "SZAR SA (18/2026) Wypowiedzenie lub rozwiązanie przez emitenta lub przez firmę audytorską umowy o badanie sprawozdań finansowych lub skonsolidowanych sprawozdań finansowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442457",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "15:19",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Euvic S.A.: Zawiadomienie akcjonariusza o zmianie posiadanego udziału w kapitale zakładowym Emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216889",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "15:09",
     "kind": "espi",
@@ -563,6 +585,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "15:21",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KANCELARIA MEDIUS SA (23/2026) Informacje o walnym zgromadzeniu - zwołanie WZ z projektami uchwał, zmiany w porządku obrad WZ",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442456",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:00",
     "kind": "pap",
@@ -925,6 +956,15 @@
   ],
   "fundusze_drobne": [
    {
+    "time": "15:20",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OFE PZU wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442455",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "15:06",
     "kind": "espi",
     "ticker": null,
@@ -1010,6 +1050,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "15:19",
+    "kind": "espi",
+    "ticker": null,
+    "title": "INTERSPORT S.A.: Materiały na WZ INTERSPORT Polska S.A. zwołane na dzień 4 grudnia 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216890",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:48",
     "kind": "news",

@@ -1,7 +1,79 @@
 {
  "date": "2026-11-20",
- "count": 248,
+ "count": 254,
  "items": [
+  {
+   "id": "bossa-pap-442457",
+   "date": "2026-11-20",
+   "time": "15:23",
+   "ts": "2026-11-20T15:23:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "SZAR SA (18/2026) Wypowiedzenie lub rozwiązanie przez emitenta lub przez firmę audytorską umowy o badanie sprawozdań finansowych lub skonsolidowanych sprawozdań finansowych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442457"
+  },
+  {
+   "id": "bossa-pap-442456",
+   "date": "2026-11-20",
+   "time": "15:21",
+   "ts": "2026-11-20T15:21:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KANCELARIA MEDIUS SA (23/2026) Informacje o walnym zgromadzeniu - zwołanie WZ z projektami uchwał, zmiany w porządku obrad WZ",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442456"
+  },
+  {
+   "id": "bossa-pap-442455",
+   "date": "2026-11-20",
+   "time": "15:20",
+   "ts": "2026-11-20T15:20:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "OFE PZU wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442455"
+  },
+  {
+   "id": "bossa-pap-442453",
+   "date": "2026-11-20",
+   "time": "15:19",
+   "ts": "2026-11-20T15:19:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "VIENNA OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442453"
+  },
+  {
+   "id": "bossa-espi-216890",
+   "date": "2026-11-20",
+   "time": "15:19",
+   "ts": "2026-11-20T15:19:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "INTERSPORT S.A.",
+   "title": "Materiały na WZ INTERSPORT Polska S.A. zwołane na dzień 4 grudnia 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216890"
+  },
+  {
+   "id": "bossa-espi-216889",
+   "date": "2026-11-20",
+   "time": "15:19",
+   "ts": "2026-11-20T15:19:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Euvic S.A.",
+   "title": "Zawiadomienie akcjonariusza o zmianie posiadanego udziału w kapitale zakładowym Emitenta",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216889"
+  },
   {
    "id": "bossa-espi-216888",
    "date": "2026-11-20",
