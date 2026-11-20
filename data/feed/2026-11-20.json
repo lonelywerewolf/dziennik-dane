@@ -1,7 +1,42 @@
 {
  "date": "2026-11-20",
- "count": 73,
+ "count": 77,
  "items": [
+  {
+   "id": "strefa-c674e1459fa9",
+   "date": "2026-11-20",
+   "time": "08:52",
+   "ts": "2026-11-20T08:52:08+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Fabrity szacuje wyniki trzech kwartałów 2026 roku",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/fabrity-szacuje-wyniki-trzech-kwartalow-2026-roku"
+  },
+  {
+   "id": "bossa-pap-442323",
+   "date": "2026-11-20",
+   "time": "08:52",
+   "ts": "2026-11-20T08:52:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "RUCH CHORZÓW SA (14/2026) Raport roczny",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442323"
+  },
+  {
+   "id": "bossa-pap-442322",
+   "date": "2026-11-20",
+   "time": "08:49",
+   "ts": "2026-11-20T08:49:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźnik nastrojów w biznesie Francji w XI: 95 pkt. Konsensus: 96 pkt.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442322"
+  },
   {
    "id": "strefa-c991f18613b3",
    "date": "2026-11-20",
@@ -12,6 +47,17 @@
    "title": "Ponar Wadowice ogłasza zamiar przeprowadzenia IPO (opis)",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261120/ponar-wadowice-oglasza-zamiar-przeprowadzenia-ipo-opis"
+  },
+  {
+   "id": "strefa-3d4defb7a817",
+   "date": "2026-11-20",
+   "time": "08:45",
+   "ts": "2026-11-20T08:45:14+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grupa APLISENS przyspiesza wzrost sprzedaży i poprawia rentowność po trzech kwartałach 2026 roku",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/grupa-aplisens-przyspiesza-wzrost-sprzedazy-i-poprawia-rentownosc-po-trzech"
   },
   {
    "id": "strefa-1298c473f88a",
