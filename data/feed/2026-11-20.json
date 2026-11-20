@@ -1,7 +1,19 @@
 {
  "date": "2026-11-20",
- "count": 384,
+ "count": 385,
  "items": [
+  {
+   "id": "bossa-espi-240021",
+   "date": "2026-11-20",
+   "time": "21:37",
+   "ts": "2026-11-20T21:37:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "POLICE",
+   "title": "Uchwała Zarządu w sprawie podwyższenia kapitału zakładowego.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-240021"
+  },
   {
    "id": "bossa-pap-442554",
    "date": "2026-11-20",
