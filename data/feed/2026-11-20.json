@@ -1,7 +1,65 @@
 {
  "date": "2026-11-20",
- "count": 89,
+ "count": 95,
  "items": [
+  {
+   "id": "bossa-pap-442335",
+   "date": "2026-11-20",
+   "time": "09:38",
+   "ts": "2026-11-20T09:38:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "W listopadzie pogorszenie lub stabilizacja koniunktury w branżach w ujęciu mdm - GUS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442335"
+  },
+  {
+   "id": "strefa-66a3e2c24cfc",
+   "date": "2026-11-20",
+   "time": "09:37",
+   "ts": "2026-11-20T09:37:18+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "W listopadzie pogorszenie lub stabilizacja koniunktury w branżach w ujęciu mdm - GUS",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/w-listopadzie-pogorszenie-lub-stabilizacja-koniunktury-w-branzach-w-ujeciu-mdm"
+  },
+  {
+   "id": "strefa-61e0855a32cc",
+   "date": "2026-11-20",
+   "time": "09:35",
+   "ts": "2026-11-20T09:35:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ceny gazu w Europie znów idą w górę. Prognoza pogody i konflikt w Iranie windują stawki",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/ceny-gazu-w-europie-znow-ida-w-gore-prognoza-pogody-i-konflikt-w-iranie-winduja"
+  },
+  {
+   "id": "bossa-pap-442334",
+   "date": "2026-11-20",
+   "time": "09:35",
+   "ts": "2026-11-20T09:35:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MRiRW: Bałtyk pod lupą – dołącz do obserwacji i pomóż badać nasze morze! (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442334"
+  },
+  {
+   "id": "bossa-pap-442333",
+   "date": "2026-11-20",
+   "time": "09:34",
+   "ts": "2026-11-20T09:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: W Europie na giełdach indeksy spadają",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442333"
+  },
   {
    "id": "bossa-espi-216835",
    "date": "2026-11-20",
@@ -25,6 +83,17 @@
    "title": "Informacja o transakcjach uzyskanych w trybie art. 19 ust. 3 rozporządzenia MAR",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-216834"
+  },
+  {
+   "id": "strefa-29baf059aed6",
+   "date": "2026-11-20",
+   "time": "09:21",
+   "ts": "2026-11-20T09:21:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: W Europie na giełdach indeksy spadają",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/dzien-na-rynkach-w-europie-na-gieldach-indeksy-spadaja"
   },
   {
    "id": "bossa-pap-442330",

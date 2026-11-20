@@ -1,24 +1,33 @@
 {
  "date": "2026-11-20",
  "counts": {
-  "podsumowania": 8,
+  "podsumowania": 9,
   "wyniki": 6,
   "rekomendacje": 0,
   "korporacyjne": 5,
-  "makro_pl": 5,
-  "swiat_rynki": 4,
+  "makro_pl": 6,
+  "swiat_rynki": 5,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 1,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 20
+  "pozostale": 21
  },
- "duplicatesRemoved": 35,
- "total": 89,
+ "duplicatesRemoved": 37,
+ "total": 95,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "09:21",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: W Europie na giełdach indeksy spadają",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/dzien-na-rynkach-w-europie-na-gieldach-indeksy-spadaja",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:16",
     "kind": "pap",
@@ -210,6 +219,15 @@
   ],
   "makro_pl": [
    {
+    "time": "09:37",
+    "kind": "news",
+    "ticker": null,
+    "title": "W listopadzie pogorszenie lub stabilizacja koniunktury w branżach w ujęciu mdm - GUS",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/w-listopadzie-pogorszenie-lub-stabilizacja-koniunktury-w-branzach-w-ujeciu-mdm",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "08:03",
     "kind": "pap",
     "ticker": null,
@@ -256,6 +274,17 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "09:35",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny gazu w Europie znów idą w górę. Prognoza pogody i konflikt w Iranie windują stawki",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/ceny-gazu-w-europie-znow-ida-w-gore-prognoza-pogody-i-konflikt-w-iranie-winduja",
+    "src": "strefainwestorow",
+    "flags": [
+     "prognoza"
+    ]
+   },
    {
     "time": "09:16",
     "kind": "pap",
@@ -356,6 +385,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:35",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MRiRW: Bałtyk pod lupą – dołącz do obserwacji i pomóż badać nasze morze! (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442334",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:00",
     "kind": "news",

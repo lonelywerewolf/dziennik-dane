@@ -49,9 +49,9 @@
    "src": "https://www.nasdaq.com/market-activity/index/sox"
   },
   "^SPX": {
-   "price": 730.25,
-   "chgPct": -0.3,
-   "at": "Nov 18, 2026",
+   "price": 715.84,
+   "chgPct": -1.97,
+   "at": "Nov 19, 2026",
    "src": "https://www.nasdaq.com/market-activity/index/spy"
   },
   "MRVL": {
@@ -61,5 +61,5 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/mrvl"
   }
  },
- "updatedAt": "2026-11-20T08:47:48+01:00"
+ "updatedAt": "2026-11-20T09:43:15+01:00"
 }
