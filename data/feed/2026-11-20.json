@@ -1,7 +1,31 @@
 {
  "date": "2026-11-20",
- "count": 127,
+ "count": 129,
  "items": [
+  {
+   "id": "bossa-espi-216843",
+   "date": "2026-11-20",
+   "time": "11:41",
+   "ts": "2026-11-20T11:41:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF MWIG40TRlv PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 214 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216843"
+  },
+  {
+   "id": "bossa-espi-216842",
+   "date": "2026-11-20",
+   "time": "11:37",
+   "ts": "2026-11-20T11:37:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF mWIG40TR PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 235 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216842"
+  },
   {
    "id": "bossa-espi-216841",
    "date": "2026-11-20",
