@@ -4,7 +4,7 @@
   "podsumowania": 18,
   "wyniki": 10,
   "rekomendacje": 2,
-  "korporacyjne": 59,
+  "korporacyjne": 60,
   "makro_pl": 29,
   "swiat_rynki": 22,
   "energetyka_surowce": 9,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 13,
   "twoje_spolki": 3,
   "obserwowane": 0,
-  "pozostale": 78
+  "pozostale": 79
  },
  "duplicatesRemoved": 150,
- "total": 394,
+ "total": 396,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -319,6 +319,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "23:02",
+    "kind": "pap",
+    "ticker": null,
+    "title": "VRFABRIC SA (11/2026) Podpisanie przez emitenta z firmą audytorską umowy o badanie sprawozdań finansowych lub skonsolidowanych sprawozdań finansowych emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442563",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "22:47",
     "kind": "espi",
@@ -1662,6 +1673,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "23:04",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PLAY2CHILL S.A.: Przekroczenie progu 10% przez Phenomen Games S.A. wraz z Phenomen Games Fund Sp. z o. o.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-250056",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "22:47",
     "kind": "espi",
