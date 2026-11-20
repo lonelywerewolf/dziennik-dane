@@ -1,7 +1,31 @@
 {
  "date": "2026-11-20",
- "count": 386,
+ "count": 389,
  "items": [
+  {
+   "id": "bossa-espi-245511",
+   "date": "2026-11-20",
+   "time": "22:21",
+   "ts": "2026-11-20T22:21:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ROBYG S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-245511"
+  },
+  {
+   "id": "bossa-pap-442557",
+   "date": "2026-11-20",
+   "time": "22:10",
+   "ts": "2026-11-20T22:10:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Na Wall Street dalsza wyprzedaż; S&P 500 i DJI w strefie korekty",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442557"
+  },
   {
    "id": "bossa-espi-240516",
    "date": "2026-11-20",
@@ -25,6 +49,17 @@
    "title": "Uchwała Zarządu w sprawie podwyższenia kapitału zakładowego.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-240021"
+  },
+  {
+   "id": "strefa-4f15d1c11ea0",
+   "date": "2026-11-20",
+   "time": "21:02",
+   "ts": "2026-11-20T21:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Na Wall Street dalsza wyprzedaż; S&P 500 i DJI w strefie korekty",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/dzien-na-rynkach-na-wall-street-dalsza-wyprzedaz-sp-500-i-dji-w-strefie-korekty"
   },
   {
    "id": "bossa-pap-442554",

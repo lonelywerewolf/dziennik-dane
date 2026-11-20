@@ -1,7 +1,7 @@
 {
  "date": "2026-11-20",
  "counts": {
-  "podsumowania": 17,
+  "podsumowania": 18,
   "wyniki": 10,
   "rekomendacje": 2,
   "korporacyjne": 57,
@@ -14,11 +14,22 @@
   "obserwowane": 0,
   "pozostale": 76
  },
- "duplicatesRemoved": 147,
- "total": 386,
+ "duplicatesRemoved": 149,
+ "total": 389,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "21:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Na Wall Street dalsza wyprzedaż; S&P 500 i DJI w strefie korekty",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/dzien-na-rynkach-na-wall-street-dalsza-wyprzedaz-sp-500-i-dji-w-strefie-korekty",
+    "src": "strefainwestorow",
+    "flags": [
+     "prognoza"
+    ]
+   },
    {
     "time": "17:55",
     "kind": "news",
