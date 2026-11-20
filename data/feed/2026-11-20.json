@@ -1,7 +1,43 @@
 {
  "date": "2026-11-20",
- "count": 245,
+ "count": 248,
  "items": [
+  {
+   "id": "bossa-espi-216888",
+   "date": "2026-11-20",
+   "time": "15:09",
+   "ts": "2026-11-20T15:09:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "REMAK",
+   "title": "Aneks do Umowy.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216888"
+  },
+  {
+   "id": "bossa-espi-216887",
+   "date": "2026-11-20",
+   "time": "15:09",
+   "ts": "2026-11-20T15:09:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Red Square Games S.A.",
+   "title": "Lista akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu w dniu 17 listopada 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216887"
+  },
+  {
+   "id": "bossa-espi-216886",
+   "date": "2026-11-20",
+   "time": "15:06",
+   "ts": "2026-11-20T15:06:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Arlen S.A.",
+   "title": "Częściowa spłata pożyczki udzielonej przez OPTEX S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216886"
+  },
   {
    "id": "bossa-espi-216885",
    "date": "2026-11-20",
