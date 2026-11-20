@@ -4,18 +4,18 @@
   "podsumowania": 10,
   "wyniki": 9,
   "rekomendacje": 0,
-  "korporacyjne": 23,
+  "korporacyjne": 24,
   "makro_pl": 18,
   "swiat_rynki": 10,
   "energetyka_surowce": 7,
   "nieruchomosci": 0,
-  "fundusze_drobne": 3,
+  "fundusze_drobne": 5,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 48
+  "pozostale": 50
  },
- "duplicatesRemoved": 78,
- "total": 208,
+ "duplicatesRemoved": 81,
+ "total": 216,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -209,6 +209,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "13:59",
+    "kind": "espi",
+    "ticker": null,
+    "title": "WASKO S.A.: Informacja o podpisaniu umowy z kontrahentem",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216876",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "13:48",
     "kind": "espi",
@@ -782,6 +793,24 @@
   "nieruchomosci": [],
   "fundusze_drobne": [
    {
+    "time": "13:58",
+    "kind": "espi",
+    "ticker": null,
+    "title": "FUNDUSZ DŁUGU KORPORACYJNEGO RENTIER FIZ: RB_FI_E_30.04.18",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216875",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:52",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Neuca w '27 zakłada wartościowy wzrost rynku hurtu aptecznego na poziomie 5 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442427",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "12:48",
     "kind": "pap",
     "ticker": null,
@@ -831,6 +860,26 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "13:59",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Ceny benzyny i LPG na stacjach powinny się stabilizować, ceny ON mogą spadać - BM Reflex",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442430",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:59",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Zabka: Zawiadomienie o znacznym pakiecie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216877",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "13:48",
     "kind": "pap",
