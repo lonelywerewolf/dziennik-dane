@@ -1,7 +1,76 @@
 {
  "date": "2026-11-20",
- "count": 184,
+ "count": 190,
  "items": [
+  {
+   "id": "bossa-pap-442408",
+   "date": "2026-11-20",
+   "time": "13:13",
+   "ts": "2026-11-20T13:13:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Grupa Azoty zamierza chronić rentowność wyrównując ceny nawozów w górę",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442408"
+  },
+  {
+   "id": "strefa-7776bfed1c92",
+   "date": "2026-11-20",
+   "time": "13:09",
+   "ts": "2026-11-20T13:09:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grupa Azoty zamierza chronić rentowność wyrównując ceny nawozów w górę",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/grupa-azoty-zamierza-chronic-rentownosc-wyrownujac-ceny-nawozow-w-gore"
+  },
+  {
+   "id": "bossa-pap-442407",
+   "date": "2026-11-20",
+   "time": "13:08",
+   "ts": "2026-11-20T13:08:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Polska oczekuje od NATO decyzji o wzmocnieniu możliwości obronnych w powietrzu - premier (opis)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442407"
+  },
+  {
+   "id": "strefa-646d52704cb6",
+   "date": "2026-11-20",
+   "time": "13:06",
+   "ts": "2026-11-20T13:06:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Polska oczekuje od NATO decyzji o wzmocnieniu możliwości obronnych w powietrzu - premier (opis)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/polska-oczekuje-od-nato-decyzji-o-wzmocnieniu-mozliwosci-obronnych-w-powietrzu"
+  },
+  {
+   "id": "strefa-3f985c49c48f",
+   "date": "2026-11-20",
+   "time": "13:05",
+   "ts": "2026-11-20T13:05:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Odsetek \"byków\" na GPW spadł do 37,7 proc., spadków oczekuje 30,2 proc. - INI",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/odsetek-bykow-na-gpw-spadl-do-377-proc-spadkow-oczekuje-302-proc-ini"
+  },
+  {
+   "id": "bossa-pap-442406",
+   "date": "2026-11-20",
+   "time": "13:05",
+   "ts": "2026-11-20T13:05:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Odsetek \"byków\" na GPW spadł do 37,7 proc., spadków oczekuje 30,2 proc. - INI",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442406"
+  },
   {
    "id": "bossa-pap-442405",
    "date": "2026-11-20",

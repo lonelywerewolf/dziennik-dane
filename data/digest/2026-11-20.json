@@ -12,10 +12,10 @@
   "fundusze_drobne": 3,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 43
+  "pozostale": 46
  },
- "duplicatesRemoved": 68,
- "total": 184,
+ "duplicatesRemoved": 71,
+ "total": 190,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -739,6 +739,33 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "13:09",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa Azoty zamierza chronić rentowność wyrównując ceny nawozów w górę",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/grupa-azoty-zamierza-chronic-rentownosc-wyrownujac-ceny-nawozow-w-gore",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "13:06",
+    "kind": "news",
+    "ticker": null,
+    "title": "Polska oczekuje od NATO decyzji o wzmocnieniu możliwości obronnych w powietrzu - premier (opis)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/polska-oczekuje-od-nato-decyzji-o-wzmocnieniu-mozliwosci-obronnych-w-powietrzu",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "13:05",
+    "kind": "news",
+    "ticker": null,
+    "title": "Odsetek \"byków\" na GPW spadł do 37,7 proc., spadków oczekuje 30,2 proc. - INI",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/odsetek-bykow-na-gpw-spadl-do-377-proc-spadkow-oczekuje-302-proc-ini",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "13:04",
     "kind": "pap",
