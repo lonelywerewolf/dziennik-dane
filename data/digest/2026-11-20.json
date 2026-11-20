@@ -4,18 +4,18 @@
   "podsumowania": 11,
   "wyniki": 9,
   "rekomendacje": 0,
-  "korporacyjne": 34,
+  "korporacyjne": 36,
   "makro_pl": 20,
-  "swiat_rynki": 11,
+  "swiat_rynki": 12,
   "energetyka_surowce": 8,
   "nieruchomosci": 1,
   "fundusze_drobne": 8,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 55
+  "pozostale": 56
  },
  "duplicatesRemoved": 95,
- "total": 254,
+ "total": 258,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -220,6 +220,26 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "15:37",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PTWP S.A.: Odnowienie kadencji Członka Zarządu",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216893",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "15:28",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KANCELARIA MEDIUS S.A.: Zwołanie Nadzwyczajnego Walnego Zgromadzenia Kancelaria Medius S.A. na dzień 18 grudnia 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216892",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:23",
     "kind": "pap",
@@ -768,6 +788,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "15:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Po otwarciu sesji DJI spada 0,1 proc., a S&P500 traci 0,5 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442459",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "14:48",
     "kind": "news",
     "ticker": null,
@@ -1050,6 +1079,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "15:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Ceny korporacyjnego długu zaskakująco mocne na tle zmian otoczenia rynkowego - Michael/Ström DM",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442460",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:19",
     "kind": "espi",

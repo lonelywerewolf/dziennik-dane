@@ -1,7 +1,55 @@
 {
  "date": "2026-11-20",
- "count": 254,
+ "count": 258,
  "items": [
+  {
+   "id": "bossa-espi-216893",
+   "date": "2026-11-20",
+   "time": "15:37",
+   "ts": "2026-11-20T15:37:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PTWP S.A.",
+   "title": "Odnowienie kadencji Członka Zarządu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216893"
+  },
+  {
+   "id": "bossa-pap-442460",
+   "date": "2026-11-20",
+   "time": "15:32",
+   "ts": "2026-11-20T15:32:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ceny korporacyjnego długu zaskakująco mocne na tle zmian otoczenia rynkowego - Michael/Ström DM",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442460"
+  },
+  {
+   "id": "bossa-pap-442459",
+   "date": "2026-11-20",
+   "time": "15:32",
+   "ts": "2026-11-20T15:32:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Po otwarciu sesji DJI spada 0,1 proc., a S&P500 traci 0,5 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442459"
+  },
+  {
+   "id": "bossa-espi-216892",
+   "date": "2026-11-20",
+   "time": "15:28",
+   "ts": "2026-11-20T15:28:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KANCELARIA MEDIUS S.A.",
+   "title": "Zwołanie Nadzwyczajnego Walnego Zgromadzenia Kancelaria Medius S.A. na dzień 18 grudnia 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216892"
+  },
   {
    "id": "bossa-pap-442457",
    "date": "2026-11-20",
