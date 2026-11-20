@@ -2,7 +2,7 @@
  "date": "2026-11-20",
  "counts": {
   "podsumowania": 4,
-  "wyniki": 3,
+  "wyniki": 4,
   "rekomendacje": 0,
   "korporacyjne": 1,
   "makro_pl": 5,
@@ -15,7 +15,7 @@
   "pozostale": 15
  },
  "duplicatesRemoved": 20,
- "total": 51,
+ "total": 52,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -57,6 +57,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "08:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa CDRL podwoiła wynik EBITDA",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/grupa-cdrl-podwoila-wynik-ebitda",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "07:35",
     "kind": "news",
