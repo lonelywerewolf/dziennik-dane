@@ -5,17 +5,17 @@
   "wyniki": 9,
   "rekomendacje": 0,
   "korporacyjne": 16,
-  "makro_pl": 16,
+  "makro_pl": 17,
   "swiat_rynki": 8,
-  "energetyka_surowce": 6,
+  "energetyka_surowce": 7,
   "nieruchomosci": 0,
-  "fundusze_drobne": 1,
+  "fundusze_drobne": 3,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 39
+  "pozostale": 40
  },
- "duplicatesRemoved": 64,
- "total": 171,
+ "duplicatesRemoved": 67,
+ "total": 179,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -382,6 +382,15 @@
   ],
   "makro_pl": [
    {
+    "time": "12:53",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Pierwsze zadanie to zakończenie KPO - nowa szefowa MFiPR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442401",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "12:34",
     "kind": "pap",
     "ticker": null,
@@ -604,6 +613,15 @@
   ],
   "energetyka_surowce": [
    {
+    "time": "12:41",
+    "kind": "news",
+    "ticker": null,
+    "title": "RN JSW wyraziła zgodę na umorzenie certyfikatów FIZ serii C o wartości ok. 85,6 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/rn-jsw-wyrazila-zgode-na-umorzenie-certyfikatow-fiz-serii-c-o-wartosci-ok-856",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "12:28",
     "kind": "espi",
     "ticker": null,
@@ -661,6 +679,24 @@
   "nieruchomosci": [],
   "fundusze_drobne": [
    {
+    "time": "12:48",
+    "kind": "pap",
+    "ticker": null,
+    "title": "UNIQA OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442400",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:48",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PKO BP BANKOWY OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442397",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "08:30",
     "kind": "news",
     "ticker": null,
@@ -692,6 +728,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:48",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SOPHARMA AD: Preliminary sales revenue data for October 2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-10791",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:40",
     "kind": "news",

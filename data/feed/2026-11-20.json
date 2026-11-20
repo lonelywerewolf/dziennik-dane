@@ -1,7 +1,102 @@
 {
  "date": "2026-11-20",
- "count": 171,
+ "count": 179,
  "items": [
+  {
+   "id": "bossa-pap-442401",
+   "date": "2026-11-20",
+   "time": "12:53",
+   "ts": "2026-11-20T12:53:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Pierwsze zadanie to zakończenie KPO - nowa szefowa MFiPR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442401"
+  },
+  {
+   "id": "bossa-pap-442400",
+   "date": "2026-11-20",
+   "time": "12:48",
+   "ts": "2026-11-20T12:48:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "UNIQA OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442400"
+  },
+  {
+   "id": "bossa-pap-442397",
+   "date": "2026-11-20",
+   "time": "12:48",
+   "ts": "2026-11-20T12:48:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PKO BP BANKOWY OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442397"
+  },
+  {
+   "id": "bossa-espi-216862",
+   "date": "2026-11-20",
+   "time": "12:48",
+   "ts": "2026-11-20T12:48:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF WIG20TR PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 235 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216862"
+  },
+  {
+   "id": "bossa-espi-10791",
+   "date": "2026-11-20",
+   "time": "12:48",
+   "ts": "2026-11-20T12:48:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "SOPHARMA AD",
+   "title": "Preliminary sales revenue data for October 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-10791"
+  },
+  {
+   "id": "bossa-pap-442395",
+   "date": "2026-11-20",
+   "time": "12:45",
+   "ts": "2026-11-20T12:45:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "RN JSW wyraziła zgodę na umorzenie certyfikatów FIZ serii C o wartości ok. 85,6 mln zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442395"
+  },
+  {
+   "id": "bossa-espi-216861",
+   "date": "2026-11-20",
+   "time": "12:45",
+   "ts": "2026-11-20T12:45:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF TBSP PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 235 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216861"
+  },
+  {
+   "id": "strefa-f2428a4a6038",
+   "date": "2026-11-20",
+   "time": "12:41",
+   "ts": "2026-11-20T12:41:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "RN JSW wyraziła zgodę na umorzenie certyfikatów FIZ serii C o wartości ok. 85,6 mln zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/rn-jsw-wyrazila-zgode-na-umorzenie-certyfikatow-fiz-serii-c-o-wartosci-ok-856"
+  },
   {
    "id": "strefa-0c238da46d7f",
    "date": "2026-11-20",
