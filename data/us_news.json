@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "162c4b449835",
+   "ticker": "VRT",
+   "time": "2026-11-20T20:30+01:00",
+   "title": "Notable Friday Option Activity: GOOG, ORCL, VRT",
+   "url": "https://www.nasdaq.com/articles/notable-friday-option-activity-goog-orcl-vrt",
+   "src": "nasdaq",
+   "summary": "Among the underlying components of the S&amp;P 500 index, we saw noteworthy options trading volume today in Alphabet Inc (Symbol: GOOG), where a total of 208,917 contracts have traded so far, representing approximately 20.9 million underlying shares.  That amounts to about 74.6%"
+  },
+  {
    "id": "86c46f9e2070",
    "ticker": "NVDA",
    "time": "2026-11-20T19:39+01:00",
@@ -15976,5 +15985,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-20T20:32:29+01:00"
+ "updatedAt": "2026-11-20T20:43:29+01:00"
 }
