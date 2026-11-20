@@ -4,18 +4,18 @@
   "podsumowania": 11,
   "wyniki": 9,
   "rekomendacje": 0,
-  "korporacyjne": 26,
+  "korporacyjne": 27,
   "makro_pl": 19,
   "swiat_rynki": 10,
   "energetyka_surowce": 7,
-  "nieruchomosci": 0,
+  "nieruchomosci": 1,
   "fundusze_drobne": 5,
   "twoje_spolki": 2,
   "obserwowane": 0,
   "pozostale": 51
  },
- "duplicatesRemoved": 87,
- "total": 227,
+ "duplicatesRemoved": 91,
+ "total": 233,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -221,6 +221,26 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "14:26",
+    "kind": "news",
+    "ticker": null,
+    "title": "Eurocash chce pokazać pełną siłę zarobkową w '27; planuje IPO Frisco (wywiad)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/eurocash-chce-pokazac-pelna-sile-zarobkowa-w-27-planuje-ipo-frisco-wywiad",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "14:25",
+    "kind": "espi",
+    "ticker": null,
+    "title": "POLIMEX-MOSTOSTAL: Zawarcie przez Emitenta Umowy Inwestycyjnej.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216879",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
     "time": "14:15",
     "kind": "pap",
     "ticker": null,
@@ -306,15 +326,6 @@
      "zarząd",
      "insider"
     ]
-   },
-   {
-    "time": "13:24",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Eurocash chce pokazać pełną siłę zarobkową w '27; planuje IPO Frisco (wywiad)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442409",
-    "src": "bossa",
-    "flags": []
    },
    {
     "time": "13:02",
@@ -830,7 +841,17 @@
     "flags": []
    }
   ],
-  "nieruchomosci": [],
+  "nieruchomosci": [
+   {
+    "time": "14:22",
+    "kind": "news",
+    "ticker": null,
+    "title": "Waryński S.A. konsoliduje spółki nieruchomościowe z portfela Grupy PGZ",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/warynski-sa-konsoliduje-spolki-nieruchomosciowe-z-portfela-grupy-pgz",
+    "src": "strefainwestorow",
+    "flags": []
+   }
+  ],
   "fundusze_drobne": [
    {
     "time": "14:02",
@@ -901,6 +922,15 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "14:27",
+    "kind": "news",
+    "ticker": null,
+    "title": "Cena maksymalna dla benzyny Pb95 w weekend i w poniedziałek wyniesie 5,90 zł/l, dla ON 7,39 zł/l",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/cena-maksymalna-dla-benzyny-pb95-w-weekend-i-w-poniedzialek-wyniesie-590-zll",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "14:14",
     "kind": "espi",
     "ticker": null,
@@ -912,12 +942,12 @@
     ]
    },
    {
-    "time": "13:59",
-    "kind": "pap",
+    "time": "14:13",
+    "kind": "news",
     "ticker": null,
     "title": "Ceny benzyny i LPG na stacjach powinny się stabilizować, ceny ON mogą spadać - BM Reflex",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442430",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/ceny-benzyny-i-lpg-na-stacjach-powinny-sie-stabilizowac-ceny-moga-spadac-bm",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -937,15 +967,6 @@
     "ticker": null,
     "title": "MS: Sędziowie będą mogli dłużej orzekać na nowych zasadach (komunikat)",
     "url": "https://bossa.pl/analizy/komunikaty#message-442424",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "13:25",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Cena maksymalna dla benzyny Pb95 w weekend i w poniedziałek wyniesie 5,90 zł/l, dla ON 7,39 zł/l",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442411",
     "src": "bossa",
     "flags": []
    },

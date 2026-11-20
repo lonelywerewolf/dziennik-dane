@@ -1,7 +1,64 @@
 {
  "date": "2026-11-20",
- "count": 227,
+ "count": 233,
  "items": [
+  {
+   "id": "bossa-espi-216880",
+   "date": "2026-11-20",
+   "time": "14:29",
+   "ts": "2026-11-20T14:29:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ORZEŁ BIAŁY S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216880"
+  },
+  {
+   "id": "strefa-6c4c95699094",
+   "date": "2026-11-20",
+   "time": "14:27",
+   "ts": "2026-11-20T14:27:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Cena maksymalna dla benzyny Pb95 w weekend i w poniedziałek wyniesie 5,90 zł/l, dla ON 7,39 zł/l",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/cena-maksymalna-dla-benzyny-pb95-w-weekend-i-w-poniedzialek-wyniesie-590-zll"
+  },
+  {
+   "id": "strefa-50882f464b2f",
+   "date": "2026-11-20",
+   "time": "14:26",
+   "ts": "2026-11-20T14:26:10+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Eurocash chce pokazać pełną siłę zarobkową w '27; planuje IPO Frisco (wywiad)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/eurocash-chce-pokazac-pelna-sile-zarobkowa-w-27-planuje-ipo-frisco-wywiad"
+  },
+  {
+   "id": "bossa-espi-216879",
+   "date": "2026-11-20",
+   "time": "14:25",
+   "ts": "2026-11-20T14:25:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "POLIMEX-MOSTOSTAL",
+   "title": "Zawarcie przez Emitenta Umowy Inwestycyjnej.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216879"
+  },
+  {
+   "id": "strefa-ebd665c3ef07",
+   "date": "2026-11-20",
+   "time": "14:22",
+   "ts": "2026-11-20T14:22:45+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Waryński S.A. konsoliduje spółki nieruchomościowe z portfela Grupy PGZ",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/warynski-sa-konsoliduje-spolki-nieruchomosciowe-z-portfela-grupy-pgz"
+  },
   {
    "id": "bossa-pap-442437",
    "date": "2026-11-20",
@@ -25,6 +82,17 @@
    "title": "Korekta raportu kwartalnego za III kwartał 2026 r. w związku z korektą metadanych ESAP",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-216878"
+  },
+  {
+   "id": "strefa-7f206e8a20db",
+   "date": "2026-11-20",
+   "time": "14:13",
+   "ts": "2026-11-20T14:13:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ceny benzyny i LPG na stacjach powinny się stabilizować, ceny ON mogą spadać - BM Reflex",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/ceny-benzyny-i-lpg-na-stacjach-powinny-sie-stabilizowac-ceny-moga-spadac-bm"
   },
   {
    "id": "bossa-pap-442435",
