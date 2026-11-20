@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 77
  },
- "duplicatesRemoved": 149,
- "total": 391,
+ "duplicatesRemoved": 150,
+ "total": 392,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -320,12 +320,12 @@
   ],
   "korporacyjne": [
    {
-    "time": "22:24",
-    "kind": "pap",
+    "time": "22:20",
+    "kind": "news",
     "ticker": null,
     "title": "Police chcą przeprowadzić emisję akcji o wartości do 415,3 mln zł, którą obejmie Grupa Azoty",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442559",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/police-chca-przeprowadzic-emisje-akcji-o-wartosci-do-4153-mln-zl-ktora-obejmie",
+    "src": "strefainwestorow",
     "flags": [
      "emisja"
     ]
