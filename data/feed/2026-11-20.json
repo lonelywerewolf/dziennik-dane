@@ -1,7 +1,79 @@
 {
  "date": "2026-11-20",
- "count": 142,
+ "count": 148,
  "items": [
+  {
+   "id": "bossa-espi-216853",
+   "date": "2026-11-20",
+   "time": "12:14",
+   "ts": "2026-11-20T12:14:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF OBLIGACJI 6M PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 244 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216853"
+  },
+  {
+   "id": "bossa-pap-442379",
+   "date": "2026-11-20",
+   "time": "12:13",
+   "ts": "2026-11-20T12:13:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "W. Brytania osiągnęła porozumienie o resecie stosunków z UE - biuro premiera",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442379"
+  },
+  {
+   "id": "bossa-espi-216852",
+   "date": "2026-11-20",
+   "time": "12:08",
+   "ts": "2026-11-20T12:08:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF DYWIDENDA PLUS PORTFELOW FIZ",
+   "title": "Raport bieżący nr 241 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216852"
+  },
+  {
+   "id": "bossa-espi-216851",
+   "date": "2026-11-20",
+   "time": "12:07",
+   "ts": "2026-11-20T12:07:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ECHO",
+   "title": "Spełnienie warunku do wypłaty zaliczki na poczet przyszłej dywidendy za rok obrotowy 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216851"
+  },
+  {
+   "id": "bossa-espi-216850",
+   "date": "2026-11-20",
+   "time": "12:06",
+   "ts": "2026-11-20T12:06:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PGE POLSKA GRUPA ENERGETYCZNA S.A.",
+   "title": "Informacja o transakcjach w trybie art. 19 Rozporządzenia MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216850"
+  },
+  {
+   "id": "bossa-espi-216849",
+   "date": "2026-11-20",
+   "time": "12:06",
+   "ts": "2026-11-20T12:06:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KGL S.A.",
+   "title": "Informacja o zgłoszeniu kandydatur na członków Rady Nadzorczej KGL S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216849"
+  },
   {
    "id": "bossa-pap-442374",
    "date": "2026-11-20",

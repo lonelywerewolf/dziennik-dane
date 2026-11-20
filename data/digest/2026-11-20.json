@@ -4,7 +4,7 @@
   "podsumowania": 10,
   "wyniki": 8,
   "rekomendacje": 0,
-  "korporacyjne": 12,
+  "korporacyjne": 14,
   "makro_pl": 14,
   "swiat_rynki": 8,
   "energetyka_surowce": 4,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 1,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 33
+  "pozostale": 35
  },
- "duplicatesRemoved": 50,
- "total": 142,
+ "duplicatesRemoved": 52,
+ "total": 148,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -198,6 +198,28 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "12:07",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ECHO: Spełnienie warunku do wypłaty zaliczki na poczet przyszłej dywidendy za rok obrotowy 2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216851",
+    "src": "bossa",
+    "flags": [
+     "dywidenda"
+    ]
+   },
+   {
+    "time": "12:06",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PGE POLSKA GRUPA ENERGETYCZNA S.A.: Informacja o transakcjach w trybie art. 19 Rozporządzenia MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216850",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
    {
     "time": "12:02",
     "kind": "pap",
@@ -601,6 +623,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:13",
+    "kind": "pap",
+    "ticker": null,
+    "title": "W. Brytania osiągnęła porozumienie o resecie stosunków z UE - biuro premiera",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442379",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:06",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KGL S.A.: Informacja o zgłoszeniu kandydatur na członków Rady Nadzorczej KGL S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216849",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:03",
     "kind": "pap",
