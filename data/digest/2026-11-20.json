@@ -1,24 +1,33 @@
 {
  "date": "2026-11-20",
  "counts": {
-  "podsumowania": 9,
+  "podsumowania": 10,
   "wyniki": 6,
   "rekomendacje": 0,
-  "korporacyjne": 7,
-  "makro_pl": 10,
+  "korporacyjne": 8,
+  "makro_pl": 11,
   "swiat_rynki": 6,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 1,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 28
+  "pozostale": 30
  },
- "duplicatesRemoved": 40,
- "total": 112,
+ "duplicatesRemoved": 42,
+ "total": 119,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "10:47",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: WIG20 spada o 3 proc.; PKO BP i Pekao tracą po ok. 4 proc.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/dzien-na-gpw-wig20-spada-o-3-proc-pko-bp-i-pekao-traca-po-ok-4-proc",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:21",
     "kind": "news",
@@ -168,6 +177,17 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "11:09",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa Azoty planuje podpisanie długoterminowej umowy restrukturyzacji zadłużenia w XI lub XII",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/grupa-azoty-planuje-podpisanie-dlugoterminowej-umowy-restrukturyzacji",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
     "time": "10:46",
     "kind": "pap",
     "ticker": null,
@@ -240,6 +260,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "11:09",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PragmaGo S.A.: Stan przedmiotu zastawu – zabezpieczenie obligacji",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216838",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:31",
     "kind": "pap",
@@ -452,6 +481,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:09",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźniki referencyjne - EURIBOR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442354",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:06",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Prezydent powołał ministra finansów i gospodarki A. Domańskiego na wicepremiera",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442351",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:55",
     "kind": "pap",

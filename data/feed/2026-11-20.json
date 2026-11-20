@@ -1,7 +1,78 @@
 {
  "date": "2026-11-20",
- "count": 112,
+ "count": 119,
  "items": [
+  {
+   "id": "bossa-pap-442355",
+   "date": "2026-11-20",
+   "time": "11:10",
+   "ts": "2026-11-20T11:10:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Grupa Azoty planuje podpisanie długoterminowej umowy restrukturyzacji zadłużenia w XI lub XII",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442355"
+  },
+  {
+   "id": "strefa-56e9fc7de7b6",
+   "date": "2026-11-20",
+   "time": "11:09",
+   "ts": "2026-11-20T11:09:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grupa Azoty planuje podpisanie długoterminowej umowy restrukturyzacji zadłużenia w XI lub XII",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/grupa-azoty-planuje-podpisanie-dlugoterminowej-umowy-restrukturyzacji"
+  },
+  {
+   "id": "bossa-pap-442354",
+   "date": "2026-11-20",
+   "time": "11:09",
+   "ts": "2026-11-20T11:09:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne - EURIBOR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442354"
+  },
+  {
+   "id": "bossa-espi-216838",
+   "date": "2026-11-20",
+   "time": "11:09",
+   "ts": "2026-11-20T11:09:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PragmaGo S.A.",
+   "title": "Stan przedmiotu zastawu – zabezpieczenie obligacji",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216838"
+  },
+  {
+   "id": "bossa-pap-442352",
+   "date": "2026-11-20",
+   "time": "11:07",
+   "ts": "2026-11-20T11:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: WIG20 spada o 3 proc.; PKO BP i Pekao tracą po ok. 4 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442352"
+  },
+  {
+   "id": "bossa-pap-442351",
+   "date": "2026-11-20",
+   "time": "11:06",
+   "ts": "2026-11-20T11:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Prezydent powołał ministra finansów i gospodarki A. Domańskiego na wicepremiera",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442351"
+  },
   {
    "id": "bossa-pap-442350",
    "date": "2026-11-20",
@@ -25,6 +96,17 @@
    "title": "Prezydent powoła Agnieszkę Bartol na funkcję ministry funduszy i polityki regionalnej",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-442349"
+  },
+  {
+   "id": "strefa-f6119e74e20d",
+   "date": "2026-11-20",
+   "time": "10:47",
+   "ts": "2026-11-20T10:47:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: WIG20 spada o 3 proc.; PKO BP i Pekao tracą po ok. 4 proc.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/dzien-na-gpw-wig20-spada-o-3-proc-pko-bp-i-pekao-traca-po-ok-4-proc"
   },
   {
    "id": "bossa-pap-442348",
