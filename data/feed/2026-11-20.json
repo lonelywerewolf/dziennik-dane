@@ -1,7 +1,19 @@
 {
  "date": "2026-11-20",
- "count": 288,
+ "count": 290,
  "items": [
+  {
+   "id": "bossa-espi-216900",
+   "date": "2026-11-20",
+   "time": "16:48",
+   "ts": "2026-11-20T16:48:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MURAPOL S.A.",
+   "title": "Zawarcie aneksu do umowy kredytowej z konsorcjum banków – Bankiem Polska Kasa Opieki S.A. i Erste Bank Polska S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216900"
+  },
   {
    "id": "bossa-espi-216899",
    "date": "2026-11-20",
@@ -37,6 +49,17 @@
    "title": "MRiRW: Odszkodowania za szkody wyrządzone przez ptaki coraz bliżej (komunikat)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-442482"
+  },
+  {
+   "id": "strefa-ca829b37f68b",
+   "date": "2026-11-20",
+   "time": "16:23",
+   "ts": "2026-11-20T16:23:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ceny korporacyjnego długu zaskakująco mocne na tle zmian otoczenia rynkowego - Michael/Ström DM",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/ceny-korporacyjnego-dlugu-zaskakujaco-mocne-na-tle-zmian-otoczenia-rynkowego"
   },
   {
    "id": "bossa-pap-442481",

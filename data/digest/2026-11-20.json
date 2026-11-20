@@ -4,7 +4,7 @@
   "podsumowania": 12,
   "wyniki": 10,
   "rekomendacje": 0,
-  "korporacyjne": 41,
+  "korporacyjne": 42,
   "makro_pl": 23,
   "swiat_rynki": 14,
   "energetyka_surowce": 8,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 61
  },
- "duplicatesRemoved": 103,
- "total": 288,
+ "duplicatesRemoved": 104,
+ "total": 290,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -240,6 +240,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "16:48",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MURAPOL S.A.: Zawarcie aneksu do umowy kredytowej z konsorcjum banków – Bankiem Polska Kasa Opieki S.A. i Erste Bank Polska S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216900",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "16:36",
     "kind": "espi",
@@ -1240,6 +1251,15 @@
   "pozostale": [
    {
     "time": "16:23",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny korporacyjnego długu zaskakująco mocne na tle zmian otoczenia rynkowego - Michael/Ström DM",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/ceny-korporacyjnego-dlugu-zaskakujaco-mocne-na-tle-zmian-otoczenia-rynkowego",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "16:23",
     "kind": "pap",
     "ticker": null,
     "title": "KPRM: Rosyjskie obiekty naruszyły polską przestrzeń powietrzną. Kolejna odsłona rosyjskiej eskalacji (komunikat)",
@@ -1281,15 +1301,6 @@
     "title": "Mirbud szacuje, że w III kw. '26 miał 63,1 mln zł zysku netto, powyżej konsensusu",
     "url": "https://strefainwestorow.pl/wiadomosci/20261120/mirbud-szacuje-ze-w-iii-kw-26-mial-631-mln-zl-zysku-netto-powyzej-konsensusu",
     "src": "strefainwestorow",
-    "flags": []
-   },
-   {
-    "time": "15:32",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Ceny korporacyjnego długu zaskakująco mocne na tle zmian otoczenia rynkowego - Michael/Ström DM",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442460",
-    "src": "bossa",
     "flags": []
    },
    {
