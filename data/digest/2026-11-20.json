@@ -5,17 +5,17 @@
   "wyniki": 9,
   "rekomendacje": 0,
   "korporacyjne": 16,
-  "makro_pl": 15,
+  "makro_pl": 16,
   "swiat_rynki": 8,
   "energetyka_surowce": 6,
   "nieruchomosci": 0,
   "fundusze_drobne": 1,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 36
+  "pozostale": 39
  },
- "duplicatesRemoved": 57,
- "total": 160,
+ "duplicatesRemoved": 64,
+ "total": 171,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -382,6 +382,15 @@
   ],
   "makro_pl": [
    {
+    "time": "12:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Rząd będzie podejmował kolejne działania na rzecz wzmocnienia finansów publicznych - Domański",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442388",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "12:23",
     "kind": "news",
     "ticker": null,
@@ -683,6 +692,33 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:40",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wydaje się, że Polska ma do czynienia z intencjonalną prowokacją ze strony Rosji - premier",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/wydaje-sie-ze-polska-ma-do-czynienia-z-intencjonalna-prowokacja-ze-strony-rosji",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "12:35",
+    "kind": "espi",
+    "ticker": null,
+    "title": "URTESTE S.A.: Zawiadomienie o zmianie stanu posiadania akcji Spółki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216858",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:32",
+    "kind": "news",
+    "ticker": null,
+    "title": "Selvita spodziewa się dobrego IV kw. w segmencie rozwoju leków",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/selvita-spodziewa-sie-dobrego-iv-kw-w-segmencie-rozwoju-lekow",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "12:30",
     "kind": "news",

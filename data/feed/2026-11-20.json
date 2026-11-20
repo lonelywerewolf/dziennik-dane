@@ -1,7 +1,124 @@
 {
  "date": "2026-11-20",
- "count": 160,
+ "count": 171,
  "items": [
+  {
+   "id": "strefa-0c238da46d7f",
+   "date": "2026-11-20",
+   "time": "12:40",
+   "ts": "2026-11-20T12:40:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wydaje się, że Polska ma do czynienia z intencjonalną prowokacją ze strony Rosji - premier",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/wydaje-sie-ze-polska-ma-do-czynienia-z-intencjonalna-prowokacja-ze-strony-rosji"
+  },
+  {
+   "id": "bossa-pap-442393",
+   "date": "2026-11-20",
+   "time": "12:40",
+   "ts": "2026-11-20T12:40:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wydaje się, że Polska ma do czynienia z intencjonalną prowokacją ze strony Rosji - premier",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442393"
+  },
+  {
+   "id": "bossa-espi-216860",
+   "date": "2026-11-20",
+   "time": "12:40",
+   "ts": "2026-11-20T12:40:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 3 x LEVERAGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 235 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216860"
+  },
+  {
+   "id": "strefa-c536ff6a7ea0",
+   "date": "2026-11-20",
+   "time": "12:39",
+   "ts": "2026-11-20T12:39:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grupa Azoty planuje podpisanie długoterminowej umowy restrukturyzacji zadłużenia w XI lub XII (opis)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/grupa-azoty-planuje-podpisanie-dlugoterminowej-umowy-restrukturyzacji-0"
+  },
+  {
+   "id": "bossa-pap-442392",
+   "date": "2026-11-20",
+   "time": "12:39",
+   "ts": "2026-11-20T12:39:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Grupa Azoty planuje podpisanie długoterminowej umowy restrukturyzacji zadłużenia w XI lub XII (opis)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442392"
+  },
+  {
+   "id": "bossa-pap-442391",
+   "date": "2026-11-20",
+   "time": "12:38",
+   "ts": "2026-11-20T12:38:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Selvita spodziewa się dobrego IV kw. w segmencie rozwoju leków",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442391"
+  },
+  {
+   "id": "bossa-espi-216859",
+   "date": "2026-11-20",
+   "time": "12:37",
+   "ts": "2026-11-20T12:37:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 2 x SHORT PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 234 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216859"
+  },
+  {
+   "id": "bossa-espi-216858",
+   "date": "2026-11-20",
+   "time": "12:35",
+   "ts": "2026-11-20T12:35:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "URTESTE S.A.",
+   "title": "Zawiadomienie o zmianie stanu posiadania akcji Spółki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216858"
+  },
+  {
+   "id": "bossa-pap-442388",
+   "date": "2026-11-20",
+   "time": "12:34",
+   "ts": "2026-11-20T12:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Rząd będzie podejmował kolejne działania na rzecz wzmocnienia finansów publicznych - Domański",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442388"
+  },
+  {
+   "id": "strefa-cad79df5988f",
+   "date": "2026-11-20",
+   "time": "12:32",
+   "ts": "2026-11-20T12:32:28+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Selvita spodziewa się dobrego IV kw. w segmencie rozwoju leków",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/selvita-spodziewa-sie-dobrego-iv-kw-w-segmencie-rozwoju-lekow"
+  },
   {
    "id": "strefa-1f475f4cd9ab",
    "date": "2026-11-20",
@@ -23,6 +140,18 @@
    "title": "7R pozyskało 87,7 mln zł z pierwszej publicznej emisji obligacji",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261120/7r-pozyskalo-877-mln-zl-z-pierwszej-publicznej-emisji-obligacji"
+  },
+  {
+   "id": "bossa-espi-216857",
+   "date": "2026-11-20",
+   "time": "12:32",
+   "ts": "2026-11-20T12:32:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF WIG20short PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 233 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216857"
   },
   {
    "id": "bossa-pap-442386",
