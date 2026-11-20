@@ -1,7 +1,66 @@
 {
  "date": "2026-11-20",
- "count": 60,
+ "count": 65,
  "items": [
+  {
+   "id": "bossa-espi-216832",
+   "date": "2026-11-20",
+   "time": "08:34",
+   "ts": "2026-11-20T08:34:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MIRBUD S.A.",
+   "title": "Wybór oferty spółki zależnej Emitenta na zaprojektowanie i budowę obwodnicy Limanowej w ciągu DK 28",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216832"
+  },
+  {
+   "id": "bossa-pap-442317",
+   "date": "2026-11-20",
+   "time": "08:29",
+   "ts": "2026-11-20T08:29:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: Piątkowa sesja może rozpocząć się od spadków",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442317"
+  },
+  {
+   "id": "bossa-pap-442316",
+   "date": "2026-11-20",
+   "time": "08:27",
+   "ts": "2026-11-20T08:27:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ponar Wadowice ogłasza zamiar przeprowadzenia IPO (opis)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442316"
+  },
+  {
+   "id": "bossa-espi-216831",
+   "date": "2026-11-20",
+   "time": "08:26",
+   "ts": "2026-11-20T08:26:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MIRBUD S.A.",
+   "title": "Wybór oferty spółki zależnej Emitenta na budowę drogi krajowej S11 Szczecinek - Piła, odc. I",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216831"
+  },
+  {
+   "id": "strefa-d0d5c0e50e62",
+   "date": "2026-11-20",
+   "time": "08:22",
+   "ts": "2026-11-20T08:22:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: Piątkowa sesja może rozpocząć się od spadków",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/dzien-na-gpw-piatkowa-sesja-moze-rozpoczac-sie-od-spadkow"
+  },
   {
    "id": "bossa-pap-442314",
    "date": "2026-11-20",
