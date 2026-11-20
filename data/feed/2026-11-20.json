@@ -1,7 +1,31 @@
 {
  "date": "2026-11-20",
- "count": 258,
+ "count": 261,
  "items": [
+  {
+   "id": "bossa-pap-442463",
+   "date": "2026-11-20",
+   "time": "15:45",
+   "ts": "2026-11-20T15:45:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW spodziewa się w 2027 r. wysokiej jednocyfrowej liczby debiutów na rynku głównym",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442463"
+  },
+  {
+   "id": "bossa-espi-216894",
+   "date": "2026-11-20",
+   "time": "15:42",
+   "ts": "2026-11-20T15:42:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MIRBUD S.A.",
+   "title": "Szacunkowe wyniki finansowe za III kwartał 2026 roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216894"
+  },
   {
    "id": "bossa-espi-216893",
    "date": "2026-11-20",
@@ -205,6 +229,17 @@
    "title": "OFE POCZTYLION wartość jednostki rozrachunkowej",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-442445"
+  },
+  {
+   "id": "strefa-0457e41c33b7",
+   "date": "2026-11-20",
+   "time": "14:49",
+   "ts": "2026-11-20T14:49:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Po otwarciu sesji DJI spada 0,1 proc., a S&P500 traci 0,5 proc.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/po-otwarciu-sesji-dji-spada-01-proc-sp500-traci-05-proc"
   },
   {
    "id": "strefa-6cc4b7a8583b",

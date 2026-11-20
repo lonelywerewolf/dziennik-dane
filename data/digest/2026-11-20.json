@@ -2,9 +2,9 @@
  "date": "2026-11-20",
  "counts": {
   "podsumowania": 11,
-  "wyniki": 9,
+  "wyniki": 10,
   "rekomendacje": 0,
-  "korporacyjne": 36,
+  "korporacyjne": 37,
   "makro_pl": 20,
   "swiat_rynki": 12,
   "energetyka_surowce": 8,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 56
  },
- "duplicatesRemoved": 95,
- "total": 258,
+ "duplicatesRemoved": 96,
+ "total": 261,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -123,6 +123,17 @@
   ],
   "wyniki": [
    {
+    "time": "15:42",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MIRBUD S.A.: Szacunkowe wyniki finansowe za III kwartał 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216894",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
     "time": "12:32",
     "kind": "news",
     "ticker": null,
@@ -220,6 +231,15 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "15:45",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GPW spodziewa się w 2027 r. wysokiej jednocyfrowej liczby debiutów na rynku głównym",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442463",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:37",
     "kind": "espi",
@@ -788,12 +808,12 @@
   ],
   "swiat_rynki": [
    {
-    "time": "15:32",
-    "kind": "pap",
+    "time": "14:49",
+    "kind": "news",
     "ticker": null,
     "title": "Po otwarciu sesji DJI spada 0,1 proc., a S&P500 traci 0,5 proc.",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442459",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/po-otwarciu-sesji-dji-spada-01-proc-sp500-traci-05-proc",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
