@@ -4,7 +4,7 @@
   "podsumowania": 18,
   "wyniki": 10,
   "rekomendacje": 2,
-  "korporacyjne": 58,
+  "korporacyjne": 59,
   "makro_pl": 29,
   "swiat_rynki": 22,
   "energetyka_surowce": 9,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 13,
   "twoje_spolki": 3,
   "obserwowane": 0,
-  "pozostale": 77
+  "pozostale": 78
  },
  "duplicatesRemoved": 150,
- "total": 392,
+ "total": 394,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -319,6 +319,18 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "22:47",
+    "kind": "espi",
+    "ticker": null,
+    "title": "VRFABRIC SA: Powiadomienie o transakcjach na akcjach Spółki przez osobę blisko związaną z osobą pełniącą obowiązki zarządcze w Spółce",
+    "url": "https://bossa.pl/analizy/komunikaty#message-248166",
+    "src": "bossa",
+    "flags": [
+     "zarząd",
+     "insider"
+    ]
+   },
    {
     "time": "22:20",
     "kind": "news",
@@ -1650,6 +1662,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "22:47",
+    "kind": "espi",
+    "ticker": null,
+    "title": "STARWARD INDUSTRIES S.A.: Zawarcie kompletu umów objęcia i zakończenie subskrypcji akcji serii L",
+    "url": "https://bossa.pl/analizy/komunikaty#message-248165",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "22:24",
     "kind": "espi",
