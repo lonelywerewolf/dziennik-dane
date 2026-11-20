@@ -1,24 +1,33 @@
 {
  "date": "2026-11-20",
  "counts": {
-  "podsumowania": 11,
+  "podsumowania": 12,
   "wyniki": 10,
   "rekomendacje": 0,
   "korporacyjne": 39,
-  "makro_pl": 21,
-  "swiat_rynki": 13,
+  "makro_pl": 22,
+  "swiat_rynki": 14,
   "energetyka_surowce": 8,
   "nieruchomosci": 1,
-  "fundusze_drobne": 12,
+  "fundusze_drobne": 13,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 58
+  "pozostale": 61
  },
- "duplicatesRemoved": 99,
- "total": 274,
+ "duplicatesRemoved": 103,
+ "total": 285,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "16:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: Giełda mocno zniżkuje pod koniec słabego tygodnia; WIG20 w dół o 3,4 proc.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/dzien-na-gpw-gielda-mocno-znizkuje-pod-koniec-slabego-tygodnia-wig20-w-dol-o-34",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "14:06",
     "kind": "news",
@@ -644,6 +653,15 @@
   ],
   "makro_pl": [
    {
+    "time": "16:15",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MRiT: Kolejny etap realizacji polityki mieszkaniowej – pakiet ustaw przyjęty przez SKRM (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442477",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "15:55",
     "kind": "news",
     "ticker": null,
@@ -835,11 +853,20 @@
   ],
   "swiat_rynki": [
    {
-    "time": "16:10",
-    "kind": "pap",
+    "time": "16:20",
+    "kind": "news",
     "ticker": null,
     "title": "Euro w EBC: 1,099 USD i 174,35 JPY",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442472",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/euro-w-ebc-1099-usd-i-17435-jpy",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "16:13",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeks nastrojów konsumentów w USA Uniwersytetu Michigan w listopadzie wyniósł 51,5 pkt.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442474",
     "src": "bossa",
     "flags": []
    },
@@ -1041,6 +1068,15 @@
   ],
   "fundusze_drobne": [
    {
+    "time": "16:14",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Nationale-Nederlanden PTE SA informuje",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442475",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "16:04",
     "kind": "pap",
     "ticker": null,
@@ -1171,6 +1207,33 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "16:23",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KPRM: Rosyjskie obiekty naruszyły polską przestrzeń powietrzną. Kolejna odsłona rosyjskiej eskalacji (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442481",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:15",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MC: Narracje dezinformacyjne po naruszeniu polskiej przestrzeni powietrznej (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442478",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:14",
+    "kind": "espi",
+    "ticker": null,
+    "title": "CPD S.A.: Asymilacja akcji Emitenta w depozycie papierów wartościowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216897",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:03",
     "kind": "pap",

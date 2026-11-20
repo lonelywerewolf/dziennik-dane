@@ -1,7 +1,125 @@
 {
  "date": "2026-11-20",
- "count": 274,
+ "count": 285,
  "items": [
+  {
+   "id": "bossa-pap-442481",
+   "date": "2026-11-20",
+   "time": "16:23",
+   "ts": "2026-11-20T16:23:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KPRM: Rosyjskie obiekty naruszyły polską przestrzeń powietrzną. Kolejna odsłona rosyjskiej eskalacji (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442481"
+  },
+  {
+   "id": "bossa-pap-442480",
+   "date": "2026-11-20",
+   "time": "16:22",
+   "ts": "2026-11-20T16:22:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: Giełda mocno zniżkuje pod koniec słabego tygodnia; WIG20 w dół o 3,4 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442480"
+  },
+  {
+   "id": "strefa-a9a379e34686",
+   "date": "2026-11-20",
+   "time": "16:20",
+   "ts": "2026-11-20T16:20:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: Giełda mocno zniżkuje pod koniec słabego tygodnia; WIG20 w dół o 3,4 proc.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/dzien-na-gpw-gielda-mocno-znizkuje-pod-koniec-slabego-tygodnia-wig20-w-dol-o-34"
+  },
+  {
+   "id": "strefa-3c0a341716c2",
+   "date": "2026-11-20",
+   "time": "16:20",
+   "ts": "2026-11-20T16:20:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Euro w EBC: 1,099 USD i 174,35 JPY",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/euro-w-ebc-1099-usd-i-17435-jpy"
+  },
+  {
+   "id": "bossa-pap-442479",
+   "date": "2026-11-20",
+   "time": "16:16",
+   "ts": "2026-11-20T16:16:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KE częściowo pozytywnie oceniła ostatni polski wniosek o wypłatę z KPO, opiewający na 12,7 mld euro (opis)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442479"
+  },
+  {
+   "id": "bossa-pap-442478",
+   "date": "2026-11-20",
+   "time": "16:15",
+   "ts": "2026-11-20T16:15:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MC: Narracje dezinformacyjne po naruszeniu polskiej przestrzeni powietrznej (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442478"
+  },
+  {
+   "id": "bossa-pap-442477",
+   "date": "2026-11-20",
+   "time": "16:15",
+   "ts": "2026-11-20T16:15:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MRiT: Kolejny etap realizacji polityki mieszkaniowej – pakiet ustaw przyjęty przez SKRM (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442477"
+  },
+  {
+   "id": "bossa-pap-442475",
+   "date": "2026-11-20",
+   "time": "16:14",
+   "ts": "2026-11-20T16:14:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Nationale-Nederlanden PTE SA informuje",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442475"
+  },
+  {
+   "id": "bossa-espi-216897",
+   "date": "2026-11-20",
+   "time": "16:14",
+   "ts": "2026-11-20T16:14:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "CPD S.A.",
+   "title": "Asymilacja akcji Emitenta w depozycie papierów wartościowych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216897"
+  },
+  {
+   "id": "bossa-pap-442474",
+   "date": "2026-11-20",
+   "time": "16:13",
+   "ts": "2026-11-20T16:13:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeks nastrojów konsumentów w USA Uniwersytetu Michigan w listopadzie wyniósł 51,5 pkt.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442474"
+  },
   {
    "id": "bossa-espi-216896",
    "date": "2026-11-20",
@@ -25,6 +143,17 @@
    "title": "Euro w EBC: 1,099 USD i 174,35 JPY",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-442472"
+  },
+  {
+   "id": "strefa-5facee81481d",
+   "date": "2026-11-20",
+   "time": "16:06",
+   "ts": "2026-11-20T16:06:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "KE częściowo pozytywnie oceniła ostatni polski wniosek o wypłatę z KPO, opiewający na 12,7 mld euro (opis)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/ke-czesciowo-pozytywnie-ocenila-ostatni-polski-wniosek-o-wyplate-z-kpo-0"
   },
   {
    "id": "bossa-pap-442471",
