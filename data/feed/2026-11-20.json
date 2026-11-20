@@ -1,7 +1,79 @@
 {
  "date": "2026-11-20",
- "count": 267,
+ "count": 274,
  "items": [
+  {
+   "id": "bossa-espi-216896",
+   "date": "2026-11-20",
+   "time": "16:11",
+   "ts": "2026-11-20T16:11:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "COLUMBUS ENERGY S.A.",
+   "title": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia na 17 grudnia 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216896"
+  },
+  {
+   "id": "bossa-pap-442472",
+   "date": "2026-11-20",
+   "time": "16:10",
+   "ts": "2026-11-20T16:10:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Euro w EBC: 1,099 USD i 174,35 JPY",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442472"
+  },
+  {
+   "id": "bossa-pap-442471",
+   "date": "2026-11-20",
+   "time": "16:04",
+   "ts": "2026-11-20T16:04:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "OFE wartości jednostek rozrachunkowych z 2026.11.19",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442471"
+  },
+  {
+   "id": "bossa-pap-442470",
+   "date": "2026-11-20",
+   "time": "16:04",
+   "ts": "2026-11-20T16:04:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Nationale-Nederlanden OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442470"
+  },
+  {
+   "id": "bossa-pap-442469",
+   "date": "2026-11-20",
+   "time": "16:04",
+   "ts": "2026-11-20T16:04:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "ALLIANZ POLSKA OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442469"
+  },
+  {
+   "id": "bossa-pap-442468",
+   "date": "2026-11-20",
+   "time": "16:03",
+   "ts": "2026-11-20T16:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Według Niemiec naruszenie polskiej przestrzeni powietrznej pokazuje, że Putin stawia na konfrontację",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442468"
+  },
   {
    "id": "strefa-e9e37465805e",
    "date": "2026-11-20",
@@ -12,6 +84,17 @@
    "title": "KE częściowo pozytywnie oceniła ostatni polski wniosek o wypłatę z KPO, opiewający na 12,7 mld euro",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261120/ke-czesciowo-pozytywnie-ocenila-ostatni-polski-wniosek-o-wyplate-z-kpo"
+  },
+  {
+   "id": "strefa-d72c1701516e",
+   "date": "2026-11-20",
+   "time": "15:55",
+   "ts": "2026-11-20T15:55:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "OFE wartości jednostek rozrachunkowych z 2026.11.19",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/ofe-wartosci-jednostek-rozrachunkowych-z-20261119"
   },
   {
    "id": "bossa-pap-442467",
