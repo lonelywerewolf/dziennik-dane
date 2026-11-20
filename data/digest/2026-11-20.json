@@ -4,7 +4,7 @@
   "podsumowania": 17,
   "wyniki": 10,
   "rekomendacje": 2,
-  "korporacyjne": 52,
+  "korporacyjne": 54,
   "makro_pl": 29,
   "swiat_rynki": 22,
   "energetyka_surowce": 9,
@@ -15,7 +15,7 @@
   "pozostale": 76
  },
  "duplicatesRemoved": 145,
- "total": 379,
+ "total": 381,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -308,6 +308,29 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "20:14",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ZE PAK S.A.: Otrzymanie zawiadomienia od Argumenol Investment Company Limited o podwyższeniu ceny w wezwaniu do zapisywania się na sprzedaż akcji Spółki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-232009",
+    "src": "bossa",
+    "flags": [
+     "wezwanie"
+    ]
+   },
+   {
+    "time": "20:10",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SZAR S.A.: Zawiadomienie o nabyciu znacznegopakietu akcji",
+    "url": "https://bossa.pl/analizy/komunikaty#message-231643",
+    "src": "bossa",
+    "flags": [
+     "insider",
+     "akcjonariat"
+    ]
+   },
    {
     "time": "19:53",
     "kind": "espi",

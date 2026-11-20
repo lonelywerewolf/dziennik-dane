@@ -1,7 +1,31 @@
 {
  "date": "2026-11-20",
- "count": 379,
+ "count": 381,
  "items": [
+  {
+   "id": "bossa-espi-232009",
+   "date": "2026-11-20",
+   "time": "20:14",
+   "ts": "2026-11-20T20:14:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ZE PAK S.A.",
+   "title": "Otrzymanie zawiadomienia od Argumenol Investment Company Limited o podwyższeniu ceny w wezwaniu do zapisywania się na sprzedaż akcji Spółki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-232009"
+  },
+  {
+   "id": "bossa-espi-231643",
+   "date": "2026-11-20",
+   "time": "20:10",
+   "ts": "2026-11-20T20:10:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "SZAR S.A.",
+   "title": "Zawiadomienie o nabyciu znacznegopakietu akcji",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-231643"
+  },
   {
    "id": "bossa-pap-442550",
    "date": "2026-11-20",
