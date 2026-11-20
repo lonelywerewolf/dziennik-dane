@@ -4,9 +4,9 @@
   "podsumowania": 17,
   "wyniki": 10,
   "rekomendacje": 2,
-  "korporacyjne": 50,
+  "korporacyjne": 51,
   "makro_pl": 29,
-  "swiat_rynki": 20,
+  "swiat_rynki": 21,
   "energetyka_surowce": 9,
   "nieruchomosci": 1,
   "fundusze_drobne": 13,
@@ -15,7 +15,7 @@
   "pozostale": 73
  },
  "duplicatesRemoved": 144,
- "total": 371,
+ "total": 373,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -308,6 +308,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "19:46",
+    "kind": "espi",
+    "ticker": null,
+    "title": "JRH ASI S.A.: Przesunięcie terminu podpisania aneksu wykonawczego do umowy ramowej o współpracy z kontrahentem z Ukrainy",
+    "url": "https://bossa.pl/analizy/komunikaty#message-228561",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "19:27",
     "kind": "espi",
@@ -1105,6 +1116,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "19:38",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MRPiPS: Dialog – spór – strajk: Agnieszka Dziemianowicz-Bąk i związki zawodowe rozmawiają o prawie do strajku (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442544",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:22",
     "kind": "espi",

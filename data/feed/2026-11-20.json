@@ -1,7 +1,31 @@
 {
  "date": "2026-11-20",
- "count": 371,
+ "count": 373,
  "items": [
+  {
+   "id": "bossa-espi-228561",
+   "date": "2026-11-20",
+   "time": "19:46",
+   "ts": "2026-11-20T19:46:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "JRH ASI S.A.",
+   "title": "Przesunięcie terminu podpisania aneksu wykonawczego do umowy ramowej o współpracy z kontrahentem z Ukrainy",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-228561"
+  },
+  {
+   "id": "bossa-pap-442544",
+   "date": "2026-11-20",
+   "time": "19:38",
+   "ts": "2026-11-20T19:38:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MRPiPS: Dialog – spór – strajk: Agnieszka Dziemianowicz-Bąk i związki zawodowe rozmawiają o prawie do strajku (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442544"
+  },
   {
    "id": "bossa-espi-226156",
    "date": "2026-11-20",
