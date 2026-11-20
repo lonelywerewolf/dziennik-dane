@@ -1,24 +1,53 @@
 {
  "date": "2026-11-20",
  "counts": {
-  "podsumowania": 13,
+  "podsumowania": 16,
   "wyniki": 10,
   "rekomendacje": 0,
   "korporacyjne": 43,
-  "makro_pl": 25,
-  "swiat_rynki": 16,
+  "makro_pl": 26,
+  "swiat_rynki": 17,
   "energetyka_surowce": 8,
   "nieruchomosci": 1,
   "fundusze_drobne": 13,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 64
+  "pozostale": 66
  },
- "duplicatesRemoved": 114,
- "total": 309,
+ "duplicatesRemoved": 118,
+ "total": 320,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "17:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Notowania ciągłe - podsumowanie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442508",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "17:31",
+    "kind": "pap",
+    "ticker": null,
+    "title": "WIG20 na zamknięciu wyniósł 4016,30 pkt (-4,48%)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442504",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:27",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA FX/FI: EUR/PLN w trakcie dnia powyżej 4,46; na rynkach może utrzymywać się zmienność",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/dzien-na-fxfi-eurpln-w-trakcie-dnia-powyzej-446-na-rynkach-moze-utrzymywac-sie",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "16:54",
     "kind": "skrot",
@@ -704,6 +733,15 @@
   ],
   "makro_pl": [
    {
+    "time": "17:39",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GPW: w sprawie wprowadzenia do alternatywnego systemu obrotu na Catalyst obligacji kapitałowych na okaziciela serii 2/2026 spółki ERSTE BANK POLSKA",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442509",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "17:02",
     "kind": "news",
     "ticker": null,
@@ -930,6 +968,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "17:35",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PCF GROUP S.A.: Zmiana daty przekazania skonsolidowanego raportu kwartalnego za trzeci kwartał 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216911",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:27",
     "kind": "news",
@@ -1303,6 +1350,26 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:30",
+    "kind": "news",
+    "ticker": null,
+    "title": "Portfel grupy Trakcja na koniec września '26 wyniósł ok. 5,85 mld zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/portfel-grupy-trakcja-na-koniec-wrzesnia-26-wyniosl-ok-585-mld-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "17:30",
+    "kind": "espi",
+    "ticker": null,
+    "title": "P.A. NOVA S.A.: Korekta raportu okresowego za III kwartał 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216910",
+    "src": "bossa",
+    "flags": [
+     "prognoza"
+    ]
+   },
    {
     "time": "17:19",
     "kind": "pap",

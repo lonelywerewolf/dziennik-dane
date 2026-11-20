@@ -1,7 +1,126 @@
 {
  "date": "2026-11-20",
- "count": 309,
+ "count": 320,
  "items": [
+  {
+   "id": "bossa-pap-442509",
+   "date": "2026-11-20",
+   "time": "17:39",
+   "ts": "2026-11-20T17:39:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie wprowadzenia do alternatywnego systemu obrotu na Catalyst obligacji kapitałowych na okaziciela serii 2/2026 spółki ERSTE BANK POLSKA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442509"
+  },
+  {
+   "id": "bossa-pap-442505",
+   "date": "2026-11-20",
+   "time": "17:37",
+   "ts": "2026-11-20T17:37:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie wprowadzenia do alternatywnego systemu obrotu na Catalyst obligacji na okaziciela serii 1/2026 spółki ERSTE BANK POLSKA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442505"
+  },
+  {
+   "id": "bossa-pap-442507",
+   "date": "2026-11-20",
+   "time": "17:35",
+   "ts": "2026-11-20T17:35:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wyniki Newagu w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442507"
+  },
+  {
+   "id": "bossa-espi-216911",
+   "date": "2026-11-20",
+   "time": "17:35",
+   "ts": "2026-11-20T17:35:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PCF GROUP S.A.",
+   "title": "Zmiana daty przekazania skonsolidowanego raportu kwartalnego za trzeci kwartał 2026 roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216911"
+  },
+  {
+   "id": "bossa-pap-442508",
+   "date": "2026-11-20",
+   "time": "17:34",
+   "ts": "2026-11-20T17:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Notowania ciągłe - podsumowanie",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442508"
+  },
+  {
+   "id": "bossa-pap-442504",
+   "date": "2026-11-20",
+   "time": "17:31",
+   "ts": "2026-11-20T17:31:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "WIG20 na zamknięciu wyniósł 4016,30 pkt (-4,48%)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442504"
+  },
+  {
+   "id": "strefa-4dccba77b5d1",
+   "date": "2026-11-20",
+   "time": "17:30",
+   "ts": "2026-11-20T17:30:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Portfel grupy Trakcja na koniec września '26 wyniósł ok. 5,85 mld zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/portfel-grupy-trakcja-na-koniec-wrzesnia-26-wyniosl-ok-585-mld-zl"
+  },
+  {
+   "id": "bossa-pap-442503",
+   "date": "2026-11-20",
+   "time": "17:30",
+   "ts": "2026-11-20T17:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Portfel grupy Trakcja na koniec września '26 wyniósł ok. 5,85 mld zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442503"
+  },
+  {
+   "id": "bossa-espi-216910",
+   "date": "2026-11-20",
+   "time": "17:30",
+   "ts": "2026-11-20T17:30:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "P.A. NOVA S.A.",
+   "title": "Korekta raportu okresowego za III kwartał 2026 roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216910"
+  },
+  {
+   "id": "bossa-pap-442501",
+   "date": "2026-11-20",
+   "time": "17:29",
+   "ts": "2026-11-20T17:29:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA FX/FI: EUR/PLN w trakcie dnia powyżej 4,46; na rynkach może utrzymywać się zmienność",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442501"
+  },
   {
    "id": "strefa-a6b93e77f768",
    "date": "2026-11-20",
@@ -12,6 +131,17 @@
    "title": "Eurocash chce pokazać pełną siłę zarobkową w '27; planuje IPO Frisco (wywiad)",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261120/eurocash-chce-pokazac-pelna-sile-zarobkowa-w-27-planuje-ipo-frisco-wywiad-0"
+  },
+  {
+   "id": "strefa-95498d95bac0",
+   "date": "2026-11-20",
+   "time": "17:27",
+   "ts": "2026-11-20T17:27:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA FX/FI: EUR/PLN w trakcie dnia powyżej 4,46; na rynkach może utrzymywać się zmienność",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/dzien-na-fxfi-eurpln-w-trakcie-dnia-powyzej-446-na-rynkach-moze-utrzymywac-sie"
   },
   {
    "id": "strefa-477886d7f378",
