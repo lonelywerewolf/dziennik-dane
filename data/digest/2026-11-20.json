@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 0
+  "pozostale": 2
  },
  "duplicatesRemoved": 1,
- "total": 2,
+ "total": 4,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [],
@@ -39,6 +39,25 @@
    }
   ],
   "obserwowane": [],
-  "pozostale": []
+  "pozostale": [
+   {
+    "time": "02:38",
+    "kind": "pap",
+    "ticker": null,
+    "title": "RCB: Rosyjski atak powietrzny na Ukrainie (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442275",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "02:31",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ENEIDA GAMES S.A.: Otrzymanie zawiadomienia o zmianie udziału w ogólnej liczbie głosów Emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-207806",
+    "src": "bossa",
+    "flags": []
+   }
+  ]
  }
 }

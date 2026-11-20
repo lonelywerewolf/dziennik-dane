@@ -1,7 +1,31 @@
 {
  "date": "2026-11-20",
- "count": 2,
+ "count": 4,
  "items": [
+  {
+   "id": "bossa-pap-442275",
+   "date": "2026-11-20",
+   "time": "02:38",
+   "ts": "2026-11-20T02:38:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "RCB: Rosyjski atak powietrzny na Ukrainie (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442275"
+  },
+  {
+   "id": "bossa-espi-207806",
+   "date": "2026-11-20",
+   "time": "02:31",
+   "ts": "2026-11-20T02:31:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ENEIDA GAMES S.A.",
+   "title": "Otrzymanie zawiadomienia o zmianie udziału w ogólnej liczbie głosów Emitenta",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-207806"
+  },
   {
    "id": "bossa-espi-197174",
    "date": "2026-11-20",
