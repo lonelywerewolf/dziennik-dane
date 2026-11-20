@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "id": "cd597b7157a0",
+   "ticker": "AVGO",
+   "time": "2026-11-21T00:37+01:00",
+   "title": "Stocks Meltdown as AI Trade Unravels",
+   "url": "https://www.nasdaq.com/articles/stocks-meltdown-ai-trade-unravels",
+   "src": "nasdaq",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -3.70% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.93%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -5.61%.  December E-mini S&P futures (ESZ26 ) fell -3.34%, and December E-mini Nasdaq futures..."
+  },
+  {
+   "id": "1699cbcd305e",
+   "ticker": "NVDA",
+   "time": "2026-11-20T23:35+01:00",
+   "title": "Stock Market Today, Nov. 20: Stocks Plunge as AI Trade Unwinds",
+   "url": "https://www.nasdaq.com/articles/stock-market-today-nov-20-stocks-plunge-ai-trade-unwinds",
+   "src": "nasdaq",
+   "summary": "Falling 3.70% to 6,910, the S&amp;P 500 (SNPINDEX:^GSPC) entered a technical correction after a seven-day losing streak, while the Nasdaq Composite (NASDAQINDEX:^IXIC) dropped 5.28% to 22,618, erasing its annual gains. The Dow Jones Industrial Average (DJINDICES:^DJI) fell 1.93%"
+  },
+  {
    "id": "2dd896125ac0",
    "ticker": "NVDA",
    "time": "2026-11-20T23:00+01:00",
@@ -16030,5 +16048,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-21T00:06:34+01:00"
+ "updatedAt": "2026-11-21T00:56:34+01:00"
 }
