@@ -4,18 +4,18 @@
   "podsumowania": 11,
   "wyniki": 9,
   "rekomendacje": 0,
-  "korporacyjne": 28,
+  "korporacyjne": 30,
   "makro_pl": 19,
   "swiat_rynki": 11,
-  "energetyka_surowce": 7,
+  "energetyka_surowce": 8,
   "nieruchomosci": 1,
-  "fundusze_drobne": 5,
+  "fundusze_drobne": 6,
   "twoje_spolki": 2,
   "obserwowane": 0,
   "pozostale": 54
  },
  "duplicatesRemoved": 94,
- "total": 241,
+ "total": 245,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -220,6 +220,26 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "15:06",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PEKAO BANK HIPOTECZNY: Informacje o zobowiązaniach Pekao Banku Hipotecznego S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216885",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:01",
+    "kind": "espi",
+    "ticker": null,
+    "title": "XTPL S.A.: Podsumowanie subskrypcji akcji serii Z i dookreślenie kapitału zakładowego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216883",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "14:27",
     "kind": "news",
@@ -798,6 +818,15 @@
   ],
   "energetyka_surowce": [
    {
+    "time": "15:05",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MDI ENERGIA S.A.: Zawarcie aneksów do umów kredytu.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216884",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "12:41",
     "kind": "news",
     "ticker": null,
@@ -873,6 +902,15 @@
    }
   ],
   "fundusze_drobne": [
+   {
+    "time": "14:55",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OFE POCZTYLION wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442445",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:02",
     "kind": "news",

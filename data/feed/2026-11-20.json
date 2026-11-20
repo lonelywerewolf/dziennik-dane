@@ -1,7 +1,55 @@
 {
  "date": "2026-11-20",
- "count": 241,
+ "count": 245,
  "items": [
+  {
+   "id": "bossa-espi-216885",
+   "date": "2026-11-20",
+   "time": "15:06",
+   "ts": "2026-11-20T15:06:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PEKAO BANK HIPOTECZNY",
+   "title": "Informacje o zobowiązaniach Pekao Banku Hipotecznego S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216885"
+  },
+  {
+   "id": "bossa-espi-216884",
+   "date": "2026-11-20",
+   "time": "15:05",
+   "ts": "2026-11-20T15:05:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MDI ENERGIA S.A.",
+   "title": "Zawarcie aneksów do umów kredytu.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216884"
+  },
+  {
+   "id": "bossa-espi-216883",
+   "date": "2026-11-20",
+   "time": "15:01",
+   "ts": "2026-11-20T15:01:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "XTPL S.A.",
+   "title": "Podsumowanie subskrypcji akcji serii Z i dookreślenie kapitału zakładowego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216883"
+  },
+  {
+   "id": "bossa-pap-442445",
+   "date": "2026-11-20",
+   "time": "14:55",
+   "ts": "2026-11-20T14:55:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "OFE POCZTYLION wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442445"
+  },
   {
    "id": "strefa-6cc4b7a8583b",
    "date": "2026-11-20",
