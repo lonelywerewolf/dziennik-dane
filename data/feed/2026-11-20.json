@@ -1,7 +1,90 @@
 {
  "date": "2026-11-20",
- "count": 34,
+ "count": 42,
  "items": [
+  {
+   "id": "bossa-espi-216105",
+   "date": "2026-11-20",
+   "time": "07:40",
+   "ts": "2026-11-20T07:40:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "INSTALKRK",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216105"
+  },
+  {
+   "id": "bossa-espi-215655",
+   "date": "2026-11-20",
+   "time": "07:37",
+   "ts": "2026-11-20T07:37:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "NEXITY GLOBAL S.A.",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-215655"
+  },
+  {
+   "id": "bossa-pap-442301",
+   "date": "2026-11-20",
+   "time": "07:35",
+   "ts": "2026-11-20T07:35:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Złotowe depozyty międzybankowe - WIBID, WIBOR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442301"
+  },
+  {
+   "id": "bossa-pap-442300",
+   "date": "2026-11-20",
+   "time": "07:34",
+   "ts": "2026-11-20T07:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wyniki Compu w III kw. 2026 roku vs. konsensus PAP Biznes (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442300"
+  },
+  {
+   "id": "bossa-espi-215374",
+   "date": "2026-11-20",
+   "time": "07:34",
+   "ts": "2026-11-20T07:34:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Bowim",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-215374"
+  },
+  {
+   "id": "strefa-ab0d2d579734",
+   "date": "2026-11-20",
+   "time": "07:32",
+   "ts": "2026-11-20T07:32:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wyniki Compu w III kw. 2026 roku vs. konsensus PAP Biznes (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/wyniki-compu-w-iii-kw-2026-roku-vs-konsensus-pap-biznes-tabela"
+  },
+  {
+   "id": "bossa-pap-442298",
+   "date": "2026-11-20",
+   "time": "07:31",
+   "ts": "2026-11-20T07:31:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Nie ma konieczności nowelizacji ustawy budżetowej na 2026 r. - MF",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442298"
+  },
   {
    "id": "bossa-espi-214646",
    "date": "2026-11-20",
@@ -25,6 +108,17 @@
    "title": "QSr",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-214293"
+  },
+  {
+   "id": "strefa-4c224131ced3",
+   "date": "2026-11-20",
+   "time": "07:22",
+   "ts": "2026-11-20T07:22:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Nie ma konieczności nowelizacji ustawy budżetowej na 2026 r. - MF",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/nie-ma-koniecznosci-nowelizacji-ustawy-budzetowej-na-2026-r-mf"
   },
   {
    "id": "bossa-pap-442295",
