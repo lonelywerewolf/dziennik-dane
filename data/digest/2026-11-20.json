@@ -4,8 +4,8 @@
   "podsumowania": 12,
   "wyniki": 10,
   "rekomendacje": 0,
-  "korporacyjne": 39,
-  "makro_pl": 22,
+  "korporacyjne": 40,
+  "makro_pl": 23,
   "swiat_rynki": 14,
   "energetyka_surowce": 8,
   "nieruchomosci": 1,
@@ -15,7 +15,7 @@
   "pozostale": 61
  },
  "duplicatesRemoved": 103,
- "total": 285,
+ "total": 287,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -240,6 +240,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "16:32",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BEST: Informacja o transakcji na akcjach Emitenta uzyskana w trybie art. 19 Rozporządzenia MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216898",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
    {
     "time": "16:11",
     "kind": "espi",
@@ -652,6 +663,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "16:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MRiRW: Odszkodowania za szkody wyrządzone przez ptaki coraz bliżej (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442482",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:15",
     "kind": "pap",

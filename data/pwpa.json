@@ -37,6 +37,15 @@
    "house": "Dom Maklerski BDM S.A."
   },
   {
+   "date": "2026-11-20",
+   "ticker": "EUR",
+   "company": "EUROCASH S.A.",
+   "file": "20261120_noble_securities_eur_pl_aw.pdf",
+   "url": "https://www.gpw.pl/pub/pwpa/20261120_noble_securities_eur_pl_aw.pdf",
+   "type": "analiza wyników",
+   "house": "Noble Securities S.A."
+  },
+  {
    "date": "2026-11-19",
    "ticker": "ATD",
    "company": "ATENDE S.A.",
@@ -630,5 +639,5 @@
    "house": "Noble Securities S.A."
   }
  ],
- "updatedAt": "2026-11-20T16:23:29+01:00"
+ "updatedAt": "2026-11-20T16:34:28+01:00"
 }

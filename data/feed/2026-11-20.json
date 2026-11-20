@@ -1,7 +1,31 @@
 {
  "date": "2026-11-20",
- "count": 285,
+ "count": 287,
  "items": [
+  {
+   "id": "bossa-espi-216898",
+   "date": "2026-11-20",
+   "time": "16:32",
+   "ts": "2026-11-20T16:32:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BEST",
+   "title": "Informacja o transakcji na akcjach Emitenta uzyskana w trybie art. 19 Rozporządzenia MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216898"
+  },
+  {
+   "id": "bossa-pap-442482",
+   "date": "2026-11-20",
+   "time": "16:30",
+   "ts": "2026-11-20T16:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MRiRW: Odszkodowania za szkody wyrządzone przez ptaki coraz bliżej (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442482"
+  },
   {
    "id": "bossa-pap-442481",
    "date": "2026-11-20",
