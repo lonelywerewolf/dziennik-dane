@@ -12,10 +12,10 @@
   "fundusze_drobne": 1,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 26
+  "pozostale": 28
  },
  "duplicatesRemoved": 40,
- "total": 110,
+ "total": 112,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -452,6 +452,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "10:55",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Prezydent powoła A. Domańskiego na wicepremiera, wypełniając konstytucyjny obowiązek - Szefernaker",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442350",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:55",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Prezydent powoła Agnieszkę Bartol na funkcję ministry funduszy i polityki regionalnej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442349",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:42",
     "kind": "pap",

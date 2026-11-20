@@ -1,7 +1,31 @@
 {
  "date": "2026-11-20",
- "count": 110,
+ "count": 112,
  "items": [
+  {
+   "id": "bossa-pap-442350",
+   "date": "2026-11-20",
+   "time": "10:55",
+   "ts": "2026-11-20T10:55:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Prezydent powoła A. Domańskiego na wicepremiera, wypełniając konstytucyjny obowiązek - Szefernaker",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442350"
+  },
+  {
+   "id": "bossa-pap-442349",
+   "date": "2026-11-20",
+   "time": "10:55",
+   "ts": "2026-11-20T10:55:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Prezydent powoła Agnieszkę Bartol na funkcję ministry funduszy i polityki regionalnej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442349"
+  },
   {
    "id": "bossa-pap-442348",
    "date": "2026-11-20",
