@@ -7,15 +7,15 @@
   "korporacyjne": 4,
   "makro_pl": 5,
   "swiat_rynki": 3,
-  "energetyka_surowce": 2,
+  "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 1,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 19
+  "pozostale": 20
  },
- "duplicatesRemoved": 30,
- "total": 77,
+ "duplicatesRemoved": 33,
+ "total": 82,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -257,6 +257,15 @@
   ],
   "energetyka_surowce": [
    {
+    "time": "08:56",
+    "kind": "news",
+    "ticker": null,
+    "title": "To nie jest moment na sprzedaż Możejek przez Orlen - Balczun, MAP",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/nie-jest-moment-na-sprzedaz-mozejek-przez-orlen-balczun-map",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "08:38",
     "kind": "news",
     "ticker": null,
@@ -300,6 +309,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:00",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kurs Benefit Systems rośnie o 5 proc. do 6.200 zł; indeks mWIG40 spada o 1 proc.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/kurs-benefit-systems-rosnie-o-5-proc-do-6200-zl-indeks-mwig40-spada-o-1-proc",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:49",
     "kind": "pap",

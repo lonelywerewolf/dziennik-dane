@@ -1,7 +1,65 @@
 {
  "date": "2026-11-20",
- "count": 77,
+ "count": 82,
  "items": [
+  {
+   "id": "bossa-pap-442326",
+   "date": "2026-11-20",
+   "time": "09:09",
+   "ts": "2026-11-20T09:09:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Kurs Benefit Systems rośnie o 5 proc. do 6.200 zł; indeks mWIG40 spada o 1 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442326"
+  },
+  {
+   "id": "bossa-pap-442325",
+   "date": "2026-11-20",
+   "time": "09:06",
+   "ts": "2026-11-20T09:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "RCB: rosyjski atak powietrzny na Ukrainie (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442325"
+  },
+  {
+   "id": "strefa-17fa6dcdbdce",
+   "date": "2026-11-20",
+   "time": "09:00",
+   "ts": "2026-11-20T09:00:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Kurs Benefit Systems rośnie o 5 proc. do 6.200 zł; indeks mWIG40 spada o 1 proc.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/kurs-benefit-systems-rosnie-o-5-proc-do-6200-zl-indeks-mwig40-spada-o-1-proc"
+  },
+  {
+   "id": "bossa-pap-442324",
+   "date": "2026-11-20",
+   "time": "08:59",
+   "ts": "2026-11-20T08:59:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "To nie jest moment na sprzedaż Możejek przez Orlen - Balczun, MAP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442324"
+  },
+  {
+   "id": "strefa-8aeaa5fc174e",
+   "date": "2026-11-20",
+   "time": "08:56",
+   "ts": "2026-11-20T08:56:35+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "To nie jest moment na sprzedaż Możejek przez Orlen - Balczun, MAP",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/nie-jest-moment-na-sprzedaz-mozejek-przez-orlen-balczun-map"
+  },
   {
    "id": "strefa-c674e1459fa9",
    "date": "2026-11-20",
