@@ -1,7 +1,7 @@
 {
  "date": "2026-11-20",
  "counts": {
-  "podsumowania": 0,
+  "podsumowania": 3,
   "wyniki": 0,
   "rekomendacje": 0,
   "korporacyjne": 0,
@@ -12,13 +12,41 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 4
+  "pozostale": 5
  },
  "duplicatesRemoved": 1,
- "total": 6,
+ "total": 10,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
-  "podsumowania": [],
+  "podsumowania": [
+   {
+    "time": "06:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Kalendarium rynku kapitałowego GPW 2026-11-20",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442281",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "06:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Kalendarium rynku NewConnect 2026-11-20",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442280",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "06:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Kalendarium spółek z WIG30 2026-11-20",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442279",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "wyniki": [],
   "rekomendacje": [],
   "korporacyjne": [],
@@ -40,6 +68,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "06:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-20",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442278",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "05:43",
     "kind": "espi",
