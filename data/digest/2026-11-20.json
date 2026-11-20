@@ -12,37 +12,37 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 8
+  "pozostale": 10
  },
- "duplicatesRemoved": 6,
- "total": 22,
+ "duplicatesRemoved": 10,
+ "total": 28,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kalendarium rynku kapitałowego GPW 2026-11-20",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/kalendarium-rynku-kapitalowego-gpw-2026-11-20",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "07:00",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kalendarium rynku NewConnect 2026-11-20",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/kalendarium-rynku-newconnect-2026-11-20",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "06:01",
     "kind": "pap",
     "ticker": null,
     "title": "Przegląd prasy gospodarczej w piątek, 20 listopada",
     "url": "https://bossa.pl/analizy/komunikaty#message-442283",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "06:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Kalendarium rynku kapitałowego GPW 2026-11-20",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442281",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "06:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Kalendarium rynku NewConnect 2026-11-20",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442280",
     "src": "bossa",
     "flags": []
    },
@@ -110,6 +110,33 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "07:07",
+    "kind": "pap",
+    "ticker": null,
+    "title": "RCB: Zagrożenie atakiem z powietrza (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442292",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-20",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-20",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "06:38",
+    "kind": "news",
+    "ticker": null,
+    "title": "Eurocash chce rozwijać Dużego Bena we franczyzie, zamknie nieperspektywiczne sklepy w '27",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/eurocash-chce-rozwijac-duzego-bena-we-franczyzie-zamknie-nieperspektywiczne",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "06:37",
     "kind": "pap",
     "ticker": null,
@@ -134,15 +161,6 @@
     "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
     "url": "https://strefainwestorow.pl/wiadomosci/20261120/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela",
     "src": "strefainwestorow",
-    "flags": []
-   },
-   {
-    "time": "06:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-20",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442278",
-    "src": "bossa",
     "flags": []
    },
    {

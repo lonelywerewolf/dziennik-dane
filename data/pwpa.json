@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "date": "2026-11-20",
+   "ticker": "NVA",
+   "company": "P.A. NOVA S.A.",
+   "file": "20261120_ipopema_securities_nva_pl_aw.pdf",
+   "url": "https://www.gpw.pl/pub/pwpa/20261120_ipopema_securities_nva_pl_aw.pdf",
+   "type": "analiza wyników",
+   "house": "IPOPEMA Securities S.A."
+  },
+  {
    "date": "2026-11-19",
    "ticker": "ATD",
    "company": "ATENDE S.A.",
@@ -594,5 +603,5 @@
    "house": "Noble Securities S.A."
   }
  ],
- "updatedAt": "2026-11-20T06:57:47+01:00"
+ "updatedAt": "2026-11-20T07:08:48+01:00"
 }
