@@ -2,20 +2,20 @@
  "date": "2026-11-20",
  "counts": {
   "podsumowania": 10,
-  "wyniki": 8,
+  "wyniki": 9,
   "rekomendacje": 0,
-  "korporacyjne": 15,
-  "makro_pl": 14,
+  "korporacyjne": 16,
+  "makro_pl": 15,
   "swiat_rynki": 8,
-  "energetyka_surowce": 4,
+  "energetyka_surowce": 6,
   "nieruchomosci": 0,
   "fundusze_drobne": 1,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 35
+  "pozostale": 36
  },
- "duplicatesRemoved": 54,
- "total": 151,
+ "duplicatesRemoved": 57,
+ "total": 160,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -112,6 +112,17 @@
   ],
   "wyniki": [
    {
+    "time": "12:32",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa WITTCHEN porządkuje zagraniczną sieć salonów. Jednorazowe odpisy obciążą wynik za III kwartał",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/grupa-wittchen-porzadkuje-zagraniczna-siec-salonow-jednorazowe-odpisy-obciaza",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
     "time": "11:14",
     "kind": "news",
     "ticker": null,
@@ -198,6 +209,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "12:32",
+    "kind": "news",
+    "ticker": null,
+    "title": "7R pozyskało 87,7 mln zł z pierwszej publicznej emisji obligacji",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/7r-pozyskalo-877-mln-zl-z-pierwszej-publicznej-emisji-obligacji",
+    "src": "strefainwestorow",
+    "flags": [
+     "emisja"
+    ]
+   },
    {
     "time": "12:07",
     "kind": "espi",
@@ -359,6 +381,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "12:23",
+    "kind": "news",
+    "ticker": null,
+    "title": "Stopy proc. powinny być dużo wyższe, a komunikacja RPP jastrzębia – Tyrowicz, RPP (wywiad)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/stopy-proc-powinny-byc-duzo-wyzsze-komunikacja-rpp-jastrzebia-tyrowicz-rpp",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "11:54",
     "kind": "pap",
@@ -564,6 +595,24 @@
   ],
   "energetyka_surowce": [
    {
+    "time": "12:28",
+    "kind": "espi",
+    "ticker": null,
+    "title": "JSW S.A.: Zgoda Rady Nadzorczej JSW S.A. na umorzenie Certyfikatów Inwestycyjnych JSW Stabilizacyjnego Funduszu Inwestycyjnego Zamkniętego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216856",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "Możliwy dalszy spadek cen paliw na stacjach w przyszłym tygodniu - e-petrol",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/mozliwy-dalszy-spadek-cen-paliw-na-stacjach-w-przyszlym-tygodniu-e-petrol",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "11:50",
     "kind": "news",
     "ticker": null,
@@ -634,6 +683,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:30",
+    "kind": "news",
+    "ticker": null,
+    "title": "Amica z powodu słabego popytu nie realizuje części celów strategii; liczy na ożywienie we Francji w '27",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/amica-z-powodu-slabego-popytu-nie-realizuje-czesci-celow-strategii-liczy-na",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "12:13",
     "kind": "pap",

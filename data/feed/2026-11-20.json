@@ -1,7 +1,99 @@
 {
  "date": "2026-11-20",
- "count": 151,
+ "count": 160,
  "items": [
+  {
+   "id": "strefa-1f475f4cd9ab",
+   "date": "2026-11-20",
+   "time": "12:32",
+   "ts": "2026-11-20T12:32:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grupa WITTCHEN porządkuje zagraniczną sieć salonów. Jednorazowe odpisy obciążą wynik za III kwartał",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/grupa-wittchen-porzadkuje-zagraniczna-siec-salonow-jednorazowe-odpisy-obciaza"
+  },
+  {
+   "id": "strefa-0ee79ef9db1c",
+   "date": "2026-11-20",
+   "time": "12:32",
+   "ts": "2026-11-20T12:32:04+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "7R pozyskało 87,7 mln zł z pierwszej publicznej emisji obligacji",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/7r-pozyskalo-877-mln-zl-z-pierwszej-publicznej-emisji-obligacji"
+  },
+  {
+   "id": "bossa-pap-442386",
+   "date": "2026-11-20",
+   "time": "12:31",
+   "ts": "2026-11-20T12:31:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Amica z powodu słabego popytu nie realizuje części celów strategii; liczy na ożywienie we Francji w '27",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442386"
+  },
+  {
+   "id": "strefa-7b08cb3884d3",
+   "date": "2026-11-20",
+   "time": "12:30",
+   "ts": "2026-11-20T12:30:03+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Amica z powodu słabego popytu nie realizuje części celów strategii; liczy na ożywienie we Francji w '27",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/amica-z-powodu-slabego-popytu-nie-realizuje-czesci-celow-strategii-liczy-na"
+  },
+  {
+   "id": "bossa-espi-216856",
+   "date": "2026-11-20",
+   "time": "12:28",
+   "ts": "2026-11-20T12:28:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "JSW S.A.",
+   "title": "Zgoda Rady Nadzorczej JSW S.A. na umorzenie Certyfikatów Inwestycyjnych JSW Stabilizacyjnego Funduszu Inwestycyjnego Zamkniętego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216856"
+  },
+  {
+   "id": "bossa-espi-216855",
+   "date": "2026-11-20",
+   "time": "12:27",
+   "ts": "2026-11-20T12:27:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF S&P 500 PLN-HEDGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 234 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216855"
+  },
+  {
+   "id": "strefa-fa570126a41a",
+   "date": "2026-11-20",
+   "time": "12:23",
+   "ts": "2026-11-20T12:23:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Stopy proc. powinny być dużo wyższe, a komunikacja RPP jastrzębia – Tyrowicz, RPP (wywiad)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/stopy-proc-powinny-byc-duzo-wyzsze-komunikacja-rpp-jastrzebia-tyrowicz-rpp"
+  },
+  {
+   "id": "bossa-pap-442383",
+   "date": "2026-11-20",
+   "time": "12:22",
+   "ts": "2026-11-20T12:22:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Możliwy dalszy spadek cen paliw na stacjach w przyszłym tygodniu - e-petrol",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442383"
+  },
   {
    "id": "bossa-espi-216854",
    "date": "2026-11-20",
@@ -13,6 +105,17 @@
    "title": "Raport bieżący nr 234 / 2026",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-216854"
+  },
+  {
+   "id": "strefa-e8e011c3860c",
+   "date": "2026-11-20",
+   "time": "12:20",
+   "ts": "2026-11-20T12:20:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Możliwy dalszy spadek cen paliw na stacjach w przyszłym tygodniu - e-petrol",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/mozliwy-dalszy-spadek-cen-paliw-na-stacjach-w-przyszlym-tygodniu-e-petrol"
   },
   {
    "id": "bossa-pap-442381",
