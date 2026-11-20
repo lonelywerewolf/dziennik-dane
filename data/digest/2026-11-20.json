@@ -4,7 +4,7 @@
   "podsumowania": 10,
   "wyniki": 8,
   "rekomendacje": 0,
-  "korporacyjne": 14,
+  "korporacyjne": 15,
   "makro_pl": 14,
   "swiat_rynki": 8,
   "energetyka_surowce": 4,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 35
  },
- "duplicatesRemoved": 52,
- "total": 148,
+ "duplicatesRemoved": 54,
+ "total": 151,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -251,6 +251,17 @@
     "src": "bossa",
     "flags": [
      "zarząd"
+    ]
+   },
+   {
+    "time": "11:54",
+    "kind": "news",
+    "ticker": null,
+    "title": "Echo Investment wypłaci zaliczkę na poczet dywidendy za '26 w wys. 0,40 zł na akcję",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/echo-investment-wyplaci-zaliczke-na-poczet-dywidendy-za-26-w-wys-040-zl-na",
+    "src": "strefainwestorow",
+    "flags": [
+     "dywidenda"
     ]
    },
    {

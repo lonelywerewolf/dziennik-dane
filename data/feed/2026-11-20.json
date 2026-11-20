@@ -1,7 +1,31 @@
 {
  "date": "2026-11-20",
- "count": 148,
+ "count": 151,
  "items": [
+  {
+   "id": "bossa-espi-216854",
+   "date": "2026-11-20",
+   "time": "12:21",
+   "ts": "2026-11-20T12:21:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 PLN-HEDGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 234 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216854"
+  },
+  {
+   "id": "bossa-pap-442381",
+   "date": "2026-11-20",
+   "time": "12:19",
+   "ts": "2026-11-20T12:19:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Echo Investment wypłaci zaliczkę na poczet dywidendy za '26 w wys. 0,40 zł na akcję",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442381"
+  },
   {
    "id": "bossa-espi-216853",
    "date": "2026-11-20",
@@ -133,6 +157,17 @@
    "title": "Raport bieżący nr 234 / 2026",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-216846"
+  },
+  {
+   "id": "strefa-64a3c5ca6791",
+   "date": "2026-11-20",
+   "time": "11:54",
+   "ts": "2026-11-20T11:54:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Echo Investment wypłaci zaliczkę na poczet dywidendy za '26 w wys. 0,40 zł na akcję",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/echo-investment-wyplaci-zaliczke-na-poczet-dywidendy-za-26-w-wys-040-zl-na"
   },
   {
    "id": "bossa-pap-442369",
