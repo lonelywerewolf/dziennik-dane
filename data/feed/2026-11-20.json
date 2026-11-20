@@ -1,7 +1,43 @@
 {
  "date": "2026-11-20",
- "count": 233,
+ "count": 236,
  "items": [
+  {
+   "id": "bossa-espi-216882",
+   "date": "2026-11-20",
+   "time": "14:42",
+   "ts": "2026-11-20T14:42:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "SOHO DEVELOPMENT",
+   "title": "Skarga kasacyjna Dyrektora Izby Administracji Skarbowej w Białymstoku od wyroku Wojewódzkiego Sądu Administracyjnego w Białymstoku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216882"
+  },
+  {
+   "id": "bossa-espi-216881",
+   "date": "2026-11-20",
+   "time": "14:39",
+   "ts": "2026-11-20T14:39:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "GENOMED S.A.",
+   "title": "Zawarcie umów sprzedaży akcji Genomed S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216881"
+  },
+  {
+   "id": "bossa-pap-442440",
+   "date": "2026-11-20",
+   "time": "14:35",
+   "ts": "2026-11-20T14:35:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Polimex Mostostal zawarł umowę z m.in. PGZ i ARP dot. planowanego połączenia Jelcza z RFK",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442440"
+  },
   {
    "id": "bossa-espi-216880",
    "date": "2026-11-20",

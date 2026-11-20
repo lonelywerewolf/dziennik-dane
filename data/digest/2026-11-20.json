@@ -4,7 +4,7 @@
   "podsumowania": 11,
   "wyniki": 9,
   "rekomendacje": 0,
-  "korporacyjne": 27,
+  "korporacyjne": 28,
   "makro_pl": 19,
   "swiat_rynki": 10,
   "energetyka_surowce": 7,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 5,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 51
+  "pozostale": 53
  },
  "duplicatesRemoved": 91,
- "total": 233,
+ "total": 236,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -220,6 +220,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "14:35",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Polimex Mostostal zawarł umowę z m.in. PGZ i ARP dot. planowanego połączenia Jelcza z RFK",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442440",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "14:26",
     "kind": "news",
@@ -921,6 +932,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "14:42",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SOHO DEVELOPMENT: Skarga kasacyjna Dyrektora Izby Administracji Skarbowej w Białymstoku od wyroku Wojewódzkiego Sądu Administracyjnego w Białymstoku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216882",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:39",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GENOMED S.A.: Zawarcie umów sprzedaży akcji Genomed S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216881",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:27",
     "kind": "news",
