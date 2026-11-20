@@ -4,7 +4,7 @@
   "podsumowania": 18,
   "wyniki": 10,
   "rekomendacje": 2,
-  "korporacyjne": 57,
+  "korporacyjne": 58,
   "makro_pl": 29,
   "swiat_rynki": 22,
   "energetyka_surowce": 9,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 13,
   "twoje_spolki": 3,
   "obserwowane": 0,
-  "pozostale": 76
+  "pozostale": 77
  },
  "duplicatesRemoved": 149,
- "total": 389,
+ "total": 391,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -319,6 +319,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "22:24",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Police chcą przeprowadzić emisję akcji o wartości do 415,3 mln zł, którą obejmie Grupa Azoty",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442559",
+    "src": "bossa",
+    "flags": [
+     "emisja"
+    ]
+   },
    {
     "time": "21:42",
     "kind": "espi",
@@ -1639,6 +1650,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "22:24",
+    "kind": "espi",
+    "ticker": null,
+    "title": "STARWARD INDUSTRIES S.A.: Zawarcie aneksów do umów pożyczek z sześcioma pożyczkodawcami, w tym Dawidem Sękowskim, członkiem Rady Nadzorczej Spółki - zmiana zasad rozliczeń",
+    "url": "https://bossa.pl/analizy/komunikaty#message-245819",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "19:53",
     "kind": "espi",

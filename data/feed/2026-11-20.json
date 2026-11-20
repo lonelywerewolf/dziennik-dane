@@ -1,7 +1,31 @@
 {
  "date": "2026-11-20",
- "count": 389,
+ "count": 391,
  "items": [
+  {
+   "id": "bossa-pap-442559",
+   "date": "2026-11-20",
+   "time": "22:24",
+   "ts": "2026-11-20T22:24:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Police chcą przeprowadzić emisję akcji o wartości do 415,3 mln zł, którą obejmie Grupa Azoty",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442559"
+  },
+  {
+   "id": "bossa-espi-245819",
+   "date": "2026-11-20",
+   "time": "22:24",
+   "ts": "2026-11-20T22:24:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "STARWARD INDUSTRIES S.A.",
+   "title": "Zawarcie aneksów do umów pożyczek z sześcioma pożyczkodawcami, w tym Dawidem Sękowskim, członkiem Rady Nadzorczej Spółki - zmiana zasad rozliczeń",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-245819"
+  },
   {
    "id": "bossa-espi-245511",
    "date": "2026-11-20",
