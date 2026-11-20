@@ -5,17 +5,17 @@
   "wyniki": 3,
   "rekomendacje": 0,
   "korporacyjne": 1,
-  "makro_pl": 4,
+  "makro_pl": 5,
   "swiat_rynki": 1,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 13
+  "pozostale": 15
  },
- "duplicatesRemoved": 18,
- "total": 46,
+ "duplicatesRemoved": 20,
+ "total": 51,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -103,6 +103,15 @@
   ],
   "makro_pl": [
    {
+    "time": "08:03",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Sprzedaż detaliczna w W.Brytanii w X: +0,7 proc. mdm. Konsensus: 0,0 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442308",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "07:35",
     "kind": "pap",
     "ticker": null,
@@ -142,11 +151,11 @@
   "swiat_rynki": [
    {
     "time": "07:52",
-    "kind": "pap",
+    "kind": "news",
     "ticker": null,
     "title": "Najważniejsze indeksy giełdowe w Azji",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442306",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/najwazniejsze-indeksy-gieldowe-w-azji",
+    "src": "strefainwestorow",
     "flags": []
    }
   ],
@@ -176,6 +185,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "07:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "Obecnie nie ma zagrożenia z powietrza w Polsce - premier",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/obecnie-nie-ma-zagrozenia-z-powietrza-w-polsce-premier",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "07:53",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny ropy rosną, ale w ujęciu tygodniowym będzie trzeci spadek",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/ceny-ropy-rosna-ale-w-ujeciu-tygodniowym-bedzie-trzeci-spadek",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "07:41",
     "kind": "pap",

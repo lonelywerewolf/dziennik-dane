@@ -1,7 +1,64 @@
 {
  "date": "2026-11-20",
- "count": 46,
+ "count": 51,
  "items": [
+  {
+   "id": "bossa-pap-442308",
+   "date": "2026-11-20",
+   "time": "08:03",
+   "ts": "2026-11-20T08:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Sprzedaż detaliczna w W.Brytanii w X: +0,7 proc. mdm. Konsensus: 0,0 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442308"
+  },
+  {
+   "id": "strefa-5cc66d8dc3b8",
+   "date": "2026-11-20",
+   "time": "07:55",
+   "ts": "2026-11-20T07:55:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Obecnie nie ma zagrożenia z powietrza w Polsce - premier",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/obecnie-nie-ma-zagrozenia-z-powietrza-w-polsce-premier"
+  },
+  {
+   "id": "bossa-pap-442307",
+   "date": "2026-11-20",
+   "time": "07:54",
+   "ts": "2026-11-20T07:54:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ceny ropy rosną, ale w ujęciu tygodniowym będzie trzeci spadek",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442307"
+  },
+  {
+   "id": "strefa-ea6289025f34",
+   "date": "2026-11-20",
+   "time": "07:53",
+   "ts": "2026-11-20T07:53:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ceny ropy rosną, ale w ujęciu tygodniowym będzie trzeci spadek",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/ceny-ropy-rosna-ale-w-ujeciu-tygodniowym-bedzie-trzeci-spadek"
+  },
+  {
+   "id": "strefa-beefb9b15931",
+   "date": "2026-11-20",
+   "time": "07:52",
+   "ts": "2026-11-20T07:52:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Najważniejsze indeksy giełdowe w Azji",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/najwazniejsze-indeksy-gieldowe-w-azji"
+  },
   {
    "id": "bossa-pap-442306",
    "date": "2026-11-20",
