@@ -4,18 +4,18 @@
   "podsumowania": 13,
   "wyniki": 10,
   "rekomendacje": 0,
-  "korporacyjne": 42,
-  "makro_pl": 24,
-  "swiat_rynki": 15,
+  "korporacyjne": 43,
+  "makro_pl": 25,
+  "swiat_rynki": 16,
   "energetyka_surowce": 8,
   "nieruchomosci": 1,
   "fundusze_drobne": 13,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 62
+  "pozostale": 64
  },
- "duplicatesRemoved": 109,
- "total": 299,
+ "duplicatesRemoved": 114,
+ "total": 309,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -249,6 +249,15 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "17:18",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SANOK RC SA: Ogłoszenie zmian w porządku obrad NWZA. Projekty Uchwał oraz dokumenty związane z przebiegiem i porządkiem obrad NWZA.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216906",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:48",
     "kind": "espi",
@@ -695,6 +704,15 @@
   ],
   "makro_pl": [
    {
+    "time": "17:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: w sprawie wprowadzenia do alternatywnego systemu obrotu na Catalyst obligacji na okaziciela serii A i A1 spółki NOVISA DEVELOPMENT sp. z o.o.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/gpw-w-sprawie-wprowadzenia-do-alternatywnego-systemu-obrotu-na-catalyst",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "17:00",
     "kind": "pap",
     "ticker": null,
@@ -912,6 +930,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "17:27",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: w sprawie dopuszczenia i wprowadzenia do obrotu giełdowego na Głównym Rynku GPW praw poboru akcji zwykłych na okaziciela serii E spółki BUMECH DEFENSE PARTNERS",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/gpw-w-sprawie-dopuszczenia-i-wprowadzenia-do-obrotu-gieldowego-na-glownym-rynku",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:03",
     "kind": "espi",
@@ -1276,6 +1303,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:19",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Stawka Polonia spadła w piątek do 3,62 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442496",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:19",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PHN S.A.: Powołanie Prokurentów",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216907",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:00",
     "kind": "pap",
