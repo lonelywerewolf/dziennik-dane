@@ -2,20 +2,20 @@
  "date": "2026-11-20",
  "counts": {
   "podsumowania": 10,
-  "wyniki": 6,
+  "wyniki": 7,
   "rekomendacje": 0,
-  "korporacyjne": 8,
+  "korporacyjne": 9,
   "makro_pl": 11,
-  "swiat_rynki": 6,
+  "swiat_rynki": 7,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 1,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 30
+  "pozostale": 31
  },
  "duplicatesRemoved": 42,
- "total": 119,
+ "total": 123,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -112,6 +112,17 @@
   ],
   "wyniki": [
    {
+    "time": "11:14",
+    "kind": "espi",
+    "ticker": null,
+    "title": "WITTCHEN S.A.: Informacja o wstępnie oszacowanych odpisach aktualizujących aktywa, rezerwach restrukturyzacyjnych oraz ich wpływie na wyniki finansowe Grupy Kapitałowej WITTCHEN",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216839",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
     "time": "08:52",
     "kind": "news",
     "ticker": null,
@@ -176,6 +187,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "11:14",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ONDE S.A.: Zawarcie umowy na wykonanie prac budowlanych dla farmy wiatrowej o maksymalnej wartości 58,2 mln zł przez konsorcjum z udziałem ONDE S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216840",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "11:09",
     "kind": "news",
@@ -362,6 +384,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "11:11",
+    "kind": "news",
+    "ticker": null,
+    "title": "Webinarium z cyklu Ramy sprawozdawczości ESG po Omnibusie: „Transpozycja Omnibusa i powiązanie uproszczonych ESRS i Voluntary",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/webinarium-z-cyklu-ramy-sprawozdawczosci-esg-po-omnibusie-transpozycja-omnibusa",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "09:47",
     "kind": "espi",
     "ticker": null,
@@ -481,6 +512,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:11",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Prezydent powołał Agnieszką Bartol na stanowisko ministra funduszy i polityki regionalnej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442356",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:09",
     "kind": "pap",

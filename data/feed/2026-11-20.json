@@ -1,7 +1,54 @@
 {
  "date": "2026-11-20",
- "count": 119,
+ "count": 123,
  "items": [
+  {
+   "id": "bossa-espi-216840",
+   "date": "2026-11-20",
+   "time": "11:14",
+   "ts": "2026-11-20T11:14:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ONDE S.A.",
+   "title": "Zawarcie umowy na wykonanie prac budowlanych dla farmy wiatrowej o maksymalnej wartości 58,2 mln zł przez konsorcjum z udziałem ONDE S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216840"
+  },
+  {
+   "id": "bossa-espi-216839",
+   "date": "2026-11-20",
+   "time": "11:14",
+   "ts": "2026-11-20T11:14:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "WITTCHEN S.A.",
+   "title": "Informacja o wstępnie oszacowanych odpisach aktualizujących aktywa, rezerwach restrukturyzacyjnych oraz ich wpływie na wyniki finansowe Grupy Kapitałowej WITTCHEN",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216839"
+  },
+  {
+   "id": "strefa-34959748fd0e",
+   "date": "2026-11-20",
+   "time": "11:11",
+   "ts": "2026-11-20T11:11:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Webinarium z cyklu Ramy sprawozdawczości ESG po Omnibusie: „Transpozycja Omnibusa i powiązanie uproszczonych ESRS i Voluntary",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/webinarium-z-cyklu-ramy-sprawozdawczosci-esg-po-omnibusie-transpozycja-omnibusa"
+  },
+  {
+   "id": "bossa-pap-442356",
+   "date": "2026-11-20",
+   "time": "11:11",
+   "ts": "2026-11-20T11:11:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Prezydent powołał Agnieszką Bartol na stanowisko ministra funduszy i polityki regionalnej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442356"
+  },
   {
    "id": "bossa-pap-442355",
    "date": "2026-11-20",
