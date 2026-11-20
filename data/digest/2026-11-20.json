@@ -1,10 +1,10 @@
 {
  "date": "2026-11-20",
  "counts": {
-  "podsumowania": 4,
+  "podsumowania": 5,
   "wyniki": 4,
   "rekomendacje": 0,
-  "korporacyjne": 1,
+  "korporacyjne": 4,
   "makro_pl": 5,
   "swiat_rynki": 1,
   "energetyka_surowce": 1,
@@ -12,13 +12,22 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 15
+  "pozostale": 16
  },
- "duplicatesRemoved": 20,
- "total": 52,
+ "duplicatesRemoved": 23,
+ "total": 60,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "08:17",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: W Azji na giełdach indeksy mocno zniżkują",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/dzien-na-rynkach-w-azji-na-gieldach-indeksy-mocno-znizkuja",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "07:01",
     "kind": "news",
@@ -102,6 +111,35 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "08:17",
+    "kind": "espi",
+    "ticker": null,
+    "title": "DATAWALK S.A.: Zawarcie znaczącej umowy licencyjnej z wiodącym operatorem sektora ubezpieczeniowego w USA. Execution of a significant software license contract with a leading US insurance industry operator.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216829",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "08:14",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Iceye chce budować przewagę dzięki integracji pionowej i przejęciu producenta rakiet Vega - Rafał Modrzewski, CEO",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442310",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "08:14",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Ponar Wadowice ogłasza zamiar przeprowadzenia IPO",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442309",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "07:01",
     "kind": "news",
@@ -196,6 +234,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "08:14",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny miedzi w Londynie najniżej od marca",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/ceny-miedzi-w-londynie-najnizej-od-marca",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "07:55",
     "kind": "news",

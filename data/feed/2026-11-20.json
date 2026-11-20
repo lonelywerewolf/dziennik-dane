@@ -1,7 +1,101 @@
 {
  "date": "2026-11-20",
- "count": 52,
+ "count": 60,
  "items": [
+  {
+   "id": "bossa-pap-442314",
+   "date": "2026-11-20",
+   "time": "08:21",
+   "ts": "2026-11-20T08:21:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: W Azji na giełdach indeksy mocno zniżkują",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442314"
+  },
+  {
+   "id": "strefa-07a22ac15fdb",
+   "date": "2026-11-20",
+   "time": "08:17",
+   "ts": "2026-11-20T08:17:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: W Azji na giełdach indeksy mocno zniżkują",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/dzien-na-rynkach-w-azji-na-gieldach-indeksy-mocno-znizkuja"
+  },
+  {
+   "id": "bossa-espi-216830",
+   "date": "2026-11-20",
+   "time": "08:17",
+   "ts": "2026-11-20T08:17:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MARVIPOL DEVELOPMENT S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216830"
+  },
+  {
+   "id": "bossa-espi-216829",
+   "date": "2026-11-20",
+   "time": "08:17",
+   "ts": "2026-11-20T08:17:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "DATAWALK S.A.",
+   "title": "Zawarcie znaczącej umowy licencyjnej z wiodącym operatorem sektora ubezpieczeniowego w USA. Execution of a significant software license contract with a leading US insurance industry operator.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216829"
+  },
+  {
+   "id": "bossa-pap-442311",
+   "date": "2026-11-20",
+   "time": "08:16",
+   "ts": "2026-11-20T08:16:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ceny miedzi w Londynie najniżej od marca",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442311"
+  },
+  {
+   "id": "strefa-2ead22d23389",
+   "date": "2026-11-20",
+   "time": "08:14",
+   "ts": "2026-11-20T08:14:50+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ceny miedzi w Londynie najniżej od marca",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/ceny-miedzi-w-londynie-najnizej-od-marca"
+  },
+  {
+   "id": "bossa-pap-442310",
+   "date": "2026-11-20",
+   "time": "08:14",
+   "ts": "2026-11-20T08:14:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Iceye chce budować przewagę dzięki integracji pionowej i przejęciu producenta rakiet Vega - Rafał Modrzewski, CEO",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442310"
+  },
+  {
+   "id": "bossa-pap-442309",
+   "date": "2026-11-20",
+   "time": "08:14",
+   "ts": "2026-11-20T08:14:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ponar Wadowice ogłasza zamiar przeprowadzenia IPO",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442309"
+  },
   {
    "id": "bossa-pap-442308",
    "date": "2026-11-20",

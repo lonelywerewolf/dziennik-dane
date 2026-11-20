@@ -10,6 +10,15 @@
    "house": "IPOPEMA Securities S.A."
   },
   {
+   "date": "2026-11-20",
+   "ticker": "SLV",
+   "company": "SELVITA S.A.",
+   "file": "20261120_pko_bank_polski_slv_pl_aw.pdf",
+   "url": "https://www.gpw.pl/pub/pwpa/20261120_pko_bank_polski_slv_pl_aw.pdf",
+   "type": "analiza wyników",
+   "house": "PKO Bank Polski S.A."
+  },
+  {
    "date": "2026-11-19",
    "ticker": "ATD",
    "company": "ATENDE S.A.",
@@ -603,5 +612,5 @@
    "house": "Noble Securities S.A."
   }
  ],
- "updatedAt": "2026-11-20T08:14:47+01:00"
+ "updatedAt": "2026-11-20T08:25:48+01:00"
 }
