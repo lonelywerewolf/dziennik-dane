@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "8da3b95f425a",
+   "ticker": "NVDA",
+   "time": "2026-11-20T16:33+01:00",
+   "title": "Dow Movers: NVDA, HONIV",
+   "url": "https://www.nasdaq.com/articles/dow-movers-nvda-honiv-8",
+   "src": "nasdaq",
+   "summary": "In early trading on Friday, shares of Honeywell International topped the list of the day's best performing Dow Jones Industrial Average components, trading up 7.5%.  Year to date, Honeywell International registers a 42.2% gain.\n\nAnd the worst performing Dow component thus far on"
+  },
+  {
    "id": "d14d9f6ef2c0",
    "ticker": "VRT",
    "time": "2026-11-20T16:05+01:00",
@@ -26,6 +35,15 @@
    "url": "https://www.nasdaq.com/articles/nvidia-and-micron-cant-make-ai-chips-without-growth-stock-heres-why-it-could-soar-0",
    "src": "nasdaq",
    "summary": "Key PointsNvidia and Micron make very different chips necessary for the advancement of AI."
+  },
+  {
+   "id": "d4e8240f9236",
+   "ticker": "NVDA",
+   "time": "2026-11-20T14:07+01:00",
+   "title": "Zacks Investment Ideas feature highlights: Nasdaq, Nvidia, Advanced Micro Devices, SanDisk, Nebius Arm Holdings and Anthropic",
+   "url": "https://www.nasdaq.com/articles/zacks-investment-ideas-feature-highlights-nasdaq-nvidia-advanced-micro-devices-sandisk",
+   "src": "nasdaq",
+   "summary": "Zacks Investment Ideas feature highlights: Nasdaq, Nvidia, Advanced Micro Devices, SanDisk, Nebius Arm Holdings and Anthropic"
   },
   {
    "id": "fe3ce694df07",
@@ -15787,5 +15805,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-20T16:34:28+01:00"
+ "updatedAt": "2026-11-20T16:45:29+01:00"
 }

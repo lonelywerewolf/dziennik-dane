@@ -4,7 +4,7 @@
   "podsumowania": 12,
   "wyniki": 10,
   "rekomendacje": 0,
-  "korporacyjne": 40,
+  "korporacyjne": 41,
   "makro_pl": 23,
   "swiat_rynki": 14,
   "energetyka_surowce": 8,
@@ -15,7 +15,7 @@
   "pozostale": 61
  },
  "duplicatesRemoved": 103,
- "total": 287,
+ "total": 288,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -240,6 +240,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "16:36",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BEST: Informacja o zawiadomieniu akcjonariuszy na podstawie art. 69 ustawy o ofercie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216899",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "16:32",
     "kind": "espi",
