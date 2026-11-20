@@ -1,7 +1,19 @@
 {
  "date": "2026-11-20",
- "count": 381,
+ "count": 382,
  "items": [
+  {
+   "id": "bossa-espi-233389",
+   "date": "2026-11-20",
+   "time": "20:26",
+   "ts": "2026-11-20T20:26:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "POLIMEX-MOSTOSTAL",
+   "title": "Zawarcie aneksu do umowy linii gwarancyjnej.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-233389"
+  },
   {
    "id": "bossa-espi-232009",
    "date": "2026-11-20",

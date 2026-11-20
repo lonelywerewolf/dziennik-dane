@@ -4,7 +4,7 @@
   "podsumowania": 17,
   "wyniki": 10,
   "rekomendacje": 2,
-  "korporacyjne": 54,
+  "korporacyjne": 55,
   "makro_pl": 29,
   "swiat_rynki": 22,
   "energetyka_surowce": 9,
@@ -15,7 +15,7 @@
   "pozostale": 76
  },
  "duplicatesRemoved": 145,
- "total": 381,
+ "total": 382,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -308,6 +308,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "20:26",
+    "kind": "espi",
+    "ticker": null,
+    "title": "POLIMEX-MOSTOSTAL: Zawarcie aneksu do umowy linii gwarancyjnej.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-233389",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "20:14",
     "kind": "espi",
