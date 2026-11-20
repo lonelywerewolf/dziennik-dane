@@ -1,7 +1,90 @@
 {
  "date": "2026-11-20",
- "count": 129,
+ "count": 137,
  "items": [
+  {
+   "id": "bossa-pap-442369",
+   "date": "2026-11-20",
+   "time": "11:54",
+   "ts": "2026-11-20T11:54:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Złoty osłabia się wobec euro i dolara o ok. 0,5-0,6 proc.; EUR/PLN blisko 4,458",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442369"
+  },
+  {
+   "id": "bossa-pap-442367",
+   "date": "2026-11-20",
+   "time": "11:53",
+   "ts": "2026-11-20T11:53:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Bogdanka rozpoczęła w IV kw. renegocjacje umów na dostawy węgla",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442367"
+  },
+  {
+   "id": "strefa-1474b8b796cc",
+   "date": "2026-11-20",
+   "time": "11:50",
+   "ts": "2026-11-20T11:50:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Bogdanka rozpoczęła w IV kw. renegocjacje umów na dostawy węgla",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/bogdanka-rozpoczela-w-iv-kw-renegocjacje-umow-na-dostawy-wegla"
+  },
+  {
+   "id": "bossa-espi-216845",
+   "date": "2026-11-20",
+   "time": "11:50",
+   "ts": "2026-11-20T11:50:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF sWIG80TR PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 234 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216845"
+  },
+  {
+   "id": "bossa-pap-442366",
+   "date": "2026-11-20",
+   "time": "11:49",
+   "ts": "2026-11-20T11:49:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Tabela kursów średnich NBP nr 226/A/NBP/2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442366"
+  },
+  {
+   "id": "bossa-espi-216844",
+   "date": "2026-11-20",
+   "time": "11:46",
+   "ts": "2026-11-20T11:46:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF MWIG40TRsh PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 223 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216844"
+  },
+  {
+   "id": "bossa-pap-442364",
+   "date": "2026-11-20",
+   "time": "11:44",
+   "ts": "2026-11-20T11:44:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "BOM: Udział Marszałka Sejmu w konferencji „Bilans nierówności 2026. Równe szanse jako warunek rozwoju Polski” (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442364"
+  },
   {
    "id": "bossa-espi-216843",
    "date": "2026-11-20",
@@ -37,6 +120,17 @@
    "title": "Raport bieżący nr 237 / 2026",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-216841"
+  },
+  {
+   "id": "strefa-2c7ef7faa88d",
+   "date": "2026-11-20",
+   "time": "11:31",
+   "ts": "2026-11-20T11:31:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Tabela kursów średnich NBP nr 226/A/NBP/2026",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/tabela-kursow-srednich-nbp-nr-226anbp2026"
   },
   {
    "id": "bossa-pap-442360",

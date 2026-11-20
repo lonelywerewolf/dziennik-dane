@@ -5,17 +5,17 @@
   "wyniki": 8,
   "rekomendacje": 0,
   "korporacyjne": 9,
-  "makro_pl": 11,
+  "makro_pl": 14,
   "swiat_rynki": 8,
-  "energetyka_surowce": 3,
+  "energetyka_surowce": 4,
   "nieruchomosci": 0,
   "fundusze_drobne": 1,
   "twoje_spolki": 2,
   "obserwowane": 0,
   "pozostale": 32
  },
- "duplicatesRemoved": 45,
- "total": 129,
+ "duplicatesRemoved": 49,
+ "total": 137,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -294,6 +294,33 @@
   ],
   "makro_pl": [
    {
+    "time": "11:54",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Złoty osłabia się wobec euro i dolara o ok. 0,5-0,6 proc.; EUR/PLN blisko 4,458",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442369",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:44",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BOM: Udział Marszałka Sejmu w konferencji „Bilans nierówności 2026. Równe szanse jako warunek rozwoju Polski” (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442364",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:31",
+    "kind": "news",
+    "ticker": null,
+    "title": "Tabela kursów średnich NBP nr 226/A/NBP/2026",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/tabela-kursow-srednich-nbp-nr-226anbp2026",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "11:09",
     "kind": "espi",
     "ticker": null,
@@ -470,6 +497,15 @@
    }
   ],
   "energetyka_surowce": [
+   {
+    "time": "11:50",
+    "kind": "news",
+    "ticker": null,
+    "title": "Bogdanka rozpoczęła w IV kw. renegocjacje umów na dostawy węgla",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/bogdanka-rozpoczela-w-iv-kw-renegocjacje-umow-na-dostawy-wegla",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:56",
     "kind": "news",
