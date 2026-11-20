@@ -1,7 +1,31 @@
 {
  "date": "2026-11-20",
- "count": 87,
+ "count": 89,
  "items": [
+  {
+   "id": "bossa-espi-216835",
+   "date": "2026-11-20",
+   "time": "09:29",
+   "ts": "2026-11-20T09:29:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF OBLIGACJI 6M PORTFELOWY FIZ",
+   "title": "Informacja o transakcjach uzyskanych w trybie art. 19 ust. 3 rozporządzenia MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216835"
+  },
+  {
+   "id": "bossa-espi-216834",
+   "date": "2026-11-20",
+   "time": "09:26",
+   "ts": "2026-11-20T09:26:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF TBSP PORTFELOWY FIZ",
+   "title": "Informacja o transakcjach uzyskanych w trybie art. 19 ust. 3 rozporządzenia MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216834"
+  },
   {
    "id": "bossa-pap-442330",
    "date": "2026-11-20",
