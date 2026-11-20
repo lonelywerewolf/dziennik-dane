@@ -4,18 +4,18 @@
   "podsumowania": 9,
   "wyniki": 6,
   "rekomendacje": 0,
-  "korporacyjne": 5,
-  "makro_pl": 6,
+  "korporacyjne": 6,
+  "makro_pl": 7,
   "swiat_rynki": 6,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 1,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 22
+  "pozostale": 23
  },
- "duplicatesRemoved": 37,
- "total": 97,
+ "duplicatesRemoved": 38,
+ "total": 101,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -168,6 +168,17 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "09:57",
+    "kind": "espi",
+    "ticker": null,
+    "title": "CYFROWY POLSAT S.A.: Powiadomienie na podstawie art. 19 MAR otrzymane od Pigreto Limited",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216837",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
     "time": "09:26",
     "kind": "espi",
     "ticker": null,
@@ -218,6 +229,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "10:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Jeśli nie powróci globalny apetyt na ryzyko, EUR/PLN może zakotwiczyć się przy 4,45 - BGK (opinia)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442340",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:37",
     "kind": "news",
@@ -401,6 +421,15 @@
     "title": "RCB: Zakończył się atak powietrzny na Ukrainę; brak zagrożenia na terenie Polski (komunikat)",
     "url": "https://bossa.pl/analizy/komunikaty#message-442337",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "09:39",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny ropy rosły, ale już są na minusie (aktl.)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/ceny-ropy-rosly-ale-juz-sa-na-minusie-aktl",
+    "src": "strefainwestorow",
     "flags": []
    },
    {

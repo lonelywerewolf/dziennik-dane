@@ -1,7 +1,43 @@
 {
  "date": "2026-11-20",
- "count": 97,
+ "count": 101,
  "items": [
+  {
+   "id": "bossa-pap-442340",
+   "date": "2026-11-20",
+   "time": "10:00",
+   "ts": "2026-11-20T10:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Jeśli nie powróci globalny apetyt na ryzyko, EUR/PLN może zakotwiczyć się przy 4,45 - BGK (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442340"
+  },
+  {
+   "id": "bossa-espi-216837",
+   "date": "2026-11-20",
+   "time": "09:57",
+   "ts": "2026-11-20T09:57:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "CYFROWY POLSAT S.A.",
+   "title": "Powiadomienie na podstawie art. 19 MAR otrzymane od Pigreto Limited",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216837"
+  },
+  {
+   "id": "bossa-pap-442338",
+   "date": "2026-11-20",
+   "time": "09:56",
+   "ts": "2026-11-20T09:56:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ceny ropy rosły, ale już są na minusie (aktl.)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442338"
+  },
   {
    "id": "bossa-pap-442337",
    "date": "2026-11-20",
@@ -25,6 +61,17 @@
    "title": "Złożenie pozwu o zapłatę przeciwko Wojewódzkiemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej w Poznaniu",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-216836"
+  },
+  {
+   "id": "strefa-757b144711e2",
+   "date": "2026-11-20",
+   "time": "09:39",
+   "ts": "2026-11-20T09:39:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ceny ropy rosły, ale już są na minusie (aktl.)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/ceny-ropy-rosly-ale-juz-sa-na-minusie-aktl"
   },
   {
    "id": "bossa-pap-442335",
