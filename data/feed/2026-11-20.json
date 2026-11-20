@@ -1,7 +1,43 @@
 {
  "date": "2026-11-20",
- "count": 190,
+ "count": 193,
  "items": [
+  {
+   "id": "bossa-pap-442411",
+   "date": "2026-11-20",
+   "time": "13:25",
+   "ts": "2026-11-20T13:25:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Cena maksymalna dla benzyny Pb95 w weekend i w poniedziałek wyniesie 5,90 zł/l, dla ON 7,39 zł/l",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442411"
+  },
+  {
+   "id": "bossa-espi-216864",
+   "date": "2026-11-20",
+   "time": "13:25",
+   "ts": "2026-11-20T13:25:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MILTON ESSEX S.A.",
+   "title": "informacja o transakcjach wykonywanych przez osoby pełniące obowiązki zarządcze",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216864"
+  },
+  {
+   "id": "bossa-pap-442409",
+   "date": "2026-11-20",
+   "time": "13:24",
+   "ts": "2026-11-20T13:24:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Eurocash chce pokazać pełną siłę zarobkową w '27; planuje IPO Frisco (wywiad)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442409"
+  },
   {
    "id": "bossa-pap-442408",
    "date": "2026-11-20",
