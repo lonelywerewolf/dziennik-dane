@@ -6,7 +6,7 @@
   "rekomendacje": 1,
   "korporacyjne": 46,
   "makro_pl": 28,
-  "swiat_rynki": 19,
+  "swiat_rynki": 20,
   "energetyka_surowce": 9,
   "nieruchomosci": 1,
   "fundusze_drobne": 13,
@@ -15,7 +15,7 @@
   "pozostale": 72
  },
  "duplicatesRemoved": 137,
- "total": 356,
+ "total": 357,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1039,6 +1039,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "18:22",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BUMECH DEFENSE PARTNERS S.A.: Dopuszczenie i wprowadzenie do obrotu giełdowego jednostkowych praw poboru akcji serii E",
+    "url": "https://bossa.pl/analizy/komunikaty#message-218254",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:09",
     "kind": "pap",
