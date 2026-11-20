@@ -1,7 +1,99 @@
 {
  "date": "2026-11-20",
- "count": 320,
+ "count": 329,
  "items": [
+  {
+   "id": "bossa-espi-216914",
+   "date": "2026-11-20",
+   "time": "17:44",
+   "ts": "2026-11-20T17:44:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "P.A. NOVA S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216914"
+  },
+  {
+   "id": "strefa-b90db91e17cf",
+   "date": "2026-11-20",
+   "time": "17:42",
+   "ts": "2026-11-20T17:42:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: komunikat - 7R",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/gpw-komunikat-7r"
+  },
+  {
+   "id": "strefa-e9870d9e6e3b",
+   "date": "2026-11-20",
+   "time": "17:41",
+   "ts": "2026-11-20T17:41:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wyniki Newagu w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/wyniki-newagu-w-iii-kw-2026-roku-vs-konsensus-pap-tabela"
+  },
+  {
+   "id": "strefa-9251fea8c79a",
+   "date": "2026-11-20",
+   "time": "17:41",
+   "ts": "2026-11-20T17:41:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie wyznaczenia pierwszego dnia notowania w alternatywnym systemie obrotu na Catalyst obligacji na okaziciela serii E spółki 7R S.A.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/gpw-w-sprawie-wyznaczenia-pierwszego-dnia-notowania-w-alternatywnym-systemie"
+  },
+  {
+   "id": "strefa-2abdf5428e4a",
+   "date": "2026-11-20",
+   "time": "17:41",
+   "ts": "2026-11-20T17:41:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie wprowadzenia do alternatywnego systemu obrotu na Catalyst obligacji kapitałowych na okaziciela serii 2/2026 spółki ERSTE BANK POLSKA",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/gpw-w-sprawie-wprowadzenia-do-alternatywnego-systemu-obrotu-na-catalyst-0"
+  },
+  {
+   "id": "bossa-pap-442511",
+   "date": "2026-11-20",
+   "time": "17:41",
+   "ts": "2026-11-20T17:41:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie wyznaczenia pierwszego dnia notowania w alternatywnym systemie obrotu na Catalyst obligacji na okaziciela serii E spółki 7R S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442511"
+  },
+  {
+   "id": "bossa-espi-216913",
+   "date": "2026-11-20",
+   "time": "17:41",
+   "ts": "2026-11-20T17:41:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ML SYSTEM S.A.",
+   "title": "Wybór oferty spółki zależnej ML System S.A. w postępowaniu dotyczącym dostawy komponentów systemu magazynowania energii dla BESS Bytom",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216913"
+  },
+  {
+   "id": "bossa-espi-216912",
+   "date": "2026-11-20",
+   "time": "17:40",
+   "ts": "2026-11-20T17:40:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BENEFIT SYSTEMS S.A.",
+   "title": "Zgłoszenie przez akcjonariusza projektu uchwały w sprawie objętej porządkiem obrad Nadzwyczajnego Walnego Zgromadzenia Benefit Systems S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216912"
+  },
   {
    "id": "bossa-pap-442509",
    "date": "2026-11-20",
@@ -61,6 +153,17 @@
    "title": "Notowania ciągłe - podsumowanie",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-442508"
+  },
+  {
+   "id": "strefa-5ac3d4d693a6",
+   "date": "2026-11-20",
+   "time": "17:31",
+   "ts": "2026-11-20T17:31:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie wprowadzenia do alternatywnego systemu obrotu na Catalyst obligacji na okaziciela serii 1/2026 spółki ERSTE BANK POLSKA",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/gpw-w-sprawie-wprowadzenia-do-alternatywnego-systemu-obrotu-na-catalyst-1"
   },
   {
    "id": "bossa-pap-442504",
