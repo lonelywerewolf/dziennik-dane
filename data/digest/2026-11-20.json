@@ -6,16 +6,16 @@
   "rekomendacje": 2,
   "korporacyjne": 52,
   "makro_pl": 29,
-  "swiat_rynki": 21,
+  "swiat_rynki": 22,
   "energetyka_surowce": 9,
   "nieruchomosci": 1,
   "fundusze_drobne": 13,
   "twoje_spolki": 3,
   "obserwowane": 0,
-  "pozostale": 75
+  "pozostale": 76
  },
- "duplicatesRemoved": 144,
- "total": 376,
+ "duplicatesRemoved": 145,
+ "total": 379,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1126,6 +1126,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "20:00",
+    "kind": "espi",
+    "ticker": null,
+    "title": "FoodHub S.A.: Zmiana terminu publikacji rozszerzonego skonsolidowanego raportu okresowego za III kwartał 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-230266",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "19:38",
     "kind": "pap",
     "ticker": null,
@@ -1582,6 +1591,15 @@
     "flags": [
      "prognoza"
     ]
+   },
+   {
+    "time": "19:13",
+    "kind": "news",
+    "ticker": null,
+    "title": "Spółka Airway Medix zaktualizowała strategiczne kierunki rozwoju",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/spolka-airway-medix-zaktualizowala-strategiczne-kierunki-rozwoju",
+    "src": "strefainwestorow",
+    "flags": []
    },
    {
     "time": "18:59",
