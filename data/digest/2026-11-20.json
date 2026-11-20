@@ -6,16 +6,16 @@
   "rekomendacje": 0,
   "korporacyjne": 28,
   "makro_pl": 19,
-  "swiat_rynki": 10,
+  "swiat_rynki": 11,
   "energetyka_surowce": 7,
   "nieruchomosci": 1,
   "fundusze_drobne": 5,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 53
+  "pozostale": 54
  },
- "duplicatesRemoved": 91,
- "total": 236,
+ "duplicatesRemoved": 94,
+ "total": 241,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -221,12 +221,12 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
-    "time": "14:35",
-    "kind": "pap",
+    "time": "14:27",
+    "kind": "news",
     "ticker": null,
     "title": "Polimex Mostostal zawarł umowę z m.in. PGZ i ARP dot. planowanego połączenia Jelcza z RFK",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442440",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/polimex-mostostal-zawarl-umowe-z-min-pgz-i-arp-dot-planowanego-polaczenia",
+    "src": "strefainwestorow",
     "flags": [
      "umowa"
     ]
@@ -695,6 +695,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "14:48",
+    "kind": "news",
+    "ticker": null,
+    "title": "Diagnostyka nabyła akcje Genomed stanowiące 47, 14 proc. kapitału zakładowego",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/diagnostyka-nabyla-akcje-genomed-stanowiace-47-14-proc-kapitalu-zakladowego",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "13:40",
     "kind": "news",
     "ticker": null,
@@ -932,6 +941,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "14:48",
+    "kind": "news",
+    "ticker": null,
+    "title": "WIG20 blisko 4.000 pkt. po spadku o ponad 4 proc.; najsłabsze banki, PKO BP zniżkuje o 6,4 proc.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/wig20-blisko-4000-pkt-po-spadku-o-ponad-4-proc-najslabsze-banki-pko-bp-znizkuje",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "14:42",
     "kind": "espi",
