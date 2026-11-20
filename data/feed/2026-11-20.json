@@ -1,7 +1,124 @@
 {
  "date": "2026-11-20",
- "count": 329,
+ "count": 340,
  "items": [
+  {
+   "id": "strefa-51191492fe01",
+   "date": "2026-11-20",
+   "time": "17:55",
+   "ts": "2026-11-20T17:55:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "KNF podejrzewa wykorzystanie informacji poufnych w obrocie akcjami Sygnity",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/knf-podejrzewa-wykorzystanie-informacji-poufnych-w-obrocie-akcjami-sygnity"
+  },
+  {
+   "id": "strefa-36201549d79e",
+   "date": "2026-11-20",
+   "time": "17:55",
+   "ts": "2026-11-20T17:55:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: komunikat",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/gpw-komunikat-0"
+  },
+  {
+   "id": "bossa-espi-216917",
+   "date": "2026-11-20",
+   "time": "17:55",
+   "ts": "2026-11-20T17:55:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BANK MILLENNIUM S.A.",
+   "title": "Podjęcie przez Radę Nadzorczą Banku uchwały zatwierdzającej decyzję Zarządu Banku w sprawie emisji euroobligacji Additional Tier I",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216917"
+  },
+  {
+   "id": "bossa-espi-216916",
+   "date": "2026-11-20",
+   "time": "17:53",
+   "ts": "2026-11-20T17:53:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BANK MILLENNIUM S.A.",
+   "title": "Podjęcie przez Radę Nadzorczą Banku uchwały zatwierdzającej decyzję Zarządu Banku w sprawie emisji euroobligacji Additional Tier I",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216916"
+  },
+  {
+   "id": "bossa-pap-442518",
+   "date": "2026-11-20",
+   "time": "17:51",
+   "ts": "2026-11-20T17:51:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW Benchmark: komunikat - okresowa zmiana portfeli indeksów obligacji korporacyjnych i listów zastawnych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442518"
+  },
+  {
+   "id": "bossa-espi-216915",
+   "date": "2026-11-20",
+   "time": "17:51",
+   "ts": "2026-11-20T17:51:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "EUROTEL S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216915"
+  },
+  {
+   "id": "bossa-pap-442513",
+   "date": "2026-11-20",
+   "time": "17:47",
+   "ts": "2026-11-20T17:47:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KNF podejrzewa wykorzystanie informacji poufnych w obrocie akcjami Sygnity",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442513"
+  },
+  {
+   "id": "bossa-pap-442514",
+   "date": "2026-11-20",
+   "time": "17:46",
+   "ts": "2026-11-20T17:46:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: komunikat",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442514"
+  },
+  {
+   "id": "bossa-pap-442515",
+   "date": "2026-11-20",
+   "time": "17:45",
+   "ts": "2026-11-20T17:45:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: komunikat",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442515"
+  },
+  {
+   "id": "strefa-8f12da1bed05",
+   "date": "2026-11-20",
+   "time": "17:44",
+   "ts": "2026-11-20T17:44:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: komunikat",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/gpw-komunikat"
+  },
   {
    "id": "bossa-espi-216914",
    "date": "2026-11-20",
@@ -13,6 +130,18 @@
    "title": "QSr",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-216914"
+  },
+  {
+   "id": "bossa-pap-442517",
+   "date": "2026-11-20",
+   "time": "17:43",
+   "ts": "2026-11-20T17:43:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: komunikat - 7R",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442517"
   },
   {
    "id": "strefa-b90db91e17cf",

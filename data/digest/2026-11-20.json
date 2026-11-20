@@ -4,18 +4,18 @@
   "podsumowania": 16,
   "wyniki": 10,
   "rekomendacje": 0,
-  "korporacyjne": 44,
-  "makro_pl": 27,
+  "korporacyjne": 45,
+  "makro_pl": 28,
   "swiat_rynki": 18,
   "energetyka_surowce": 8,
   "nieruchomosci": 1,
   "fundusze_drobne": 13,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 67
+  "pozostale": 69
  },
- "duplicatesRemoved": 123,
- "total": 329,
+ "duplicatesRemoved": 130,
+ "total": 340,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -278,6 +278,18 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "17:53",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BANK MILLENNIUM S.A.: Podjęcie przez Radę Nadzorczą Banku uchwały zatwierdzającej decyzję Zarządu Banku w sprawie emisji euroobligacji Additional Tier I",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216916",
+    "src": "bossa",
+    "flags": [
+     "emisja",
+     "zarząd"
+    ]
+   },
    {
     "time": "17:40",
     "kind": "espi",
@@ -743,6 +755,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "17:51",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GPW Benchmark: komunikat - okresowa zmiana portfeli indeksów obligacji korporacyjnych i listów zastawnych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442518",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:41",
     "kind": "news",
@@ -1379,6 +1400,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "KNF podejrzewa wykorzystanie informacji poufnych w obrocie akcjami Sygnity",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/knf-podejrzewa-wykorzystanie-informacji-poufnych-w-obrocie-akcjami-sygnity",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "17:44",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: komunikat",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/gpw-komunikat",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:42",
     "kind": "news",

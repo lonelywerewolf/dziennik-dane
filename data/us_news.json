@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "id": "9020d18666ef",
+   "ticker": "NVDA",
+   "time": "2026-11-20T17:45+01:00",
+   "title": "Global Stocks Retreat on Unwind of the AI Trade",
+   "url": "https://www.nasdaq.com/articles/global-stocks-retreat-unwind-ai-trade",
+   "src": "nasdaq",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is down -0.24% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.56%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.22%.  December E-mini S&P futures (ESZ26 ) are down -0.31%, and December E-mini Nasdaq futures..."
+  },
+  {
+   "id": "61b11f882555",
+   "ticker": "NVDA",
+   "time": "2026-11-20T17:39+01:00",
+   "title": "Buy Anthropic, Sell Nvidia? Cathie Wood Just Did.",
+   "url": "https://www.nasdaq.com/articles/buy-anthropic-sell-nvidia-cathie-wood-just-did",
+   "src": "nasdaq",
+   "summary": "Key PointsArk Invest added 935,000 shares of Anthropic across its six stock ETFs at Thursday's IPO."
+  },
+  {
    "id": "ad0823a6ce7d",
    "ticker": "NVDA",
    "time": "2026-11-20T17:03+01:00",
@@ -44,6 +62,15 @@
    "url": "https://www.nasdaq.com/articles/prediction-these-will-be-best-performing-industrial-stocks-2027",
    "src": "nasdaq",
    "summary": "Key PointsQuanta's $63.7 billion backlog supports its 2027 growth outlook."
+  },
+  {
+   "id": "003143ab5306",
+   "ticker": "NVDA",
+   "time": "2026-11-20T15:40+01:00",
+   "title": "CRWV Rises 14.5% in a Week as AI Demand Tests the Rebound's Durability",
+   "url": "https://www.nasdaq.com/articles/crwv-rises-145-week-ai-demand-tests-rebounds-durability",
+   "src": "nasdaq",
+   "summary": "CoreWeave shares surged 14.5% in a week despite steep longer-term losses. Can soaring AI demand and a $132.5B backlog offset heavy debt costs and sustain the rebound?"
   },
   {
    "id": "8219cca26993",
@@ -15859,5 +15886,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-20T17:47:29+01:00"
+ "updatedAt": "2026-11-20T17:58:30+01:00"
 }
