@@ -1,7 +1,65 @@
 {
  "date": "2026-11-20",
- "count": 351,
+ "count": 356,
  "items": [
+  {
+   "id": "strefa-464092c12052",
+   "date": "2026-11-20",
+   "time": "18:20",
+   "ts": "2026-11-20T18:20:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "KNF podejrzewa manipulacje w obrocie akcjami Friends Capital, DO OK i OZE Capital",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/knf-podejrzewa-manipulacje-w-obrocie-akcjami-friends-capital-do-ok-i-oze"
+  },
+  {
+   "id": "bossa-pap-442530",
+   "date": "2026-11-20",
+   "time": "18:15",
+   "ts": "2026-11-20T18:15:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Noble Securities podwyższył wycenę akcji PGE do 13,88 zł; rekomendację obniżył do \"redukuj\"",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442530"
+  },
+  {
+   "id": "bossa-pap-442531",
+   "date": "2026-11-20",
+   "time": "18:11",
+   "ts": "2026-11-20T18:11:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KNF podejrzewa manipulacje w obrocie akcjami Friends Capital, DO OK i OZE Capital",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442531"
+  },
+  {
+   "id": "strefa-3d0f9342f7ff",
+   "date": "2026-11-20",
+   "time": "18:09",
+   "ts": "2026-11-20T18:09:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Noble Securities podwyższył wycenę akcji PGE do 13,88 zł; rekomendację obniżył do \"redukuj\"",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/noble-securities-podwyzszyl-wycene-akcji-pge-do-1388-zl-rekomendacje-obnizyl-do"
+  },
+  {
+   "id": "bossa-pap-442529",
+   "date": "2026-11-20",
+   "time": "18:09",
+   "ts": "2026-11-20T18:09:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Aktualne wskaźniki giełdowe",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442529"
+  },
   {
    "id": "bossa-pap-442528",
    "date": "2026-11-20",

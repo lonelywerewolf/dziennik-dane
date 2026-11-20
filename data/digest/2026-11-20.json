@@ -3,19 +3,19 @@
  "counts": {
   "podsumowania": 17,
   "wyniki": 10,
-  "rekomendacje": 0,
+  "rekomendacje": 1,
   "korporacyjne": 46,
   "makro_pl": 28,
-  "swiat_rynki": 18,
-  "energetyka_surowce": 8,
+  "swiat_rynki": 19,
+  "energetyka_surowce": 9,
   "nieruchomosci": 1,
   "fundusze_drobne": 13,
   "twoje_spolki": 3,
   "obserwowane": 0,
   "pozostale": 72
  },
- "duplicatesRemoved": 135,
- "total": 351,
+ "duplicatesRemoved": 137,
+ "total": 356,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -285,7 +285,17 @@
     ]
    }
   ],
-  "rekomendacje": [],
+  "rekomendacje": [
+   {
+    "time": "18:09",
+    "kind": "news",
+    "ticker": null,
+    "title": "Noble Securities podwyższył wycenę akcji PGE do 13,88 zł; rekomendację obniżył do \"redukuj\"",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/noble-securities-podwyzszyl-wycene-akcji-pge-do-1388-zl-rekomendacje-obnizyl-do",
+    "src": "strefainwestorow",
+    "flags": []
+   }
+  ],
   "korporacyjne": [
    {
     "time": "18:07",
@@ -1030,6 +1040,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "18:09",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Aktualne wskaźniki giełdowe",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442529",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "17:41",
     "kind": "espi",
     "ticker": null,
@@ -1195,6 +1214,15 @@
    }
   ],
   "energetyka_surowce": [
+   {
+    "time": "18:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "KNF podejrzewa manipulacje w obrocie akcjami Friends Capital, DO OK i OZE Capital",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/knf-podejrzewa-manipulacje-w-obrocie-akcjami-friends-capital-do-ok-i-oze",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "15:05",
     "kind": "espi",
