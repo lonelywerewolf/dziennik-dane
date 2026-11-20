@@ -1,7 +1,31 @@
 {
  "date": "2026-11-20",
- "count": 224,
+ "count": 227,
  "items": [
+  {
+   "id": "bossa-pap-442437",
+   "date": "2026-11-20",
+   "time": "14:15",
+   "ts": "2026-11-20T14:15:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wartość IPO Ponaru Wadowice szacowana jest na ponad 1 mld zł - media",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442437"
+  },
+  {
+   "id": "bossa-espi-216878",
+   "date": "2026-11-20",
+   "time": "14:14",
+   "ts": "2026-11-20T14:14:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ORZEŁ BIAŁY S.A.",
+   "title": "Korekta raportu kwartalnego za III kwartał 2026 r. w związku z korektą metadanych ESAP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216878"
+  },
   {
    "id": "bossa-pap-442435",
    "date": "2026-11-20",
@@ -13,6 +37,17 @@
    "title": "DZIEŃ NA RYNKACH: Kontrakty giełdowe na Wall Street w dół, Anthropic traci przed sesją nawet 10 proc.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-442435"
+  },
+  {
+   "id": "strefa-4ff36a6d756a",
+   "date": "2026-11-20",
+   "time": "14:06",
+   "ts": "2026-11-20T14:06:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Kontrakty giełdowe na Wall Street w dół, Anthropic traci przed sesją nawet 10 proc.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/dzien-na-rynkach-kontrakty-gieldowe-na-wall-street-w-dol-anthropic-traci-przed"
   },
   {
    "id": "bossa-pap-442434",
