@@ -4,7 +4,7 @@
   "podsumowania": 17,
   "wyniki": 10,
   "rekomendacje": 1,
-  "korporacyjne": 46,
+  "korporacyjne": 48,
   "makro_pl": 28,
   "swiat_rynki": 20,
   "energetyka_surowce": 9,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 13,
   "twoje_spolki": 3,
   "obserwowane": 0,
-  "pozostale": 72
+  "pozostale": 73
  },
- "duplicatesRemoved": 139,
- "total": 359,
+ "duplicatesRemoved": 141,
+ "total": 364,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -297,6 +297,29 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "18:59",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MIRBUD S.A.: Emisja obligacji serii B",
+    "url": "https://bossa.pl/analizy/komunikaty#message-222644",
+    "src": "bossa",
+    "flags": [
+     "emisja"
+    ]
+   },
+   {
+    "time": "18:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zawiadomienie o zmianie ceny nabycia w wezwaniu do zapisywania się na sprzedaż akcji ZE PAK S.A.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/zawiadomienie-o-zmianie-ceny-nabycia-w-wezwaniu-do-zapisywania-sie-na-sprzedaz",
+    "src": "strefainwestorow",
+    "flags": [
+     "wezwanie",
+     "insider"
+    ]
+   },
    {
     "time": "18:07",
     "kind": "news",
@@ -1468,6 +1491,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "18:59",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PROTEKTOR: Publikacja dokumentu dotyczącego dopuszczenia do obrotu akcji serii E, F, G, H i I oraz złożenie wniosków do KDPW i GPW",
+    "url": "https://bossa.pl/analizy/komunikaty#message-222563",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:07",
     "kind": "news",
