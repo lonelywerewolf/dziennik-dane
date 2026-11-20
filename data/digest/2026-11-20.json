@@ -3,9 +3,9 @@
  "counts": {
   "podsumowania": 17,
   "wyniki": 10,
-  "rekomendacje": 1,
+  "rekomendacje": 2,
   "korporacyjne": 48,
-  "makro_pl": 28,
+  "makro_pl": 29,
   "swiat_rynki": 20,
   "energetyka_surowce": 9,
   "nieruchomosci": 1,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 73
  },
- "duplicatesRemoved": 141,
- "total": 364,
+ "duplicatesRemoved": 143,
+ "total": 368,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -286,6 +286,17 @@
    }
   ],
   "rekomendacje": [
+   {
+    "time": "19:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "Argumenol Investment podnosi cenę w wezwaniu na akcje ZE PAK do 24,5 zł za akcję",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/argumenol-investment-podnosi-cene-w-wezwaniu-na-akcje-ze-pak-do-245-zl-za-akcje",
+    "src": "strefainwestorow",
+    "flags": [
+     "wezwanie"
+    ]
+   },
    {
     "time": "18:09",
     "kind": "news",
@@ -808,6 +819,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "19:13",
+    "kind": "news",
+    "ticker": null,
+    "title": "Mirbud wyemituje obligacje o łącznej wartości do 100 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/mirbud-wyemituje-obligacje-o-lacznej-wartosci-do-100-mln-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:51",
     "kind": "pap",

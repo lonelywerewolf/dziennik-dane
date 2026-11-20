@@ -1,7 +1,53 @@
 {
  "date": "2026-11-20",
- "count": 364,
+ "count": 368,
  "items": [
+  {
+   "id": "strefa-033f05e20eb8",
+   "date": "2026-11-20",
+   "time": "19:13",
+   "ts": "2026-11-20T19:13:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Mirbud wyemituje obligacje o łącznej wartości do 100 mln zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/mirbud-wyemituje-obligacje-o-lacznej-wartosci-do-100-mln-zl"
+  },
+  {
+   "id": "bossa-pap-442540",
+   "date": "2026-11-20",
+   "time": "19:11",
+   "ts": "2026-11-20T19:11:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Mirbud wyemituje obligacje o łącznej wartości do 100 mln zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442540"
+  },
+  {
+   "id": "bossa-pap-442539",
+   "date": "2026-11-20",
+   "time": "19:05",
+   "ts": "2026-11-20T19:05:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Argumenol Investment podnosi cenę w wezwaniu na akcje ZE PAK do 24,5 zł za akcję",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442539"
+  },
+  {
+   "id": "strefa-81ecfd9f6d7c",
+   "date": "2026-11-20",
+   "time": "19:02",
+   "ts": "2026-11-20T19:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Argumenol Investment podnosi cenę w wezwaniu na akcje ZE PAK do 24,5 zł za akcję",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/argumenol-investment-podnosi-cene-w-wezwaniu-na-akcje-ze-pak-do-245-zl-za-akcje"
+  },
   {
    "id": "bossa-pap-442538",
    "date": "2026-11-20",

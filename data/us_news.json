@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "id": "7ad29c4a4013",
+   "ticker": "MRVL",
+   "time": "2026-11-20T19:04+01:00",
+   "title": "Stocks Sink as Tech Rout Deepens",
+   "url": "https://www.nasdaq.com/articles/stocks-sink-tech-rout-deepens",
+   "src": "nasdaq",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is down -1.52% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.19%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -2.85%.  December E-mini S&P futures (ESZ26 ) are down -1.47%, and December E-mini Nasdaq futures..."
+  },
+  {
+   "id": "cc3347eeb252",
+   "ticker": "NVDA",
+   "time": "2026-11-20T18:55+01:00",
+   "title": "Why Nvidia Stock Is Down Today",
+   "url": "https://www.nasdaq.com/articles/why-nvidia-stock-down-today",
+   "src": "nasdaq",
+   "summary": "Key PointsNvidia stock is sliding on Friday after Anthropic's record IPO failed to revive the AI trade."
+  },
+  {
    "id": "2870410e328e",
    "ticker": "NVDA",
    "time": "2026-11-20T18:36+01:00",
@@ -15940,5 +15958,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-20T19:04:29+01:00"
+ "updatedAt": "2026-11-20T19:15:30+01:00"
 }
