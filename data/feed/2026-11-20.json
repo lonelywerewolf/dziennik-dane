@@ -1,7 +1,78 @@
 {
  "date": "2026-11-20",
- "count": 201,
+ "count": 208,
  "items": [
+  {
+   "id": "bossa-pap-442424",
+   "date": "2026-11-20",
+   "time": "13:48",
+   "ts": "2026-11-20T13:48:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MS: Sędziowie będą mogli dłużej orzekać na nowych zasadach (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442424"
+  },
+  {
+   "id": "bossa-espi-216874",
+   "date": "2026-11-20",
+   "time": "13:48",
+   "ts": "2026-11-20T13:48:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Arlen S.A.",
+   "title": "Zawarcie aneksu do umowy na dostawę kombinezonów czołgisty",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216874"
+  },
+  {
+   "id": "bossa-pap-442422",
+   "date": "2026-11-20",
+   "time": "13:44",
+   "ts": "2026-11-20T13:44:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie dopuszczenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów strukturyzowanych wyemitowanych przez RAIFFEISEN BANK INTERNATIONAL AG",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442422"
+  },
+  {
+   "id": "bossa-espi-216873",
+   "date": "2026-11-20",
+   "time": "13:44",
+   "ts": "2026-11-20T13:44:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "QUBICGAMES S.A.",
+   "title": "Powiadomienie o transakcjach na akcjach Spółki w trybie art. 19 ust. 1 Rozporządzenia MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216873"
+  },
+  {
+   "id": "strefa-47718ab5c774",
+   "date": "2026-11-20",
+   "time": "13:40",
+   "ts": "2026-11-20T13:40:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie dopuszczenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów strukturyzowanych wyemitowanych przez RAIFFEISEN BANK INTERNATIONAL AG",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/gpw-w-sprawie-dopuszczenia-do-obrotu-gieldowego-na-glownym-rynku-gpw"
+  },
+  {
+   "id": "bossa-pap-442420",
+   "date": "2026-11-20",
+   "time": "13:39",
+   "ts": "2026-11-20T13:39:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Gas Storage Poland z Grupy Gaz-System chce nabyć magazyny gazu należące do Orlenu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442420"
+  },
   {
    "id": "bossa-espi-216872",
    "date": "2026-11-20",
@@ -133,6 +204,17 @@
    "title": "Eurocash chce pokazać pełną siłę zarobkową w '27; planuje IPO Frisco (wywiad)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-442409"
+  },
+  {
+   "id": "strefa-0ba4ff7401b4",
+   "date": "2026-11-20",
+   "time": "13:15",
+   "ts": "2026-11-20T13:15:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Gas Storage Poland z Grupy Gaz-System chce nabyć magazyny gazu należące do Orlenu",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/gas-storage-poland-z-grupy-gaz-system-chce-nabyc-magazyny-gazu-nalezace-do"
   },
   {
    "id": "bossa-pap-442408",

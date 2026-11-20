@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "fe3ce694df07",
+   "ticker": "NVDA",
+   "time": "2026-11-20T13:35+01:00",
+   "title": "History Says This Is What Happens to the Nasdaq After the Midterms",
+   "url": "https://www.nasdaq.com/articles/history-says-what-happens-nasdaq-after-midterms",
+   "src": "nasdaq",
+   "summary": "Key PointsStocks have tended to deliver strong returns in the year of trading following midterm elections."
+  },
+  {
    "id": "c6e95221065a",
    "ticker": "ASML",
    "time": "2026-11-20T13:20+01:00",
@@ -8,6 +17,15 @@
    "url": "https://www.nasdaq.com/articles/why-asml-stock-falling-and-it-buying-opportunity",
    "src": "nasdaq",
    "summary": "Should you buy stock in ASML right now?\nBefore you buy stock in ASML, consider this:Missed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Convict"
+  },
+  {
+   "id": "95edd7fd324e",
+   "ticker": "NVDA",
+   "time": "2026-11-20T13:20+01:00",
+   "title": "Prediction: Micron Stock Is Going to Soar After Its December Earnings Report",
+   "url": "https://www.nasdaq.com/articles/prediction-micron-stock-going-soar-after-its-december-earnings-report",
+   "src": "nasdaq",
+   "summary": "Key PointsMicron's earnings report will include the first outlook that reflects the much higher prices it negotiated for its 2027 AI memory."
   },
   {
    "id": "c970fe791fc5",
@@ -15742,5 +15760,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-20T13:38:28+01:00"
+ "updatedAt": "2026-11-20T13:49:28+01:00"
 }
