@@ -1,7 +1,66 @@
 {
  "date": "2026-11-20",
- "count": 82,
+ "count": 87,
  "items": [
+  {
+   "id": "bossa-pap-442330",
+   "date": "2026-11-20",
+   "time": "09:20",
+   "ts": "2026-11-20T09:20:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA FX/FI: W niekorzystnym otoczeniu PLN może zakończyć tydzień przy 4,44/EUR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442330"
+  },
+  {
+   "id": "bossa-pap-442329",
+   "date": "2026-11-20",
+   "time": "09:16",
+   "ts": "2026-11-20T09:16:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "WIG20 na otwarciu wyniósł 4129,76 pkt (-1,78%)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442329"
+  },
+  {
+   "id": "bossa-pap-442328",
+   "date": "2026-11-20",
+   "time": "09:16",
+   "ts": "2026-11-20T09:16:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Kurs Asbisu zniżkuje o 8,6 proc. do 152,8 zł, przy spadku mWIG40 o 1,1 proc.",
+   "ticker": "ASB",
+   "url": "https://bossa.pl/analizy/komunikaty#message-442328"
+  },
+  {
+   "id": "bossa-pap-442327",
+   "date": "2026-11-20",
+   "time": "09:16",
+   "ts": "2026-11-20T09:16:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ceny gazu w Europie w górę; napięcie na Bliskim Wschodzie rośnie, dostawy z Norwegii zmalały",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442327"
+  },
+  {
+   "id": "strefa-9a4b59398c8e",
+   "date": "2026-11-20",
+   "time": "09:10",
+   "ts": "2026-11-20T09:10:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA FX/FI: W niekorzystnym otoczeniu PLN może zakończyć tydzień przy 4,44/EUR",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/dzien-na-fxfi-w-niekorzystnym-otoczeniu-pln-moze-zakonczyc-tydzien-przy-444eur"
+  },
   {
    "id": "bossa-pap-442326",
    "date": "2026-11-20",

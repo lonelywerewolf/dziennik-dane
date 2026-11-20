@@ -1,24 +1,42 @@
 {
  "date": "2026-11-20",
  "counts": {
-  "podsumowania": 6,
+  "podsumowania": 8,
   "wyniki": 6,
   "rekomendacje": 0,
   "korporacyjne": 4,
   "makro_pl": 5,
-  "swiat_rynki": 3,
+  "swiat_rynki": 4,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 1,
-  "twoje_spolki": 1,
+  "twoje_spolki": 2,
   "obserwowane": 0,
   "pozostale": 20
  },
- "duplicatesRemoved": 33,
- "total": 82,
+ "duplicatesRemoved": 34,
+ "total": 87,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "09:16",
+    "kind": "pap",
+    "ticker": null,
+    "title": "WIG20 na otwarciu wyniósł 4129,76 pkt (-1,78%)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442329",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "09:10",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA FX/FI: W niekorzystnym otoczeniu PLN może zakończyć tydzień przy 4,44/EUR",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/dzien-na-fxfi-w-niekorzystnym-otoczeniu-pln-moze-zakonczyc-tydzien-przy-444eur",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:22",
     "kind": "news",
@@ -228,6 +246,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "09:16",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Ceny gazu w Europie w górę; napięcie na Bliskim Wschodzie rośnie, dostawy z Norwegii zmalały",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442327",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "08:34",
     "kind": "espi",
     "ticker": null,
@@ -297,6 +324,15 @@
    }
   ],
   "twoje_spolki": [
+   {
+    "time": "09:16",
+    "kind": "pap",
+    "ticker": "ASB",
+    "title": "Kurs Asbisu zniżkuje o 8,6 proc. do 152,8 zł, przy spadku mWIG40 o 1,1 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442328",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "00:04",
     "kind": "espi",
