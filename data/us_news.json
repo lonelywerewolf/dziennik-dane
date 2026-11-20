@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "id": "d48de0dd47d3",
+   "ticker": "NVDA",
+   "time": "2026-11-20T16:47+01:00",
+   "title": "WINN, NVDA, AAPL, MSFT: ETF Inflow Alert",
+   "url": "https://www.nasdaq.com/articles/winn-nvda-aapl-msft-etf-inflow-alert",
+   "src": "nasdaq",
+   "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the Harbor Long-Term Growers ETF (Symbol: WINN) where we have detected an approximate $380.6 million dollar inflow -- that's a 34.0% increase week over w"
+  },
+  {
+   "id": "3c9aa1535101",
+   "ticker": "NVDA",
+   "time": "2026-11-20T16:44+01:00",
+   "title": "NVDA November 2027 Options Begin Trading",
+   "url": "https://www.nasdaq.com/articles/nvda-november-2027-options-begin-trading",
+   "src": "nasdaq",
+   "summary": "Investors in NVIDIA Corp (Symbol: NVDA) saw new options begin trading today, for the November 2027 expiration.  One of the key inputs that goes into the price an option buyer is willing to pay, is the time value, so with 364 days until expiration the newly trading contracts repr"
+  },
+  {
    "id": "8da3b95f425a",
    "ticker": "NVDA",
    "time": "2026-11-20T16:33+01:00",
@@ -15814,5 +15832,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-20T17:07:28+01:00"
+ "updatedAt": "2026-11-20T17:18:28+01:00"
 }

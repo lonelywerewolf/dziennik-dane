@@ -5,17 +5,17 @@
   "wyniki": 10,
   "rekomendacje": 0,
   "korporacyjne": 42,
-  "makro_pl": 23,
+  "makro_pl": 24,
   "swiat_rynki": 15,
   "energetyka_surowce": 8,
   "nieruchomosci": 1,
   "fundusze_drobne": 13,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 61
+  "pozostale": 62
  },
- "duplicatesRemoved": 106,
- "total": 294,
+ "duplicatesRemoved": 109,
+ "total": 299,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -695,6 +695,15 @@
   ],
   "makro_pl": [
    {
+    "time": "17:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MFiPR: Polska otrzyma rekordowe ponad 55 mld zł z KPO (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442489",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "16:30",
     "kind": "pap",
     "ticker": null,
@@ -1267,6 +1276,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MRiRW: Skuteczniejsza promocja polskiej żywności (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442490",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:23",
     "kind": "news",

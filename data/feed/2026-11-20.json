@@ -1,7 +1,31 @@
 {
  "date": "2026-11-20",
- "count": 294,
+ "count": 299,
  "items": [
+  {
+   "id": "bossa-espi-216905",
+   "date": "2026-11-20",
+   "time": "17:15",
+   "ts": "2026-11-20T17:15:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "WIKANA",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216905"
+  },
+  {
+   "id": "bossa-espi-216904",
+   "date": "2026-11-20",
+   "time": "17:10",
+   "ts": "2026-11-20T17:10:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "GAMING FACTORY S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216904"
+  },
   {
    "id": "bossa-espi-216903",
    "date": "2026-11-20",
@@ -37,6 +61,42 @@
    "title": "Q",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-216901"
+  },
+  {
+   "id": "bossa-pap-442491",
+   "date": "2026-11-20",
+   "time": "17:00",
+   "ts": "2026-11-20T17:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Skrót wiadomości - piątek, 20 listopada, 17.00",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442491"
+  },
+  {
+   "id": "bossa-pap-442490",
+   "date": "2026-11-20",
+   "time": "17:00",
+   "ts": "2026-11-20T17:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MRiRW: Skuteczniejsza promocja polskiej żywności (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442490"
+  },
+  {
+   "id": "bossa-pap-442489",
+   "date": "2026-11-20",
+   "time": "17:00",
+   "ts": "2026-11-20T17:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MFiPR: Polska otrzyma rekordowe ponad 55 mld zł z KPO (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442489"
   },
   {
    "id": "strefa-223e1cae804d",
