@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T23:43:53+01:00",
+ "updatedAt": "2026-11-20T23:55:35+01:00",
  "q": {
   "ASB": {
    "date": "2026-11-20",
@@ -130,94 +130,101 @@
    "src": "https://www.gpw.pl/archiwum-notowan"
   },
   "ASML": {
-   "date": "2026-11-19",
-   "close": 1356.2,
+   "date": "2026-11-20",
+   "close": 1266.22,
    "ccy": "USD",
    "src": "https://www.nasdaq.com/market-activity/stocks/asml",
-   "chg": -2.8,
+   "chg": -6.63,
    "live": {
-    "price": 1296.01,
-    "chgPct": 2.35,
-    "at": "Nov 20, 2026 5:44 PM ET",
-    "src": "https://www.nasdaq.com/market-activity/stocks/asml"
+    "price": 1266.22,
+    "chgPct": -6.63,
+    "at": "2026-11-20T21:00:00+00:00",
+    "src": "https://www.tiingo.com/asml/overview",
+    "via": "tiingo"
    }
   },
   "AVGO": {
-   "date": "2026-11-19",
-   "close": 346.65,
+   "date": "2026-11-20",
+   "close": 304.41,
    "ccy": "USD",
    "src": "https://www.nasdaq.com/market-activity/stocks/avgo",
-   "chg": -2.09,
+   "chg": -12.19,
    "live": {
-    "price": 309.99,
-    "chgPct": 1.83,
-    "at": "Nov 20, 2026 5:44 PM ET",
-    "src": "https://www.nasdaq.com/market-activity/stocks/avgo"
+    "price": 304.41,
+    "chgPct": -12.19,
+    "at": "2026-11-20T21:00:00+00:00",
+    "src": "https://www.tiingo.com/avgo/overview",
+    "via": "tiingo"
    }
   },
   "MPWR": {
-   "date": "2026-11-19",
-   "close": 1295.86,
+   "date": "2026-11-20",
+   "close": 1142.05,
    "ccy": "USD",
    "src": "https://www.nasdaq.com/market-activity/stocks/mpwr",
-   "chg": -1.15,
+   "chg": -11.87,
    "live": {
-    "price": 1178.88,
-    "chgPct": 3.22,
-    "at": "Nov 20, 2026 5:44 PM ET",
-    "src": "https://www.nasdaq.com/market-activity/stocks/mpwr"
+    "price": 1142.05,
+    "chgPct": -11.87,
+    "at": "2026-11-20T21:00:00+00:00",
+    "src": "https://www.tiingo.com/mpwr/overview",
+    "via": "tiingo"
    }
   },
   "MRVL": {
-   "date": "2026-11-19",
-   "close": 138.47,
+   "date": "2026-11-20",
+   "close": 122.28,
    "ccy": "USD",
    "src": "https://www.nasdaq.com/market-activity/stocks/mrvl",
-   "chg": -4.86,
+   "chg": -11.69,
    "live": {
-    "price": 126.31,
-    "chgPct": 3.3,
-    "at": "Nov 20, 2026 5:44 PM ET",
-    "src": "https://www.nasdaq.com/market-activity/stocks/mrvl"
+    "price": 122.28,
+    "chgPct": -11.69,
+    "at": "2026-11-20T21:00:00+00:00",
+    "src": "https://www.tiingo.com/mrvl/overview",
+    "via": "tiingo"
    }
   },
   "NVDA": {
-   "date": "2026-11-19",
-   "close": 145.98,
+   "date": "2026-11-20",
+   "close": 125.53,
    "ccy": "USD",
    "src": "https://www.nasdaq.com/market-activity/stocks/nvda",
-   "chg": -3.3,
+   "chg": -14.01,
    "live": {
-    "price": 129.78,
-    "chgPct": 1.09,
-    "at": "Nov 20, 2026 5:44 PM ET",
-    "src": "https://www.nasdaq.com/market-activity/stocks/nvda"
+    "price": 125.53,
+    "chgPct": -14.01,
+    "at": "2026-11-20T21:00:00+00:00",
+    "src": "https://www.tiingo.com/nvda/overview",
+    "via": "tiingo"
    }
   },
   "TSM": {
-   "date": "2026-11-19",
-   "close": 352.09,
+   "date": "2026-11-20",
+   "close": 318.71,
    "ccy": "USD",
    "src": "https://www.nasdaq.com/market-activity/stocks/tsm",
-   "chg": -2.9,
+   "chg": -9.48,
    "live": {
-    "price": 328.0001,
-    "chgPct": 2.71,
-    "at": "Nov 20, 2026 5:44 PM ET",
-    "src": "https://www.nasdaq.com/market-activity/stocks/tsm"
+    "price": 318.71,
+    "chgPct": -9.48,
+    "at": "2026-11-20T21:00:00+00:00",
+    "src": "https://www.tiingo.com/tsm/overview",
+    "via": "tiingo"
    }
   },
   "VRT": {
-   "date": "2026-11-19",
-   "close": 184.99,
+   "date": "2026-11-20",
+   "close": 166.24,
    "ccy": "USD",
    "src": "https://www.nasdaq.com/market-activity/stocks/vrt",
-   "chg": -4.88,
+   "chg": -10.14,
    "live": {
-    "price": 170.2275,
-    "chgPct": 2.39,
-    "at": "Nov 20, 2026 5:44 PM ET",
-    "src": "https://www.nasdaq.com/market-activity/stocks/vrt"
+    "price": 166.24,
+    "chgPct": -10.14,
+    "at": "2026-11-20T21:00:00+00:00",
+    "src": "https://www.tiingo.com/vrt/overview",
+    "via": "tiingo"
    }
   },
   "^NDQ": {
