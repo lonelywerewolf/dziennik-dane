@@ -1,7 +1,54 @@
 {
  "date": "2026-11-20",
- "count": 123,
+ "count": 127,
  "items": [
+  {
+   "id": "bossa-espi-216841",
+   "date": "2026-11-20",
+   "time": "11:32",
+   "ts": "2026-11-20T11:32:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF BITCOIN PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 237 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-216841"
+  },
+  {
+   "id": "bossa-pap-442360",
+   "date": "2026-11-20",
+   "time": "11:30",
+   "ts": "2026-11-20T11:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wittchen szacuje odpisy i rezerwy dot. restrukturyzacji zagranicznej sieci na 12,7 mln zł w skons. wynikach za I-III kw.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442360"
+  },
+  {
+   "id": "bossa-pap-442359",
+   "date": "2026-11-20",
+   "time": "11:25",
+   "ts": "2026-11-20T11:25:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Polska będzie wnioskować do NATO o wsparcie po piątkowym naruszeniu przestrzeni powietrznej - szef MON",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442359"
+  },
+  {
+   "id": "strefa-fa7c1b5b8dbd",
+   "date": "2026-11-20",
+   "time": "11:14",
+   "ts": "2026-11-20T11:14:09+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wittchen szacuje odpisy i rezerwy dot. restrukturyzacji zagranicznej sieci na 12,7 mln zł w skons. wynikach za I-III kw.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261120/wittchen-szacuje-odpisy-i-rezerwy-dot-restrukturyzacji-zagranicznej-sieci-na"
+  },
   {
    "id": "bossa-espi-216840",
    "date": "2026-11-20",

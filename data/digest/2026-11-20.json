@@ -2,20 +2,20 @@
  "date": "2026-11-20",
  "counts": {
   "podsumowania": 10,
-  "wyniki": 7,
+  "wyniki": 8,
   "rekomendacje": 0,
   "korporacyjne": 9,
   "makro_pl": 11,
-  "swiat_rynki": 7,
+  "swiat_rynki": 8,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 1,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 31
+  "pozostale": 32
  },
- "duplicatesRemoved": 42,
- "total": 123,
+ "duplicatesRemoved": 43,
+ "total": 127,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -111,6 +111,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "11:14",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wittchen szacuje odpisy i rezerwy dot. restrukturyzacji zagranicznej sieci na 12,7 mln zł w skons. wynikach za I-III kw.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261120/wittchen-szacuje-odpisy-i-rezerwy-dot-restrukturyzacji-zagranicznej-sieci-na",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "11:14",
     "kind": "espi",
@@ -384,6 +395,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "11:32",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BETA ETF BITCOIN PORTFELOWY FIZ: Raport bieżący nr 237 / 2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-216841",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "11:11",
     "kind": "news",
     "ticker": null,
@@ -512,6 +532,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:25",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Polska będzie wnioskować do NATO o wsparcie po piątkowym naruszeniu przestrzeni powietrznej - szef MON",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442359",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:11",
     "kind": "pap",
