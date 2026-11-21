@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "0a8f5b6bac1d",
+   "ticker": "NVDA",
+   "time": "2026-11-21T14:00+01:00",
+   "title": "Is AMD the Stock to Buy With Nvidia in Limbo?",
+   "url": "https://www.nasdaq.com/articles/amd-stock-buy-nvidia-limbo",
+   "src": "nasdaq",
+   "summary": "Key PointsAMD's growth lags Nvidia's."
+  },
+  {
+   "id": "808beecf73e2",
+   "ticker": "NVDA",
+   "time": "2026-11-21T13:14+01:00",
+   "title": "Nvidia Just Issued a Major Warning to AMD and Intel Stock Investors",
+   "url": "https://www.nasdaq.com/articles/nvidia-just-issued-major-warning-amd-and-intel-stock-investors",
+   "src": "nasdaq",
+   "summary": "Key PointsNvidia is seeing phenomenal demand for its Vera server CPUs, which are being deployed by multiple hyperscalers and AI companies."
+  },
+  {
+   "id": "249eb3b52f37",
+   "ticker": "NVDA",
+   "time": "2026-11-21T12:35+01:00",
+   "title": "If AI Chips Become Commoditized, Nvidia Has the Most to Lose, While These 3 Stocks Are Set to Gain",
+   "url": "https://www.nasdaq.com/articles/if-ai-chips-become-commoditized-nvidia-has-most-lose-while-these-3-stocks-are-set-gain",
+   "src": "nasdaq",
+   "summary": "Key PointsAs the market leader with high prices, Nvidia could see margins compress if AI chips become more commoditized."
+  },
+  {
    "id": "fae3c79c8cfa",
    "ticker": "NVDA",
    "time": "2026-11-21T11:15+01:00",
@@ -16147,5 +16174,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-21T13:43:02+01:00"
+ "updatedAt": "2026-11-21T14:33:02+01:00"
 }
