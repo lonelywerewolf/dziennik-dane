@@ -1,7 +1,31 @@
 {
  "date": "2026-11-21",
- "count": 2,
+ "count": 4,
  "items": [
+  {
+   "id": "bossa-pap-442568",
+   "date": "2026-11-21",
+   "time": "10:40",
+   "ts": "2026-11-21T10:40:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "NWZ MCI Capital zdecyduje o skupie akcji własnych o wartości do 80 mln zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442568"
+  },
+  {
+   "id": "bossa-espi-271070",
+   "date": "2026-11-21",
+   "time": "10:40",
+   "ts": "2026-11-21T10:40:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ROAD STUDIO S.A.",
+   "title": "Ustalenie ram czasowych premiery Road Truckers: New Beginning",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271070"
+  },
   {
    "id": "bossa-espi-271069",
    "date": "2026-11-21",
