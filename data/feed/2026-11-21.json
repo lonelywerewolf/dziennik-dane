@@ -1,7 +1,19 @@
 {
  "date": "2026-11-21",
- "count": 4,
+ "count": 5,
  "items": [
+  {
+   "id": "bossa-pap-442570",
+   "date": "2026-11-21",
+   "time": "12:31",
+   "ts": "2026-11-21T12:31:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MERLIN GROUP SA W RESTRUKTURYZACJI (23/2026) Inne informacje",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442570"
+  },
   {
    "id": "bossa-pap-442568",
    "date": "2026-11-21",

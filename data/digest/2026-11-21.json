@@ -4,7 +4,7 @@
   "podsumowania": 0,
   "wyniki": 0,
   "rekomendacje": 0,
-  "korporacyjne": 2,
+  "korporacyjne": 3,
   "makro_pl": 0,
   "swiat_rynki": 0,
   "energetyka_surowce": 0,
@@ -15,13 +15,22 @@
   "pozostale": 2
  },
  "duplicatesRemoved": 0,
- "total": 4,
+ "total": 5,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [],
   "wyniki": [],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "12:31",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MERLIN GROUP SA W RESTRUKTURYZACJI (23/2026) Inne informacje",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442570",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:40",
     "kind": "pap",
