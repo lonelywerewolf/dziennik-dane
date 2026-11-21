@@ -1,5 +1,30 @@
 {
  "date": "2026-11-21",
- "count": 0,
- "items": []
+ "count": 2,
+ "items": [
+  {
+   "id": "bossa-espi-271069",
+   "date": "2026-11-21",
+   "time": "10:20",
+   "ts": "2026-11-21T10:20:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MCI CAPITAL ASI S.A.",
+   "title": "Zwołanie Nadzwyczajnego Walnego Zgromadzenia Spółki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271069"
+  },
+  {
+   "id": "bossa-pap-442566",
+   "date": "2026-11-21",
+   "time": "10:17",
+   "ts": "2026-11-21T10:17:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GTA VI osiągnęła sprzedażowy rekord w całej branży rozrywkowej - Rockstar Games",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442566"
+  }
+ ]
 }
