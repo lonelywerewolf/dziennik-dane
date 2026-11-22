@@ -1,5 +1,18 @@
 {
  "date": "2026-11-22",
- "count": 0,
- "items": []
+ "count": 1,
+ "items": [
+  {
+   "id": "bossa-pap-442573",
+   "date": "2026-11-22",
+   "time": "12:39",
+   "ts": "2026-11-22T12:39:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "NBP opublikował harmonogram posiedzeń RPP na 2027 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442573"
+  }
+ ]
 }
