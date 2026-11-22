@@ -1,7 +1,31 @@
 {
  "date": "2026-11-22",
- "count": 1,
+ "count": 3,
  "items": [
+  {
+   "id": "bossa-pap-442575",
+   "date": "2026-11-22",
+   "time": "20:18",
+   "ts": "2026-11-22T20:18:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Skrót wiadomości: sobota-niedziela, 21-22 listopada",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442575"
+  },
+  {
+   "id": "bossa-pap-442574",
+   "date": "2026-11-22",
+   "time": "20:08",
+   "ts": "2026-11-22T20:08:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KPRP: Wizyty oficjalne Prezydenta RP w Republice Argentyńskiej i Republice Chile - program prasowy (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442574"
+  },
   {
    "id": "bossa-pap-442573",
    "date": "2026-11-22",
