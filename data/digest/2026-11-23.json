@@ -4,18 +4,18 @@
   "podsumowania": 18,
   "wyniki": 8,
   "rekomendacje": 6,
-  "korporacyjne": 31,
+  "korporacyjne": 32,
   "makro_pl": 37,
   "swiat_rynki": 17,
-  "energetyka_surowce": 2,
+  "energetyka_surowce": 3,
   "nieruchomosci": 0,
-  "fundusze_drobne": 9,
+  "fundusze_drobne": 10,
   "twoje_spolki": 6,
   "obserwowane": 0,
-  "pozostale": 47
+  "pozostale": 48
  },
- "duplicatesRemoved": 86,
- "total": 267,
+ "duplicatesRemoved": 87,
+ "total": 272,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -327,6 +327,15 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "17:56",
+    "kind": "espi",
+    "ticker": null,
+    "title": "JSW S.A.: Uchwały Nadzwyczajnego Walnego Zgromadzenia JSW S.A. z dnia 23.11.2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-10842",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:41",
     "kind": "espi",
@@ -1145,6 +1154,15 @@
   ],
   "energetyka_surowce": [
    {
+    "time": "17:51",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Minister Energii powołał Zespół do spraw wydobycia węgla kamiennego i brunatnego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442771",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "12:16",
     "kind": "news",
     "ticker": null,
@@ -1165,6 +1183,15 @@
   ],
   "nieruchomosci": [],
   "fundusze_drobne": [
+   {
+    "time": "17:46",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Nationale-Nederlanden PTE SA informuje",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442769",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:51",
     "kind": "news",
@@ -1309,6 +1336,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:48",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Stawka Polonia nie zmieniła się w poniedziałek i wyniosła 3,62 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442770",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:44",
     "kind": "news",

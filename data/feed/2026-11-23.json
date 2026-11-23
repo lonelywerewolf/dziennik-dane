@@ -1,7 +1,67 @@
 {
  "date": "2026-11-23",
- "count": 267,
+ "count": 272,
  "items": [
+  {
+   "id": "bossa-espi-10842",
+   "date": "2026-11-23",
+   "time": "17:56",
+   "ts": "2026-11-23T17:56:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "JSW S.A.",
+   "title": "Uchwały Nadzwyczajnego Walnego Zgromadzenia JSW S.A. z dnia 23.11.2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-10842"
+  },
+  {
+   "id": "bossa-espi-271139",
+   "date": "2026-11-23",
+   "time": "17:52",
+   "ts": "2026-11-23T17:52:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "UNIBEP S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271139"
+  },
+  {
+   "id": "bossa-pap-442771",
+   "date": "2026-11-23",
+   "time": "17:51",
+   "ts": "2026-11-23T17:51:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Minister Energii powołał Zespół do spraw wydobycia węgla kamiennego i brunatnego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442771"
+  },
+  {
+   "id": "bossa-pap-442770",
+   "date": "2026-11-23",
+   "time": "17:48",
+   "ts": "2026-11-23T17:48:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Stawka Polonia nie zmieniła się w poniedziałek i wyniosła 3,62 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442770"
+  },
+  {
+   "id": "bossa-pap-442769",
+   "date": "2026-11-23",
+   "time": "17:46",
+   "ts": "2026-11-23T17:46:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Nationale-Nederlanden PTE SA informuje",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442769"
+  },
   {
    "id": "strefa-888e51b38cd6",
    "date": "2026-11-23",
