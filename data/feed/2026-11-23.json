@@ -1,7 +1,77 @@
 {
  "date": "2026-11-23",
- "count": 68,
+ "count": 75,
  "items": [
+  {
+   "id": "bossa-pap-442620",
+   "date": "2026-11-23",
+   "time": "09:34",
+   "ts": "2026-11-23T09:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DM BDM obniżył rekomendację Synthaverse do \"sprzedaj\"",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442620"
+  },
+  {
+   "id": "bossa-pap-442619",
+   "date": "2026-11-23",
+   "time": "09:34",
+   "ts": "2026-11-23T09:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeks PMI w Niemczech w przemyśle w XI: 55,0 pkt. Konsensus: 54,2 pkt.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442619"
+  },
+  {
+   "id": "bossa-pap-442618",
+   "date": "2026-11-23",
+   "time": "09:32",
+   "ts": "2026-11-23T09:32:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Kurs Newagu spada o ok. 10 proc. do 79,3 zł; indeks mWIG40 lekko rośnie",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442618"
+  },
+  {
+   "id": "strefa-d185ce4d676c",
+   "date": "2026-11-23",
+   "time": "09:27",
+   "ts": "2026-11-23T09:27:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Kurs Newagu spada o ok. 10 proc. do 79,3 zł; indeks mWIG40 lekko rośnie",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/kurs-newagu-spada-o-ok-10-proc-do-793-zl-indeks-mwig40-lekko-rosnie"
+  },
+  {
+   "id": "bossa-pap-442617",
+   "date": "2026-11-23",
+   "time": "09:26",
+   "ts": "2026-11-23T09:26:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: W Europie na giełdach indeksy rosną",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442617"
+  },
+  {
+   "id": "strefa-9f01ced35ffe",
+   "date": "2026-11-23",
+   "time": "09:25",
+   "ts": "2026-11-23T09:25:08+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: W Europie na giełdach indeksy rosną",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/dzien-na-rynkach-w-europie-na-gieldach-indeksy-rosna"
+  },
   {
    "id": "bossa-pap-442616",
    "date": "2026-11-23",
@@ -13,6 +83,17 @@
    "title": "Indeks PMI we Francji w usługach w XI: 46,6 pkt. Konsensus: 46,2 pkt.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-442616"
+  },
+  {
+   "id": "strefa-d508990f7f85",
+   "date": "2026-11-23",
+   "time": "09:18",
+   "ts": "2026-11-23T09:18:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grupa kapitałowa Phenomen Games S.A. przekroczyła próg 10% w Play2Chill S.A.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/grupa-kapitalowa-phenomen-games-sa-przekroczyla-prog-10-w-play2chill-sa"
   },
   {
    "id": "bossa-pap-442615",
