@@ -4,7 +4,7 @@
   "podsumowania": 18,
   "wyniki": 8,
   "rekomendacje": 7,
-  "korporacyjne": 47,
+  "korporacyjne": 48,
   "makro_pl": 39,
   "swiat_rynki": 18,
   "energetyka_surowce": 3,
@@ -15,7 +15,7 @@
   "pozostale": 58
  },
  "duplicatesRemoved": 98,
- "total": 314,
+ "total": 315,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -336,6 +336,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "23:50",
+    "kind": "espi",
+    "ticker": null,
+    "title": "COMPREMUM S.A.: Zawarcie przez Spółkę umowy pożyczki.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-5342",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "22:49",
     "kind": "espi",
