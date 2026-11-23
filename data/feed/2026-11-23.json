@@ -1,7 +1,19 @@
 {
  "date": "2026-11-23",
- "count": 195,
+ "count": 196,
  "items": [
+  {
+   "id": "bossa-espi-271116",
+   "date": "2026-11-23",
+   "time": "15:06",
+   "ts": "2026-11-23T15:06:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BANK GOSPODARSTWA KRAJOWEGO",
+   "title": "Dopuszczenie do obrotu na giełdzie w Luksemburgu obligacji serii 36 o wartości 750.000.000 EUR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271116"
+  },
   {
    "id": "bossa-espi-271115",
    "date": "2026-11-23",
