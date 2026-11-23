@@ -1,30 +1,105 @@
 {
  "date": "2026-11-23",
  "counts": {
-  "podsumowania": 0,
+  "podsumowania": 6,
   "wyniki": 0,
   "rekomendacje": 0,
   "korporacyjne": 0,
-  "makro_pl": 0,
+  "makro_pl": 1,
   "swiat_rynki": 0,
-  "energetyka_surowce": 0,
+  "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 0
+  "pozostale": 4
  },
- "duplicatesRemoved": 0,
- "total": 1,
+ "duplicatesRemoved": 3,
+ "total": 16,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
-  "podsumowania": [],
+  "podsumowania": [
+   {
+    "time": "06:34",
+    "kind": "news",
+    "ticker": null,
+    "title": "TYDZIEŃ W KRAJU: Produkcja przemysłowa, sprzedaż detaliczna i płace za X, kandydaci do RPP, aukcja MF",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/tydzien-w-kraju-produkcja-przemyslowa-sprzedaz-detaliczna-i-place-za-x",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "06:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "TYDZIEŃ NA RYNKACH: Wstępne PMI za XI, PKB i PCE w USA, minutes EBC, AI trade",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442582",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "06:10",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Przegląd prasy gospodarczej w poniedziałek, 23 listopada",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442581",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "06:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Kalendarium rynku kapitałowego GPW 2026-11-23",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442580",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "06:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Kalendarium rynku NewConnect 2026-11-23",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442579",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "06:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Kalendarium spółek z WIG30 2026-11-23",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442578",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "wyniki": [],
   "rekomendacje": [],
   "korporacyjne": [],
-  "makro_pl": [],
+  "makro_pl": [
+   {
+    "time": "06:43",
+    "kind": "news",
+    "ticker": null,
+    "title": "Rentowności obligacji wybranych państw (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/rentownosci-obligacji-wybranych-panstw-tabela",
+    "src": "strefainwestorow",
+    "flags": []
+   }
+  ],
   "swiat_rynki": [],
-  "energetyka_surowce": [],
+  "energetyka_surowce": [
+   {
+    "time": "06:43",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442587",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "nieruchomosci": [],
   "fundusze_drobne": [],
   "twoje_spolki": [
@@ -41,6 +116,43 @@
    }
   ],
   "obserwowane": [],
-  "pozostale": []
+  "pozostale": [
+   {
+    "time": "06:35",
+    "kind": "pap",
+    "ticker": null,
+    "title": "TYGODNIOWY PRZEGLĄD Z REGIONU: Polityka i gospodarka, 16-22 listopada",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442585",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "06:35",
+    "kind": "pap",
+    "ticker": null,
+    "title": "TYGODNIOWY PRZEGLĄD Z REGIONU: Biznes i Rynki, 16-22 listopada",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442584",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "06:34",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "06:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-23",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442577",
+    "src": "bossa",
+    "flags": []
+   }
+  ]
  }
 }
