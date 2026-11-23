@@ -4,18 +4,18 @@
   "podsumowania": 14,
   "wyniki": 3,
   "rekomendacje": 6,
-  "korporacyjne": 26,
-  "makro_pl": 35,
+  "korporacyjne": 27,
+  "makro_pl": 36,
   "swiat_rynki": 17,
   "energetyka_surowce": 2,
   "nieruchomosci": 0,
-  "fundusze_drobne": 6,
+  "fundusze_drobne": 9,
   "twoje_spolki": 6,
   "obserwowane": 0,
-  "pozostale": 39
+  "pozostale": 41
  },
- "duplicatesRemoved": 77,
- "total": 231,
+ "duplicatesRemoved": 78,
+ "total": 239,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -238,6 +238,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "16:46",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MENNICA: Zawiadomienie o transakcjach w trybie art. 19 MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271128",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
    {
     "time": "16:09",
     "kind": "espi",
@@ -517,6 +528,15 @@
     "title": "Ryzyko negatywnego odpływu inwestorów zagranicznych z polskiego rynku SPW ograniczone - MF",
     "url": "https://bossa.pl/analizy/komunikaty#message-442739",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:09",
+    "kind": "news",
+    "ticker": null,
+    "title": "Obligacje skarbowe na celowniku analityków znanego banku. Wskazują najlepszy moment na zakupy",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/obligacje-skarbowe-na-celowniku-analitykow-znanego-banku-wskazuja-najlepszy",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -1006,6 +1026,33 @@
   "nieruchomosci": [],
   "fundusze_drobne": [
    {
+    "time": "16:52",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Tygodniowa zmiana wartości jednostek OFE",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442746",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:50",
+    "kind": "news",
+    "ticker": null,
+    "title": "OFE wartości jednostek rozrachunkowych z 2026.11.20",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/ofe-wartosci-jednostek-rozrachunkowych-z-20261120",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "16:49",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ALLIANZ POLSKA OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442744",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "16:33",
     "kind": "pap",
     "ticker": null,
@@ -1122,6 +1169,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "16:55",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MSWiA: Wizyta kierownictwa MSWiA w Helsinkach: Budujemy partnerstwo strategiczne na rzecz bezpieczeństwa regionu (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442748",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:53",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Zestawienie publikowanych w ostatnim czasie cen wybranych towarów (tabela)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442747",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:06",
     "kind": "pap",

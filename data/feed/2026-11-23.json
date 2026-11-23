@@ -1,7 +1,90 @@
 {
  "date": "2026-11-23",
- "count": 231,
+ "count": 239,
  "items": [
+  {
+   "id": "bossa-pap-442748",
+   "date": "2026-11-23",
+   "time": "16:55",
+   "ts": "2026-11-23T16:55:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MSWiA: Wizyta kierownictwa MSWiA w Helsinkach: Budujemy partnerstwo strategiczne na rzecz bezpieczeństwa regionu (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442748"
+  },
+  {
+   "id": "bossa-pap-442747",
+   "date": "2026-11-23",
+   "time": "16:53",
+   "ts": "2026-11-23T16:53:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zestawienie publikowanych w ostatnim czasie cen wybranych towarów (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442747"
+  },
+  {
+   "id": "bossa-pap-442746",
+   "date": "2026-11-23",
+   "time": "16:52",
+   "ts": "2026-11-23T16:52:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Tygodniowa zmiana wartości jednostek OFE",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442746"
+  },
+  {
+   "id": "strefa-dc85013e9cc1",
+   "date": "2026-11-23",
+   "time": "16:50",
+   "ts": "2026-11-23T16:50:16+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "OFE wartości jednostek rozrachunkowych z 2026.11.20",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/ofe-wartosci-jednostek-rozrachunkowych-z-20261120"
+  },
+  {
+   "id": "bossa-pap-442745",
+   "date": "2026-11-23",
+   "time": "16:50",
+   "ts": "2026-11-23T16:50:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "OFE wartości jednostek rozrachunkowych z 2026.11.20",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442745"
+  },
+  {
+   "id": "bossa-pap-442744",
+   "date": "2026-11-23",
+   "time": "16:49",
+   "ts": "2026-11-23T16:49:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "ALLIANZ POLSKA OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442744"
+  },
+  {
+   "id": "bossa-espi-271128",
+   "date": "2026-11-23",
+   "time": "16:46",
+   "ts": "2026-11-23T16:46:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MENNICA",
+   "title": "Zawiadomienie o transakcjach w trybie art. 19 MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271128"
+  },
   {
    "id": "bossa-espi-271127",
    "date": "2026-11-23",
@@ -73,6 +156,17 @@
    "title": "Opinia Rady Nadzorczej w sprawie planowanego podwyższenia kapitału zakładowego Grupy Azoty Zakłady Chemiczne „Police” S.A.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271125"
+  },
+  {
+   "id": "strefa-38aaf55ab7fb",
+   "date": "2026-11-23",
+   "time": "16:09",
+   "ts": "2026-11-23T16:09:22+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Obligacje skarbowe na celowniku analityków znanego banku. Wskazują najlepszy moment na zakupy",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/obligacje-skarbowe-na-celowniku-analitykow-znanego-banku-wskazuja-najlepszy"
   },
   {
    "id": "bossa-espi-271124",
