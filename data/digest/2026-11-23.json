@@ -12,10 +12,10 @@
   "fundusze_drobne": 10,
   "twoje_spolki": 7,
   "obserwowane": 0,
-  "pozostale": 53
+  "pozostale": 54
  },
  "duplicatesRemoved": 94,
- "total": 299,
+ "total": 300,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1484,6 +1484,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "20:15",
+    "kind": "espi",
+    "ticker": null,
+    "title": "WIELTON S.A.: Zmiana terminu publikacji raportu kwartalnego za III kwartał 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271152",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:49",
     "kind": "pap",
