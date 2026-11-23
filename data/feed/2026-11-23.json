@@ -1,7 +1,55 @@
 {
  "date": "2026-11-23",
- "count": 211,
+ "count": 215,
  "items": [
+  {
+   "id": "bossa-pap-442730",
+   "date": "2026-11-23",
+   "time": "16:01",
+   "ts": "2026-11-23T16:01:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Indeksy w USA mocno rosną po powrocie Huanga na szefa Nvidii",
+   "ticker": "NVDA",
+   "url": "https://bossa.pl/analizy/komunikaty#message-442730"
+  },
+  {
+   "id": "bossa-pap-442728",
+   "date": "2026-11-23",
+   "time": "15:54",
+   "ts": "2026-11-23T15:54:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Super El Nino może podbić ceny żywności i zakłócić dostawy miedzi i litu do 2027 r. (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442728"
+  },
+  {
+   "id": "bossa-espi-271122",
+   "date": "2026-11-23",
+   "time": "15:54",
+   "ts": "2026-11-23T15:54:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "DI VOLIO S.A.",
+   "title": "Skup akcji własnych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271122"
+  },
+  {
+   "id": "bossa-pap-442727",
+   "date": "2026-11-23",
+   "time": "15:51",
+   "ts": "2026-11-23T15:51:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Port Polska przygotowuje dokumentację na potrzeby uzyskania do 1,5 mld EUR finansowania z EBI",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442727"
+  },
   {
    "id": "bossa-pap-442726",
    "date": "2026-11-23",

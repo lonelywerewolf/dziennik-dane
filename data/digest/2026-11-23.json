@@ -4,18 +4,18 @@
   "podsumowania": 13,
   "wyniki": 3,
   "rekomendacje": 6,
-  "korporacyjne": 23,
+  "korporacyjne": 24,
   "makro_pl": 34,
   "swiat_rynki": 13,
   "energetyka_surowce": 2,
   "nieruchomosci": 0,
   "fundusze_drobne": 3,
-  "twoje_spolki": 4,
+  "twoje_spolki": 5,
   "obserwowane": 0,
-  "pozostale": 36
+  "pozostale": 38
  },
  "duplicatesRemoved": 74,
- "total": 211,
+ "total": 215,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -229,6 +229,15 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "15:54",
+    "kind": "espi",
+    "ticker": null,
+    "title": "DI VOLIO S.A.: Skup akcji własnych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271122",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:40",
     "kind": "espi",
@@ -952,6 +961,15 @@
   ],
   "twoje_spolki": [
    {
+    "time": "16:01",
+    "kind": "pap",
+    "ticker": "NVDA",
+    "title": "DZIEŃ NA RYNKACH: Indeksy w USA mocno rosną po powrocie Huanga na szefa Nvidii",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442730",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "08:34",
     "kind": "news",
     "ticker": "ASB",
@@ -994,6 +1012,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "15:54",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Super El Nino może podbić ceny żywności i zakłócić dostawy miedzi i litu do 2027 r. (opinia)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442728",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:51",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Port Polska przygotowuje dokumentację na potrzeby uzyskania do 1,5 mld EUR finansowania z EBI",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442727",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:43",
     "kind": "pap",

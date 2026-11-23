@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "id": "fe8e9c1c6277",
+   "ticker": "NVDA",
+   "time": "2026-11-23T15:53+01:00",
+   "title": "NVIDIA Reinstates Jensen Huang As President And CEO",
+   "url": "https://www.nasdaq.com/articles/nvidia-reinstates-jensen-huang-president-and-ceo",
+   "src": "nasdaq",
+   "summary": "(RTTNews) - Chip giant NVIDIA Corporation (NVDA) on Monday said it has reinstated Jensen Huang as its President and Chief Executive Officer, effective immediately, following a unanimous board decision."
+  },
+  {
+   "id": "593a99b4f6d4",
+   "ticker": "NVDA",
+   "time": "2026-11-23T15:50+01:00",
+   "title": "This Tech Wreck Looks Just Like 2018. Back Then, Here's What Happened Next.",
+   "url": "https://www.nasdaq.com/articles/tech-wreck-looks-just-2018-back-then-heres-what-happened-next",
+   "src": "nasdaq",
+   "summary": "Key PointsTechnology stocks have gotten hammered over the past month and a half."
+  },
+  {
    "id": "5048320da6c1",
    "ticker": "VRT",
    "time": "2026-11-23T15:36+01:00",
@@ -35,6 +53,15 @@
    "url": "https://www.nasdaq.com/articles/intel-ceo-lip-bu-tan-has-incredible-news-investors-much-needed-catalyst-stock",
    "src": "nasdaq",
    "summary": "Key PointsThe foundry market has been growing at a nice clip, driven by the booming demand for AI chips."
+  },
+  {
+   "id": "4a04b1cfcbbe",
+   "ticker": "NVDA",
+   "time": "2026-11-23T13:42+01:00",
+   "title": "ETFs to Benefit as U.S. Approves AI Chip Exports to China",
+   "url": "https://www.nasdaq.com/articles/etfs-benefit-us-approves-ai-chip-exports-china",
+   "src": "nasdaq",
+   "summary": "U.S. AI chip export approvals to China could create opportunities for NVIDIA, AMD and related semiconductor and Chinese technology ETFs."
   },
   {
    "id": "535d9d0f6ad2",
@@ -16606,5 +16633,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-23T15:51:05+01:00"
+ "updatedAt": "2026-11-23T16:02:04+01:00"
 }
