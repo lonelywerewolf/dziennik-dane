@@ -6,7 +6,7 @@
   "rekomendacje": 6,
   "korporacyjne": 26,
   "makro_pl": 34,
-  "swiat_rynki": 15,
+  "swiat_rynki": 16,
   "energetyka_surowce": 2,
   "nieruchomosci": 0,
   "fundusze_drobne": 4,
@@ -15,7 +15,7 @@
   "pozostale": 39
  },
  "duplicatesRemoved": 77,
- "total": 226,
+ "total": 227,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -820,6 +820,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "16:19",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GRUPA AZOTY SA: Opinia Rady Nadzorczej Spółki w sprawie objęcia akcji w podwyższonym kapitale zakładowym Spółki Zależnej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271126",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:12",
     "kind": "espi",
