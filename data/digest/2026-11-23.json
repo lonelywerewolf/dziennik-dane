@@ -5,7 +5,7 @@
   "wyniki": 8,
   "rekomendacje": 7,
   "korporacyjne": 43,
-  "makro_pl": 38,
+  "makro_pl": 39,
   "swiat_rynki": 18,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
@@ -15,7 +15,7 @@
   "pozostale": 54
  },
  "duplicatesRemoved": 94,
- "total": 300,
+ "total": 301,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -782,6 +782,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "20:28",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wersja budżetu UE, która miałaby oznaczać osłabienie obronności Polski nieakceptowalna - Tusk",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442797",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "20:06",
     "kind": "pap",
