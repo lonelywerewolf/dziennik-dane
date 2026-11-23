@@ -5,17 +5,17 @@
   "wyniki": 3,
   "rekomendacje": 6,
   "korporacyjne": 14,
-  "makro_pl": 27,
+  "makro_pl": 28,
   "swiat_rynki": 9,
   "energetyka_surowce": 2,
   "nieruchomosci": 0,
-  "fundusze_drobne": 1,
+  "fundusze_drobne": 2,
   "twoje_spolki": 4,
   "obserwowane": 0,
   "pozostale": 31
  },
- "duplicatesRemoved": 59,
- "total": 168,
+ "duplicatesRemoved": 62,
+ "total": 173,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -380,6 +380,15 @@
     "flags": []
    },
    {
+    "time": "13:23",
+    "kind": "news",
+    "ticker": null,
+    "title": "Procentowy udział węgla kamiennego w produkcji energii w X wzrósł w Polsce rdr do 44,34 proc. - PSE",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/procentowy-udzial-wegla-kamiennego-w-produkcji-energii-w-x-wzrosl-w-polsce-rdr",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "12:43",
     "kind": "espi",
     "ticker": null,
@@ -721,6 +730,15 @@
   ],
   "nieruchomosci": [],
   "fundusze_drobne": [
+   {
+    "time": "13:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PKO BP BANKOWY OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442694",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:47",
     "kind": "pap",
