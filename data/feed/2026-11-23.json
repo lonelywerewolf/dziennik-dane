@@ -1,7 +1,89 @@
 {
  "date": "2026-11-23",
- "count": 61,
+ "count": 68,
  "items": [
+  {
+   "id": "bossa-pap-442616",
+   "date": "2026-11-23",
+   "time": "09:19",
+   "ts": "2026-11-23T09:19:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeks PMI we Francji w usługach w XI: 46,6 pkt. Konsensus: 46,2 pkt.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442616"
+  },
+  {
+   "id": "bossa-pap-442615",
+   "date": "2026-11-23",
+   "time": "09:17",
+   "ts": "2026-11-23T09:17:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA FX/FI: Złoty nadal pod presją globalnych czynników",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442615"
+  },
+  {
+   "id": "bossa-pap-442614",
+   "date": "2026-11-23",
+   "time": "09:17",
+   "ts": "2026-11-23T09:17:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeks PMI we Francji w przemyśle w XI: 47,9 pkt. Konsensus: 49,8 pkt.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442614"
+  },
+  {
+   "id": "bossa-pap-442613",
+   "date": "2026-11-23",
+   "time": "09:17",
+   "ts": "2026-11-23T09:17:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "WIG20 na otwarciu wyniósł 4039,85 pkt (0,59%)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442613"
+  },
+  {
+   "id": "strefa-b35387099636",
+   "date": "2026-11-23",
+   "time": "09:14",
+   "ts": "2026-11-23T09:14:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA FX/FI: Złoty nadal pod presją globalnych czynników",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/dzien-na-fxfi-zloty-nadal-pod-presja-globalnych-czynnikow"
+  },
+  {
+   "id": "bossa-pap-442612",
+   "date": "2026-11-23",
+   "time": "09:13",
+   "ts": "2026-11-23T09:13:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Kurs ZE PAK rośnie o niemal 30 proc. do 24 zł; indeks sWIG80 lekko zwyżkuje",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442612"
+  },
+  {
+   "id": "strefa-bde92d7bdad3",
+   "date": "2026-11-23",
+   "time": "09:08",
+   "ts": "2026-11-23T09:08:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Kurs ZE PAK rośnie o niemal 30 proc. do 24 zł; indeks sWIG80 lekko zwyżkuje",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/kurs-ze-pak-rosnie-o-niemal-30-proc-do-24-zl-indeks-swig80-lekko-zwyzkuje"
+  },
   {
    "id": "bossa-pap-442611",
    "date": "2026-11-23",

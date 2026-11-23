@@ -1,24 +1,42 @@
 {
  "date": "2026-11-23",
  "counts": {
-  "podsumowania": 8,
+  "podsumowania": 10,
   "wyniki": 1,
   "rekomendacje": 5,
   "korporacyjne": 4,
-  "makro_pl": 2,
+  "makro_pl": 4,
   "swiat_rynki": 3,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 4,
   "obserwowane": 0,
-  "pozostale": 10
+  "pozostale": 11
  },
- "duplicatesRemoved": 23,
- "total": 61,
+ "duplicatesRemoved": 25,
+ "total": 68,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "09:17",
+    "kind": "pap",
+    "ticker": null,
+    "title": "WIG20 na otwarciu wyniósł 4039,85 pkt (0,59%)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442613",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "09:14",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA FX/FI: Złoty nadal pod presją globalnych czynników",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/dzien-na-fxfi-zloty-nadal-pod-presja-globalnych-czynnikow",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:36",
     "kind": "news",
@@ -200,6 +218,24 @@
   ],
   "makro_pl": [
    {
+    "time": "09:19",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeks PMI we Francji w usługach w XI: 46,6 pkt. Konsensus: 46,2 pkt.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442616",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "09:17",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeks PMI we Francji w przemyśle w XI: 47,9 pkt. Konsensus: 49,8 pkt.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442614",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "07:41",
     "kind": "pap",
     "ticker": null,
@@ -304,6 +340,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:08",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kurs ZE PAK rośnie o niemal 30 proc. do 24 zł; indeks sWIG80 lekko zwyżkuje",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/kurs-ze-pak-rosnie-o-niemal-30-proc-do-24-zl-indeks-swig80-lekko-zwyzkuje",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:52",
     "kind": "news",
