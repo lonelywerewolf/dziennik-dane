@@ -5,17 +5,17 @@
   "wyniki": 3,
   "rekomendacje": 6,
   "korporacyjne": 7,
-  "makro_pl": 23,
+  "makro_pl": 24,
   "swiat_rynki": 7,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 4,
   "obserwowane": 0,
-  "pozostale": 21
+  "pozostale": 22
  },
- "duplicatesRemoved": 41,
- "total": 125,
+ "duplicatesRemoved": 42,
+ "total": 128,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -295,6 +295,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "11:52",
+    "kind": "news",
+    "ticker": null,
+    "title": "Tabela kursów średnich NBP nr 227/A/NBP/2026",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/tabela-kursow-srednich-nbp-nr-227anbp2026",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "11:04",
     "kind": "news",
@@ -627,6 +636,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:27",
+    "kind": "news",
+    "ticker": null,
+    "title": "Osobiste konta inwestycyjne (OKI) bez podatku Belki do 100 tys. zł. Polacy chcą inwestować",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/osobiste-konta-inwestycyjne-oki-bez-podatku-belki-do-100-tys-zl-polacy-chca",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "11:06",
     "kind": "pap",
