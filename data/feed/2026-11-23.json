@@ -1,7 +1,43 @@
 {
  "date": "2026-11-23",
- "count": 308,
+ "count": 311,
  "items": [
+  {
+   "id": "bossa-espi-271157",
+   "date": "2026-11-23",
+   "time": "22:42",
+   "ts": "2026-11-23T22:42:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KBJ S.A.",
+   "title": "Otrzymanie powiadomienia w trybie art. 19 ust. 1 MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271157"
+  },
+  {
+   "id": "bossa-espi-271156",
+   "date": "2026-11-23",
+   "time": "22:41",
+   "ts": "2026-11-23T22:41:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ELQ S.A.",
+   "title": "Wyrok Sądu Okręgowego w Częstochowie i wniesienie apelacji",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271156"
+  },
+  {
+   "id": "bossa-espi-271155",
+   "date": "2026-11-23",
+   "time": "22:32",
+   "ts": "2026-11-23T22:32:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ICE CODE GAMES S.A.",
+   "title": "Transakcje zrealizowane przez osobę pełniącą obowiązki zarządcze",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271155"
+  },
   {
    "id": "bossa-pap-442802",
    "date": "2026-11-23",

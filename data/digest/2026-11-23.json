@@ -4,7 +4,7 @@
   "podsumowania": 18,
   "wyniki": 8,
   "rekomendacje": 7,
-  "korporacyjne": 44,
+  "korporacyjne": 46,
   "makro_pl": 39,
   "swiat_rynki": 18,
   "energetyka_surowce": 3,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 10,
   "twoje_spolki": 8,
   "obserwowane": 0,
-  "pozostale": 55
+  "pozostale": 56
  },
  "duplicatesRemoved": 98,
- "total": 308,
+ "total": 311,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -336,6 +336,29 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "22:42",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KBJ S.A.: Otrzymanie powiadomienia w trybie art. 19 ust. 1 MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271157",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
+    "time": "22:32",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ICE CODE GAMES S.A.: Transakcje zrealizowane przez osobę pełniącą obowiązki zarządcze",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271155",
+    "src": "bossa",
+    "flags": [
+     "zarząd",
+     "insider"
+    ]
+   },
    {
     "time": "20:49",
     "kind": "espi",
@@ -1511,6 +1534,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "22:41",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ELQ S.A.: Wyrok Sądu Okręgowego w Częstochowie i wniesienie apelacji",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271156",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "22:00",
     "kind": "pap",
