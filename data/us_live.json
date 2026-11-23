@@ -3,42 +3,42 @@
   "ASML": {
    "price": 1405.5,
    "chgPct": 11.0,
-   "at": "2026-11-23T09:12:43.466444623-05:00",
+   "at": "2026-11-23T09:20:00.690789624-05:00",
    "src": "https://www.tiingo.com/asml/overview",
    "via": "tiingo"
   },
   "AVGO": {
-   "price": 318.2,
-   "chgPct": 4.53,
-   "at": "2026-11-23T09:17:10.405548745-05:00",
+   "price": 321.91,
+   "chgPct": 5.75,
+   "at": "2026-11-23T09:27:50.027530593-05:00",
    "src": "https://www.tiingo.com/avgo/overview",
    "via": "tiingo"
   },
   "MPWR": {
    "price": 1326.0,
    "chgPct": 16.11,
-   "at": "2026-11-23T09:16:42.288002068-05:00",
+   "at": "2026-11-23T09:20:00.781710446-05:00",
    "src": "https://www.tiingo.com/mpwr/overview",
    "via": "tiingo"
   },
   "NVDA": {
-   "price": 164.0,
-   "chgPct": 30.65,
-   "at": "2026-11-23T09:18:20.592307330-05:00",
+   "price": 168.18,
+   "chgPct": 33.98,
+   "at": "2026-11-23T09:29:15.105158560-05:00",
    "src": "https://www.tiingo.com/nvda/overview",
    "via": "tiingo"
   },
   "TSM": {
-   "price": 370.98,
-   "chgPct": 16.4,
-   "at": "2026-11-23T09:14:17.236113858-05:00",
+   "price": 377.85,
+   "chgPct": 18.56,
+   "at": "2026-11-23T09:25:18.996941797-05:00",
    "src": "https://www.tiingo.com/tsm/overview",
    "via": "tiingo"
   },
   "VRT": {
-   "price": 196.45,
-   "chgPct": 18.17,
-   "at": "2026-11-23T09:15:40.330740945-05:00",
+   "price": 196.98,
+   "chgPct": 18.49,
+   "at": "2026-11-23T09:21:03.676694275-05:00",
    "src": "https://www.tiingo.com/vrt/overview",
    "via": "tiingo"
   },
@@ -50,26 +50,26 @@
    "via": "tiingo (ONEQ)"
   },
   "^SOX": {
-   "price": 142.11,
-   "chgPct": 15.16,
-   "at": "2026-11-23T09:18:17.712836280-05:00",
+   "price": 142.85,
+   "chgPct": 15.76,
+   "at": "2026-11-23T09:29:21.233544783-05:00",
    "src": "https://www.tiingo.com/soxx/overview",
    "via": "tiingo (SOXX)"
   },
   "^SPX": {
-   "price": 719.67,
-   "chgPct": 4.33,
-   "at": "2026-11-23T09:14:03.425536839-05:00",
+   "price": 723.22,
+   "chgPct": 4.84,
+   "at": "2026-11-23T09:28:01.441950399-05:00",
    "src": "https://www.tiingo.com/spy/overview",
    "via": "tiingo (SPY)"
   },
   "MRVL": {
-   "price": 146.0,
-   "chgPct": 19.4,
-   "at": "2026-11-23T09:18:16.515717975-05:00",
+   "price": 147.76,
+   "chgPct": 20.84,
+   "at": "2026-11-23T09:29:12.124807592-05:00",
    "src": "https://www.tiingo.com/mrvl/overview",
    "via": "tiingo"
   }
  },
- "updatedAt": "2026-11-23T15:18:04+01:00"
+ "updatedAt": "2026-11-23T15:29:05+01:00"
 }

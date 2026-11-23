@@ -1,7 +1,19 @@
 {
  "date": "2026-11-23",
- "count": 196,
+ "count": 198,
  "items": [
+  {
+   "id": "bossa-pap-442715",
+   "date": "2026-11-23",
+   "time": "15:18",
+   "ts": "2026-11-23T15:18:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Amerykanie za ponad 4,4 mld dolarów sprzedali wielkie złoże gazu, w którym udziały ma Orlen",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442715"
+  },
   {
    "id": "bossa-espi-271116",
    "date": "2026-11-23",
@@ -36,6 +48,17 @@
    "title": "Klub Lewicy zgłosił w Senacie kandydaturę M. Piątkowskiego do RPP (aktl.)",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261123/klub-lewicy-zglosil-w-senacie-kandydature-m-piatkowskiego-do-rpp-aktl"
+  },
+  {
+   "id": "strefa-121f45ddeab3",
+   "date": "2026-11-23",
+   "time": "15:02",
+   "ts": "2026-11-23T15:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Amerykanie za ponad 4,4 mld dolarów sprzedali wielkie złoże gazu, w którym udziały ma Orlen",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/amerykanie-za-ponad-44-mld-dolarow-sprzedali-wielkie-zloze-gazu-w-ktorym"
   },
   {
    "id": "bossa-pap-442712",
