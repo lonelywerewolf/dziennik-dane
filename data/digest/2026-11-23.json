@@ -4,9 +4,9 @@
   "podsumowania": 13,
   "wyniki": 3,
   "rekomendacje": 6,
-  "korporacyjne": 18,
+  "korporacyjne": 21,
   "makro_pl": 31,
-  "swiat_rynki": 12,
+  "swiat_rynki": 13,
   "energetyka_surowce": 2,
   "nieruchomosci": 0,
   "fundusze_drobne": 2,
@@ -15,7 +15,7 @@
   "pozostale": 35
  },
  "duplicatesRemoved": 72,
- "total": 198,
+ "total": 202,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -229,6 +229,39 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "15:39",
+    "kind": "espi",
+    "ticker": null,
+    "title": "REMAK: Informacja o decyzji Prezesa Urzędu Ochrony Konkurencji i Konsumentów z dnia 23 listopada 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271119",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "15:31",
+    "kind": "espi",
+    "ticker": null,
+    "title": "POLTREG S.A.: Powiadomienie od Venture Fundusz Inwestycyjny Zamknięty o transakcji na akcjach Spółki otrzymane w trybie art. 19 MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271118",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
+    "time": "15:30",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PGE POLSKA GRUPA ENERGETYCZNA S.A.: Informacja o transakcjach w trybie art. 19 Rozporządzenia MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271117",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
    {
     "time": "14:48",
     "kind": "news",
@@ -702,6 +735,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "15:35",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Po otwarciu sesji DJI rośnie 2,8 proc., a S&P500 zyskuje 4,8 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442718",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:02",
     "kind": "news",

@@ -1,7 +1,55 @@
 {
  "date": "2026-11-23",
- "count": 198,
+ "count": 202,
  "items": [
+  {
+   "id": "bossa-espi-271119",
+   "date": "2026-11-23",
+   "time": "15:39",
+   "ts": "2026-11-23T15:39:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "REMAK",
+   "title": "Informacja o decyzji Prezesa Urzędu Ochrony Konkurencji i Konsumentów z dnia 23 listopada 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271119"
+  },
+  {
+   "id": "bossa-pap-442718",
+   "date": "2026-11-23",
+   "time": "15:35",
+   "ts": "2026-11-23T15:35:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Po otwarciu sesji DJI rośnie 2,8 proc., a S&P500 zyskuje 4,8 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442718"
+  },
+  {
+   "id": "bossa-espi-271118",
+   "date": "2026-11-23",
+   "time": "15:31",
+   "ts": "2026-11-23T15:31:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "POLTREG S.A.",
+   "title": "Powiadomienie od Venture Fundusz Inwestycyjny Zamknięty o transakcji na akcjach Spółki otrzymane w trybie art. 19 MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271118"
+  },
+  {
+   "id": "bossa-espi-271117",
+   "date": "2026-11-23",
+   "time": "15:30",
+   "ts": "2026-11-23T15:30:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PGE POLSKA GRUPA ENERGETYCZNA S.A.",
+   "title": "Informacja o transakcjach w trybie art. 19 Rozporządzenia MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271117"
+  },
   {
    "id": "bossa-pap-442715",
    "date": "2026-11-23",
