@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 4,
   "obserwowane": 0,
-  "pozostale": 13
+  "pozostale": 15
  },
- "duplicatesRemoved": 34,
- "total": 90,
+ "duplicatesRemoved": 35,
+ "total": 93,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -439,6 +439,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:52",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźniki referencyjne ON na wybranych rynkach rozwiniętych (tabela)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442630",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "09:45",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny ropy przyspieszyły spadki po małych zmianach wcześniej (aktl.)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/ceny-ropy-przyspieszyly-spadki-po-malych-zmianach-wczesniej-aktl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:27",
     "kind": "news",
