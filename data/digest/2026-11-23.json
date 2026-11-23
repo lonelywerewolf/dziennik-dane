@@ -4,8 +4,8 @@
   "podsumowania": 18,
   "wyniki": 8,
   "rekomendacje": 7,
-  "korporacyjne": 42,
-  "makro_pl": 37,
+  "korporacyjne": 43,
+  "makro_pl": 38,
   "swiat_rynki": 18,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
@@ -15,7 +15,7 @@
   "pozostale": 53
  },
  "duplicatesRemoved": 94,
- "total": 297,
+ "total": 299,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -336,6 +336,15 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "20:00",
+    "kind": "espi",
+    "ticker": null,
+    "title": "POLICE: Projekty uchwał na Nadzwyczajne Walne Zgromadzenie spółki Grupa Azoty Zakłady Chemiczne „Police” S.A. zwołane na dzień 21 grudnia 2026 roku.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271151",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "19:50",
     "kind": "pap",
@@ -773,6 +782,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "20:06",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Senatorowie KO planują zgłosić w Senacie kandydaturę I. Leszczyny do RPP",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442795",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:41",
     "kind": "news",
