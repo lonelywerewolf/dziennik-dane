@@ -1,24 +1,33 @@
 {
  "date": "2026-11-23",
  "counts": {
-  "podsumowania": 13,
+  "podsumowania": 14,
   "wyniki": 3,
   "rekomendacje": 6,
-  "korporacyjne": 24,
+  "korporacyjne": 26,
   "makro_pl": 34,
-  "swiat_rynki": 13,
+  "swiat_rynki": 15,
   "energetyka_surowce": 2,
   "nieruchomosci": 0,
-  "fundusze_drobne": 3,
-  "twoje_spolki": 5,
+  "fundusze_drobne": 4,
+  "twoje_spolki": 6,
   "obserwowane": 0,
-  "pozostale": 38
+  "pozostale": 39
  },
- "duplicatesRemoved": 74,
- "total": 215,
+ "duplicatesRemoved": 77,
+ "total": 226,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "16:06",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: Na giełdzie dynamiczne wzrosty, m.in. dzięki bankom i KGHM, ale spadki mogą powrócić",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/dzien-na-gpw-na-gieldzie-dynamiczne-wzrosty-min-dzieki-bankom-i-kghm-ale-spadki",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "13:34",
     "kind": "news",
@@ -229,6 +238,26 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "16:09",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ARCHICOM S.A.: Aneks do umowy kredytowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271124",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "16:04",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GREEN LANES S.A.: Rejestracja połączenia Green Lanes S.A. z The True Green S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271123",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:54",
     "kind": "espi",
@@ -792,6 +821,24 @@
   ],
   "swiat_rynki": [
    {
+    "time": "16:12",
+    "kind": "espi",
+    "ticker": null,
+    "title": "POLICE: Opinia Rady Nadzorczej w sprawie planowanego podwyższenia kapitału zakładowego Grupy Azoty Zakłady Chemiczne „Police” S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271125",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:06",
+    "kind": "news",
+    "ticker": null,
+    "title": "Euro w EBC: 1,0939 USD i 174,01 JPY",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/euro-w-ebc-10939-usd-i-17401-jpy",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "15:27",
     "kind": "news",
     "ticker": null,
@@ -932,6 +979,15 @@
   "nieruchomosci": [],
   "fundusze_drobne": [
    {
+    "time": "16:05",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OFE POCZTYLION wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442733",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "15:41",
     "kind": "pap",
     "ticker": null,
@@ -961,12 +1017,21 @@
   ],
   "twoje_spolki": [
    {
-    "time": "16:01",
-    "kind": "pap",
+    "time": "16:08",
+    "kind": "news",
+    "ticker": "NVDA",
+    "title": "Akcje NVIDIA wystrzeliły. Jensen Huang wraca na stanowisko CEO",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/akcje-nvidia-wystrzelily-jensen-huang-wraca-na-stanowisko-ceo",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "15:41",
+    "kind": "news",
     "ticker": "NVDA",
     "title": "DZIEŃ NA RYNKACH: Indeksy w USA mocno rosną po powrocie Huanga na szefa Nvidii",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442730",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/dzien-na-rynkach-indeksy-w-usa-mocno-rosna-po-powrocie-huanga-na-szefa-nvidii",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -1012,6 +1077,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "16:06",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MKiŚ: Sprzątamy Polskę 1,1 mld zł na usuwanie odpadów niebezpiecznych (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442734",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:54",
     "kind": "pap",
