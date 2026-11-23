@@ -1,7 +1,91 @@
 {
  "date": "2026-11-23",
- "count": 145,
+ "count": 152,
  "items": [
+  {
+   "id": "bossa-pap-442676",
+   "date": "2026-11-23",
+   "time": "12:53",
+   "ts": "2026-11-23T12:53:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "BGK z perspektywy UE 2021-27 do 20 listopada wypłacił ok. 100,29 mld zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442676"
+  },
+  {
+   "id": "bossa-espi-271094",
+   "date": "2026-11-23",
+   "time": "12:52",
+   "ts": "2026-11-23T12:52:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF MSCI WORLD PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271094"
+  },
+  {
+   "id": "bossa-espi-271093",
+   "date": "2026-11-23",
+   "time": "12:51",
+   "ts": "2026-11-23T12:51:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 3 x LEVERAGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 236 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271093"
+  },
+  {
+   "id": "bossa-espi-271092",
+   "date": "2026-11-23",
+   "time": "12:48",
+   "ts": "2026-11-23T12:48:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF GOLD PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271092"
+  },
+  {
+   "id": "bossa-espi-271091",
+   "date": "2026-11-23",
+   "time": "12:48",
+   "ts": "2026-11-23T12:48:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "EUROSNACK S.A.",
+   "title": "Zawiadomienie o transakcjach wykonanych przez osobę blisko związaną z osobą pełniącą obowiązki zarządcze",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271091"
+  },
+  {
+   "id": "bossa-pap-442671",
+   "date": "2026-11-23",
+   "time": "12:47",
+   "ts": "2026-11-23T12:47:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "UNIQA OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442671"
+  },
+  {
+   "id": "bossa-espi-271090",
+   "date": "2026-11-23",
+   "time": "12:45",
+   "ts": "2026-11-23T12:45:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF OBLIGACJI SKARBOWYCH ZMIENNOKUPONOWYCH PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271090"
+  },
   {
    "id": "bossa-espi-271089",
    "date": "2026-11-23",

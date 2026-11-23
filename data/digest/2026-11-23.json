@@ -4,18 +4,18 @@
   "podsumowania": 12,
   "wyniki": 3,
   "rekomendacje": 6,
-  "korporacyjne": 10,
+  "korporacyjne": 11,
   "makro_pl": 26,
   "swiat_rynki": 9,
   "energetyka_surowce": 2,
   "nieruchomosci": 0,
-  "fundusze_drobne": 0,
+  "fundusze_drobne": 1,
   "twoje_spolki": 4,
   "obserwowane": 0,
-  "pozostale": 25
+  "pozostale": 26
  },
- "duplicatesRemoved": 48,
- "total": 145,
+ "duplicatesRemoved": 52,
+ "total": 152,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -220,6 +220,18 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "12:48",
+    "kind": "espi",
+    "ticker": null,
+    "title": "EUROSNACK S.A.: Zawiadomienie o transakcjach wykonanych przez osobę blisko związaną z osobą pełniącą obowiązki zarządcze",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271091",
+    "src": "bossa",
+    "flags": [
+     "zarząd",
+     "insider"
+    ]
+   },
    {
     "time": "12:35",
     "kind": "pap",
@@ -670,7 +682,17 @@
    }
   ],
   "nieruchomosci": [],
-  "fundusze_drobne": [],
+  "fundusze_drobne": [
+   {
+    "time": "12:47",
+    "kind": "pap",
+    "ticker": null,
+    "title": "UNIQA OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442671",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "twoje_spolki": [
    {
     "time": "08:34",
@@ -715,6 +737,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:53",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BGK z perspektywy UE 2021-27 do 20 listopada wypłacił ok. 100,29 mld zł",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442676",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:28",
     "kind": "news",
