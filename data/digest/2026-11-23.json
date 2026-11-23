@@ -4,7 +4,7 @@
   "podsumowania": 13,
   "wyniki": 3,
   "rekomendacje": 6,
-  "korporacyjne": 14,
+  "korporacyjne": 15,
   "makro_pl": 28,
   "swiat_rynki": 10,
   "energetyka_surowce": 2,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 2,
   "twoje_spolki": 4,
   "obserwowane": 0,
-  "pozostale": 31
+  "pozostale": 32
  },
  "duplicatesRemoved": 65,
- "total": 178,
+ "total": 180,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -229,6 +229,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "14:01",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KOMPAP: Nabycie akcji przez Członka Rady Nadzorczej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271109",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
    {
     "time": "13:24",
     "kind": "espi",
@@ -811,6 +822,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "14:08",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MC: HackNation 2026: 600 projektów i 15 zwycięskich zespołów. Innowacje dla administracji publicznej (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442701",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:23",
     "kind": "espi",

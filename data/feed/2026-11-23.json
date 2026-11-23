@@ -1,7 +1,31 @@
 {
  "date": "2026-11-23",
- "count": 178,
+ "count": 180,
  "items": [
+  {
+   "id": "bossa-pap-442701",
+   "date": "2026-11-23",
+   "time": "14:08",
+   "ts": "2026-11-23T14:08:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MC: HackNation 2026: 600 projektów i 15 zwycięskich zespołów. Innowacje dla administracji publicznej (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442701"
+  },
+  {
+   "id": "bossa-espi-271109",
+   "date": "2026-11-23",
+   "time": "14:01",
+   "ts": "2026-11-23T14:01:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KOMPAP",
+   "title": "Nabycie akcji przez Członka Rady Nadzorczej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271109"
+  },
   {
    "id": "bossa-pap-442699",
    "date": "2026-11-23",
