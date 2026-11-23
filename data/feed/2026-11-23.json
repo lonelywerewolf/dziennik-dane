@@ -1,7 +1,19 @@
 {
  "date": "2026-11-23",
- "count": 301,
+ "count": 302,
  "items": [
+  {
+   "id": "bossa-espi-271153",
+   "date": "2026-11-23",
+   "time": "20:49",
+   "ts": "2026-11-23T20:49:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "REDAN",
+   "title": "Obwieszczenie o przeprowadzeniu głosowania nad układem w przyspieszonym postępowaniu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271153"
+  },
   {
    "id": "bossa-pap-442797",
    "date": "2026-11-23",

@@ -4,7 +4,7 @@
   "podsumowania": 18,
   "wyniki": 8,
   "rekomendacje": 7,
-  "korporacyjne": 43,
+  "korporacyjne": 44,
   "makro_pl": 39,
   "swiat_rynki": 18,
   "energetyka_surowce": 3,
@@ -15,7 +15,7 @@
   "pozostale": 54
  },
  "duplicatesRemoved": 94,
- "total": 301,
+ "total": 302,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -336,6 +336,15 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "20:49",
+    "kind": "espi",
+    "ticker": null,
+    "title": "REDAN: Obwieszczenie o przeprowadzeniu głosowania nad układem w przyspieszonym postępowaniu",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271153",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "20:00",
     "kind": "espi",
