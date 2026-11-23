@@ -4,7 +4,7 @@
   "podsumowania": 12,
   "wyniki": 3,
   "rekomendacje": 6,
-  "korporacyjne": 7,
+  "korporacyjne": 9,
   "makro_pl": 24,
   "swiat_rynki": 7,
   "energetyka_surowce": 1,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 4,
   "obserwowane": 0,
-  "pozostale": 22
+  "pozostale": 24
  },
- "duplicatesRemoved": 42,
- "total": 128,
+ "duplicatesRemoved": 43,
+ "total": 133,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -220,6 +220,29 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "12:17",
+    "kind": "espi",
+    "ticker": null,
+    "title": "EQUNICO SE: Zawiadomienie o zawarciu transakcji przez osobę blisko związaną z osobą pełniącą obowiązki zarządcze w Spółce",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271084",
+    "src": "bossa",
+    "flags": [
+     "zarząd",
+     "insider"
+    ]
+   },
+   {
+    "time": "12:09",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Ewentualne IPO WB Electronics mocno promowałoby polski sektor obronny na świecie - prezes PFR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442656",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "11:44",
     "kind": "espi",
@@ -636,6 +659,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:09",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MC: Polska w światowej czołówce e-administracji (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442657",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:53",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kino Polska, ocenia, że presja na telewizję linearną ma charakter długoterminowy",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/kino-polska-ocenia-ze-presja-na-telewizje-linearna-ma-charakter-dlugoterminowy",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "11:27",
     "kind": "news",

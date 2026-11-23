@@ -1,7 +1,66 @@
 {
  "date": "2026-11-23",
- "count": 128,
+ "count": 133,
  "items": [
+  {
+   "id": "bossa-espi-271084",
+   "date": "2026-11-23",
+   "time": "12:17",
+   "ts": "2026-11-23T12:17:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "EQUNICO SE",
+   "title": "Zawiadomienie o zawarciu transakcji przez osobę blisko związaną z osobą pełniącą obowiązki zarządcze w Spółce",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271084"
+  },
+  {
+   "id": "bossa-pap-442658",
+   "date": "2026-11-23",
+   "time": "12:15",
+   "ts": "2026-11-23T12:15:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Kino Polska, ocenia, że presja na telewizję linearną ma charakter długoterminowy",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442658"
+  },
+  {
+   "id": "bossa-pap-442657",
+   "date": "2026-11-23",
+   "time": "12:09",
+   "ts": "2026-11-23T12:09:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MC: Polska w światowej czołówce e-administracji (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442657"
+  },
+  {
+   "id": "bossa-pap-442656",
+   "date": "2026-11-23",
+   "time": "12:09",
+   "ts": "2026-11-23T12:09:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ewentualne IPO WB Electronics mocno promowałoby polski sektor obronny na świecie - prezes PFR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442656"
+  },
+  {
+   "id": "strefa-c29ea216f139",
+   "date": "2026-11-23",
+   "time": "11:53",
+   "ts": "2026-11-23T11:53:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Kino Polska, ocenia, że presja na telewizję linearną ma charakter długoterminowy",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/kino-polska-ocenia-ze-presja-na-telewizje-linearna-ma-charakter-dlugoterminowy"
+  },
   {
    "id": "strefa-05e760ca2700",
    "date": "2026-11-23",
