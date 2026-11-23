@@ -1,7 +1,19 @@
 {
  "date": "2026-11-23",
- "count": 315,
+ "count": 316,
  "items": [
+  {
+   "id": "bossa-espi-271159",
+   "date": "2026-11-23",
+   "time": "23:59",
+   "ts": "2026-11-23T23:59:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "COMPREMUM S.A.",
+   "title": "Nabycie nieruchomości.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271159"
+  },
   {
    "id": "bossa-espi-5342",
    "date": "2026-11-23",
