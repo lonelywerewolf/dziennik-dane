@@ -4,18 +4,18 @@
   "podsumowania": 12,
   "wyniki": 3,
   "rekomendacje": 6,
-  "korporacyjne": 9,
-  "makro_pl": 25,
-  "swiat_rynki": 8,
+  "korporacyjne": 10,
+  "makro_pl": 26,
+  "swiat_rynki": 9,
   "energetyka_surowce": 2,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 4,
   "obserwowane": 0,
-  "pozostale": 24
+  "pozostale": 25
  },
- "duplicatesRemoved": 45,
- "total": 138,
+ "duplicatesRemoved": 48,
+ "total": 145,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -221,6 +221,17 @@
   ],
   "korporacyjne": [
    {
+    "time": "12:35",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Do 22 XI podpisano umowy na 73,4 proc. funduszy UE na lata 2021-2027 - MFiPR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442666",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
     "time": "12:17",
     "kind": "espi",
     "ticker": null,
@@ -318,6 +329,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "12:43",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PZU ETF OBLIGACJI SKARBOWYCH DŁUGOTERMINOWYCH PORTFELOWY FIZ: WANCI-E_30.04.18",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271089",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:27",
     "kind": "pap",
@@ -548,6 +568,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "12:37",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Osiem państw UE, w tym Niemcy, zaapelowało o wdrożenie ETS2 bez dalszych opóźnień",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442667",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "12:20",
     "kind": "espi",
     "ticker": null,
@@ -686,6 +715,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:28",
+    "kind": "news",
+    "ticker": null,
+    "title": "Celon Pharma liczy na poprawę eksportu w IV kw. i widzi pozytywną kontrybucję z leków generycznych",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/celon-pharma-liczy-na-poprawe-eksportu-w-iv-kw-i-widzi-pozytywna-kontrybucje-z",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "12:09",
     "kind": "pap",

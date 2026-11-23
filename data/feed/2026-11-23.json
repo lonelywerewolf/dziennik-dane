@@ -1,7 +1,90 @@
 {
  "date": "2026-11-23",
- "count": 138,
+ "count": 145,
  "items": [
+  {
+   "id": "bossa-espi-271089",
+   "date": "2026-11-23",
+   "time": "12:43",
+   "ts": "2026-11-23T12:43:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF OBLIGACJI SKARBOWYCH DŁUGOTERMINOWYCH PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271089"
+  },
+  {
+   "id": "bossa-espi-271088",
+   "date": "2026-11-23",
+   "time": "12:41",
+   "ts": "2026-11-23T12:41:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 2 x SHORT PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 235 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271088"
+  },
+  {
+   "id": "bossa-pap-442667",
+   "date": "2026-11-23",
+   "time": "12:37",
+   "ts": "2026-11-23T12:37:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Osiem państw UE, w tym Niemcy, zaapelowało o wdrożenie ETS2 bez dalszych opóźnień",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442667"
+  },
+  {
+   "id": "bossa-pap-442666",
+   "date": "2026-11-23",
+   "time": "12:35",
+   "ts": "2026-11-23T12:35:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Do 22 XI podpisano umowy na 73,4 proc. funduszy UE na lata 2021-2027 - MFiPR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442666"
+  },
+  {
+   "id": "bossa-pap-442665",
+   "date": "2026-11-23",
+   "time": "12:34",
+   "ts": "2026-11-23T12:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Celon Pharma liczy na poprawę eksportu w IV kw. i widzi pozytywną kontrybucję z leków generycznych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442665"
+  },
+  {
+   "id": "bossa-espi-271087",
+   "date": "2026-11-23",
+   "time": "12:32",
+   "ts": "2026-11-23T12:32:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF MWIG40TRlv PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 215 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271087"
+  },
+  {
+   "id": "strefa-e3e1eebe3481",
+   "date": "2026-11-23",
+   "time": "12:28",
+   "ts": "2026-11-23T12:28:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Celon Pharma liczy na poprawę eksportu w IV kw. i widzi pozytywną kontrybucję z leków generycznych",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/celon-pharma-liczy-na-poprawe-eksportu-w-iv-kw-i-widzi-pozytywna-kontrybucje-z"
+  },
   {
    "id": "bossa-pap-442663",
    "date": "2026-11-23",
