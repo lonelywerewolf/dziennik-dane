@@ -2,9 +2,9 @@
  "date": "2026-11-23",
  "counts": {
   "podsumowania": 12,
-  "wyniki": 2,
+  "wyniki": 3,
   "rekomendacje": 6,
-  "korporacyjne": 6,
+  "korporacyjne": 7,
   "makro_pl": 23,
   "swiat_rynki": 7,
   "energetyka_surowce": 1,
@@ -15,7 +15,7 @@
   "pozostale": 21
  },
  "duplicatesRemoved": 41,
- "total": 123,
+ "total": 125,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -130,6 +130,17 @@
   ],
   "wyniki": [
    {
+    "time": "11:42",
+    "kind": "espi",
+    "ticker": null,
+    "title": "CREOTECH INSTRUMENTS S.A.: Informacja o zatwierdzeniu przez Skarb Państwa – Agencję Uzbrojenia dokumentacji wynikowej D3 oraz zakończeniu fazy D w projekcie Mikroglob",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271082",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
     "time": "11:16",
     "kind": "news",
     "ticker": null,
@@ -209,6 +220,15 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "11:44",
+    "kind": "espi",
+    "ticker": null,
+    "title": "T-BULL S.A.: Zwołanie Zwyczajnego Walnego Zgromadzenia",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271083",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:13",
     "kind": "news",

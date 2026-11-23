@@ -1,7 +1,31 @@
 {
  "date": "2026-11-23",
- "count": 123,
+ "count": 125,
  "items": [
+  {
+   "id": "bossa-espi-271083",
+   "date": "2026-11-23",
+   "time": "11:44",
+   "ts": "2026-11-23T11:44:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "T-BULL S.A.",
+   "title": "Zwołanie Zwyczajnego Walnego Zgromadzenia",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271083"
+  },
+  {
+   "id": "bossa-espi-271082",
+   "date": "2026-11-23",
+   "time": "11:42",
+   "ts": "2026-11-23T11:42:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "CREOTECH INSTRUMENTS S.A.",
+   "title": "Informacja o zatwierdzeniu przez Skarb Państwa – Agencję Uzbrojenia dokumentacji wynikowej D3 oraz zakończeniu fazy D w projekcie Mikroglob",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271082"
+  },
   {
    "id": "bossa-pap-442652",
    "date": "2026-11-23",
