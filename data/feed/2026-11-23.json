@@ -1,7 +1,89 @@
 {
  "date": "2026-11-23",
- "count": 239,
+ "count": 247,
  "items": [
+  {
+   "id": "bossa-espi-271131",
+   "date": "2026-11-23",
+   "time": "17:06",
+   "ts": "2026-11-23T17:06:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PJP MAKRUM S.A.",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271131"
+  },
+  {
+   "id": "bossa-pap-442752",
+   "date": "2026-11-23",
+   "time": "17:05",
+   "ts": "2026-11-23T17:05:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "POLSKA GRUPA FARMACEUTYCZNA/Polska Grupa Farmaceutyczna Spółka Akcyjna (12/2026) Inne informacje",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442752"
+  },
+  {
+   "id": "strefa-929b54d7391f",
+   "date": "2026-11-23",
+   "time": "17:02",
+   "ts": "2026-11-23T17:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "skrot",
+   "title": "Skrót wiadomości - poniedziałek, 23 listopada, 17.00",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/skrot-wiadomosci-poniedzialek-23-listopada-1700"
+  },
+  {
+   "id": "strefa-8bd8be13c32f",
+   "date": "2026-11-23",
+   "time": "17:02",
+   "ts": "2026-11-23T17:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Super El Nino może podbić ceny żywności i zakłócić dostawy miedzi i litu do 2027 r. (opinia)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/super-el-nino-moze-podbic-ceny-zywnosci-i-zaklocic-dostawy-miedzi-i-litu-do"
+  },
+  {
+   "id": "bossa-espi-271130",
+   "date": "2026-11-23",
+   "time": "17:01",
+   "ts": "2026-11-23T17:01:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Zabka",
+   "title": "Powiadomienia o transakcjach otrzymane zgodnie z art. 19 MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271130"
+  },
+  {
+   "id": "bossa-pap-442750",
+   "date": "2026-11-23",
+   "time": "17:00",
+   "ts": "2026-11-23T17:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Skrót wiadomości - poniedziałek, 23 listopada, 17.00",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442750"
+  },
+  {
+   "id": "bossa-espi-271129",
+   "date": "2026-11-23",
+   "time": "16:57",
+   "ts": "2026-11-23T16:57:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Arlen S.A.",
+   "title": "Zawarcie aneksu do umowy na dostawę poncz przeciwdeszczowych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271129"
+  },
   {
    "id": "bossa-pap-442748",
    "date": "2026-11-23",
@@ -37,6 +119,17 @@
    "title": "Tygodniowa zmiana wartości jednostek OFE",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-442746"
+  },
+  {
+   "id": "strefa-68066a6b917d",
+   "date": "2026-11-23",
+   "time": "16:51",
+   "ts": "2026-11-23T16:51:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Tygodniowa zmiana wartości jednostek OFE",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/tygodniowa-zmiana-wartosci-jednostek-ofe"
   },
   {
    "id": "strefa-dc85013e9cc1",

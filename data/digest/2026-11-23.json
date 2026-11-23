@@ -1,10 +1,10 @@
 {
  "date": "2026-11-23",
  "counts": {
-  "podsumowania": 14,
+  "podsumowania": 15,
   "wyniki": 3,
   "rekomendacje": 6,
-  "korporacyjne": 27,
+  "korporacyjne": 29,
   "makro_pl": 36,
   "swiat_rynki": 17,
   "energetyka_surowce": 2,
@@ -12,13 +12,22 @@
   "fundusze_drobne": 9,
   "twoje_spolki": 6,
   "obserwowane": 0,
-  "pozostale": 41
+  "pozostale": 43
  },
- "duplicatesRemoved": 78,
- "total": 239,
+ "duplicatesRemoved": 81,
+ "total": 247,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "17:02",
+    "kind": "skrot",
+    "ticker": null,
+    "title": "Skrót wiadomości - poniedziałek, 23 listopada, 17.00",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/skrot-wiadomosci-poniedzialek-23-listopada-1700",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "16:06",
     "kind": "news",
@@ -238,6 +247,28 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "17:01",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Zabka: Powiadomienia o transakcjach otrzymane zgodnie z art. 19 MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271130",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
+    "time": "16:57",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Arlen S.A.: Zawarcie aneksu do umowy na dostawę poncz przeciwdeszczowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271129",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "16:46",
     "kind": "espi",
@@ -1026,12 +1057,12 @@
   "nieruchomosci": [],
   "fundusze_drobne": [
    {
-    "time": "16:52",
-    "kind": "pap",
+    "time": "16:51",
+    "kind": "news",
     "ticker": null,
     "title": "Tygodniowa zmiana wartości jednostek OFE",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442746",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/tygodniowa-zmiana-wartosci-jednostek-ofe",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -1170,6 +1201,33 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "17:06",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PJP MAKRUM S.A.: Q",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271131",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:05",
+    "kind": "pap",
+    "ticker": null,
+    "title": "POLSKA GRUPA FARMACEUTYCZNA/Polska Grupa Farmaceutyczna Spółka Akcyjna (12/2026) Inne informacje",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442752",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "Super El Nino może podbić ceny żywności i zakłócić dostawy miedzi i litu do 2027 r. (opinia)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/super-el-nino-moze-podbic-ceny-zywnosci-i-zaklocic-dostawy-miedzi-i-litu-do",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "16:55",
     "kind": "pap",
     "ticker": null,
@@ -1193,15 +1251,6 @@
     "ticker": null,
     "title": "MKiŚ: Sprzątamy Polskę 1,1 mld zł na usuwanie odpadów niebezpiecznych (komunikat)",
     "url": "https://bossa.pl/analizy/komunikaty#message-442734",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "15:54",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Super El Nino może podbić ceny żywności i zakłócić dostawy miedzi i litu do 2027 r. (opinia)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442728",
     "src": "bossa",
     "flags": []
    },
