@@ -2,20 +2,20 @@
  "date": "2026-11-23",
  "counts": {
   "podsumowania": 6,
-  "wyniki": 0,
+  "wyniki": 1,
   "rekomendacje": 0,
   "korporacyjne": 0,
   "makro_pl": 1,
-  "swiat_rynki": 1,
+  "swiat_rynki": 2,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 5
+  "pozostale": 6
  },
  "duplicatesRemoved": 7,
- "total": 22,
+ "total": 25,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -74,7 +74,19 @@
     "flags": []
    }
   ],
-  "wyniki": [],
+  "wyniki": [
+   {
+    "time": "07:25",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MEDICALGORITHMICS S.A.: Zawarcie umowy z partnerem z USA o minimalnych gwarantowanych przychodach rocznych w wysokości 487,4 tys. PLN",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271073",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   }
+  ],
   "rekomendacje": [],
   "korporacyjne": [],
   "makro_pl": [
@@ -89,6 +101,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Notowania surowców: miedź po przecenie, ceny paliw spadły o ponad 20 proc. w miesiąc",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/notowania-surowcow-miedz-po-przecenie-ceny-paliw-spadly-o-ponad-20-proc-w",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "06:46",
     "kind": "news",
@@ -127,6 +148,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "07:28",
+    "kind": "espi",
+    "ticker": null,
+    "title": "POLIMEX-MOSTOSTAL: QSr",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271074",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "07:06",
     "kind": "pap",
