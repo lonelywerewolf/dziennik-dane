@@ -4,7 +4,7 @@
   "podsumowania": 18,
   "wyniki": 8,
   "rekomendacje": 7,
-  "korporacyjne": 41,
+  "korporacyjne": 42,
   "makro_pl": 37,
   "swiat_rynki": 18,
   "energetyka_surowce": 3,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 53
  },
- "duplicatesRemoved": 93,
- "total": 295,
+ "duplicatesRemoved": 94,
+ "total": 297,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -336,6 +336,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "19:50",
+    "kind": "pap",
+    "ticker": null,
+    "title": "FARMY FOTOWOLTAIKI POLSKA SA (14/2026) Powołanie osoby zarządzającej lub nadzorującej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442793",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "19:46",
     "kind": "pap",
