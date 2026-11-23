@@ -4,7 +4,7 @@
   "podsumowania": 12,
   "wyniki": 3,
   "rekomendacje": 6,
-  "korporacyjne": 11,
+  "korporacyjne": 12,
   "makro_pl": 26,
   "swiat_rynki": 9,
   "energetyka_surowce": 2,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 1,
   "twoje_spolki": 4,
   "obserwowane": 0,
-  "pozostale": 26
+  "pozostale": 29
  },
- "duplicatesRemoved": 52,
- "total": 152,
+ "duplicatesRemoved": 55,
+ "total": 159,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -220,6 +220,15 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "13:05",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ALLEGRO.EU S.A.: Allegro informuje o transakcjach związanych z programem skupu akcji własnych, przeprowadzonych w dniu 20 listopada 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271098",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:48",
     "kind": "espi",
@@ -737,6 +746,33 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "13:03",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Cena maksymalna dla benzyny Pb95 we wtorek wyniesie 5,90 zł/l, dla ON 7,32 zł/l",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442681",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:01",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeksy transakcyjne - POLSTR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442680",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeksy transakcyjne - WIRON",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442679",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:53",
     "kind": "pap",

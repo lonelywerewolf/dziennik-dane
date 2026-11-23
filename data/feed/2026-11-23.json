@@ -1,7 +1,91 @@
 {
  "date": "2026-11-23",
- "count": 152,
+ "count": 159,
  "items": [
+  {
+   "id": "bossa-espi-271098",
+   "date": "2026-11-23",
+   "time": "13:05",
+   "ts": "2026-11-23T13:05:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ALLEGRO.EU S.A.",
+   "title": "Allegro informuje o transakcjach związanych z programem skupu akcji własnych, przeprowadzonych w dniu 20 listopada 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271098"
+  },
+  {
+   "id": "bossa-pap-442681",
+   "date": "2026-11-23",
+   "time": "13:03",
+   "ts": "2026-11-23T13:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Cena maksymalna dla benzyny Pb95 we wtorek wyniesie 5,90 zł/l, dla ON 7,32 zł/l",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442681"
+  },
+  {
+   "id": "bossa-espi-271097",
+   "date": "2026-11-23",
+   "time": "13:03",
+   "ts": "2026-11-23T13:03:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF TBSP PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 236 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271097"
+  },
+  {
+   "id": "bossa-pap-442680",
+   "date": "2026-11-23",
+   "time": "13:01",
+   "ts": "2026-11-23T13:01:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeksy transakcyjne - POLSTR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442680"
+  },
+  {
+   "id": "bossa-pap-442679",
+   "date": "2026-11-23",
+   "time": "13:00",
+   "ts": "2026-11-23T13:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeksy transakcyjne - WIRON",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442679"
+  },
+  {
+   "id": "bossa-espi-271096",
+   "date": "2026-11-23",
+   "time": "12:57",
+   "ts": "2026-11-23T12:57:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF OBLIGACJI 6M PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 245 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271096"
+  },
+  {
+   "id": "bossa-espi-271095",
+   "date": "2026-11-23",
+   "time": "12:55",
+   "ts": "2026-11-23T12:55:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF WIG20 TR + mWIG40 TR PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271095"
+  },
   {
    "id": "bossa-pap-442676",
    "date": "2026-11-23",
