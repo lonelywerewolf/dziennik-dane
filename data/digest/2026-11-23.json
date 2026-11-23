@@ -2,7 +2,7 @@
  "date": "2026-11-23",
  "counts": {
   "podsumowania": 12,
-  "wyniki": 1,
+  "wyniki": 2,
   "rekomendacje": 6,
   "korporacyjne": 6,
   "makro_pl": 23,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 21
  },
- "duplicatesRemoved": 40,
- "total": 121,
+ "duplicatesRemoved": 41,
+ "total": 123,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -129,6 +129,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "11:16",
+    "kind": "news",
+    "ticker": null,
+    "title": "Polimex Mostostal zakłada stabilne wyniki w IV kw.; liczy na wzrost backlogu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/polimex-mostostal-zaklada-stabilne-wyniki-w-iv-kw-liczy-na-wzrost-backlogu",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "07:25",
     "kind": "espi",

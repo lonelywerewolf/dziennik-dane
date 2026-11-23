@@ -1,7 +1,30 @@
 {
  "date": "2026-11-23",
- "count": 121,
+ "count": 123,
  "items": [
+  {
+   "id": "bossa-pap-442652",
+   "date": "2026-11-23",
+   "time": "11:26",
+   "ts": "2026-11-23T11:26:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Polimex Mostostal zakłada stabilne wyniki w IV kw.; liczy na wzrost backlogu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442652"
+  },
+  {
+   "id": "strefa-505695edf880",
+   "date": "2026-11-23",
+   "time": "11:16",
+   "ts": "2026-11-23T11:16:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Polimex Mostostal zakłada stabilne wyniki w IV kw.; liczy na wzrost backlogu",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/polimex-mostostal-zaklada-stabilne-wyniki-w-iv-kw-liczy-na-wzrost-backlogu"
+  },
   {
    "id": "bossa-pap-442651",
    "date": "2026-11-23",
