@@ -12,13 +12,31 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 4
+  "pozostale": 5
  },
- "duplicatesRemoved": 4,
- "total": 18,
+ "duplicatesRemoved": 7,
+ "total": 22,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kalendarium rynku NewConnect 2026-11-23",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/kalendarium-rynku-newconnect-2026-11-23",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kalendarium rynku kapitałowego GPW 2026-11-23",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/kalendarium-rynku-kapitalowego-gpw-2026-11-23",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "06:34",
     "kind": "news",
@@ -43,24 +61,6 @@
     "ticker": null,
     "title": "Przegląd prasy gospodarczej w poniedziałek, 23 listopada",
     "url": "https://bossa.pl/analizy/komunikaty#message-442581",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "06:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Kalendarium rynku kapitałowego GPW 2026-11-23",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442580",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "06:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Kalendarium rynku NewConnect 2026-11-23",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442579",
     "src": "bossa",
     "flags": []
    },
@@ -128,6 +128,24 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "07:06",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Fitch może utrzymać negatywną perspektywę ratingu Polski nieco dłużej niż do wyborów w ’27 (wywiad)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442590",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "06:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-23",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-23",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "06:35",
     "kind": "pap",
     "ticker": null,
@@ -152,15 +170,6 @@
     "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
     "url": "https://strefainwestorow.pl/wiadomosci/20261123/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela",
     "src": "strefainwestorow",
-    "flags": []
-   },
-   {
-    "time": "06:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-23",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442577",
-    "src": "bossa",
     "flags": []
    }
   ]

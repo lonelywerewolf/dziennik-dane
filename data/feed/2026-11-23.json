@@ -1,7 +1,52 @@
 {
  "date": "2026-11-23",
- "count": 18,
+ "count": 22,
  "items": [
+  {
+   "id": "bossa-pap-442590",
+   "date": "2026-11-23",
+   "time": "07:06",
+   "ts": "2026-11-23T07:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Fitch może utrzymać negatywną perspektywę ratingu Polski nieco dłużej niż do wyborów w ’27 (wywiad)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442590"
+  },
+  {
+   "id": "strefa-b46edc2be7a4",
+   "date": "2026-11-23",
+   "time": "07:01",
+   "ts": "2026-11-23T07:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Kalendarium rynku NewConnect 2026-11-23",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/kalendarium-rynku-newconnect-2026-11-23"
+  },
+  {
+   "id": "strefa-99e60242f302",
+   "date": "2026-11-23",
+   "time": "07:01",
+   "ts": "2026-11-23T07:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Kalendarium rynku kapitałowego GPW 2026-11-23",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/kalendarium-rynku-kapitalowego-gpw-2026-11-23"
+  },
+  {
+   "id": "strefa-9598c8848fdf",
+   "date": "2026-11-23",
+   "time": "06:55",
+   "ts": "2026-11-23T06:55:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-23",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-23"
+  },
   {
    "id": "bossa-pap-442589",
    "date": "2026-11-23",
