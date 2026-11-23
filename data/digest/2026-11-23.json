@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 55
  },
- "duplicatesRemoved": 97,
- "total": 307,
+ "duplicatesRemoved": 98,
+ "total": 308,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1433,12 +1433,12 @@
   ],
   "twoje_spolki": [
    {
-    "time": "22:09",
-    "kind": "pap",
+    "time": "21:02",
+    "kind": "news",
     "ticker": "NVDA",
     "title": "DZIEŃ NA RYNKACH: W USA mocne wzrosty, Nasdaq zyskał 6,5 proc po powrocie Huanga do Nvidii",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442802",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/dzien-na-rynkach-w-usa-mocne-wzrosty-nasdaq-zyskal-65-proc-po-powrocie-huanga",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
