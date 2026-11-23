@@ -3,8 +3,8 @@
  "counts": {
   "podsumowania": 8,
   "wyniki": 1,
-  "rekomendacje": 4,
-  "korporacyjne": 3,
+  "rekomendacje": 5,
+  "korporacyjne": 4,
   "makro_pl": 2,
   "swiat_rynki": 3,
   "energetyka_surowce": 1,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 10
  },
- "duplicatesRemoved": 22,
- "total": 58,
+ "duplicatesRemoved": 23,
+ "total": 61,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -107,6 +107,15 @@
   ],
   "rekomendacje": [
    {
+    "time": "09:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "BM mBank obniżył cenę docelową akcji Newagu do 84 zł, rekomenduje \"sprzedaj\"",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/bm-mbank-obnizyl-cene-docelowa-akcji-newagu-do-84-zl-rekomenduje-sprzedaj",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "08:57",
     "kind": "news",
     "ticker": null,
@@ -144,6 +153,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "09:04",
+    "kind": "pap",
+    "ticker": null,
+    "title": "POLSKI HOLDING ROZWOJU SA (19/2026) Odwołanie lub rezygnacja osoby zarządzającej lub nadzorującej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442610",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "08:34",
     "kind": "news",

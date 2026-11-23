@@ -46,6 +46,36 @@
    "ticker": null
   },
   {
+   "date": "2026-11-23",
+   "company": "DIAG (DIA)",
+   "code": "DIA",
+   "name": "DIAG",
+   "isin": "PLDGNST00012",
+   "rating": "Trzymaj",
+   "price": "151",
+   "target": "167.7",
+   "upside": "11.059602649007",
+   "priceAtPub": "151",
+   "house": "DM BOŚ",
+   "report": "https://strefainwestorow.pl/sites/default/files/attachments/55581353_14090181_55581353_Diagnostyka_4_CR_91_2026_DM_BOS_PL_disclaimer.pdf",
+   "ticker": null
+  },
+  {
+   "date": "2026-11-23",
+   "company": "NEWAG (NWG)",
+   "code": "NWG",
+   "name": "NEWAG",
+   "isin": "PLNEWAG00012",
+   "rating": "Sprzedaj",
+   "price": "88",
+   "target": "84",
+   "upside": "-4.5454545454545",
+   "priceAtPub": "88",
+   "house": "BM mBank",
+   "report": "https://strefainwestorow.pl/sites/default/files/attachments/55581370_14090196_55581370_20261123_0914_NWG_PL_RA.pdf",
+   "ticker": null
+  },
+  {
    "date": "2026-11-20",
    "company": "PGE (PGE)",
    "code": "PGE",
@@ -4471,5 +4501,5 @@
    "ticker": "XTB"
   }
  ],
- "updatedAt": "2026-11-23T09:01:58+01:00"
+ "updatedAt": "2026-11-23T09:12:58+01:00"
 }

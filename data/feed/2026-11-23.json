@@ -1,7 +1,42 @@
 {
  "date": "2026-11-23",
- "count": 58,
+ "count": 61,
  "items": [
+  {
+   "id": "bossa-pap-442611",
+   "date": "2026-11-23",
+   "time": "09:07",
+   "ts": "2026-11-23T09:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "BM mBank obniżył cenę docelową akcji Newagu do 84 zł, rekomenduje \"sprzedaj\"",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442611"
+  },
+  {
+   "id": "bossa-pap-442610",
+   "date": "2026-11-23",
+   "time": "09:04",
+   "ts": "2026-11-23T09:04:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "POLSKI HOLDING ROZWOJU SA (19/2026) Odwołanie lub rezygnacja osoby zarządzającej lub nadzorującej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442610"
+  },
+  {
+   "id": "strefa-433738b7f12b",
+   "date": "2026-11-23",
+   "time": "09:01",
+   "ts": "2026-11-23T09:01:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "BM mBank obniżył cenę docelową akcji Newagu do 84 zł, rekomenduje \"sprzedaj\"",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/bm-mbank-obnizyl-cene-docelowa-akcji-newagu-do-84-zl-rekomenduje-sprzedaj"
+  },
   {
    "id": "bossa-pap-442609",
    "date": "2026-11-23",
