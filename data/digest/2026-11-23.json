@@ -1,24 +1,33 @@
 {
  "date": "2026-11-23",
  "counts": {
-  "podsumowania": 11,
+  "podsumowania": 12,
   "wyniki": 1,
   "rekomendacje": 6,
   "korporacyjne": 5,
-  "makro_pl": 22,
-  "swiat_rynki": 5,
+  "makro_pl": 23,
+  "swiat_rynki": 7,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 4,
   "obserwowane": 0,
-  "pozostale": 19
+  "pozostale": 21
  },
- "duplicatesRemoved": 38,
- "total": 112,
+ "duplicatesRemoved": 39,
+ "total": 119,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "11:10",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: Na giełdę powróciły wzrosty; rynek ciągną w górę m. in. banki, KGHM i Orlen",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/dzien-na-gpw-na-gielde-powrocily-wzrosty-rynek-ciagna-w-gore-m-banki-kghm-i",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:25",
     "kind": "news",
@@ -247,6 +256,17 @@
   ],
   "makro_pl": [
    {
+    "time": "11:04",
+    "kind": "news",
+    "ticker": null,
+    "title": "Stopy procentowe NBP po danych z rynku pracy. Prognozy nie powinny być zmartwieniem przed decyzją RPP",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/stopy-procentowe-nbp-po-danych-z-rynku-pracy-prognozy-nie-powinny-byc",
+    "src": "strefainwestorow",
+    "flags": [
+     "prognoza"
+    ]
+   },
+   {
     "time": "10:50",
     "kind": "espi",
     "ticker": null,
@@ -447,12 +467,30 @@
   ],
   "swiat_rynki": [
    {
+    "time": "11:05",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ATREM S.A.: Wybór oferty Emitenta przez Polskie Sieci Elektroenergetyczne S.A. na realizację zadania pn.: \"Rozbudowa i modernizacja stacji 400/110 kV Mościska\".",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271081",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "10:56",
     "kind": "pap",
     "ticker": null,
     "title": "MZ: Mężczyźni stawiają na profilaktykę. Rekordowe zainteresowanie programem „Moje Zdrowie” (komunikat)",
     "url": "https://bossa.pl/analizy/komunikaty#message-442645",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:29",
+    "kind": "news",
+    "ticker": null,
+    "title": "Spółki zbrojeniowe mogą pociągnąć całą polską gospodarkę. Minister Domański wskazuje trzy kluczowe obszary",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/spolki-zbrojeniowe-moga-pociagnac-cala-polska-gospodarke-minister-domanski",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -549,6 +587,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:06",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OKI może skłonić do rozpoczęcia inwestowania 47 proc. posiadających oszczędności - badanie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442649",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:05",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźniki referencyjne - EURIBOR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442648",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:58",
     "kind": "espi",

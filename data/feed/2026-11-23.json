@@ -1,7 +1,77 @@
 {
  "date": "2026-11-23",
- "count": 112,
+ "count": 119,
  "items": [
+  {
+   "id": "bossa-pap-442650",
+   "date": "2026-11-23",
+   "time": "11:12",
+   "ts": "2026-11-23T11:12:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: Na giełdę powróciły wzrosty; rynek ciągną w górę m. in. banki, KGHM i Orlen",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442650"
+  },
+  {
+   "id": "strefa-33b76762436b",
+   "date": "2026-11-23",
+   "time": "11:10",
+   "ts": "2026-11-23T11:10:41+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: Na giełdę powróciły wzrosty; rynek ciągną w górę m. in. banki, KGHM i Orlen",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/dzien-na-gpw-na-gielde-powrocily-wzrosty-rynek-ciagna-w-gore-m-banki-kghm-i"
+  },
+  {
+   "id": "bossa-pap-442649",
+   "date": "2026-11-23",
+   "time": "11:06",
+   "ts": "2026-11-23T11:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "OKI może skłonić do rozpoczęcia inwestowania 47 proc. posiadających oszczędności - badanie",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442649"
+  },
+  {
+   "id": "bossa-pap-442648",
+   "date": "2026-11-23",
+   "time": "11:05",
+   "ts": "2026-11-23T11:05:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne - EURIBOR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442648"
+  },
+  {
+   "id": "bossa-espi-271081",
+   "date": "2026-11-23",
+   "time": "11:05",
+   "ts": "2026-11-23T11:05:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ATREM S.A.",
+   "title": "Wybór oferty Emitenta przez Polskie Sieci Elektroenergetyczne S.A. na realizację zadania pn.: \"Rozbudowa i modernizacja stacji 400/110 kV Mościska\".",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271081"
+  },
+  {
+   "id": "strefa-6942eb0ef5ed",
+   "date": "2026-11-23",
+   "time": "11:04",
+   "ts": "2026-11-23T11:04:58+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Stopy procentowe NBP po danych z rynku pracy. Prognozy nie powinny być zmartwieniem przed decyzją RPP",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/stopy-procentowe-nbp-po-danych-z-rynku-pracy-prognozy-nie-powinny-byc"
+  },
   {
    "id": "bossa-espi-271080",
    "date": "2026-11-23",
@@ -109,6 +179,17 @@
    "title": "Indeks PMI w Wielkiej Brytanii w przemyśle w XI: 52,7 pkt. Konsensus: 53,0 pkt.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-442638"
+  },
+  {
+   "id": "strefa-e4c9d86a56e8",
+   "date": "2026-11-23",
+   "time": "10:29",
+   "ts": "2026-11-23T10:29:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Spółki zbrojeniowe mogą pociągnąć całą polską gospodarkę. Minister Domański wskazuje trzy kluczowe obszary",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/spolki-zbrojeniowe-moga-pociagnac-cala-polska-gospodarke-minister-domanski"
   },
   {
    "id": "bossa-pap-442637",
