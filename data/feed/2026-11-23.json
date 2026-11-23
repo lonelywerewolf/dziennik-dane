@@ -1,7 +1,31 @@
 {
  "date": "2026-11-23",
- "count": 33,
+ "count": 36,
  "items": [
+  {
+   "id": "bossa-espi-271076",
+   "date": "2026-11-23",
+   "time": "08:16",
+   "ts": "2026-11-23T08:16:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ASBISc",
+   "title": "Informacja o szacunkowych miesięcznych skonsolidowanych przychodach za październik 2026 r.",
+   "ticker": "ASB",
+   "url": "https://bossa.pl/analizy/komunikaty#message-271076"
+  },
+  {
+   "id": "bossa-espi-271075",
+   "date": "2026-11-23",
+   "time": "08:09",
+   "ts": "2026-11-23T08:09:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "STALPROFIL S.A.",
+   "title": "Informacja o zawarciu umowy pomiędzy STALPROFIL S.A., a O.G.P. Gaz-System S.A. o generalną realizację inwestycji pn: „Budowa gazociągu DN400 MOP 8,4 MPa relacji Mory-Reguły i przystosowanie do tłokowania gazociągu DN300/DN400 SG Mory-Gassy”",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271075"
+  },
   {
    "id": "bossa-pap-442597",
    "date": "2026-11-23",
@@ -25,6 +49,17 @@
    "title": "BGK podpisał z EBI umowę na 2 mld zł kredytu na program budownictwa czynszowego",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-442596"
+  },
+  {
+   "id": "strefa-c2e7cee5dc9b",
+   "date": "2026-11-23",
+   "time": "08:00",
+   "ts": "2026-11-23T08:00:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ceny miedzi w Londynie blisko 12.000 USD za tonę",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/ceny-miedzi-w-londynie-blisko-12000-usd-za-tone"
   },
   {
    "id": "bossa-pap-442595",
