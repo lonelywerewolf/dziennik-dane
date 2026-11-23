@@ -5,7 +5,7 @@
   "wyniki": 1,
   "rekomendacje": 6,
   "korporacyjne": 5,
-  "makro_pl": 17,
+  "makro_pl": 20,
   "swiat_rynki": 4,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
@@ -15,7 +15,7 @@
   "pozostale": 16
  },
  "duplicatesRemoved": 38,
- "total": 103,
+ "total": 106,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -246,6 +246,33 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "10:36",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeks PMI w usługach w Wielkiej Brytanii w XI: 52,0 pkt. Konsensus: 53,0 pkt.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442640",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:35",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Płace rosną, rynek pracy się stabilizuje; dane za X nie powinny martwić RPP (opinia)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442639",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:31",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeks PMI w Wielkiej Brytanii w przemyśle w XI: 52,7 pkt. Konsensus: 53,0 pkt.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442638",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:28",
     "kind": "pap",
