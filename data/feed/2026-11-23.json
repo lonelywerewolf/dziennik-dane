@@ -1,7 +1,55 @@
 {
  "date": "2026-11-23",
- "count": 183,
+ "count": 187,
  "items": [
+  {
+   "id": "bossa-espi-271113",
+   "date": "2026-11-23",
+   "time": "14:42",
+   "ts": "2026-11-23T14:42:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF MWIG40TRsh PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 224 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271113"
+  },
+  {
+   "id": "bossa-espi-271112",
+   "date": "2026-11-23",
+   "time": "14:41",
+   "ts": "2026-11-23T14:41:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "RAFAMET",
+   "title": "Wybór najkorzystniejszej oferty konsorcjum z udziałem spółki zależnej Emitenta w postępowaniu przetargowym Polregio S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271112"
+  },
+  {
+   "id": "bossa-pap-442706",
+   "date": "2026-11-23",
+   "time": "14:38",
+   "ts": "2026-11-23T14:38:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "CDRL zakłada, że IV kw. będzie operacyjnie porównywalny rdr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442706"
+  },
+  {
+   "id": "bossa-espi-271111",
+   "date": "2026-11-23",
+   "time": "14:34",
+   "ts": "2026-11-23T14:34:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "RAFAMET",
+   "title": "Informacja dotycząca przedsięwzięcia objętego listem intencyjnym z Polregio S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271111"
+  },
   {
    "id": "bossa-pap-442704",
    "date": "2026-11-23",

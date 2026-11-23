@@ -4,7 +4,7 @@
   "podsumowania": 13,
   "wyniki": 3,
   "rekomendacje": 6,
-  "korporacyjne": 15,
+  "korporacyjne": 16,
   "makro_pl": 29,
   "swiat_rynki": 11,
   "energetyka_surowce": 2,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 2,
   "twoje_spolki": 4,
   "obserwowane": 0,
-  "pozostale": 33
+  "pozostale": 35
  },
- "duplicatesRemoved": 65,
- "total": 183,
+ "duplicatesRemoved": 66,
+ "total": 187,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -229,6 +229,15 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "14:41",
+    "kind": "espi",
+    "ticker": null,
+    "title": "RAFAMET: Wybór najkorzystniejszej oferty konsorcjum z udziałem spółki zależnej Emitenta w postępowaniu przetargowym Polregio S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271112",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:01",
     "kind": "espi",
@@ -840,6 +849,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "14:38",
+    "kind": "pap",
+    "ticker": null,
+    "title": "CDRL zakłada, że IV kw. będzie operacyjnie porównywalny rdr",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442706",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:34",
+    "kind": "espi",
+    "ticker": null,
+    "title": "RAFAMET: Informacja dotycząca przedsięwzięcia objętego listem intencyjnym z Polregio S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271111",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:21",
     "kind": "espi",
