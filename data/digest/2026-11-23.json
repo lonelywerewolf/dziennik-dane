@@ -5,17 +5,17 @@
   "wyniki": 3,
   "rekomendacje": 6,
   "korporacyjne": 26,
-  "makro_pl": 34,
+  "makro_pl": 35,
   "swiat_rynki": 16,
   "energetyka_surowce": 2,
   "nieruchomosci": 0,
-  "fundusze_drobne": 4,
+  "fundusze_drobne": 6,
   "twoje_spolki": 6,
   "obserwowane": 0,
   "pozostale": 39
  },
  "duplicatesRemoved": 77,
- "total": 227,
+ "total": 230,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -511,6 +511,15 @@
   ],
   "makro_pl": [
    {
+    "time": "16:24",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Ryzyko negatywnego odpływu inwestorów zagranicznych z polskiego rynku SPW ograniczone - MF",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442739",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "15:48",
     "kind": "pap",
     "ticker": null,
@@ -987,6 +996,24 @@
   ],
   "nieruchomosci": [],
   "fundusze_drobne": [
+   {
+    "time": "16:33",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Nationale-Nederlanden OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442741",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OFE PZU wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442740",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:05",
     "kind": "pap",
