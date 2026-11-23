@@ -1,6 +1,21 @@
 {
  "items": [
   {
+   "date": "2026-11-23",
+   "company": "VOXEL (VOX)",
+   "code": "VOX",
+   "name": "VOXEL",
+   "isin": "PLVOXEL00014",
+   "rating": "Kupuj",
+   "price": "145",
+   "target": "175.3",
+   "upside": "20.896551724138",
+   "priceAtPub": "145",
+   "house": "DM BOŚ",
+   "report": "https://strefainwestorow.pl/sites/default/files/attachments/55581174_14090127_55581174_Voxel_33_FU_88_2026_DM_BOS_PL_disclaimer.pdf",
+   "ticker": null
+  },
+  {
    "date": "2026-11-20",
    "company": "PGE (PGE)",
    "code": "PGE",
@@ -4426,5 +4441,5 @@
    "ticker": "XTB"
   }
  ],
- "updatedAt": "2026-11-23T08:17:58+01:00"
+ "updatedAt": "2026-11-23T08:28:58+01:00"
 }
