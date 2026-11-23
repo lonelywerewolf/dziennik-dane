@@ -91,6 +91,21 @@
    "ticker": null
   },
   {
+   "date": "2026-11-23",
+   "company": "APATOR (APT)",
+   "code": "APT",
+   "name": "APATOR",
+   "isin": "PLAPATR00018",
+   "rating": "Kupuj",
+   "price": "21.85",
+   "target": "27.9",
+   "upside": "27.688787185355",
+   "priceAtPub": "21.85",
+   "house": "Noble Securities",
+   "report": "https://strefainwestorow.pl/sites/default/files/attachments/55585557_14091185_55585557_threat_extracted_Apator_Disclaimer.pdf",
+   "ticker": null
+  },
+  {
    "date": "2026-11-20",
    "company": "PGE (PGE)",
    "code": "PGE",
@@ -4516,5 +4531,5 @@
    "ticker": "XTB"
   }
  ],
- "updatedAt": "2026-11-23T18:30:38+01:00"
+ "updatedAt": "2026-11-23T18:41:39+01:00"
 }

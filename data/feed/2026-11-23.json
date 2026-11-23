@@ -1,7 +1,54 @@
 {
  "date": "2026-11-23",
- "count": 284,
+ "count": 289,
  "items": [
+  {
+   "id": "bossa-pap-442786",
+   "date": "2026-11-23",
+   "time": "18:41",
+   "ts": "2026-11-23T18:41:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Aktualne wskaźniki giełdowe",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442786"
+  },
+  {
+   "id": "strefa-6146e0cb9dfd",
+   "date": "2026-11-23",
+   "time": "18:35",
+   "ts": "2026-11-23T18:35:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Noble Securities podniósł rekomendację dla Apatora, ale obniżył wycenę jego akcji",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/noble-securities-podniosl-rekomendacje-dla-apatora-ale-obnizyl-wycene-jego"
+  },
+  {
+   "id": "bossa-pap-442785",
+   "date": "2026-11-23",
+   "time": "18:35",
+   "ts": "2026-11-23T18:35:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Noble Securities podniósł rekomendację dla Apatora, ale obniżył wycenę jego akcji",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442785"
+  },
+  {
+   "id": "bossa-pap-442784",
+   "date": "2026-11-23",
+   "time": "18:34",
+   "ts": "2026-11-23T18:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Unibep ma portfel zamówień o wartości 6,1 mld zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442784"
+  },
   {
    "id": "bossa-espi-271146",
    "date": "2026-11-23",
@@ -13,6 +60,17 @@
    "title": "Otrzymanie zawiadomień sporządzonych na podstawie art. 69 ustawy o ofercie",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271146"
+  },
+  {
+   "id": "strefa-c7028cd42bb6",
+   "date": "2026-11-23",
+   "time": "18:09",
+   "ts": "2026-11-23T18:09:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Unibep ma portfel zamówień o wartości 6,1 mld zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/unibep-ma-portfel-zamowien-o-wartosci-61-mld-zl"
   },
   {
    "id": "bossa-pap-442781",
