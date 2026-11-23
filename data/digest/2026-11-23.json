@@ -4,18 +4,18 @@
   "podsumowania": 12,
   "wyniki": 3,
   "rekomendacje": 6,
-  "korporacyjne": 12,
-  "makro_pl": 26,
+  "korporacyjne": 14,
+  "makro_pl": 27,
   "swiat_rynki": 9,
   "energetyka_surowce": 2,
   "nieruchomosci": 0,
   "fundusze_drobne": 1,
   "twoje_spolki": 4,
   "obserwowane": 0,
-  "pozostale": 29
+  "pozostale": 31
  },
- "duplicatesRemoved": 56,
- "total": 160,
+ "duplicatesRemoved": 59,
+ "total": 168,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -221,6 +221,26 @@
   ],
   "korporacyjne": [
    {
+    "time": "13:24",
+    "kind": "espi",
+    "ticker": null,
+    "title": "INPRO S.A.: Dokonanie wpisu hipoteki na nieruchomości, której Inpro SA jest właścicielem.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271103",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:22",
+    "kind": "espi",
+    "ticker": null,
+    "title": "WOODPECKER.CO S.A.: Rezygnacja Prezesa Zarządu",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271101",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
     "time": "13:05",
     "kind": "espi",
     "ticker": null,
@@ -350,6 +370,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "13:24",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MF chce stworzyć regulacyjne podstawy do rozwoju niezależnego doradztwa inwestycyjnego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442688",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:43",
     "kind": "espi",
@@ -747,11 +776,20 @@
   "obserwowane": [],
   "pozostale": [
    {
-    "time": "13:03",
+    "time": "13:23",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PEPCO GROUP N.V.: Share buyback programme: Acquisition of shares from 16 – 20 November 2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271102",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:20",
     "kind": "pap",
     "ticker": null,
-    "title": "Cena maksymalna dla benzyny Pb95 we wtorek wyniesie 5,90 zł/l, dla ON 7,32 zł/l",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442681",
+    "title": "Deprecjacja PLN jest trudnym do zignorowania argumentem za podwyżkami stóp - Citi (opinia)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442686",
     "src": "bossa",
     "flags": []
    },
@@ -780,6 +818,15 @@
     "title": "BGK z perspektywy UE 2021-27 do 20 listopada wypłacił ok. 100,29 mld zł",
     "url": "https://bossa.pl/analizy/komunikaty#message-442676",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:36",
+    "kind": "news",
+    "ticker": null,
+    "title": "Cena maksymalna dla benzyny Pb95 we wtorek wyniesie 5,90 zł/l, dla ON 7,32 zł/l",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/cena-maksymalna-dla-benzyny-pb95-we-wtorek-wyniesie-590-zll-dla-732-zll",
+    "src": "strefainwestorow",
     "flags": []
    },
    {

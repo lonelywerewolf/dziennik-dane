@@ -1,7 +1,91 @@
 {
  "date": "2026-11-23",
- "count": 160,
+ "count": 168,
  "items": [
+  {
+   "id": "bossa-espi-271104",
+   "date": "2026-11-23",
+   "time": "13:26",
+   "ts": "2026-11-23T13:26:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF S&P 500 PLN-HEDGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 235 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271104"
+  },
+  {
+   "id": "bossa-pap-442688",
+   "date": "2026-11-23",
+   "time": "13:24",
+   "ts": "2026-11-23T13:24:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MF chce stworzyć regulacyjne podstawy do rozwoju niezależnego doradztwa inwestycyjnego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442688"
+  },
+  {
+   "id": "bossa-espi-271103",
+   "date": "2026-11-23",
+   "time": "13:24",
+   "ts": "2026-11-23T13:24:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "INPRO S.A.",
+   "title": "Dokonanie wpisu hipoteki na nieruchomości, której Inpro SA jest właścicielem.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271103"
+  },
+  {
+   "id": "bossa-espi-271102",
+   "date": "2026-11-23",
+   "time": "13:23",
+   "ts": "2026-11-23T13:23:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PEPCO GROUP N.V.",
+   "title": "Share buyback programme: Acquisition of shares from 16 – 20 November 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271102"
+  },
+  {
+   "id": "bossa-espi-271101",
+   "date": "2026-11-23",
+   "time": "13:22",
+   "ts": "2026-11-23T13:22:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "WOODPECKER.CO S.A.",
+   "title": "Rezygnacja Prezesa Zarządu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271101"
+  },
+  {
+   "id": "bossa-pap-442686",
+   "date": "2026-11-23",
+   "time": "13:20",
+   "ts": "2026-11-23T13:20:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Deprecjacja PLN jest trudnym do zignorowania argumentem za podwyżkami stóp - Citi (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442686"
+  },
+  {
+   "id": "bossa-espi-271100",
+   "date": "2026-11-23",
+   "time": "13:18",
+   "ts": "2026-11-23T13:18:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF WIG20short PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 234 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271100"
+  },
   {
    "id": "bossa-espi-271099",
    "date": "2026-11-23",
@@ -217,6 +301,17 @@
    "title": "Osiem państw UE, w tym Niemcy, zaapelowało o wdrożenie ETS2 bez dalszych opóźnień",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-442667"
+  },
+  {
+   "id": "strefa-afc1ec33461f",
+   "date": "2026-11-23",
+   "time": "12:36",
+   "ts": "2026-11-23T12:36:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Cena maksymalna dla benzyny Pb95 we wtorek wyniesie 5,90 zł/l, dla ON 7,32 zł/l",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/cena-maksymalna-dla-benzyny-pb95-we-wtorek-wyniesie-590-zll-dla-732-zll"
   },
   {
    "id": "bossa-pap-442666",
