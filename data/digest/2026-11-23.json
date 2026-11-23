@@ -1,7 +1,7 @@
 {
  "date": "2026-11-23",
  "counts": {
-  "podsumowania": 12,
+  "podsumowania": 13,
   "wyniki": 3,
   "rekomendacje": 6,
   "korporacyjne": 14,
@@ -14,11 +14,20 @@
   "obserwowane": 0,
   "pozostale": 31
  },
- "duplicatesRemoved": 64,
- "total": 176,
+ "duplicatesRemoved": 65,
+ "total": 178,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "13:34",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Futures w USA rosną, ubiegłotygodniowe spadki okazją do zakupów",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/dzien-na-rynkach-futures-w-usa-rosna-ubieglotygodniowe-spadki-okazja-do-zakupow",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "11:10",
     "kind": "news",
