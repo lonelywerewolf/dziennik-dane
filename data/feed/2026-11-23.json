@@ -1,7 +1,43 @@
 {
  "date": "2026-11-23",
- "count": 173,
+ "count": 176,
  "items": [
+  {
+   "id": "bossa-espi-271108",
+   "date": "2026-11-23",
+   "time": "13:47",
+   "ts": "2026-11-23T13:47:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF sWIG80TR PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 235 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271108"
+  },
+  {
+   "id": "bossa-pap-442697",
+   "date": "2026-11-23",
+   "time": "13:46",
+   "ts": "2026-11-23T13:46:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "W sumie 1,1 mld zł na usuwanie nielegalnych składowisk odpadów w Polsce - Hennig-Kloska",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442697"
+  },
+  {
+   "id": "bossa-espi-271107",
+   "date": "2026-11-23",
+   "time": "13:38",
+   "ts": "2026-11-23T13:38:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 PLN-HEDGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 235 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271107"
+  },
   {
    "id": "bossa-espi-271106",
    "date": "2026-11-23",
