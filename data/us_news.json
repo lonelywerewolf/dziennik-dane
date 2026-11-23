@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "id": "b8a9e894084d",
+   "ticker": "NVDA",
+   "time": "2026-11-23T18:57+01:00",
+   "title": "Stocks Rebound Sharply as Nvidia Reinstates CEO Huang",
+   "url": "https://www.nasdaq.com/articles/stocks-rebound-sharply-nvidia-reinstates-ceo-huang",
+   "src": "nasdaq",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up +5.15%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +3.05%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +7.34%.  December E-mini S&P futures (ESZ26 ) are up +4.85%, and December E-mini Nasdaq futures (NQZ26..."
+  },
+  {
+   "id": "c2b601302686",
+   "ticker": "NVDA",
+   "time": "2026-11-23T18:36+01:00",
+   "title": "Why Did Cerebras Stock Soar Today?",
+   "url": "https://www.nasdaq.com/articles/why-did-cerebras-stock-soar-today",
+   "src": "nasdaq",
+   "summary": "Key PointsNvidia announced that it has rehired Jensen Huang as CEO."
+  },
+  {
    "id": "f78c248e3a38",
    "ticker": "NVDA",
    "time": "2026-11-23T18:32+01:00",
@@ -16885,5 +16903,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-23T19:03:38+01:00"
+ "updatedAt": "2026-11-23T19:14:39+01:00"
 }
