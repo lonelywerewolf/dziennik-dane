@@ -6,7 +6,7 @@
   "rekomendacje": 6,
   "korporacyjne": 26,
   "makro_pl": 35,
-  "swiat_rynki": 16,
+  "swiat_rynki": 17,
   "energetyka_surowce": 2,
   "nieruchomosci": 0,
   "fundusze_drobne": 6,
@@ -15,7 +15,7 @@
   "pozostale": 39
  },
  "duplicatesRemoved": 77,
- "total": 230,
+ "total": 231,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -829,6 +829,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "16:38",
+    "kind": "espi",
+    "ticker": null,
+    "title": "VOXEL S.A.: Zmiana terminu publikacji skonsolidowanego raportu kwartalnego za III kwartał 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271127",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:19",
     "kind": "espi",
