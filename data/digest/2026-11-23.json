@@ -1,8 +1,8 @@
 {
  "date": "2026-11-23",
  "counts": {
-  "podsumowania": 16,
-  "wyniki": 5,
+  "podsumowania": 18,
+  "wyniki": 8,
   "rekomendacje": 6,
   "korporacyjne": 30,
   "makro_pl": 36,
@@ -12,13 +12,33 @@
   "fundusze_drobne": 9,
   "twoje_spolki": 6,
   "obserwowane": 0,
-  "pozostale": 45
+  "pozostale": 46
  },
- "duplicatesRemoved": 82,
- "total": 254,
+ "duplicatesRemoved": 83,
+ "total": 261,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "17:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Notowania ciągłe - podsumowanie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442763",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "17:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "WIG20 na zamknięciu wyniósł 4170,92 pkt (3,85%)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442762",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:02",
     "kind": "news",
@@ -166,6 +186,26 @@
   ],
   "wyniki": [
    {
+    "time": "17:40",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PKP Cargo miało 254,9 mln zł straty netto w trzecim kwartale",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442765",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:30",
+    "kind": "espi",
+    "ticker": null,
+    "title": "CLOUD TECHNOLOGIES S.A.: Szacunkowa miesięczna dynamika sprzedaży danych do kluczowych klientów za wrzesień 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271137",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
     "time": "17:21",
     "kind": "espi",
     "ticker": null,
@@ -186,6 +226,15 @@
     "flags": [
      "wyniki"
     ]
+   },
+   {
+    "time": "17:15",
+    "kind": "news",
+    "ticker": null,
+    "title": "Mercator Medical szacuje, że zwiększył zysk netto w III kwartale do 28,4 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/mercator-medical-szacuje-ze-zwiekszyl-zysk-netto-w-iii-kwartale-do-284-mln-zl",
+    "src": "strefainwestorow",
+    "flags": []
    },
    {
     "time": "11:42",
@@ -1242,6 +1291,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:36",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KOLEJKOWO SA (14/2026) Zakończenie subskrypcji lub sprzedaży, związanej z wprowadzeniem instrumentów finansowych emitenta do obrotu w alternatywnym systemie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442764",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:25",
     "kind": "espi",

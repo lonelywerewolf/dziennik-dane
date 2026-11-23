@@ -1,7 +1,79 @@
 {
  "date": "2026-11-23",
- "count": 254,
+ "count": 261,
  "items": [
+  {
+   "id": "bossa-pap-442765",
+   "date": "2026-11-23",
+   "time": "17:40",
+   "ts": "2026-11-23T17:40:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PKP Cargo miało 254,9 mln zł straty netto w trzecim kwartale",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442765"
+  },
+  {
+   "id": "bossa-pap-442764",
+   "date": "2026-11-23",
+   "time": "17:36",
+   "ts": "2026-11-23T17:36:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KOLEJKOWO SA (14/2026) Zakończenie subskrypcji lub sprzedaży, związanej z wprowadzeniem instrumentów finansowych emitenta do obrotu w alternatywnym systemie",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442764"
+  },
+  {
+   "id": "bossa-pap-442763",
+   "date": "2026-11-23",
+   "time": "17:34",
+   "ts": "2026-11-23T17:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Notowania ciągłe - podsumowanie",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442763"
+  },
+  {
+   "id": "bossa-pap-442762",
+   "date": "2026-11-23",
+   "time": "17:30",
+   "ts": "2026-11-23T17:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "WIG20 na zamknięciu wyniósł 4170,92 pkt (3,85%)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442762"
+  },
+  {
+   "id": "bossa-pap-442761",
+   "date": "2026-11-23",
+   "time": "17:30",
+   "ts": "2026-11-23T17:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Mercator Medical szacuje, że zwiększył zysk netto w III kwartale do 28,4 mln zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442761"
+  },
+  {
+   "id": "bossa-espi-271137",
+   "date": "2026-11-23",
+   "time": "17:30",
+   "ts": "2026-11-23T17:30:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "CLOUD TECHNOLOGIES S.A.",
+   "title": "Szacunkowa miesięczna dynamika sprzedaży danych do kluczowych klientów za wrzesień 2026 roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271137"
+  },
   {
    "id": "bossa-espi-271136",
    "date": "2026-11-23",
@@ -49,6 +121,17 @@
    "title": "Szacunkowe wyniki trzeciego kwartału 2026 roku",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271133"
+  },
+  {
+   "id": "strefa-03c7a8c206de",
+   "date": "2026-11-23",
+   "time": "17:15",
+   "ts": "2026-11-23T17:15:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Mercator Medical szacuje, że zwiększył zysk netto w III kwartale do 28,4 mln zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/mercator-medical-szacuje-ze-zwiekszyl-zysk-netto-w-iii-kwartale-do-284-mln-zl"
   },
   {
    "id": "bossa-pap-442755",
