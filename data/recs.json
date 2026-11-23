@@ -76,6 +76,21 @@
    "ticker": null
   },
   {
+   "date": "2026-11-23",
+   "company": "SNTVERSE (SVE)",
+   "code": "SVE",
+   "name": "SNTVERSE",
+   "isin": "PLBMDLB00018",
+   "rating": "Sprzedaj",
+   "price": "2.605",
+   "target": "1.9",
+   "upside": "-27.063339731286",
+   "priceAtPub": "2.6",
+   "house": "DM BDM",
+   "report": "https://strefainwestorow.pl/sites/default/files/attachments/55581501_14090241_55581501_threat_extracted_20261123_0965_SVE_PL_RA.pdf",
+   "ticker": null
+  },
+  {
    "date": "2026-11-20",
    "company": "PGE (PGE)",
    "code": "PGE",
@@ -4501,5 +4516,5 @@
    "ticker": "XTB"
   }
  ],
- "updatedAt": "2026-11-23T09:34:59+01:00"
+ "updatedAt": "2026-11-23T09:45:58+01:00"
 }

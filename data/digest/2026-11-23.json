@@ -5,8 +5,8 @@
   "wyniki": 1,
   "rekomendacje": 6,
   "korporacyjne": 4,
-  "makro_pl": 5,
-  "swiat_rynki": 3,
+  "makro_pl": 12,
+  "swiat_rynki": 4,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 13
  },
- "duplicatesRemoved": 27,
- "total": 75,
+ "duplicatesRemoved": 34,
+ "total": 90,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -134,12 +134,12 @@
   ],
   "rekomendacje": [
    {
-    "time": "09:34",
-    "kind": "pap",
+    "time": "09:38",
+    "kind": "news",
     "ticker": null,
     "title": "DM BDM obniżył rekomendację Synthaverse do \"sprzedaj\"",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442620",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/dm-bdm-obnizyl-rekomendacje-synthaverse-do-sprzedaj",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -236,12 +236,75 @@
   ],
   "makro_pl": [
    {
+    "time": "09:43",
+    "kind": "news",
+    "ticker": null,
+    "title": "Liczba mieszkań, których budowę rozpoczęli w październiku deweloperzy spadła o 14,9 proc. rdr - GUS",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/liczba-mieszkan-ktorych-budowe-rozpoczeli-w-pazdzierniku-deweloperzy-spadla-o",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "09:42",
+    "kind": "news",
+    "ticker": null,
+    "title": "Produkcja przemysłowa w październiku wzrosła o 0,1 proc. rdr - GUS",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/produkcja-przemyslowa-w-pazdzierniku-wzrosla-o-01-proc-rdr-gus",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "09:39",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wynagrodzenie w październiku wzrosły mdm dzięki premiom, nagrodom i odprawom emerytalnym - GUS",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/wynagrodzenie-w-pazdzierniku-wzrosly-mdm-dzieki-premiom-nagrodom-i-odprawom",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "09:38",
+    "kind": "news",
+    "ticker": null,
+    "title": "Produkcja budowlano-montażowa w październiku spadła o 9,3 proc. rdr - GUS",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/produkcja-budowlano-montazowa-w-pazdzierniku-spadla-o-93-proc-rdr-gus",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "09:36",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny produkcji przemysłowej w październiku rdr wzrosły o 8,0 proc. - GUS",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/ceny-produkcji-przemyslowej-w-pazdzierniku-rdr-wzrosly-o-80-proc-gus",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "09:35",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeks PMI w Niemczech w usługach w XI: 54,0 pkt. Konsensus: 52,3 pkt.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442622",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "09:34",
     "kind": "pap",
     "ticker": null,
     "title": "Indeks PMI w Niemczech w przemyśle w XI: 55,0 pkt. Konsensus: 54,2 pkt.",
     "url": "https://bossa.pl/analizy/komunikaty#message-442619",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "09:33",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wynagrodzenie w przedsiębiorstwach w październiku wzrosło o 6,1 proc. rdr, zatrudnienie spadło o 0,7 proc. rdr - GUS",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/wynagrodzenie-w-przedsiebiorstwach-w-pazdzierniku-wzroslo-o-61-proc-rdr",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -282,6 +345,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "09:36",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Ceny gazu w Europie mocno rosną",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442623",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:40",
     "kind": "pap",
