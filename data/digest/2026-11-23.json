@@ -1,0 +1,46 @@
+{
+ "date": "2026-11-23",
+ "counts": {
+  "podsumowania": 0,
+  "wyniki": 0,
+  "rekomendacje": 0,
+  "korporacyjne": 0,
+  "makro_pl": 0,
+  "swiat_rynki": 0,
+  "energetyka_surowce": 0,
+  "nieruchomosci": 0,
+  "fundusze_drobne": 0,
+  "twoje_spolki": 1,
+  "obserwowane": 0,
+  "pozostale": 0
+ },
+ "duplicatesRemoved": 0,
+ "total": 1,
+ "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
+ "groups": {
+  "podsumowania": [],
+  "wyniki": [],
+  "rekomendacje": [],
+  "korporacyjne": [],
+  "makro_pl": [],
+  "swiat_rynki": [],
+  "energetyka_surowce": [],
+  "nieruchomosci": [],
+  "fundusze_drobne": [],
+  "twoje_spolki": [
+   {
+    "time": "00:02",
+    "kind": "espi",
+    "ticker": "VRC",
+    "title": "VERCOM S.A.: Zawiadomienie o transakcjach wykonanych na akcjach spółki w trybie art. 19 MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271072",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   }
+  ],
+  "obserwowane": [],
+  "pozostale": []
+ }
+}
