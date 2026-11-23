@@ -1,7 +1,43 @@
 {
  "date": "2026-11-23",
- "count": 304,
+ "count": 307,
  "items": [
+  {
+   "id": "bossa-pap-442802",
+   "date": "2026-11-23",
+   "time": "22:09",
+   "ts": "2026-11-23T22:09:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: W USA mocne wzrosty, Nasdaq zyskał 6,5 proc po powrocie Huanga do Nvidii",
+   "ticker": "NVDA",
+   "url": "https://bossa.pl/analizy/komunikaty#message-442802"
+  },
+  {
+   "id": "bossa-espi-271154",
+   "date": "2026-11-23",
+   "time": "22:06",
+   "ts": "2026-11-23T22:06:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "AIRWAY MEDIX S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271154"
+  },
+  {
+   "id": "bossa-pap-442800",
+   "date": "2026-11-23",
+   "time": "22:00",
+   "ts": "2026-11-23T22:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KPRM: Rosyjska agresja przekroczyła granice Ukrainy. Premier z apelem o solidarność z Polską (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442800"
+  },
   {
    "id": "bossa-pap-442799",
    "date": "2026-11-23",
