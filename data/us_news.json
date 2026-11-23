@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "id": "9d90f95344de",
+   "ticker": "NVDA",
+   "time": "2026-11-23T18:00+01:00",
+   "title": "Monday Sector Leaders: Semiconductors, Computer Peripherals",
+   "url": "https://www.nasdaq.com/articles/monday-sector-leaders-semiconductors-computer-peripherals",
+   "src": "nasdaq",
+   "summary": "In trading on Monday, semiconductors shares were relative leaders, up on the day by about 12.7%.  Leading the group were shares of NVIDIA, up about 31.9% and shares of AXTI up about 25.8% on the day.\n\nAlso showing relative strength are computer peripherals shares, up on the day"
+  },
+  {
+   "id": "6488d24151a3",
+   "ticker": "NVDA",
+   "time": "2026-11-23T17:55+01:00",
+   "title": "Nvidia’s Jensen Huang Is Back. Is the Stock a Buy?",
+   "url": "https://www.nasdaq.com/articles/nvidias-jensen-huang-back-stock-buy",
+   "src": "nasdaq",
+   "summary": "Key PointsNvidia shocked the market by announcing the return of Jensen Huang days after his resignation."
+  },
+  {
    "id": "437cd46fee39",
    "ticker": "MRVL",
    "time": "2026-11-23T17:49+01:00",
@@ -16831,5 +16849,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-23T18:08:39+01:00"
+ "updatedAt": "2026-11-23T18:19:39+01:00"
 }

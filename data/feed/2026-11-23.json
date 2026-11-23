@@ -1,6 +1,6 @@
 {
  "date": "2026-11-23",
- "count": 282,
+ "count": 283,
  "items": [
   {
    "id": "bossa-pap-442781",
@@ -25,6 +25,17 @@
    "title": "Powiadomienia o transakcjach na akcjach Spółki",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271145"
+  },
+  {
+   "id": "strefa-b3344df98ab4",
+   "date": "2026-11-23",
+   "time": "18:06",
+   "ts": "2026-11-23T18:06:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Na giełdach w Europie i USA odbicie po powrocie Huanga na CEO Nvidii",
+   "ticker": "NVDA",
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/dzien-na-rynkach-na-gieldach-w-europie-i-usa-odbicie-po-powrocie-huanga-na-ceo"
   },
   {
    "id": "bossa-espi-271144",

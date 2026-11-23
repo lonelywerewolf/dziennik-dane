@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 51
  },
- "duplicatesRemoved": 89,
- "total": 282,
+ "duplicatesRemoved": 90,
+ "total": 283,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1316,12 +1316,12 @@
   ],
   "twoje_spolki": [
    {
-    "time": "18:08",
-    "kind": "pap",
+    "time": "18:06",
+    "kind": "news",
     "ticker": "NVDA",
     "title": "DZIEŃ NA RYNKACH: Na giełdach w Europie i USA odbicie po powrocie Huanga na CEO Nvidii",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442781",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/dzien-na-rynkach-na-gieldach-w-europie-i-usa-odbicie-po-powrocie-huanga-na-ceo",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
