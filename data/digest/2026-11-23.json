@@ -6,7 +6,7 @@
   "rekomendacje": 6,
   "korporacyjne": 9,
   "makro_pl": 24,
-  "swiat_rynki": 7,
+  "swiat_rynki": 8,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
@@ -15,7 +15,7 @@
   "pozostale": 24
  },
  "duplicatesRemoved": 43,
- "total": 133,
+ "total": 134,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -538,6 +538,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "12:20",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BETA ETF BITCOIN PORTFELOWY FIZ: Raport bieżący nr 238 / 2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271085",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:05",
     "kind": "espi",
