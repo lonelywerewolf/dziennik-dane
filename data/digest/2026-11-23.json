@@ -4,8 +4,8 @@
   "podsumowania": 13,
   "wyniki": 3,
   "rekomendacje": 6,
-  "korporacyjne": 17,
-  "makro_pl": 29,
+  "korporacyjne": 18,
+  "makro_pl": 31,
   "swiat_rynki": 11,
   "energetyka_surowce": 2,
   "nieruchomosci": 0,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 35
  },
- "duplicatesRemoved": 68,
- "total": 190,
+ "duplicatesRemoved": 70,
+ "total": 195,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -230,6 +230,15 @@
   ],
   "korporacyjne": [
    {
+    "time": "14:48",
+    "kind": "news",
+    "ticker": null,
+    "title": "MF na przetargu sprzedaży 25 listopada zaoferuje pięć serii obligacji łącznie za 8-11 mld zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/mf-na-przetargu-sprzedazy-25-listopada-zaoferuje-piec-serii-obligacji-lacznie",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "14:46",
     "kind": "espi",
     "ticker": null,
@@ -410,6 +419,24 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "15:05",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BANK GOSPODARSTWA KRAJOWEGO: Dopuszczenie do obrotu na giełdzie w Luksemburgu obligacji serii 36 o wartości 750.000.000 EUR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271115",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "Klub Lewicy zgłosił w Senacie kandydaturę M. Piątkowskiego do RPP (aktl.)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/klub-lewicy-zglosil-w-senacie-kandydature-m-piatkowskiego-do-rpp-aktl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "14:15",
     "kind": "pap",

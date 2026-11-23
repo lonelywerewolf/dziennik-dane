@@ -8,9 +8,9 @@
    "via": "tiingo"
   },
   "AVGO": {
-   "price": 320.91,
-   "chgPct": 5.42,
-   "at": "2026-11-23T08:56:13.845888020-05:00",
+   "price": 311.57,
+   "chgPct": 2.35,
+   "at": "2026-11-23T09:07:22.639794676-05:00",
    "src": "https://www.tiingo.com/avgo/overview",
    "via": "tiingo"
   },
@@ -22,23 +22,23 @@
    "via": "tiingo"
   },
   "NVDA": {
-   "price": 148.1,
-   "chgPct": 17.98,
-   "at": "2026-11-23T08:56:17.572274261-05:00",
+   "price": 160.44,
+   "chgPct": 27.81,
+   "at": "2026-11-23T09:07:22.542005334-05:00",
    "src": "https://www.tiingo.com/nvda/overview",
    "via": "tiingo"
   },
   "TSM": {
-   "price": 337.51,
-   "chgPct": 5.9,
-   "at": "2026-11-23T08:44:43.537874357-05:00",
+   "price": 365.7,
+   "chgPct": 14.74,
+   "at": "2026-11-23T09:07:22.112993785-05:00",
    "src": "https://www.tiingo.com/tsm/overview",
    "via": "tiingo"
   },
   "VRT": {
-   "price": 175.8,
-   "chgPct": 5.75,
-   "at": "2026-11-23T08:25:14.924621769-05:00",
+   "price": 195.94,
+   "chgPct": 17.87,
+   "at": "2026-11-23T09:07:08.711380299-05:00",
    "src": "https://www.tiingo.com/vrt/overview",
    "via": "tiingo"
   },
@@ -50,26 +50,26 @@
    "via": "tiingo (ONEQ)"
   },
   "^SOX": {
-   "price": 133.74,
-   "chgPct": 8.38,
-   "at": "2026-11-23T08:56:16.629013312-05:00",
+   "price": 139.93,
+   "chgPct": 13.4,
+   "at": "2026-11-23T09:07:22.413048928-05:00",
    "src": "https://www.tiingo.com/soxx/overview",
    "via": "tiingo (SOXX)"
   },
   "^SPX": {
-   "price": 709.27,
-   "chgPct": 2.82,
-   "at": "2026-11-23T08:56:09.790860840-05:00",
+   "price": 719.67,
+   "chgPct": 4.33,
+   "at": "2026-11-23T09:07:22.056769636-05:00",
    "src": "https://www.tiingo.com/spy/overview",
    "via": "tiingo (SPY)"
   },
   "MRVL": {
-   "price": 129.08,
-   "chgPct": 5.56,
-   "at": "2026-11-23T08:09:24.160638532-05:00",
+   "price": 144.77,
+   "chgPct": 18.39,
+   "at": "2026-11-23T09:07:22.395179285-05:00",
    "src": "https://www.tiingo.com/mrvl/overview",
    "via": "tiingo"
   }
  },
- "updatedAt": "2026-11-23T14:56:04+01:00"
+ "updatedAt": "2026-11-23T15:07:04+01:00"
 }
