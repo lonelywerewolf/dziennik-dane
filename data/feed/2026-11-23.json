@@ -1,7 +1,19 @@
 {
  "date": "2026-11-23",
- "count": 313,
+ "count": 314,
  "items": [
+  {
+   "id": "bossa-pap-442808",
+   "date": "2026-11-23",
+   "time": "23:08",
+   "ts": "2026-11-23T23:08:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "RCB: Zagrożenie atakiem z powietrza (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442808"
+  },
   {
    "id": "bossa-pap-442807",
    "date": "2026-11-23",
