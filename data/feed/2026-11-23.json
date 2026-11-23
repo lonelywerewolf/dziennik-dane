@@ -1,7 +1,43 @@
 {
  "date": "2026-11-23",
- "count": 247,
+ "count": 251,
  "items": [
+  {
+   "id": "bossa-espi-271133",
+   "date": "2026-11-23",
+   "time": "17:17",
+   "ts": "2026-11-23T17:17:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MERCATOR MEDICAL S.A.",
+   "title": "Szacunkowe wyniki trzeciego kwartału 2026 roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271133"
+  },
+  {
+   "id": "bossa-pap-442755",
+   "date": "2026-11-23",
+   "time": "17:14",
+   "ts": "2026-11-23T17:14:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA FX/FI: EUR/PLN spadł do poniżej 4,445; powinien pozostawać w przedziale 4,43-4,46",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442755"
+  },
+  {
+   "id": "bossa-espi-271132",
+   "date": "2026-11-23",
+   "time": "17:08",
+   "ts": "2026-11-23T17:08:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PJP MAKRUM S.A.",
+   "title": "QS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271132"
+  },
   {
    "id": "bossa-espi-271131",
    "date": "2026-11-23",
@@ -25,6 +61,17 @@
    "title": "POLSKA GRUPA FARMACEUTYCZNA/Polska Grupa Farmaceutyczna Spółka Akcyjna (12/2026) Inne informacje",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-442752"
+  },
+  {
+   "id": "strefa-a4e660ff902f",
+   "date": "2026-11-23",
+   "time": "17:02",
+   "ts": "2026-11-23T17:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA FX/FI: EUR/PLN spadł do poniżej 4,445; powinien pozostawać w przedziale 4,43-4,46",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/dzien-na-fxfi-eurpln-spadl-do-ponizej-4445-powinien-pozostawac-w-przedziale-443"
   },
   {
    "id": "strefa-929b54d7391f",

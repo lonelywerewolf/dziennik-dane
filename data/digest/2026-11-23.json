@@ -1,8 +1,8 @@
 {
  "date": "2026-11-23",
  "counts": {
-  "podsumowania": 15,
-  "wyniki": 3,
+  "podsumowania": 16,
+  "wyniki": 4,
   "rekomendacje": 6,
   "korporacyjne": 29,
   "makro_pl": 36,
@@ -12,13 +12,22 @@
   "fundusze_drobne": 9,
   "twoje_spolki": 6,
   "obserwowane": 0,
-  "pozostale": 43
+  "pozostale": 44
  },
- "duplicatesRemoved": 81,
- "total": 247,
+ "duplicatesRemoved": 82,
+ "total": 251,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "17:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA FX/FI: EUR/PLN spadł do poniżej 4,445; powinien pozostawać w przedziale 4,43-4,46",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/dzien-na-fxfi-eurpln-spadl-do-ponizej-4445-powinien-pozostawac-w-przedziale-443",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:02",
     "kind": "skrot",
@@ -156,6 +165,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "17:17",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MERCATOR MEDICAL S.A.: Szacunkowe wyniki trzeciego kwartału 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271133",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "11:42",
     "kind": "espi",
@@ -1200,6 +1220,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:08",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PJP MAKRUM S.A.: QS",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271132",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:06",
     "kind": "espi",
