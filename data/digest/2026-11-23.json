@@ -4,8 +4,8 @@
   "podsumowania": 11,
   "wyniki": 1,
   "rekomendacje": 6,
-  "korporacyjne": 4,
-  "makro_pl": 12,
+  "korporacyjne": 5,
+  "makro_pl": 14,
   "swiat_rynki": 4,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 15
  },
- "duplicatesRemoved": 35,
- "total": 93,
+ "duplicatesRemoved": 37,
+ "total": 98,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -190,6 +190,17 @@
   ],
   "korporacyjne": [
    {
+    "time": "09:49",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kontrakty i umowy spółek - przegląd tygodniowy",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/kontrakty-i-umowy-spolek-przeglad-tygodniowy",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
     "time": "09:04",
     "kind": "pap",
     "ticker": null,
@@ -235,6 +246,24 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "10:04",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeks PMI w usługach strefy euro w XI: 51,2 pkt. Konsensus: 51,9 pkt.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442633",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "09:57",
+    "kind": "news",
+    "ticker": null,
+    "title": "Indeks PMI w strefie euro w przemyśle w XI: 52,9 pkt. Konsensus: 52,7 pkt.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/indeks-pmi-w-strefie-euro-w-przemysle-w-xi-529-pkt-konsensus-527-pkt",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:43",
     "kind": "news",
