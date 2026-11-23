@@ -1,7 +1,65 @@
 {
  "date": "2026-11-23",
- "count": 47,
+ "count": 52,
  "items": [
+  {
+   "id": "bossa-pap-442606",
+   "date": "2026-11-23",
+   "time": "08:47",
+   "ts": "2026-11-23T08:47:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DM BOŚ obniżył cenę docelową dla akcji Selvity do 29,3 zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442606"
+  },
+  {
+   "id": "strefa-e4859f64d219",
+   "date": "2026-11-23",
+   "time": "08:44",
+   "ts": "2026-11-23T08:44:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DM BOŚ obniżył cenę docelową dla akcji Selvity do 29,3 zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/dm-bos-obnizyl-cene-docelowa-dla-akcji-selvity-do-293-zl"
+  },
+  {
+   "id": "bossa-pap-442605",
+   "date": "2026-11-23",
+   "time": "08:43",
+   "ts": "2026-11-23T08:43:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: Poniedziałkowa sesja może rozpocząć się od wzrostów",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442605"
+  },
+  {
+   "id": "bossa-pap-442604",
+   "date": "2026-11-23",
+   "time": "08:40",
+   "ts": "2026-11-23T08:40:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zapasy gazu w magazynach UE poniżej 70 proc., w Polsce 95,3 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442604"
+  },
+  {
+   "id": "strefa-7286182a33d3",
+   "date": "2026-11-23",
+   "time": "08:36",
+   "ts": "2026-11-23T08:36:17+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: Poniedziałkowa sesja może rozpocząć się od wzrostów",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/dzien-na-gpw-poniedzialkowa-sesja-moze-rozpoczac-sie-od-wzrostow"
+  },
   {
    "id": "strefa-25763ef33fa3",
    "date": "2026-11-23",

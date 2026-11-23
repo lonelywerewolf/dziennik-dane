@@ -16,6 +16,21 @@
    "ticker": null
   },
   {
+   "date": "2026-11-23",
+   "company": "SELVITA (SLV)",
+   "code": "SLV",
+   "name": "SELVITA",
+   "isin": "PLSLVCR00029",
+   "rating": "Kupuj",
+   "price": "16.64",
+   "target": "29.3",
+   "upside": "76.081730769231",
+   "priceAtPub": "16.64",
+   "house": "DM BOŚ",
+   "report": "https://strefainwestorow.pl/sites/default/files/attachments/55581288_14090167_55581288_Selvita_34_FU_89_2026_DM_BOŚ_PL_disclaimer.pdf",
+   "ticker": null
+  },
+  {
    "date": "2026-11-20",
    "company": "PGE (PGE)",
    "code": "PGE",
@@ -4441,5 +4456,5 @@
    "ticker": "XTB"
   }
  ],
- "updatedAt": "2026-11-23T08:39:59+01:00"
+ "updatedAt": "2026-11-23T08:50:59+01:00"
 }
