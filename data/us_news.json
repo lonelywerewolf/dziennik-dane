@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "f78c248e3a38",
+   "ticker": "NVDA",
+   "time": "2026-11-23T18:32+01:00",
+   "title": "Stock Market Midday, Nov. 23: Nasdaq Surges Nearly 7% as Jensen Huang's Return Sparks Historic AI Rebound",
+   "url": "https://www.nasdaq.com/articles/stock-market-midday-nov-23-nasdaq-surges-nearly-7-jensen-huangs-return-sparks-historic-ai",
+   "src": "nasdaq",
+   "summary": "Wall Street staged a strong rebound on Monday, November 23, as investors returned to equities following last week's steep sell-off. Renewed enthusiasm for artificial intelligence (AI) stocks, fueled by Jensen Huang's reinstatement as Nvidia's (NASDAQ:NVDA) CEO, helped propel majo"
+  },
+  {
    "id": "fb8b6e9270de",
    "ticker": "NVDA",
    "time": "2026-11-23T18:21+01:00",
@@ -16876,5 +16885,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-23T18:41:39+01:00"
+ "updatedAt": "2026-11-23T18:52:39+01:00"
 }

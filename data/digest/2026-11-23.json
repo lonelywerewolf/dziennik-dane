@@ -4,7 +4,7 @@
   "podsumowania": 18,
   "wyniki": 8,
   "rekomendacje": 7,
-  "korporacyjne": 37,
+  "korporacyjne": 38,
   "makro_pl": 37,
   "swiat_rynki": 18,
   "energetyka_surowce": 3,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 10,
   "twoje_spolki": 7,
   "obserwowane": 0,
-  "pozostale": 52
+  "pozostale": 53
  },
  "duplicatesRemoved": 92,
- "total": 289,
+ "total": 291,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -336,6 +336,18 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "18:43",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Matexi Polska Holding & Finance S.A.: Powiadomienie o transakcjach dokonanych przez osoby pełniące obowiązki zarządcze, o których mowa w art. 19 ust. 1 rozporządzenia MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271147",
+    "src": "bossa",
+    "flags": [
+     "zarząd",
+     "insider"
+    ]
+   },
    {
     "time": "18:25",
     "kind": "espi",
@@ -1414,6 +1426,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "18:49",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KPRM: Kolej jest ponownie powodem do dumy (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442787",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:09",
     "kind": "news",
