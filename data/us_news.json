@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "56f082583e16",
+   "ticker": "TSM",
+   "time": "2026-11-23T22:20+01:00",
+   "title": "Why TSMC Stock Soared Today",
+   "url": "https://www.nasdaq.com/articles/why-tsmc-stock-soared-today",
+   "src": "nasdaq",
+   "summary": "Key PointsNvidia is now TSMC's biggest customer."
+  },
+  {
    "id": "6cdab87f6a50",
    "ticker": "NVDA",
    "time": "2026-11-23T21:53+01:00",
@@ -17092,5 +17101,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-23T22:43:40+01:00"
+ "updatedAt": "2026-11-23T22:54:41+01:00"
 }

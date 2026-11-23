@@ -4,7 +4,7 @@
   "podsumowania": 18,
   "wyniki": 8,
   "rekomendacje": 7,
-  "korporacyjne": 46,
+  "korporacyjne": 47,
   "makro_pl": 39,
   "swiat_rynki": 18,
   "energetyka_surowce": 3,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 10,
   "twoje_spolki": 8,
   "obserwowane": 0,
-  "pozostale": 56
+  "pozostale": 57
  },
  "duplicatesRemoved": 98,
- "total": 311,
+ "total": 313,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -336,6 +336,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "22:49",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KBJ S.A.: Otrzymanie zawiadomienia w trybie art. 69 ustawy o ofercie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271158",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "22:42",
     "kind": "espi",
@@ -1534,6 +1545,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "22:51",
+    "kind": "pap",
+    "ticker": null,
+    "title": "RCB: rosyjski atak powietrzny na Ukrainie (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442807",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "22:41",
     "kind": "espi",

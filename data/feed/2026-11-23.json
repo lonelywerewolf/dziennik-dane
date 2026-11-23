@@ -1,7 +1,31 @@
 {
  "date": "2026-11-23",
- "count": 311,
+ "count": 313,
  "items": [
+  {
+   "id": "bossa-pap-442807",
+   "date": "2026-11-23",
+   "time": "22:51",
+   "ts": "2026-11-23T22:51:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "RCB: rosyjski atak powietrzny na Ukrainie (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442807"
+  },
+  {
+   "id": "bossa-espi-271158",
+   "date": "2026-11-23",
+   "time": "22:49",
+   "ts": "2026-11-23T22:49:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KBJ S.A.",
+   "title": "Otrzymanie zawiadomienia w trybie art. 69 ustawy o ofercie",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271158"
+  },
   {
    "id": "bossa-espi-271157",
    "date": "2026-11-23",
