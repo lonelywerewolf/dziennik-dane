@@ -6,16 +6,16 @@
   "rekomendacje": 6,
   "korporacyjne": 5,
   "makro_pl": 22,
-  "swiat_rynki": 4,
+  "swiat_rynki": 5,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 4,
   "obserwowane": 0,
-  "pozostale": 18
+  "pozostale": 19
  },
  "duplicatesRemoved": 38,
- "total": 110,
+ "total": 112,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -447,6 +447,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "10:56",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MZ: Mężczyźni stawiają na profilaktykę. Rekordowe zainteresowanie programem „Moje Zdrowie” (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442645",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "09:36",
     "kind": "pap",
     "ticker": null,
@@ -540,6 +549,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "10:58",
+    "kind": "espi",
+    "ticker": null,
+    "title": "TECH ROBOTICS SA: Zawarcie memorandum of understanding z Polską Grupą Hutniczą S.A., Zakładami Sprzętu Precyzyjnego Niewiadów sp. z o.o., Andoria sp. z o.o. oraz Huta Małapanew sp. z o.o.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271080",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:46",
     "kind": "pap",
