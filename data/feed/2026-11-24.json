@@ -1,5 +1,30 @@
 {
  "date": "2026-11-24",
- "count": 0,
- "items": []
+ "count": 2,
+ "items": [
+  {
+   "id": "bossa-espi-271160",
+   "date": "2026-11-24",
+   "time": "00:07",
+   "ts": "2026-11-24T00:07:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ARCHICOM S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271160"
+  },
+  {
+   "id": "bossa-pap-442811",
+   "date": "2026-11-24",
+   "time": "00:06",
+   "ts": "2026-11-24T00:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "RCB: Odwołano zagrożenie atakiem z powietrza; brak zagrożenia na terenie Polski (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442811"
+  }
+ ]
 }
