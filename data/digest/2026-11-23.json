@@ -5,17 +5,17 @@
   "wyniki": 1,
   "rekomendacje": 6,
   "korporacyjne": 5,
-  "makro_pl": 15,
+  "makro_pl": 17,
   "swiat_rynki": 4,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 4,
   "obserwowane": 0,
-  "pozostale": 15
+  "pozostale": 16
  },
- "duplicatesRemoved": 37,
- "total": 99,
+ "duplicatesRemoved": 38,
+ "total": 103,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -247,11 +247,20 @@
   ],
   "makro_pl": [
    {
-    "time": "10:14",
+    "time": "10:28",
     "kind": "pap",
     "ticker": null,
-    "title": "Produkcja przemysłowa w X pokazała słabość w segmencie dóbr konsumpcyjnych (opinia)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442634",
+    "title": "BOM: Spotkanie Marszałka Sejmu z przewodniczącym Izby Deputowanych Wielkiego Księstwa Luksemburga (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442637",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:22",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Produkcja energii elektrycznej w Polsce w październiku wzrosła o 3,23 proc. rdr - PSE",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442636",
     "src": "bossa",
     "flags": []
    },
@@ -262,6 +271,15 @@
     "title": "Indeks PMI w usługach strefy euro w XI: 51,2 pkt. Konsensus: 51,9 pkt.",
     "url": "https://bossa.pl/analizy/komunikaty#message-442633",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "Produkcja przemysłowa w X pokazała słabość w segmencie dóbr konsumpcyjnych (opinia)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/produkcja-przemyslowa-w-x-pokazala-slabosc-w-segmencie-dobr-konsumpcyjnych",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -477,6 +495,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "10:19",
+    "kind": "pap",
+    "ticker": null,
+    "title": "CEE DC ustaliło filary innowacji regionu, wśród nich rozwój AI, inwestycje i deregulacja",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442635",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:52",
     "kind": "pap",
