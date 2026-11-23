@@ -5,17 +5,17 @@
   "wyniki": 3,
   "rekomendacje": 6,
   "korporacyjne": 9,
-  "makro_pl": 24,
+  "makro_pl": 25,
   "swiat_rynki": 8,
-  "energetyka_surowce": 1,
+  "energetyka_surowce": 2,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 4,
   "obserwowane": 0,
   "pozostale": 24
  },
- "duplicatesRemoved": 43,
- "total": 134,
+ "duplicatesRemoved": 45,
+ "total": 138,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -319,6 +319,15 @@
   ],
   "makro_pl": [
    {
+    "time": "12:27",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Najbliższe miesiące to czas na budowanie pozycji w długoterminowych obligacjach skarbowych - Pekao TFI (wywiad)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442663",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "11:52",
     "kind": "news",
     "ticker": null,
@@ -612,6 +621,15 @@
    }
   ],
   "energetyka_surowce": [
+   {
+    "time": "12:16",
+    "kind": "news",
+    "ticker": null,
+    "title": "Polenergia chce być gotowa do podjęcia finalnej decyzji inwestycyjnej ws. projektu w Rumunii w '27",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/polenergia-chce-byc-gotowa-do-podjecia-finalnej-decyzji-inwestycyjnej-ws",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "06:43",
     "kind": "pap",

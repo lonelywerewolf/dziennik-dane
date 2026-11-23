@@ -1,7 +1,43 @@
 {
  "date": "2026-11-23",
- "count": 134,
+ "count": 138,
  "items": [
+  {
+   "id": "bossa-pap-442663",
+   "date": "2026-11-23",
+   "time": "12:27",
+   "ts": "2026-11-23T12:27:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Najbliższe miesiące to czas na budowanie pozycji w długoterminowych obligacjach skarbowych - Pekao TFI (wywiad)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442663"
+  },
+  {
+   "id": "bossa-pap-442662",
+   "date": "2026-11-23",
+   "time": "12:27",
+   "ts": "2026-11-23T12:27:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Polenergia chce być gotowa do podjęcia finalnej decyzji inwestycyjnej ws. projektu w Rumunii w '27",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442662"
+  },
+  {
+   "id": "bossa-espi-271086",
+   "date": "2026-11-23",
+   "time": "12:26",
+   "ts": "2026-11-23T12:26:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF mWIG40TR PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 236 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271086"
+  },
   {
    "id": "bossa-espi-271085",
    "date": "2026-11-23",
@@ -25,6 +61,17 @@
    "title": "Zawiadomienie o zawarciu transakcji przez osobę blisko związaną z osobą pełniącą obowiązki zarządcze w Spółce",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271084"
+  },
+  {
+   "id": "strefa-f4483feb9b62",
+   "date": "2026-11-23",
+   "time": "12:16",
+   "ts": "2026-11-23T12:16:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Polenergia chce być gotowa do podjęcia finalnej decyzji inwestycyjnej ws. projektu w Rumunii w '27",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/polenergia-chce-byc-gotowa-do-podjecia-finalnej-decyzji-inwestycyjnej-ws"
   },
   {
    "id": "bossa-pap-442658",
