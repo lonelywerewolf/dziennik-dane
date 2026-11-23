@@ -1,7 +1,31 @@
 {
  "date": "2026-11-23",
- "count": 180,
+ "count": 182,
  "items": [
+  {
+   "id": "bossa-espi-271110",
+   "date": "2026-11-23",
+   "time": "14:21",
+   "ts": "2026-11-23T14:21:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KPPD",
+   "title": "Tekst jednolity Statutu Spółki.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271110"
+  },
+  {
+   "id": "bossa-pap-442702",
+   "date": "2026-11-23",
+   "time": "14:15",
+   "ts": "2026-11-23T14:15:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Klub Lewicy zgłosił w Senacie kandydaturę prof. Piątkowskiego do RPP - Czarzasty",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442702"
+  },
   {
    "id": "bossa-pap-442701",
    "date": "2026-11-23",

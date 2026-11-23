@@ -5,17 +5,17 @@
   "wyniki": 3,
   "rekomendacje": 6,
   "korporacyjne": 15,
-  "makro_pl": 28,
+  "makro_pl": 29,
   "swiat_rynki": 10,
   "energetyka_surowce": 2,
   "nieruchomosci": 0,
   "fundusze_drobne": 2,
   "twoje_spolki": 4,
   "obserwowane": 0,
-  "pozostale": 32
+  "pozostale": 33
  },
  "duplicatesRemoved": 65,
- "total": 180,
+ "total": 182,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -390,6 +390,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "14:15",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Klub Lewicy zgłosił w Senacie kandydaturę prof. Piątkowskiego do RPP - Czarzasty",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442702",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:24",
     "kind": "pap",
@@ -822,6 +831,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "14:21",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KPPD: Tekst jednolity Statutu Spółki.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271110",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:08",
     "kind": "pap",
