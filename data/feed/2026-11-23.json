@@ -1,7 +1,76 @@
 {
  "date": "2026-11-23",
- "count": 52,
+ "count": 58,
  "items": [
+  {
+   "id": "bossa-pap-442609",
+   "date": "2026-11-23",
+   "time": "09:00",
+   "ts": "2026-11-23T09:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DM BOŚ rekomenduje \"trzymaj\" Diagnostykę; cena docelowa 167,7 zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442609"
+  },
+  {
+   "id": "strefa-7f8cfffadd89",
+   "date": "2026-11-23",
+   "time": "08:57",
+   "ts": "2026-11-23T08:57:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DM BOŚ rekomenduje \"trzymaj\" Diagnostykę; cena docelowa 167,7 zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/dm-bos-rekomenduje-trzymaj-diagnostyke-cena-docelowa-1677-zl"
+  },
+  {
+   "id": "strefa-146ce43489ca",
+   "date": "2026-11-23",
+   "time": "08:52",
+   "ts": "2026-11-23T08:52:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Fitch może utrzymać negatywną perspektywę ratingu Polski nieco dłużej niż do wyborów w ’27 (wywiad)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/fitch-moze-utrzymac-negatywna-perspektywe-ratingu-polski-nieco-dluzej-niz-do"
+  },
+  {
+   "id": "bossa-pap-442607",
+   "date": "2026-11-23",
+   "time": "08:51",
+   "ts": "2026-11-23T08:51:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DM BOŚ obniżył cenę docelową dla Neuki do 922,2 zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442607"
+  },
+  {
+   "id": "bossa-espi-271077",
+   "date": "2026-11-23",
+   "time": "08:51",
+   "ts": "2026-11-23T08:51:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "4MASS S.A.",
+   "title": "Otrzymanie zawiadomienia o zmianie stanu posiadania",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271077"
+  },
+  {
+   "id": "strefa-96741329d93f",
+   "date": "2026-11-23",
+   "time": "08:48",
+   "ts": "2026-11-23T08:48:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DM BOŚ obniżył cenę docelową dla Neuki do 922,2 zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/dm-bos-obnizyl-cene-docelowa-dla-neuki-do-9222-zl"
+  },
   {
    "id": "bossa-pap-442606",
    "date": "2026-11-23",

@@ -3,7 +3,7 @@
  "counts": {
   "podsumowania": 8,
   "wyniki": 1,
-  "rekomendacje": 2,
+  "rekomendacje": 4,
   "korporacyjne": 3,
   "makro_pl": 2,
   "swiat_rynki": 3,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 4,
   "obserwowane": 0,
-  "pozostale": 9
+  "pozostale": 10
  },
- "duplicatesRemoved": 19,
- "total": 52,
+ "duplicatesRemoved": 22,
+ "total": 58,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -106,6 +106,24 @@
    }
   ],
   "rekomendacje": [
+   {
+    "time": "08:57",
+    "kind": "news",
+    "ticker": null,
+    "title": "DM BOŚ rekomenduje \"trzymaj\" Diagnostykę; cena docelowa 167,7 zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/dm-bos-rekomenduje-trzymaj-diagnostyke-cena-docelowa-1677-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "08:48",
+    "kind": "news",
+    "ticker": null,
+    "title": "DM BOŚ obniżył cenę docelową dla Neuki do 922,2 zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/dm-bos-obnizyl-cene-docelowa-dla-neuki-do-9222-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:44",
     "kind": "news",
@@ -267,6 +285,24 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "08:52",
+    "kind": "news",
+    "ticker": null,
+    "title": "Fitch może utrzymać negatywną perspektywę ratingu Polski nieco dłużej niż do wyborów w ’27 (wywiad)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/fitch-moze-utrzymac-negatywna-perspektywe-ratingu-polski-nieco-dluzej-niz-do",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "08:51",
+    "kind": "espi",
+    "ticker": null,
+    "title": "4MASS S.A.: Otrzymanie zawiadomienia o zmianie stanu posiadania",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271077",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "08:00",
     "kind": "news",
     "ticker": null,
@@ -300,15 +336,6 @@
     "title": "Portfel zamówień grupy Polimex-Mostostal ma wartość ok. 8 mld zł",
     "url": "https://strefainwestorow.pl/wiadomosci/20261123/portfel-zamowien-grupy-polimex-mostostal-ma-wartosc-ok-8-mld-zl",
     "src": "strefainwestorow",
-    "flags": []
-   },
-   {
-    "time": "07:06",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Fitch może utrzymać negatywną perspektywę ratingu Polski nieco dłużej niż do wyborów w ’27 (wywiad)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442590",
-    "src": "bossa",
     "flags": []
    },
    {

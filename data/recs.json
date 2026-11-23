@@ -31,6 +31,21 @@
    "ticker": null
   },
   {
+   "date": "2026-11-23",
+   "company": "NEUCA (NEU)",
+   "code": "NEU",
+   "name": "NEUCA",
+   "isin": "PLTRFRM00018",
+   "rating": "Kupuj",
+   "price": "722",
+   "target": "922.2",
+   "upside": "27.728531855956",
+   "priceAtPub": "722",
+   "house": "DM BOŚ",
+   "report": "https://strefainwestorow.pl/sites/default/files/attachments/55581315_14090170_55581315_Neuca_35_FU_90_2026_DM_BOS_PL_disclaimer.pdf",
+   "ticker": null
+  },
+  {
    "date": "2026-11-20",
    "company": "PGE (PGE)",
    "code": "PGE",
@@ -4456,5 +4471,5 @@
    "ticker": "XTB"
   }
  ],
- "updatedAt": "2026-11-23T08:50:59+01:00"
+ "updatedAt": "2026-11-23T09:01:58+01:00"
 }
