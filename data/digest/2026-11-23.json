@@ -5,7 +5,7 @@
   "wyniki": 1,
   "rekomendacje": 6,
   "korporacyjne": 5,
-  "makro_pl": 14,
+  "makro_pl": 15,
   "swiat_rynki": 4,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
@@ -15,7 +15,7 @@
   "pozostale": 15
  },
  "duplicatesRemoved": 37,
- "total": 98,
+ "total": 99,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -246,6 +246,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "10:14",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Produkcja przemysłowa w X pokazała słabość w segmencie dóbr konsumpcyjnych (opinia)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442634",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:04",
     "kind": "pap",
