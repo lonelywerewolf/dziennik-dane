@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T22:54:41+01:00",
+ "updatedAt": "2026-11-23T23:05:40+01:00",
  "q": {
   "ASB": {
    "date": "2026-11-23",
@@ -150,9 +150,9 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/avgo",
    "chg": 3.0,
    "live": {
-    "price": 311.1,
-    "chgPct": 2.2,
-    "at": "2026-11-23T16:49:01.298388885-05:00",
+    "price": 313.55,
+    "chgPct": 3.0,
+    "at": "2026-11-23T21:00:00+00:00",
     "src": "https://www.tiingo.com/avgo/overview",
     "via": "tiingo"
    }
@@ -206,9 +206,9 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/tsm",
    "chg": 14.08,
    "live": {
-    "price": 365.16,
-    "chgPct": 14.57,
-    "at": "2026-11-23T16:48:53.845268579-05:00",
+    "price": 363.6,
+    "chgPct": 14.08,
+    "at": "2026-11-23T21:00:00+00:00",
     "src": "https://www.tiingo.com/tsm/overview",
     "via": "tiingo"
    }
@@ -220,9 +220,9 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/vrt",
    "chg": 12.1,
    "live": {
-    "price": 186.32,
-    "chgPct": 12.08,
-    "at": "2026-11-23T16:00:02.645738269-05:00",
+    "price": 186.35,
+    "chgPct": 12.1,
+    "at": "2026-11-23T21:00:00+00:00",
     "src": "https://www.tiingo.com/vrt/overview",
     "via": "tiingo"
    }

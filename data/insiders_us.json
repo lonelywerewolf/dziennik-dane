@@ -1,6 +1,22 @@
 {
  "items": [
   {
+   "id": "1f4ce012b2e932",
+   "ticker": "NVDA",
+   "filed": "2026-11-23 16:54:28",
+   "tradeDate": "2026-11-19",
+   "who": "Teter Timothy S.",
+   "role": "EVP, GC, Sec",
+   "type": "S - Sale",
+   "price": "$151.43",
+   "qty": "-30,000",
+   "owned": "2,925,898",
+   "deltaOwn": "-1%",
+   "value": "-$4,542,781",
+   "url": "http://www.sec.gov/Archives/edgar/data/1045810/000169684126000016/xslF345X03/wk-form4_1795470863.xml",
+   "src": "http://openinsider.com/screener?s=NVDA"
+  },
+  {
    "id": "00a7eb787fe2e0",
    "ticker": "MPWR",
    "filed": "2026-11-17 19:29:36",
@@ -5505,5 +5521,5 @@
    "src": "http://openinsider.com/screener?s=MPWR"
   }
  ],
- "updatedAt": "2026-11-23T22:54:41+01:00"
+ "updatedAt": "2026-11-23T23:05:40+01:00"
 }
