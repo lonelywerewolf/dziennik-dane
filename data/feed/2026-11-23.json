@@ -1,7 +1,91 @@
 {
  "date": "2026-11-23",
- "count": 202,
+ "count": 211,
  "items": [
+  {
+   "id": "bossa-pap-442726",
+   "date": "2026-11-23",
+   "time": "15:48",
+   "ts": "2026-11-23T15:48:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeks PMI w usługach USA w listopadzie: 54,7 pkt. Konsensus: 55,5 pkt. Poprzednio: 56,1 pkt.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442726"
+  },
+  {
+   "id": "bossa-pap-442725",
+   "date": "2026-11-23",
+   "time": "15:48",
+   "ts": "2026-11-23T15:48:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeks PMI composite w USA w listopadzie: 54,6 pkt. Konsensus: 55,6 pkt. Poprzednio: 55,9 pkt.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442725"
+  },
+  {
+   "id": "bossa-pap-442724",
+   "date": "2026-11-23",
+   "time": "15:47",
+   "ts": "2026-11-23T15:47:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeks PMI w przemyśle USA w listopadzie: 54,5 pkt. Konsensus: 54,5 pkt. Poprzednio: 54,9 pkt.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442724"
+  },
+  {
+   "id": "bossa-pap-442723",
+   "date": "2026-11-23",
+   "time": "15:43",
+   "ts": "2026-11-23T15:43:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Firma MTU zainwestuje 300 mln zł w zakład w Tajęcinie",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442723"
+  },
+  {
+   "id": "bossa-pap-442722",
+   "date": "2026-11-23",
+   "time": "15:41",
+   "ts": "2026-11-23T15:41:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GENERALI OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442722"
+  },
+  {
+   "id": "bossa-espi-271121",
+   "date": "2026-11-23",
+   "time": "15:40",
+   "ts": "2026-11-23T15:40:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PEKAO BANK HIPOTECZNY",
+   "title": "Powiadomienie o transakcji na instrumentach finansowych Pekao Banku Hipotecznego S.A. dokonanych przez Bank Polska Kasa Opieki S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271121"
+  },
+  {
+   "id": "bossa-espi-271120",
+   "date": "2026-11-23",
+   "time": "15:39",
+   "ts": "2026-11-23T15:39:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PCC ROKITA S.A.",
+   "title": "Zawarcie umowy przeniesienia akcji",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271120"
+  },
   {
    "id": "bossa-espi-271119",
    "date": "2026-11-23",
@@ -49,6 +133,17 @@
    "title": "Informacja o transakcjach w trybie art. 19 Rozporządzenia MAR",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271117"
+  },
+  {
+   "id": "strefa-341fc24c6e6b",
+   "date": "2026-11-23",
+   "time": "15:27",
+   "ts": "2026-11-23T15:27:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Po otwarciu sesji DJI rośnie 2,8 proc., a S&P500 zyskuje 4,8 proc.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/po-otwarciu-sesji-dji-rosnie-28-proc-sp500-zyskuje-48-proc"
   },
   {
    "id": "bossa-pap-442715",
@@ -879,6 +974,17 @@
    "title": "Kino Polska, ocenia, że presja na telewizję linearną ma charakter długoterminowy",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261123/kino-polska-ocenia-ze-presja-na-telewizje-linearna-ma-charakter-dlugoterminowy"
+  },
+  {
+   "id": "strefa-09854fc082b6",
+   "date": "2026-11-23",
+   "time": "11:53",
+   "ts": "2026-11-23T11:53:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grupa Kino Polska, ocenia, że presja na telewizję linearną ma charakter długoterminowy",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261123/grupa-kino-polska-ocenia-ze-presja-na-telewizje-linearna-ma-charakter"
   },
   {
    "id": "strefa-05e760ca2700",

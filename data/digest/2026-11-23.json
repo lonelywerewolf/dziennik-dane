@@ -4,18 +4,18 @@
   "podsumowania": 13,
   "wyniki": 3,
   "rekomendacje": 6,
-  "korporacyjne": 21,
-  "makro_pl": 31,
+  "korporacyjne": 23,
+  "makro_pl": 34,
   "swiat_rynki": 13,
   "energetyka_surowce": 2,
   "nieruchomosci": 0,
-  "fundusze_drobne": 2,
+  "fundusze_drobne": 3,
   "twoje_spolki": 4,
   "obserwowane": 0,
-  "pozostale": 35
+  "pozostale": 36
  },
- "duplicatesRemoved": 72,
- "total": 202,
+ "duplicatesRemoved": 74,
+ "total": 211,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -229,6 +229,26 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "15:40",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PEKAO BANK HIPOTECZNY: Powiadomienie o transakcji na instrumentach finansowych Pekao Banku Hipotecznego S.A. dokonanych przez Bank Polska Kasa Opieki S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271121",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:39",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PCC ROKITA S.A.: Zawarcie umowy przeniesienia akcji",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271120",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "15:39",
     "kind": "espi",
@@ -452,6 +472,33 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "15:48",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeks PMI w usługach USA w listopadzie: 54,7 pkt. Konsensus: 55,5 pkt. Poprzednio: 56,1 pkt.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442726",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:48",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeks PMI composite w USA w listopadzie: 54,6 pkt. Konsensus: 55,6 pkt. Poprzednio: 55,9 pkt.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442725",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:47",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeks PMI w przemyśle USA w listopadzie: 54,5 pkt. Konsensus: 54,5 pkt. Poprzednio: 54,9 pkt.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442724",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:05",
     "kind": "espi",
@@ -736,12 +783,12 @@
   ],
   "swiat_rynki": [
    {
-    "time": "15:35",
-    "kind": "pap",
+    "time": "15:27",
+    "kind": "news",
     "ticker": null,
     "title": "Po otwarciu sesji DJI rośnie 2,8 proc., a S&P500 zyskuje 4,8 proc.",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442718",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261123/po-otwarciu-sesji-dji-rosnie-28-proc-sp500-zyskuje-48-proc",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -876,6 +923,15 @@
   "nieruchomosci": [],
   "fundusze_drobne": [
    {
+    "time": "15:41",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GENERALI OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442722",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "13:30",
     "kind": "pap",
     "ticker": null,
@@ -938,6 +994,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "15:43",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Firma MTU zainwestuje 300 mln zł w zakład w Tajęcinie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442723",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:34",
     "kind": "espi",
