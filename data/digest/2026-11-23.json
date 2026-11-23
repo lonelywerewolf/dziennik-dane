@@ -5,17 +5,17 @@
   "wyniki": 1,
   "rekomendacje": 6,
   "korporacyjne": 5,
-  "makro_pl": 20,
+  "makro_pl": 22,
   "swiat_rynki": 4,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 4,
   "obserwowane": 0,
-  "pozostale": 16
+  "pozostale": 18
  },
  "duplicatesRemoved": 38,
- "total": 106,
+ "total": 110,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -246,6 +246,24 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "10:50",
+    "kind": "espi",
+    "ticker": null,
+    "title": "POLSKA GRUPA HUTNICZA S.A.: Zawarcie memorandum ze spółkami grupy kapitałowej Niewiadów Polska Grupa Militarna S.A. dotyczącego współpracy przy produkcji komponentów do amunicji i uzbrojenia",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271079",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:41",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MC: Media społecznościowe od 15. roku życia. Projekt ustawy skierowany do konsultacji (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442641",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:36",
     "kind": "pap",
@@ -522,6 +540,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "10:46",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Sektor obronny może być impulsem do modernizacji całego polskiego przemysłu – minister finansów",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442643",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:46",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźniki referencyjne - SONIA",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442642",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:19",
     "kind": "pap",
