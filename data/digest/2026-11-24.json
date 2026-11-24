@@ -2,7 +2,7 @@
  "date": "2026-11-24",
  "counts": {
   "podsumowania": 16,
-  "wyniki": 13,
+  "wyniki": 14,
   "rekomendacje": 2,
   "korporacyjne": 48,
   "makro_pl": 18,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 10,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 59
+  "pozostale": 60
  },
- "duplicatesRemoved": 106,
- "total": 293,
+ "duplicatesRemoved": 108,
+ "total": 297,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -169,6 +169,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "17:52",
+    "kind": "news",
+    "ticker": null,
+    "title": "BoomBit miał w III kw. 2026 roku 7,3 mln zł skor. EBITDA, wzrost o 15 proc. rdr",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/boombit-mial-w-iii-kw-2026-roku-73-mln-zl-skor-ebitda-wzrost-o-15-proc-rdr",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:49",
     "kind": "news",
@@ -1290,6 +1299,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "18:10",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Zamknięcia na giełdach w Europie (tabela)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443029",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:36",
     "kind": "news",

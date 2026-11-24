@@ -1,7 +1,54 @@
 {
  "date": "2026-11-24",
- "count": 293,
+ "count": 297,
  "items": [
+  {
+   "id": "bossa-pap-443029",
+   "date": "2026-11-24",
+   "time": "18:10",
+   "ts": "2026-11-24T18:10:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zamknięcia na giełdach w Europie (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443029"
+  },
+  {
+   "id": "bossa-pap-443028",
+   "date": "2026-11-24",
+   "time": "18:09",
+   "ts": "2026-11-24T18:09:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PGE miała zysk netto j.d. w III kw. '26 w wysokości 3 mld zł, zgodnie z szacunkami (opis)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443028"
+  },
+  {
+   "id": "bossa-pap-443027",
+   "date": "2026-11-24",
+   "time": "17:59",
+   "ts": "2026-11-24T17:59:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "BoomBit miał w III kw. 2026 roku 7,3 mln zł skor. EBITDA, wzrost o 15 proc. rdr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443027"
+  },
+  {
+   "id": "strefa-993e41fcffe7",
+   "date": "2026-11-24",
+   "time": "17:52",
+   "ts": "2026-11-24T17:52:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "BoomBit miał w III kw. 2026 roku 7,3 mln zł skor. EBITDA, wzrost o 15 proc. rdr",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/boombit-mial-w-iii-kw-2026-roku-73-mln-zl-skor-ebitda-wzrost-o-15-proc-rdr"
+  },
   {
    "id": "bossa-pap-443026",
    "date": "2026-11-24",
