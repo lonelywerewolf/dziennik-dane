@@ -1,7 +1,79 @@
 {
  "date": "2026-11-24",
- "count": 143,
+ "count": 150,
  "items": [
+  {
+   "id": "bossa-espi-271197",
+   "date": "2026-11-24",
+   "time": "13:55",
+   "ts": "2026-11-24T13:55:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF GOLD PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271197"
+  },
+  {
+   "id": "bossa-espi-271196",
+   "date": "2026-11-24",
+   "time": "13:53",
+   "ts": "2026-11-24T13:53:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF OBLIGACJI SKARBOWYCH ZMIENNOKUPONOWYCH PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271196"
+  },
+  {
+   "id": "bossa-pap-442916",
+   "date": "2026-11-24",
+   "time": "13:52",
+   "ts": "2026-11-24T13:52:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Polska chce jeszcze w tym roku wprowadzić temat ETS2 na unijną radę ministrów ds. środowiska – Bolesta",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442916"
+  },
+  {
+   "id": "bossa-espi-271195",
+   "date": "2026-11-24",
+   "time": "13:50",
+   "ts": "2026-11-24T13:50:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF OBLIGACJI SKARBOWYCH DŁUGOTERMINOWYCH PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271195"
+  },
+  {
+   "id": "bossa-espi-271194",
+   "date": "2026-11-24",
+   "time": "13:50",
+   "ts": "2026-11-24T13:50:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PGE POLSKA GRUPA ENERGETYCZNA S.A.",
+   "title": "Informacja o transakcjach w trybie art. 19 Rozporządzenia MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271194"
+  },
+  {
+   "id": "bossa-pap-442913",
+   "date": "2026-11-24",
+   "time": "13:46",
+   "ts": "2026-11-24T13:46:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Trigon DM podniósł cenę docelową akcji Toya do 17,5 zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442913"
+  },
   {
    "id": "bossa-pap-442912",
    "date": "2026-11-24",
@@ -37,6 +109,17 @@
    "title": "BANK SPÓŁDZIELCZY RZEMIOSŁA/Bank Spółdzielczy Rzemiosła w Krakowie (8/2026) Powołanie osoby zarządzającej lub nadzorującej",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-442910"
+  },
+  {
+   "id": "strefa-9413f751a4a9",
+   "date": "2026-11-24",
+   "time": "13:37",
+   "ts": "2026-11-24T13:37:30+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Trigon DM podniósł cenę docelową akcji Toya do 17,5 zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/trigon-dm-podniosl-cene-docelowa-akcji-toya-do-175-zl"
   },
   {
    "id": "bossa-pap-442909",
