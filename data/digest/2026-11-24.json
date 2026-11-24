@@ -1,7 +1,7 @@
 {
  "date": "2026-11-24",
  "counts": {
-  "podsumowania": 5,
+  "podsumowania": 6,
   "wyniki": 2,
   "rekomendacje": 1,
   "korporacyjne": 2,
@@ -14,11 +14,20 @@
   "obserwowane": 0,
   "pozostale": 15
  },
- "duplicatesRemoved": 16,
- "total": 47,
+ "duplicatesRemoved": 17,
+ "total": 49,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "08:31",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: Wtorkowa sesja może rozpocząć się od wzrostów",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/dzien-na-gpw-wtorkowa-sesja-moze-rozpoczac-sie-od-wzrostow",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:09",
     "kind": "news",
