@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 6
+  "pozostale": 7
  },
- "duplicatesRemoved": 9,
- "total": 23,
+ "duplicatesRemoved": 10,
+ "total": 25,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -111,6 +111,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Noble Securities obniżył wycenę akcji Aplisens do 19,7 zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/noble-securities-obnizyl-wycene-akcji-aplisens-do-197-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "06:45",
     "kind": "news",
