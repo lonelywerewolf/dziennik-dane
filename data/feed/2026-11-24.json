@@ -1,7 +1,90 @@
 {
  "date": "2026-11-24",
- "count": 201,
+ "count": 209,
  "items": [
+  {
+   "id": "bossa-espi-9794",
+   "date": "2026-11-24",
+   "time": "15:56",
+   "ts": "2026-11-24T15:56:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "SYNTHAVERSE SA",
+   "title": "Zawarcie umów objęcia akcji serii Y oraz pełne opłacenie emisji",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-9794"
+  },
+  {
+   "id": "bossa-espi-271221",
+   "date": "2026-11-24",
+   "time": "15:56",
+   "ts": "2026-11-24T15:56:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "WITTCHEN S.A.",
+   "title": "Zwołanie Nadzwyczajnego Walnego Zgromadzenia Wittchen S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271221"
+  },
+  {
+   "id": "bossa-espi-271220",
+   "date": "2026-11-24",
+   "time": "15:55",
+   "ts": "2026-11-24T15:55:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ERBUD S.A.",
+   "title": "Rezygnacja dwóch członków Rady Nadzorczej ERBUD S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271220"
+  },
+  {
+   "id": "bossa-pap-442962",
+   "date": "2026-11-24",
+   "time": "15:54",
+   "ts": "2026-11-24T15:54:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Moody's potwierdził rating Millennium na poziomie \"Baa1\" i zmienił perspektywę na pozytywną",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442962"
+  },
+  {
+   "id": "bossa-espi-271219",
+   "date": "2026-11-24",
+   "time": "15:52",
+   "ts": "2026-11-24T15:52:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MILITARY GROUP S.A.",
+   "title": "Temat: Zawarcie ramowej umowy o współpracy biznesowej z kanadyjską spółką AG-NAV INC.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271219"
+  },
+  {
+   "id": "bossa-espi-271218",
+   "date": "2026-11-24",
+   "time": "15:51",
+   "ts": "2026-11-24T15:51:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "EQUES AKCJI SEKTORA PRYWATNEGO FIZ",
+   "title": "RB_FI_E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271218"
+  },
+  {
+   "id": "strefa-9fa72480eeef",
+   "date": "2026-11-24",
+   "time": "15:48",
+   "ts": "2026-11-24T15:48:07+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Moody's potwierdził rating Millennium na poziomie \"Baa1\" i zmienił perspektywę na pozytywną",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/moodys-potwierdzil-rating-millennium-na-poziomie-baa1-i-zmienil-perspektywe-na"
+  },
   {
    "id": "bossa-pap-442959",
    "date": "2026-11-24",
@@ -13,6 +96,17 @@
    "title": "MS: Ministerstwo Sprawiedliwości w dialogu z kuratorami sądowymi (komunikat)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-442959"
+  },
+  {
+   "id": "strefa-f59f3ec8d920",
+   "date": "2026-11-24",
+   "time": "15:39",
+   "ts": "2026-11-24T15:39:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Polska chce jeszcze w tym roku wprowadzić temat ETS2 na unijną radę ministrów ds. środowiska – Bolesta",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/polska-chce-jeszcze-w-tym-roku-wprowadzic-temat-ets2-na-unijna-rade-ministrow"
   },
   {
    "id": "bossa-pap-442958",

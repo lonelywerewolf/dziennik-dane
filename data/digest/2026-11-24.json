@@ -4,18 +4,18 @@
   "podsumowania": 11,
   "wyniki": 5,
   "rekomendacje": 2,
-  "korporacyjne": 31,
+  "korporacyjne": 34,
   "makro_pl": 17,
   "swiat_rynki": 8,
   "energetyka_surowce": 4,
   "nieruchomosci": 1,
-  "fundusze_drobne": 4,
+  "fundusze_drobne": 5,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 46
+  "pozostale": 48
  },
- "duplicatesRemoved": 72,
- "total": 201,
+ "duplicatesRemoved": 74,
+ "total": 209,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -193,6 +193,37 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "15:56",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SYNTHAVERSE SA: Zawarcie umów objęcia akcji serii Y oraz pełne opłacenie emisji",
+    "url": "https://bossa.pl/analizy/komunikaty#message-9794",
+    "src": "bossa",
+    "flags": [
+     "emisja"
+    ]
+   },
+   {
+    "time": "15:56",
+    "kind": "espi",
+    "ticker": null,
+    "title": "WITTCHEN S.A.: Zwołanie Nadzwyczajnego Walnego Zgromadzenia Wittchen S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271221",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:52",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MILITARY GROUP S.A.: Temat: Zawarcie ramowej umowy o współpracy biznesowej z kanadyjską spółką AG-NAV INC.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271219",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "15:33",
     "kind": "espi",
@@ -684,6 +715,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "15:39",
+    "kind": "news",
+    "ticker": null,
+    "title": "Polska chce jeszcze w tym roku wprowadzić temat ETS2 na unijną radę ministrów ds. środowiska – Bolesta",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/polska-chce-jeszcze-w-tym-roku-wprowadzic-temat-ets2-na-unijna-rade-ministrow",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "15:17",
     "kind": "news",
     "ticker": null,
@@ -698,15 +738,6 @@
     "ticker": null,
     "title": "ML SYSTEM S.A.: Wybór oferty spółki zależnej ML System S.A. jako najkorzystniejszej w postępowaniu dotyczącym budowy farmy fotowoltaicznej z magazynem energii dla PUK Komorniki",
     "url": "https://bossa.pl/analizy/komunikaty#message-271199",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "13:52",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Polska chce jeszcze w tym roku wprowadzić temat ETS2 na unijną radę ministrów ds. środowiska – Bolesta",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442916",
     "src": "bossa",
     "flags": []
    },
@@ -807,6 +838,15 @@
   ],
   "fundusze_drobne": [
    {
+    "time": "15:51",
+    "kind": "espi",
+    "ticker": null,
+    "title": "EQUES AKCJI SEKTORA PRYWATNEGO FIZ: RB_FI_E_30.04.18",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271218",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "15:34",
     "kind": "pap",
     "ticker": null,
@@ -846,6 +886,26 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "15:55",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ERBUD S.A.: Rezygnacja dwóch członków Rady Nadzorczej ERBUD S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271220",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "15:48",
+    "kind": "news",
+    "ticker": null,
+    "title": "Moody's potwierdził rating Millennium na poziomie \"Baa1\" i zmienił perspektywę na pozytywną",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/moodys-potwierdzil-rating-millennium-na-poziomie-baa1-i-zmienil-perspektywe-na",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "15:37",
     "kind": "pap",
