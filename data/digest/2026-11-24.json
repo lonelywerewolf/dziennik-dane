@@ -12,10 +12,10 @@
   "fundusze_drobne": 10,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 58
+  "pozostale": 59
  },
- "duplicatesRemoved": 103,
- "total": 287,
+ "duplicatesRemoved": 104,
+ "total": 289,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1270,6 +1270,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:36",
+    "kind": "news",
+    "ticker": null,
+    "title": "CD Projekt RED miał w III kw. 108,5 mln zł zysku netto, wobec 102,4 mln zł konsensusu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/cd-projekt-red-mial-w-iii-kw-1085-mln-zl-zysku-netto-wobec-1024-mln-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:36",
     "kind": "pap",
