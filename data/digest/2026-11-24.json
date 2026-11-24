@@ -1,7 +1,7 @@
 {
  "date": "2026-11-24",
  "counts": {
-  "podsumowania": 6,
+  "podsumowania": 8,
   "wyniki": 2,
   "rekomendacje": 1,
   "korporacyjne": 4,
@@ -14,11 +14,31 @@
   "obserwowane": 0,
   "pozostale": 17
  },
- "duplicatesRemoved": 20,
- "total": 57,
+ "duplicatesRemoved": 21,
+ "total": 60,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "09:16",
+    "kind": "pap",
+    "ticker": null,
+    "title": "WIG20 na otwarciu wyniósł 4167,64 pkt (-0,08%)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442848",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "09:07",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA FX/FI: Przestrzeń do kontynuacji korekty spadkowej EUR/PLN wyczerpuje się",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/dzien-na-fxfi-przestrzen-do-kontynuacji-korekty-spadkowej-eurpln-wyczerpuje-sie",
+    "src": "strefainwestorow",
+    "flags": [
+     "prognoza"
+    ]
+   },
    {
     "time": "08:31",
     "kind": "news",

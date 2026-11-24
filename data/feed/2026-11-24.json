@@ -1,7 +1,31 @@
 {
  "date": "2026-11-24",
- "count": 57,
+ "count": 60,
  "items": [
+  {
+   "id": "bossa-pap-442849",
+   "date": "2026-11-24",
+   "time": "09:17",
+   "ts": "2026-11-24T09:17:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA FX/FI: Przestrzeń do kontynuacji korekty spadkowej EUR/PLN wyczerpuje się",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442849"
+  },
+  {
+   "id": "bossa-pap-442848",
+   "date": "2026-11-24",
+   "time": "09:16",
+   "ts": "2026-11-24T09:16:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "WIG20 na otwarciu wyniósł 4167,64 pkt (-0,08%)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442848"
+  },
   {
    "id": "bossa-espi-271167",
    "date": "2026-11-24",
@@ -25,6 +49,17 @@
    "title": "Liczba pracujących mierzona ubezpieczeniem emerytalnym w III kw. spadła do 16,248 mln - ZUS",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-442846"
+  },
+  {
+   "id": "strefa-613e25f2e2e5",
+   "date": "2026-11-24",
+   "time": "09:07",
+   "ts": "2026-11-24T09:07:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA FX/FI: Przestrzeń do kontynuacji korekty spadkowej EUR/PLN wyczerpuje się",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/dzien-na-fxfi-przestrzen-do-kontynuacji-korekty-spadkowej-eurpln-wyczerpuje-sie"
   },
   {
    "id": "strefa-c07e172953d9",
