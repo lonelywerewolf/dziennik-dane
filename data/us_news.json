@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "475dbace758e",
+   "ticker": "MRVL",
+   "time": "2026-11-24T19:02+01:00",
+   "title": "Weakness in Tech Stocks Weighs on the Broader Market",
+   "url": "https://www.nasdaq.com/articles/weakness-tech-stocks-weighs-broader-market",
+   "src": "nasdaq",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is down by -1.05% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.05%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -2.56%.  December E-mini S&P futures (ESZ26 ) are down -1.10%, and December E-mini Nasdaq..."
+  },
+  {
    "id": "8ca5972d6c39",
    "ticker": "NVDA",
    "time": "2026-11-24T17:53+01:00",
@@ -17641,5 +17650,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-24T18:54:48+01:00"
+ "updatedAt": "2026-11-24T19:05:49+01:00"
 }
