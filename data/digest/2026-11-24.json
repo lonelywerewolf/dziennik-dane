@@ -4,18 +4,18 @@
   "podsumowania": 11,
   "wyniki": 5,
   "rekomendacje": 2,
-  "korporacyjne": 35,
+  "korporacyjne": 37,
   "makro_pl": 17,
-  "swiat_rynki": 10,
+  "swiat_rynki": 11,
   "energetyka_surowce": 4,
   "nieruchomosci": 1,
-  "fundusze_drobne": 6,
+  "fundusze_drobne": 7,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 50
+  "pozostale": 52
  },
- "duplicatesRemoved": 77,
- "total": 218,
+ "duplicatesRemoved": 80,
+ "total": 227,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -193,6 +193,24 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "16:18",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ALIOR BANK S.A.: Treść uchwał podjętych przez Nadzwyczajne Walne Zgromadzenie Alior Banku S.A. zwołane na dzień 24 listopada 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271228",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:09",
+    "kind": "news",
+    "ticker": null,
+    "title": "NWZ Wittchen zdecyduje ws. buybacku",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/nwz-wittchen-zdecyduje-ws-buybacku",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "16:02",
     "kind": "espi",
@@ -727,6 +745,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "16:14",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźnik Richmond Fed w XI: 3 pkt. Konsensus: -2 pkt.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442975",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "16:07",
     "kind": "news",
     "ticker": null,
@@ -868,6 +895,15 @@
   ],
   "fundusze_drobne": [
    {
+    "time": "16:12",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Nationale-Nederlanden OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442974",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "16:03",
     "kind": "pap",
     "ticker": null,
@@ -925,6 +961,24 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "16:15",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ALIOR BANK S.A.: Zmiany w składzie Rady Nadzorczej Alior Bank S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271226",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:11",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SOHO DEVELOPMENT: Sprzedaż udziałów spółki Bobrowiecka Tower sp. z o.o.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271225",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:02",
     "kind": "espi",
