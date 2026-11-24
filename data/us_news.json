@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "id": "1ee421325921",
+   "ticker": "NVDA",
+   "time": "2026-11-24T01:09+01:00",
+   "title": "Bernstein Upgrades NVIDIA to Outperform from Market Perform",
+   "url": "https://www.nasdaq.com/articles/bernstein-upgrades-nvidia-outperform-market-perform",
+   "src": "nasdaq",
+   "summary": "Fintel reports that on November 23, 2026, Bernstein upgraded their outlook for NVIDIA (NASDAQGS:NVDA) (SWX:NVDA) from Market Perform to Outperform."
+  },
+  {
+   "id": "fe4435119de8",
+   "ticker": "NVDA",
+   "time": "2026-11-24T01:00+01:00",
+   "title": "Nvidia's Stock Surges More Than 30% on Jensen Huang's Return. Will It Get Back to $200?",
+   "url": "https://www.nasdaq.com/articles/nvidias-stock-surges-more-30-jensen-huangs-return-will-it-get-back-200",
+   "src": "nasdaq",
+   "summary": "Key PointsU.S. President Donald Trump played a key role in getting Nvidia's board to bring Jensen Huang back, saying that \"I made the deal.\""
+  },
+  {
    "id": "cea2212b22e2",
    "ticker": "MRVL",
    "time": "2026-11-24T00:22+01:00",
@@ -44,6 +62,15 @@
    "url": "https://www.nasdaq.com/articles/stock-market-today-nov-23-nvidia-surges-31-adding-nearly-1-trillion-market-value-jensen",
    "src": "nasdaq",
    "summary": "Nvidia (NASDAQ:NVDA) staged a historic comeback on Monday, November 23, surging 31.48% to close at $165.05 following the board's decision to reinstate Jensen Huang as CEO and president. The announcement helped restore confidence in the semiconductor giant's leadership, adding nea"
+  },
+  {
+   "id": "0aeca6035604",
+   "ticker": "NVDA",
+   "time": "2026-11-23T22:56+01:00",
+   "title": "From Resignation to Reinstatement: Huang's Market Impact",
+   "url": "https://www.nasdaq.com/articles/resignation-reinstatement-huangs-market-impact",
+   "src": "nasdaq",
+   "summary": "Jensen Huang's sudden exit and swift reinstatement underscore how closely the global AI trade, infrastructure supply chains, and major equity benchmarks are tied to his leadership at Nvidia."
   },
   {
    "id": "eebc76585bc1",
@@ -17200,5 +17227,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-24T00:53:56+01:00"
+ "updatedAt": "2026-11-24T01:43:55+01:00"
 }
