@@ -1,7 +1,67 @@
 {
  "date": "2026-11-24",
- "count": 183,
+ "count": 189,
  "items": [
+  {
+   "id": "bossa-pap-442949",
+   "date": "2026-11-24",
+   "time": "15:12",
+   "ts": "2026-11-24T15:12:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KPRM: Komunikat po posiedzeniu Rady Ministrów (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442949"
+  },
+  {
+   "id": "bossa-espi-271214",
+   "date": "2026-11-24",
+   "time": "15:12",
+   "ts": "2026-11-24T15:12:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ZUK",
+   "title": "Przyjęcie do realizacji kolejnych znaczących zamówień.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271214"
+  },
+  {
+   "id": "bossa-pap-442947",
+   "date": "2026-11-24",
+   "time": "15:07",
+   "ts": "2026-11-24T15:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MRiRW: Dopłaty do ubezpieczeń rolniczych w 2027 roku – rząd przyjął rozporządzenie (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442947"
+  },
+  {
+   "id": "bossa-pap-442946",
+   "date": "2026-11-24",
+   "time": "15:06",
+   "ts": "2026-11-24T15:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "VIENNA OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442946"
+  },
+  {
+   "id": "bossa-pap-442945",
+   "date": "2026-11-24",
+   "time": "15:05",
+   "ts": "2026-11-24T15:05:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Kurs KGHM spada o 7,3 proc., do 239 zł; WIG20 zniżkuje o 2,5 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442945"
+  },
   {
    "id": "bossa-espi-271213",
    "date": "2026-11-24",
@@ -13,6 +73,17 @@
    "title": "Informacja o transakcji wykonanej przez osobę pełniącą obowiązki zarządcze",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271213"
+  },
+  {
+   "id": "strefa-0c041ec2581c",
+   "date": "2026-11-24",
+   "time": "15:01",
+   "ts": "2026-11-24T15:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Kurs KGHM spada o 7,3 proc., do 239 zł; WIG20 zniżkuje o 2,5 proc.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/kurs-kghm-spada-o-73-proc-do-239-zl-wig20-znizkuje-o-25-proc"
   },
   {
    "id": "bossa-pap-442943",

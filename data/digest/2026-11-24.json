@@ -5,17 +5,17 @@
   "wyniki": 4,
   "rekomendacje": 2,
   "korporacyjne": 29,
-  "makro_pl": 15,
+  "makro_pl": 16,
   "swiat_rynki": 7,
-  "energetyka_surowce": 3,
+  "energetyka_surowce": 4,
   "nieruchomosci": 1,
   "fundusze_drobne": 2,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 42
+  "pozostale": 44
  },
- "duplicatesRemoved": 67,
- "total": 183,
+ "duplicatesRemoved": 69,
+ "total": 189,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -498,6 +498,15 @@
   ],
   "makro_pl": [
    {
+    "time": "15:07",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MRiRW: Dopłaty do ubezpieczeń rolniczych w 2027 roku – rząd przyjął rozporządzenie (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442947",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "14:32",
     "kind": "pap",
     "ticker": null,
@@ -700,6 +709,15 @@
   ],
   "energetyka_surowce": [
    {
+    "time": "15:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kurs KGHM spada o 7,3 proc., do 239 zł; WIG20 zniżkuje o 2,5 proc.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/kurs-kghm-spada-o-73-proc-do-239-zl-wig20-znizkuje-o-25-proc",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "13:04",
     "kind": "news",
     "ticker": null,
@@ -761,6 +779,24 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "15:12",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KPRM: Komunikat po posiedzeniu Rady Ministrów (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442949",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:12",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ZUK: Przyjęcie do realizacji kolejnych znaczących zamówień.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271214",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:58",
     "kind": "pap",
