@@ -4,7 +4,7 @@
   "podsumowania": 11,
   "wyniki": 4,
   "rekomendacje": 2,
-  "korporacyjne": 24,
+  "korporacyjne": 29,
   "makro_pl": 15,
   "swiat_rynki": 7,
   "energetyka_surowce": 3,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 2,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 41
+  "pozostale": 42
  },
- "duplicatesRemoved": 66,
- "total": 176,
+ "duplicatesRemoved": 67,
+ "total": 183,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -185,6 +185,51 @@
   ],
   "korporacyjne": [
    {
+    "time": "15:02",
+    "kind": "espi",
+    "ticker": null,
+    "title": "STARWARD INDUSTRIES S.A.: Informacja o transakcji wykonanej przez osobę pełniącą obowiązki zarządcze",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271213",
+    "src": "bossa",
+    "flags": [
+     "zarząd",
+     "insider"
+    ]
+   },
+   {
+    "time": "14:54",
+    "kind": "espi",
+    "ticker": null,
+    "title": "THE FARM 51 GROUP S.A.: Odwołanie Nadzwyczajnego Walnego Zgromadzenia The Farm 51 Group S.A. w restrukturyzacji z siedzibą w Gliwicach zwołanego na dzień 26 listopada 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271212",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "14:53",
+    "kind": "espi",
+    "ticker": null,
+    "title": "CELON PHARMA S.A.: Przydział warrantów subskrypcyjnych serii A osobie uprawnionej w ramach Programu Motywacyjnego dla Członków Zarządu Spółki za rok 2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271211",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "14:51",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Ghelamco zawarło warunkową umowę sprzedaży projektu biurowego Vibe II za 43,6 mln euro",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442939",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
     "time": "14:45",
     "kind": "espi",
     "ticker": null,
@@ -246,6 +291,15 @@
     "title": "LENTEX: Uchwały podjęte przez NWZ Spółki w dniu 24 listopada 2026 r. oraz uchwała poddana pod głosowanie, która nie została podjęta.",
     "url": "https://bossa.pl/analizy/komunikaty#message-271205",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:25",
+    "kind": "news",
+    "ticker": null,
+    "title": "BGK zaoferuje na przetargu 26 listopada 4 serie obligacji FPC za minimalnie 500 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/bgk-zaoferuje-na-przetargu-26-listopada-4-serie-obligacji-fpc-za-minimalnie-500",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -707,6 +761,17 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "14:58",
+    "kind": "pap",
+    "ticker": null,
+    "title": "THE FARM 51 GROUP SA (29/2026) Informacje o walnym zgromadzeniu - odwołanie lub nieodbycie WZ",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442942",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "14:23",
     "kind": "pap",
