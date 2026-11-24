@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "819e368cd2bc",
+   "ticker": "AVGO",
+   "time": "2026-11-24T21:19+01:00",
+   "title": "Notable Tuesday Option Activity: COIN, TEX, AVGO",
+   "url": "https://www.nasdaq.com/articles/notable-tuesday-option-activity-coin-tex-avgo",
+   "src": "nasdaq",
+   "summary": "Looking at options trading activity among components of the Russell 3000 index, there is noteworthy activity today in Coinbase Global Inc (Symbol: COIN), where a total volume of 66,678 contracts has been traded thus far today, a contract volume which is representative of approxi"
+  },
+  {
    "id": "f8b3ecc4845e",
    "ticker": "NVDA",
    "time": "2026-11-24T20:49+01:00",
@@ -17731,5 +17740,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-24T21:19:42+01:00"
+ "updatedAt": "2026-11-24T21:30:42+01:00"
 }
