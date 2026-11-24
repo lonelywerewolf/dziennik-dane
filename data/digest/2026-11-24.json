@@ -12,10 +12,10 @@
   "fundusze_drobne": 10,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 66
+  "pozostale": 67
  },
  "duplicatesRemoved": 123,
- "total": 337,
+ "total": 338,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1490,6 +1490,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "22:19",
+    "kind": "espi",
+    "ticker": null,
+    "title": "NOTORIA SERWIS S.A.: Wykaz osób posiadających co najmniej 5% głosów na ZWZ Spółki w dniu 24 listopada 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271260",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "22:09",
     "kind": "pap",
