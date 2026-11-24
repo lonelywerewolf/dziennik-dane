@@ -1,7 +1,65 @@
 {
  "date": "2026-11-24",
- "count": 159,
+ "count": 165,
  "items": [
+  {
+   "id": "bossa-pap-442928",
+   "date": "2026-11-24",
+   "time": "14:13",
+   "ts": "2026-11-24T14:13:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Futures w USA spadają, powraca sceptycyzm co do AI",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442928"
+  },
+  {
+   "id": "bossa-espi-271203",
+   "date": "2026-11-24",
+   "time": "14:12",
+   "ts": "2026-11-24T14:12:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "GHELAMCO INVEST SP. Z O.O.",
+   "title": "Zawarcie warunkowej i przedwstępnej umowy sprzedaży prawa użytkowania wieczystego nieruchomości oraz prawa własności nieruchomości położonych w Warszawie przy ul. Towarowej 9",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271203"
+  },
+  {
+   "id": "strefa-06df57974c58",
+   "date": "2026-11-24",
+   "time": "14:11",
+   "ts": "2026-11-24T14:11:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Futures w USA spadają, powraca sceptycyzm co do AI",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/dzien-na-rynkach-futures-w-usa-spadaja-powraca-sceptycyzm-co-do-ai"
+  },
+  {
+   "id": "strefa-8db98099bc51",
+   "date": "2026-11-24",
+   "time": "14:10",
+   "ts": "2026-11-24T14:10:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Październikowe dane makro wspierają scenariusz stabilnych stóp proc. – Dąbrowski, RPP",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/pazdziernikowe-dane-makro-wspieraja-scenariusz-stabilnych-stop-proc-dabrowski"
+  },
+  {
+   "id": "bossa-pap-442926",
+   "date": "2026-11-24",
+   "time": "14:09",
+   "ts": "2026-11-24T14:09:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Pengab w XI spadł do 23,5 pkt.; prognozy na kolejne miesiące ostrożniejsze",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442926"
+  },
   {
    "id": "bossa-espi-271202",
    "date": "2026-11-24",
@@ -13,6 +71,17 @@
    "title": "WANCI-E_30.04.18",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271202"
+  },
+  {
+   "id": "strefa-9db4bac2e028",
+   "date": "2026-11-24",
+   "time": "14:02",
+   "ts": "2026-11-24T14:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Pengab w XI spadł do 23,5 pkt.; prognozy na kolejne miesiące ostrożniejsze",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/pengab-w-xi-spadl-do-235-pkt-prognozy-na-kolejne-miesiace-ostrozniejsze"
   },
   {
    "id": "strefa-31962097cee8",

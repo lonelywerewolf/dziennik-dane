@@ -1,10 +1,10 @@
 {
  "date": "2026-11-24",
  "counts": {
-  "podsumowania": 10,
+  "podsumowania": 11,
   "wyniki": 4,
   "rekomendacje": 2,
-  "korporacyjne": 17,
+  "korporacyjne": 18,
   "makro_pl": 14,
   "swiat_rynki": 7,
   "energetyka_surowce": 3,
@@ -12,13 +12,22 @@
   "fundusze_drobne": 2,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 39
+  "pozostale": 40
  },
- "duplicatesRemoved": 60,
- "total": 159,
+ "duplicatesRemoved": 63,
+ "total": 165,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "14:11",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Futures w USA spadają, powraca sceptycyzm co do AI",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/dzien-na-rynkach-futures-w-usa-spadaja-powraca-sceptycyzm-co-do-ai",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "10:47",
     "kind": "news",
@@ -175,6 +184,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "14:12",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GHELAMCO INVEST SP. Z O.O.: Zawarcie warunkowej i przedwstępnej umowy sprzedaży prawa użytkowania wieczystego nieruchomości oraz prawa własności nieruchomości położonych w Warszawie przy ul. Towarowej 9",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271203",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "13:50",
     "kind": "espi",
@@ -360,6 +380,15 @@
   ],
   "makro_pl": [
    {
+    "time": "14:10",
+    "kind": "news",
+    "ticker": null,
+    "title": "Październikowe dane makro wspierają scenariusz stabilnych stóp proc. – Dąbrowski, RPP",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/pazdziernikowe-dane-makro-wspieraja-scenariusz-stabilnych-stop-proc-dabrowski",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "13:50",
     "kind": "espi",
     "ticker": null,
@@ -375,15 +404,6 @@
     "title": "Podaż pieniądza M3 w październiku wzrosła o 12,1 proc. rdr, a mdm wzrosła o 0,7 proc. - NBP",
     "url": "https://strefainwestorow.pl/wiadomosci/20261124/podaz-pieniadza-m3-w-pazdzierniku-wzrosla-o-121-proc-rdr-mdm-wzrosla-o-07-proc",
     "src": "strefainwestorow",
-    "flags": []
-   },
-   {
-    "time": "12:32",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Październikowe dane makro wspierają scenariusz stabilnych stóp proc. – Dąbrowski, RPP",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442897",
-    "src": "bossa",
     "flags": []
    },
    {
@@ -614,6 +634,17 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "14:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "Pengab w XI spadł do 23,5 pkt.; prognozy na kolejne miesiące ostrożniejsze",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/pengab-w-xi-spadl-do-235-pkt-prognozy-na-kolejne-miesiace-ostrozniejsze",
+    "src": "strefainwestorow",
+    "flags": [
+     "prognoza"
+    ]
+   },
    {
     "time": "13:44",
     "kind": "pap",
