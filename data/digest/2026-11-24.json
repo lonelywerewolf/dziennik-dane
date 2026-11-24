@@ -4,7 +4,7 @@
   "podsumowania": 10,
   "wyniki": 3,
   "rekomendacje": 1,
-  "korporacyjne": 12,
+  "korporacyjne": 13,
   "makro_pl": 11,
   "swiat_rynki": 4,
   "energetyka_surowce": 1,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 30
+  "pozostale": 32
  },
- "duplicatesRemoved": 37,
- "total": 110,
+ "duplicatesRemoved": 40,
+ "total": 116,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -157,6 +157,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "11:55",
+    "kind": "espi",
+    "ticker": null,
+    "title": "FARM INNOVATIONS S.A.: Powiadomienia o objęciu akcji serii D Spółki sporządzone zgodnie z art. 19 ust. 1 MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-4609",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
    {
     "time": "11:24",
     "kind": "pap",
@@ -450,6 +461,26 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:59",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SYNTHAVERSE SA: Rezygnacja Przewodniczącego Rady Nadzorczej Synthaverse S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271179",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "11:52",
+    "kind": "news",
+    "ticker": null,
+    "title": "Captor chce złożyć wniosek IND w CT-03 jeszcze w '26; podanie leku planuje w I kw. '27",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/captor-chce-zlozyc-wniosek-ind-w-ct-03-jeszcze-w-26-podanie-leku-planuje-w-i-kw",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "11:50",
     "kind": "espi",
