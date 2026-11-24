@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 32
+  "pozostale": 33
  },
- "duplicatesRemoved": 42,
- "total": 119,
+ "duplicatesRemoved": 43,
+ "total": 121,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -470,6 +470,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:26",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Cena maksymalna dla benzyny Pb95 w środę wyniesie 5,84 zł/l, dla ON 7,23 zł/l",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442893",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:59",
     "kind": "espi",
