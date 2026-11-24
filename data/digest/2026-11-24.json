@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 23
+  "pozostale": 25
  },
- "duplicatesRemoved": 30,
- "total": 85,
+ "duplicatesRemoved": 31,
+ "total": 88,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -218,8 +218,8 @@
     "time": "10:00",
     "kind": "news",
     "ticker": null,
-    "title": "Wartość sprzedaży detalicznej przez Internet w X wzrosła o 9,8 proc. rdr - GUS",
-    "url": "https://strefainwestorow.pl/wiadomosci/20261124/wartosc-sprzedazy-detalicznej-przez-internet-w-x-wzrosla-o-98-proc-rdr-gus",
+    "title": "Wartość sprzedaży detalicznej przez Internet w październiku wzrosła o 9,8 proc. rdr - GUS",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/wartosc-sprzedazy-detalicznej-przez-internet-w-pazdzierniku-wzrosla-o-98-proc",
     "src": "strefainwestorow",
     "flags": []
    },
@@ -342,6 +342,24 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "10:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźniki referencyjne - SONIA",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442867",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:29",
+    "kind": "espi",
+    "ticker": null,
+    "title": "EUROHOLD BULGARIA AD: Eurohold set to make debut on the Frankfurt Stock Exchange on 2 December 2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271171",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:21",
     "kind": "pap",

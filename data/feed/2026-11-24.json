@@ -1,7 +1,31 @@
 {
  "date": "2026-11-24",
- "count": 85,
+ "count": 88,
  "items": [
+  {
+   "id": "bossa-pap-442867",
+   "date": "2026-11-24",
+   "time": "10:32",
+   "ts": "2026-11-24T10:32:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne - SONIA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442867"
+  },
+  {
+   "id": "bossa-espi-271171",
+   "date": "2026-11-24",
+   "time": "10:29",
+   "ts": "2026-11-24T10:29:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "EUROHOLD BULGARIA AD",
+   "title": "Eurohold set to make debut on the Frankfurt Stock Exchange on 2 December 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271171"
+  },
   {
    "id": "bossa-pap-442865",
    "date": "2026-11-24",
@@ -49,6 +73,17 @@
    "title": "Indeks Ifo w Niemczech w XI: 90,6 pkt. Konsensus: 90,5 pkt.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-442862"
+  },
+  {
+   "id": "strefa-fcbfe900bf4f",
+   "date": "2026-11-24",
+   "time": "10:00",
+   "ts": "2026-11-24T10:00:06+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wartość sprzedaży detalicznej przez Internet w październiku wzrosła o 9,8 proc. rdr - GUS",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/wartosc-sprzedazy-detalicznej-przez-internet-w-pazdzierniku-wzrosla-o-98-proc"
   },
   {
    "id": "strefa-060524a5a3e9",
