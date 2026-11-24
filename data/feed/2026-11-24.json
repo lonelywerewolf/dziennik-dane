@@ -1,7 +1,42 @@
 {
  "date": "2026-11-24",
- "count": 16,
+ "count": 19,
  "items": [
+  {
+   "id": "bossa-pap-442826",
+   "date": "2026-11-24",
+   "time": "06:45",
+   "ts": "2026-11-24T06:45:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PKO BP stawia na embedded finance, współpraca z Allegro nowym kanałem wzrostu - prezes (wywiad)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442826"
+  },
+  {
+   "id": "bossa-pap-442825",
+   "date": "2026-11-24",
+   "time": "06:43",
+   "ts": "2026-11-24T06:43:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Na koniec IX portfel zamówień grupy Elektrotim wynosił 1.167 mln zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442825"
+  },
+  {
+   "id": "strefa-dcaf15a4f1ba",
+   "date": "2026-11-24",
+   "time": "06:36",
+   "ts": "2026-11-24T06:36:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Na koniec IX portfel zamówień grupy Elektrotim wynosił 1.167 mln zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/na-koniec-ix-portfel-zamowien-grupy-elektrotim-wynosil-1167-mln-zl"
+  },
   {
    "id": "bossa-pap-442824",
    "date": "2026-11-24",

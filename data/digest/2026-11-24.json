@@ -4,7 +4,7 @@
   "podsumowania": 4,
   "wyniki": 1,
   "rekomendacje": 0,
-  "korporacyjne": 0,
+  "korporacyjne": 1,
   "makro_pl": 1,
   "swiat_rynki": 0,
   "energetyka_surowce": 1,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 5
+  "pozostale": 6
  },
- "duplicatesRemoved": 4,
- "total": 16,
+ "duplicatesRemoved": 5,
+ "total": 19,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -70,7 +70,19 @@
    }
   ],
   "rekomendacje": [],
-  "korporacyjne": [],
+  "korporacyjne": [
+   {
+    "time": "06:45",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PKO BP stawia na embedded finance, współpraca z Allegro nowym kanałem wzrostu - prezes (wywiad)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442826",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   }
+  ],
   "makro_pl": [
    {
     "time": "06:34",
@@ -99,6 +111,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "06:36",
+    "kind": "news",
+    "ticker": null,
+    "title": "Na koniec IX portfel zamówień grupy Elektrotim wynosił 1.167 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/na-koniec-ix-portfel-zamowien-grupy-elektrotim-wynosil-1167-mln-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "06:36",
     "kind": "pap",
