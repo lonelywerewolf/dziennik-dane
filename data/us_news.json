@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "2c4831426108",
+   "ticker": "NVDA",
+   "time": "2026-11-24T15:18+01:00",
+   "title": "The S&P 500 Just Had Its Worst Week of 2026. Here's Why I'm Still Investing.",
+   "url": "https://www.nasdaq.com/articles/sp-500-just-had-its-worst-week-2026-heres-why-im-still-investing",
+   "src": "nasdaq",
+   "summary": "Key PointsThe S&amp;P 500 fell 8.57% in the week ending Nov. 20, making it the market's worst week of 2026."
+  },
+  {
    "id": "0d56e88c2118",
    "ticker": "NVDA",
    "time": "2026-11-24T14:34+01:00",
@@ -26,6 +35,33 @@
    "url": "https://www.nasdaq.com/articles/nvidia-faces-sec-probe-according-press-reports-should-you-still-buy-stock",
    "src": "nasdaq",
    "summary": "Key PointsNvidia has faced various headwinds in recent times, though earnings continue to march higher."
+  },
+  {
+   "id": "7a80d31e379e",
+   "ticker": "NVDA",
+   "time": "2026-11-24T13:25+01:00",
+   "title": "Beyond NVIDIA: 4 AI Infrastructure Stocks to Buy Post Huang's Return",
+   "url": "https://www.nasdaq.com/articles/beyond-nvidia-4-ai-infrastructure-stocks-buy-post-huangs-return",
+   "src": "nasdaq",
+   "summary": "Jensen Huang's return to NVIDIA reignites AI optimism. PWR, VRT, TER and ANET offer growth opportunities beyond GPUs as data center spending accelerates."
+  },
+  {
+   "id": "06748dcad62c",
+   "ticker": "AVGO",
+   "time": "2026-11-24T13:14+01:00",
+   "title": "MaxLinear Stock Drops 24% in a Month: Should You Buy it on the Dip?",
+   "url": "https://www.nasdaq.com/articles/maxlinear-stock-drops-24-month-should-you-buy-it-dip",
+   "src": "nasdaq",
+   "summary": "MXL's 24.3% monthly slide highlights supply constraints and rising debt, but booming AI demand and strong order visibility make the dip a buying opportunity."
+  },
+  {
+   "id": "9ea250252b26",
+   "ticker": "AVGO",
+   "time": "2026-11-24T13:03+01:00",
+   "title": "Credo's Optical Expansion: Can It Gain Ground Against Rivals?",
+   "url": "https://www.nasdaq.com/articles/credos-optical-expansion-can-it-gain-ground-against-rivals",
+   "src": "nasdaq",
+   "summary": "CRDO targets over $600 million in fiscal 2027 optical revenues as AI infrastructure demand, ZeroFlap innovations and expanding customer adoption fuel growth."
   },
   {
    "id": "02571621db5c",
@@ -17416,5 +17452,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-24T15:25:48+01:00"
+ "updatedAt": "2026-11-24T15:36:48+01:00"
 }

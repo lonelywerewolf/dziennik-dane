@@ -4,18 +4,18 @@
   "podsumowania": 11,
   "wyniki": 5,
   "rekomendacje": 2,
-  "korporacyjne": 30,
+  "korporacyjne": 31,
   "makro_pl": 16,
   "swiat_rynki": 7,
   "energetyka_surowce": 4,
   "nieruchomosci": 1,
-  "fundusze_drobne": 3,
+  "fundusze_drobne": 4,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 44
+  "pozostale": 45
  },
  "duplicatesRemoved": 70,
- "total": 193,
+ "total": 196,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -193,6 +193,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "15:33",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Red Square Games S.A.: Zawarcie umowy objęcia akcji",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271216",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "15:24",
     "kind": "espi",
@@ -778,6 +789,15 @@
   ],
   "fundusze_drobne": [
    {
+    "time": "15:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GENERALI OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442955",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "15:18",
     "kind": "pap",
     "ticker": null,
@@ -808,6 +828,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "15:26",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Startup Wonderscent pozyskał 9 mln zł; środki przeznaczy na rozwój produktu",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442953",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:12",
     "kind": "pap",
