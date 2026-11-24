@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "060300dd0cdf",
+   "ticker": "NVDA",
+   "time": "2026-11-24T04:37+01:00",
+   "title": "Nvidia Just Built Agent Security Into Its Chips. What Does That Mean for CrowdStrike?",
+   "url": "https://www.nasdaq.com/articles/nvidia-just-built-agent-security-its-chips-what-does-mean-crowdstrike",
+   "src": "nasdaq",
+   "summary": "Key PointsNvidia named CrowdStrike among the companies working with it on OpenShell, its framework for limiting what AI agents can access."
+  },
+  {
    "id": "f176f5741d61",
    "ticker": "NVDA",
    "time": "2026-11-24T03:51+01:00",
@@ -17254,5 +17263,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-24T05:09:54+01:00"
+ "updatedAt": "2026-11-24T05:20:54+01:00"
 }
