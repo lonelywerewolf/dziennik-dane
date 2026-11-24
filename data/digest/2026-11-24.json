@@ -2,20 +2,20 @@
  "date": "2026-11-24",
  "counts": {
   "podsumowania": 14,
-  "wyniki": 6,
+  "wyniki": 8,
   "rekomendacje": 2,
-  "korporacyjne": 43,
+  "korporacyjne": 44,
   "makro_pl": 18,
-  "swiat_rynki": 13,
+  "swiat_rynki": 15,
   "energetyka_surowce": 5,
   "nieruchomosci": 1,
   "fundusze_drobne": 10,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 55
+  "pozostale": 56
  },
- "duplicatesRemoved": 93,
- "total": 260,
+ "duplicatesRemoved": 97,
+ "total": 270,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -150,6 +150,28 @@
   ],
   "wyniki": [
    {
+    "time": "17:22",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wyniki GK JSW za trzeci kwartał 2026 r.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/wyniki-gk-jsw-za-trzeci-kwartal-2026-r",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "17:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wyniki CD Projekt RED w III kw. 2026 roku vs. konsensus PAP (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/wyniki-cd-projekt-red-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
     "time": "16:40",
     "kind": "espi",
     "ticker": null,
@@ -232,14 +254,14 @@
   ],
   "korporacyjne": [
    {
-    "time": "17:15",
-    "kind": "pap",
+    "time": "17:17",
+    "kind": "espi",
     "ticker": null,
-    "title": "CD Projekt RED chce wypłacić zaliczkę na poczet dywidendy w wysokości 1,20 zł na akcję",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443008",
+    "title": "Kolejkowo S.A.: Zawarcie umowy o realizację projektu w nowym obszarze działalności Emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271243",
     "src": "bossa",
     "flags": [
-     "dywidenda"
+     "umowa"
     ]
    },
    {
@@ -250,6 +272,17 @@
     "url": "https://bossa.pl/analizy/komunikaty#message-271237",
     "src": "bossa",
     "flags": []
+   },
+   {
+    "time": "17:06",
+    "kind": "news",
+    "ticker": null,
+    "title": "CD Projekt RED chce wypłacić zaliczkę na poczet dywidendy w wysokości 1,20 zł na akcję",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/cd-projekt-red-chce-wyplacic-zaliczke-na-poczet-dywidendy-w-wysokosci-120-zl-na",
+    "src": "strefainwestorow",
+    "flags": [
+     "dywidenda"
+    ]
    },
    {
     "time": "17:06",
@@ -856,6 +889,24 @@
   ],
   "swiat_rynki": [
    {
+    "time": "17:24",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GPW: w sprawie dopuszczenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów inwestycyjnych serii 69 emitowanych przez FUNDUSZ DŁUGU KORPORACYJNEGO RENTIER FUNDUSZ INWESTYCYJNY ZAMKNIĘTY",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443013",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:24",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Od 1 grudnia ograniczenia w imporcie pojazdów hybrydowych do Unii",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443012",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "16:47",
     "kind": "pap",
     "ticker": null,
@@ -1126,6 +1177,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:25",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GREEN LANES S.A.: Zakończenie subskrypcji akcji serii I",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271245",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:11",
     "kind": "espi",

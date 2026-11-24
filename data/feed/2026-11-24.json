@@ -1,7 +1,112 @@
 {
  "date": "2026-11-24",
- "count": 260,
+ "count": 270,
  "items": [
+  {
+   "id": "bossa-espi-271245",
+   "date": "2026-11-24",
+   "time": "17:25",
+   "ts": "2026-11-24T17:25:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "GREEN LANES S.A.",
+   "title": "Zakończenie subskrypcji akcji serii I",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271245"
+  },
+  {
+   "id": "bossa-pap-443013",
+   "date": "2026-11-24",
+   "time": "17:24",
+   "ts": "2026-11-24T17:24:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie dopuszczenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów inwestycyjnych serii 69 emitowanych przez FUNDUSZ DŁUGU KORPORACYJNEGO RENTIER FUNDUSZ INWESTYCYJNY ZAMKNIĘTY",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443013"
+  },
+  {
+   "id": "bossa-pap-443012",
+   "date": "2026-11-24",
+   "time": "17:24",
+   "ts": "2026-11-24T17:24:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Od 1 grudnia ograniczenia w imporcie pojazdów hybrydowych do Unii",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443012"
+  },
+  {
+   "id": "strefa-e8b626a4e109",
+   "date": "2026-11-24",
+   "time": "17:22",
+   "ts": "2026-11-24T17:22:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wyniki GK JSW za trzeci kwartał 2026 r.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/wyniki-gk-jsw-za-trzeci-kwartal-2026-r"
+  },
+  {
+   "id": "bossa-pap-443011",
+   "date": "2026-11-24",
+   "time": "17:21",
+   "ts": "2026-11-24T17:21:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wyniki CD Projekt RED w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443011"
+  },
+  {
+   "id": "strefa-ccd53a99f563",
+   "date": "2026-11-24",
+   "time": "17:20",
+   "ts": "2026-11-24T17:20:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wyniki Huuuge w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/wyniki-huuuge-w-iii-kw-2026-roku-vs-konsensus-pap-tabela"
+  },
+  {
+   "id": "strefa-44e0d71bbabc",
+   "date": "2026-11-24",
+   "time": "17:20",
+   "ts": "2026-11-24T17:20:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wyniki CD Projekt RED w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/wyniki-cd-projekt-red-w-iii-kw-2026-roku-vs-konsensus-pap-tabela"
+  },
+  {
+   "id": "bossa-espi-271244",
+   "date": "2026-11-24",
+   "time": "17:19",
+   "ts": "2026-11-24T17:19:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "CREEPY JAR S.A.",
+   "title": "SA-Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271244"
+  },
+  {
+   "id": "bossa-espi-271243",
+   "date": "2026-11-24",
+   "time": "17:17",
+   "ts": "2026-11-24T17:17:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Kolejkowo S.A.",
+   "title": "Zawarcie umowy o realizację projektu w nowym obszarze działalności Emitenta",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271243"
+  },
   {
    "id": "bossa-pap-443008",
    "date": "2026-11-24",
@@ -97,6 +202,17 @@
    "title": "Treść uchwał podjętych przez Nadzwyczajne Walne Zgromadzenie PZU SA",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271237"
+  },
+  {
+   "id": "strefa-94503f4473d0",
+   "date": "2026-11-24",
+   "time": "17:06",
+   "ts": "2026-11-24T17:06:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "CD Projekt RED chce wypłacić zaliczkę na poczet dywidendy w wysokości 1,20 zł na akcję",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/cd-projekt-red-chce-wyplacic-zaliczke-na-poczet-dywidendy-w-wysokosci-120-zl-na"
   },
   {
    "id": "bossa-espi-271236",
