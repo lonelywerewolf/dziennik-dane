@@ -1,7 +1,55 @@
 {
  "date": "2026-11-24",
- "count": 134,
+ "count": 138,
  "items": [
+  {
+   "id": "bossa-espi-271193",
+   "date": "2026-11-24",
+   "time": "13:21",
+   "ts": "2026-11-24T13:21:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF S&P 500 PLN-HEDGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 236 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271193"
+  },
+  {
+   "id": "bossa-pap-442906",
+   "date": "2026-11-24",
+   "time": "13:16",
+   "ts": "2026-11-24T13:16:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PE zatwierdził podniesienie progu unieważniania uprawnień do emisji CO2 w tzw. rezerwie stabilizacyjnej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442906"
+  },
+  {
+   "id": "bossa-espi-271192",
+   "date": "2026-11-24",
+   "time": "13:16",
+   "ts": "2026-11-24T13:16:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "FASING",
+   "title": "Rejestracja zmian w Statucie Spółki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271192"
+  },
+  {
+   "id": "bossa-espi-271191",
+   "date": "2026-11-24",
+   "time": "13:13",
+   "ts": "2026-11-24T13:13:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF MWIG40TRsh PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 225 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271191"
+  },
   {
    "id": "bossa-pap-442904",
    "date": "2026-11-24",

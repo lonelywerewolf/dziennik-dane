@@ -4,7 +4,7 @@
   "podsumowania": 10,
   "wyniki": 3,
   "rekomendacje": 1,
-  "korporacyjne": 14,
+  "korporacyjne": 15,
   "makro_pl": 12,
   "swiat_rynki": 5,
   "energetyka_surowce": 2,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 1,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 36
+  "pozostale": 37
  },
- "duplicatesRemoved": 49,
- "total": 134,
+ "duplicatesRemoved": 51,
+ "total": 138,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -157,6 +157,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "13:16",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PE zatwierdził podniesienie progu unieważniania uprawnień do emisji CO2 w tzw. rezerwie stabilizacyjnej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442906",
+    "src": "bossa",
+    "flags": [
+     "emisja"
+    ]
+   },
    {
     "time": "11:58",
     "kind": "news",
@@ -509,6 +520,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "13:16",
+    "kind": "espi",
+    "ticker": null,
+    "title": "FASING: Rejestracja zmian w Statucie Spółki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271192",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:58",
     "kind": "pap",
