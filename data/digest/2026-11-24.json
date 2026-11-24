@@ -1,10 +1,10 @@
 {
  "date": "2026-11-24",
  "counts": {
-  "podsumowania": 14,
-  "wyniki": 8,
+  "podsumowania": 16,
+  "wyniki": 12,
   "rekomendacje": 2,
-  "korporacyjne": 44,
+  "korporacyjne": 47,
   "makro_pl": 18,
   "swiat_rynki": 15,
   "energetyka_surowce": 5,
@@ -12,13 +12,33 @@
   "fundusze_drobne": 10,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 56
+  "pozostale": 58
  },
- "duplicatesRemoved": 97,
- "total": 270,
+ "duplicatesRemoved": 103,
+ "total": 287,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "17:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Notowania ciągłe - podsumowanie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443021",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "17:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "WIG20 na zamknięciu wyniósł 4056,67 pkt (-2,74%)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443019",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:55",
     "kind": "skrot",
@@ -150,6 +170,46 @@
   ],
   "wyniki": [
    {
+    "time": "17:35",
+    "kind": "news",
+    "ticker": null,
+    "title": "Digitree Group utrzymuje dwucyfrową dynamikę wzrostu przychodów po trzech kwartałach 2026 r.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/digitree-group-utrzymuje-dwucyfrowa-dynamike-wzrostu-przychodow-po-trzech",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "17:34",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa BoomBit – wyniki Q3 2026",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/grupa-boombit-wyniki-q3-2026",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "17:34",
+    "kind": "news",
+    "ticker": null,
+    "title": "Huuuge miał w III kw. 22,1 mln USD skoryg. EBITDA wobec 21,8 mln USD konsensusu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/huuuge-mial-w-iii-kw-221-mln-usd-skoryg-ebitda-wobec-218-mln-usd-konsensusu",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "17:26",
+    "kind": "news",
+    "ticker": null,
+    "title": "Huuuge, Inc. ogłasza wyniki finansowe za 9 miesięcy i III kwartał 2026 roku oraz zakończenie skupu akcji własnych o wartości 120 mln USD",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/huuuge-inc-oglasza-wyniki-finansowe-za-9-miesiecy-i-iii-kwartal-2026-roku-oraz",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
     "time": "17:22",
     "kind": "news",
     "ticker": null,
@@ -253,6 +313,39 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "17:36",
+    "kind": "news",
+    "ticker": null,
+    "title": "Green Lanes pozyska 3,1 mln zł z emisji akcji serii I. Środki wesprą rozwój sprzedaży i zwiększanie skali produkcji Strumber®",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/green-lanes-pozyska-31-mln-zl-z-emisji-akcji-serii-i-srodki-wespra-rozwoj",
+    "src": "strefainwestorow",
+    "flags": [
+     "emisja"
+    ]
+   },
+   {
+    "time": "17:32",
+    "kind": "news",
+    "ticker": null,
+    "title": "CD PROJEKT RED podsumowuje trzeci kwartał 2026 roku",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/cd-projekt-red-podsumowuje-trzeci-kwartal-2026-roku",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "17:30",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GREEN LANES S.A.: Informacja o transakcji uzyskana w trybie art. 19 MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271247",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
    {
     "time": "17:17",
     "kind": "espi",
@@ -889,12 +982,12 @@
   ],
   "swiat_rynki": [
    {
-    "time": "17:24",
-    "kind": "pap",
+    "time": "17:33",
+    "kind": "news",
     "ticker": null,
     "title": "GPW: w sprawie dopuszczenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów inwestycyjnych serii 69 emitowanych przez FUNDUSZ DŁUGU KORPORACYJNEGO RENTIER FUNDUSZ INWESTYCYJNY ZAMKNIĘTY",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443013",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/gpw-w-sprawie-dopuszczenia-do-obrotu-gieldowego-na-glownym-rynku-gpw",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -1177,6 +1270,24 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:36",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GPW Benchmark: komunikat - GENOMED",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443023",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Stawka Polonia wzrosła we wtorek do 3,63 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443022",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:25",
     "kind": "espi",
