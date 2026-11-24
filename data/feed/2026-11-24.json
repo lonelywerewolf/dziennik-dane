@@ -1,7 +1,54 @@
 {
  "date": "2026-11-24",
- "count": 305,
+ "count": 309,
  "items": [
+  {
+   "id": "bossa-pap-443037",
+   "date": "2026-11-24",
+   "time": "18:41",
+   "ts": "2026-11-24T18:41:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "JSW miała w III kw. 286 mln zł straty netto; widzi pierwsze efekty programu naprawczego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443037"
+  },
+  {
+   "id": "bossa-espi-271250",
+   "date": "2026-11-24",
+   "time": "18:40",
+   "ts": "2026-11-24T18:40:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "VOTUM S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271250"
+  },
+  {
+   "id": "bossa-pap-443035",
+   "date": "2026-11-24",
+   "time": "18:32",
+   "ts": "2026-11-24T18:32:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Berlin uzależnia zgodę na nowy budżet UE od ulgi składkowej dla Niemiec",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443035"
+  },
+  {
+   "id": "strefa-f5997eca4d90",
+   "date": "2026-11-24",
+   "time": "18:27",
+   "ts": "2026-11-24T18:27:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "JSW miała w III kw. 286 mln zł straty netto; widzi pierwsze efekty programu naprawczego",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/jsw-miala-w-iii-kw-286-mln-zl-straty-netto-widzi-pierwsze-efekty-programu"
+  },
   {
    "id": "bossa-pap-443033",
    "date": "2026-11-24",

@@ -2,10 +2,10 @@
  "date": "2026-11-24",
  "counts": {
   "podsumowania": 17,
-  "wyniki": 14,
+  "wyniki": 15,
   "rekomendacje": 3,
   "korporacyjne": 51,
-  "makro_pl": 18,
+  "makro_pl": 19,
   "swiat_rynki": 15,
   "energetyka_surowce": 5,
   "nieruchomosci": 1,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 60
  },
- "duplicatesRemoved": 111,
- "total": 305,
+ "duplicatesRemoved": 113,
+ "total": 309,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -178,6 +178,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "18:27",
+    "kind": "news",
+    "ticker": null,
+    "title": "JSW miała w III kw. 286 mln zł straty netto; widzi pierwsze efekty programu naprawczego",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/jsw-miala-w-iii-kw-286-mln-zl-straty-netto-widzi-pierwsze-efekty-programu",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:52",
     "kind": "news",
@@ -895,6 +904,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "18:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Berlin uzależnia zgodę na nowy budżet UE od ulgi składkowej dla Niemiec",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443035",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:30",
     "kind": "pap",
