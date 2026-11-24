@@ -2,11 +2,11 @@
  "date": "2026-11-24",
  "counts": {
   "podsumowania": 10,
-  "wyniki": 3,
+  "wyniki": 4,
   "rekomendacje": 2,
   "korporacyjne": 17,
-  "makro_pl": 13,
-  "swiat_rynki": 6,
+  "makro_pl": 14,
+  "swiat_rynki": 7,
   "energetyka_surowce": 3,
   "nieruchomosci": 1,
   "fundusze_drobne": 2,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 39
  },
- "duplicatesRemoved": 54,
- "total": 150,
+ "duplicatesRemoved": 60,
+ "total": 159,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -113,6 +113,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "14:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Unibep w '27 może odnotować dwucyfrowy wzrost przychodów w segmencie budownictwa ogólnego",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/unibep-w-27-moze-odnotowac-dwucyfrowy-wzrost-przychodow-w-segmencie-budownictwa",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:41",
     "kind": "news",
@@ -360,6 +369,15 @@
     "flags": []
    },
    {
+    "time": "13:47",
+    "kind": "news",
+    "ticker": null,
+    "title": "Podaż pieniądza M3 w październiku wzrosła o 12,1 proc. rdr, a mdm wzrosła o 0,7 proc. - NBP",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/podaz-pieniadza-m3-w-pazdzierniku-wzrosla-o-121-proc-rdr-mdm-wzrosla-o-07-proc",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "12:32",
     "kind": "pap",
     "ticker": null,
@@ -469,6 +487,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "13:57",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ML SYSTEM S.A.: Wybór oferty spółki zależnej ML System S.A. jako najkorzystniejszej w postępowaniu dotyczącym budowy farmy fotowoltaicznej z magazynem energii dla PUK Komorniki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271199",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:52",
     "kind": "pap",

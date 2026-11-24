@@ -1,7 +1,102 @@
 {
  "date": "2026-11-24",
- "count": 150,
+ "count": 159,
  "items": [
+  {
+   "id": "bossa-espi-271202",
+   "date": "2026-11-24",
+   "time": "14:03",
+   "ts": "2026-11-24T14:03:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF WIG20 TR + mWIG40 TR PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271202"
+  },
+  {
+   "id": "strefa-31962097cee8",
+   "date": "2026-11-24",
+   "time": "14:01",
+   "ts": "2026-11-24T14:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Unibep w '27 może odnotować dwucyfrowy wzrost przychodów w segmencie budownictwa ogólnego",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/unibep-w-27-moze-odnotowac-dwucyfrowy-wzrost-przychodow-w-segmencie-budownictwa"
+  },
+  {
+   "id": "bossa-pap-442924",
+   "date": "2026-11-24",
+   "time": "14:00",
+   "ts": "2026-11-24T14:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Unibep w '27 może odnotować dwucyfrowy wzrost przychodów w segmencie budownictwa ogólnego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442924"
+  },
+  {
+   "id": "bossa-pap-442921",
+   "date": "2026-11-24",
+   "time": "14:00",
+   "ts": "2026-11-24T14:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Podaż pieniądza M3 w październiku wzrosła o 12,1 proc. rdr, a mdm wzrosła o 0,7 proc. - NBP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442921"
+  },
+  {
+   "id": "bossa-espi-271201",
+   "date": "2026-11-24",
+   "time": "14:00",
+   "ts": "2026-11-24T14:00:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF mWIG40TR PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 237 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271201"
+  },
+  {
+   "id": "bossa-espi-271200",
+   "date": "2026-11-24",
+   "time": "14:00",
+   "ts": "2026-11-24T14:00:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF MSCI WORLD PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271200"
+  },
+  {
+   "id": "bossa-espi-271199",
+   "date": "2026-11-24",
+   "time": "13:57",
+   "ts": "2026-11-24T13:57:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ML SYSTEM S.A.",
+   "title": "Wybór oferty spółki zależnej ML System S.A. jako najkorzystniejszej w postępowaniu dotyczącym budowy farmy fotowoltaicznej z magazynem energii dla PUK Komorniki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271199"
+  },
+  {
+   "id": "bossa-espi-271198",
+   "date": "2026-11-24",
+   "time": "13:56",
+   "ts": "2026-11-24T13:56:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF WIG20lev PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 236 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271198"
+  },
   {
    "id": "bossa-espi-271197",
    "date": "2026-11-24",
@@ -61,6 +156,17 @@
    "title": "Informacja o transakcjach w trybie art. 19 Rozporządzenia MAR",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271194"
+  },
+  {
+   "id": "strefa-6b8789daaae3",
+   "date": "2026-11-24",
+   "time": "13:47",
+   "ts": "2026-11-24T13:47:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Podaż pieniądza M3 w październiku wzrosła o 12,1 proc. rdr, a mdm wzrosła o 0,7 proc. - NBP",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/podaz-pieniadza-m3-w-pazdzierniku-wzrosla-o-121-proc-rdr-mdm-wzrosla-o-07-proc"
   },
   {
    "id": "bossa-pap-442913",
