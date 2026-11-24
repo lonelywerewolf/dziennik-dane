@@ -7,15 +7,15 @@
   "korporacyjne": 14,
   "makro_pl": 12,
   "swiat_rynki": 5,
-  "energetyka_surowce": 1,
+  "energetyka_surowce": 2,
   "nieruchomosci": 1,
-  "fundusze_drobne": 0,
+  "fundusze_drobne": 1,
   "twoje_spolki": 0,
   "obserwowane": 0,
   "pozostale": 36
  },
  "duplicatesRemoved": 49,
- "total": 132,
+ "total": 134,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -466,6 +466,15 @@
   ],
   "energetyka_surowce": [
    {
+    "time": "12:29",
+    "kind": "news",
+    "ticker": null,
+    "title": "Nowe maksymalne ceny paliw na stacjach. Minister wskazał stawki dla benzyny i diesla, są dobre wiadomości",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/nowe-maksymalne-ceny-paliw-na-stacjach-minister-wskazal-stawki-dla-benzyny-i",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "06:34",
     "kind": "pap",
     "ticker": null,
@@ -486,7 +495,17 @@
     "flags": []
    }
   ],
-  "fundusze_drobne": [],
+  "fundusze_drobne": [
+   {
+    "time": "13:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PKO BP BANKOWY OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442904",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
