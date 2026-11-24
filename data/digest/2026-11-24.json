@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 22
+  "pozostale": 23
  },
- "duplicatesRemoved": 29,
- "total": 83,
+ "duplicatesRemoved": 30,
+ "total": 85,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -342,6 +342,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "10:21",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MS: Komunikat dotyczący sytuacji w Schronisku dla Nieletnich w Dominowie (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442864",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:58",
     "kind": "espi",
