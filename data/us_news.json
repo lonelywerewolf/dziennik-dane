@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "21e8b8831db1",
+   "ticker": "NVDA",
+   "time": "2026-11-24T15:56+01:00",
+   "title": "The Real Test for Nvidia Could Come After Dec. 1",
+   "url": "https://www.nasdaq.com/articles/real-test-nvidia-could-come-after-dec-1",
+   "src": "nasdaq",
+   "summary": "Key PointsJensen Huang's return as Nvidia CEO doesn't eliminate the risks associated with the stock."
+  },
+  {
    "id": "2c4831426108",
    "ticker": "NVDA",
    "time": "2026-11-24T15:18+01:00",
@@ -26,6 +35,15 @@
    "url": "https://www.nasdaq.com/articles/jensen-huang-back-nvidia-he-still-cant-compute-megawatts-and-concrete-existence",
    "src": "nasdaq",
    "summary": "Key PointsWall Street's 33% rally assumes Jensen Huang's aggressive ecosystem dealmaking will keep Nvidia's order book full, pushing the chipmaker back above a $4 trillion valuation."
+  },
+  {
+   "id": "56d743560455",
+   "ticker": "NVDA",
+   "time": "2026-11-24T13:43+01:00",
+   "title": "2 ETFs to Watch for Outsized Volume on Taiwanese & Chinese Equities",
+   "url": "https://www.nasdaq.com/articles/2-etfs-watch-outsized-volume-taiwanese-chinese-equities",
+   "src": "nasdaq",
+   "summary": "Taiwan and China ETFs recorded trading volumes more than triple their daily averages, signaling unusually strong investor interest."
   },
   {
    "id": "4a2580a22d5d",
@@ -17461,5 +17479,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-24T15:58:49+01:00"
+ "updatedAt": "2026-11-24T16:09:48+01:00"
 }
