@@ -1,11 +1,11 @@
 {
  "date": "2026-11-24",
  "counts": {
-  "podsumowania": 8,
+  "podsumowania": 9,
   "wyniki": 2,
   "rekomendacje": 1,
   "korporacyjne": 4,
-  "makro_pl": 3,
+  "makro_pl": 5,
   "swiat_rynki": 2,
   "energetyka_surowce": 1,
   "nieruchomosci": 1,
@@ -14,11 +14,20 @@
   "obserwowane": 0,
   "pozostale": 17
  },
- "duplicatesRemoved": 21,
- "total": 60,
+ "duplicatesRemoved": 23,
+ "total": 65,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "09:19",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: W Europie na giełdach indeksy się wahają",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/dzien-na-rynkach-w-europie-na-gieldach-indeksy-sie-wahaja",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:16",
     "kind": "pap",
@@ -172,6 +181,24 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "09:37",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny skupu podstawowych produktów rolnych w październiku rdr spadły o 11,9 proc. - GUS",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/ceny-skupu-podstawowych-produktow-rolnych-w-pazdzierniku-rdr-spadly-o-119-proc",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "09:28",
+    "kind": "news",
+    "ticker": null,
+    "title": "Sprzedaż detaliczna w cenach stałych w październiku wzrosła o 3,5 proc. rdr - GUS",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/sprzedaz-detaliczna-w-cenach-stalych-w-pazdzierniku-wzrosla-o-35-proc-rdr-gus",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:34",
     "kind": "espi",
