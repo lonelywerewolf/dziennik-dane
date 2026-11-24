@@ -1,7 +1,67 @@
 {
  "date": "2026-11-24",
- "count": 169,
+ "count": 174,
  "items": [
+  {
+   "id": "bossa-espi-271208",
+   "date": "2026-11-24",
+   "time": "14:38",
+   "ts": "2026-11-24T14:38:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "FUNDUSZ HIPOTECZNY DOM S.A.",
+   "title": "Podpisanie istotnej umowy wekslowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271208"
+  },
+  {
+   "id": "bossa-espi-271207",
+   "date": "2026-11-24",
+   "time": "14:37",
+   "ts": "2026-11-24T14:37:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "POLTREG S.A.",
+   "title": "Powiadomienie od Venture Fundusz Inwestycyjny Zamknięty o transakcji na akcjach Spółki otrzymane w trybie art. 19 MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271207"
+  },
+  {
+   "id": "bossa-espi-271206",
+   "date": "2026-11-24",
+   "time": "14:36",
+   "ts": "2026-11-24T14:36:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "NEWAG S.A.",
+   "title": "Otrzymanie powiadomień o transakcjach w trybie art. 19 ust. 1 Rozporządzenia MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271206"
+  },
+  {
+   "id": "bossa-pap-442933",
+   "date": "2026-11-24",
+   "time": "14:32",
+   "ts": "2026-11-24T14:32:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Koncentracja obligacji skarbowych w bankach wyzwaniem dla systemu finansowego Polski - ZBP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442933"
+  },
+  {
+   "id": "bossa-espi-271205",
+   "date": "2026-11-24",
+   "time": "14:30",
+   "ts": "2026-11-24T14:30:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "LENTEX",
+   "title": "Uchwały podjęte przez NWZ Spółki w dniu 24 listopada 2026 r. oraz uchwała poddana pod głosowanie, która nie została podjęta.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271205"
+  },
   {
    "id": "bossa-pap-442931",
    "date": "2026-11-24",

@@ -4,8 +4,8 @@
   "podsumowania": 11,
   "wyniki": 4,
   "rekomendacje": 2,
-  "korporacyjne": 18,
-  "makro_pl": 14,
+  "korporacyjne": 22,
+  "makro_pl": 15,
   "swiat_rynki": 7,
   "energetyka_surowce": 3,
   "nieruchomosci": 1,
@@ -15,7 +15,7 @@
   "pozostale": 41
  },
  "duplicatesRemoved": 66,
- "total": 169,
+ "total": 174,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -184,6 +184,48 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "14:38",
+    "kind": "espi",
+    "ticker": null,
+    "title": "FUNDUSZ HIPOTECZNY DOM S.A.: Podpisanie istotnej umowy wekslowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271208",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "14:37",
+    "kind": "espi",
+    "ticker": null,
+    "title": "POLTREG S.A.: Powiadomienie od Venture Fundusz Inwestycyjny Zamknięty o transakcji na akcjach Spółki otrzymane w trybie art. 19 MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271207",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
+    "time": "14:36",
+    "kind": "espi",
+    "ticker": null,
+    "title": "NEWAG S.A.: Otrzymanie powiadomień o transakcjach w trybie art. 19 ust. 1 Rozporządzenia MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271206",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
+    "time": "14:30",
+    "kind": "espi",
+    "ticker": null,
+    "title": "LENTEX: Uchwały podjęte przez NWZ Spółki w dniu 24 listopada 2026 r. oraz uchwała poddana pod głosowanie, która nie została podjęta.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271205",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:12",
     "kind": "espi",
@@ -379,6 +421,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "14:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Koncentracja obligacji skarbowych w bankach wyzwaniem dla systemu finansowego Polski - ZBP",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442933",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:10",
     "kind": "news",
