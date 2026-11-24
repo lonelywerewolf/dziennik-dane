@@ -1,7 +1,55 @@
 {
  "date": "2026-11-24",
- "count": 196,
+ "count": 201,
  "items": [
+  {
+   "id": "bossa-pap-442959",
+   "date": "2026-11-24",
+   "time": "15:46",
+   "ts": "2026-11-24T15:46:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MS: Ministerstwo Sprawiedliwości w dialogu z kuratorami sądowymi (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442959"
+  },
+  {
+   "id": "bossa-pap-442958",
+   "date": "2026-11-24",
+   "time": "15:37",
+   "ts": "2026-11-24T15:37:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Po otwarciu sesji DJI spada o 0,3 proc., a S&P500 traci 1,2 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442958"
+  },
+  {
+   "id": "bossa-pap-442956",
+   "date": "2026-11-24",
+   "time": "15:37",
+   "ts": "2026-11-24T15:37:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MFiPR: Od Pomorza minister Agnieszka Bartol rozpoczyna rozmowy z 16 regionami Polski (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442956"
+  },
+  {
+   "id": "bossa-espi-271217",
+   "date": "2026-11-24",
+   "time": "15:37",
+   "ts": "2026-11-24T15:37:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "FUNDUSZ DŁUGU KORPORACYJNEGO RENTIER FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271217"
+  },
   {
    "id": "bossa-pap-442955",
    "date": "2026-11-24",
@@ -61,6 +109,17 @@
    "title": "ALLIANZ POLSKA OFE wartość jednostki rozrachunkowej",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-442951"
+  },
+  {
+   "id": "strefa-8b95cc1b5c33",
+   "date": "2026-11-24",
+   "time": "15:17",
+   "ts": "2026-11-24T15:17:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Po otwarciu sesji DJI spada o 0,3 proc., a S&P500 traci 1,2 proc.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/po-otwarciu-sesji-dji-spada-o-03-proc-sp500-traci-12-proc"
   },
   {
    "id": "bossa-pap-442950",

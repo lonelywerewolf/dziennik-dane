@@ -5,17 +5,17 @@
   "wyniki": 5,
   "rekomendacje": 2,
   "korporacyjne": 31,
-  "makro_pl": 16,
-  "swiat_rynki": 7,
+  "makro_pl": 17,
+  "swiat_rynki": 8,
   "energetyka_surowce": 4,
   "nieruchomosci": 1,
   "fundusze_drobne": 4,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 45
+  "pozostale": 46
  },
- "duplicatesRemoved": 70,
- "total": 196,
+ "duplicatesRemoved": 72,
+ "total": 201,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -529,6 +529,15 @@
   ],
   "makro_pl": [
    {
+    "time": "15:46",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MS: Ministerstwo Sprawiedliwości w dialogu z kuratorami sądowymi (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442959",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "15:07",
     "kind": "pap",
     "ticker": null,
@@ -674,6 +683,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "15:17",
+    "kind": "news",
+    "ticker": null,
+    "title": "Po otwarciu sesji DJI spada o 0,3 proc., a S&P500 traci 1,2 proc.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/po-otwarciu-sesji-dji-spada-o-03-proc-sp500-traci-12-proc",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "13:57",
     "kind": "espi",
@@ -828,6 +846,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "15:37",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MFiPR: Od Pomorza minister Agnieszka Bartol rozpoczyna rozmowy z 16 regionami Polski (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442956",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:26",
     "kind": "pap",
