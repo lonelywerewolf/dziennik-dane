@@ -2,20 +2,20 @@
  "date": "2026-11-24",
  "counts": {
   "podsumowania": 4,
-  "wyniki": 1,
+  "wyniki": 2,
   "rekomendacje": 0,
   "korporacyjne": 1,
   "makro_pl": 2,
-  "swiat_rynki": 1,
+  "swiat_rynki": 2,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 11
+  "pozostale": 12
  },
- "duplicatesRemoved": 13,
- "total": 34,
+ "duplicatesRemoved": 14,
+ "total": 38,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -57,6 +57,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "07:58",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa Mercator Medical według szacunków w III kwartale zwiększa EBITDA o 313% oraz osiąga zysk netto na poziomie 28,4 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/grupa-mercator-medical-wedlug-szacunkow-w-iii-kwartale-zwieksza-ebitda-o-313",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "06:34",
     "kind": "news",
@@ -105,6 +114,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "08:03",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wypełnienie magazynów gazu w Polsce spadło do 95 proc. wg stanu na 23 listopada",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442836",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "07:58",
     "kind": "news",
     "ticker": null,
@@ -130,6 +148,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "08:00",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PRAIRIE MINING LIMITED: Publikacja nowej prezentacji korporacyjnej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271164",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "07:44",
     "kind": "news",

@@ -1,7 +1,42 @@
 {
  "date": "2026-11-24",
- "count": 34,
+ "count": 38,
  "items": [
+  {
+   "id": "bossa-pap-442836",
+   "date": "2026-11-24",
+   "time": "08:03",
+   "ts": "2026-11-24T08:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wypełnienie magazynów gazu w Polsce spadło do 95 proc. wg stanu na 23 listopada",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442836"
+  },
+  {
+   "id": "bossa-espi-271164",
+   "date": "2026-11-24",
+   "time": "08:00",
+   "ts": "2026-11-24T08:00:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PRAIRIE MINING LIMITED",
+   "title": "Publikacja nowej prezentacji korporacyjnej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271164"
+  },
+  {
+   "id": "strefa-9bfdabce0516",
+   "date": "2026-11-24",
+   "time": "07:58",
+   "ts": "2026-11-24T07:58:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grupa Mercator Medical według szacunków w III kwartale zwiększa EBITDA o 313% oraz osiąga zysk netto na poziomie 28,4 mln zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/grupa-mercator-medical-wedlug-szacunkow-w-iii-kwartale-zwieksza-ebitda-o-313"
+  },
   {
    "id": "strefa-79d348b0ac6e",
    "date": "2026-11-24",
@@ -12,6 +47,18 @@
    "title": "Najważniejsze indeksy giełdowe w Azji",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261124/najwazniejsze-indeksy-gieldowe-w-azji"
+  },
+  {
+   "id": "bossa-pap-442834",
+   "date": "2026-11-24",
+   "time": "07:57",
+   "ts": "2026-11-24T07:57:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Najważniejsze indeksy giełdowe w Azji",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442834"
   },
   {
    "id": "bossa-pap-442833",
