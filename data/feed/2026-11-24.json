@@ -1,7 +1,43 @@
 {
  "date": "2026-11-24",
- "count": 320,
+ "count": 324,
  "items": [
+  {
+   "id": "bossa-espi-271254",
+   "date": "2026-11-24",
+   "time": "19:36",
+   "ts": "2026-11-24T19:36:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BTCS S.A.",
+   "title": "Wniosek akcjonariusza o zwołanie Nadzwyczajnego Walnego Zgromadzenia",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271254"
+  },
+  {
+   "id": "bossa-pap-443048",
+   "date": "2026-11-24",
+   "time": "19:31",
+   "ts": "2026-11-24T19:31:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "RCB: Zakończył się atak powietrzny na Ukrainę; brak zagrożenia na terenie Polski (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443048"
+  },
+  {
+   "id": "bossa-espi-271253",
+   "date": "2026-11-24",
+   "time": "19:29",
+   "ts": "2026-11-24T19:29:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "TREX S.A.",
+   "title": "Zawarcie umowy kredytowej oraz kontynuacja zakupu towarów na własny stan magazynowy Spółki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271253"
+  },
   {
    "id": "bossa-pap-443046",
    "date": "2026-11-24",
@@ -25,6 +61,17 @@
    "title": "Powiadomienie o transakcji dotyczącej warrantów subskrypcyjnych Celon Pharma S.A.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271252"
+  },
+  {
+   "id": "strefa-64249866bf37",
+   "date": "2026-11-24",
+   "time": "19:20",
+   "ts": "2026-11-24T19:20:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "CD Projekt RED miał w III kw. 108,5 mln zł zysku netto, wobec 102,4 mln zł konsensusu (opis)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/cd-projekt-red-mial-w-iii-kw-1085-mln-zl-zysku-netto-wobec-1024-mln-zl-0"
   },
   {
    "id": "bossa-pap-443044",
