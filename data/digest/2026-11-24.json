@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 12
+  "pozostale": 14
  },
  "duplicatesRemoved": 14,
- "total": 38,
+ "total": 40,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -148,6 +148,24 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "08:09",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa Unibep publikuje raport za trzy kwartały 2026 roku",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/grupa-unibep-publikuje-raport-za-trzy-kwartaly-2026-roku",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "08:08",
+    "kind": "news",
+    "ticker": null,
+    "title": "Cloud Technologies z mocną, 41% dynamiką wzrostu sprzedaży danych r/r we wrześniu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/cloud-technologies-z-mocna-41-dynamika-wzrostu-sprzedazy-danych-rr-we-wrzesniu",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:00",
     "kind": "espi",
