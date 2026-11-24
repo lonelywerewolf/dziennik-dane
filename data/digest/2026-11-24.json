@@ -14,35 +14,35 @@
   "obserwowane": 0,
   "pozostale": 6
  },
- "duplicatesRemoved": 5,
- "total": 19,
+ "duplicatesRemoved": 9,
+ "total": 23,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kalendarium rynku NewConnect 2026-11-24",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/kalendarium-rynku-newconnect-2026-11-24",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kalendarium rynku kapitałowego GPW 2026-11-24",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/kalendarium-rynku-kapitalowego-gpw-2026-11-24",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "06:11",
     "kind": "pap",
     "ticker": null,
     "title": "Przegląd prasy gospodarczej we wtorek, 24 listopada",
     "url": "https://bossa.pl/analizy/komunikaty#message-442818",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "06:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Kalendarium rynku kapitałowego GPW 2026-11-24",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442817",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "06:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Kalendarium rynku NewConnect 2026-11-24",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442816",
     "src": "bossa",
     "flags": []
    },
@@ -58,12 +58,12 @@
   ],
   "wyniki": [
    {
-    "time": "06:29",
-    "kind": "pap",
+    "time": "06:34",
+    "kind": "news",
     "ticker": null,
     "title": "Wyniki Archicomu w III kw. 2026 roku vs. konsensus PAP (tabela)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442820",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/wyniki-archicomu-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+    "src": "strefainwestorow",
     "flags": [
      "wyniki"
     ]
@@ -112,6 +112,15 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "06:45",
+    "kind": "news",
+    "ticker": null,
+    "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-24",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-24",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "06:36",
     "kind": "news",
     "ticker": null,
@@ -136,15 +145,6 @@
     "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
     "url": "https://strefainwestorow.pl/wiadomosci/20261124/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela",
     "src": "strefainwestorow",
-    "flags": []
-   },
-   {
-    "time": "06:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-24",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442814",
-    "src": "bossa",
     "flags": []
    },
    {

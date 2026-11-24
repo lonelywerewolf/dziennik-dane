@@ -1,7 +1,40 @@
 {
  "date": "2026-11-24",
- "count": 19,
+ "count": 23,
  "items": [
+  {
+   "id": "strefa-640a9f7a03c2",
+   "date": "2026-11-24",
+   "time": "07:01",
+   "ts": "2026-11-24T07:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Kalendarium rynku NewConnect 2026-11-24",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/kalendarium-rynku-newconnect-2026-11-24"
+  },
+  {
+   "id": "strefa-57589e6a7195",
+   "date": "2026-11-24",
+   "time": "07:01",
+   "ts": "2026-11-24T07:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Kalendarium rynku kapitałowego GPW 2026-11-24",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/kalendarium-rynku-kapitalowego-gpw-2026-11-24"
+  },
+  {
+   "id": "strefa-228c589c9078",
+   "date": "2026-11-24",
+   "time": "06:45",
+   "ts": "2026-11-24T06:45:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-24",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-24"
+  },
   {
    "id": "bossa-pap-442826",
    "date": "2026-11-24",
@@ -71,6 +104,17 @@
    "title": "Rentowności obligacji wybranych państw (tabela)",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261124/rentownosci-obligacji-wybranych-panstw-tabela"
+  },
+  {
+   "id": "strefa-aed8b68d9c64",
+   "date": "2026-11-24",
+   "time": "06:34",
+   "ts": "2026-11-24T06:34:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wyniki Archicomu w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/wyniki-archicomu-w-iii-kw-2026-roku-vs-konsensus-pap-tabela"
   },
   {
    "id": "strefa-6f53d26ec75f",
