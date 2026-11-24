@@ -6,16 +6,16 @@
   "rekomendacje": 3,
   "korporacyjne": 51,
   "makro_pl": 19,
-  "swiat_rynki": 15,
+  "swiat_rynki": 16,
   "energetyka_surowce": 5,
   "nieruchomosci": 1,
   "fundusze_drobne": 10,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 60
+  "pozostale": 61
  },
  "duplicatesRemoved": 113,
- "total": 309,
+ "total": 311,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1078,6 +1078,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "18:48",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Aktualne wskaźniki giełdowe",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443038",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "17:33",
     "kind": "news",
     "ticker": null,
@@ -1366,6 +1375,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "18:51",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Polska i Wielka Brytania podpisały porozumienie ws. opracowania nowych pocisków przeciwlotniczych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443039",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:02",
     "kind": "news",
