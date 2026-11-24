@@ -1,24 +1,24 @@
 {
  "last": {
-  "runAt": "2026-11-24T17:04:49+01:00",
+  "runAt": "2026-11-24T17:15:48+01:00",
   "sources": {
    "bossa": {
     "pages": 2,
-    "new": 5,
+    "new": 10,
     "complete": true,
-    "newest": "2026-11-24T17:02:00+01:00",
-    "oldestSeen": "2026-11-24T14:51:00+01:00",
+    "newest": "2026-11-24T17:15:00+01:00",
+    "oldestSeen": "2026-11-24T15:12:00+01:00",
     "ok": true,
-    "sec": 6.0
+    "sec": 5.5
    },
    "strefa": {
     "pages": 2,
-    "new": 2,
+    "new": 1,
     "complete": true,
     "newest": "2026-11-24T16:55:01+01:00",
     "oldestSeen": "2026-11-24T06:34:01+01:00",
     "ok": true,
-    "sec": 3.2
+    "sec": 3.4
    },
    "articles": {
     "saved": 1,
@@ -32,14 +32,14 @@
     "oldest": "2025-11-05",
     "newest": "2026-11-24",
     "ok": true,
-    "sec": 2.8
+    "sec": 3.3
    },
    "gpw": {
     "ok": true,
     "items": 20,
-    "newest": "24-11-2026 17:02:51",
-    "oldestSeen": "24-11-2026 14:30:04",
-    "sec": 6.4
+    "newest": "24-11-2026 17:15:15",
+    "oldestSeen": "24-11-2026 15:56:23",
+    "sec": 11.8
    },
    "gpw_archive": {
     "days": 0,
@@ -47,7 +47,7 @@
     "latest": "2026-11-23",
     "stored": 276,
     "ok": true,
-    "sec": 0.0
+    "sec": 3.6
    },
    "tiingo": {
     "history": 0,
@@ -65,13 +65,13 @@
     "sec": 0.0
    },
    "us_news": {
-    "new": 2,
+    "new": 0,
     "sources": {
-     "nasdaq": 2
+     "nasdaq": 0
     },
     "errors": [],
     "ok": true,
-    "sec": 16.6
+    "sec": 18.4
    },
    "quotes": {
     "ok": true,
@@ -88,13 +88,13 @@
      "2026-11-24",
      4.4633
     ],
-    "sec": 2.0
+    "sec": 1.5
    },
    "insiders": {
     "new": 0,
     "errors": [],
     "ok": true,
-    "sec": 6.3
+    "sec": 6.4
    },
    "conditions": {
     "checked": 0,
@@ -117,10 +117,12 @@
    "pwpa": {
     "new": 0,
     "texts": 0,
-    "errors": [],
+    "errors": [
+     "20261124_dom_maklerski_banku_ochrony_środowiska_dig_pl_aw.pdf: RemoteDisconnected('Remote end closed connection without response')"
+    ],
     "ok": true,
-    "pdfPending": 0,
-    "sec": 2.7
+    "pdfPending": 1,
+    "sec": 3.5
    },
    "macro": {
     "ok": true,
@@ -140,6 +142,148 @@
   }
  },
  "runs": [
+  {
+   "runAt": "2026-11-24T17:15:48+01:00",
+   "sources": {
+    "bossa": {
+     "pages": 2,
+     "new": 10,
+     "complete": true,
+     "newest": "2026-11-24T17:15:00+01:00",
+     "oldestSeen": "2026-11-24T15:12:00+01:00",
+     "ok": true,
+     "sec": 5.5
+    },
+    "strefa": {
+     "pages": 2,
+     "new": 1,
+     "complete": true,
+     "newest": "2026-11-24T16:55:01+01:00",
+     "oldestSeen": "2026-11-24T06:34:01+01:00",
+     "ok": true,
+     "sec": 3.4
+    },
+    "articles": {
+     "saved": 1,
+     "ok": true,
+     "sec": 1.2
+    },
+    "recs": {
+     "new": 0,
+     "seen": 291,
+     "total": 304,
+     "oldest": "2025-11-05",
+     "newest": "2026-11-24",
+     "ok": true,
+     "sec": 3.3
+    },
+    "gpw": {
+     "ok": true,
+     "items": 20,
+     "newest": "24-11-2026 17:15:15",
+     "oldestSeen": "24-11-2026 15:56:23",
+     "sec": 11.8
+    },
+    "gpw_archive": {
+     "days": 0,
+     "errors": [],
+     "latest": "2026-11-23",
+     "stored": 276,
+     "ok": true,
+     "sec": 3.6
+    },
+    "tiingo": {
+     "history": 0,
+     "live": 0,
+     "errors": [
+      "api.tiingo.com wstrzymany do 2026-11-24T19:53 (odmowa 429)",
+      "iex: HostBlocked('api.tiingo.com wstrzymany do 2026-11-24T19:53 (odmowa 429)')"
+     ],
+     "ok": false,
+     "sec": 0.0
+    },
+    "nasdaq": {
+     "ok": true,
+     "skipped": "ostatnio 16:53 – co najwyżej raz na godzinę",
+     "sec": 0.0
+    },
+    "us_news": {
+     "new": 0,
+     "sources": {
+      "nasdaq": 0
+     },
+     "errors": [],
+     "ok": true,
+     "sec": 18.4
+    },
+    "quotes": {
+     "ok": true,
+     "tickers": 26,
+     "sec": 0.1
+    },
+    "nbp": {
+     "ok": true,
+     "USD": [
+      "2026-11-24",
+      4.0819
+     ],
+     "EUR": [
+      "2026-11-24",
+      4.4633
+     ],
+     "sec": 1.5
+    },
+    "insiders": {
+     "new": 0,
+     "errors": [],
+     "ok": true,
+     "sec": 6.4
+    },
+    "conditions": {
+     "checked": 0,
+     "met": 0,
+     "ok": true,
+     "sec": 0.0
+    },
+    "fundamentals": {
+     "pl": 0,
+     "us": 0,
+     "errors": [],
+     "ok": true,
+     "sec": 0.0
+    },
+    "calendar": {
+     "errors": [],
+     "ok": true,
+     "sec": 0.0
+    },
+    "pwpa": {
+     "new": 0,
+     "texts": 0,
+     "errors": [
+      "20261124_dom_maklerski_banku_ochrony_środowiska_dig_pl_aw.pdf: RemoteDisconnected('Remote end closed connection without response')"
+     ],
+     "ok": true,
+     "pdfPending": 1,
+     "sec": 3.5
+    },
+    "macro": {
+     "ok": true,
+     "skipped": true,
+     "sec": 0.0
+    },
+    "telegram": {
+     "ok": true,
+     "sent": 0,
+     "first": false,
+     "commands": [],
+     "sec": 0.4
+    }
+   },
+   "blocked": {
+    "api.tiingo.com": "2026-11-24T19:53+01:00"
+   }
+  },
   {
    "runAt": "2026-11-24T17:04:49+01:00",
    "sources": {
@@ -5552,148 +5696,6 @@
      "ok": true,
      "pdfPending": 0,
      "sec": 2.9
-    },
-    "macro": {
-     "ok": true,
-     "skipped": true,
-     "sec": 0.0
-    },
-    "telegram": {
-     "ok": true,
-     "sent": 0,
-     "first": false,
-     "commands": [],
-     "sec": 0.5
-    }
-   },
-   "blocked": {
-    "api.tiingo.com": "2026-11-24T11:42+01:00"
-   }
-  },
-  {
-   "runAt": "2026-11-24T10:05:38+01:00",
-   "sources": {
-    "bossa": {
-     "pages": 2,
-     "new": 4,
-     "complete": true,
-     "newest": "2026-11-24T10:05:00+01:00",
-     "oldestSeen": "2026-11-23T22:32:00+01:00",
-     "ok": true,
-     "sec": 4.4
-    },
-    "strefa": {
-     "pages": 2,
-     "new": 2,
-     "newest": "2026-11-24T09:56:01+01:00",
-     "oldestSeen": "2026-11-24T06:34:01+01:00",
-     "complete": false,
-     "ok": true,
-     "sec": 3.3
-    },
-    "articles": {
-     "saved": 0,
-     "ok": true,
-     "sec": 0.0
-    },
-    "recs": {
-     "new": 0,
-     "seen": 291,
-     "total": 304,
-     "oldest": "2025-11-05",
-     "newest": "2026-11-24",
-     "ok": true,
-     "sec": 3.3
-    },
-    "gpw": {
-     "ok": true,
-     "items": 20,
-     "newest": "24-11-2026 09:59:59",
-     "oldestSeen": "23-11-2026 18:00:54",
-     "sec": 5.5
-    },
-    "gpw_archive": {
-     "days": 0,
-     "errors": [],
-     "latest": "2026-11-23",
-     "stored": 276,
-     "ok": true,
-     "sec": 0.0
-    },
-    "tiingo": {
-     "history": 0,
-     "live": 0,
-     "errors": [
-      "api.tiingo.com wstrzymany do 2026-11-24T11:42 (odmowa 429)",
-      "iex: HostBlocked('api.tiingo.com wstrzymany do 2026-11-24T11:42 (odmowa 429)')"
-     ],
-     "ok": false,
-     "sec": 0.0
-    },
-    "nasdaq": {
-     "ok": true,
-     "skipped": "ostatnio 09:37 – co najwyżej raz na godzinę",
-     "sec": 0.0
-    },
-    "us_news": {
-     "new": 0,
-     "sources": {
-      "nasdaq": 0
-     },
-     "errors": [],
-     "ok": true,
-     "sec": 17.5
-    },
-    "quotes": {
-     "ok": true,
-     "tickers": 26,
-     "sec": 0.1
-    },
-    "nbp": {
-     "ok": true,
-     "USD": [
-      "2026-11-23",
-      4.0601
-     ],
-     "EUR": [
-      "2026-11-23",
-      4.4556
-     ],
-     "sec": 1.2
-    },
-    "insiders": {
-     "new": 0,
-     "errors": [],
-     "ok": true,
-     "sec": 6.5
-    },
-    "conditions": {
-     "checked": 0,
-     "met": 0,
-     "ok": true,
-     "sec": 0.0
-    },
-    "fundamentals": {
-     "pl": 0,
-     "us": 0,
-     "errors": [],
-     "ok": true,
-     "sec": 0.0
-    },
-    "calendar": {
-     "errors": [],
-     "ok": true,
-     "sec": 0.0
-    },
-    "pwpa": {
-     "new": 0,
-     "texts": 0,
-     "errors": [
-      "20261124_dom_maklerski_banku_ochrony_środowiska_dig_pl_aw.pdf: RemoteDisconnected('Remote end closed connection without response')"
-     ],
-     "ok": true,
-     "pdfPending": 1,
-     "sec": 3.3
     },
     "macro": {
      "ok": true,

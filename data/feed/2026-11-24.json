@@ -1,7 +1,127 @@
 {
  "date": "2026-11-24",
- "count": 249,
+ "count": 260,
  "items": [
+  {
+   "id": "bossa-pap-443008",
+   "date": "2026-11-24",
+   "time": "17:15",
+   "ts": "2026-11-24T17:15:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "CD Projekt RED chce wypłacić zaliczkę na poczet dywidendy w wysokości 1,20 zł na akcję",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443008"
+  },
+  {
+   "id": "bossa-espi-271242",
+   "date": "2026-11-24",
+   "time": "17:15",
+   "ts": "2026-11-24T17:15:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "DIGITREE GROUP S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271242"
+  },
+  {
+   "id": "bossa-espi-271241",
+   "date": "2026-11-24",
+   "time": "17:15",
+   "ts": "2026-11-24T17:15:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU SA",
+   "title": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu PZU SA w dniu 24 listopada 2026 roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271241"
+  },
+  {
+   "id": "bossa-pap-443004",
+   "date": "2026-11-24",
+   "time": "17:13",
+   "ts": "2026-11-24T17:13:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wyniki Huuuge w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443004"
+  },
+  {
+   "id": "bossa-espi-271240",
+   "date": "2026-11-24",
+   "time": "17:13",
+   "ts": "2026-11-24T17:13:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "JSW S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271240"
+  },
+  {
+   "id": "bossa-espi-271239",
+   "date": "2026-11-24",
+   "time": "17:12",
+   "ts": "2026-11-24T17:12:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "CD PROJEKT RED SA",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271239"
+  },
+  {
+   "id": "bossa-espi-271238",
+   "date": "2026-11-24",
+   "time": "17:11",
+   "ts": "2026-11-24T17:11:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "WOODPECKER.CO S.A.",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271238"
+  },
+  {
+   "id": "bossa-espi-271237",
+   "date": "2026-11-24",
+   "time": "17:10",
+   "ts": "2026-11-24T17:10:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU SA",
+   "title": "Treść uchwał podjętych przez Nadzwyczajne Walne Zgromadzenie PZU SA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271237"
+  },
+  {
+   "id": "bossa-espi-271236",
+   "date": "2026-11-24",
+   "time": "17:06",
+   "ts": "2026-11-24T17:06:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "CD PROJEKT RED SA",
+   "title": "Podjęcie przez Zarząd Spółki decyzji dot. zaliczki na poczet dywidendy",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271236"
+  },
+  {
+   "id": "bossa-espi-271235",
+   "date": "2026-11-24",
+   "time": "17:06",
+   "ts": "2026-11-24T17:06:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "HUUUGE, INC.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271235"
+  },
   {
    "id": "bossa-espi-271234",
    "date": "2026-11-24",
@@ -60,6 +180,17 @@
    "title": "Sprzedaż miedzi przez grupę KGHM wyniosła w październiku 59,3 tys. ton, wzrost o 2 proc. rdr",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261124/sprzedaz-miedzi-przez-grupe-kghm-wyniosla-w-pazdzierniku-593-tys-ton-wzrost-o-2"
+  },
+  {
+   "id": "strefa-9e4e898e456e",
+   "date": "2026-11-24",
+   "time": "16:55",
+   "ts": "2026-11-24T16:55:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "skrot",
+   "title": "Skrót wiadomości - wtorek, 24 listopada, 17.00",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/skrot-wiadomosci-wtorek-24-listopada-1700"
   },
   {
    "id": "bossa-pap-442994",
