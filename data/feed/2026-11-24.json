@@ -1,7 +1,43 @@
 {
  "date": "2026-11-24",
- "count": 44,
+ "count": 47,
  "items": [
+  {
+   "id": "bossa-pap-442841",
+   "date": "2026-11-24",
+   "time": "08:36",
+   "ts": "2026-11-24T08:36:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MRiRW: Większe wsparcie dla rolników w kryzysie. Polska popiera zwiększenie limitów de minimis (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442841"
+  },
+  {
+   "id": "bossa-pap-442839",
+   "date": "2026-11-24",
+   "time": "08:34",
+   "ts": "2026-11-24T08:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ceny uprawnień do emisji CO2 (EUA) wzrosły o 5 proc. mdm do 88,86 euro na koniec miesiąca",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442839"
+  },
+  {
+   "id": "bossa-espi-271165",
+   "date": "2026-11-24",
+   "time": "08:34",
+   "ts": "2026-11-24T08:34:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PragmaGo S.A.",
+   "title": "Dopuszczenie obligacji serii F1 do obrotu giełdowego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271165"
+  },
   {
    "id": "bossa-pap-442838",
    "date": "2026-11-24",

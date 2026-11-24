@@ -16,6 +16,21 @@
    "ticker": null
   },
   {
+   "date": "2026-11-24",
+   "company": "UNIMOT (UNT)",
+   "code": "UNT",
+   "name": "UNIMOT",
+   "isin": "PLUNMOT00013",
+   "rating": "Trzymaj",
+   "price": "141.6",
+   "target": "157.04",
+   "upside": "10.90395480226",
+   "priceAtPub": "141.6",
+   "house": "BM Banku Pekao",
+   "report": "https://strefainwestorow.pl/sites/default/files/attachments/55588230_14091539_55588230_20261124_0815_UNT_PL_RA.pdf",
+   "ticker": null
+  },
+  {
    "date": "2026-11-23",
    "company": "VOXEL (VOX)",
    "code": "VOX",
@@ -4546,5 +4561,5 @@
    "ticker": "XTB"
   }
  ],
- "updatedAt": "2026-11-24T08:31:18+01:00"
+ "updatedAt": "2026-11-24T08:42:19+01:00"
 }

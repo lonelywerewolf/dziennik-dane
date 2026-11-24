@@ -4,18 +4,18 @@
   "podsumowania": 5,
   "wyniki": 2,
   "rekomendacje": 1,
-  "korporacyjne": 1,
-  "makro_pl": 2,
+  "korporacyjne": 2,
+  "makro_pl": 3,
   "swiat_rynki": 2,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 14
+  "pozostale": 15
  },
  "duplicatesRemoved": 16,
- "total": 44,
+ "total": 47,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -100,6 +100,17 @@
   ],
   "korporacyjne": [
    {
+    "time": "08:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Ceny uprawnień do emisji CO2 (EUA) wzrosły o 5 proc. mdm do 88,86 euro na koniec miesiąca",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442839",
+    "src": "bossa",
+    "flags": [
+     "emisja"
+    ]
+   },
+   {
     "time": "06:45",
     "kind": "pap",
     "ticker": null,
@@ -112,6 +123,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "08:34",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PragmaGo S.A.: Dopuszczenie obligacji serii F1 do obrotu giełdowego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271165",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "07:30",
     "kind": "pap",
@@ -167,6 +187,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "08:36",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MRiRW: Większe wsparcie dla rolników w kryzysie. Polska popiera zwiększenie limitów de minimis (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442841",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:09",
     "kind": "news",
