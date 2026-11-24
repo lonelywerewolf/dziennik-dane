@@ -1,24 +1,33 @@
 {
  "date": "2026-11-24",
  "counts": {
-  "podsumowania": 11,
+  "podsumowania": 12,
   "wyniki": 5,
   "rekomendacje": 2,
-  "korporacyjne": 37,
-  "makro_pl": 17,
-  "swiat_rynki": 11,
+  "korporacyjne": 39,
+  "makro_pl": 18,
+  "swiat_rynki": 12,
   "energetyka_surowce": 4,
   "nieruchomosci": 1,
-  "fundusze_drobne": 7,
+  "fundusze_drobne": 9,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 52
+  "pozostale": 53
  },
- "duplicatesRemoved": 80,
- "total": 227,
+ "duplicatesRemoved": 82,
+ "total": 237,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "16:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: WIG20 traci 2,4 proc. m.in. przez spadek KGHM; rośnie CD Projekt RED",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/dzien-na-gpw-wig20-traci-24-proc-min-przez-spadek-kghm-rosnie-cd-projekt-red",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "14:11",
     "kind": "news",
@@ -193,6 +202,29 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "16:29",
+    "kind": "espi",
+    "ticker": null,
+    "title": "VEHIS FINANSE sp. z o.o.: Podjęcie uchwały Zarządu o emisji obligacji serii N w ramach II Publicznego Programu Emisji Obligacji",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271231",
+    "src": "bossa",
+    "flags": [
+     "emisja",
+     "zarząd"
+    ]
+   },
+   {
+    "time": "16:23",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ALIOR BANK S.A.: Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu Alior Banku S.A. w dniu 24 listopada 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271230",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "16:18",
     "kind": "espi",
@@ -590,6 +622,15 @@
   ],
   "makro_pl": [
    {
+    "time": "16:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MF: Oferta oszczędnościowych obligacji skarbowych – grudzień 2026 roku (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442988",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "15:46",
     "kind": "pap",
     "ticker": null,
@@ -745,6 +786,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "16:23",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeks zaufania konsumentów Conference Board w USA w XI: 103,3 pkt. Konsensus: 92,4 pkt.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442982",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "16:14",
     "kind": "pap",
     "ticker": null,
@@ -895,6 +945,24 @@
   ],
   "fundusze_drobne": [
    {
+    "time": "16:27",
+    "kind": "news",
+    "ticker": null,
+    "title": "OFE wartości jednostek rozrachunkowych z 2026.11.20",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/ofe-wartosci-jednostek-rozrachunkowych-z-20261120",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "16:25",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OFE PZU wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442984",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "16:12",
     "kind": "pap",
     "ticker": null,
@@ -961,6 +1029,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "16:21",
+    "kind": "pap",
+    "ticker": null,
+    "title": "RCB: Zakończył się atak powietrzny na Ukrainę; brak zagrożenia na terenie Polski (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442981",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:15",
     "kind": "espi",
