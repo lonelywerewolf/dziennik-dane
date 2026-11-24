@@ -5,7 +5,7 @@
   "wyniki": 3,
   "rekomendacje": 1,
   "korporacyjne": 6,
-  "makro_pl": 7,
+  "makro_pl": 8,
   "swiat_rynki": 3,
   "energetyka_surowce": 1,
   "nieruchomosci": 1,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 22
  },
- "duplicatesRemoved": 28,
- "total": 81,
+ "duplicatesRemoved": 29,
+ "total": 83,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -214,6 +214,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "10:00",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wartość sprzedaży detalicznej przez Internet w X wzrosła o 9,8 proc. rdr - GUS",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/wartosc-sprzedazy-detalicznej-przez-internet-w-x-wzrosla-o-98-proc-rdr-gus",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:41",
     "kind": "pap",

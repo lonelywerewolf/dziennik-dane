@@ -1,7 +1,19 @@
 {
  "date": "2026-11-24",
- "count": 81,
+ "count": 83,
  "items": [
+  {
+   "id": "bossa-pap-442863",
+   "date": "2026-11-24",
+   "time": "10:06",
+   "ts": "2026-11-24T10:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wartość sprzedaży detalicznej przez Internet w X wzrosła o 9,8 proc. rdr - GUS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442863"
+  },
   {
    "id": "bossa-pap-442862",
    "date": "2026-11-24",
@@ -13,6 +25,17 @@
    "title": "Indeks Ifo w Niemczech w XI: 90,6 pkt. Konsensus: 90,5 pkt.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-442862"
+  },
+  {
+   "id": "strefa-060524a5a3e9",
+   "date": "2026-11-24",
+   "time": "10:00",
+   "ts": "2026-11-24T10:00:06+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wartość sprzedaży detalicznej przez Internet w X wzrosła o 9,8 proc. rdr - GUS",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/wartosc-sprzedazy-detalicznej-przez-internet-w-x-wzrosla-o-98-proc-rdr-gus"
   },
   {
    "id": "bossa-espi-271170",
