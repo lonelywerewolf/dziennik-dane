@@ -1,7 +1,43 @@
 {
  "date": "2026-11-24",
- "count": 116,
+ "count": 119,
  "items": [
+  {
+   "id": "bossa-espi-271183",
+   "date": "2026-11-24",
+   "time": "12:16",
+   "ts": "2026-11-24T12:16:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KGHM POLSKA MIEDŹ SA",
+   "title": "Zgoda na udzielenie gwarancji korporacyjnej dla Sierra Gorda S.C.M.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271183"
+  },
+  {
+   "id": "bossa-espi-271182",
+   "date": "2026-11-24",
+   "time": "12:14",
+   "ts": "2026-11-24T12:14:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF WIG20TR PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 237 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271182"
+  },
+  {
+   "id": "bossa-espi-271181",
+   "date": "2026-11-24",
+   "time": "12:10",
+   "ts": "2026-11-24T12:10:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF OBLIGACJI 6M PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 246 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271181"
+  },
   {
    "id": "bossa-espi-271180",
    "date": "2026-11-24",
