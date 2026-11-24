@@ -4,7 +4,7 @@
   "podsumowania": 10,
   "wyniki": 3,
   "rekomendacje": 1,
-  "korporacyjne": 9,
+  "korporacyjne": 10,
   "makro_pl": 8,
   "swiat_rynki": 3,
   "energetyka_surowce": 1,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 25
+  "pozostale": 27
  },
  "duplicatesRemoved": 33,
- "total": 94,
+ "total": 97,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -157,6 +157,15 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "11:12",
+    "kind": "espi",
+    "ticker": null,
+    "title": "LOGINTRADE S.A.: Nabycie pozostałych 25% udziałów w PROEBIZ s.r.o.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271173",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:05",
     "kind": "espi",
@@ -382,6 +391,24 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:12",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźniki referencyjne - EURIBOR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442873",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:10",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźnik inwestycji gosp. domowych w UE wyniósł 8,1 proc. w '25; Polska wśród najsłabszych w UE",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442872",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:32",
     "kind": "pap",

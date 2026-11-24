@@ -1,7 +1,43 @@
 {
  "date": "2026-11-24",
- "count": 94,
+ "count": 97,
  "items": [
+  {
+   "id": "bossa-pap-442873",
+   "date": "2026-11-24",
+   "time": "11:12",
+   "ts": "2026-11-24T11:12:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne - EURIBOR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442873"
+  },
+  {
+   "id": "bossa-espi-271173",
+   "date": "2026-11-24",
+   "time": "11:12",
+   "ts": "2026-11-24T11:12:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "LOGINTRADE S.A.",
+   "title": "Nabycie pozostałych 25% udziałów w PROEBIZ s.r.o.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271173"
+  },
+  {
+   "id": "bossa-pap-442872",
+   "date": "2026-11-24",
+   "time": "11:10",
+   "ts": "2026-11-24T11:10:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźnik inwestycji gosp. domowych w UE wyniósł 8,1 proc. w '25; Polska wśród najsłabszych w UE",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442872"
+  },
   {
    "id": "bossa-espi-271172",
    "date": "2026-11-24",
