@@ -1,7 +1,78 @@
 {
  "date": "2026-11-24",
- "count": 297,
+ "count": 304,
  "items": [
+  {
+   "id": "bossa-pap-443033",
+   "date": "2026-11-24",
+   "time": "18:17",
+   "ts": "2026-11-24T18:17:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Na giełdach w Europie spadki w obawie o nowe cła Trumpa",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443033"
+  },
+  {
+   "id": "bossa-espi-271249",
+   "date": "2026-11-24",
+   "time": "18:17",
+   "ts": "2026-11-24T18:17:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "TRIGGO S.A.",
+   "title": "Podpisanie umowy na zlecenie prac badawczo-rozwojowych dotyczących pojazdu TRIGGO",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271249"
+  },
+  {
+   "id": "strefa-5e5ca9d3a18d",
+   "date": "2026-11-24",
+   "time": "18:13",
+   "ts": "2026-11-24T18:13:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "PGE miała zysk netto j.d. w III kw. '26 w wysokości 3 mld zł, zgodnie z szacunkami (opis)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/pge-miala-zysk-netto-jd-w-iii-kw-26-w-wysokosci-3-mld-zl-zgodnie-z-szacunkami-0"
+  },
+  {
+   "id": "bossa-pap-443031",
+   "date": "2026-11-24",
+   "time": "18:11",
+   "ts": "2026-11-24T18:11:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Bernstein obniżył rekomendację dla Żabki do \"zgodnie z rynkiem\"",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443031"
+  },
+  {
+   "id": "bossa-pap-443030",
+   "date": "2026-11-24",
+   "time": "18:11",
+   "ts": "2026-11-24T18:11:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Transakcje pakietowe",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443030"
+  },
+  {
+   "id": "bossa-espi-271248",
+   "date": "2026-11-24",
+   "time": "18:11",
+   "ts": "2026-11-24T18:11:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "INTERBUD-LUBLIN S.A.",
+   "title": "Zawarcie przez spółkę zależną umowy o wykonanie robót budowlanych w ramach inwestycji „Zielony Felin”",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271248"
+  },
   {
    "id": "bossa-pap-443029",
    "date": "2026-11-24",
@@ -25,6 +96,17 @@
    "title": "PGE miała zysk netto j.d. w III kw. '26 w wysokości 3 mld zł, zgodnie z szacunkami (opis)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-443028"
+  },
+  {
+   "id": "strefa-50f05c185847",
+   "date": "2026-11-24",
+   "time": "18:02",
+   "ts": "2026-11-24T18:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Zamknięcia na giełdach w Europie (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/zamkniecia-na-gieldach-w-europie-tabela"
   },
   {
    "id": "bossa-pap-443027",

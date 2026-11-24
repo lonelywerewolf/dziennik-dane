@@ -1,10 +1,10 @@
 {
  "date": "2026-11-24",
  "counts": {
-  "podsumowania": 16,
+  "podsumowania": 17,
   "wyniki": 14,
-  "rekomendacje": 2,
-  "korporacyjne": 48,
+  "rekomendacje": 3,
+  "korporacyjne": 51,
   "makro_pl": 18,
   "swiat_rynki": 15,
   "energetyka_surowce": 5,
@@ -14,11 +14,20 @@
   "obserwowane": 0,
   "pozostale": 60
  },
- "duplicatesRemoved": 108,
- "total": 297,
+ "duplicatesRemoved": 110,
+ "total": 304,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "18:17",
+    "kind": "pap",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Na giełdach w Europie spadki w obawie o nowe cła Trumpa",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443033",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:34",
     "kind": "pap",
@@ -312,6 +321,15 @@
   ],
   "rekomendacje": [
    {
+    "time": "18:11",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Bernstein obniżył rekomendację dla Żabki do \"zgodnie z rynkiem\"",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443031",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "13:37",
     "kind": "news",
     "ticker": null,
@@ -331,6 +349,37 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "18:17",
+    "kind": "espi",
+    "ticker": null,
+    "title": "TRIGGO S.A.: Podpisanie umowy na zlecenie prac badawczo-rozwojowych dotyczących pojazdu TRIGGO",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271249",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "18:11",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Transakcje pakietowe",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443030",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "18:11",
+    "kind": "espi",
+    "ticker": null,
+    "title": "INTERBUD-LUBLIN S.A.: Zawarcie przez spółkę zależną umowy o wykonanie robót budowlanych w ramach inwestycji „Zielony Felin”",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271248",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "17:48",
     "kind": "news",
@@ -1300,12 +1349,12 @@
   "obserwowane": [],
   "pozostale": [
    {
-    "time": "18:10",
-    "kind": "pap",
+    "time": "18:02",
+    "kind": "news",
     "ticker": null,
     "title": "Zamknięcia na giełdach w Europie (tabela)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443029",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/zamkniecia-na-gieldach-w-europie-tabela",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
