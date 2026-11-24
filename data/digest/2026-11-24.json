@@ -4,18 +4,18 @@
   "podsumowania": 6,
   "wyniki": 2,
   "rekomendacje": 1,
-  "korporacyjne": 2,
+  "korporacyjne": 4,
   "makro_pl": 3,
   "swiat_rynki": 2,
   "energetyka_surowce": 1,
-  "nieruchomosci": 0,
+  "nieruchomosci": 1,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
   "pozostale": 15
  },
- "duplicatesRemoved": 17,
- "total": 49,
+ "duplicatesRemoved": 19,
+ "total": 54,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -109,6 +109,26 @@
   ],
   "korporacyjne": [
    {
+    "time": "08:56",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Robert Wawro zastąpi Krzysztofa Pawińskiego na stanowisku prezesa Maspeksu",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442844",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "08:54",
+    "kind": "espi",
+    "ticker": null,
+    "title": "LPP: Informacja o transakcjach na akcjach emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271166",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "08:34",
     "kind": "pap",
     "ticker": null,
@@ -162,12 +182,12 @@
   ],
   "swiat_rynki": [
    {
-    "time": "08:03",
-    "kind": "pap",
+    "time": "08:48",
+    "kind": "news",
     "ticker": null,
     "title": "Wypełnienie magazynów gazu w Polsce spadło do 95 proc. wg stanu na 23 listopada",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442836",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/wypelnienie-magazynow-gazu-w-polsce-spadlo-do-95-proc-wg-stanu-na-23-listopada",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -191,7 +211,17 @@
     "flags": []
    }
   ],
-  "nieruchomosci": [],
+  "nieruchomosci": [
+   {
+    "time": "08:56",
+    "kind": "news",
+    "ticker": null,
+    "title": "Atal wprowadził do sprzedaży 153 mieszkania w Szczecinie",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/atal-wprowadzil-do-sprzedazy-153-mieszkania-w-szczecinie",
+    "src": "strefainwestorow",
+    "flags": []
+   }
+  ],
   "fundusze_drobne": [],
   "twoje_spolki": [],
   "obserwowane": [],

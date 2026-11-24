@@ -1,7 +1,65 @@
 {
  "date": "2026-11-24",
- "count": 49,
+ "count": 54,
  "items": [
+  {
+   "id": "bossa-pap-442845",
+   "date": "2026-11-24",
+   "time": "09:01",
+   "ts": "2026-11-24T09:01:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Atal wprowadził do sprzedaży 153 mieszkania w Szczecinie",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442845"
+  },
+  {
+   "id": "strefa-c69f4b65c823",
+   "date": "2026-11-24",
+   "time": "08:56",
+   "ts": "2026-11-24T08:56:49+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Atal wprowadził do sprzedaży 153 mieszkania w Szczecinie",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/atal-wprowadzil-do-sprzedazy-153-mieszkania-w-szczecinie"
+  },
+  {
+   "id": "bossa-pap-442844",
+   "date": "2026-11-24",
+   "time": "08:56",
+   "ts": "2026-11-24T08:56:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Robert Wawro zastąpi Krzysztofa Pawińskiego na stanowisku prezesa Maspeksu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442844"
+  },
+  {
+   "id": "bossa-espi-271166",
+   "date": "2026-11-24",
+   "time": "08:54",
+   "ts": "2026-11-24T08:54:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "LPP",
+   "title": "Informacja o transakcjach na akcjach emitenta",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271166"
+  },
+  {
+   "id": "strefa-7d5f0a3f6d5c",
+   "date": "2026-11-24",
+   "time": "08:48",
+   "ts": "2026-11-24T08:48:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wypełnienie magazynów gazu w Polsce spadło do 95 proc. wg stanu na 23 listopada",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/wypelnienie-magazynow-gazu-w-polsce-spadlo-do-95-proc-wg-stanu-na-23-listopada"
+  },
   {
    "id": "bossa-pap-442842",
    "date": "2026-11-24",
