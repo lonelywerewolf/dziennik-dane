@@ -1,7 +1,31 @@
 {
  "date": "2026-11-24",
- "count": 339,
+ "count": 342,
  "items": [
+  {
+   "id": "bossa-espi-271261",
+   "date": "2026-11-24",
+   "time": "22:44",
+   "ts": "2026-11-24T22:44:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "JRH ASI S.A.",
+   "title": "Podpisanie aneksu nr 2 do umowy ramowej o współpracy z kontrahentem z Ukrainy",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271261"
+  },
+  {
+   "id": "bossa-pap-443063",
+   "date": "2026-11-24",
+   "time": "22:38",
+   "ts": "2026-11-24T22:38:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Przewaga spadków na giełdach w USA, Nvidia nadal w centrum uwagi",
+   "ticker": "NVDA",
+   "url": "https://bossa.pl/analizy/komunikaty#message-443063"
+  },
   {
    "id": "bossa-espi-12202",
    "date": "2026-11-24",
@@ -61,6 +85,17 @@
    "title": "Informacja o transakcjach na akcjach Spółki.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271258"
+  },
+  {
+   "id": "strefa-7aa1be89ac06",
+   "date": "2026-11-24",
+   "time": "21:06",
+   "ts": "2026-11-24T21:06:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Przewaga spadków na giełdach w USA, Nvidia nadal w centrum uwagi",
+   "ticker": "NVDA",
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/dzien-na-rynkach-przewaga-spadkow-na-gieldach-w-usa-nvidia-nadal-w-centrum"
   },
   {
    "id": "bossa-pap-443057",
