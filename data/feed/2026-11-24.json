@@ -1,7 +1,77 @@
 {
  "date": "2026-11-24",
- "count": 10,
+ "count": 16,
  "items": [
+  {
+   "id": "bossa-pap-442824",
+   "date": "2026-11-24",
+   "time": "06:36",
+   "ts": "2026-11-24T06:36:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne ON na wybranych rynkach rozwiniętych (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442824"
+  },
+  {
+   "id": "bossa-pap-442823",
+   "date": "2026-11-24",
+   "time": "06:35",
+   "ts": "2026-11-24T06:35:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Rentowności obligacji wybranych państw (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442823"
+  },
+  {
+   "id": "strefa-bcef66b12c5b",
+   "date": "2026-11-24",
+   "time": "06:34",
+   "ts": "2026-11-24T06:34:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Rentowności obligacji wybranych państw (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/rentownosci-obligacji-wybranych-panstw-tabela"
+  },
+  {
+   "id": "strefa-6f53d26ec75f",
+   "date": "2026-11-24",
+   "time": "06:34",
+   "ts": "2026-11-24T06:34:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela"
+  },
+  {
+   "id": "bossa-pap-442822",
+   "date": "2026-11-24",
+   "time": "06:34",
+   "ts": "2026-11-24T06:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442822"
+  },
+  {
+   "id": "bossa-pap-442821",
+   "date": "2026-11-24",
+   "time": "06:33",
+   "ts": "2026-11-24T06:33:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442821"
+  },
   {
    "id": "bossa-pap-442820",
    "date": "2026-11-24",
