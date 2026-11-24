@@ -1,7 +1,31 @@
 {
  "date": "2026-11-24",
- "count": 28,
+ "count": 31,
  "items": [
+  {
+   "id": "bossa-pap-442832",
+   "date": "2026-11-24",
+   "time": "07:43",
+   "ts": "2026-11-24T07:43:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ceny ropy idą dalej w dół po spadku w poniedziałek o ponad 3 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442832"
+  },
+  {
+   "id": "bossa-pap-442831",
+   "date": "2026-11-24",
+   "time": "07:37",
+   "ts": "2026-11-24T07:37:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Koniunktura w handlu w IV kw. '26 r. uległa nieznacznemu pogorszeniu - IRG SGH",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442831"
+  },
   {
    "id": "bossa-pap-442830",
    "date": "2026-11-24",
@@ -37,6 +61,17 @@
    "title": "QSr",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271163"
+  },
+  {
+   "id": "strefa-6e047a86606f",
+   "date": "2026-11-24",
+   "time": "07:12",
+   "ts": "2026-11-24T07:12:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ceny ropy idą dalej w dół po spadku w poniedziałek o ponad 3 proc.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/ceny-ropy-ida-dalej-w-dol-po-spadku-w-poniedzialek-o-ponad-3-proc"
   },
   {
    "id": "bossa-pap-442827",

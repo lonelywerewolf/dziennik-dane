@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 8
+  "pozostale": 10
  },
- "duplicatesRemoved": 11,
- "total": 28,
+ "duplicatesRemoved": 12,
+ "total": 31,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -121,12 +121,32 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "07:37",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Koniunktura w handlu w IV kw. '26 r. uległa nieznacznemu pogorszeniu - IRG SGH",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442831",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
+   {
     "time": "07:34",
     "kind": "pap",
     "ticker": null,
     "title": "Liczba nowo zarejestrowanych w Polsce samochodów w X wzrosła o 6,0 proc. rdr - ACEA",
     "url": "https://bossa.pl/analizy/komunikaty#message-442830",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "07:12",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny ropy idą dalej w dół po spadku w poniedziałek o ponad 3 proc.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/ceny-ropy-ida-dalej-w-dol-po-spadku-w-poniedzialek-o-ponad-3-proc",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
