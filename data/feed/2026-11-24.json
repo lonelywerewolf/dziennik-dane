@@ -1,7 +1,31 @@
 {
  "date": "2026-11-24",
- "count": 344,
+ "count": 346,
  "items": [
+  {
+   "id": "bossa-pap-443068",
+   "date": "2026-11-24",
+   "time": "23:21",
+   "ts": "2026-11-24T23:21:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "INCUVO SA (13/2026) Powołanie osoby zarządzającej lub nadzorującej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443068"
+  },
+  {
+   "id": "bossa-espi-271264",
+   "date": "2026-11-24",
+   "time": "23:20",
+   "ts": "2026-11-24T23:20:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "AIRWAY MEDIX S.A.",
+   "title": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia na 21 grudnia 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271264"
+  },
   {
    "id": "bossa-pap-443066",
    "date": "2026-11-24",

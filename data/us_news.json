@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "e9d6164d23f4",
+   "ticker": "NVDA",
+   "time": "2026-11-24T23:11+01:00",
+   "title": "Stock Market Today, Nov. 24: Tech Sell-Off Drags Nasdaq as Dow Gains on Value Rotation",
+   "url": "https://www.nasdaq.com/articles/stock-market-today-nov-24-tech-sell-drags-nasdaq-dow-gains-value-rotation",
+   "src": "nasdaq",
+   "summary": "Down 0.50% to 7,201, the S&amp;P 500 (SNPINDEX:^GSPC) slipped on tech weakness, while the Nasdaq Composite (NASDAQINDEX:^IXIC) fell 1.48% to 23,734 as artificial intelligence momentum cooled. In comparison, the Dow Jones Industrial Average (DJINDICES:^DJI) gained 0.85% to 50,019"
+  },
+  {
    "id": "c24e6077da07",
    "ticker": "NVDA",
    "time": "2026-11-24T22:49+01:00",
@@ -17821,5 +17830,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-24T23:20:42+01:00"
+ "updatedAt": "2026-11-24T23:31:42+01:00"
 }
