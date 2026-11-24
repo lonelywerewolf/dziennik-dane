@@ -1,6 +1,44 @@
 {
  "items": [
   {
+   "date": "2026-11-24",
+   "ticker": "CLD",
+   "company": "CLOUD TECHNOLOGIES S.A.",
+   "file": "20261124_dom_maklerski_banku_ochrony_środowiska_cld_pl_rk.pdf",
+   "url": "https://www.gpw.pl/pub/pwpa/20261124_dom_maklerski_banku_ochrony_%C5%9Brodowiska_cld_pl_rk.pdf",
+   "type": "komentarz",
+   "house": "Dom Maklerski Banku Ochrony Środowiska S.A."
+  },
+  {
+   "date": "2026-11-24",
+   "ticker": "UNT",
+   "company": "UNIMOT S.A.",
+   "file": "20261124_biuro_maklerskie_banku_pekao_unt_pl_ra.pdf",
+   "url": "https://www.gpw.pl/pub/pwpa/20261124_biuro_maklerskie_banku_pekao_unt_pl_ra.pdf",
+   "type": "raport aktualizujący",
+   "house": "Biuro Maklerskie Banku Pekao S.A."
+  },
+  {
+   "date": "2026-11-24",
+   "ticker": "ELT",
+   "company": "ELEKTROTIM S.A.",
+   "file": "20261124_dom_maklerski_bdm_elt_pl_aw.pdf",
+   "url": "https://www.gpw.pl/pub/pwpa/20261124_dom_maklerski_bdm_elt_pl_aw.pdf",
+   "type": "analiza wyników",
+   "house": "Dom Maklerski BDM S.A."
+  },
+  {
+   "date": "2026-11-24",
+   "ticker": "DIG",
+   "company": "DIGITAL NETWORK S.A.",
+   "file": "20261124_dom_maklerski_banku_ochrony_środowiska_dig_pl_aw.pdf",
+   "url": "https://www.gpw.pl/pub/pwpa/20261124_dom_maklerski_banku_ochrony_%C5%9Brodowiska_dig_pl_aw.pdf",
+   "type": "analiza wyników",
+   "house": "Dom Maklerski Banku Ochrony Środowiska S.A.",
+   "pdfTries": 1,
+   "pdfLastTry": "2026-11-24T09:43+01:00"
+  },
+  {
    "date": "2026-11-23",
    "ticker": "ETL",
    "company": "EUROTEL S.A.",
@@ -675,5 +713,5 @@
    "house": "Noble Securities S.A."
   }
  ],
- "updatedAt": "2026-11-24T04:24:55+01:00"
+ "updatedAt": "2026-11-24T09:43:38+01:00"
 }

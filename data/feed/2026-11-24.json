@@ -1,7 +1,43 @@
 {
  "date": "2026-11-24",
- "count": 65,
+ "count": 70,
  "items": [
+  {
+   "id": "bossa-pap-442855",
+   "date": "2026-11-24",
+   "time": "09:41",
+   "ts": "2026-11-24T09:41:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MF: Nowe rozporządzenie w sprawie warunków technicznych dla budynków (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442855"
+  },
+  {
+   "id": "bossa-pap-442853",
+   "date": "2026-11-24",
+   "time": "09:40",
+   "ts": "2026-11-24T09:40:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Nakłady inwestycyjne przedsiębiorstw w I-III kw. wzrosły o 13,3 proc. rdr i wyniosły 160,9 mld zł - GUS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442853"
+  },
+  {
+   "id": "bossa-espi-271168",
+   "date": "2026-11-24",
+   "time": "09:40",
+   "ts": "2026-11-24T09:40:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Wildlands Interactive SA",
+   "title": "Ustalenie daty premiery gry „Space Mechanic Simulator” na konsolę PlayStation 5",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271168"
+  },
   {
    "id": "strefa-9d8e01a3ce9c",
    "date": "2026-11-24",
@@ -12,6 +48,29 @@
    "title": "Ceny skupu podstawowych produktów rolnych w październiku rdr spadły o 11,9 proc. - GUS",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261124/ceny-skupu-podstawowych-produktow-rolnych-w-pazdzierniku-rdr-spadly-o-119-proc"
+  },
+  {
+   "id": "strefa-3bbdc70d1706",
+   "date": "2026-11-24",
+   "time": "09:37",
+   "ts": "2026-11-24T09:37:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Nakłady inwestycyjne przedsiębiorstw w I-III kw. wzrosły o 13,3 proc. rdr i wyniosły 160,9 mld zł - GUS",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/naklady-inwestycyjne-przedsiebiorstw-w-i-iii-kw-wzrosly-o-133-proc-rdr-i"
+  },
+  {
+   "id": "bossa-pap-442852",
+   "date": "2026-11-24",
+   "time": "09:36",
+   "ts": "2026-11-24T09:36:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ceny skupu podstawowych produktów rolnych w październiku rdr spadły o 11,9 proc. - GUS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442852"
   },
   {
    "id": "bossa-pap-442851",

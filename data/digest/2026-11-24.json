@@ -5,17 +5,17 @@
   "wyniki": 2,
   "rekomendacje": 1,
   "korporacyjne": 4,
-  "makro_pl": 5,
+  "makro_pl": 7,
   "swiat_rynki": 2,
   "energetyka_surowce": 1,
   "nieruchomosci": 1,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 17
+  "pozostale": 18
  },
- "duplicatesRemoved": 23,
- "total": 65,
+ "duplicatesRemoved": 25,
+ "total": 70,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -182,11 +182,29 @@
   ],
   "makro_pl": [
    {
+    "time": "09:41",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MF: Nowe rozporządzenie w sprawie warunków technicznych dla budynków (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442855",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "09:37",
     "kind": "news",
     "ticker": null,
     "title": "Ceny skupu podstawowych produktów rolnych w październiku rdr spadły o 11,9 proc. - GUS",
     "url": "https://strefainwestorow.pl/wiadomosci/20261124/ceny-skupu-podstawowych-produktow-rolnych-w-pazdzierniku-rdr-spadly-o-119-proc",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "09:37",
+    "kind": "news",
+    "ticker": null,
+    "title": "Nakłady inwestycyjne przedsiębiorstw w I-III kw. wzrosły o 13,3 proc. rdr i wyniosły 160,9 mld zł - GUS",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/naklady-inwestycyjne-przedsiebiorstw-w-i-iii-kw-wzrosly-o-133-proc-rdr-i",
     "src": "strefainwestorow",
     "flags": []
    },
@@ -273,6 +291,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:40",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Wildlands Interactive SA: Ustalenie daty premiery gry „Space Mechanic Simulator” na konsolę PlayStation 5",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271168",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:09",
     "kind": "espi",
