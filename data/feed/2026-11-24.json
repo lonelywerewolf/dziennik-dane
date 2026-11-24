@@ -1,7 +1,78 @@
 {
  "date": "2026-11-24",
- "count": 97,
+ "count": 104,
  "items": [
+  {
+   "id": "bossa-pap-442879",
+   "date": "2026-11-24",
+   "time": "11:32",
+   "ts": "2026-11-24T11:32:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Rumunia może spełnić kryteria do przyjęcia euro na początku następnej dekady - premier",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442879"
+  },
+  {
+   "id": "bossa-espi-271175",
+   "date": "2026-11-24",
+   "time": "11:29",
+   "ts": "2026-11-24T11:29:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ROCKGAME S.A.",
+   "title": "Ustalenie daty premiery pełnej wersji gry pt. Cowboy Life Simulator",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271175"
+  },
+  {
+   "id": "bossa-pap-442877",
+   "date": "2026-11-24",
+   "time": "11:25",
+   "ts": "2026-11-24T11:25:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Produkcja stali surowej w UE w październiku spadła rdr o 4,0 proc. - World Steel Association",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442877"
+  },
+  {
+   "id": "bossa-pap-442876",
+   "date": "2026-11-24",
+   "time": "11:24",
+   "ts": "2026-11-24T11:24:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ares Shield AI liczy na wzrost rynku obronności kosmicznej i kolejne kontrakty (wywiad)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442876"
+  },
+  {
+   "id": "strefa-03b6a472062f",
+   "date": "2026-11-24",
+   "time": "11:23",
+   "ts": "2026-11-24T11:23:35+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Rumunia może spełnić kryteria do przyjęcia euro na początku następnej dekady - premier",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/rumunia-moze-spelnic-kryteria-do-przyjecia-euro-na-poczatku-nastepnej-dekady"
+  },
+  {
+   "id": "bossa-espi-271174",
+   "date": "2026-11-24",
+   "time": "11:23",
+   "ts": "2026-11-24T11:23:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "EQUNICO SE",
+   "title": "Zawiadomienie o zawarciu transakcji przez osobę blisko związaną z osobą pełniącą obowiązki zarządcze w Spółce",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271174"
+  },
   {
    "id": "bossa-pap-442873",
    "date": "2026-11-24",
@@ -37,6 +108,17 @@
    "title": "Wskaźnik inwestycji gosp. domowych w UE wyniósł 8,1 proc. w '25; Polska wśród najsłabszych w UE",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-442872"
+  },
+  {
+   "id": "strefa-6fdcf5bd5474",
+   "date": "2026-11-24",
+   "time": "11:05",
+   "ts": "2026-11-24T11:05:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Eurohold zadebiutuje na Frankfurt Stock Exchange 2 grudnia 2026 r.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/eurohold-zadebiutuje-na-frankfurt-stock-exchange-2-grudnia-2026-r"
   },
   {
    "id": "bossa-espi-271172",
