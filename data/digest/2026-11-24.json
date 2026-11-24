@@ -4,7 +4,7 @@
   "podsumowania": 17,
   "wyniki": 18,
   "rekomendacje": 3,
-  "korporacyjne": 56,
+  "korporacyjne": 57,
   "makro_pl": 19,
   "swiat_rynki": 16,
   "energetyka_surowce": 5,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 10,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 64
+  "pozostale": 65
  },
  "duplicatesRemoved": 121,
- "total": 330,
+ "total": 332,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -389,6 +389,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "20:11",
+    "kind": "espi",
+    "ticker": null,
+    "title": "TELGAM S.A.: Przyjęcie przez Radę Nadzorczą regulaminu programu motywacyjnego dla Członków Zarządu i kluczowej kadry kierowniczej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-12438",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "19:55",
     "kind": "espi",
@@ -1459,6 +1470,17 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "20:15",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ASM GROUP S.A.: Odwołanie od decyzji Komisji Nadzoru Finansowego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271257",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "19:47",
     "kind": "pap",

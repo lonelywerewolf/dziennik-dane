@@ -1,7 +1,31 @@
 {
  "date": "2026-11-24",
- "count": 330,
+ "count": 332,
  "items": [
+  {
+   "id": "bossa-espi-271257",
+   "date": "2026-11-24",
+   "time": "20:15",
+   "ts": "2026-11-24T20:15:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ASM GROUP S.A.",
+   "title": "Odwołanie od decyzji Komisji Nadzoru Finansowego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271257"
+  },
+  {
+   "id": "bossa-espi-12438",
+   "date": "2026-11-24",
+   "time": "20:11",
+   "ts": "2026-11-24T20:11:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "TELGAM S.A.",
+   "title": "Przyjęcie przez Radę Nadzorczą regulaminu programu motywacyjnego dla Członków Zarządu i kluczowej kadry kierowniczej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-12438"
+  },
   {
    "id": "bossa-pap-443054",
    "date": "2026-11-24",
