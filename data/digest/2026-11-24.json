@@ -4,7 +4,7 @@
   "podsumowania": 11,
   "wyniki": 4,
   "rekomendacje": 2,
-  "korporacyjne": 22,
+  "korporacyjne": 24,
   "makro_pl": 15,
   "swiat_rynki": 7,
   "energetyka_surowce": 3,
@@ -15,7 +15,7 @@
   "pozostale": 41
  },
  "duplicatesRemoved": 66,
- "total": 174,
+ "total": 176,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -184,6 +184,28 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "14:45",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Bowim: Zawarcie umowy przyrzeczonej nabycia większościowego pakietu udziałów w BPT Steel sp. z o.o",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271210",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "14:40",
+    "kind": "espi",
+    "ticker": null,
+    "title": "LENTEX: Wykaz akcjonariuszy posiadających co najmniej 5 % liczby głosów na NWZ Spółki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271209",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "14:38",
     "kind": "espi",
