@@ -1,7 +1,66 @@
 {
  "date": "2026-11-24",
- "count": 75,
+ "count": 81,
  "items": [
+  {
+   "id": "bossa-pap-442862",
+   "date": "2026-11-24",
+   "time": "10:05",
+   "ts": "2026-11-24T10:05:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeks Ifo w Niemczech w XI: 90,6 pkt. Konsensus: 90,5 pkt.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442862"
+  },
+  {
+   "id": "bossa-espi-271170",
+   "date": "2026-11-24",
+   "time": "09:59",
+   "ts": "2026-11-24T09:59:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "IMPERIO ASI S.A.",
+   "title": "Zawiadomienie akcjonariusza o zmianie udziału w ogólnej liczbie głosów",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271170"
+  },
+  {
+   "id": "bossa-espi-271169",
+   "date": "2026-11-24",
+   "time": "09:58",
+   "ts": "2026-11-24T09:58:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "SYN2BIO S.A.",
+   "title": "Zmiana terminu publikacji jednostkowego raportu rocznego za rok finansowy 2025",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271169"
+  },
+  {
+   "id": "strefa-ec76d3dca677",
+   "date": "2026-11-24",
+   "time": "09:56",
+   "ts": "2026-11-24T09:56:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "ELEKTROTIM z rekordowym portfelem zamówień o wartości 1,16 mld zł. Spółka w trzecim kwartale podpisała umowy na ponad 460 mln zł i poprawia rentowność.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/elektrotim-z-rekordowym-portfelem-zamowien-o-wartosci-116-mld-zl-spolka-w"
+  },
+  {
+   "id": "bossa-pap-442859",
+   "date": "2026-11-24",
+   "time": "09:55",
+   "ts": "2026-11-24T09:55:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Monitor kadrowy - zestawienie od 17 do 23 listopada",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442859"
+  },
   {
    "id": "bossa-pap-442858",
    "date": "2026-11-24",
@@ -13,6 +72,17 @@
    "title": "Wartość rynku dóbr luksusowych w Polsce w 2026 r. wyniesie 12,5 mld zł, o 4,9 proc. więcej rdr - KPMG",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-442858"
+  },
+  {
+   "id": "strefa-64e2cc9eb1ec",
+   "date": "2026-11-24",
+   "time": "09:49",
+   "ts": "2026-11-24T09:49:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Monitor kadrowy - zestawienie od 17 do 23 listopada",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/monitor-kadrowy-zestawienie-od-17-do-23-listopada"
   },
   {
    "id": "strefa-342e8b4f925f",
