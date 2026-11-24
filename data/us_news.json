@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "id": "2e8e0995fd3b",
+   "ticker": "MRVL",
+   "time": "2026-11-25T00:37+01:00",
+   "title": "Stocks Settle Mostly Lower on a Rout in Chipmakers and AI Stocks",
+   "url": "https://www.nasdaq.com/articles/stocks-settle-mostly-lower-rout-chipmakers-and-ai-stocks",
+   "src": "nasdaq",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down by -0.50% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.85%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.99%.  December E-mini S&P futures (ESZ26 ) fell -0.52%, and December E-mini Nasdaq..."
+  },
+  {
+   "id": "04655279c32d",
+   "ticker": "NVDA",
+   "time": "2026-11-25T00:30+01:00",
+   "title": "How Much Is Nvidia Stock Worth Now That Jensen Huang Is Back?",
+   "url": "https://www.nasdaq.com/articles/how-much-nvidia-stock-worth-now-jensen-huang-back",
+   "src": "nasdaq",
+   "summary": "Key PointsNvidia stock climbed when Jensen Huang returned as CEO."
+  },
+  {
    "id": "e9d6164d23f4",
    "ticker": "NVDA",
    "time": "2026-11-24T23:11+01:00",
@@ -26,6 +44,24 @@
    "url": "https://www.nasdaq.com/articles/prediction-10000-investment-nvidia-stock-will-be-worth-much-year-end-2027",
    "src": "nasdaq",
    "summary": "Key PointsThe return of Jensen Huang excited investors."
+  },
+  {
+   "id": "20d8ec047a70",
+   "ticker": "AVGO",
+   "time": "2026-11-24T22:20+01:00",
+   "title": "Ambarella (AMBA) Misses Q3 Earnings and Revenue Estimates",
+   "url": "https://www.nasdaq.com/articles/ambarella-amba-misses-q3-earnings-and-revenue-estimates",
+   "src": "nasdaq",
+   "summary": "Ambarella (AMBA) delivered earnings and revenue surprises of -12.50% and -3.94%, respectively, for the quarter ended October 2026. Do the numbers hold clues to what lies ahead for the stock?"
+  },
+  {
+   "id": "96b43aecdebe",
+   "ticker": "MRVL",
+   "time": "2026-11-24T22:20+01:00",
+   "title": "Dell Technologies (DELL) Q3 Earnings and Revenues Surpass Estimates",
+   "url": "https://www.nasdaq.com/articles/dell-technologies-dell-q3-earnings-and-revenues-surpass-estimates",
+   "src": "nasdaq",
+   "summary": "Dell Technologies (DELL) delivered earnings and revenue surprises of +39.79% and +8.98%, respectively, for the quarter ended October 2026. Do the numbers hold clues to what lies ahead for the stock?"
   },
   {
    "id": "389e46c272ae",
@@ -17830,5 +17866,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-25T00:04:42+01:00"
+ "updatedAt": "2026-11-25T00:54:42+01:00"
 }

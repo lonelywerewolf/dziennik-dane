@@ -1,5 +1,54 @@
 {
  "date": "2026-11-25",
- "count": 0,
- "items": []
+ "count": 4,
+ "items": [
+  {
+   "id": "bossa-espi-271271",
+   "date": "2026-11-25",
+   "time": "00:33",
+   "ts": "2026-11-25T00:33:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MOSTALWAR",
+   "title": "QS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271271"
+  },
+  {
+   "id": "bossa-espi-271270",
+   "date": "2026-11-25",
+   "time": "00:29",
+   "ts": "2026-11-25T00:29:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MOSTALWAR",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271270"
+  },
+  {
+   "id": "bossa-pap-443074",
+   "date": "2026-11-25",
+   "time": "00:23",
+   "ts": "2026-11-25T00:23:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "CARLSON INVESTMENTS SE (29/2026) Powołanie osoby zarządzającej lub nadzorującej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443074"
+  },
+  {
+   "id": "bossa-espi-271269",
+   "date": "2026-11-25",
+   "time": "00:08",
+   "ts": "2026-11-25T00:08:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ULMA Construccion SA",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271269"
+  }
+ ]
 }
