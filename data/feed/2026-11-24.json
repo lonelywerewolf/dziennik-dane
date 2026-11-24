@@ -1,7 +1,55 @@
 {
  "date": "2026-11-24",
- "count": 128,
+ "count": 132,
  "items": [
+  {
+   "id": "bossa-espi-271190",
+   "date": "2026-11-24",
+   "time": "12:59",
+   "ts": "2026-11-24T12:59:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF MWIG40TRlv PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 216 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271190"
+  },
+  {
+   "id": "bossa-pap-442902",
+   "date": "2026-11-24",
+   "time": "12:58",
+   "ts": "2026-11-24T12:58:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeksy transakcyjne - POLSTR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442902"
+  },
+  {
+   "id": "bossa-pap-442901",
+   "date": "2026-11-24",
+   "time": "12:58",
+   "ts": "2026-11-24T12:58:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeksy transakcyjne - WIRON",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442901"
+  },
+  {
+   "id": "bossa-espi-271189",
+   "date": "2026-11-24",
+   "time": "12:54",
+   "ts": "2026-11-24T12:54:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 PLN-HEDGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 236 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271189"
+  },
   {
    "id": "bossa-espi-271188",
    "date": "2026-11-24",
