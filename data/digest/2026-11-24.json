@@ -2,7 +2,7 @@
  "date": "2026-11-24",
  "counts": {
   "podsumowania": 17,
-  "wyniki": 15,
+  "wyniki": 16,
   "rekomendacje": 3,
   "korporacyjne": 52,
   "makro_pl": 19,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 10,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 62
+  "pozostale": 63
  },
- "duplicatesRemoved": 113,
- "total": 313,
+ "duplicatesRemoved": 115,
+ "total": 317,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -178,6 +178,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "18:41",
+    "kind": "news",
+    "ticker": null,
+    "title": "CD Projekt RED nie spodziewa się, by GTA IV miało wpływ na wyniki spółki w IV kw.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/cd-projekt-red-nie-spodziewa-sie-gta-iv-mialo-wplyw-na-wyniki-spolki-w-iv-kw",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "18:27",
     "kind": "news",
@@ -1386,6 +1397,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "19:09",
+    "kind": "pap",
+    "ticker": null,
+    "title": "CI Games planuje premierę gry Lords of the Fallen II na kwiecień 2027 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443043",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:59",
     "kind": "espi",
