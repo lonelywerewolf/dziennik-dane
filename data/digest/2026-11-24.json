@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 15
+  "pozostale": 17
  },
- "duplicatesRemoved": 19,
- "total": 54,
+ "duplicatesRemoved": 20,
+ "total": 57,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -109,6 +109,17 @@
   ],
   "korporacyjne": [
    {
+    "time": "09:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "PKO BP stawia na embedded finance, współpraca z Allegro nowym kanałem wzrostu - prezes (wywiad)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/pko-bp-stawia-na-embedded-finance-wspolpraca-z-allegro-nowym-kanalem-wzrostu",
+    "src": "strefainwestorow",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
     "time": "08:56",
     "kind": "pap",
     "ticker": null,
@@ -137,17 +148,6 @@
     "src": "bossa",
     "flags": [
      "emisja"
-    ]
-   },
-   {
-    "time": "06:45",
-    "kind": "pap",
-    "ticker": null,
-    "title": "PKO BP stawia na embedded finance, współpraca z Allegro nowym kanałem wzrostu - prezes (wywiad)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-442826",
-    "src": "bossa",
-    "flags": [
-     "zarząd"
     ]
    }
   ],
@@ -226,6 +226,24 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:09",
+    "kind": "espi",
+    "ticker": null,
+    "title": "FEERUM S.A.: Zawarcie porozumienia dotyczącego przyszłej współpracy z The Arab Contractors",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271167",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "09:08",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Liczba pracujących mierzona ubezpieczeniem emerytalnym w III kw. spadła do 16,248 mln - ZUS",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442846",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:36",
     "kind": "pap",
