@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "ef16da9ded3d",
+   "ticker": "NVDA",
+   "time": "2026-11-24T19:03+01:00",
+   "title": "Tuesday's ETF with Unusual Volume: JUSA",
+   "url": "https://www.nasdaq.com/articles/tuesdays-etf-unusual-volume-jusa",
+   "src": "nasdaq",
+   "summary": "The JPMorgan US Research Enhanced Large Cap ETF is seeing unusually high volume in afternoon trading Tuesday, with over 897,000 shares traded versus three month average volume of about 88,000.  Shares of JUSA were off about 0.5% on the day.\n\nComponents of that ETF with the highe"
+  },
+  {
    "id": "475dbace758e",
    "ticker": "MRVL",
    "time": "2026-11-24T19:02+01:00",
@@ -8,6 +17,24 @@
    "url": "https://www.nasdaq.com/articles/weakness-tech-stocks-weighs-broader-market",
    "src": "nasdaq",
    "summary": "The S&P 500 Index ($SPX ) (SPY ) is down by -1.05% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.05%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -2.56%.  December E-mini S&P futures (ESZ26 ) are down -1.10%, and December E-mini Nasdaq..."
+  },
+  {
+   "id": "17e878d1577c",
+   "ticker": "NVDA",
+   "time": "2026-11-24T18:45+01:00",
+   "title": "Stock Market Midday, Nov. 24: Nvidia Drops 9% as Wall Street's Historic AI Rally Loses Momentum",
+   "url": "https://www.nasdaq.com/articles/stock-market-midday-nov-24-nvidia-drops-9-wall-streets-historic-ai-rally-loses-momentum",
+   "src": "nasdaq",
+   "summary": "Wall Street's remarkable recovery lost momentum on Tuesday, November 24, as renewed selling pressure across semiconductor stocks weighed on major indexes. Following Monday's historic rally, technology shares retreated sharply, raising questions about whether the recent rebound ca"
+  },
+  {
+   "id": "808792c75e7a",
+   "ticker": "AVGO",
+   "time": "2026-11-24T18:43+01:00",
+   "title": "Anthropic's IPO Raised $81 Billion. Here’s Which Artificial Intelligence (AI) Stocks Will Benefit From Where the Money Goes.",
+   "url": "https://www.nasdaq.com/articles/anthropics-ipo-raised-81-billion-heres-which-artificial-intelligence-ai-stocks-will",
+   "src": "nasdaq",
+   "summary": "Key PointsAnthropic has large deals with several AI companies that have invested in it over the past few years, including Amazon and Microsoft."
   },
   {
    "id": "7dbb4bad7d77",
@@ -17659,5 +17686,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-24T19:16:48+01:00"
+ "updatedAt": "2026-11-24T19:27:48+01:00"
 }
