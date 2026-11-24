@@ -1,7 +1,55 @@
 {
  "date": "2026-11-24",
- "count": 121,
+ "count": 126,
  "items": [
+  {
+   "id": "bossa-pap-442897",
+   "date": "2026-11-24",
+   "time": "12:32",
+   "ts": "2026-11-24T12:32:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Październikowe dane makro wspierają scenariusz stabilnych stóp proc. – Dąbrowski, RPP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442897"
+  },
+  {
+   "id": "bossa-espi-271186",
+   "date": "2026-11-24",
+   "time": "12:32",
+   "ts": "2026-11-24T12:32:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KRAKCHEMIA S.A.",
+   "title": "SA-Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271186"
+  },
+  {
+   "id": "bossa-espi-271185",
+   "date": "2026-11-24",
+   "time": "12:29",
+   "ts": "2026-11-24T12:29:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF TBSP PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 237 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271185"
+  },
+  {
+   "id": "bossa-pap-442894",
+   "date": "2026-11-24",
+   "time": "12:28",
+   "ts": "2026-11-24T12:28:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zarząd KGHM wyraził zgodę na udzielenie gwarancji korporacyjnej dla Sierra Gorda do maks. 550 mln USD",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442894"
+  },
   {
    "id": "bossa-pap-442893",
    "date": "2026-11-24",
@@ -85,6 +133,17 @@
    "title": "Rezygnacja Przewodniczącego Rady Nadzorczej Synthaverse S.A.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271179"
+  },
+  {
+   "id": "strefa-d17ddb462db5",
+   "date": "2026-11-24",
+   "time": "11:58",
+   "ts": "2026-11-24T11:58:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Zarząd KGHM wyraził zgodę na udzielenie gwarancji korporacyjnej dla Sierra Gorda do maks. 550 mln USD",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/zarzad-kghm-wyrazil-zgode-na-udzielenie-gwarancji-korporacyjnej-dla-sierra"
   },
   {
    "id": "bossa-espi-271178",

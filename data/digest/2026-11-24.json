@@ -4,18 +4,18 @@
   "podsumowania": 10,
   "wyniki": 3,
   "rekomendacje": 1,
-  "korporacyjne": 13,
-  "makro_pl": 11,
+  "korporacyjne": 14,
+  "makro_pl": 12,
   "swiat_rynki": 5,
   "energetyka_surowce": 1,
   "nieruchomosci": 1,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 33
+  "pozostale": 34
  },
- "duplicatesRemoved": 43,
- "total": 121,
+ "duplicatesRemoved": 45,
+ "total": 126,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -158,6 +158,17 @@
   ],
   "korporacyjne": [
    {
+    "time": "11:58",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zarząd KGHM wyraził zgodę na udzielenie gwarancji korporacyjnej dla Sierra Gorda do maks. 550 mln USD",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/zarzad-kghm-wyrazil-zgode-na-udzielenie-gwarancji-korporacyjnej-dla-sierra",
+    "src": "strefainwestorow",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
     "time": "11:55",
     "kind": "espi",
     "ticker": null,
@@ -297,6 +308,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "12:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Październikowe dane makro wspierają scenariusz stabilnych stóp proc. – Dąbrowski, RPP",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442897",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:49",
     "kind": "news",
@@ -470,6 +490,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:32",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KRAKCHEMIA S.A.: SA-Q",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271186",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:26",
     "kind": "pap",
