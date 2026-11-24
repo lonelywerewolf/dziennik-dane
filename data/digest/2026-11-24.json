@@ -4,7 +4,7 @@
   "podsumowania": 17,
   "wyniki": 18,
   "rekomendacje": 3,
-  "korporacyjne": 57,
+  "korporacyjne": 58,
   "makro_pl": 19,
   "swiat_rynki": 16,
   "energetyka_surowce": 5,
@@ -15,7 +15,7 @@
   "pozostale": 65
  },
  "duplicatesRemoved": 123,
- "total": 334,
+ "total": 335,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -389,6 +389,15 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "21:43",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MIRACULUM S.A.: Informacja o transakcjach na akcjach Spółki.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271258",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "20:11",
     "kind": "espi",
