@@ -1,7 +1,19 @@
 {
  "date": "2026-11-24",
- "count": 2,
+ "count": 3,
  "items": [
+  {
+   "id": "bossa-espi-271161",
+   "date": "2026-11-24",
+   "time": "05:48",
+   "ts": "2026-11-24T05:48:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ELEKTROTIM S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271161"
+  },
   {
    "id": "bossa-espi-271160",
    "date": "2026-11-24",
