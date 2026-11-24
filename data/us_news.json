@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "d61018877adf",
+   "ticker": "NVDA",
+   "time": "2026-11-24T16:15+01:00",
+   "title": "Dow Movers: NVDA, HONIV",
+   "url": "https://www.nasdaq.com/articles/dow-movers-nvda-honiv-9",
+   "src": "nasdaq",
+   "summary": "In early trading on Tuesday, shares of Honeywell International topped the list of the day's best performing Dow Jones Industrial Average components, trading up 7.5%.  Year to date, Honeywell International registers a 42.2% gain.\n\nAnd the worst performing Dow component thus far o"
+  },
+  {
    "id": "21e8b8831db1",
    "ticker": "NVDA",
    "time": "2026-11-24T15:56+01:00",
@@ -17488,5 +17497,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-24T16:31:48+01:00"
+ "updatedAt": "2026-11-24T16:42:49+01:00"
 }

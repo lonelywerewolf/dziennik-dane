@@ -2,7 +2,7 @@
  "date": "2026-11-24",
  "counts": {
   "podsumowania": 12,
-  "wyniki": 5,
+  "wyniki": 6,
   "rekomendacje": 2,
   "korporacyjne": 39,
   "makro_pl": 18,
@@ -15,7 +15,7 @@
   "pozostale": 53
  },
  "duplicatesRemoved": 82,
- "total": 237,
+ "total": 238,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -131,6 +131,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "16:40",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KGHM POLSKA MIEDŹ SA: Wstępne wyniki produkcyjne i sprzedażowe Grupy KGHM Polska Miedź S.A. za październik 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271232",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "15:06",
     "kind": "news",
