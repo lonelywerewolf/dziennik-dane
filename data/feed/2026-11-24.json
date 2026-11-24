@@ -1,7 +1,65 @@
 {
  "date": "2026-11-24",
- "count": 70,
+ "count": 75,
  "items": [
+  {
+   "id": "bossa-pap-442858",
+   "date": "2026-11-24",
+   "time": "09:53",
+   "ts": "2026-11-24T09:53:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wartość rynku dóbr luksusowych w Polsce w 2026 r. wyniesie 12,5 mld zł, o 4,9 proc. więcej rdr - KPMG",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442858"
+  },
+  {
+   "id": "strefa-342e8b4f925f",
+   "date": "2026-11-24",
+   "time": "09:48",
+   "ts": "2026-11-24T09:48:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Dane o sprzedaży detalicznej wskazują na stabilny obraz konsumpcji w październiku (opinia)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/dane-o-sprzedazy-detalicznej-wskazuja-na-stabilny-obraz-konsumpcji-w"
+  },
+  {
+   "id": "bossa-pap-442857",
+   "date": "2026-11-24",
+   "time": "09:48",
+   "ts": "2026-11-24T09:48:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Dane o sprzedaży detalicznej wskazują na stabilny obraz konsumpcji w październiku (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442857"
+  },
+  {
+   "id": "bossa-pap-442856",
+   "date": "2026-11-24",
+   "time": "09:47",
+   "ts": "2026-11-24T09:47:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wynik finansowy firm po III kwartałach wzrósł o 45 proc. rdr - GUS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442856"
+  },
+  {
+   "id": "strefa-52c5c948243a",
+   "date": "2026-11-24",
+   "time": "09:41",
+   "ts": "2026-11-24T09:41:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wynik finansowy firm po III kwartałach wzrósł o 45 proc. rdr - GUS",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/wynik-finansowy-firm-po-iii-kwartalach-wzrosl-o-45-proc-rdr-gus"
+  },
   {
    "id": "bossa-pap-442855",
    "date": "2026-11-24",

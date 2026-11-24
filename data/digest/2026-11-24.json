@@ -2,7 +2,7 @@
  "date": "2026-11-24",
  "counts": {
   "podsumowania": 9,
-  "wyniki": 2,
+  "wyniki": 3,
   "rekomendacje": 1,
   "korporacyjne": 4,
   "makro_pl": 7,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 18
+  "pozostale": 20
  },
- "duplicatesRemoved": 25,
- "total": 70,
+ "duplicatesRemoved": 27,
+ "total": 75,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -104,6 +104,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "09:41",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wynik finansowy firm po III kwartałach wzrósł o 45 proc. rdr - GUS",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/wynik-finansowy-firm-po-iii-kwartalach-wzrosl-o-45-proc-rdr-gus",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "07:58",
     "kind": "news",
@@ -291,6 +302,24 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:53",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wartość rynku dóbr luksusowych w Polsce w 2026 r. wyniesie 12,5 mld zł, o 4,9 proc. więcej rdr - KPMG",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442858",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "09:48",
+    "kind": "news",
+    "ticker": null,
+    "title": "Dane o sprzedaży detalicznej wskazują na stabilny obraz konsumpcji w październiku (opinia)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/dane-o-sprzedazy-detalicznej-wskazuja-na-stabilny-obraz-konsumpcji-w",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:40",
     "kind": "espi",
