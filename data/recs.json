@@ -1,6 +1,21 @@
 {
  "items": [
   {
+   "date": "2026-11-24",
+   "company": "APLISENS (APN)",
+   "code": "APN",
+   "name": "APLISENS",
+   "isin": "PLAPLS000016",
+   "rating": "Akumuluj",
+   "price": "17.5",
+   "target": "19.7",
+   "upside": "12.571428571429",
+   "priceAtPub": "17.5",
+   "house": "Noble Securities",
+   "report": "https://strefainwestorow.pl/sites/default/files/attachments/55588049_14091487_55588049_Aplisens_Disclaimer.pdf",
+   "ticker": null
+  },
+  {
    "date": "2026-11-23",
    "company": "VOXEL (VOX)",
    "code": "VOX",
@@ -4531,5 +4546,5 @@
    "ticker": "XTB"
   }
  ],
- "updatedAt": "2026-11-24T07:25:18+01:00"
+ "updatedAt": "2026-11-24T07:36:18+01:00"
 }

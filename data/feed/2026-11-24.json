@@ -1,7 +1,43 @@
 {
  "date": "2026-11-24",
- "count": 25,
+ "count": 28,
  "items": [
+  {
+   "id": "bossa-pap-442830",
+   "date": "2026-11-24",
+   "time": "07:34",
+   "ts": "2026-11-24T07:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Liczba nowo zarejestrowanych w Polsce samochodów w X wzrosła o 6,0 proc. rdr - ACEA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442830"
+  },
+  {
+   "id": "bossa-pap-442829",
+   "date": "2026-11-24",
+   "time": "07:30",
+   "ts": "2026-11-24T07:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Złotowe depozyty międzybankowe - WIBID, WIBOR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442829"
+  },
+  {
+   "id": "bossa-espi-271163",
+   "date": "2026-11-24",
+   "time": "07:30",
+   "ts": "2026-11-24T07:30:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "INPRO S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271163"
+  },
   {
    "id": "bossa-pap-442827",
    "date": "2026-11-24",
