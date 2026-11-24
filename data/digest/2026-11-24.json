@@ -2,20 +2,20 @@
  "date": "2026-11-24",
  "counts": {
   "podsumowania": 11,
-  "wyniki": 4,
+  "wyniki": 5,
   "rekomendacje": 2,
-  "korporacyjne": 29,
+  "korporacyjne": 30,
   "makro_pl": 16,
   "swiat_rynki": 7,
   "energetyka_surowce": 4,
   "nieruchomosci": 1,
-  "fundusze_drobne": 2,
+  "fundusze_drobne": 3,
   "twoje_spolki": 0,
   "obserwowane": 0,
   "pozostale": 44
  },
- "duplicatesRemoved": 69,
- "total": 189,
+ "duplicatesRemoved": 70,
+ "total": 193,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -123,6 +123,15 @@
   ],
   "wyniki": [
    {
+    "time": "15:06",
+    "kind": "news",
+    "ticker": null,
+    "title": "MF utrzymuje oprocentowanie i marże obligacji detalicznych w ofercie na grudzień",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/mf-utrzymuje-oprocentowanie-i-marze-obligacji-detalicznych-w-ofercie-na",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "14:01",
     "kind": "news",
     "ticker": null,
@@ -184,6 +193,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "15:24",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MR HAMBURGER S.A.: Zawiadomienia akcjonariuszy w trybie art. 69 ustawy o ofercie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271215",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "15:02",
     "kind": "espi",
@@ -757,6 +777,15 @@
    }
   ],
   "fundusze_drobne": [
+   {
+    "time": "15:18",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ALLIANZ POLSKA OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442951",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:37",
     "kind": "pap",
