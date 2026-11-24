@@ -1,7 +1,54 @@
 {
  "date": "2026-11-24",
- "count": 165,
+ "count": 169,
  "items": [
+  {
+   "id": "bossa-pap-442931",
+   "date": "2026-11-24",
+   "time": "14:24",
+   "ts": "2026-11-24T14:24:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Pengab w XI spadł do 23,5 pkt.; prognozy na kolejne miesiące ostrożniejsze (popr.)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442931"
+  },
+  {
+   "id": "bossa-pap-442930",
+   "date": "2026-11-24",
+   "time": "14:23",
+   "ts": "2026-11-24T14:23:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Redaktor naczelny PAP Biznes Piotr Rożek laureatem Nagrody Dziennikarskiej im. M. Krzaka",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442930"
+  },
+  {
+   "id": "bossa-espi-271204",
+   "date": "2026-11-24",
+   "time": "14:19",
+   "ts": "2026-11-24T14:19:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KEMBERTON Sp. z o.o.",
+   "title": "Zawarcie warunkowej i przedwstępnej umowy sprzedaży prawa użytkowania wieczystego nieruchomości oraz prawa własności nieruchomości położonych w Warszawie przy ul. Towarowej 9 oraz zakończenie negocjacji w przedmiocie zbycia na rzecz Atlas Ward Polska sp. z o.o. (i/lub podmiotu lub podmiotów wskazanych przez Atlas Ward Polska) pakietów kontrolnych w Emitencie oraz spółce z grupy, do której należy Emitent",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271204"
+  },
+  {
+   "id": "strefa-65786f3f37ec",
+   "date": "2026-11-24",
+   "time": "14:15",
+   "ts": "2026-11-24T14:15:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Pengab w XI spadł do 23,5 pkt.; prognozy na kolejne miesiące ostrożniejsze (popr.)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/pengab-w-xi-spadl-do-235-pkt-prognozy-na-kolejne-miesiace-ostrozniejsze-popr"
+  },
   {
    "id": "bossa-pap-442928",
    "date": "2026-11-24",
