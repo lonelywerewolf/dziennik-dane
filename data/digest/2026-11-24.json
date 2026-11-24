@@ -4,7 +4,7 @@
   "podsumowania": 17,
   "wyniki": 18,
   "rekomendacje": 3,
-  "korporacyjne": 62,
+  "korporacyjne": 63,
   "makro_pl": 19,
   "swiat_rynki": 16,
   "energetyka_surowce": 5,
@@ -15,7 +15,7 @@
   "pozostale": 68
  },
  "duplicatesRemoved": 126,
- "total": 346,
+ "total": 347,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -389,6 +389,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "23:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ORBITEO ASI SA (22/2026) Odwołanie lub rezygnacja osoby zarządzającej lub nadzorującej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443069",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "23:20",
     "kind": "espi",
