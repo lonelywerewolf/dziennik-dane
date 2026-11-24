@@ -1,7 +1,53 @@
 {
  "date": "2026-11-24",
- "count": 289,
+ "count": 293,
  "items": [
+  {
+   "id": "bossa-pap-443026",
+   "date": "2026-11-24",
+   "time": "17:51",
+   "ts": "2026-11-24T17:51:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PGE miała zysk netto j.d. w III kw. '26 w wysokości 3 mld zł, zgodnie z szacunkami",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443026"
+  },
+  {
+   "id": "strefa-81bf5b253bcb",
+   "date": "2026-11-24",
+   "time": "17:49",
+   "ts": "2026-11-24T17:49:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "PGE miała zysk netto j.d. w III kw. '26 w wysokości 3 mld zł, zgodnie z szacunkami",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/pge-miala-zysk-netto-jd-w-iii-kw-26-w-wysokosci-3-mld-zl-zgodnie-z-szacunkami"
+  },
+  {
+   "id": "strefa-e9dd234916d0",
+   "date": "2026-11-24",
+   "time": "17:48",
+   "ts": "2026-11-24T17:48:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Zarządca PKP Cargo złożył zażalenie na umorzenie śledztwa ws. działań na szkodę spółki",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/zarzadca-pkp-cargo-zlozyl-zazalenie-na-umorzenie-sledztwa-ws-dzialan-na-szkode"
+  },
+  {
+   "id": "bossa-pap-443025",
+   "date": "2026-11-24",
+   "time": "17:48",
+   "ts": "2026-11-24T17:48:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zarządca PKP Cargo złożył zażalenie na umorzenie śledztwa ws. działań na szkodę spółki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443025"
+  },
   {
    "id": "bossa-pap-443024",
    "date": "2026-11-24",
