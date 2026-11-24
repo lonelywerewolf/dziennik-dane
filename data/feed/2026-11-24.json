@@ -1,7 +1,55 @@
 {
  "date": "2026-11-24",
- "count": 138,
+ "count": 143,
  "items": [
+  {
+   "id": "bossa-pap-442912",
+   "date": "2026-11-24",
+   "time": "13:44",
+   "ts": "2026-11-24T13:44:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MC: Europejski Portfel Tożsamości Cyfrowej. Coraz więcej firm i instytucji przygotowuje się do zmian (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442912"
+  },
+  {
+   "id": "bossa-pap-442911",
+   "date": "2026-11-24",
+   "time": "13:44",
+   "ts": "2026-11-24T13:44:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Liderzy Grupy Wyszehradzkiej zaapelowali do von der Leyen o odroczenie systemu ETS2",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442911"
+  },
+  {
+   "id": "bossa-pap-442910",
+   "date": "2026-11-24",
+   "time": "13:41",
+   "ts": "2026-11-24T13:41:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "BANK SPÓŁDZIELCZY RZEMIOSŁA/Bank Spółdzielczy Rzemiosła w Krakowie (8/2026) Powołanie osoby zarządzającej lub nadzorującej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442910"
+  },
+  {
+   "id": "bossa-pap-442909",
+   "date": "2026-11-24",
+   "time": "13:37",
+   "ts": "2026-11-24T13:37:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "UNIQA OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442909"
+  },
   {
    "id": "bossa-espi-271193",
    "date": "2026-11-24",
@@ -49,6 +97,17 @@
    "title": "Raport bieżący nr 225 / 2026",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271191"
+  },
+  {
+   "id": "strefa-4b5a3be31513",
+   "date": "2026-11-24",
+   "time": "13:04",
+   "ts": "2026-11-24T13:04:54+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "KGHM i konsorcjum banków wspierają dalszy rozwój Sierra Gorda – struktura finansowania dostosowana do nowych wyzwań",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/kghm-i-konsorcjum-bankow-wspieraja-dalszy-rozwoj-sierra-gorda-struktura"
   },
   {
    "id": "bossa-pap-442904",

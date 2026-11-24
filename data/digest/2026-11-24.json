@@ -4,18 +4,18 @@
   "podsumowania": 10,
   "wyniki": 3,
   "rekomendacje": 1,
-  "korporacyjne": 15,
+  "korporacyjne": 16,
   "makro_pl": 12,
   "swiat_rynki": 5,
-  "energetyka_surowce": 2,
+  "energetyka_surowce": 3,
   "nieruchomosci": 1,
-  "fundusze_drobne": 1,
+  "fundusze_drobne": 2,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 37
+  "pozostale": 39
  },
  "duplicatesRemoved": 51,
- "total": 138,
+ "total": 143,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -157,6 +157,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "13:41",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BANK SPÓŁDZIELCZY RZEMIOSŁA/Bank Spółdzielczy Rzemiosła w Krakowie (8/2026) Powołanie osoby zarządzającej lub nadzorującej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442910",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "13:16",
     "kind": "pap",
@@ -477,6 +488,15 @@
   ],
   "energetyka_surowce": [
    {
+    "time": "13:04",
+    "kind": "news",
+    "ticker": null,
+    "title": "KGHM i konsorcjum banków wspierają dalszy rozwój Sierra Gorda – struktura finansowania dostosowana do nowych wyzwań",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/kghm-i-konsorcjum-bankow-wspieraja-dalszy-rozwoj-sierra-gorda-struktura",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "12:29",
     "kind": "news",
     "ticker": null,
@@ -508,6 +528,15 @@
   ],
   "fundusze_drobne": [
    {
+    "time": "13:37",
+    "kind": "pap",
+    "ticker": null,
+    "title": "UNIQA OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442909",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "13:00",
     "kind": "pap",
     "ticker": null,
@@ -520,6 +549,24 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "13:44",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MC: Europejski Portfel Tożsamości Cyfrowej. Coraz więcej firm i instytucji przygotowuje się do zmian (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442912",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:44",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Liderzy Grupy Wyszehradzkiej zaapelowali do von der Leyen o odroczenie systemu ETS2",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442911",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:16",
     "kind": "espi",
