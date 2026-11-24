@@ -1,7 +1,78 @@
 {
  "date": "2026-11-24",
- "count": 242,
+ "count": 249,
  "items": [
+  {
+   "id": "bossa-espi-271234",
+   "date": "2026-11-24",
+   "time": "17:02",
+   "ts": "2026-11-24T17:02:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PMPG POLSKIE MEDIA",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271234"
+  },
+  {
+   "id": "bossa-espi-12853",
+   "date": "2026-11-24",
+   "time": "17:02",
+   "ts": "2026-11-24T17:02:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BOOMBIT S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-12853"
+  },
+  {
+   "id": "bossa-pap-442996",
+   "date": "2026-11-24",
+   "time": "17:00",
+   "ts": "2026-11-24T17:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Skrót wiadomości - wtorek, 24 listopada, 17.00",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442996"
+  },
+  {
+   "id": "bossa-espi-271233",
+   "date": "2026-11-24",
+   "time": "16:56",
+   "ts": "2026-11-24T16:56:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PKP CARGO S.A. W RESTRUKTURYZACJI",
+   "title": "Złożenie zażalenia na postanowienie o umorzeniu śledztwa w sprawie działań na szkodę PKP CARGO S.A. w restrukturyzacji",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271233"
+  },
+  {
+   "id": "strefa-c7ce4f788902",
+   "date": "2026-11-24",
+   "time": "16:55",
+   "ts": "2026-11-24T16:55:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Sprzedaż miedzi przez grupę KGHM wyniosła w październiku 59,3 tys. ton, wzrost o 2 proc. rdr",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/sprzedaz-miedzi-przez-grupe-kghm-wyniosla-w-pazdzierniku-593-tys-ton-wzrost-o-2"
+  },
+  {
+   "id": "bossa-pap-442994",
+   "date": "2026-11-24",
+   "time": "16:53",
+   "ts": "2026-11-24T16:53:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "BEST FASHION MEDIA SA (23/2026) Zakończenie subskrypcji lub sprzedaży, związanej z wprowadzeniem instrumentów finansowych emitenta do obrotu w alternatywnym systemie",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442994"
+  },
   {
    "id": "bossa-pap-442993",
    "date": "2026-11-24",
@@ -96,6 +167,17 @@
    "title": "OFE wartości jednostek rozrachunkowych z 2026.11.20",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261124/ofe-wartosci-jednostek-rozrachunkowych-z-20261120"
+  },
+  {
+   "id": "strefa-47904da38b8d",
+   "date": "2026-11-24",
+   "time": "16:27",
+   "ts": "2026-11-24T16:27:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA FX/FI: EUR/PLN kolejny raz w górę, do niemal 4,47; złotemu może ciążyć gołębi przekaz RPP",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/dzien-na-fxfi-eurpln-kolejny-raz-w-gore-do-niemal-447-zlotemu-moze-ciazyc"
   },
   {
    "id": "bossa-pap-442986",
