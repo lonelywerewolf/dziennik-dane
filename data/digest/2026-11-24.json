@@ -14,18 +14,18 @@
   "obserwowane": 0,
   "pozostale": 60
  },
- "duplicatesRemoved": 110,
- "total": 304,
+ "duplicatesRemoved": 111,
+ "total": 305,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
    {
-    "time": "18:17",
-    "kind": "pap",
+    "time": "18:13",
+    "kind": "news",
     "ticker": null,
     "title": "DZIEŃ NA RYNKACH: Na giełdach w Europie spadki w obawie o nowe cła Trumpa",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443033",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/dzien-na-rynkach-na-gieldach-w-europie-spadki-w-obawie-o-nowe-cla-trumpa",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
