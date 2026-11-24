@@ -1,7 +1,31 @@
 {
  "date": "2026-11-24",
- "count": 324,
+ "count": 326,
  "items": [
+  {
+   "id": "bossa-pap-443051",
+   "date": "2026-11-24",
+   "time": "19:47",
+   "ts": "2026-11-24T19:47:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MEDTECH SOLUTIONS SA (18/2026) Zakończenie subskrypcji lub sprzedaży, związanej z wprowadzeniem instrumentów finansowych emitenta do obrotu w alternatywnym systemie",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443051"
+  },
+  {
+   "id": "bossa-espi-271255",
+   "date": "2026-11-24",
+   "time": "19:40",
+   "ts": "2026-11-24T19:40:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "SCANWAY S.A.",
+   "title": "Wybrane, szacunkowe dane finansowe za trzy kwartały roku obrotowego 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271255"
+  },
   {
    "id": "bossa-espi-271254",
    "date": "2026-11-24",

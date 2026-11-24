@@ -2,7 +2,7 @@
  "date": "2026-11-24",
  "counts": {
   "podsumowania": 17,
-  "wyniki": 16,
+  "wyniki": 17,
   "rekomendacje": 3,
   "korporacyjne": 55,
   "makro_pl": 19,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 10,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 63
+  "pozostale": 64
  },
  "duplicatesRemoved": 119,
- "total": 324,
+ "total": 326,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -178,6 +178,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "19:40",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SCANWAY S.A.: Wybrane, szacunkowe dane finansowe za trzy kwartały roku obrotowego 2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271255",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "18:41",
     "kind": "news",
@@ -1428,6 +1439,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "19:47",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MEDTECH SOLUTIONS SA (18/2026) Zakończenie subskrypcji lub sprzedaży, związanej z wprowadzeniem instrumentów finansowych emitenta do obrotu w alternatywnym systemie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443051",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "19:10",
     "kind": "news",
