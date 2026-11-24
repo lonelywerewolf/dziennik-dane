@@ -1,24 +1,33 @@
 {
  "date": "2026-11-24",
  "counts": {
-  "podsumowania": 12,
+  "podsumowania": 13,
   "wyniki": 6,
   "rekomendacje": 2,
   "korporacyjne": 39,
   "makro_pl": 18,
-  "swiat_rynki": 12,
-  "energetyka_surowce": 4,
+  "swiat_rynki": 13,
+  "energetyka_surowce": 5,
   "nieruchomosci": 1,
-  "fundusze_drobne": 9,
+  "fundusze_drobne": 10,
   "twoje_spolki": 0,
   "obserwowane": 0,
   "pozostale": 53
  },
  "duplicatesRemoved": 82,
- "total": 238,
+ "total": 242,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "16:53",
+    "kind": "pap",
+    "ticker": null,
+    "title": "DZIEŃ NA FX/FI: EUR/PLN kolejny raz w górę, do niemal 4,47; złotemu może ciążyć gołębi przekaz RPP",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442993",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:20",
     "kind": "news",
@@ -797,6 +806,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "16:47",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Administracja Trumpa nałoży nowe cła m.in. na UE i Chiny - media",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442991",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "16:23",
     "kind": "pap",
     "ticker": null,
@@ -907,6 +925,15 @@
   ],
   "energetyka_surowce": [
    {
+    "time": "16:52",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Sprzedaż miedzi przez grupę KGHM wyniosła w październiku 59,3 tys. ton, wzrost o 2 proc. rdr",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442992",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "15:01",
     "kind": "news",
     "ticker": null,
@@ -955,6 +982,15 @@
    }
   ],
   "fundusze_drobne": [
+   {
+    "time": "16:41",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Nationale-Nederlanden PTE SA informuje",
+    "url": "https://bossa.pl/analizy/komunikaty#message-442990",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:27",
     "kind": "news",
