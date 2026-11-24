@@ -1,7 +1,19 @@
 {
  "date": "2026-11-24",
- "count": 7,
+ "count": 8,
  "items": [
+  {
+   "id": "bossa-pap-442818",
+   "date": "2026-11-24",
+   "time": "06:11",
+   "ts": "2026-11-24T06:11:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Przegląd prasy gospodarczej we wtorek, 24 listopada",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442818"
+  },
   {
    "id": "bossa-pap-442817",
    "date": "2026-11-24",
