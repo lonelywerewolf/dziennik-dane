@@ -2,7 +2,7 @@
  "date": "2026-11-24",
  "counts": {
   "podsumowania": 17,
-  "wyniki": 17,
+  "wyniki": 18,
   "rekomendacje": 3,
   "korporacyjne": 56,
   "makro_pl": 19,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 64
  },
- "duplicatesRemoved": 120,
- "total": 328,
+ "duplicatesRemoved": 121,
+ "total": 330,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -188,6 +188,15 @@
     "flags": [
      "wyniki"
     ]
+   },
+   {
+    "time": "19:34",
+    "kind": "news",
+    "ticker": null,
+    "title": "Scanway ma po trzech kw. 10,59 mln zł straty EBITDA; backlog na koniec IX wynosił ok. 64 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/scanway-ma-po-trzech-kw-1059-mln-zl-straty-ebitda-backlog-na-koniec-ix-wynosil",
+    "src": "strefainwestorow",
+    "flags": []
    },
    {
     "time": "18:41",

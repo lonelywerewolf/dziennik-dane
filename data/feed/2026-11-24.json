@@ -1,7 +1,19 @@
 {
  "date": "2026-11-24",
- "count": 328,
+ "count": 330,
  "items": [
+  {
+   "id": "bossa-pap-443054",
+   "date": "2026-11-24",
+   "time": "20:05",
+   "ts": "2026-11-24T20:05:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Scanway ma po trzech kw. 10,59 mln zł straty EBITDA; backlog na koniec IX wynosił ok. 64 mln zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443054"
+  },
   {
    "id": "bossa-pap-443053",
    "date": "2026-11-24",
@@ -61,6 +73,17 @@
    "title": "Wniosek akcjonariusza o zwołanie Nadzwyczajnego Walnego Zgromadzenia",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271254"
+  },
+  {
+   "id": "strefa-bfbd5979e20a",
+   "date": "2026-11-24",
+   "time": "19:34",
+   "ts": "2026-11-24T19:34:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Scanway ma po trzech kw. 10,59 mln zł straty EBITDA; backlog na koniec IX wynosił ok. 64 mln zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/scanway-ma-po-trzech-kw-1059-mln-zl-straty-ebitda-backlog-na-koniec-ix-wynosil"
   },
   {
    "id": "bossa-pap-443048",
