@@ -5,17 +5,17 @@
   "wyniki": 3,
   "rekomendacje": 1,
   "korporacyjne": 12,
-  "makro_pl": 9,
-  "swiat_rynki": 3,
+  "makro_pl": 11,
+  "swiat_rynki": 4,
   "energetyka_surowce": 1,
   "nieruchomosci": 1,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 29
+  "pozostale": 30
  },
- "duplicatesRemoved": 35,
- "total": 104,
+ "duplicatesRemoved": 37,
+ "total": 110,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -287,6 +287,24 @@
   ],
   "makro_pl": [
    {
+    "time": "11:49",
+    "kind": "news",
+    "ticker": null,
+    "title": "Tabela kursów średnich NBP nr 228/A/NBP/2026",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/tabela-kursow-srednich-nbp-nr-228anbp2026",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "11:33",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ogólny wskaźnik syntetyczny koniunktury dla Polski w XI wyniósł 97,4 wobec 97,2 w X - GUS",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261124/ogolny-wskaznik-syntetyczny-koniunktury-dla-polski-w-xi-wyniosl-974-wobec-972-w",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "11:25",
     "kind": "pap",
     "ticker": null,
@@ -370,6 +388,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "11:50",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BETA ETF BITCOIN PORTFELOWY FIZ: Raport bieżący nr 239 / 2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271177",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "10:05",
     "kind": "pap",
     "ticker": null,
@@ -423,6 +450,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:50",
+    "kind": "espi",
+    "ticker": null,
+    "title": "WOJEWÓDZTWO MAZOWIECKIE: Zmiana adresu siedziby Emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271176",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:29",
     "kind": "espi",

@@ -1,7 +1,77 @@
 {
  "date": "2026-11-24",
- "count": 104,
+ "count": 110,
  "items": [
+  {
+   "id": "bossa-pap-442883",
+   "date": "2026-11-24",
+   "time": "11:51",
+   "ts": "2026-11-24T11:51:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Tabela kursów średnich NBP nr 228/A/NBP/2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442883"
+  },
+  {
+   "id": "bossa-espi-271177",
+   "date": "2026-11-24",
+   "time": "11:50",
+   "ts": "2026-11-24T11:50:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF BITCOIN PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 239 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271177"
+  },
+  {
+   "id": "bossa-espi-271176",
+   "date": "2026-11-24",
+   "time": "11:50",
+   "ts": "2026-11-24T11:50:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "WOJEWÓDZTWO MAZOWIECKIE",
+   "title": "Zmiana adresu siedziby Emitenta",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271176"
+  },
+  {
+   "id": "strefa-c18a6efb4142",
+   "date": "2026-11-24",
+   "time": "11:49",
+   "ts": "2026-11-24T11:49:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Tabela kursów średnich NBP nr 228/A/NBP/2026",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/tabela-kursow-srednich-nbp-nr-228anbp2026"
+  },
+  {
+   "id": "bossa-pap-442880",
+   "date": "2026-11-24",
+   "time": "11:48",
+   "ts": "2026-11-24T11:48:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ogólny wskaźnik syntetyczny koniunktury dla Polski w XI wyniósł 97,4 wobec 97,2 w X - GUS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-442880"
+  },
+  {
+   "id": "strefa-f8083902c6cd",
+   "date": "2026-11-24",
+   "time": "11:33",
+   "ts": "2026-11-24T11:33:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ogólny wskaźnik syntetyczny koniunktury dla Polski w XI wyniósł 97,4 wobec 97,2 w X - GUS",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261124/ogolny-wskaznik-syntetyczny-koniunktury-dla-polski-w-xi-wyniosl-974-wobec-972-w"
+  },
   {
    "id": "bossa-pap-442879",
    "date": "2026-11-24",
