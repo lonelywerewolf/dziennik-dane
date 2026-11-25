@@ -4,18 +4,18 @@
   "podsumowania": 12,
   "wyniki": 3,
   "rekomendacje": 0,
-  "korporacyjne": 40,
+  "korporacyjne": 44,
   "makro_pl": 21,
-  "swiat_rynki": 14,
+  "swiat_rynki": 15,
   "energetyka_surowce": 4,
   "nieruchomosci": 1,
-  "fundusze_drobne": 11,
+  "fundusze_drobne": 12,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 53
+  "pozostale": 54
  },
  "duplicatesRemoved": 94,
- "total": 255,
+ "total": 262,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -165,6 +165,44 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "16:23",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GRUPA AZOTY SA: Zwołanie Nadzwyczajnego Walnego Zgromadzenia Grupy Azoty S.A. na dzień 22 grudnia 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271338",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:23",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Proacta S.A.: Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia na dzień 21.12.2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271337",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:17",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PGE POLSKA GRUPA ENERGETYCZNA S.A.: Informacja o transakcjach w trybie art. 19 Rozporządzenia MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271336",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
+    "time": "16:17",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PEKAO BANK HIPOTECZNY: Powiadomienie o transakcji na instrumentach finansowych Pekao Banku Hipotecznego S.A. dokonanych przez Bank Polska Kasa Opieki S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271335",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:10",
     "kind": "espi",
@@ -786,6 +824,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "16:22",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MS: Projekt PLENTIFUL wsparciem polskiego wymiaru sprawiedliwości w sprawach międzynarodowych (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443261",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "16:08",
     "kind": "news",
     "ticker": null,
@@ -963,6 +1010,15 @@
   ],
   "fundusze_drobne": [
    {
+    "time": "16:23",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Nationale-Nederlanden OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443265",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "16:06",
     "kind": "news",
     "ticker": null,
@@ -1084,6 +1140,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "16:17",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MKiŚ: Spotkanie kierownictwa MKiŚ z sektorem NGO – bilans działań, otwarty dialog, nagrody dla liderów klimatycznych (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443263",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:12",
     "kind": "espi",

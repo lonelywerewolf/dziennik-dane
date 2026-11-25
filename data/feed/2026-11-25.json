@@ -1,7 +1,91 @@
 {
  "date": "2026-11-25",
- "count": 255,
+ "count": 262,
  "items": [
+  {
+   "id": "bossa-pap-443265",
+   "date": "2026-11-25",
+   "time": "16:23",
+   "ts": "2026-11-25T16:23:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Nationale-Nederlanden OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443265"
+  },
+  {
+   "id": "bossa-espi-271338",
+   "date": "2026-11-25",
+   "time": "16:23",
+   "ts": "2026-11-25T16:23:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "GRUPA AZOTY SA",
+   "title": "Zwołanie Nadzwyczajnego Walnego Zgromadzenia Grupy Azoty S.A. na dzień 22 grudnia 2026 roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271338"
+  },
+  {
+   "id": "bossa-espi-271337",
+   "date": "2026-11-25",
+   "time": "16:23",
+   "ts": "2026-11-25T16:23:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Proacta S.A.",
+   "title": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia na dzień 21.12.2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271337"
+  },
+  {
+   "id": "bossa-pap-443261",
+   "date": "2026-11-25",
+   "time": "16:22",
+   "ts": "2026-11-25T16:22:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MS: Projekt PLENTIFUL wsparciem polskiego wymiaru sprawiedliwości w sprawach międzynarodowych (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443261"
+  },
+  {
+   "id": "bossa-pap-443263",
+   "date": "2026-11-25",
+   "time": "16:17",
+   "ts": "2026-11-25T16:17:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MKiŚ: Spotkanie kierownictwa MKiŚ z sektorem NGO – bilans działań, otwarty dialog, nagrody dla liderów klimatycznych (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443263"
+  },
+  {
+   "id": "bossa-espi-271336",
+   "date": "2026-11-25",
+   "time": "16:17",
+   "ts": "2026-11-25T16:17:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PGE POLSKA GRUPA ENERGETYCZNA S.A.",
+   "title": "Informacja o transakcjach w trybie art. 19 Rozporządzenia MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271336"
+  },
+  {
+   "id": "bossa-espi-271335",
+   "date": "2026-11-25",
+   "time": "16:17",
+   "ts": "2026-11-25T16:17:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PEKAO BANK HIPOTECZNY",
+   "title": "Powiadomienie o transakcji na instrumentach finansowych Pekao Banku Hipotecznego S.A. dokonanych przez Bank Polska Kasa Opieki S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271335"
+  },
   {
    "id": "bossa-espi-271334",
    "date": "2026-11-25",
