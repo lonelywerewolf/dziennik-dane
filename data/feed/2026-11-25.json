@@ -1,7 +1,31 @@
 {
  "date": "2026-11-25",
- "count": 102,
+ "count": 105,
  "items": [
+  {
+   "id": "bossa-pap-443142",
+   "date": "2026-11-25",
+   "time": "10:32",
+   "ts": "2026-11-25T10:32:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne - SONIA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443142"
+  },
+  {
+   "id": "bossa-pap-443141",
+   "date": "2026-11-25",
+   "time": "10:31",
+   "ts": "2026-11-25T10:31:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Rząd rozważa różne scenariusze ws. cen prądu, w tym m.in. utrzymanie poziomu taryf - Motyka (aktl.)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443141"
+  },
   {
    "id": "bossa-pap-443140",
    "date": "2026-11-25",
@@ -25,6 +49,17 @@
    "title": "RB_FI_E_30.04.18",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271287"
+  },
+  {
+   "id": "strefa-944b606104ca",
+   "date": "2026-11-25",
+   "time": "10:26",
+   "ts": "2026-11-25T10:26:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Prezes UOKiK nałożył blisko 45 mln zł kary za zmowę przetargową na producentów gazomierzy miechowych",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/prezes-uokik-nalozyl-blisko-45-mln-zl-kary-za-zmowe-przetargowa-na-producentow"
   },
   {
    "id": "bossa-pap-443138",
