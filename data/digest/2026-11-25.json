@@ -1,24 +1,33 @@
 {
  "date": "2026-11-25",
  "counts": {
-  "podsumowania": 13,
-  "wyniki": 3,
+  "podsumowania": 14,
+  "wyniki": 4,
   "rekomendacje": 0,
-  "korporacyjne": 48,
+  "korporacyjne": 49,
   "makro_pl": 22,
   "swiat_rynki": 15,
-  "energetyka_surowce": 4,
+  "energetyka_surowce": 5,
   "nieruchomosci": 1,
-  "fundusze_drobne": 14,
+  "fundusze_drobne": 17,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 55
+  "pozostale": 60
  },
- "duplicatesRemoved": 95,
- "total": 272,
+ "duplicatesRemoved": 99,
+ "total": 288,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "17:05",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA FX/FI: PLN z dalszym osłabieniem; czwartek i piątek powinny przynieść uspokojenie",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/dzien-na-fxfi-pln-z-dalszym-oslabieniem-czwartek-i-piatek-powinny-przyniesc",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:02",
     "kind": "skrot",
@@ -141,6 +150,17 @@
   ],
   "wyniki": [
    {
+    "time": "17:13",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wyniki Śnieżki w III kw. 2026 roku vs. konsensus PAP (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/wyniki-sniezki-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
     "time": "10:15",
     "kind": "news",
     "ticker": null,
@@ -174,6 +194,18 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "17:11",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ECC GAMES S.A.: Informacja o transakcjach wykonywanych przez osoby pełniące obowiązki zarządcze",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271346",
+    "src": "bossa",
+    "flags": [
+     "zarząd",
+     "insider"
+    ]
+   },
    {
     "time": "16:58",
     "kind": "espi",
@@ -1021,6 +1053,15 @@
   ],
   "energetyka_surowce": [
    {
+    "time": "16:59",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MRiRW: Ruszyły wypłaty dopłat do nawozów i paliwa. Kolejne gminy wolne od ASF (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443278",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "15:02",
     "kind": "news",
     "ticker": null,
@@ -1069,6 +1110,33 @@
    }
   ],
   "fundusze_drobne": [
+   {
+    "time": "17:12",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Arlen S.A.: Przedterminowa spłata części pożyczki udzielonej przez OPTEX S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271347",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:08",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SANOK RC SA: Zaproszenie do składania ofert sprzedaży akcji",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271345",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:59",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ALLIANZ POLSKA OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443280",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:56",
     "kind": "pap",
@@ -1218,6 +1286,51 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:13",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KPRM: KPRM trzeci raz apeluje do Prezydenta w sprawie Medali za Długoletnie Pożycie Małżeńskie. Premier skieruje listy gratulacyjne do 144 tys. oczekujących małżeństw (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443284",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:07",
+    "kind": "espi",
+    "ticker": null,
+    "title": "DEFENCE.HUB S.A.: Zmiana stanu posiadania",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271344",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "Molecure ma term sheet dot. finansowania w wys. 50 mln zł na dalszy rozwój programu OATD-01",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/molecure-ma-term-sheet-dot-finansowania-w-wys-50-mln-zl-na-dalszy-rozwoj",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "17:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MSWiA: Ponad 68 mln zł i realizacja w rok. Nowy budynek Państwowego Instytutu Medycznego MSWiA oddany do użytku (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443275",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:59",
+    "kind": "pap",
+    "ticker": null,
+    "title": "UNIVERSE SA (15/2026) Zmiana adresu emitenta lub adresu jego strony internetowej lub ostatniego wskazanego Organizatorowi Alternatywnego Systemu adresu e-mail emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443279",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:52",
     "kind": "espi",
