@@ -4,7 +4,7 @@
   "podsumowania": 17,
   "wyniki": 11,
   "rekomendacje": 0,
-  "korporacyjne": 62,
+  "korporacyjne": 63,
   "makro_pl": 23,
   "swiat_rynki": 21,
   "energetyka_surowce": 6,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 83
  },
- "duplicatesRemoved": 127,
- "total": 371,
+ "duplicatesRemoved": 128,
+ "total": 373,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -292,6 +292,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "20:16",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wzywający zmienił cenę akcji w wezwaniu na akcje Erste Bank Polska na 713,6 zł za akcję",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443352",
+    "src": "bossa",
+    "flags": [
+     "wezwanie"
+    ]
+   },
    {
     "time": "20:09",
     "kind": "pap",

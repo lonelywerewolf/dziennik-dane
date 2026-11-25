@@ -1,7 +1,31 @@
 {
  "date": "2026-11-25",
- "count": 371,
+ "count": 373,
  "items": [
+  {
+   "id": "bossa-espi-271376",
+   "date": "2026-11-25",
+   "time": "20:19",
+   "ts": "2026-11-25T20:19:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "3R Games S.A.",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271376"
+  },
+  {
+   "id": "bossa-pap-443352",
+   "date": "2026-11-25",
+   "time": "20:16",
+   "ts": "2026-11-25T20:16:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wzywający zmienił cenę akcji w wezwaniu na akcje Erste Bank Polska na 713,6 zł za akcję",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443352"
+  },
   {
    "id": "bossa-pap-443350",
    "date": "2026-11-25",
