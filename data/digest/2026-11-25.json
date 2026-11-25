@@ -12,10 +12,10 @@
   "fundusze_drobne": 17,
   "twoje_spolki": 3,
   "obserwowane": 0,
-  "pozostale": 83
+  "pozostale": 84
  },
  "duplicatesRemoved": 128,
- "total": 373,
+ "total": 374,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1616,6 +1616,17 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "20:51",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BUMECH S.A.: Znaczne pakiety akcji",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271377",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "20:03",
     "kind": "pap",
