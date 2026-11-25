@@ -1,7 +1,113 @@
 {
  "date": "2026-11-25",
- "count": 245,
+ "count": 255,
  "items": [
+  {
+   "id": "bossa-espi-271334",
+   "date": "2026-11-25",
+   "time": "16:10",
+   "ts": "2026-11-25T16:10:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "GENOMED S.A.",
+   "title": "Powiadomienie o transakcjach na akcjach Spółki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271334"
+  },
+  {
+   "id": "bossa-pap-443259",
+   "date": "2026-11-25",
+   "time": "16:09",
+   "ts": "2026-11-25T16:09:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Euro w EBC: 1,0935 USD i 174,22 JPY",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443259"
+  },
+  {
+   "id": "bossa-pap-443258",
+   "date": "2026-11-25",
+   "time": "16:09",
+   "ts": "2026-11-25T16:09:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PROACTA SA (12/2026) Informacje o walnym zgromadzeniu - zwołanie WZ z projektami uchwał, zmiany w porządku obrad WZ",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443258"
+  },
+  {
+   "id": "strefa-1fee00b5e9b6",
+   "date": "2026-11-25",
+   "time": "16:08",
+   "ts": "2026-11-25T16:08:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Euro w EBC: 1,0935 USD i 174,22 JPY",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/euro-w-ebc-10935-usd-i-17422-jpy"
+  },
+  {
+   "id": "strefa-c26348617f6b",
+   "date": "2026-11-25",
+   "time": "16:06",
+   "ts": "2026-11-25T16:06:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Rynek ropy liczy na wygaszanie wojny z Iranem - Pekao TFI (opinia)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/rynek-ropy-liczy-na-wygaszanie-wojny-z-iranem-pekao-tfi-opinia"
+  },
+  {
+   "id": "bossa-espi-11115",
+   "date": "2026-11-25",
+   "time": "16:05",
+   "ts": "2026-11-25T16:05:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KRUK S.A.",
+   "title": "Przyznanie akcji w ramach warunkowego podwyższenia kapitału zakładowego, informacja o zakończeniu kolejnej subskrypcji akcji serii H w związku z realizacją programu motywacyjnego; podwyższenie kapitału zakładowego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-11115"
+  },
+  {
+   "id": "bossa-pap-443256",
+   "date": "2026-11-25",
+   "time": "16:04",
+   "ts": "2026-11-25T16:04:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Sprzedaż nowych domów w USA w październiku: 701 tys. Konsensus: 650 tys.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443256"
+  },
+  {
+   "id": "bossa-pap-443255",
+   "date": "2026-11-25",
+   "time": "16:02",
+   "ts": "2026-11-25T16:02:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: WIG20 poniżej 4.000 pkt., rynek ciągną w dół m. in. Orlen, KGHM i banki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443255"
+  },
+  {
+   "id": "bossa-pap-443254",
+   "date": "2026-11-25",
+   "time": "16:02",
+   "ts": "2026-11-25T16:02:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "W wezwaniu na akcje Erste Bank Polska został spełniony warunek minimalnej liczby zapisów",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443254"
+  },
   {
    "id": "bossa-espi-271332",
    "date": "2026-11-25",
@@ -37,6 +143,17 @@
    "title": "GENERALI OFE wartość jednostki rozrachunkowej",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-443250"
+  },
+  {
+   "id": "strefa-690ada55dd9d",
+   "date": "2026-11-25",
+   "time": "15:35",
+   "ts": "2026-11-25T15:35:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: WIG20 poniżej 4.000 pkt., rynek ciągną w dół m. in. Orlen, KGHM i banki",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/dzien-na-gpw-wig20-ponizej-4000-pkt-rynek-ciagna-w-dol-m-orlen-kghm-i-banki"
   },
   {
    "id": "bossa-pap-443251",

@@ -1,12 +1,12 @@
 {
  "date": "2026-11-25",
  "counts": {
-  "podsumowania": 11,
+  "podsumowania": 12,
   "wyniki": 3,
   "rekomendacje": 0,
-  "korporacyjne": 38,
+  "korporacyjne": 40,
   "makro_pl": 21,
-  "swiat_rynki": 11,
+  "swiat_rynki": 14,
   "energetyka_surowce": 4,
   "nieruchomosci": 1,
   "fundusze_drobne": 11,
@@ -14,11 +14,20 @@
   "obserwowane": 0,
   "pozostale": 53
  },
- "duplicatesRemoved": 90,
- "total": 245,
+ "duplicatesRemoved": 94,
+ "total": 255,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "15:35",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: WIG20 poniżej 4.000 pkt., rynek ciągną w dół m. in. Orlen, KGHM i banki",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/dzien-na-gpw-wig20-ponizej-4000-pkt-rynek-ciagna-w-dol-m-orlen-kghm-i-banki",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "14:33",
     "kind": "news",
@@ -156,6 +165,26 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "16:10",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GENOMED S.A.: Powiadomienie o transakcjach na akcjach Spółki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271334",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:02",
+    "kind": "pap",
+    "ticker": null,
+    "title": "W wezwaniu na akcje Erste Bank Polska został spełniony warunek minimalnej liczby zapisów",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443254",
+    "src": "bossa",
+    "flags": [
+     "wezwanie"
+    ]
+   },
    {
     "time": "15:49",
     "kind": "espi",
@@ -757,6 +786,33 @@
   ],
   "swiat_rynki": [
    {
+    "time": "16:08",
+    "kind": "news",
+    "ticker": null,
+    "title": "Euro w EBC: 1,0935 USD i 174,22 JPY",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/euro-w-ebc-10935-usd-i-17422-jpy",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "16:05",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KRUK S.A.: Przyznanie akcji w ramach warunkowego podwyższenia kapitału zakładowego, informacja o zakończeniu kolejnej subskrypcji akcji serii H w związku z realizacją programu motywacyjnego; podwyższenie kapitału zakładowego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-11115",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:04",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Sprzedaż nowych domów w USA w październiku: 701 tys. Konsensus: 650 tys.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443256",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "15:06",
     "kind": "pap",
     "ticker": null,
@@ -907,6 +963,15 @@
   ],
   "fundusze_drobne": [
    {
+    "time": "16:06",
+    "kind": "news",
+    "ticker": null,
+    "title": "Rynek ropy liczy na wygaszanie wojny z Iranem - Pekao TFI (opinia)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/rynek-ropy-liczy-na-wygaszanie-wojny-z-iranem-pekao-tfi-opinia",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "15:36",
     "kind": "pap",
     "ticker": null,
@@ -930,15 +995,6 @@
     "ticker": null,
     "title": "OFE POCZTYLION wartość jednostki rozrachunkowej",
     "url": "https://bossa.pl/analizy/komunikaty#message-443231",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "14:08",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Rynek ropy liczy na wygaszanie wojny z Iranem - Pekao TFI (opinia)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443217",
     "src": "bossa",
     "flags": []
    },
