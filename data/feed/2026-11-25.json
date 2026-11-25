@@ -1,7 +1,90 @@
 {
  "date": "2026-11-25",
- "count": 176,
+ "count": 184,
  "items": [
+  {
+   "id": "bossa-espi-271315",
+   "date": "2026-11-25",
+   "time": "13:16",
+   "ts": "2026-11-25T13:16:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ZREMB-CHOJNICE S.A.",
+   "title": "Zawarcie term sheet dotyczącego przyszłych dostaw na rzecz podmiotu z jednego z krajów NATO.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271315"
+  },
+  {
+   "id": "bossa-pap-443201",
+   "date": "2026-11-25",
+   "time": "13:14",
+   "ts": "2026-11-25T13:14:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Cena maksymalna dla benzyny Pb95 w czwartek wyniesie 5,82 zł/l, dla ON 7,15 zł/l",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443201"
+  },
+  {
+   "id": "strefa-5558b3957819",
+   "date": "2026-11-25",
+   "time": "13:10",
+   "ts": "2026-11-25T13:10:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Domy maklerskie miały 1,34 mld zł zysku netto po trzech kw. - KNF",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/domy-maklerskie-mialy-134-mld-zl-zysku-netto-po-trzech-kw-knf"
+  },
+  {
+   "id": "bossa-pap-443200",
+   "date": "2026-11-25",
+   "time": "13:10",
+   "ts": "2026-11-25T13:10:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeksy transakcyjne - POLSTR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443200"
+  },
+  {
+   "id": "bossa-pap-443199",
+   "date": "2026-11-25",
+   "time": "13:10",
+   "ts": "2026-11-25T13:10:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeksy transakcyjne - WIRON",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443199"
+  },
+  {
+   "id": "bossa-pap-443197",
+   "date": "2026-11-25",
+   "time": "13:09",
+   "ts": "2026-11-25T13:09:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Murapol chce zwiększyć ofertę i zawalczyć w '27 o sprzedaż na poziomie ok. 3,5 tys. lokali",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443197"
+  },
+  {
+   "id": "bossa-espi-271314",
+   "date": "2026-11-25",
+   "time": "13:09",
+   "ts": "2026-11-25T13:09:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 PLN-HEDGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 237 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271314"
+  },
   {
    "id": "bossa-espi-271313",
    "date": "2026-11-25",
@@ -13,6 +96,17 @@
    "title": "Raport bieżący nr 237 / 2026",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271313"
+  },
+  {
+   "id": "strefa-854f9a6c4306",
+   "date": "2026-11-25",
+   "time": "13:02",
+   "ts": "2026-11-25T13:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Murapol chce zwiększyć ofertę i zawalczyć w '27 o sprzedaż na poziomie ok. 3,5 tys. lokali",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/murapol-chce-zwiekszyc-oferte-i-zawalczyc-w-27-o-sprzedaz-na-poziomie-ok-35-tys"
   },
   {
    "id": "bossa-espi-271312",
