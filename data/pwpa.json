@@ -1,6 +1,17 @@
 {
  "items": [
   {
+   "date": "2026-11-25",
+   "ticker": "CBF",
+   "company": "CYBER_FOLKS S.A.",
+   "file": "20261125_mbank_cbf_pl_ra.pdf",
+   "url": "https://www.gpw.pl/pub/pwpa/20261125_mbank_cbf_pl_ra.pdf",
+   "type": "raport aktualizujący",
+   "house": "mBank S.A.",
+   "pdfTries": 1,
+   "pdfLastTry": "2026-11-25T09:02+01:00"
+  },
+  {
    "date": "2026-11-24",
    "ticker": "CLD",
    "company": "CLOUD TECHNOLOGIES S.A.",
@@ -713,5 +724,5 @@
    "house": "Noble Securities S.A."
   }
  ],
- "updatedAt": "2026-11-25T08:51:52+01:00"
+ "updatedAt": "2026-11-25T09:02:52+01:00"
 }
