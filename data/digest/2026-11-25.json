@@ -4,18 +4,18 @@
   "podsumowania": 10,
   "wyniki": 3,
   "rekomendacje": 0,
-  "korporacyjne": 27,
-  "makro_pl": 17,
-  "swiat_rynki": 7,
+  "korporacyjne": 29,
+  "makro_pl": 19,
+  "swiat_rynki": 8,
   "energetyka_surowce": 3,
   "nieruchomosci": 1,
   "fundusze_drobne": 8,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 46
+  "pozostale": 47
  },
- "duplicatesRemoved": 82,
- "total": 206,
+ "duplicatesRemoved": 85,
+ "total": 215,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -145,6 +145,28 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "14:24",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KOGENERA: Zmiana porządku obrad Nadzwyczajnego Walnego Zgromadzenia Spółki Zespół Elektrociepłowni Wrocławskich KOGENERACJA S.A. zwołanego na dzień 16 grudnia 2026 r., wprowadzona na wniosek Akcjonariusza PGE Energia Ciepła S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271323",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
+   {
+    "time": "14:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "RN Orlenu odwołała Sławomira Jędrzejczyka i Marka Balawejdera z zarządu spółki",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/rn-orlenu-odwolala-slawomira-jedrzejczyka-i-marka-balawejdera-z-zarzadu-spolki",
+    "src": "strefainwestorow",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "14:20",
     "kind": "espi",
@@ -436,6 +458,24 @@
   ],
   "makro_pl": [
    {
+    "time": "14:33",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PKB USA w III kw.: 4,3 proc. SAAR kdk - II wyliczenie. Konsensus: 3,5 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443227",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:31",
+    "kind": "news",
+    "ticker": null,
+    "title": "MF w ramach sprzedaży dodatkowej uplasowało papiery za 1,88 mld zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/mf-w-ramach-sprzedazy-dodatkowej-uplasowalo-papiery-za-188-mld-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "13:58",
     "kind": "pap",
     "ticker": null,
@@ -590,6 +630,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "14:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Deflator PCE w USA w październiku: 3,8 proc. rdr. Konsensus: 3,8 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443226",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:23",
     "kind": "pap",
@@ -790,6 +839,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "14:29",
+    "kind": "news",
+    "ticker": null,
+    "title": "Nadchodzące tytuły CD Projektu RED będą grami wieloplatformowymi - Nowakowski",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/nadchodzace-tytuly-cd-projektu-red-beda-grami-wieloplatformowymi-nowakowski",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "14:23",
     "kind": "pap",

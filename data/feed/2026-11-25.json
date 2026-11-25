@@ -1,7 +1,101 @@
 {
  "date": "2026-11-25",
- "count": 206,
+ "count": 215,
  "items": [
+  {
+   "id": "bossa-pap-443227",
+   "date": "2026-11-25",
+   "time": "14:33",
+   "ts": "2026-11-25T14:33:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PKB USA w III kw.: 4,3 proc. SAAR kdk - II wyliczenie. Konsensus: 3,5 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443227"
+  },
+  {
+   "id": "bossa-pap-443226",
+   "date": "2026-11-25",
+   "time": "14:32",
+   "ts": "2026-11-25T14:32:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Deflator PCE w USA w październiku: 3,8 proc. rdr. Konsensus: 3,8 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443226"
+  },
+  {
+   "id": "strefa-6e1e82afe4e6",
+   "date": "2026-11-25",
+   "time": "14:31",
+   "ts": "2026-11-25T14:31:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "MF w ramach sprzedaży dodatkowej uplasowało papiery za 1,88 mld zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/mf-w-ramach-sprzedazy-dodatkowej-uplasowalo-papiery-za-188-mld-zl"
+  },
+  {
+   "id": "bossa-pap-443225",
+   "date": "2026-11-25",
+   "time": "14:30",
+   "ts": "2026-11-25T14:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Nadchodzące tytuły CD Projektu RED będą grami wieloplatformowymi - Nowakowski",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443225"
+  },
+  {
+   "id": "bossa-pap-443224",
+   "date": "2026-11-25",
+   "time": "14:30",
+   "ts": "2026-11-25T14:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MF w ramach sprzedaży dodatkowej uplasowało papiery za 1,88 mld zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443224"
+  },
+  {
+   "id": "strefa-418efc8a5d57",
+   "date": "2026-11-25",
+   "time": "14:29",
+   "ts": "2026-11-25T14:29:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Nadchodzące tytuły CD Projektu RED będą grami wieloplatformowymi - Nowakowski",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/nadchodzace-tytuly-cd-projektu-red-beda-grami-wieloplatformowymi-nowakowski"
+  },
+  {
+   "id": "bossa-pap-443223",
+   "date": "2026-11-25",
+   "time": "14:28",
+   "ts": "2026-11-25T14:28:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "RN Orlenu odwołała Sławomira Jędrzejczyka i Marka Balawejdera z zarządu spółki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443223"
+  },
+  {
+   "id": "bossa-espi-271323",
+   "date": "2026-11-25",
+   "time": "14:24",
+   "ts": "2026-11-25T14:24:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KOGENERA",
+   "title": "Zmiana porządku obrad Nadzwyczajnego Walnego Zgromadzenia Spółki Zespół Elektrociepłowni Wrocławskich KOGENERACJA S.A. zwołanego na dzień 16 grudnia 2026 r., wprowadzona na wniosek Akcjonariusza PGE Energia Ciepła S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271323"
+  },
   {
    "id": "bossa-pap-443221",
    "date": "2026-11-25",
@@ -13,6 +107,17 @@
    "title": "Krajowy zasób lokali PRS może zbliżyć się do 42 tys. do końca 2028 r. - raport",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-443221"
+  },
+  {
+   "id": "strefa-4c9c2c04cf32",
+   "date": "2026-11-25",
+   "time": "14:20",
+   "ts": "2026-11-25T14:20:54+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "RN Orlenu odwołała Sławomira Jędrzejczyka i Marka Balawejdera z zarządu spółki",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/rn-orlenu-odwolala-slawomira-jedrzejczyka-i-marka-balawejdera-z-zarzadu-spolki"
   },
   {
    "id": "bossa-espi-12502",
