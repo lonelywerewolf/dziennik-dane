@@ -1,7 +1,42 @@
 {
  "date": "2026-11-25",
- "count": 105,
+ "count": 109,
  "items": [
+  {
+   "id": "bossa-pap-443144",
+   "date": "2026-11-25",
+   "time": "10:51",
+   "ts": "2026-11-25T10:51:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Dla Polaków luksusem przede wszystkim zdrowie, spokój i poczucie bezpieczeństwa - CBOS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443144"
+  },
+  {
+   "id": "bossa-pap-443143",
+   "date": "2026-11-25",
+   "time": "10:46",
+   "ts": "2026-11-25T10:46:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "34,1 mln dni nieobecności w pracy z powodu schorzeń psychosomatycznych w '25 - ZUS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443143"
+  },
+  {
+   "id": "strefa-1b5947db99fb",
+   "date": "2026-11-25",
+   "time": "10:44",
+   "ts": "2026-11-25T10:44:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ultimate Games: Space Mechanic Simulator wkrótce na PS5 i XBOX",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/ultimate-games-space-mechanic-simulator-wkrotce-na-ps5-i-xbox"
+  },
   {
    "id": "bossa-pap-443142",
    "date": "2026-11-25",
@@ -13,6 +48,17 @@
    "title": "Wskaźniki referencyjne - SONIA",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-443142"
+  },
+  {
+   "id": "strefa-2c0b6584df8f",
+   "date": "2026-11-25",
+   "time": "10:31",
+   "ts": "2026-11-25T10:31:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Rząd rozważa różne scenariusze ws. cen prądu, w tym m.in. utrzymanie poziomu taryf - Motyka (aktl.)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/rzad-rozwaza-rozne-scenariusze-ws-cen-pradu-w-tym-min-utrzymanie-poziomu-0"
   },
   {
    "id": "bossa-pap-443141",
