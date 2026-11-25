@@ -1,7 +1,67 @@
 {
  "date": "2026-11-25",
- "count": 86,
+ "count": 91,
  "items": [
+  {
+   "id": "bossa-espi-271284",
+   "date": "2026-11-25",
+   "time": "10:07",
+   "ts": "2026-11-25T10:07:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF MSCI WORLD PORTFELOWY FIZ",
+   "title": "RB_FI_E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271284"
+  },
+  {
+   "id": "bossa-espi-271283",
+   "date": "2026-11-25",
+   "time": "10:06",
+   "ts": "2026-11-25T10:06:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF GOLD PORTFELOWY FIZ",
+   "title": "RB_FI_E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271283"
+  },
+  {
+   "id": "bossa-espi-271282",
+   "date": "2026-11-25",
+   "time": "10:04",
+   "ts": "2026-11-25T10:04:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF OBLIGACJI SKARBOWYCH ZMIENNOKUPONOWYCH PORTFELOWY FIZ",
+   "title": "RB_FI_E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271282"
+  },
+  {
+   "id": "bossa-espi-271281",
+   "date": "2026-11-25",
+   "time": "10:03",
+   "ts": "2026-11-25T10:03:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF OBLIGACJI SKARBOWYCH DŁUGOTERMINOWYCH PORTFELOWY FIZ",
+   "title": "RB_FI_E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271281"
+  },
+  {
+   "id": "bossa-pap-443128",
+   "date": "2026-11-25",
+   "time": "10:00",
+   "ts": "2026-11-25T10:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MRiRW: Więcej polskiego mięsa na koreańskim rynku. Rozmawiamy o rozwoju eksportu (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443128"
+  },
   {
    "id": "bossa-espi-271280",
    "date": "2026-11-25",
