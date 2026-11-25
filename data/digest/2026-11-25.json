@@ -4,18 +4,18 @@
   "podsumowania": 18,
   "wyniki": 11,
   "rekomendacje": 0,
-  "korporacyjne": 65,
-  "makro_pl": 24,
+  "korporacyjne": 66,
+  "makro_pl": 25,
   "swiat_rynki": 21,
   "energetyka_surowce": 6,
   "nieruchomosci": 1,
   "fundusze_drobne": 17,
   "twoje_spolki": 3,
   "obserwowane": 0,
-  "pozostale": 84
+  "pozostale": 85
  },
  "duplicatesRemoved": 132,
- "total": 382,
+ "total": 385,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -301,6 +301,15 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "22:38",
+    "kind": "espi",
+    "ticker": null,
+    "title": "APATOR: Powiadomienie o transakcjach na akcjach Apator S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271380",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "21:34",
     "kind": "espi",
@@ -992,6 +1001,15 @@
   ],
   "makro_pl": [
    {
+    "time": "22:41",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Kompromis w sprawie budżetu UE trudny do osiągnięcia w tym roku - wiceminister Niemczycki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443362",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "21:07",
     "kind": "pap",
     "ticker": null,
@@ -1656,6 +1674,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "22:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PE przyjął reformę unijnych przepisów farmaceutycznych, która ma ograniczyć niedobory leków",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443361",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "20:51",
     "kind": "espi",
