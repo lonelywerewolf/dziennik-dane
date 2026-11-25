@@ -1,7 +1,31 @@
 {
  "date": "2026-11-25",
- "count": 263,
+ "count": 265,
  "items": [
+  {
+   "id": "bossa-pap-443270",
+   "date": "2026-11-25",
+   "time": "16:44",
+   "ts": "2026-11-25T16:44:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "NFOŚiGW z pozytywną oceną KE ws. 29 mld zł wydatków z KPO",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443270"
+  },
+  {
+   "id": "bossa-pap-443269",
+   "date": "2026-11-25",
+   "time": "16:38",
+   "ts": "2026-11-25T16:38:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "CONSOLEWAY SA (14/2026) Podpisanie przez emitenta z firmą audytorską umowy o badanie sprawozdań finansowych lub skonsolidowanych sprawozdań finansowych emitenta",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443269"
+  },
   {
    "id": "bossa-espi-271339",
    "date": "2026-11-25",
