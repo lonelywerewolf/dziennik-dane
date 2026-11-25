@@ -4,7 +4,7 @@
   "podsumowania": 17,
   "wyniki": 11,
   "rekomendacje": 0,
-  "korporacyjne": 61,
+  "korporacyjne": 62,
   "makro_pl": 23,
   "swiat_rynki": 21,
   "energetyka_surowce": 6,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 17,
   "twoje_spolki": 3,
   "obserwowane": 0,
-  "pozostale": 81
+  "pozostale": 83
  },
  "duplicatesRemoved": 127,
- "total": 368,
+ "total": 371,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -292,6 +292,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "20:09",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Komunikat w sprawie zmiany wezwania do zapisywania się na sprzedaż akcji ERSTE BANK POLSKA SA",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443350",
+    "src": "bossa",
+    "flags": [
+     "wezwanie"
+    ]
+   },
    {
     "time": "18:49",
     "kind": "espi",
@@ -1594,6 +1605,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "20:03",
+    "kind": "pap",
+    "ticker": null,
+    "title": "WAN/WAN S.A. (17/2026) Zwołanie zgromadzenia obligatariuszy instrumentów finansowych wprowadzonych do obrotu w alternatywnym systemie obrotu",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443348",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "20:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "RESI CAPITAL/RESI CAPITAL Spółka Akcyjna (8/2026) Zwołanie zgromadzenia obligatariuszy instrumentów finansowych wprowadzonych do obrotu w alternatywnym systemie obrotu",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443349",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "19:34",
     "kind": "pap",

@@ -1,7 +1,43 @@
 {
  "date": "2026-11-25",
- "count": 368,
+ "count": 371,
  "items": [
+  {
+   "id": "bossa-pap-443350",
+   "date": "2026-11-25",
+   "time": "20:09",
+   "ts": "2026-11-25T20:09:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Komunikat w sprawie zmiany wezwania do zapisywania się na sprzedaż akcji ERSTE BANK POLSKA SA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443350"
+  },
+  {
+   "id": "bossa-pap-443348",
+   "date": "2026-11-25",
+   "time": "20:03",
+   "ts": "2026-11-25T20:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "WAN/WAN S.A. (17/2026) Zwołanie zgromadzenia obligatariuszy instrumentów finansowych wprowadzonych do obrotu w alternatywnym systemie obrotu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443348"
+  },
+  {
+   "id": "bossa-pap-443349",
+   "date": "2026-11-25",
+   "time": "20:00",
+   "ts": "2026-11-25T20:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "RESI CAPITAL/RESI CAPITAL Spółka Akcyjna (8/2026) Zwołanie zgromadzenia obligatariuszy instrumentów finansowych wprowadzonych do obrotu w alternatywnym systemie obrotu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443349"
+  },
   {
    "id": "bossa-pap-443347",
    "date": "2026-11-25",
