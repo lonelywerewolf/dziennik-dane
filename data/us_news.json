@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "id": "df84cef69165",
+   "ticker": "NVDA",
+   "time": "2026-11-25T01:46+01:00",
+   "title": "Nvidia Is Down 31% From Its Peak. History Says This Happens Next",
+   "url": "https://www.nasdaq.com/articles/nvidia-down-31-its-peak-history-says-happens-next",
+   "src": "nasdaq",
+   "summary": "Key PointsShares of Nvidia fell by more than 50% in the final quarter of 2018 due to the cryptocurrency hangover."
+  },
+  {
    "id": "2e8e0995fd3b",
    "ticker": "MRVL",
    "time": "2026-11-25T00:37+01:00",
@@ -17875,5 +17884,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-25T01:45:50+01:00"
+ "updatedAt": "2026-11-25T02:35:50+01:00"
 }
