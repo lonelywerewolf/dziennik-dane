@@ -1,7 +1,43 @@
 {
  "date": "2026-11-25",
- "count": 202,
+ "count": 206,
  "items": [
+  {
+   "id": "bossa-pap-443221",
+   "date": "2026-11-25",
+   "time": "14:23",
+   "ts": "2026-11-25T14:23:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Krajowy zasób lokali PRS może zbliżyć się do 42 tys. do końca 2028 r. - raport",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443221"
+  },
+  {
+   "id": "bossa-espi-12502",
+   "date": "2026-11-25",
+   "time": "14:20",
+   "ts": "2026-11-25T14:20:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ORLEN S.A.",
+   "title": "Pan Sławomir Jędrzejczyk i Pan Marek Balawejder zostali odwołani z Zarządu ORLEN S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-12502"
+  },
+  {
+   "id": "bossa-pap-443219",
+   "date": "2026-11-25",
+   "time": "14:13",
+   "ts": "2026-11-25T14:13:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MFiPR: Wojewódzki Szpital Psychiatryczny w Gdańsku zyskał nowe oddziały dzienne (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443219"
+  },
   {
    "id": "bossa-espi-271322",
    "date": "2026-11-25",
@@ -145,6 +181,17 @@
    "title": "Indeks wniosków o kredyt hipoteczny MBA w USA: +6,1 proc. Poprzednio: -2,3 proc.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-443207"
+  },
+  {
+   "id": "strefa-3a463a31bd5e",
+   "date": "2026-11-25",
+   "time": "13:33",
+   "ts": "2026-11-25T13:33:54+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Cena maksymalna dla benzyny Pb95 w czwartek wyniesie 5,82 zł/l, dla ON 7,15 zł/l",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/cena-maksymalna-dla-benzyny-pb95-w-czwartek-wyniesie-582-zll-dla-715-zll"
   },
   {
    "id": "bossa-pap-443206",

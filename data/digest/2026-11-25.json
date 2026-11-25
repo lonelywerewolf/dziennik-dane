@@ -4,7 +4,7 @@
   "podsumowania": 10,
   "wyniki": 3,
   "rekomendacje": 0,
-  "korporacyjne": 26,
+  "korporacyjne": 27,
   "makro_pl": 17,
   "swiat_rynki": 7,
   "energetyka_surowce": 3,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 8,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 44
+  "pozostale": 46
  },
- "duplicatesRemoved": 81,
- "total": 202,
+ "duplicatesRemoved": 82,
+ "total": 206,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -145,6 +145,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "14:20",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ORLEN S.A.: Pan Sławomir Jędrzejczyk i Pan Marek Balawejder zostali odwołani z Zarządu ORLEN S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-12502",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "14:09",
     "kind": "espi",
@@ -780,6 +791,33 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "14:23",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Krajowy zasób lokali PRS może zbliżyć się do 42 tys. do końca 2028 r. - raport",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443221",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:13",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MFiPR: Wojewódzki Szpital Psychiatryczny w Gdańsku zyskał nowe oddziały dzienne (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443219",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:33",
+    "kind": "news",
+    "ticker": null,
+    "title": "Cena maksymalna dla benzyny Pb95 w czwartek wyniesie 5,82 zł/l, dla ON 7,15 zł/l",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/cena-maksymalna-dla-benzyny-pb95-w-czwartek-wyniesie-582-zll-dla-715-zll",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "13:26",
     "kind": "pap",
     "ticker": null,
@@ -803,15 +841,6 @@
     "ticker": null,
     "title": "ZREMB-CHOJNICE S.A.: Zawarcie term sheet dotyczącego przyszłych dostaw na rzecz podmiotu z jednego z krajów NATO.",
     "url": "https://bossa.pl/analizy/komunikaty#message-271315",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "13:14",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Cena maksymalna dla benzyny Pb95 w czwartek wyniesie 5,82 zł/l, dla ON 7,15 zł/l",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443201",
     "src": "bossa",
     "flags": []
    },
