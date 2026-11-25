@@ -1,7 +1,66 @@
 {
  "date": "2026-11-25",
- "count": 45,
+ "count": 50,
  "items": [
+  {
+   "id": "bossa-pap-443108",
+   "date": "2026-11-25",
+   "time": "08:39",
+   "ts": "2026-11-25T08:39:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: Możliwa mniejsza aktywność inwestorów na rynkach",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443108"
+  },
+  {
+   "id": "bossa-pap-443107",
+   "date": "2026-11-25",
+   "time": "08:36",
+   "ts": "2026-11-25T08:36:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Rząd rozważa różne scenariusze ws. cen prądu, w tym m.in. utrzymanie poziomu taryf - Motyka",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443107"
+  },
+  {
+   "id": "bossa-pap-443106",
+   "date": "2026-11-25",
+   "time": "08:33",
+   "ts": "2026-11-25T08:33:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Rynek rekrutacyjny wzrósł w III kw. o 7 proc. rdr - Polskie Forum HR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443106"
+  },
+  {
+   "id": "bossa-pap-443105",
+   "date": "2026-11-25",
+   "time": "08:30",
+   "ts": "2026-11-25T08:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Bizcap startuje w Polsce, chce dostarczać finansowanie małym i średnim firmom",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443105"
+  },
+  {
+   "id": "strefa-d7e65c79f05a",
+   "date": "2026-11-25",
+   "time": "08:23",
+   "ts": "2026-11-25T08:23:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: Możliwa mniejsza aktywność inwestorów na rynkach",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/dzien-na-gpw-mozliwa-mniejsza-aktywnosc-inwestorow-na-rynkach"
+  },
   {
    "id": "bossa-pap-443104",
    "date": "2026-11-25",

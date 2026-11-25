@@ -1,24 +1,33 @@
 {
  "date": "2026-11-25",
  "counts": {
-  "podsumowania": 5,
+  "podsumowania": 6,
   "wyniki": 2,
   "rekomendacje": 0,
   "korporacyjne": 5,
-  "makro_pl": 3,
+  "makro_pl": 4,
   "swiat_rynki": 2,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 10
+  "pozostale": 12
  },
- "duplicatesRemoved": 17,
- "total": 45,
+ "duplicatesRemoved": 18,
+ "total": 50,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "08:23",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: Możliwa mniejsza aktywność inwestorów na rynkach",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/dzien-na-gpw-mozliwa-mniejsza-aktywnosc-inwestorow-na-rynkach",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:21",
     "kind": "news",
@@ -148,6 +157,15 @@
   ],
   "makro_pl": [
    {
+    "time": "08:36",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Rząd rozważa różne scenariusze ws. cen prądu, w tym m.in. utrzymanie poziomu taryf - Motyka",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443107",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "08:04",
     "kind": "pap",
     "ticker": null,
@@ -211,6 +229,24 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "08:33",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Rynek rekrutacyjny wzrósł w III kw. o 7 proc. rdr - Polskie Forum HR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443106",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "08:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Bizcap startuje w Polsce, chce dostarczać finansowanie małym i średnim firmom",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443105",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "07:37",
     "kind": "pap",
