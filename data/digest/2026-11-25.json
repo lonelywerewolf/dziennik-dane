@@ -4,18 +4,18 @@
   "podsumowania": 4,
   "wyniki": 0,
   "rekomendacje": 0,
-  "korporacyjne": 1,
-  "makro_pl": 0,
+  "korporacyjne": 2,
+  "makro_pl": 1,
   "swiat_rynki": 0,
-  "energetyka_surowce": 0,
+  "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 4
+  "pozostale": 5
  },
- "duplicatesRemoved": 0,
- "total": 9,
+ "duplicatesRemoved": 2,
+ "total": 15,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -60,6 +60,17 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "06:31",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Notoria wypłaci 0,10 zł dywidendy na akcję",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443082",
+    "src": "bossa",
+    "flags": [
+     "dywidenda"
+    ]
+   },
+   {
     "time": "00:23",
     "kind": "pap",
     "ticker": null,
@@ -71,14 +82,43 @@
     ]
    }
   ],
-  "makro_pl": [],
+  "makro_pl": [
+   {
+    "time": "06:37",
+    "kind": "news",
+    "ticker": null,
+    "title": "Rentowności obligacji wybranych państw (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/rentownosci-obligacji-wybranych-panstw-tabela",
+    "src": "strefainwestorow",
+    "flags": []
+   }
+  ],
   "swiat_rynki": [],
-  "energetyka_surowce": [],
+  "energetyka_surowce": [
+   {
+    "time": "06:37",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443085",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "nieruchomosci": [],
   "fundusze_drobne": [],
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "06:36",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443084",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "06:00",
     "kind": "pap",

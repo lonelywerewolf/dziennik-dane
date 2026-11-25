@@ -1,7 +1,78 @@
 {
  "date": "2026-11-25",
- "count": 9,
+ "count": 15,
  "items": [
+  {
+   "id": "strefa-ab39a3d74f06",
+   "date": "2026-11-25",
+   "time": "06:37",
+   "ts": "2026-11-25T06:37:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Rentowności obligacji wybranych państw (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/rentownosci-obligacji-wybranych-panstw-tabela"
+  },
+  {
+   "id": "bossa-pap-443085",
+   "date": "2026-11-25",
+   "time": "06:37",
+   "ts": "2026-11-25T06:37:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443085"
+  },
+  {
+   "id": "bossa-espi-271273",
+   "date": "2026-11-25",
+   "time": "06:37",
+   "ts": "2026-11-25T06:37:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MURAPOL S.A.",
+   "title": "QS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271273"
+  },
+  {
+   "id": "bossa-pap-443084",
+   "date": "2026-11-25",
+   "time": "06:36",
+   "ts": "2026-11-25T06:36:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443084"
+  },
+  {
+   "id": "bossa-espi-271272",
+   "date": "2026-11-25",
+   "time": "06:32",
+   "ts": "2026-11-25T06:32:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MURAPOL S.A.",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271272"
+  },
+  {
+   "id": "bossa-pap-443082",
+   "date": "2026-11-25",
+   "time": "06:31",
+   "ts": "2026-11-25T06:31:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Notoria wypłaci 0,10 zł dywidendy na akcję",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443082"
+  },
   {
    "id": "bossa-pap-443081",
    "date": "2026-11-25",
