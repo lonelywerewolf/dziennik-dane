@@ -1,7 +1,53 @@
 {
  "date": "2026-11-25",
- "count": 41,
+ "count": 45,
  "items": [
+  {
+   "id": "bossa-pap-443104",
+   "date": "2026-11-25",
+   "time": "08:22",
+   "ts": "2026-11-25T08:22:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: W Azji na giełdach sesja ze zniżkami indeksów",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443104"
+  },
+  {
+   "id": "strefa-f505599a7a58",
+   "date": "2026-11-25",
+   "time": "08:21",
+   "ts": "2026-11-25T08:21:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: W Azji na giełdach sesja ze zniżkami indeksów",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/dzien-na-rynkach-w-azji-na-gieldach-sesja-ze-znizkami-indeksow"
+  },
+  {
+   "id": "bossa-pap-443103",
+   "date": "2026-11-25",
+   "time": "08:20",
+   "ts": "2026-11-25T08:20:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wyniki CD Projektu RED powyżej oczekiwań; cel programu motywacyjnego na '23-'26 realny (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443103"
+  },
+  {
+   "id": "strefa-36cc54fc34ed",
+   "date": "2026-11-25",
+   "time": "08:16",
+   "ts": "2026-11-25T08:16:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wyniki CD Projektu RED powyżej oczekiwań; cel programu motywacyjnego na '23-'26 realny (opinia)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/wyniki-cd-projektu-red-powyzej-oczekiwan-cel-programu-motywacyjnego-na-23-26"
+  },
   {
    "id": "bossa-pap-443102",
    "date": "2026-11-25",
