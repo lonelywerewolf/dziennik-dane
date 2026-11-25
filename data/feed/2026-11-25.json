@@ -1,7 +1,55 @@
 {
  "date": "2026-11-25",
- "count": 190,
+ "count": 194,
  "items": [
+  {
+   "id": "bossa-espi-271318",
+   "date": "2026-11-25",
+   "time": "13:49",
+   "ts": "2026-11-25T13:49:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF GOLD PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271318"
+  },
+  {
+   "id": "bossa-espi-271317",
+   "date": "2026-11-25",
+   "time": "13:45",
+   "ts": "2026-11-25T13:45:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF OBLIGACJI SKARBOWYCH ZMIENNOKUPONOWYCH PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271317"
+  },
+  {
+   "id": "bossa-espi-271316",
+   "date": "2026-11-25",
+   "time": "13:44",
+   "ts": "2026-11-25T13:44:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF OBLIGACJI SKARBOWYCH DŁUGOTERMINOWYCH PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271316"
+  },
+  {
+   "id": "bossa-pap-443207",
+   "date": "2026-11-25",
+   "time": "13:43",
+   "ts": "2026-11-25T13:43:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeks wniosków o kredyt hipoteczny MBA w USA: +6,1 proc. Poprzednio: -2,3 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443207"
+  },
   {
    "id": "bossa-pap-443206",
    "date": "2026-11-25",

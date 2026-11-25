@@ -30,6 +30,15 @@
    "house": "Noble Securities S.A."
   },
   {
+   "date": "2026-11-25",
+   "ticker": "CRJ",
+   "company": "CREEPY JAR S.A.",
+   "file": "20261125_noble_securities_crj_pl_aw.pdf",
+   "url": "https://www.gpw.pl/pub/pwpa/20261125_noble_securities_crj_pl_aw.pdf",
+   "type": "analiza wyników",
+   "house": "Noble Securities S.A."
+  },
+  {
    "date": "2026-11-24",
    "ticker": "CLD",
    "company": "CLOUD TECHNOLOGIES S.A.",
@@ -64,8 +73,8 @@
    "url": "https://www.gpw.pl/pub/pwpa/20261124_dom_maklerski_banku_ochrony_%C5%9Brodowiska_dig_pl_aw.pdf",
    "type": "analiza wyników",
    "house": "Dom Maklerski Banku Ochrony Środowiska S.A.",
-   "pdfTries": 7,
-   "pdfLastTry": "2026-11-25T01:45+01:00"
+   "pdfTries": 8,
+   "pdfLastTry": "2026-11-25T13:50+01:00"
   },
   {
    "date": "2026-11-23",
@@ -742,5 +751,5 @@
    "house": "Noble Securities S.A."
   }
  ],
- "updatedAt": "2026-11-25T13:39:42+01:00"
+ "updatedAt": "2026-11-25T13:50:41+01:00"
 }
