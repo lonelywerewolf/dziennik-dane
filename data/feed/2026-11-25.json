@@ -1,7 +1,55 @@
 {
  "date": "2026-11-25",
- "count": 25,
+ "count": 30,
  "items": [
+  {
+   "id": "bossa-pap-443095",
+   "date": "2026-11-25",
+   "time": "07:30",
+   "ts": "2026-11-25T07:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zamówienia publiczne powinny wspierać gospodarkę i bezpieczeństwo państwa - prezes UZP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443095"
+  },
+  {
+   "id": "bossa-pap-443094",
+   "date": "2026-11-25",
+   "time": "07:29",
+   "ts": "2026-11-25T07:29:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Złotowe depozyty międzybankowe - WIBID, WIBOR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443094"
+  },
+  {
+   "id": "bossa-espi-271275",
+   "date": "2026-11-25",
+   "time": "07:26",
+   "ts": "2026-11-25T07:26:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "DELKO S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271275"
+  },
+  {
+   "id": "bossa-pap-443092",
+   "date": "2026-11-25",
+   "time": "07:25",
+   "ts": "2026-11-25T07:25:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Bloober Team ma zapewnione finansowanie strategii i przygotowuje się do kolejnych premier",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443092"
+  },
   {
    "id": "bossa-espi-271274",
    "date": "2026-11-25",
@@ -13,6 +61,17 @@
    "title": "QS",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271274"
+  },
+  {
+   "id": "strefa-ac68e0614699",
+   "date": "2026-11-25",
+   "time": "07:10",
+   "ts": "2026-11-25T07:10:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Bloober Team ma zapewnione finansowanie strategii i przygotowuje się do kolejnych premier",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/bloober-team-ma-zapewnione-finansowanie-strategii-i-przygotowuje-sie-do"
   },
   {
    "id": "bossa-pap-443090",
