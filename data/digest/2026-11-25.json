@@ -2,20 +2,20 @@
  "date": "2026-11-25",
  "counts": {
   "podsumowania": 14,
-  "wyniki": 4,
+  "wyniki": 5,
   "rekomendacje": 0,
-  "korporacyjne": 49,
+  "korporacyjne": 50,
   "makro_pl": 22,
-  "swiat_rynki": 15,
+  "swiat_rynki": 16,
   "energetyka_surowce": 5,
   "nieruchomosci": 1,
   "fundusze_drobne": 17,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 60
+  "pozostale": 61
  },
- "duplicatesRemoved": 99,
- "total": 288,
+ "duplicatesRemoved": 103,
+ "total": 296,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -150,6 +150,15 @@
   ],
   "wyniki": [
    {
+    "time": "17:18",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Śnieżka w III kw. 2025 r. miała 56,9 mln zł zysku EBITDA, wobec 63,1 mln zł konsensusu",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443295",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "17:13",
     "kind": "news",
     "ticker": null,
@@ -194,6 +203,15 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "17:22",
+    "kind": "espi",
+    "ticker": null,
+    "title": "COMPERIA.PL S.A.: Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia Comperia.pl S.A. wraz z projektami uchwał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271352",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:11",
     "kind": "espi",
@@ -916,6 +934,17 @@
   ],
   "swiat_rynki": [
    {
+    "time": "17:21",
+    "kind": "espi",
+    "ticker": null,
+    "title": "INSTALKRK: Korekta Skonsolidowanego rozszerzonego raportu kwartalnego za III kwartał 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271351",
+    "src": "bossa",
+    "flags": [
+     "prognoza"
+    ]
+   },
+   {
     "time": "16:22",
     "kind": "pap",
     "ticker": null,
@@ -1286,6 +1315,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:18",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GPW Benchmark: komunikat - Instal Kraków",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443294",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:13",
     "kind": "pap",
