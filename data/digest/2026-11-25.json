@@ -5,8 +5,8 @@
   "wyniki": 1,
   "rekomendacje": 0,
   "korporacyjne": 4,
-  "makro_pl": 2,
-  "swiat_rynki": 1,
+  "makro_pl": 3,
+  "swiat_rynki": 2,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 10
  },
- "duplicatesRemoved": 13,
- "total": 36,
+ "duplicatesRemoved": 14,
+ "total": 39,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -117,6 +117,15 @@
   ],
   "makro_pl": [
    {
+    "time": "08:04",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PKB Niemiec w III kw.: +0,1 proc. kdk. Wstępnie: +0,2 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443101",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "07:29",
     "kind": "pap",
     "ticker": null,
@@ -136,6 +145,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "07:56",
+    "kind": "news",
+    "ticker": null,
+    "title": "Najważniejsze indeksy giełdowe w Azji",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/najwazniejsze-indeksy-gieldowe-w-azji",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "07:44",
     "kind": "news",

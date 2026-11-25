@@ -1,7 +1,42 @@
 {
  "date": "2026-11-25",
- "count": 36,
+ "count": 39,
  "items": [
+  {
+   "id": "bossa-pap-443101",
+   "date": "2026-11-25",
+   "time": "08:04",
+   "ts": "2026-11-25T08:04:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PKB Niemiec w III kw.: +0,1 proc. kdk. Wstępnie: +0,2 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443101"
+  },
+  {
+   "id": "bossa-pap-443100",
+   "date": "2026-11-25",
+   "time": "07:57",
+   "ts": "2026-11-25T07:57:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Najważniejsze indeksy giełdowe w Azji",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443100"
+  },
+  {
+   "id": "strefa-45e6bfba5558",
+   "date": "2026-11-25",
+   "time": "07:56",
+   "ts": "2026-11-25T07:56:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Najważniejsze indeksy giełdowe w Azji",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/najwazniejsze-indeksy-gieldowe-w-azji"
+  },
   {
    "id": "bossa-pap-443099",
    "date": "2026-11-25",
