@@ -1,7 +1,78 @@
 {
  "date": "2026-11-25",
- "count": 265,
+ "count": 272,
  "items": [
+  {
+   "id": "strefa-a1708da809a1",
+   "date": "2026-11-25",
+   "time": "17:02",
+   "ts": "2026-11-25T17:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "skrot",
+   "title": "Skrót wiadomości - środa, 25 listopada, 17.00",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/skrot-wiadomosci-sroda-25-listopada-1700"
+  },
+  {
+   "id": "bossa-espi-271343",
+   "date": "2026-11-25",
+   "time": "17:02",
+   "ts": "2026-11-25T17:02:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ŚNIEZKA",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271343"
+  },
+  {
+   "id": "bossa-espi-271342",
+   "date": "2026-11-25",
+   "time": "16:58",
+   "ts": "2026-11-25T16:58:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "RONSON DEVELOPMENT SE",
+   "title": "Podjęcie przez Nadzwyczajne Walne Zgromadzenie Akcjonariuszy Ronson Development SE uchwał w sprawie zmiany uchwały w sprawie podziału zysku netto za rok 2025 oraz w sprawie stwierdzenia spełnienia warunku dotyczącego podziału zysku netto za rok 2025",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271342"
+  },
+  {
+   "id": "bossa-pap-443273",
+   "date": "2026-11-25",
+   "time": "16:56",
+   "ts": "2026-11-25T16:56:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Nationale-Nederlanden PTE SA informuje",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443273"
+  },
+  {
+   "id": "bossa-espi-271341",
+   "date": "2026-11-25",
+   "time": "16:54",
+   "ts": "2026-11-25T16:54:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "POLTREG S.A.",
+   "title": "Powiadomienie od Venture Fundusz Inwestycyjny Zamknięty o transakcji na akcjach Spółki otrzymane w trybie art. 19 MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271341"
+  },
+  {
+   "id": "bossa-espi-271340",
+   "date": "2026-11-25",
+   "time": "16:52",
+   "ts": "2026-11-25T16:52:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Molecure S.A.",
+   "title": "Podpisanie term sheet dotyczącego finansowania rozwoju Programu OATD-01",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271340"
+  },
   {
    "id": "bossa-pap-443270",
    "date": "2026-11-25",
@@ -121,6 +192,17 @@
    "title": "Powiadomienie o transakcji na instrumentach finansowych Pekao Banku Hipotecznego S.A. dokonanych przez Bank Polska Kasa Opieki S.A.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271335"
+  },
+  {
+   "id": "strefa-e29c0eb2e0a9",
+   "date": "2026-11-25",
+   "time": "16:10",
+   "ts": "2026-11-25T16:10:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "OFE wartości jednostek rozrachunkowych z 2026.11.24",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/ofe-wartosci-jednostek-rozrachunkowych-z-20261124"
   },
   {
    "id": "bossa-espi-271334",

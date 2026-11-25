@@ -1,24 +1,33 @@
 {
  "date": "2026-11-25",
  "counts": {
-  "podsumowania": 12,
+  "podsumowania": 13,
   "wyniki": 3,
   "rekomendacje": 0,
-  "korporacyjne": 46,
+  "korporacyjne": 48,
   "makro_pl": 22,
   "swiat_rynki": 15,
   "energetyka_surowce": 4,
   "nieruchomosci": 1,
-  "fundusze_drobne": 12,
+  "fundusze_drobne": 14,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 54
+  "pozostale": 55
  },
- "duplicatesRemoved": 94,
- "total": 265,
+ "duplicatesRemoved": 95,
+ "total": 272,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "17:02",
+    "kind": "skrot",
+    "ticker": null,
+    "title": "Skrót wiadomości - środa, 25 listopada, 17.00",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/skrot-wiadomosci-sroda-25-listopada-1700",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "15:35",
     "kind": "news",
@@ -165,6 +174,28 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "16:58",
+    "kind": "espi",
+    "ticker": null,
+    "title": "RONSON DEVELOPMENT SE: Podjęcie przez Nadzwyczajne Walne Zgromadzenie Akcjonariuszy Ronson Development SE uchwał w sprawie zmiany uchwały w sprawie podziału zysku netto za rok 2025 oraz w sprawie stwierdzenia spełnienia warunku dotyczącego podziału zysku netto za rok 2025",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271342",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
+   {
+    "time": "16:54",
+    "kind": "espi",
+    "ticker": null,
+    "title": "POLTREG S.A.: Powiadomienie od Venture Fundusz Inwestycyjny Zamknięty o transakcji na akcjach Spółki otrzymane w trybie art. 19 MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271341",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
    {
     "time": "16:38",
     "kind": "pap",
@@ -1039,12 +1070,30 @@
   ],
   "fundusze_drobne": [
    {
+    "time": "16:56",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Nationale-Nederlanden PTE SA informuje",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443273",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "16:23",
     "kind": "pap",
     "ticker": null,
     "title": "Nationale-Nederlanden OFE wartość jednostki rozrachunkowej",
     "url": "https://bossa.pl/analizy/komunikaty#message-443265",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:10",
+    "kind": "news",
+    "ticker": null,
+    "title": "OFE wartości jednostek rozrachunkowych z 2026.11.24",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/ofe-wartosci-jednostek-rozrachunkowych-z-20261124",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -1169,6 +1218,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "16:52",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Molecure S.A.: Podpisanie term sheet dotyczącego finansowania rozwoju Programu OATD-01",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271340",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:17",
     "kind": "pap",
