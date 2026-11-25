@@ -1,7 +1,87 @@
 {
  "date": "2026-11-25",
- "count": 69,
+ "count": 76,
  "items": [
+  {
+   "id": "strefa-f4c8afaf4d0a",
+   "date": "2026-11-25",
+   "time": "09:34",
+   "ts": "2026-11-25T09:34:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Stopa bezrobocia w październiku wyniosła 5,8 proc. - GUS",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/stopa-bezrobocia-w-pazdzierniku-wyniosla-58-proc-gus"
+  },
+  {
+   "id": "bossa-pap-443122",
+   "date": "2026-11-25",
+   "time": "09:34",
+   "ts": "2026-11-25T09:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Stopa bezrobocia w październiku wyniosła 5,8 proc. - GUS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443122"
+  },
+  {
+   "id": "bossa-pap-443121",
+   "date": "2026-11-25",
+   "time": "09:33",
+   "ts": "2026-11-25T09:33:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Bezrobocie wg BAEL w III kw. 2026 r. wyniosło 3,5 proc. wobec 3,2 proc. kwartał wcześniej - GUS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443121"
+  },
+  {
+   "id": "strefa-21f958f6b03b",
+   "date": "2026-11-25",
+   "time": "09:32",
+   "ts": "2026-11-25T09:32:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Bezrobocie wg BAEL w III kw. 2026 r. wyniosło 3,5 proc. wobec 3,2 proc. kwartał wcześniej - GUS",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/bezrobocie-wg-bael-w-iii-kw-2026-r-wynioslo-35-proc-wobec-32-proc-kwartal"
+  },
+  {
+   "id": "bossa-pap-443120",
+   "date": "2026-11-25",
+   "time": "09:31",
+   "ts": "2026-11-25T09:31:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: W Europie na giełdach indeksy rosną",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443120"
+  },
+  {
+   "id": "strefa-cd02479b3a5c",
+   "date": "2026-11-25",
+   "time": "09:26",
+   "ts": "2026-11-25T09:26:42+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: W Europie na giełdach indeksy rosną",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/dzien-na-rynkach-w-europie-na-gieldach-indeksy-rosna"
+  },
+  {
+   "id": "strefa-c09650ddc96e",
+   "date": "2026-11-25",
+   "time": "09:24",
+   "ts": "2026-11-25T09:24:15+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Notoria wypłaci 0,10 zł dywidendy na akcję",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/notoria-wyplaci-010-zl-dywidendy-na-akcje"
+  },
   {
    "id": "strefa-a098077fb124",
    "date": "2026-11-25",
