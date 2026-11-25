@@ -1,7 +1,66 @@
 {
  "date": "2026-11-25",
- "count": 171,
+ "count": 176,
  "items": [
+  {
+   "id": "bossa-espi-271313",
+   "date": "2026-11-25",
+   "time": "13:06",
+   "ts": "2026-11-25T13:06:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF S&P 500 PLN-HEDGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 237 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271313"
+  },
+  {
+   "id": "bossa-espi-271312",
+   "date": "2026-11-25",
+   "time": "13:00",
+   "ts": "2026-11-25T13:00:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 3 x LEVERAGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 238 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271312"
+  },
+  {
+   "id": "bossa-pap-443194",
+   "date": "2026-11-25",
+   "time": "12:59",
+   "ts": "2026-11-25T12:59:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Creepy Jar planuje premierę gry StarRupture 1.0 w drugiej połowie 2027 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443194"
+  },
+  {
+   "id": "bossa-espi-271311",
+   "date": "2026-11-25",
+   "time": "12:55",
+   "ts": "2026-11-25T12:55:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 2 x SHORT PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 237 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271311"
+  },
+  {
+   "id": "strefa-6ff36a440ec4",
+   "date": "2026-11-25",
+   "time": "12:51",
+   "ts": "2026-11-25T12:51:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Creepy Jar planuje premierę gry StarRupture 1.0 w drugiej połowie 2027 r.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/creepy-jar-planuje-premiere-gry-starrupture-10-w-drugiej-polowie-2027-r"
+  },
   {
    "id": "bossa-pap-443191",
    "date": "2026-11-25",

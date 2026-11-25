@@ -12,10 +12,10 @@
   "fundusze_drobne": 4,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 37
+  "pozostale": 38
  },
- "duplicatesRemoved": 67,
- "total": 171,
+ "duplicatesRemoved": 71,
+ "total": 176,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -689,6 +689,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:51",
+    "kind": "news",
+    "ticker": null,
+    "title": "Creepy Jar planuje premierę gry StarRupture 1.0 w drugiej połowie 2027 r.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/creepy-jar-planuje-premiere-gry-starrupture-10-w-drugiej-polowie-2027-r",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "12:49",
     "kind": "pap",
