@@ -1,7 +1,19 @@
 {
  "date": "2026-11-25",
- "count": 39,
+ "count": 41,
  "items": [
+  {
+   "id": "bossa-pap-443102",
+   "date": "2026-11-25",
+   "time": "08:15",
+   "ts": "2026-11-25T08:15:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Cena 32 zł za akcję Żabki w wezwaniu jest ostateczna i nie zostanie podwyższona - Alimentation Couche-Tard",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443102"
+  },
   {
    "id": "bossa-pap-443101",
    "date": "2026-11-25",
@@ -13,6 +25,17 @@
    "title": "PKB Niemiec w III kw.: +0,1 proc. kdk. Wstępnie: +0,2 proc.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-443101"
+  },
+  {
+   "id": "strefa-b6f91b2c458f",
+   "date": "2026-11-25",
+   "time": "07:58",
+   "ts": "2026-11-25T07:58:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Cena 32 zł za akcję Żabki w wezwaniu jest ostateczna i nie zostanie podwyższona - Alimentation Couche-Tard",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/cena-32-zl-za-akcje-zabki-w-wezwaniu-jest-ostateczna-i-nie-zostanie-podwyzszona"
   },
   {
    "id": "bossa-pap-443100",
