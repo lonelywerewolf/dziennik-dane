@@ -1,7 +1,43 @@
 {
  "date": "2026-11-25",
- "count": 30,
+ "count": 34,
  "items": [
+  {
+   "id": "bossa-pap-443098",
+   "date": "2026-11-25",
+   "time": "07:43",
+   "ts": "2026-11-25T07:43:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ceny ropy na świecie spadają, a globalne zapasy surowca bardzo niskie",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443098"
+  },
+  {
+   "id": "bossa-pap-443097",
+   "date": "2026-11-25",
+   "time": "07:39",
+   "ts": "2026-11-25T07:39:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Biały Dom nie wyklucza podwyższenia ceł wobec UE i Chin po tym, jak sąd unieważnił część taryf",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443097"
+  },
+  {
+   "id": "bossa-pap-443096",
+   "date": "2026-11-25",
+   "time": "07:37",
+   "ts": "2026-11-25T07:37:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ceny żywności blisko końca spadków; presja kosztowa może skutkować podwyżkami jeszcze w '26",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443096"
+  },
   {
    "id": "bossa-pap-443095",
    "date": "2026-11-25",
@@ -25,6 +61,17 @@
    "title": "Złotowe depozyty międzybankowe - WIBID, WIBOR",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-443094"
+  },
+  {
+   "id": "strefa-628726614e13",
+   "date": "2026-11-25",
+   "time": "07:26",
+   "ts": "2026-11-25T07:26:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ceny ropy na świecie spadają, a globalne zapasy surowca bardzo niskie",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/ceny-ropy-na-swiecie-spadaja-globalne-zapasy-surowca-bardzo-niskie"
   },
   {
    "id": "bossa-espi-271275",

@@ -4,7 +4,7 @@
   "podsumowania": 4,
   "wyniki": 1,
   "rekomendacje": 0,
-  "korporacyjne": 3,
+  "korporacyjne": 4,
   "makro_pl": 2,
   "swiat_rynki": 0,
   "energetyka_surowce": 1,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 8
+  "pozostale": 10
  },
- "duplicatesRemoved": 11,
- "total": 30,
+ "duplicatesRemoved": 12,
+ "total": 34,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -71,6 +71,15 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "07:39",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Biały Dom nie wyklucza podwyższenia ceł wobec UE i Chin po tym, jak sąd unieważnił część taryf",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443097",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "07:30",
     "kind": "pap",
@@ -143,6 +152,24 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "07:37",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Ceny żywności blisko końca spadków; presja kosztowa może skutkować podwyżkami jeszcze w '26",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443096",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "07:26",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny ropy na świecie spadają, a globalne zapasy surowca bardzo niskie",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/ceny-ropy-na-swiecie-spadaja-globalne-zapasy-surowca-bardzo-niskie",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "07:10",
     "kind": "news",
