@@ -1,24 +1,33 @@
 {
  "date": "2026-11-25",
  "counts": {
-  "podsumowania": 14,
+  "podsumowania": 15,
   "wyniki": 5,
   "rekomendacje": 0,
-  "korporacyjne": 50,
+  "korporacyjne": 51,
   "makro_pl": 22,
-  "swiat_rynki": 16,
-  "energetyka_surowce": 5,
+  "swiat_rynki": 17,
+  "energetyka_surowce": 6,
   "nieruchomosci": 1,
   "fundusze_drobne": 17,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 61
+  "pozostale": 63
  },
- "duplicatesRemoved": 103,
- "total": 296,
+ "duplicatesRemoved": 109,
+ "total": 308,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "17:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "WIG20 na zamknięciu wyniósł 3980,69 pkt (-1,87%)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443299",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:05",
     "kind": "news",
@@ -150,12 +159,12 @@
   ],
   "wyniki": [
    {
-    "time": "17:18",
-    "kind": "pap",
+    "time": "17:13",
+    "kind": "news",
     "ticker": null,
     "title": "Śnieżka w III kw. 2025 r. miała 56,9 mln zł zysku EBITDA, wobec 63,1 mln zł konsensusu",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443295",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/sniezka-w-iii-kw-2025-r-miala-569-mln-zl-zysku-ebitda-wobec-631-mln-zl",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -203,6 +212,15 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "17:25",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KRUK S.A.: Informacja o transakcjach na akcjach KRUK S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-11133",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:22",
     "kind": "espi",
@@ -934,6 +952,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "17:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MRiRW: Dobra wiadomość dla hodowców świń: kolejne gminy wolne od ASF (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443301",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "17:21",
     "kind": "espi",
     "ticker": null,
@@ -1081,6 +1108,15 @@
    }
   ],
   "energetyka_surowce": [
+   {
+    "time": "17:29",
+    "kind": "news",
+    "ticker": null,
+    "title": "1,7 mld PLN z Europejskiego Banku Inwestycyjnego na strategiczne projekty KGHM",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/17-mld-pln-z-europejskiego-banku-inwestycyjnego-na-strategiczne-projekty-kghm",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "16:59",
     "kind": "pap",
@@ -1316,12 +1352,30 @@
   "obserwowane": [],
   "pozostale": [
    {
-    "time": "17:18",
-    "kind": "pap",
+    "time": "17:32",
+    "kind": "news",
+    "ticker": null,
+    "title": "XTPL po III kwartałach 2026 roku podwoił liczbę zaawansowanych projektów przemysłowych i pozyskał inwestora z Tajwanu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/xtpl-po-iii-kwartalach-2026-roku-podwoil-liczbe-zaawansowanych-projektow",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "17:27",
+    "kind": "news",
+    "ticker": null,
+    "title": "Sanok zaprasza do sprzedaży do 1.141.400 akcji spółki w cenie 20 zł/szt.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/sanok-zaprasza-do-sprzedazy-do-1141400-akcji-spolki-w-cenie-20-zlszt",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "17:27",
+    "kind": "news",
     "ticker": null,
     "title": "GPW Benchmark: komunikat - Instal Kraków",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443294",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/gpw-benchmark-komunikat-instal-krakow",
+    "src": "strefainwestorow",
     "flags": []
    },
    {

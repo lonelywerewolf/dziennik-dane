@@ -1,7 +1,135 @@
 {
  "date": "2026-11-25",
- "count": 296,
+ "count": 308,
  "items": [
+  {
+   "id": "strefa-ed7276437488",
+   "date": "2026-11-25",
+   "time": "17:32",
+   "ts": "2026-11-25T17:32:10+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "XTPL po III kwartałach 2026 roku podwoił liczbę zaawansowanych projektów przemysłowych i pozyskał inwestora z Tajwanu",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/xtpl-po-iii-kwartalach-2026-roku-podwoil-liczbe-zaawansowanych-projektow"
+  },
+  {
+   "id": "bossa-pap-443301",
+   "date": "2026-11-25",
+   "time": "17:30",
+   "ts": "2026-11-25T17:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MRiRW: Dobra wiadomość dla hodowców świń: kolejne gminy wolne od ASF (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443301"
+  },
+  {
+   "id": "bossa-pap-443299",
+   "date": "2026-11-25",
+   "time": "17:30",
+   "ts": "2026-11-25T17:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "WIG20 na zamknięciu wyniósł 3980,69 pkt (-1,87%)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443299"
+  },
+  {
+   "id": "bossa-espi-271356",
+   "date": "2026-11-25",
+   "time": "17:30",
+   "ts": "2026-11-25T17:30:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MEX POLSKA S.A.",
+   "title": "QS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271356"
+  },
+  {
+   "id": "strefa-083058ad8592",
+   "date": "2026-11-25",
+   "time": "17:29",
+   "ts": "2026-11-25T17:29:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "1,7 mld PLN z Europejskiego Banku Inwestycyjnego na strategiczne projekty KGHM",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/17-mld-pln-z-europejskiego-banku-inwestycyjnego-na-strategiczne-projekty-kghm"
+  },
+  {
+   "id": "bossa-espi-271355",
+   "date": "2026-11-25",
+   "time": "17:29",
+   "ts": "2026-11-25T17:29:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "11 BIT STUDIOS S.A.",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271355"
+  },
+  {
+   "id": "bossa-pap-443303",
+   "date": "2026-11-25",
+   "time": "17:28",
+   "ts": "2026-11-25T17:28:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Sanok zaprasza do sprzedaży do 1.141.400 akcji spółki w cenie 20 zł/szt.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443303"
+  },
+  {
+   "id": "bossa-espi-271354",
+   "date": "2026-11-25",
+   "time": "17:28",
+   "ts": "2026-11-25T17:28:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "VOXEL S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271354"
+  },
+  {
+   "id": "strefa-6b3ba332aaf6",
+   "date": "2026-11-25",
+   "time": "17:27",
+   "ts": "2026-11-25T17:27:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Sanok zaprasza do sprzedaży do 1.141.400 akcji spółki w cenie 20 zł/szt.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/sanok-zaprasza-do-sprzedazy-do-1141400-akcji-spolki-w-cenie-20-zlszt"
+  },
+  {
+   "id": "strefa-068b9a075bca",
+   "date": "2026-11-25",
+   "time": "17:27",
+   "ts": "2026-11-25T17:27:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW Benchmark: komunikat - Instal Kraków",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/gpw-benchmark-komunikat-instal-krakow"
+  },
+  {
+   "id": "bossa-espi-11133",
+   "date": "2026-11-25",
+   "time": "17:25",
+   "ts": "2026-11-25T17:25:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KRUK S.A.",
+   "title": "Informacja o transakcjach na akcjach KRUK S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-11133"
+  },
   {
    "id": "bossa-espi-271353",
    "date": "2026-11-25",
@@ -97,6 +225,17 @@
    "title": "QSr",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271348"
+  },
+  {
+   "id": "strefa-f33afe25f3aa",
+   "date": "2026-11-25",
+   "time": "17:13",
+   "ts": "2026-11-25T17:13:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Śnieżka w III kw. 2025 r. miała 56,9 mln zł zysku EBITDA, wobec 63,1 mln zł konsensusu",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/sniezka-w-iii-kw-2025-r-miala-569-mln-zl-zysku-ebitda-wobec-631-mln-zl"
   },
   {
    "id": "strefa-34678360cd98",
