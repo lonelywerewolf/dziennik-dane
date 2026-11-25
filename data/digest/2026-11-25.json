@@ -1,24 +1,35 @@
 {
  "date": "2026-11-25",
  "counts": {
-  "podsumowania": 15,
-  "wyniki": 5,
+  "podsumowania": 16,
+  "wyniki": 8,
   "rekomendacje": 0,
-  "korporacyjne": 51,
+  "korporacyjne": 52,
   "makro_pl": 22,
-  "swiat_rynki": 17,
+  "swiat_rynki": 18,
   "energetyka_surowce": 6,
   "nieruchomosci": 1,
   "fundusze_drobne": 17,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 63
+  "pozostale": 65
  },
- "duplicatesRemoved": 109,
- "total": 308,
+ "duplicatesRemoved": 113,
+ "total": 320,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "17:35",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Notowania ciągłe - podsumowanie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443304",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "17:30",
     "kind": "pap",
@@ -159,6 +170,37 @@
   ],
   "wyniki": [
    {
+    "time": "17:46",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wyniki 11 bit studios w III kw. 2026 roku vs. konsensus PAP (tabela)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443311",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "17:43",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Rex Concepts miał w III kw. 2026 r. 22,7 mln zł EBITDA i 26,9 mln zł straty netto",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443310",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:36",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa Śnieżka publikuje wyniki za I–III kw. 2026 roku",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/grupa-sniezka-publikuje-wyniki-za-i-iii-kw-2026-roku",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
     "time": "17:13",
     "kind": "news",
     "ticker": null,
@@ -212,6 +254,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "17:36",
+    "kind": "pap",
+    "ticker": null,
+    "title": "TRUSTBTC SA (29/2026) Zawarcie, zmiana treści, wypowiedzenie, rozwiązanie lub wygaśnięcie umowy o wykonywanie zadań Autoryzowanego Doradcy",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443305",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "17:25",
     "kind": "espi",
@@ -952,6 +1005,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "17:37",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: w sprawie wprowadzenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów inwestycyjnych serii DF emitowanych przez EQUES AKTYWNEGO INWESTOWANIA FIZ",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/gpw-w-sprawie-wprowadzenia-do-obrotu-gieldowego-na-glownym-rynku-gpw",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "17:30",
     "kind": "pap",
     "ticker": null,
@@ -1351,6 +1413,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:39",
+    "kind": "espi",
+    "ticker": null,
+    "title": "TRUSTBTC S.A.: Zawarcie istotnych umów",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271358",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:33",
+    "kind": "news",
+    "ticker": null,
+    "title": "Molecure podpisało term sheet dotyczący finansowania programu klinicznego OATD-01 do zakończenia II fazy badania",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/molecure-podpisalo-term-sheet-dotyczacy-finansowania-programu-klinicznego-oatd",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:32",
     "kind": "news",
