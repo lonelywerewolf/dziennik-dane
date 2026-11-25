@@ -4,8 +4,8 @@
   "podsumowania": 9,
   "wyniki": 2,
   "rekomendacje": 0,
-  "korporacyjne": 6,
-  "makro_pl": 8,
+  "korporacyjne": 8,
+  "makro_pl": 9,
   "swiat_rynki": 3,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 19
  },
- "duplicatesRemoved": 27,
- "total": 76,
+ "duplicatesRemoved": 30,
+ "total": 82,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -128,6 +128,28 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "09:36",
+    "kind": "news",
+    "ticker": null,
+    "title": "Nowe zamówienia w przemyśle w październiku rdr wzrosły o 14,1 proc. - GUS",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/nowe-zamowienia-w-przemysle-w-pazdzierniku-rdr-wzrosly-o-141-proc-gus",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "09:35",
+    "kind": "news",
+    "ticker": null,
+    "title": "Nowe zamówienia w przemyśle na eksport w październiku wzrosły o 13,0 proc. rdr - GUS",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/nowe-zamowienia-w-przemysle-na-eksport-w-pazdzierniku-wzrosly-o-130-proc-rdr",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
     "time": "09:24",
     "kind": "news",
     "ticker": null,
@@ -194,6 +216,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "09:36",
+    "kind": "news",
+    "ticker": null,
+    "title": "Sprzedaż hurtowa przedsiębiorstw handlowych w październiku wzrosła o 7,4 proc. rdr - GUS",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/sprzedaz-hurtowa-przedsiebiorstw-handlowych-w-pazdzierniku-wzrosla-o-74-proc",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:34",
     "kind": "news",

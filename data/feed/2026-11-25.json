@@ -1,7 +1,76 @@
 {
  "date": "2026-11-25",
- "count": 76,
+ "count": 82,
  "items": [
+  {
+   "id": "bossa-pap-443125",
+   "date": "2026-11-25",
+   "time": "09:38",
+   "ts": "2026-11-25T09:38:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Sprzedaż hurtowa przedsiębiorstw handlowych w październiku wzrosła o 7,4 proc. rdr - GUS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443125"
+  },
+  {
+   "id": "strefa-bbd97ec2b0f6",
+   "date": "2026-11-25",
+   "time": "09:36",
+   "ts": "2026-11-25T09:36:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Nowe zamówienia w przemyśle w październiku rdr wzrosły o 14,1 proc. - GUS",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/nowe-zamowienia-w-przemysle-w-pazdzierniku-rdr-wzrosly-o-141-proc-gus"
+  },
+  {
+   "id": "strefa-67b15ca3163e",
+   "date": "2026-11-25",
+   "time": "09:36",
+   "ts": "2026-11-25T09:36:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Sprzedaż hurtowa przedsiębiorstw handlowych w październiku wzrosła o 7,4 proc. rdr - GUS",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/sprzedaz-hurtowa-przedsiebiorstw-handlowych-w-pazdzierniku-wzrosla-o-74-proc"
+  },
+  {
+   "id": "strefa-31559a9508d7",
+   "date": "2026-11-25",
+   "time": "09:35",
+   "ts": "2026-11-25T09:35:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Nowe zamówienia w przemyśle na eksport w październiku wzrosły o 13,0 proc. rdr - GUS",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/nowe-zamowienia-w-przemysle-na-eksport-w-pazdzierniku-wzrosly-o-130-proc-rdr"
+  },
+  {
+   "id": "bossa-pap-443124",
+   "date": "2026-11-25",
+   "time": "09:35",
+   "ts": "2026-11-25T09:35:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Nowe zamówienia w przemyśle na eksport w październiku wzrosły o 13,0 proc. rdr - GUS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443124"
+  },
+  {
+   "id": "bossa-pap-443123",
+   "date": "2026-11-25",
+   "time": "09:35",
+   "ts": "2026-11-25T09:35:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Nowe zamówienia w przemyśle w październiku rdr wzrosły o 14,1 proc. - GUS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443123"
+  },
   {
    "id": "strefa-f4c8afaf4d0a",
    "date": "2026-11-25",
