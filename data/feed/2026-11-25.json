@@ -1,7 +1,55 @@
 {
  "date": "2026-11-25",
- "count": 124,
+ "count": 129,
  "items": [
+  {
+   "id": "bossa-pap-443158",
+   "date": "2026-11-25",
+   "time": "11:18",
+   "ts": "2026-11-25T11:18:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Do Senatu wpłynęły wnioski ws. powołania Piątkowskiego i Leszczyny do RPP - marszałek Senatu (opis)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443158"
+  },
+  {
+   "id": "bossa-pap-443157",
+   "date": "2026-11-25",
+   "time": "11:17",
+   "ts": "2026-11-25T11:17:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Rynek ubezpieczeń po trzech kw. wzrósł do 71 mld zł; w całym '26 ma szansę na blisko 100 mld zł - PIU",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443157"
+  },
+  {
+   "id": "bossa-espi-271292",
+   "date": "2026-11-25",
+   "time": "11:17",
+   "ts": "2026-11-25T11:17:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "VOTUM S.A.",
+   "title": "Otrzymanie od osoby blisko związanej z osobami pełniącymi obowiązki zarządcze w VOTUM S.A. notyfikacji o transakcjach w trybie art. 19 ust. 1 MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271292"
+  },
+  {
+   "id": "bossa-espi-271291",
+   "date": "2026-11-25",
+   "time": "11:17",
+   "ts": "2026-11-25T11:17:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "EUROHOLD BULGARIA AD",
+   "title": "INTERIM CONDENSED CONSOLIDATED REPORT_Q3_2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271291"
+  },
   {
    "id": "bossa-espi-271290",
    "date": "2026-11-25",
@@ -25,6 +73,17 @@
    "title": "Otrzymanie od osoby pełniącej obowiązki zarządcze w VOTUM S.A. notyfikacji o transakcjach w trybie art. 19 ust. 1 MAR",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271289"
+  },
+  {
+   "id": "strefa-9bda118f794a",
+   "date": "2026-11-25",
+   "time": "11:12",
+   "ts": "2026-11-25T11:12:26+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Do Senatu wpłynęły wnioski ws. powołania Piątkowskiego i Leszczyny do RPP - marszałek Senatu (opis)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/do-senatu-wplynely-wnioski-ws-powolania-piatkowskiego-i-leszczyny-do-rpp-0"
   },
   {
    "id": "strefa-986f30f95d75",

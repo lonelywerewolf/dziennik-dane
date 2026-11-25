@@ -4,7 +4,7 @@
   "podsumowania": 10,
   "wyniki": 3,
   "rekomendacje": 0,
-  "korporacyjne": 13,
+  "korporacyjne": 14,
   "makro_pl": 13,
   "swiat_rynki": 3,
   "energetyka_surowce": 2,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 2,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 29
+  "pozostale": 31
  },
- "duplicatesRemoved": 46,
- "total": 124,
+ "duplicatesRemoved": 48,
+ "total": 129,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -145,6 +145,18 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "11:17",
+    "kind": "espi",
+    "ticker": null,
+    "title": "VOTUM S.A.: Otrzymanie od osoby blisko związanej z osobami pełniącymi obowiązki zarządcze w VOTUM S.A. notyfikacji o transakcjach w trybie art. 19 ust. 1 MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271292",
+    "src": "bossa",
+    "flags": [
+     "zarząd",
+     "insider"
+    ]
+   },
    {
     "time": "11:13",
     "kind": "espi",
@@ -510,6 +522,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:17",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Rynek ubezpieczeń po trzech kw. wzrósł do 71 mld zł; w całym '26 ma szansę na blisko 100 mld zł - PIU",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443157",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:17",
+    "kind": "espi",
+    "ticker": null,
+    "title": "EUROHOLD BULGARIA AD: INTERIM CONDENSED CONSOLIDATED REPORT_Q3_2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271291",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:13",
     "kind": "espi",
