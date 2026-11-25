@@ -5,17 +5,17 @@
   "wyniki": 2,
   "rekomendacje": 0,
   "korporacyjne": 8,
-  "makro_pl": 9,
+  "makro_pl": 10,
   "swiat_rynki": 3,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
-  "fundusze_drobne": 0,
+  "fundusze_drobne": 1,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 19
+  "pozostale": 21
  },
  "duplicatesRemoved": 30,
- "total": 82,
+ "total": 86,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -217,6 +217,15 @@
   ],
   "makro_pl": [
    {
+    "time": "09:53",
+    "kind": "espi",
+    "ticker": null,
+    "title": "POLSKA GRUPA HUTNICZA S.A.: Zawarcie memorandum z brazylijską spółką Hübner Componentes e Sistemas Automotivos S.A. dotyczącego współpracy technologicznej i produkcji odlewów oraz zespołów w Polsce i Brazylii",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271280",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "09:36",
     "kind": "news",
     "ticker": null,
@@ -339,7 +348,17 @@
    }
   ],
   "nieruchomosci": [],
-  "fundusze_drobne": [],
+  "fundusze_drobne": [
+   {
+    "time": "09:47",
+    "kind": "espi",
+    "ticker": null,
+    "title": "FUNDUSZ DŁUGU KORPORACYJNEGO RENTIER FIZ: RB_FI_E_30.04.18",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271279",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "twoje_spolki": [
    {
     "time": "08:40",
@@ -353,6 +372,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:52",
+    "kind": "news",
+    "ticker": null,
+    "title": "JRH obejmie 34% udziałów w ukraińskim producencie nowoczesnych systemów radarowych. Zapotrzebowanie szacowane na 120-150 mln USD",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/jrh-obejmie-34-udzialow-w-ukrainskim-producencie-nowoczesnych-systemow",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "09:39",
+    "kind": "news",
+    "ticker": null,
+    "title": "Millennium Leasing wdraża finansowanie oparte na POLSTR",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/millennium-leasing-wdraza-finansowanie-oparte-na-polstr",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:21",
     "kind": "espi",
