@@ -1,7 +1,7 @@
 {
  "date": "2026-11-25",
  "counts": {
-  "podsumowania": 10,
+  "podsumowania": 11,
   "wyniki": 3,
   "rekomendacje": 0,
   "korporacyjne": 30,
@@ -12,13 +12,24 @@
   "fundusze_drobne": 9,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 48
+  "pozostale": 49
  },
- "duplicatesRemoved": 85,
- "total": 219,
+ "duplicatesRemoved": 86,
+ "total": 222,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "14:33",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Solidne spadki kontraktów na indeksy giełdowe w USA, mocny odczyt PKB",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/dzien-na-rynkach-solidne-spadki-kontraktow-na-indeksy-gieldowe-w-usa-mocny",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "11:05",
     "kind": "news",
@@ -868,6 +879,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "14:54",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Brak wsparcia Litwy dla Możejek i nowy podatek mogą pogorszyć współpracę - Motyka",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443233",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:35",
     "kind": "pap",

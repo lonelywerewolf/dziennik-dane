@@ -1,7 +1,31 @@
 {
  "date": "2026-11-25",
- "count": 219,
+ "count": 222,
  "items": [
+  {
+   "id": "bossa-pap-443233",
+   "date": "2026-11-25",
+   "time": "14:54",
+   "ts": "2026-11-25T14:54:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Brak wsparcia Litwy dla Możejek i nowy podatek mogą pogorszyć współpracę - Motyka",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443233"
+  },
+  {
+   "id": "bossa-pap-443232",
+   "date": "2026-11-25",
+   "time": "14:49",
+   "ts": "2026-11-25T14:49:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Solidne spadki kontraktów na indeksy giełdowe w USA, mocny odczyt PKB",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443232"
+  },
   {
    "id": "bossa-pap-443231",
    "date": "2026-11-25",
@@ -49,6 +73,17 @@
    "title": "Liczba nowych bezrobotnych w USA w ub. tyg.: 189 tys. Konsensus: 200 tys. Poprzednio: 202 tys.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-443228"
+  },
+  {
+   "id": "strefa-db351987f7d6",
+   "date": "2026-11-25",
+   "time": "14:33",
+   "ts": "2026-11-25T14:33:48+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Solidne spadki kontraktów na indeksy giełdowe w USA, mocny odczyt PKB",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/dzien-na-rynkach-solidne-spadki-kontraktow-na-indeksy-gieldowe-w-usa-mocny"
   },
   {
    "id": "bossa-pap-443227",
