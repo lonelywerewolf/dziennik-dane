@@ -4,18 +4,18 @@
   "podsumowania": 11,
   "wyniki": 3,
   "rekomendacje": 0,
-  "korporacyjne": 35,
+  "korporacyjne": 36,
   "makro_pl": 21,
-  "swiat_rynki": 10,
+  "swiat_rynki": 11,
   "energetyka_surowce": 4,
   "nieruchomosci": 1,
-  "fundusze_drobne": 9,
+  "fundusze_drobne": 11,
   "twoje_spolki": 2,
   "obserwowane": 0,
   "pozostale": 53
  },
- "duplicatesRemoved": 89,
- "total": 238,
+ "duplicatesRemoved": 90,
+ "total": 243,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -156,6 +156,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "15:32",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MEDCAMP S.A.: Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Zwyczajnym Walnym Zgromadzeniu w dniu 18 listopada 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271331",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "15:25",
     "kind": "pap",
@@ -732,6 +743,15 @@
     "flags": []
    },
    {
+    "time": "15:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "Po otwarciu sesji DJI spada o 1,6 proc., a S&P500 traci 2,4 proc.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/po-otwarciu-sesji-dji-spada-o-16-proc-sp500-traci-24-proc",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "14:34",
     "kind": "pap",
     "ticker": null,
@@ -863,6 +883,24 @@
    }
   ],
   "fundusze_drobne": [
+   {
+    "time": "15:36",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GENERALI OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443250",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OFE PZU wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443251",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:39",
     "kind": "pap",

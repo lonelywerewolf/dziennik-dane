@@ -1,7 +1,55 @@
 {
  "date": "2026-11-25",
- "count": 238,
+ "count": 243,
  "items": [
+  {
+   "id": "bossa-pap-443250",
+   "date": "2026-11-25",
+   "time": "15:36",
+   "ts": "2026-11-25T15:36:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GENERALI OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443250"
+  },
+  {
+   "id": "bossa-pap-443251",
+   "date": "2026-11-25",
+   "time": "15:34",
+   "ts": "2026-11-25T15:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "OFE PZU wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443251"
+  },
+  {
+   "id": "bossa-pap-443249",
+   "date": "2026-11-25",
+   "time": "15:34",
+   "ts": "2026-11-25T15:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Po otwarciu sesji DJI spada o 1,6 proc., a S&P500 traci 2,4 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443249"
+  },
+  {
+   "id": "bossa-espi-271331",
+   "date": "2026-11-25",
+   "time": "15:32",
+   "ts": "2026-11-25T15:32:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MEDCAMP S.A.",
+   "title": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na Zwyczajnym Walnym Zgromadzeniu w dniu 18 listopada 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271331"
+  },
   {
    "id": "bossa-pap-443247",
    "date": "2026-11-25",
@@ -133,6 +181,17 @@
    "title": "Kontynuacja współpracy w ramach istotnej umowy ramowej",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271324"
+  },
+  {
+   "id": "strefa-85e89613cf33",
+   "date": "2026-11-25",
+   "time": "15:02",
+   "ts": "2026-11-25T15:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Po otwarciu sesji DJI spada o 1,6 proc., a S&P500 traci 2,4 proc.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/po-otwarciu-sesji-dji-spada-o-16-proc-sp500-traci-24-proc"
   },
   {
    "id": "strefa-8083b3244e07",
