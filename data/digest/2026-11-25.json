@@ -2,9 +2,9 @@
  "date": "2026-11-25",
  "counts": {
   "podsumowania": 17,
-  "wyniki": 9,
+  "wyniki": 10,
   "rekomendacje": 0,
-  "korporacyjne": 58,
+  "korporacyjne": 61,
   "makro_pl": 23,
   "swiat_rynki": 20,
   "energetyka_surowce": 6,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 17,
   "twoje_spolki": 3,
   "obserwowane": 0,
-  "pozostale": 72
+  "pozostale": 73
  },
- "duplicatesRemoved": 123,
- "total": 349,
+ "duplicatesRemoved": 125,
+ "total": 356,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -179,6 +179,17 @@
   ],
   "wyniki": [
    {
+    "time": "18:39",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wyniki Text w II kw. 2026/27 roku vs. konsensus PAP Biznes (tabela)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443332",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
     "time": "17:55",
     "kind": "news",
     "ticker": null,
@@ -272,6 +283,37 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "18:49",
+    "kind": "espi",
+    "ticker": null,
+    "title": "CI GAMES S.E.: Informacja o transakcjach na akcjach Emitenta w trybie art. 19 MAR - wygaśnięcie zastawu rejestrowego na akcjach CI Games",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271372",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
+    "time": "18:43",
+    "kind": "espi",
+    "ticker": null,
+    "title": "DB ENERGY S.A.: Zwołanie Zwyczajnego Walnego Zgromadzenia na dzień 22 grudnia 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271370",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "18:34",
+    "kind": "news",
+    "ticker": null,
+    "title": "Text chce wypłacić 1,21 zł zaliczki na poczet przewidywanej dywidendy za rok obrotowy 2026/27",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/text-chce-wyplacic-121-zl-zaliczki-na-poczet-przewidywanej-dywidendy-za-rok",
+    "src": "strefainwestorow",
+    "flags": [
+     "dywidenda"
+    ]
+   },
    {
     "time": "18:27",
     "kind": "espi",
@@ -1534,6 +1576,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "18:45",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BUMECH S.A.: Zgłoszenie wystąpienia siły wyższej na kopalni Silesia, skutkujące czasowym wstrzymaniem wydobycia",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271371",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:29",
     "kind": "pap",

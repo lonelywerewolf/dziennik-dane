@@ -1,7 +1,90 @@
 {
  "date": "2026-11-25",
- "count": 349,
+ "count": 356,
  "items": [
+  {
+   "id": "bossa-espi-271372",
+   "date": "2026-11-25",
+   "time": "18:49",
+   "ts": "2026-11-25T18:49:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "CI GAMES S.E.",
+   "title": "Informacja o transakcjach na akcjach Emitenta w trybie art. 19 MAR - wygaśnięcie zastawu rejestrowego na akcjach CI Games",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271372"
+  },
+  {
+   "id": "bossa-pap-443336",
+   "date": "2026-11-25",
+   "time": "18:47",
+   "ts": "2026-11-25T18:47:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Text chce wypłacić 1,21 zł zaliczki na poczet przewidywanej dywidendy za rok obrotowy 2026/27",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443336"
+  },
+  {
+   "id": "bossa-pap-443334",
+   "date": "2026-11-25",
+   "time": "18:45",
+   "ts": "2026-11-25T18:45:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne - SARON",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443334"
+  },
+  {
+   "id": "bossa-espi-271371",
+   "date": "2026-11-25",
+   "time": "18:45",
+   "ts": "2026-11-25T18:45:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BUMECH S.A.",
+   "title": "Zgłoszenie wystąpienia siły wyższej na kopalni Silesia, skutkujące czasowym wstrzymaniem wydobycia",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271371"
+  },
+  {
+   "id": "bossa-espi-271370",
+   "date": "2026-11-25",
+   "time": "18:43",
+   "ts": "2026-11-25T18:43:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "DB ENERGY S.A.",
+   "title": "Zwołanie Zwyczajnego Walnego Zgromadzenia na dzień 22 grudnia 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271370"
+  },
+  {
+   "id": "bossa-pap-443332",
+   "date": "2026-11-25",
+   "time": "18:39",
+   "ts": "2026-11-25T18:39:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wyniki Text w II kw. 2026/27 roku vs. konsensus PAP Biznes (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443332"
+  },
+  {
+   "id": "strefa-cd7c0fa00490",
+   "date": "2026-11-25",
+   "time": "18:34",
+   "ts": "2026-11-25T18:34:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Text chce wypłacić 1,21 zł zaliczki na poczet przewidywanej dywidendy za rok obrotowy 2026/27",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/text-chce-wyplacic-121-zl-zaliczki-na-poczet-przewidywanej-dywidendy-za-rok"
+  },
   {
    "id": "bossa-pap-443331",
    "date": "2026-11-25",
