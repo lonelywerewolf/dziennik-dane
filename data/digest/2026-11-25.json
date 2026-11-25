@@ -4,18 +4,18 @@
   "podsumowania": 10,
   "wyniki": 3,
   "rekomendacje": 0,
-  "korporacyjne": 24,
+  "korporacyjne": 26,
   "makro_pl": 17,
   "swiat_rynki": 7,
   "energetyka_surowce": 3,
   "nieruchomosci": 1,
-  "fundusze_drobne": 7,
+  "fundusze_drobne": 8,
   "twoje_spolki": 2,
   "obserwowane": 0,
   "pozostale": 44
  },
  "duplicatesRemoved": 81,
- "total": 199,
+ "total": 202,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -145,6 +145,24 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "14:09",
+    "kind": "espi",
+    "ticker": null,
+    "title": "RAFAMET: Projekty uchwał na Nadzwyczajne Walne Zgromadzenie RAFAMET S.A. w restrukturyzacji w dniu 21 grudnia 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271322",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:02",
+    "kind": "espi",
+    "ticker": null,
+    "title": "RAFAMET: Zwołanie Nadzwyczajnego Walnego Zgromadzenia RAFAMET S.A. w restrukturyzacji na dzień 21 grudnia 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271321",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:43",
     "kind": "pap",
@@ -666,6 +684,15 @@
    }
   ],
   "fundusze_drobne": [
+   {
+    "time": "14:08",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Rynek ropy liczy na wygaszanie wojny z Iranem - Pekao TFI (opinia)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443217",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:53",
     "kind": "pap",

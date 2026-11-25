@@ -1,7 +1,43 @@
 {
  "date": "2026-11-25",
- "count": 199,
+ "count": 202,
  "items": [
+  {
+   "id": "bossa-espi-271322",
+   "date": "2026-11-25",
+   "time": "14:09",
+   "ts": "2026-11-25T14:09:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "RAFAMET",
+   "title": "Projekty uchwał na Nadzwyczajne Walne Zgromadzenie RAFAMET S.A. w restrukturyzacji w dniu 21 grudnia 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271322"
+  },
+  {
+   "id": "bossa-pap-443217",
+   "date": "2026-11-25",
+   "time": "14:08",
+   "ts": "2026-11-25T14:08:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Rynek ropy liczy na wygaszanie wojny z Iranem - Pekao TFI (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443217"
+  },
+  {
+   "id": "bossa-espi-271321",
+   "date": "2026-11-25",
+   "time": "14:02",
+   "ts": "2026-11-25T14:02:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "RAFAMET",
+   "title": "Zwołanie Nadzwyczajnego Walnego Zgromadzenia RAFAMET S.A. w restrukturyzacji na dzień 21 grudnia 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271321"
+  },
   {
    "id": "bossa-pap-443215",
    "date": "2026-11-25",
