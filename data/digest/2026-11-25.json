@@ -1,24 +1,33 @@
 {
  "date": "2026-11-25",
  "counts": {
-  "podsumowania": 9,
+  "podsumowania": 10,
   "wyniki": 3,
   "rekomendacje": 0,
-  "korporacyjne": 10,
-  "makro_pl": 12,
+  "korporacyjne": 13,
+  "makro_pl": 13,
   "swiat_rynki": 3,
   "energetyka_surowce": 2,
   "nieruchomosci": 1,
   "fundusze_drobne": 2,
-  "twoje_spolki": 1,
+  "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 27
+  "pozostale": 29
  },
- "duplicatesRemoved": 44,
- "total": 114,
+ "duplicatesRemoved": 46,
+ "total": 124,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "11:05",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: Główne indeksy z małymi zmianami; KGHM kontynuuje spadki",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/dzien-na-gpw-glowne-indeksy-z-malymi-zmianami-kghm-kontynuuje-spadki",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:26",
     "kind": "news",
@@ -137,6 +146,40 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "11:13",
+    "kind": "espi",
+    "ticker": null,
+    "title": "VOTUM S.A.: Otrzymanie od osoby pełniącej obowiązki zarządcze w VOTUM S.A. notyfikacji o transakcjach w trybie art. 19 ust. 1 MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271289",
+    "src": "bossa",
+    "flags": [
+     "zarząd",
+     "insider"
+    ]
+   },
+   {
+    "time": "11:10",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Polska sprzedała na aukcji uprawnienia do emisji CO2 po 82,41 euro/EUA",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443152",
+    "src": "bossa",
+    "flags": [
+     "emisja"
+    ]
+   },
+   {
+    "time": "11:08",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MPAY SA (22/2026) Odwołanie lub rezygnacja osoby zarządzającej lub nadzorującej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443150",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
     "time": "10:54",
     "kind": "news",
     "ticker": null,
@@ -247,6 +290,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "10:56",
+    "kind": "news",
+    "ticker": null,
+    "title": "Do Senatu wpłynęły wnioski ws. powołania Piątkowskiego i Leszczyny do RPP - marszałek Senatu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/do-senatu-wplynely-wnioski-ws-powolania-piatkowskiego-i-leszczyny-do-rpp",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "10:13",
     "kind": "pap",
@@ -438,6 +490,15 @@
   ],
   "twoje_spolki": [
    {
+    "time": "11:10",
+    "kind": "news",
+    "ticker": "SNT",
+    "title": "Zbadani.pl (Grupa Synektik) i Kliniki.pl integrują swoje platformy. To nowy rozdział w usługach dla pacjentów",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/zbadanipl-grupa-synektik-i-klinikipl-integruja-swoje-platformy-nowy-rozdzial-w",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "08:40",
     "kind": "news",
     "ticker": "CBF",
@@ -449,6 +510,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:13",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SYNTHAVERSE SA: Uzyskanie rejestracji produktu leczniczego Distreptaza w Kazachstanie zgodnie z wymaganiami Euroazjatyckiej Unii Gospodarczej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271290",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:06",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźniki referencyjne - EURIBOR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443149",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:00",
     "kind": "espi",

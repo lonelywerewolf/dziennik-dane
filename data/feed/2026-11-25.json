@@ -1,7 +1,113 @@
 {
  "date": "2026-11-25",
- "count": 114,
+ "count": 124,
  "items": [
+  {
+   "id": "bossa-espi-271290",
+   "date": "2026-11-25",
+   "time": "11:13",
+   "ts": "2026-11-25T11:13:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "SYNTHAVERSE SA",
+   "title": "Uzyskanie rejestracji produktu leczniczego Distreptaza w Kazachstanie zgodnie z wymaganiami Euroazjatyckiej Unii Gospodarczej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271290"
+  },
+  {
+   "id": "bossa-espi-271289",
+   "date": "2026-11-25",
+   "time": "11:13",
+   "ts": "2026-11-25T11:13:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "VOTUM S.A.",
+   "title": "Otrzymanie od osoby pełniącej obowiązki zarządcze w VOTUM S.A. notyfikacji o transakcjach w trybie art. 19 ust. 1 MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271289"
+  },
+  {
+   "id": "strefa-986f30f95d75",
+   "date": "2026-11-25",
+   "time": "11:10",
+   "ts": "2026-11-25T11:10:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Zbadani.pl (Grupa Synektik) i Kliniki.pl integrują swoje platformy. To nowy rozdział w usługach dla pacjentów",
+   "ticker": "SNT",
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/zbadanipl-grupa-synektik-i-klinikipl-integruja-swoje-platformy-nowy-rozdzial-w"
+  },
+  {
+   "id": "bossa-pap-443152",
+   "date": "2026-11-25",
+   "time": "11:10",
+   "ts": "2026-11-25T11:10:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Polska sprzedała na aukcji uprawnienia do emisji CO2 po 82,41 euro/EUA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443152"
+  },
+  {
+   "id": "bossa-pap-443151",
+   "date": "2026-11-25",
+   "time": "11:09",
+   "ts": "2026-11-25T11:09:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: Główne indeksy z małymi zmianami; KGHM kontynuuje spadki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443151"
+  },
+  {
+   "id": "bossa-pap-443150",
+   "date": "2026-11-25",
+   "time": "11:08",
+   "ts": "2026-11-25T11:08:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MPAY SA (22/2026) Odwołanie lub rezygnacja osoby zarządzającej lub nadzorującej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443150"
+  },
+  {
+   "id": "bossa-pap-443149",
+   "date": "2026-11-25",
+   "time": "11:06",
+   "ts": "2026-11-25T11:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne - EURIBOR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443149"
+  },
+  {
+   "id": "strefa-70ed96a6616c",
+   "date": "2026-11-25",
+   "time": "11:05",
+   "ts": "2026-11-25T11:05:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: Główne indeksy z małymi zmianami; KGHM kontynuuje spadki",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/dzien-na-gpw-glowne-indeksy-z-malymi-zmianami-kghm-kontynuuje-spadki"
+  },
+  {
+   "id": "bossa-pap-443148",
+   "date": "2026-11-25",
+   "time": "11:04",
+   "ts": "2026-11-25T11:04:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Do Senatu wpłynęły wnioski ws. powołania Piątkowskiego i Leszczyny do RPP - marszałek Senatu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443148"
+  },
   {
    "id": "bossa-espi-271288",
    "date": "2026-11-25",
@@ -13,6 +119,17 @@
    "title": "Zmiany w składzie Rady Nadzorczej Spółki",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271288"
+  },
+  {
+   "id": "strefa-b45e1890b8d8",
+   "date": "2026-11-25",
+   "time": "10:56",
+   "ts": "2026-11-25T10:56:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Do Senatu wpłynęły wnioski ws. powołania Piątkowskiego i Leszczyny do RPP - marszałek Senatu",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/do-senatu-wplynely-wnioski-ws-powolania-piatkowskiego-i-leszczyny-do-rpp"
   },
   {
    "id": "bossa-pap-443146",
