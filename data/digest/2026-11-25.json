@@ -2,7 +2,7 @@
  "date": "2026-11-25",
  "counts": {
   "podsumowania": 17,
-  "wyniki": 10,
+  "wyniki": 11,
   "rekomendacje": 0,
   "korporacyjne": 61,
   "makro_pl": 23,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 17,
   "twoje_spolki": 3,
   "obserwowane": 0,
-  "pozostale": 77
+  "pozostale": 79
  },
  "duplicatesRemoved": 125,
- "total": 361,
+ "total": 364,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -178,6 +178,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "18:48",
+    "kind": "news",
+    "ticker": null,
+    "title": "Mex Polska w III kw. '26 miała 7,1 mln zł skons. EBITDA, więcej o 29 proc. rdr",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/mex-polska-w-iii-kw-26-miala-71-mln-zl-skons-ebitda-wiecej-o-29-proc-rdr",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "18:39",
     "kind": "pap",
@@ -1585,6 +1594,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "19:21",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MO-BRUK S.A.: Przyjęcie przez Fundację Rodzinną DOTS „Opcji Put” dotyczącej 5% udziałów w EL-KAJO Sp. z o.o.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271375",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "19:18",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MABION S.A.: Otrzymanie zawiadomienia o zmniejszeniu stanu posiadania poniżej 10% ogólnej liczby głosów w Spółce",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271374",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "19:16",
     "kind": "pap",

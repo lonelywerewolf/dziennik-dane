@@ -1,7 +1,31 @@
 {
  "date": "2026-11-25",
- "count": 361,
+ "count": 364,
  "items": [
+  {
+   "id": "bossa-espi-271375",
+   "date": "2026-11-25",
+   "time": "19:21",
+   "ts": "2026-11-25T19:21:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MO-BRUK S.A.",
+   "title": "Przyjęcie przez Fundację Rodzinną DOTS „Opcji Put” dotyczącej 5% udziałów w EL-KAJO Sp. z o.o.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271375"
+  },
+  {
+   "id": "bossa-espi-271374",
+   "date": "2026-11-25",
+   "time": "19:18",
+   "ts": "2026-11-25T19:18:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MABION S.A.",
+   "title": "Otrzymanie zawiadomienia o zmniejszeniu stanu posiadania poniżej 10% ogólnej liczby głosów w Spółce",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271374"
+  },
   {
    "id": "bossa-pap-443342",
    "date": "2026-11-25",
@@ -73,6 +97,17 @@
    "title": "Informacja o transakcjach na akcjach Emitenta w trybie art. 19 MAR - wygaśnięcie zastawu rejestrowego na akcjach CI Games",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271372"
+  },
+  {
+   "id": "strefa-676c857dbf12",
+   "date": "2026-11-25",
+   "time": "18:48",
+   "ts": "2026-11-25T18:48:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Mex Polska w III kw. '26 miała 7,1 mln zł skons. EBITDA, więcej o 29 proc. rdr",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/mex-polska-w-iii-kw-26-miala-71-mln-zl-skons-ebitda-wiecej-o-29-proc-rdr"
   },
   {
    "id": "bossa-pap-443336",
