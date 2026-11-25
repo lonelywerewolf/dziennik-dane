@@ -1,7 +1,78 @@
 {
  "date": "2026-11-25",
- "count": 91,
+ "count": 98,
  "items": [
+  {
+   "id": "bossa-pap-443137",
+   "date": "2026-11-25",
+   "time": "10:14",
+   "ts": "2026-11-25T10:14:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wartość kosztorysowa inwestycji rozpoczętych w I-III kw. spadła o 23,6 proc. rdr - GUS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443137"
+  },
+  {
+   "id": "bossa-pap-443135",
+   "date": "2026-11-25",
+   "time": "10:13",
+   "ts": "2026-11-25T10:13:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "BOM: Marszałek Sejmu nie wyraził zgody na powstanie nowego zespołu parlamentarnego (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443135"
+  },
+  {
+   "id": "bossa-espi-271286",
+   "date": "2026-11-25",
+   "time": "10:13",
+   "ts": "2026-11-25T10:13:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "FUNDUSZ DŁUGU KORPORACYJNEGO RENTIER FIZ",
+   "title": "WCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271286"
+  },
+  {
+   "id": "strefa-2ff4a14f09a4",
+   "date": "2026-11-25",
+   "time": "10:12",
+   "ts": "2026-11-25T10:12:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wartość kosztorysowa inwestycji rozpoczętych w I-III kw. spadła o 23,6 proc. rdr - GUS",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/wartosc-kosztorysowa-inwestycji-rozpoczetych-w-i-iii-kw-spadla-o-236-proc-rdr"
+  },
+  {
+   "id": "bossa-pap-443134",
+   "date": "2026-11-25",
+   "time": "10:11",
+   "ts": "2026-11-25T10:11:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Develia rozpoczęła sprzedaż 164 mieszkań w Warszawie",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443134"
+  },
+  {
+   "id": "bossa-espi-271285",
+   "date": "2026-11-25",
+   "time": "10:08",
+   "ts": "2026-11-25T10:08:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF WIG20 TR + mWIG40 TR PORTFELOWY FIZ",
+   "title": "RB_FI_E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271285"
+  },
   {
    "id": "bossa-espi-271284",
    "date": "2026-11-25",
@@ -61,6 +132,17 @@
    "title": "MRiRW: Więcej polskiego mięsa na koreańskim rynku. Rozmawiamy o rozwoju eksportu (komunikat)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-443128"
+  },
+  {
+   "id": "strefa-48c71ff1545b",
+   "date": "2026-11-25",
+   "time": "09:53",
+   "ts": "2026-11-25T09:53:35+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Develia rozpoczęła sprzedaż 164 mieszkań w Warszawie",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/develia-rozpoczela-sprzedaz-164-mieszkan-w-warszawie"
   },
   {
    "id": "bossa-espi-271280",
