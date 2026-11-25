@@ -1,7 +1,31 @@
 {
  "date": "2026-11-25",
- "count": 243,
+ "count": 245,
  "items": [
+  {
+   "id": "bossa-espi-271332",
+   "date": "2026-11-25",
+   "time": "15:49",
+   "ts": "2026-11-25T15:49:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BTCS S.A.",
+   "title": "Opinia Zarządu Emitenta uzasadniająca pozbawienie akcjonariuszy prawa poboru oraz cena emisyjna papierów wartościowych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271332"
+  },
+  {
+   "id": "bossa-pap-443252",
+   "date": "2026-11-25",
+   "time": "15:46",
+   "ts": "2026-11-25T15:46:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Komunikat w sprawie spełnienia warunku określonego w wezwaniu do zapisywania się na sprzedaż akcji ERSTE BANK POLSKA SA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443252"
+  },
   {
    "id": "bossa-pap-443250",
    "date": "2026-11-25",
