@@ -1,7 +1,19 @@
 {
  "date": "2026-11-25",
- "count": 22,
+ "count": 24,
  "items": [
+  {
+   "id": "bossa-pap-443090",
+   "date": "2026-11-25",
+   "time": "07:09",
+   "ts": "2026-11-25T07:09:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Murapol w III kw. miał 61,7 mln zł zysku netto j.d., lekko powyżej konsensusu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443090"
+  },
   {
    "id": "strefa-a48a8a289d85",
    "date": "2026-11-25",
@@ -23,6 +35,17 @@
    "title": "Kalendarium rynku kapitałowego GPW 2026-11-25",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261125/kalendarium-rynku-kapitalowego-gpw-2026-11-25"
+  },
+  {
+   "id": "strefa-2e3171f273d3",
+   "date": "2026-11-25",
+   "time": "07:01",
+   "ts": "2026-11-25T07:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Murapol w III kw. miał 61,7 mln zł zysku netto j.d., lekko powyżej konsensusu",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/murapol-w-iii-kw-mial-617-mln-zl-zysku-netto-jd-lekko-powyzej-konsensusu"
   },
   {
    "id": "strefa-9d8302494778",
