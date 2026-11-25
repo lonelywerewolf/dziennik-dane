@@ -1,7 +1,102 @@
 {
  "date": "2026-11-25",
- "count": 139,
+ "count": 149,
  "items": [
+  {
+   "id": "bossa-pap-443173",
+   "date": "2026-11-25",
+   "time": "12:00",
+   "ts": "2026-11-25T12:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MSZ: Ponad podziałami i dezinformacją: kampania „Resilient Together” o polsko-ukraińskiej solidarności (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443173"
+  },
+  {
+   "id": "bossa-espi-271297",
+   "date": "2026-11-25",
+   "time": "11:59",
+   "ts": "2026-11-25T11:59:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "EQUNICO SE",
+   "title": "Zawiadomienie o zawarciu transakcji przez osobę blisko związaną z osobą pełniącą obowiązki zarządcze w Spółce",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271297"
+  },
+  {
+   "id": "bossa-pap-443171",
+   "date": "2026-11-25",
+   "time": "11:58",
+   "ts": "2026-11-25T11:58:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zarząd KGHM zgodził się na zawarcie z EBI dwóch umów finansowania na łączną kwotę 1,7 mld zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443171"
+  },
+  {
+   "id": "bossa-espi-271296",
+   "date": "2026-11-25",
+   "time": "11:56",
+   "ts": "2026-11-25T11:56:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "RAFAMET",
+   "title": "Żądanie Agencji Rozwoju Przemysłu S.A. zwołania Nadzwyczajnego Walnego Zgromadzenia RAFAMET S.A. w restrukturyzacji.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271296"
+  },
+  {
+   "id": "bossa-pap-443169",
+   "date": "2026-11-25",
+   "time": "11:55",
+   "ts": "2026-11-25T11:55:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Przeszukania w spółkach Skarbu Państwa w sprawie powoływania się na wpływy - Dobrzyński",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443169"
+  },
+  {
+   "id": "strefa-eedfeea695cd",
+   "date": "2026-11-25",
+   "time": "11:51",
+   "ts": "2026-11-25T11:51:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Zarząd KGHM zgodził się na zawarcie z EBI dwóch umów finansowania na łączną kwotę 1,7 mld zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/zarzad-kghm-zgodzil-sie-na-zawarcie-z-ebi-dwoch-umow-finansowania-na-laczna"
+  },
+  {
+   "id": "bossa-pap-443167",
+   "date": "2026-11-25",
+   "time": "11:50",
+   "ts": "2026-11-25T11:50:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Tabela kursów średnich NBP nr 229/A/NBP/2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443167"
+  },
+  {
+   "id": "bossa-espi-271295",
+   "date": "2026-11-25",
+   "time": "11:50",
+   "ts": "2026-11-25T11:50:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KGHM POLSKA MIEDŹ SA",
+   "title": "Zgoda Zarządu na zawarcie umowy pożyczki z Europejskim Bankiem Inwestycyjnym",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271295"
+  },
   {
    "id": "strefa-82963410cff8",
    "date": "2026-11-25",
@@ -12,6 +107,29 @@
    "title": "MF na przetargu sprzedało obligacje za 11,0 mld zł przy popycie 17,7 mld zł (opis)",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261125/mf-na-przetargu-sprzedalo-obligacje-za-110-mld-zl-przy-popycie-177-mld-zl-opis"
+  },
+  {
+   "id": "strefa-000fd2b5cee3",
+   "date": "2026-11-25",
+   "time": "11:49",
+   "ts": "2026-11-25T11:49:44+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Tabela kursów średnich NBP nr 229/A/NBP/2026",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/tabela-kursow-srednich-nbp-nr-229anbp2026"
+  },
+  {
+   "id": "bossa-pap-443166",
+   "date": "2026-11-25",
+   "time": "11:49",
+   "ts": "2026-11-25T11:49:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Złoty osłabia się; EUR/PLN przebił 4,486, a USD/PLN sięgnął 4,10",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443166"
   },
   {
    "id": "strefa-1527ab88f329",
