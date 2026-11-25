@@ -5,17 +5,17 @@
   "wyniki": 3,
   "rekomendacje": 0,
   "korporacyjne": 24,
-  "makro_pl": 15,
+  "makro_pl": 17,
   "swiat_rynki": 7,
   "energetyka_surowce": 3,
   "nieruchomosci": 1,
-  "fundusze_drobne": 6,
+  "fundusze_drobne": 7,
   "twoje_spolki": 2,
   "obserwowane": 0,
   "pozostale": 44
  },
- "duplicatesRemoved": 79,
- "total": 194,
+ "duplicatesRemoved": 81,
+ "total": 199,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -407,6 +407,24 @@
   ],
   "makro_pl": [
    {
+    "time": "13:58",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Australijski parlament przyjął ustawę zobowiązującą platformy internetowe do usuwania szkodliwych treści",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443215",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:55",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Spadki na rynku złota gwałtowne, ale rosną oczekiwania na powrót do zwyżek - Pekao TFI (opinia)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443214",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "11:59",
     "kind": "news",
     "ticker": null,
@@ -648,6 +666,15 @@
    }
   ],
   "fundusze_drobne": [
+   {
+    "time": "13:53",
+    "kind": "pap",
+    "ticker": null,
+    "title": "ZUS przekazał do OFE w tym tygodniu 208,2 mln zł",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443212",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:33",
     "kind": "pap",

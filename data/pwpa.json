@@ -39,6 +39,15 @@
    "house": "Noble Securities S.A."
   },
   {
+   "date": "2026-11-25",
+   "ticker": "ARH",
+   "company": "Archicom S.A.",
+   "file": "20261125_bank_millennium_arh_pl_aw.pdf",
+   "url": "https://www.gpw.pl/pub/pwpa/20261125_bank_millennium_arh_pl_aw.pdf",
+   "type": "analiza wyników",
+   "house": "Bank Millennium S.A."
+  },
+  {
    "date": "2026-11-24",
    "ticker": "CLD",
    "company": "CLOUD TECHNOLOGIES S.A.",
@@ -751,5 +760,5 @@
    "house": "Noble Securities S.A."
   }
  ],
- "updatedAt": "2026-11-25T13:50:41+01:00"
+ "updatedAt": "2026-11-25T14:01:41+01:00"
 }

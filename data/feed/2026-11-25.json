@@ -1,7 +1,67 @@
 {
  "date": "2026-11-25",
- "count": 194,
+ "count": 199,
  "items": [
+  {
+   "id": "bossa-pap-443215",
+   "date": "2026-11-25",
+   "time": "13:58",
+   "ts": "2026-11-25T13:58:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Australijski parlament przyjął ustawę zobowiązującą platformy internetowe do usuwania szkodliwych treści",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443215"
+  },
+  {
+   "id": "bossa-pap-443214",
+   "date": "2026-11-25",
+   "time": "13:55",
+   "ts": "2026-11-25T13:55:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Spadki na rynku złota gwałtowne, ale rosną oczekiwania na powrót do zwyżek - Pekao TFI (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443214"
+  },
+  {
+   "id": "bossa-espi-271320",
+   "date": "2026-11-25",
+   "time": "13:54",
+   "ts": "2026-11-25T13:54:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF WIG20 TR + mWIG40 TR PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271320"
+  },
+  {
+   "id": "bossa-pap-443212",
+   "date": "2026-11-25",
+   "time": "13:53",
+   "ts": "2026-11-25T13:53:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "ZUS przekazał do OFE w tym tygodniu 208,2 mln zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443212"
+  },
+  {
+   "id": "bossa-espi-271319",
+   "date": "2026-11-25",
+   "time": "13:51",
+   "ts": "2026-11-25T13:51:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF MSCI WORLD PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271319"
+  },
   {
    "id": "bossa-espi-271318",
    "date": "2026-11-25",
