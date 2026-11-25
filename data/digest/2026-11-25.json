@@ -1,7 +1,7 @@
 {
  "date": "2026-11-25",
  "counts": {
-  "podsumowania": 17,
+  "podsumowania": 18,
   "wyniki": 11,
   "rekomendacje": 0,
   "korporacyjne": 65,
@@ -15,10 +15,19 @@
   "pozostale": 84
  },
  "duplicatesRemoved": 131,
- "total": 380,
+ "total": 381,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "22:15",
+    "kind": "pap",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Na Wall Street mocne spadki w ciągu dnia, ale na koniec sesji małe zmiany",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443359",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:06",
     "kind": "news",

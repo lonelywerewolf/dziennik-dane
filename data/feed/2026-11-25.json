@@ -1,7 +1,19 @@
 {
  "date": "2026-11-25",
- "count": 380,
+ "count": 381,
  "items": [
+  {
+   "id": "bossa-pap-443359",
+   "date": "2026-11-25",
+   "time": "22:15",
+   "ts": "2026-11-25T22:15:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Na Wall Street mocne spadki w ciągu dnia, ale na koniec sesji małe zmiany",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443359"
+  },
   {
    "id": "bossa-espi-271379",
    "date": "2026-11-25",
