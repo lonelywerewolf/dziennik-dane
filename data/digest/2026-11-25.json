@@ -14,11 +14,29 @@
   "obserwowane": 0,
   "pozostale": 6
  },
- "duplicatesRemoved": 4,
- "total": 19,
+ "duplicatesRemoved": 7,
+ "total": 22,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kalendarium rynku kapitałowego GPW 2026-11-25",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/kalendarium-rynku-kapitalowego-gpw-2026-11-25",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "06:49",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kalendarium rynku NewConnect 2026-11-25",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/kalendarium-rynku-newconnect-2026-11-25",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "06:17",
     "kind": "pap",
@@ -32,26 +50,8 @@
     "time": "06:00",
     "kind": "pap",
     "ticker": null,
-    "title": "Kalendarium rynku kapitałowego GPW 2026-11-25",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443080",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "06:00",
-    "kind": "pap",
-    "ticker": null,
     "title": "Kalendarium spółek z WIG30 2026-11-25",
     "url": "https://bossa.pl/analizy/komunikaty#message-443078",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "06:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Kalendarium rynku NewConnect 2026-11-25",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443077",
     "src": "bossa",
     "flags": []
    }
@@ -123,6 +123,15 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-25",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-25",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "06:39",
     "kind": "pap",
     "ticker": null,
@@ -137,15 +146,6 @@
     "ticker": null,
     "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
     "url": "https://bossa.pl/analizy/komunikaty#message-443084",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "06:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-25",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443079",
     "src": "bossa",
     "flags": []
    },
