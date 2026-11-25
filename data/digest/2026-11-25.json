@@ -2,11 +2,11 @@
  "date": "2026-11-25",
  "counts": {
   "podsumowania": 16,
-  "wyniki": 8,
+  "wyniki": 9,
   "rekomendacje": 0,
-  "korporacyjne": 53,
+  "korporacyjne": 55,
   "makro_pl": 22,
-  "swiat_rynki": 18,
+  "swiat_rynki": 19,
   "energetyka_surowce": 6,
   "nieruchomosci": 1,
   "fundusze_drobne": 17,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 67
  },
- "duplicatesRemoved": 116,
- "total": 326,
+ "duplicatesRemoved": 119,
+ "total": 333,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -170,6 +170,15 @@
   ],
   "wyniki": [
    {
+    "time": "17:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "11 bit studios w III kw. miało 15,4 mln zł zysku EBITDA wobec 13,2 mln zł konsensusu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/11-bit-studios-w-iii-kw-mialo-154-mln-zl-zysku-ebitda-wobec-132-mln-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "17:43",
     "kind": "pap",
     "ticker": null,
@@ -254,6 +263,28 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "18:05",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BTCS S.A.: Rejestracja zmiany nazwy spółki zależnej – zarządzającego alternatywną spółką inwestycyjną",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271364",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "18:00",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ECHO: Emisja obligacji serii 9I/2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271363",
+    "src": "bossa",
+    "flags": [
+     "emisja"
+    ]
+   },
    {
     "time": "17:51",
     "kind": "espi",
@@ -1015,6 +1046,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "17:50",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Komisja Europejska oczekuje od USA respektowania maksymalnych ceł na poziomie 15 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443316",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:37",
     "kind": "news",
