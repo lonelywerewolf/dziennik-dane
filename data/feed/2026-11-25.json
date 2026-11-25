@@ -1,7 +1,55 @@
 {
  "date": "2026-11-25",
- "count": 215,
+ "count": 219,
  "items": [
+  {
+   "id": "bossa-pap-443231",
+   "date": "2026-11-25",
+   "time": "14:39",
+   "ts": "2026-11-25T14:39:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "OFE POCZTYLION wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443231"
+  },
+  {
+   "id": "bossa-pap-443230",
+   "date": "2026-11-25",
+   "time": "14:35",
+   "ts": "2026-11-25T14:35:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wydatki Amerykanów w październiku: 0,3 proc. mdm. Konsensus: 0,4 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443230"
+  },
+  {
+   "id": "bossa-pap-443229",
+   "date": "2026-11-25",
+   "time": "14:35",
+   "ts": "2026-11-25T14:35:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zamówienia na dobra trwałe w USA w październiku: 0,2 proc. mdm. Konsensus: 0,7 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443229"
+  },
+  {
+   "id": "bossa-pap-443228",
+   "date": "2026-11-25",
+   "time": "14:34",
+   "ts": "2026-11-25T14:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Liczba nowych bezrobotnych w USA w ub. tyg.: 189 tys. Konsensus: 200 tys. Poprzednio: 202 tys.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443228"
+  },
   {
    "id": "bossa-pap-443227",
    "date": "2026-11-25",
