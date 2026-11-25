@@ -1,6 +1,21 @@
 {
  "items": [
   {
+   "date": "2026-11-25",
+   "company": "CYBERFLKS (CBF)",
+   "code": "CBF",
+   "name": "CYBERFLKS",
+   "isin": "PLR220000018",
+   "rating": "Kupuj",
+   "price": "204.8",
+   "target": "236",
+   "upside": "15.234375",
+   "priceAtPub": "204.8",
+   "house": "BM mBank",
+   "report": "https://strefainwestorow.pl/sites/default/files/attachments/55596405_14092998_55596405_CBF_PL_RA.pdf",
+   "ticker": null
+  },
+  {
    "date": "2026-11-24",
    "company": "APLISENS (APN)",
    "code": "APN",
@@ -4561,5 +4576,5 @@
    "ticker": "XTB"
   }
  ],
- "updatedAt": "2026-11-25T09:02:52+01:00"
+ "updatedAt": "2026-11-25T09:13:53+01:00"
 }
