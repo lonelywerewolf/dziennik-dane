@@ -1,0 +1,74 @@
+{
+ "date": "2026-11-25",
+ "counts": {
+  "podsumowania": 0,
+  "wyniki": 0,
+  "rekomendacje": 0,
+  "korporacyjne": 1,
+  "makro_pl": 0,
+  "swiat_rynki": 0,
+  "energetyka_surowce": 0,
+  "nieruchomosci": 0,
+  "fundusze_drobne": 0,
+  "twoje_spolki": 0,
+  "obserwowane": 0,
+  "pozostale": 3
+ },
+ "duplicatesRemoved": 0,
+ "total": 4,
+ "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
+ "groups": {
+  "podsumowania": [],
+  "wyniki": [],
+  "rekomendacje": [],
+  "korporacyjne": [
+   {
+    "time": "00:23",
+    "kind": "pap",
+    "ticker": null,
+    "title": "CARLSON INVESTMENTS SE (29/2026) Powołanie osoby zarządzającej lub nadzorującej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443074",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   }
+  ],
+  "makro_pl": [],
+  "swiat_rynki": [],
+  "energetyka_surowce": [],
+  "nieruchomosci": [],
+  "fundusze_drobne": [],
+  "twoje_spolki": [],
+  "obserwowane": [],
+  "pozostale": [
+   {
+    "time": "00:33",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MOSTALWAR: QS",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271271",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "00:29",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MOSTALWAR: Q",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271270",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "00:08",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ULMA Construccion SA: QSr",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271269",
+    "src": "bossa",
+    "flags": []
+   }
+  ]
+ }
+}
