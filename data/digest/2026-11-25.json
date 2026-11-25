@@ -12,10 +12,10 @@
   "fundusze_drobne": 17,
   "twoje_spolki": 3,
   "obserwowane": 0,
-  "pozostale": 75
+  "pozostale": 77
  },
  "duplicatesRemoved": 125,
- "total": 359,
+ "total": 361,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1585,6 +1585,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "19:16",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Grupa Text miała w II kw. 34 mln zł zysku netto wobec konsensusu 32,1 mln zł",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443342",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "19:10",
+    "kind": "espi",
+    "ticker": null,
+    "title": "INTERBUD-LUBLIN S.A.: Komunikat KDPW w sprawie rejestracji akcji serii H Spółki.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271373",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:59",
     "kind": "pap",
