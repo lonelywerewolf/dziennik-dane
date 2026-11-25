@@ -1,7 +1,55 @@
 {
  "date": "2026-11-25",
- "count": 4,
+ "count": 8,
  "items": [
+  {
+   "id": "bossa-pap-443080",
+   "date": "2026-11-25",
+   "time": "06:00",
+   "ts": "2026-11-25T06:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Kalendarium rynku kapitałowego GPW 2026-11-25",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443080"
+  },
+  {
+   "id": "bossa-pap-443079",
+   "date": "2026-11-25",
+   "time": "06:00",
+   "ts": "2026-11-25T06:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-25",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443079"
+  },
+  {
+   "id": "bossa-pap-443078",
+   "date": "2026-11-25",
+   "time": "06:00",
+   "ts": "2026-11-25T06:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Kalendarium spółek z WIG30 2026-11-25",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443078"
+  },
+  {
+   "id": "bossa-pap-443077",
+   "date": "2026-11-25",
+   "time": "06:00",
+   "ts": "2026-11-25T06:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Kalendarium rynku NewConnect 2026-11-25",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443077"
+  },
   {
    "id": "bossa-espi-271271",
    "date": "2026-11-25",
