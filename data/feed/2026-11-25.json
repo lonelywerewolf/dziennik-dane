@@ -1,7 +1,19 @@
 {
  "date": "2026-11-25",
- "count": 8,
+ "count": 9,
  "items": [
+  {
+   "id": "bossa-pap-443081",
+   "date": "2026-11-25",
+   "time": "06:17",
+   "ts": "2026-11-25T06:17:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Przegląd prasy gospodarczej w środę, 25 listopada",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443081"
+  },
   {
    "id": "bossa-pap-443080",
    "date": "2026-11-25",
