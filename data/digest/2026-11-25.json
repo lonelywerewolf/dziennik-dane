@@ -4,7 +4,7 @@
   "podsumowania": 10,
   "wyniki": 3,
   "rekomendacje": 0,
-  "korporacyjne": 14,
+  "korporacyjne": 15,
   "makro_pl": 13,
   "swiat_rynki": 3,
   "energetyka_surowce": 2,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 3,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 31
+  "pozostale": 32
  },
- "duplicatesRemoved": 48,
- "total": 130,
+ "duplicatesRemoved": 49,
+ "total": 133,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -145,6 +145,15 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "11:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MF na przetargu sprzedało obligacje za 11,0 mld zł przy popycie 17,7 mld zł",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443160",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:17",
     "kind": "espi",
@@ -531,6 +540,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:37",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KE proponuje Quantum Act i fundusz, które mają wzmocnić europejskie technologie kwantowe",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443162",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:17",
     "kind": "pap",
