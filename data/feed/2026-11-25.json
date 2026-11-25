@@ -1,7 +1,43 @@
 {
  "date": "2026-11-25",
- "count": 167,
+ "count": 171,
  "items": [
+  {
+   "id": "bossa-pap-443191",
+   "date": "2026-11-25",
+   "time": "12:50",
+   "ts": "2026-11-25T12:50:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Kierunkowa decyzja ws. stałej bazy wojsk USA w Polsce na początku grudnia - Kosiniak-Kamysz",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443191"
+  },
+  {
+   "id": "bossa-espi-271310",
+   "date": "2026-11-25",
+   "time": "12:50",
+   "ts": "2026-11-25T12:50:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF WIG20TR PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 238 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271310"
+  },
+  {
+   "id": "bossa-pap-443190",
+   "date": "2026-11-25",
+   "time": "12:49",
+   "ts": "2026-11-25T12:49:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Domy maklerskie miały 1,34 mld zł zysku netto po trzech kw. - KNF",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443190"
+  },
   {
    "id": "bossa-pap-443189",
    "date": "2026-11-25",
@@ -49,6 +85,17 @@
    "title": "Raport bieżący nr 237 / 2026",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271307"
+  },
+  {
+   "id": "strefa-0722d0ff0744",
+   "date": "2026-11-25",
+   "time": "12:34",
+   "ts": "2026-11-25T12:34:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Kierunkowa decyzja ws. stałej bazy wojsk USA w Polsce na początku grudnia - Kosiniak-Kamysz",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/kierunkowa-decyzja-ws-stalej-bazy-wojsk-usa-w-polsce-na-poczatku-grudnia"
   },
   {
    "id": "bossa-pap-443185",

@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "65be85a60f96",
+   "ticker": "TSM",
+   "time": "2026-11-25T12:39+01:00",
+   "title": "Taiwan Semiconductor Manufacturing Company Limited Announces Adjustment to Cash Dividend Per Share",
+   "url": "https://www.nasdaq.com/articles/taiwan-semiconductor-manufacturing-company-limited-announces-adjustment-cash-dividend",
+   "src": "nasdaq",
+   "summary": "Taiwan Semiconductor Manufacturing Company Limited announced an adjustment to its previously approved cash dividend for the second quarter of 2026. On August 11, 2026, the company board approved distributing NT$181,526,590,469 as a cash dividend, translating to NT$7.0 per common"
+  },
+  {
+   "id": "1fdb6a33bf8e",
+   "ticker": "NVDA",
+   "time": "2026-11-25T12:35+01:00",
+   "title": "Jensen Huang Says Nvidia's Next-Gen Vera Rubin Chips Will Generate $40 Billion in Revenue per Gigawatt, Up From $25 Billion for Grace Blackwell. What That Means for NVDA's Growth Runway.",
+   "url": "https://www.nasdaq.com/articles/jensen-huang-says-nvidias-next-gen-vera-rubin-chips-will-generate-40-billion-revenue-1",
+   "src": "nasdaq",
+   "summary": "Key PointsNvidia expects a 40% increase in revenue per gigawatt with its Vera Rubin platform."
+  },
+  {
+   "id": "262ab2c9b739",
+   "ticker": "AVGO",
+   "time": "2026-11-25T12:20+01:00",
+   "title": "Broadcom Bought $1 Billion Worth of Anthropic’s IPO, and It Has Tens of Billions More Riding on Its Success.",
+   "url": "https://www.nasdaq.com/articles/broadcom-bought-1-billion-worth-anthropics-ipo-and-it-has-tens-billions-more-riding-its",
+   "src": "nasdaq",
+   "summary": "Key PointsBroadcom participated in a private placement for Anthropic stock at its IPO price."
+  },
+  {
    "id": "016b7580f13e",
    "ticker": "NVDA",
    "time": "2026-11-25T11:22+01:00",
@@ -17920,5 +17947,5 @@
    "summary": "META_TITLE_QUOTE&nbsp;&nbsp;Yahoo Finance"
   }
  ],
- "updatedAt": "2026-11-25T12:44:42+01:00"
+ "updatedAt": "2026-11-25T12:55:42+01:00"
 }

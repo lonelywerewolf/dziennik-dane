@@ -6,16 +6,16 @@
   "rekomendacje": 0,
   "korporacyjne": 23,
   "makro_pl": 15,
-  "swiat_rynki": 5,
+  "swiat_rynki": 6,
   "energetyka_surowce": 3,
   "nieruchomosci": 1,
   "fundusze_drobne": 4,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 36
+  "pozostale": 37
  },
- "duplicatesRemoved": 65,
- "total": 167,
+ "duplicatesRemoved": 67,
+ "total": 171,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -535,6 +535,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "12:34",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kierunkowa decyzja ws. stałej bazy wojsk USA w Polsce na początku grudnia - Kosiniak-Kamysz",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/kierunkowa-decyzja-ws-stalej-bazy-wojsk-usa-w-polsce-na-poczatku-grudnia",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "12:12",
     "kind": "pap",
     "ticker": null,
@@ -680,6 +689,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:49",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Domy maklerskie miały 1,34 mld zł zysku netto po trzech kw. - KNF",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443190",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:22",
     "kind": "pap",
