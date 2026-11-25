@@ -12,10 +12,10 @@
   "fundusze_drobne": 17,
   "twoje_spolki": 3,
   "obserwowane": 0,
-  "pozostale": 80
+  "pozostale": 81
  },
  "duplicatesRemoved": 126,
- "total": 366,
+ "total": 367,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1594,6 +1594,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "19:46",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Mo-Bruk obejmie 100 proc. udziałów w spółce El-Kajo po wykonaniu opcji put przez fundację DOTS",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443347",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "19:34",
     "kind": "pap",
