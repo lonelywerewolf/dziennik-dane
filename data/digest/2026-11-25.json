@@ -9,13 +9,13 @@
   "swiat_rynki": 7,
   "energetyka_surowce": 3,
   "nieruchomosci": 1,
-  "fundusze_drobne": 5,
+  "fundusze_drobne": 6,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 43
+  "pozostale": 44
  },
  "duplicatesRemoved": 76,
- "total": 188,
+ "total": 190,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -640,6 +640,15 @@
   ],
   "fundusze_drobne": [
    {
+    "time": "13:33",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PKO BP BANKOWY OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443206",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "13:02",
     "kind": "news",
     "ticker": null,
@@ -714,6 +723,15 @@
     "title": "GKS GIEKSA KATOWICE SA (23/2026) Informacje o walnym zgromadzeniu - treść uchwał podjętych przez WZ (w tym informacje o ogłoszeniu przerwy w obradach)",
     "url": "https://bossa.pl/analizy/komunikaty#message-443205",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "ZREMB Chojnice ma szansę dostarczyć specjalistyczne kontenery do systemu obrony powietrznej o wartości 100 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/zremb-chojnice-ma-szanse-dostarczyc-specjalistyczne-kontenery-do-systemu-obrony",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
