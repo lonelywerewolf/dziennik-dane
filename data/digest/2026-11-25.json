@@ -6,7 +6,7 @@
   "rekomendacje": 0,
   "korporacyjne": 4,
   "makro_pl": 2,
-  "swiat_rynki": 0,
+  "swiat_rynki": 1,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 10
  },
- "duplicatesRemoved": 12,
- "total": 34,
+ "duplicatesRemoved": 13,
+ "total": 36,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -135,7 +135,17 @@
     "flags": []
    }
   ],
-  "swiat_rynki": [],
+  "swiat_rynki": [
+   {
+    "time": "07:44",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny miedzi w Londynie rosną przed danymi o PCE w USA",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/ceny-miedzi-w-londynie-rosna-przed-danymi-o-pce-w-usa",
+    "src": "strefainwestorow",
+    "flags": []
+   }
+  ],
   "energetyka_surowce": [
    {
     "time": "06:37",
