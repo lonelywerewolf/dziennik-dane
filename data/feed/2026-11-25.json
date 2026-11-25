@@ -1,7 +1,43 @@
 {
  "date": "2026-11-25",
- "count": 184,
+ "count": 188,
  "items": [
+  {
+   "id": "bossa-pap-443205",
+   "date": "2026-11-25",
+   "time": "13:26",
+   "ts": "2026-11-25T13:26:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GKS GIEKSA KATOWICE SA (23/2026) Informacje o walnym zgromadzeniu - treść uchwał podjętych przez WZ (w tym informacje o ogłoszeniu przerwy w obradach)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443205"
+  },
+  {
+   "id": "bossa-pap-443204",
+   "date": "2026-11-25",
+   "time": "13:23",
+   "ts": "2026-11-25T13:23:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zremb-Chojnice ma term sheet ws. przyszłych dostaw na rzecz podmiotu z branży zbrojeniowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443204"
+  },
+  {
+   "id": "bossa-pap-443203",
+   "date": "2026-11-25",
+   "time": "13:19",
+   "ts": "2026-11-25T13:19:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Prezes UOKiK nałożył blisko 45 mln zł kary za zmowę przetargową na producentów gazomierzy (aktl.)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443203"
+  },
   {
    "id": "bossa-espi-271315",
    "date": "2026-11-25",
@@ -13,6 +49,17 @@
    "title": "Zawarcie term sheet dotyczącego przyszłych dostaw na rzecz podmiotu z jednego z krajów NATO.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271315"
+  },
+  {
+   "id": "strefa-53054a618d41",
+   "date": "2026-11-25",
+   "time": "13:14",
+   "ts": "2026-11-25T13:14:14+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Prezes UOKiK nałożył blisko 45 mln zł kary za zmowę przetargową na producentów gazomierzy (aktl.)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/prezes-uokik-nalozyl-blisko-45-mln-zl-kary-za-zmowe-przetargowa-na-0"
   },
   {
    "id": "bossa-pap-443201",

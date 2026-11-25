@@ -6,16 +6,16 @@
   "rekomendacje": 0,
   "korporacyjne": 23,
   "makro_pl": 15,
-  "swiat_rynki": 6,
+  "swiat_rynki": 7,
   "energetyka_surowce": 3,
   "nieruchomosci": 1,
   "fundusze_drobne": 5,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 42
+  "pozostale": 43
  },
- "duplicatesRemoved": 74,
- "total": 184,
+ "duplicatesRemoved": 76,
+ "total": 188,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -535,6 +535,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "13:23",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Zremb-Chojnice ma term sheet ws. przyszłych dostaw na rzecz podmiotu z branży zbrojeniowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443204",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "12:34",
     "kind": "news",
     "ticker": null,
@@ -698,6 +707,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "13:26",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GKS GIEKSA KATOWICE SA (23/2026) Informacje o walnym zgromadzeniu - treść uchwał podjętych przez WZ (w tym informacje o ogłoszeniu przerwy w obradach)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443205",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:16",
     "kind": "espi",
