@@ -4,18 +4,18 @@
   "podsumowania": 9,
   "wyniki": 3,
   "rekomendacje": 0,
-  "korporacyjne": 9,
+  "korporacyjne": 10,
   "makro_pl": 12,
   "swiat_rynki": 3,
-  "energetyka_surowce": 1,
+  "energetyka_surowce": 2,
   "nieruchomosci": 1,
   "fundusze_drobne": 2,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 26
+  "pozostale": 27
  },
- "duplicatesRemoved": 42,
- "total": 109,
+ "duplicatesRemoved": 44,
+ "total": 114,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -136,6 +136,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "10:54",
+    "kind": "news",
+    "ticker": null,
+    "title": "PGE podtrzymuje plan wypłaty dywidendy za '26, za wcześnie na decyzje o jej wysokości",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/pge-podtrzymuje-plan-wyplaty-dywidendy-za-26-za-wczesnie-na-decyzje-o-jej",
+    "src": "strefainwestorow",
+    "flags": [
+     "dywidenda"
+    ]
+   },
    {
     "time": "10:26",
     "kind": "news",
@@ -376,6 +387,15 @@
   ],
   "energetyka_surowce": [
    {
+    "time": "10:44",
+    "kind": "news",
+    "ticker": null,
+    "title": "PGE negocjuje ceny węgla na 2027 rok, zakłada niższy wolumen węgla niż w 2026",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/pge-negocjuje-ceny-wegla-na-2027-rok-zaklada-nizszy-wolumen-wegla-niz-w-2026",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "06:37",
     "kind": "pap",
     "ticker": null,
@@ -429,6 +449,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:00",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MPAY S.A.: Zmiany w składzie Rady Nadzorczej Spółki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271288",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:51",
     "kind": "pap",

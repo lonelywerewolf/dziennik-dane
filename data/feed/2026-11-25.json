@@ -1,7 +1,54 @@
 {
  "date": "2026-11-25",
- "count": 109,
+ "count": 114,
  "items": [
+  {
+   "id": "bossa-espi-271288",
+   "date": "2026-11-25",
+   "time": "11:00",
+   "ts": "2026-11-25T11:00:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MPAY S.A.",
+   "title": "Zmiany w składzie Rady Nadzorczej Spółki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271288"
+  },
+  {
+   "id": "bossa-pap-443146",
+   "date": "2026-11-25",
+   "time": "10:55",
+   "ts": "2026-11-25T10:55:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PGE podtrzymuje plan wypłaty dywidendy za '26, za wcześnie na decyzje o jej wysokości",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443146"
+  },
+  {
+   "id": "strefa-6d644058573e",
+   "date": "2026-11-25",
+   "time": "10:54",
+   "ts": "2026-11-25T10:54:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "PGE podtrzymuje plan wypłaty dywidendy za '26, za wcześnie na decyzje o jej wysokości",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/pge-podtrzymuje-plan-wyplaty-dywidendy-za-26-za-wczesnie-na-decyzje-o-jej"
+  },
+  {
+   "id": "bossa-pap-443145",
+   "date": "2026-11-25",
+   "time": "10:53",
+   "ts": "2026-11-25T10:53:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PGE negocjuje ceny węgla na 2027 rok, zakłada niższy wolumen węgla niż w 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443145"
+  },
   {
    "id": "bossa-pap-443144",
    "date": "2026-11-25",
@@ -25,6 +72,17 @@
    "title": "34,1 mln dni nieobecności w pracy z powodu schorzeń psychosomatycznych w '25 - ZUS",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-443143"
+  },
+  {
+   "id": "strefa-c42f544b7de3",
+   "date": "2026-11-25",
+   "time": "10:44",
+   "ts": "2026-11-25T10:44:49+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "PGE negocjuje ceny węgla na 2027 rok, zakłada niższy wolumen węgla niż w 2026",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/pge-negocjuje-ceny-wegla-na-2027-rok-zaklada-nizszy-wolumen-wegla-niz-w-2026"
   },
   {
    "id": "strefa-1b5947db99fb",
