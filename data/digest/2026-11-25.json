@@ -2,9 +2,9 @@
  "date": "2026-11-25",
  "counts": {
   "podsumowania": 9,
-  "wyniki": 2,
+  "wyniki": 3,
   "rekomendacje": 0,
-  "korporacyjne": 8,
+  "korporacyjne": 9,
   "makro_pl": 12,
   "swiat_rynki": 3,
   "energetyka_surowce": 1,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 22
  },
- "duplicatesRemoved": 37,
- "total": 98,
+ "duplicatesRemoved": 39,
+ "total": 102,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -103,6 +103,15 @@
   ],
   "wyniki": [
    {
+    "time": "10:15",
+    "kind": "news",
+    "ticker": null,
+    "title": "PGE oczekuje w 2027 r. wyższej powtarzalnej EBITDA w energetyce odnawialnej, niższej w węglowej",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/pge-oczekuje-w-2027-r-wyzszej-powtarzalnej-ebitda-w-energetyce-odnawialnej",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "08:16",
     "kind": "news",
     "ticker": null,
@@ -127,6 +136,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "10:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Prezes UOKiK nałożył blisko 45 mln zł kary za zmowę przetargową na producentów gazomierzy miechowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443140",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "09:36",
     "kind": "news",

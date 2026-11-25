@@ -1,7 +1,54 @@
 {
  "date": "2026-11-25",
- "count": 98,
+ "count": 102,
  "items": [
+  {
+   "id": "bossa-pap-443140",
+   "date": "2026-11-25",
+   "time": "10:30",
+   "ts": "2026-11-25T10:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Prezes UOKiK nałożył blisko 45 mln zł kary za zmowę przetargową na producentów gazomierzy miechowych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443140"
+  },
+  {
+   "id": "bossa-espi-271287",
+   "date": "2026-11-25",
+   "time": "10:28",
+   "ts": "2026-11-25T10:28:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "EQUES AKCJI SEKTORA PRYWATNEGO FIZ",
+   "title": "RB_FI_E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271287"
+  },
+  {
+   "id": "bossa-pap-443138",
+   "date": "2026-11-25",
+   "time": "10:25",
+   "ts": "2026-11-25T10:25:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PGE oczekuje w 2027 r. wyższej powtarzalnej EBITDA w energetyce odnawialnej, niższej w węglowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443138"
+  },
+  {
+   "id": "strefa-2999c214f024",
+   "date": "2026-11-25",
+   "time": "10:15",
+   "ts": "2026-11-25T10:15:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "PGE oczekuje w 2027 r. wyższej powtarzalnej EBITDA w energetyce odnawialnej, niższej w węglowej",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/pge-oczekuje-w-2027-r-wyzszej-powtarzalnej-ebitda-w-energetyce-odnawialnej"
+  },
   {
    "id": "bossa-pap-443137",
    "date": "2026-11-25",
