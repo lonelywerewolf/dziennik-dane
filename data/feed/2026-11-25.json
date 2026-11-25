@@ -1,7 +1,90 @@
 {
  "date": "2026-11-25",
- "count": 222,
+ "count": 230,
  "items": [
+  {
+   "id": "bossa-pap-443239",
+   "date": "2026-11-25",
+   "time": "15:06",
+   "ts": "2026-11-25T15:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "USA planują nowe cła na głównych partnerów handlowych z nadwyżkowymi mocami produkcyjnymi",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443239"
+  },
+  {
+   "id": "bossa-pap-443238",
+   "date": "2026-11-25",
+   "time": "15:03",
+   "ts": "2026-11-25T15:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "VIENNA OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443238"
+  },
+  {
+   "id": "bossa-espi-271324",
+   "date": "2026-11-25",
+   "time": "15:03",
+   "ts": "2026-11-25T15:03:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "AZTEC INTERNATIONAL S.A.",
+   "title": "Kontynuacja współpracy w ramach istotnej umowy ramowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271324"
+  },
+  {
+   "id": "strefa-8083b3244e07",
+   "date": "2026-11-25",
+   "time": "15:02",
+   "ts": "2026-11-25T15:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Kurs Orlenu spada o 4,7 proc. do 115,2 zł; WIG20 zniżkuje o 1,5 proc.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/kurs-orlenu-spada-o-47-proc-do-1152-zl-wig20-znizkuje-o-15-proc"
+  },
+  {
+   "id": "bossa-pap-443236",
+   "date": "2026-11-25",
+   "time": "15:02",
+   "ts": "2026-11-25T15:02:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "INVESTEKO SA (13/2026) Informacje o walnym zgromadzeniu - zwołanie WZ z projektami uchwał, zmiany w porządku obrad WZ",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443236"
+  },
+  {
+   "id": "bossa-pap-443235",
+   "date": "2026-11-25",
+   "time": "15:00",
+   "ts": "2026-11-25T15:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MF: Protokół zmieniający polsko-szwajcarską Konwencję o unikaniu podwójnego opodatkowania (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443235"
+  },
+  {
+   "id": "bossa-pap-443234",
+   "date": "2026-11-25",
+   "time": "14:58",
+   "ts": "2026-11-25T14:58:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Kurs Orlenu spada o 4,7 proc. do 115,2 zł; WIG20 zniżkuje o 1,5 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443234"
+  },
   {
    "id": "bossa-pap-443233",
    "date": "2026-11-25",
@@ -13,6 +96,17 @@
    "title": "Brak wsparcia Litwy dla Możejek i nowy podatek mogą pogorszyć współpracę - Motyka",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-443233"
+  },
+  {
+   "id": "strefa-e100775dbbdc",
+   "date": "2026-11-25",
+   "time": "14:50",
+   "ts": "2026-11-25T14:50:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Brak wsparcia Litwy dla Możejek i nowy podatek mogą pogorszyć współpracę - Motyka",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/brak-wsparcia-litwy-dla-mozejek-i-nowy-podatek-moga-pogorszyc-wspolprace-motyka"
   },
   {
    "id": "bossa-pap-443232",
