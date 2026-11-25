@@ -1,7 +1,109 @@
 {
  "date": "2026-11-25",
- "count": 60,
+ "count": 69,
  "items": [
+  {
+   "id": "strefa-a098077fb124",
+   "date": "2026-11-25",
+   "time": "09:23",
+   "ts": "2026-11-25T09:23:33+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Rząd rozważa różne scenariusze ws. cen prądu, w tym m.in. utrzymanie poziomu taryf - Motyka",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/rzad-rozwaza-rozne-scenariusze-ws-cen-pradu-w-tym-min-utrzymanie-poziomu-taryf"
+  },
+  {
+   "id": "bossa-espi-271278",
+   "date": "2026-11-25",
+   "time": "09:21",
+   "ts": "2026-11-25T09:21:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PEKABEX",
+   "title": "Rezygnacja Członka Rady Nadzorczej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271278"
+  },
+  {
+   "id": "strefa-a43255d80856",
+   "date": "2026-11-25",
+   "time": "09:19",
+   "ts": "2026-11-25T09:19:25+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ceny gazu w Europie spadają; ma być cieplejsza pogoda",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/ceny-gazu-w-europie-spadaja-ma-byc-cieplejsza-pogoda"
+  },
+  {
+   "id": "strefa-ca63a013eac7",
+   "date": "2026-11-25",
+   "time": "09:18",
+   "ts": "2026-11-25T09:18:10+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Murapol po 3Q 2026 roku: Sprzedaż nabiera tempa, aglomeracje zyskują na znaczeniu",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/murapol-po-3q-2026-roku-sprzedaz-nabiera-tempa-aglomeracje-zyskuja-na-znaczeniu"
+  },
+  {
+   "id": "bossa-pap-443118",
+   "date": "2026-11-25",
+   "time": "09:16",
+   "ts": "2026-11-25T09:16:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "WIG20 na otwarciu wyniósł 4053,48 pkt (-0,08%)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443118"
+  },
+  {
+   "id": "strefa-f5fccf78614c",
+   "date": "2026-11-25",
+   "time": "09:15",
+   "ts": "2026-11-25T09:15:34+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "QVITI podpisało umowę ze szpitalem wojskowym w Lublinie. Placówka zostanie ośrodkiem referencyjnym",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/qviti-podpisalo-umowe-ze-szpitalem-wojskowym-w-lublinie-placowka-zostanie"
+  },
+  {
+   "id": "strefa-041ec3dc5185",
+   "date": "2026-11-25",
+   "time": "09:14",
+   "ts": "2026-11-25T09:14:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Medicalgorithmics w szeroko zakrojonym badaniu AI VESPER sprawdzi, czy algorytmy AI mogą zastąpić pracę technika EKG",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/medicalgorithmics-w-szeroko-zakrojonym-badaniu-ai-vesper-sprawdzi-czy-algorytmy"
+  },
+  {
+   "id": "strefa-5863f4d1b2f0",
+   "date": "2026-11-25",
+   "time": "09:13",
+   "ts": "2026-11-25T09:13:43+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA FX/FI: Jest przestrzeń do cofnięcia się EUR/PLN w okolice 4,44",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/dzien-na-fxfi-jest-przestrzen-do-cofniecia-sie-eurpln-w-okolice-444"
+  },
+  {
+   "id": "bossa-pap-443117",
+   "date": "2026-11-25",
+   "time": "09:13",
+   "ts": "2026-11-25T09:13:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA FX/FI: Jest przestrzeń do cofnięcia się EUR/PLN w okolice 4,44",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443117"
+  },
   {
    "id": "bossa-espi-271277",
    "date": "2026-11-25",

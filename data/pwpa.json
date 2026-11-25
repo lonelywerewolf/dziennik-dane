@@ -8,8 +8,17 @@
    "url": "https://www.gpw.pl/pub/pwpa/20261125_mbank_cbf_pl_ra.pdf",
    "type": "raport aktualizujący",
    "house": "mBank S.A.",
-   "pdfTries": 2,
-   "pdfLastTry": "2026-11-25T09:13+01:00"
+   "pdfTries": 3,
+   "pdfLastTry": "2026-11-25T09:24+01:00"
+  },
+  {
+   "date": "2026-11-25",
+   "ticker": "BLO",
+   "company": "BLOOBER TEAM S.A.",
+   "file": "20261125_trigon_dom_maklerski_blo_pl_aw.pdf",
+   "url": "https://www.gpw.pl/pub/pwpa/20261125_trigon_dom_maklerski_blo_pl_aw.pdf",
+   "type": "analiza wyników",
+   "house": "Trigon Dom Maklerski S.A."
   },
   {
    "date": "2026-11-24",
@@ -724,5 +733,5 @@
    "house": "Noble Securities S.A."
   }
  ],
- "updatedAt": "2026-11-25T09:13:53+01:00"
+ "updatedAt": "2026-11-25T09:24:52+01:00"
 }

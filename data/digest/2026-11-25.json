@@ -1,10 +1,10 @@
 {
  "date": "2026-11-25",
  "counts": {
-  "podsumowania": 6,
+  "podsumowania": 8,
   "wyniki": 2,
   "rekomendacje": 0,
-  "korporacyjne": 5,
+  "korporacyjne": 6,
   "makro_pl": 6,
   "swiat_rynki": 3,
   "energetyka_surowce": 1,
@@ -12,13 +12,31 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 16
+  "pozostale": 19
  },
- "duplicatesRemoved": 20,
- "total": 60,
+ "duplicatesRemoved": 23,
+ "total": 69,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "09:16",
+    "kind": "pap",
+    "ticker": null,
+    "title": "WIG20 na otwarciu wyniósł 4053,48 pkt (-0,08%)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443118",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "09:13",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA FX/FI: Jest przestrzeń do cofnięcia się EUR/PLN w okolice 4,44",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/dzien-na-fxfi-jest-przestrzen-do-cofniecia-sie-eurpln-w-okolice-444",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:23",
     "kind": "news",
@@ -101,6 +119,17 @@
   "rekomendacje": [],
   "korporacyjne": [
    {
+    "time": "09:15",
+    "kind": "news",
+    "ticker": null,
+    "title": "QVITI podpisało umowę ze szpitalem wojskowym w Lublinie. Placówka zostanie ośrodkiem referencyjnym",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/qviti-podpisalo-umowe-ze-szpitalem-wojskowym-w-lublinie-placowka-zostanie",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
     "time": "07:58",
     "kind": "news",
     "ticker": null,
@@ -157,6 +186,15 @@
   ],
   "makro_pl": [
    {
+    "time": "09:23",
+    "kind": "news",
+    "ticker": null,
+    "title": "Rząd rozważa różne scenariusze ws. cen prądu, w tym m.in. utrzymanie poziomu taryf - Motyka",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/rzad-rozwaza-rozne-scenariusze-ws-cen-pradu-w-tym-min-utrzymanie-poziomu-taryf",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "08:50",
     "kind": "espi",
     "ticker": null,
@@ -171,15 +209,6 @@
     "ticker": null,
     "title": "Senatorowie KO zebrali podpisy pod kandydaturą I. Leszczyny do RPP",
     "url": "https://bossa.pl/analizy/komunikaty#message-443109",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "08:36",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Rząd rozważa różne scenariusze ws. cen prądu, w tym m.in. utrzymanie poziomu taryf - Motyka",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443107",
     "src": "bossa",
     "flags": []
    },
@@ -213,12 +242,12 @@
   ],
   "swiat_rynki": [
    {
-    "time": "09:04",
-    "kind": "pap",
+    "time": "09:19",
+    "kind": "news",
     "ticker": null,
     "title": "Ceny gazu w Europie spadają; ma być cieplejsza pogoda",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443114",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/ceny-gazu-w-europie-spadaja-ma-byc-cieplejsza-pogoda",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -266,6 +295,35 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:21",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PEKABEX: Rezygnacja Członka Rady Nadzorczej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271278",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "09:18",
+    "kind": "news",
+    "ticker": null,
+    "title": "Murapol po 3Q 2026 roku: Sprzedaż nabiera tempa, aglomeracje zyskują na znaczeniu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/murapol-po-3q-2026-roku-sprzedaz-nabiera-tempa-aglomeracje-zyskuja-na-znaczeniu",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "09:14",
+    "kind": "news",
+    "ticker": null,
+    "title": "Medicalgorithmics w szeroko zakrojonym badaniu AI VESPER sprawdzi, czy algorytmy AI mogą zastąpić pracę technika EKG",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/medicalgorithmics-w-szeroko-zakrojonym-badaniu-ai-vesper-sprawdzi-czy-algorytmy",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:11",
     "kind": "espi",
