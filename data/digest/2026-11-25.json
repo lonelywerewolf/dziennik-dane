@@ -6,7 +6,7 @@
   "rekomendacje": 0,
   "korporacyjne": 21,
   "makro_pl": 15,
-  "swiat_rynki": 4,
+  "swiat_rynki": 5,
   "energetyka_surowce": 3,
   "nieruchomosci": 1,
   "fundusze_drobne": 3,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 35
  },
- "duplicatesRemoved": 56,
- "total": 153,
+ "duplicatesRemoved": 60,
+ "total": 158,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -514,6 +514,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "12:12",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MS: Współpraca międzynarodowa i europejskie standardy: rozmowy Ministra Sprawiedliwości z EPPO oraz ZPRE (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443179",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:00",
     "kind": "espi",
