@@ -1,7 +1,31 @@
 {
  "date": "2026-11-25",
- "count": 375,
+ "count": 378,
  "items": [
+  {
+   "id": "bossa-pap-443356",
+   "date": "2026-11-25",
+   "time": "21:10",
+   "ts": "2026-11-25T21:10:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Skrót wiadomości - środa, 25 listopada, 21.00",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443356"
+  },
+  {
+   "id": "bossa-pap-443355",
+   "date": "2026-11-25",
+   "time": "21:07",
+   "ts": "2026-11-25T21:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Premier apeluje do Karola Nawrockiego ws. podpisu pod ustawą wprowadzającą zmiany w podatkach",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443355"
+  },
   {
    "id": "bossa-espi-271378",
    "date": "2026-11-25",
@@ -85,6 +109,17 @@
    "title": "RESI CAPITAL/RESI CAPITAL Spółka Akcyjna (8/2026) Zwołanie zgromadzenia obligatariuszy instrumentów finansowych wprowadzonych do obrotu w alternatywnym systemie obrotu",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-443349"
+  },
+  {
+   "id": "strefa-53275e1d7576",
+   "date": "2026-11-25",
+   "time": "19:55",
+   "ts": "2026-11-25T19:55:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "skrot",
+   "title": "Skrót wiadomości - środa, 25 listopada, 21.00",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/skrot-wiadomosci-sroda-25-listopada-2100"
   },
   {
    "id": "bossa-pap-443347",

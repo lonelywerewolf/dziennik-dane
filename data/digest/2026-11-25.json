@@ -5,7 +5,7 @@
   "wyniki": 11,
   "rekomendacje": 0,
   "korporacyjne": 64,
-  "makro_pl": 23,
+  "makro_pl": 24,
   "swiat_rynki": 21,
   "energetyka_surowce": 6,
   "nieruchomosci": 1,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 84
  },
- "duplicatesRemoved": 128,
- "total": 375,
+ "duplicatesRemoved": 130,
+ "total": 378,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -971,6 +971,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "21:07",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Premier apeluje do Karola Nawrockiego ws. podpisu pod ustawą wprowadzającą zmiany w podatkach",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443355",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:20",
     "kind": "news",
