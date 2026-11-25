@@ -1,7 +1,31 @@
 {
  "date": "2026-11-25",
- "count": 364,
+ "count": 366,
  "items": [
+  {
+   "id": "bossa-pap-443346",
+   "date": "2026-11-25",
+   "time": "19:34",
+   "ts": "2026-11-25T19:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Sokołów w roku finansowym 2025/2026 76 mln zł zysku netto, wobec 73 mln zł rok wcześniej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443346"
+  },
+  {
+   "id": "bossa-pap-443344",
+   "date": "2026-11-25",
+   "time": "19:26",
+   "ts": "2026-11-25T19:26:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Mex Polska w III kw. '26 miała 7,1 mln zł skons. EBITDA, więcej o 29 proc. rdr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443344"
+  },
   {
    "id": "bossa-espi-271375",
    "date": "2026-11-25",

@@ -12,10 +12,10 @@
   "fundusze_drobne": 17,
   "twoje_spolki": 3,
   "obserwowane": 0,
-  "pozostale": 79
+  "pozostale": 80
  },
- "duplicatesRemoved": 125,
- "total": 364,
+ "duplicatesRemoved": 126,
+ "total": 366,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1594,6 +1594,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "19:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Sokołów w roku finansowym 2025/2026 76 mln zł zysku netto, wobec 73 mln zł rok wcześniej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443346",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "19:21",
     "kind": "espi",
