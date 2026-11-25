@@ -1,7 +1,91 @@
 {
  "date": "2026-11-25",
- "count": 230,
+ "count": 237,
  "items": [
+  {
+   "id": "bossa-espi-5659",
+   "date": "2026-11-25",
+   "time": "15:14",
+   "ts": "2026-11-25T15:14:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PKO BANK POLSKI S.A.",
+   "title": "Dopuszczenie do obrotu na giełdzie w Luksemburgu obligacji nieuprzywilejowanych (senior non preferred notes) o łącznej wartości nominalnej 500.000.000 USD emitowanych w ramach Programu EMTN",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-5659"
+  },
+  {
+   "id": "bossa-espi-271330",
+   "date": "2026-11-25",
+   "time": "15:13",
+   "ts": "2026-11-25T15:13:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "EUROSNACK S.A.",
+   "title": "Zawiadomienie o transakcjach wykonanych przez osobę blisko związaną z osobą pełniącą obowiązki zarządcze",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271330"
+  },
+  {
+   "id": "bossa-espi-271329",
+   "date": "2026-11-25",
+   "time": "15:13",
+   "ts": "2026-11-25T15:13:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "INVESTEKO S.A.",
+   "title": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia INVESTEKO S.A. na dzień 22 grudnia 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271329"
+  },
+  {
+   "id": "bossa-espi-271328",
+   "date": "2026-11-25",
+   "time": "15:12",
+   "ts": "2026-11-25T15:12:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "STARHEDGE S.A.",
+   "title": "Zmiana terminu publikacji raportu okresowego.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271328"
+  },
+  {
+   "id": "bossa-espi-271327",
+   "date": "2026-11-25",
+   "time": "15:12",
+   "ts": "2026-11-25T15:12:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "TORPOL S.A.",
+   "title": "Aktualizacja informacji nt. współpracy z mBank S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271327"
+  },
+  {
+   "id": "bossa-espi-271326",
+   "date": "2026-11-25",
+   "time": "15:08",
+   "ts": "2026-11-25T15:08:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BUMECH S.A.",
+   "title": "Informacja o transakcji na akcjach Spółki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271326"
+  },
+  {
+   "id": "bossa-espi-271325",
+   "date": "2026-11-25",
+   "time": "15:07",
+   "ts": "2026-11-25T15:07:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MO-BRUK S.A.",
+   "title": "Ustanowienie zastawu rejestrowego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271325"
+  },
   {
    "id": "bossa-pap-443239",
    "date": "2026-11-25",

@@ -4,18 +4,18 @@
   "podsumowania": 11,
   "wyniki": 3,
   "rekomendacje": 0,
-  "korporacyjne": 31,
-  "makro_pl": 20,
+  "korporacyjne": 34,
+  "makro_pl": 21,
   "swiat_rynki": 10,
   "energetyka_surowce": 4,
   "nieruchomosci": 1,
   "fundusze_drobne": 9,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 50
+  "pozostale": 53
  },
  "duplicatesRemoved": 89,
- "total": 230,
+ "total": 237,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -156,6 +156,36 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "15:13",
+    "kind": "espi",
+    "ticker": null,
+    "title": "EUROSNACK S.A.: Zawiadomienie o transakcjach wykonanych przez osobę blisko związaną z osobą pełniącą obowiązki zarządcze",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271330",
+    "src": "bossa",
+    "flags": [
+     "zarząd",
+     "insider"
+    ]
+   },
+   {
+    "time": "15:13",
+    "kind": "espi",
+    "ticker": null,
+    "title": "INVESTEKO S.A.: Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia INVESTEKO S.A. na dzień 22 grudnia 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271329",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:08",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BUMECH S.A.: Informacja o transakcji na akcjach Spółki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271326",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:03",
     "kind": "espi",
@@ -490,6 +520,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "15:14",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PKO BANK POLSKI S.A.: Dopuszczenie do obrotu na giełdzie w Luksemburgu obligacji nieuprzywilejowanych (senior non preferred notes) o łącznej wartości nominalnej 500.000.000 USD emitowanych w ramach Programu EMTN",
+    "url": "https://bossa.pl/analizy/komunikaty#message-5659",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:02",
     "kind": "pap",
@@ -917,6 +956,33 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "15:12",
+    "kind": "espi",
+    "ticker": null,
+    "title": "STARHEDGE S.A.: Zmiana terminu publikacji raportu okresowego.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271328",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:12",
+    "kind": "espi",
+    "ticker": null,
+    "title": "TORPOL S.A.: Aktualizacja informacji nt. współpracy z mBank S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271327",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:07",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MO-BRUK S.A.: Ustanowienie zastawu rejestrowego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271325",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:00",
     "kind": "pap",
