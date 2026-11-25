@@ -5,17 +5,17 @@
   "wyniki": 2,
   "rekomendacje": 0,
   "korporacyjne": 5,
-  "makro_pl": 4,
+  "makro_pl": 6,
   "swiat_rynki": 2,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 12
+  "pozostale": 14
  },
- "duplicatesRemoved": 18,
- "total": 50,
+ "duplicatesRemoved": 19,
+ "total": 55,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -157,6 +157,24 @@
   ],
   "makro_pl": [
    {
+    "time": "08:50",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PragmaGo S.A.: Rejestracja obligacji serii F1 w Krajowym Depozycie Papierów Wartościowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271276",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "08:42",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Senatorowie KO zebrali podpisy pod kandydaturą I. Leszczyny do RPP",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443109",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "08:36",
     "kind": "pap",
     "ticker": null,
@@ -229,6 +247,24 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "08:49",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GREEN LANES SA (35/2026) Zakończenie subskrypcji lub sprzedaży, związanej z wprowadzeniem instrumentów finansowych emitenta do obrotu w alternatywnym systemie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443111",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "08:48",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeks nastrojów konsumentów we Francji w XI: 82 pkt. Konsensus: 81 pkt.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443110",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:33",
     "kind": "pap",

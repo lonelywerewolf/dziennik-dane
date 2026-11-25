@@ -1,7 +1,67 @@
 {
  "date": "2026-11-25",
- "count": 50,
+ "count": 55,
  "items": [
+  {
+   "id": "bossa-espi-271276",
+   "date": "2026-11-25",
+   "time": "08:50",
+   "ts": "2026-11-25T08:50:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PragmaGo S.A.",
+   "title": "Rejestracja obligacji serii F1 w Krajowym Depozycie Papierów Wartościowych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271276"
+  },
+  {
+   "id": "bossa-pap-443112",
+   "date": "2026-11-25",
+   "time": "08:49",
+   "ts": "2026-11-25T08:49:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Senatorowie KO zebrali podpisy pod kandydaturą I. Leszczyny do RPP (opis)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443112"
+  },
+  {
+   "id": "bossa-pap-443111",
+   "date": "2026-11-25",
+   "time": "08:49",
+   "ts": "2026-11-25T08:49:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GREEN LANES SA (35/2026) Zakończenie subskrypcji lub sprzedaży, związanej z wprowadzeniem instrumentów finansowych emitenta do obrotu w alternatywnym systemie",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443111"
+  },
+  {
+   "id": "bossa-pap-443110",
+   "date": "2026-11-25",
+   "time": "08:48",
+   "ts": "2026-11-25T08:48:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeks nastrojów konsumentów we Francji w XI: 82 pkt. Konsensus: 81 pkt.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443110"
+  },
+  {
+   "id": "bossa-pap-443109",
+   "date": "2026-11-25",
+   "time": "08:42",
+   "ts": "2026-11-25T08:42:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Senatorowie KO zebrali podpisy pod kandydaturą I. Leszczyny do RPP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443109"
+  },
   {
    "id": "bossa-pap-443108",
    "date": "2026-11-25",
