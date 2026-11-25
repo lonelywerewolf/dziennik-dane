@@ -4,7 +4,7 @@
   "podsumowania": 11,
   "wyniki": 3,
   "rekomendacje": 0,
-  "korporacyjne": 34,
+  "korporacyjne": 35,
   "makro_pl": 21,
   "swiat_rynki": 10,
   "energetyka_surowce": 4,
@@ -15,7 +15,7 @@
   "pozostale": 53
  },
  "duplicatesRemoved": 89,
- "total": 237,
+ "total": 238,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -156,6 +156,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "15:25",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KPRM: Polska nauka ma powody do dumy. Nagrody Prezesa Rady Ministrów wręczone (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443247",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "15:13",
     "kind": "espi",
