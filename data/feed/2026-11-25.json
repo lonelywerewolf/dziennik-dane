@@ -1,7 +1,65 @@
 {
  "date": "2026-11-25",
- "count": 320,
+ "count": 326,
  "items": [
+  {
+   "id": "bossa-espi-271361",
+   "date": "2026-11-25",
+   "time": "17:56",
+   "ts": "2026-11-25T17:56:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU SA",
+   "title": "Zawarcie oświadczenia o wygaśnięciu dokumentów dotyczących współpracy w zakresie reorganizacji Grupy PZU",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271361"
+  },
+  {
+   "id": "strefa-5c8f9ca477c4",
+   "date": "2026-11-25",
+   "time": "17:55",
+   "ts": "2026-11-25T17:55:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie wprowadzenia do alternatywnego systemu obrotu na rynku NewConnect akcji zwykłych na okaziciela serii B spółki PHOENIX SYSTEMS S.A.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/gpw-w-sprawie-wprowadzenia-do-alternatywnego-systemu-obrotu-na-rynku-newconnect"
+  },
+  {
+   "id": "strefa-58b9579fe2d7",
+   "date": "2026-11-25",
+   "time": "17:55",
+   "ts": "2026-11-25T17:55:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wyniki Voxel w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/wyniki-voxel-w-iii-kw-2026-roku-vs-konsensus-pap-tabela"
+  },
+  {
+   "id": "bossa-espi-271359",
+   "date": "2026-11-25",
+   "time": "17:51",
+   "ts": "2026-11-25T17:51:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ENERGY S.A.",
+   "title": "Zawarcie umowy na dobór, dostawę i montaż urządzeń do kompensacji mocy biernej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271359"
+  },
+  {
+   "id": "bossa-pap-443312",
+   "date": "2026-11-25",
+   "time": "17:48",
+   "ts": "2026-11-25T17:48:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie wprowadzenia do alternatywnego systemu obrotu na rynku NewConnect akcji zwykłych na okaziciela serii B spółki PHOENIX SYSTEMS S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443312"
+  },
   {
    "id": "bossa-pap-443311",
    "date": "2026-11-25",
@@ -25,6 +83,17 @@
    "title": "Rex Concepts miał w III kw. 2026 r. 22,7 mln zł EBITDA i 26,9 mln zł straty netto",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-443310"
+  },
+  {
+   "id": "strefa-5ddb3c28ae9a",
+   "date": "2026-11-25",
+   "time": "17:42",
+   "ts": "2026-11-25T17:42:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wyniki 11 bit studios w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/wyniki-11-bit-studios-w-iii-kw-2026-roku-vs-konsensus-pap-tabela"
   },
   {
    "id": "strefa-638361c9da37",

@@ -4,7 +4,7 @@
   "podsumowania": 16,
   "wyniki": 8,
   "rekomendacje": 0,
-  "korporacyjne": 52,
+  "korporacyjne": 53,
   "makro_pl": 22,
   "swiat_rynki": 18,
   "energetyka_surowce": 6,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 17,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 65
+  "pozostale": 67
  },
- "duplicatesRemoved": 113,
- "total": 320,
+ "duplicatesRemoved": 116,
+ "total": 326,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -170,17 +170,6 @@
   ],
   "wyniki": [
    {
-    "time": "17:46",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Wyniki 11 bit studios w III kw. 2026 roku vs. konsensus PAP (tabela)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443311",
-    "src": "bossa",
-    "flags": [
-     "wyniki"
-    ]
-   },
-   {
     "time": "17:43",
     "kind": "pap",
     "ticker": null,
@@ -188,6 +177,17 @@
     "url": "https://bossa.pl/analizy/komunikaty#message-443310",
     "src": "bossa",
     "flags": []
+   },
+   {
+    "time": "17:42",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wyniki 11 bit studios w III kw. 2026 roku vs. konsensus PAP (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/wyniki-11-bit-studios-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
    },
    {
     "time": "17:36",
@@ -254,6 +254,17 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "17:51",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ENERGY S.A.: Zawarcie umowy na dobór, dostawę i montaż urządzeń do kompensacji mocy biernej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271359",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "17:36",
     "kind": "pap",
@@ -1413,6 +1424,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:56",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PZU SA: Zawarcie oświadczenia o wygaśnięciu dokumentów dotyczących współpracy w zakresie reorganizacji Grupy PZU",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271361",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: w sprawie wprowadzenia do alternatywnego systemu obrotu na rynku NewConnect akcji zwykłych na okaziciela serii B spółki PHOENIX SYSTEMS S.A.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/gpw-w-sprawie-wprowadzenia-do-alternatywnego-systemu-obrotu-na-rynku-newconnect",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:39",
     "kind": "espi",
