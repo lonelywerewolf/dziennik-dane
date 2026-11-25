@@ -14,18 +14,18 @@
   "obserwowane": 0,
   "pozostale": 84
  },
- "duplicatesRemoved": 131,
- "total": 381,
+ "duplicatesRemoved": 132,
+ "total": 382,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
    {
-    "time": "22:15",
-    "kind": "pap",
+    "time": "21:13",
+    "kind": "news",
     "ticker": null,
     "title": "DZIEŃ NA RYNKACH: Na Wall Street mocne spadki w ciągu dnia, ale na koniec sesji małe zmiany",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443359",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/dzien-na-rynkach-na-wall-street-mocne-spadki-w-ciagu-dnia-ale-na-koniec-sesji",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
