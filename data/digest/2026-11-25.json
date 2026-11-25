@@ -1,24 +1,33 @@
 {
  "date": "2026-11-25",
  "counts": {
-  "podsumowania": 16,
+  "podsumowania": 17,
   "wyniki": 9,
   "rekomendacje": 0,
-  "korporacyjne": 55,
+  "korporacyjne": 56,
   "makro_pl": 22,
-  "swiat_rynki": 19,
+  "swiat_rynki": 20,
   "energetyka_surowce": 6,
   "nieruchomosci": 1,
   "fundusze_drobne": 17,
-  "twoje_spolki": 2,
+  "twoje_spolki": 3,
   "obserwowane": 0,
-  "pozostale": 67
+  "pozostale": 69
  },
- "duplicatesRemoved": 119,
- "total": 333,
+ "duplicatesRemoved": 120,
+ "total": 340,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "18:06",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Na giełdach w Europie spadki po ogłoszeniu planu nowych ceł Trumpa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/dzien-na-rynkach-na-gieldach-w-europie-spadki-po-ogloszeniu-planu-nowych-cel",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:35",
     "kind": "pap",
@@ -263,6 +272,15 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "18:10",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Transakcje pakietowe",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443322",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:05",
     "kind": "espi",
@@ -1047,6 +1065,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "18:09",
+    "kind": "news",
+    "ticker": null,
+    "title": "Rebranding Pijalni napędza rekordowy III kwartał Mex Polska. Dwucyfrowy wzrost LFL potwierdza siłę istniejącej sieci",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/rebranding-pijalni-napedza-rekordowy-iii-kwartal-mex-polska-dwucyfrowy-wzrost",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "17:50",
     "kind": "pap",
     "ticker": null,
@@ -1444,6 +1471,17 @@
   ],
   "twoje_spolki": [
    {
+    "time": "18:12",
+    "kind": "espi",
+    "ticker": "CBF",
+    "title": "cyber_Folks S.A.: Powiadomienie o transakcjach w trybie art. 19 MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271365",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
     "time": "11:10",
     "kind": "news",
     "ticker": "SNT",
@@ -1464,6 +1502,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "18:17",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Pekao i PZU zakończyły współpracę zakresie reorganizacji grupy PZU",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443325",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "18:12",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PRIME ASI SA (39/2026) Rejestracja przez sąd zmiany statutu emitenta lub odmowie takiej rejestracji, z podaniem przyczyn odmowy",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443321",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:56",
     "kind": "espi",

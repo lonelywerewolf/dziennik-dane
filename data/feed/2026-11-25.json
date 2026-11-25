@@ -1,7 +1,89 @@
 {
  "date": "2026-11-25",
- "count": 333,
+ "count": 340,
  "items": [
+  {
+   "id": "bossa-pap-443325",
+   "date": "2026-11-25",
+   "time": "18:17",
+   "ts": "2026-11-25T18:17:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Pekao i PZU zakończyły współpracę zakresie reorganizacji grupy PZU",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443325"
+  },
+  {
+   "id": "bossa-pap-443321",
+   "date": "2026-11-25",
+   "time": "18:12",
+   "ts": "2026-11-25T18:12:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PRIME ASI SA (39/2026) Rejestracja przez sąd zmiany statutu emitenta lub odmowie takiej rejestracji, z podaniem przyczyn odmowy",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443321"
+  },
+  {
+   "id": "bossa-espi-271365",
+   "date": "2026-11-25",
+   "time": "18:12",
+   "ts": "2026-11-25T18:12:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "cyber_Folks S.A.",
+   "title": "Powiadomienie o transakcjach w trybie art. 19 MAR",
+   "ticker": "CBF",
+   "url": "https://bossa.pl/analizy/komunikaty#message-271365"
+  },
+  {
+   "id": "bossa-pap-443322",
+   "date": "2026-11-25",
+   "time": "18:10",
+   "ts": "2026-11-25T18:10:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Transakcje pakietowe",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443322"
+  },
+  {
+   "id": "strefa-56e28801da63",
+   "date": "2026-11-25",
+   "time": "18:09",
+   "ts": "2026-11-25T18:09:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Rebranding Pijalni napędza rekordowy III kwartał Mex Polska. Dwucyfrowy wzrost LFL potwierdza siłę istniejącej sieci",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/rebranding-pijalni-napedza-rekordowy-iii-kwartal-mex-polska-dwucyfrowy-wzrost"
+  },
+  {
+   "id": "bossa-pap-443323",
+   "date": "2026-11-25",
+   "time": "18:08",
+   "ts": "2026-11-25T18:08:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Na giełdach w Europie spadki po ogłoszeniu planu nowych ceł Trumpa",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443323"
+  },
+  {
+   "id": "strefa-1a5908dda137",
+   "date": "2026-11-25",
+   "time": "18:06",
+   "ts": "2026-11-25T18:06:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Na giełdach w Europie spadki po ogłoszeniu planu nowych ceł Trumpa",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/dzien-na-rynkach-na-gieldach-w-europie-spadki-po-ogloszeniu-planu-nowych-cel"
+  },
   {
    "id": "bossa-espi-271364",
    "date": "2026-11-25",
