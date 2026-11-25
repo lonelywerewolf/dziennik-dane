@@ -1,7 +1,43 @@
 {
  "date": "2026-11-25",
- "count": 356,
+ "count": 359,
  "items": [
+  {
+   "id": "bossa-pap-443340",
+   "date": "2026-11-25",
+   "time": "18:59",
+   "ts": "2026-11-25T18:59:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MRiT: Nowe kody PKD. Do końca roku możliwa jest samodzielna zmiana (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443340"
+  },
+  {
+   "id": "bossa-pap-443337",
+   "date": "2026-11-25",
+   "time": "18:58",
+   "ts": "2026-11-25T18:58:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KPRM: Udział premiera Donalda Tuska w Nadzwyczajnym Szczycie Rady Europejskiej (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443337"
+  },
+  {
+   "id": "bossa-pap-443338",
+   "date": "2026-11-25",
+   "time": "18:57",
+   "ts": "2026-11-25T18:57:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Aktualne wskaźniki giełdowe",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443338"
+  },
   {
    "id": "bossa-espi-271372",
    "date": "2026-11-25",
