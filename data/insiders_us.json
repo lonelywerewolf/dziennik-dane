@@ -1,6 +1,38 @@
 {
  "items": [
   {
+   "id": "d60f2bd2da05ff",
+   "ticker": "MPWR",
+   "filed": "2026-11-25 14:00:47",
+   "tradeDate": "2026-11-23",
+   "who": "Balow Frank Anthony III",
+   "role": "CFO",
+   "type": "S - Sale",
+   "price": "$1,295.04",
+   "qty": "-44",
+   "owned": "2,877",
+   "deltaOwn": "-2%",
+   "value": "-$56,982",
+   "url": "http://www.sec.gov/Archives/edgar/data/1280452/000121465926014740/xslF345X03/marketforms-74429.xml",
+   "src": "http://openinsider.com/screener?s=MPWR"
+  },
+  {
+   "id": "85f930f00059dd",
+   "ticker": "MPWR",
+   "filed": "2026-11-25 14:00:27",
+   "tradeDate": "2026-11-23",
+   "who": "Dean Robert W II",
+   "role": "Chief Accounting Officer",
+   "type": "S - Sale",
+   "price": "$1,295.54",
+   "qty": "-28",
+   "owned": "7,118",
+   "deltaOwn": "0%",
+   "value": "-$36,275",
+   "url": "http://www.sec.gov/Archives/edgar/data/1280452/000121465926014739/xslF345X03/marketforms-74430.xml",
+   "src": "http://openinsider.com/screener?s=MPWR"
+  },
+  {
    "id": "1f4ce012b2e932",
    "ticker": "NVDA",
    "filed": "2026-11-23 16:54:28",
@@ -5521,5 +5553,5 @@
    "src": "http://openinsider.com/screener?s=MPWR"
   }
  ],
- "updatedAt": "2026-11-25T19:50:24+01:00"
+ "updatedAt": "2026-11-25T20:01:24+01:00"
 }

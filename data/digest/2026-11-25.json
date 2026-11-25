@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 81
  },
- "duplicatesRemoved": 126,
- "total": 367,
+ "duplicatesRemoved": 127,
+ "total": 368,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1595,21 +1595,21 @@
   "obserwowane": [],
   "pozostale": [
    {
-    "time": "19:46",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Mo-Bruk obejmie 100 proc. udziałów w spółce El-Kajo po wykonaniu opcji put przez fundację DOTS",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443347",
-    "src": "bossa",
-    "flags": []
-   },
-   {
     "time": "19:34",
     "kind": "pap",
     "ticker": null,
     "title": "Sokołów w roku finansowym 2025/2026 76 mln zł zysku netto, wobec 73 mln zł rok wcześniej",
     "url": "https://bossa.pl/analizy/komunikaty#message-443346",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "19:27",
+    "kind": "news",
+    "ticker": null,
+    "title": "Mo-Bruk obejmie 100 proc. udziałów w spółce El-Kajo po wykonaniu opcji put przez fundację DOTS",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/mo-bruk-obejmie-100-proc-udzialow-w-spolce-el-kajo-po-wykonaniu-opcji-put-przez",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
