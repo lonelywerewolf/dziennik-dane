@@ -4,18 +4,18 @@
   "podsumowania": 17,
   "wyniki": 9,
   "rekomendacje": 0,
-  "korporacyjne": 56,
-  "makro_pl": 22,
+  "korporacyjne": 58,
+  "makro_pl": 23,
   "swiat_rynki": 20,
   "energetyka_surowce": 6,
   "nieruchomosci": 1,
   "fundusze_drobne": 17,
   "twoje_spolki": 3,
   "obserwowane": 0,
-  "pozostale": 69
+  "pozostale": 72
  },
- "duplicatesRemoved": 120,
- "total": 340,
+ "duplicatesRemoved": 122,
+ "total": 348,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -272,6 +272,29 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "18:27",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Text S.A.: Wniosek Zarządu w sprawie wypłaty zaliczki na poczet przewidywanej dywidendy z zysku za 2026/27 rok finansowy",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271369",
+    "src": "bossa",
+    "flags": [
+     "dywidenda",
+     "zarząd"
+    ]
+   },
+   {
+    "time": "18:22",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PEKABEX: Zawarcie znaczącej umowy przez spółkę zależną Poznańskiej Korporacji Budowlanej Pekabex S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271367",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "18:10",
     "kind": "pap",
@@ -864,6 +887,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "18:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "Echo Investment wyemitował obligacje o łącznej wartości nominalnej 100 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/echo-investment-wyemitowal-obligacje-o-lacznej-wartosci-nominalnej-100-mln-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "16:44",
     "kind": "pap",
@@ -1503,12 +1535,39 @@
   "obserwowane": [],
   "pozostale": [
    {
-    "time": "18:17",
+    "time": "18:29",
     "kind": "pap",
     "ticker": null,
-    "title": "Pekao i PZU zakończyły współpracę zakresie reorganizacji grupy PZU",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443325",
+    "title": "Stawka Polonia wzrosła w środę do 3,67 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443331",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "18:25",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Zamknięcia na giełdach w Europie (tabela)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443329",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "18:23",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Text S.A.: PSr",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271368",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "18:19",
+    "kind": "news",
+    "ticker": null,
+    "title": "Pekao i PZU zakończyły współpracę zakresie reorganizacji grupy PZU",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/pekao-i-pzu-zakonczyly-wspolprace-zakresie-reorganizacji-grupy-pzu",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
