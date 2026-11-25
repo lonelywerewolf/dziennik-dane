@@ -4,7 +4,7 @@
   "podsumowania": 10,
   "wyniki": 3,
   "rekomendacje": 0,
-  "korporacyjne": 21,
+  "korporacyjne": 23,
   "makro_pl": 15,
   "swiat_rynki": 5,
   "energetyka_surowce": 3,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 36
  },
- "duplicatesRemoved": 62,
- "total": 162,
+ "duplicatesRemoved": 65,
+ "total": 167,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -145,6 +145,26 @@
   ],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "12:43",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Procedura nadmiernego deficytu zawieszona w przypadku 8 z 10 państw, w tym Polski - KE",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443189",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:39",
+    "kind": "espi",
+    "ticker": null,
+    "title": "APATOR: Decyzja Prezesa UOKiK w sprawie postępowania antymonopolowego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271308",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "11:59",
     "kind": "espi",
@@ -602,12 +622,12 @@
   ],
   "fundusze_drobne": [
    {
-    "time": "12:32",
-    "kind": "pap",
+    "time": "12:28",
+    "kind": "news",
     "ticker": null,
     "title": "TFI miały po III kw. 1,178 mld zł zysku netto - KNF",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443185",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/tfi-mialy-po-iii-kw-1178-mld-zl-zysku-netto-knf",
+    "src": "strefainwestorow",
     "flags": []
    },
    {

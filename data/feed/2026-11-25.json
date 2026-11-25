@@ -1,7 +1,55 @@
 {
  "date": "2026-11-25",
- "count": 162,
+ "count": 167,
  "items": [
+  {
+   "id": "bossa-pap-443189",
+   "date": "2026-11-25",
+   "time": "12:43",
+   "ts": "2026-11-25T12:43:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Procedura nadmiernego deficytu zawieszona w przypadku 8 z 10 państw, w tym Polski - KE",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443189"
+  },
+  {
+   "id": "bossa-espi-271309",
+   "date": "2026-11-25",
+   "time": "12:41",
+   "ts": "2026-11-25T12:41:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF WIG20short PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 236 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271309"
+  },
+  {
+   "id": "bossa-espi-271308",
+   "date": "2026-11-25",
+   "time": "12:39",
+   "ts": "2026-11-25T12:39:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "APATOR",
+   "title": "Decyzja Prezesa UOKiK w sprawie postępowania antymonopolowego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271308"
+  },
+  {
+   "id": "bossa-espi-271307",
+   "date": "2026-11-25",
+   "time": "12:38",
+   "ts": "2026-11-25T12:38:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF WIG20lev PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 237 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271307"
+  },
   {
    "id": "bossa-pap-443185",
    "date": "2026-11-25",
@@ -13,6 +61,17 @@
    "title": "TFI miały po III kw. 1,178 mld zł zysku netto - KNF",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-443185"
+  },
+  {
+   "id": "strefa-2c43cdf2a65a",
+   "date": "2026-11-25",
+   "time": "12:28",
+   "ts": "2026-11-25T12:28:25+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "TFI miały po III kw. 1,178 mld zł zysku netto - KNF",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/tfi-mialy-po-iii-kw-1178-mld-zl-zysku-netto-knf"
   },
   {
    "id": "bossa-espi-271306",
