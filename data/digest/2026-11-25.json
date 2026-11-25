@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 72
  },
- "duplicatesRemoved": 122,
- "total": 348,
+ "duplicatesRemoved": 123,
+ "total": 349,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1544,12 +1544,12 @@
     "flags": []
    },
    {
-    "time": "18:25",
-    "kind": "pap",
+    "time": "18:23",
+    "kind": "news",
     "ticker": null,
     "title": "Zamknięcia na giełdach w Europie (tabela)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443329",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261125/zamkniecia-na-gieldach-w-europie-tabela",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
