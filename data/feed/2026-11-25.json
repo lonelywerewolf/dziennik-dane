@@ -1,7 +1,54 @@
 {
  "date": "2026-11-25",
- "count": 15,
+ "count": 19,
  "items": [
+  {
+   "id": "bossa-pap-443089",
+   "date": "2026-11-25",
+   "time": "06:47",
+   "ts": "2026-11-25T06:47:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wyniki Murapolu w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443089"
+  },
+  {
+   "id": "strefa-f2f5984d7877",
+   "date": "2026-11-25",
+   "time": "06:39",
+   "ts": "2026-11-25T06:39:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wyniki Murapolu w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261125/wyniki-murapolu-w-iii-kw-2026-roku-vs-konsensus-pap-tabela"
+  },
+  {
+   "id": "bossa-pap-443088",
+   "date": "2026-11-25",
+   "time": "06:39",
+   "ts": "2026-11-25T06:39:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne ON na wybranych rynkach rozwiniętych (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443088"
+  },
+  {
+   "id": "bossa-pap-443087",
+   "date": "2026-11-25",
+   "time": "06:38",
+   "ts": "2026-11-25T06:38:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Rentowności obligacji wybranych państw (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443087"
+  },
   {
    "id": "strefa-ab39a3d74f06",
    "date": "2026-11-25",
