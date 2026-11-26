@@ -1,24 +1,33 @@
 {
  "date": "2026-11-26",
  "counts": {
-  "podsumowania": 16,
-  "wyniki": 19,
+  "podsumowania": 17,
+  "wyniki": 20,
   "rekomendacje": 2,
   "korporacyjne": 57,
   "makro_pl": 24,
   "swiat_rynki": 20,
-  "energetyka_surowce": 5,
+  "energetyka_surowce": 6,
   "nieruchomosci": 2,
   "fundusze_drobne": 11,
   "twoje_spolki": 1,
   "obserwowane": 0,
   "pozostale": 64
  },
- "duplicatesRemoved": 136,
- "total": 357,
+ "duplicatesRemoved": 141,
+ "total": 365,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "18:04",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Indeksy giełdowe w Europie zwyżkowały",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/dzien-na-rynkach-indeksy-gieldowe-w-europie-zwyzkowaly",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:37",
     "kind": "pap",
@@ -167,6 +176,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "18:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "Diagnostyka w '26 spodziewa się niższego rdr poziomu marży recurring EBITDA",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/diagnostyka-w-26-spodziewa-sie-nizszego-rdr-poziomu-marzy-recurring-ebitda",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:53",
     "kind": "news",
@@ -1388,6 +1406,15 @@
    }
   ],
   "energetyka_surowce": [
+   {
+    "time": "17:56",
+    "kind": "news",
+    "ticker": null,
+    "title": "Fitch potwierdził długoterminowe ratingi IDR Energi na poziomie \"BBB+\" ze stabilną perspektywą",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/fitch-potwierdzil-dlugoterminowe-ratingi-idr-energi-na-poziomie-bbb-ze-stabilna",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "15:20",
     "kind": "news",

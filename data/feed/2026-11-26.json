@@ -1,7 +1,99 @@
 {
  "date": "2026-11-26",
- "count": 357,
+ "count": 365,
  "items": [
+  {
+   "id": "strefa-4341ccc3dc20",
+   "date": "2026-11-26",
+   "time": "18:04",
+   "ts": "2026-11-26T18:04:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Indeksy giełdowe w Europie zwyżkowały",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/dzien-na-rynkach-indeksy-gieldowe-w-europie-zwyzkowaly"
+  },
+  {
+   "id": "bossa-pap-443627",
+   "date": "2026-11-26",
+   "time": "18:04",
+   "ts": "2026-11-26T18:04:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Indeksy giełdowe w Europie zwyżkowały",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443627"
+  },
+  {
+   "id": "strefa-b2ce47cc2e23",
+   "date": "2026-11-26",
+   "time": "18:02",
+   "ts": "2026-11-26T18:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Diagnostyka w '26 spodziewa się niższego rdr poziomu marży recurring EBITDA",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/diagnostyka-w-26-spodziewa-sie-nizszego-rdr-poziomu-marzy-recurring-ebitda"
+  },
+  {
+   "id": "strefa-1ca0d12a6e3e",
+   "date": "2026-11-26",
+   "time": "18:02",
+   "ts": "2026-11-26T18:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grupa Diagnostyka miała w III kw. 53,6 mln zł zysku netto j.d., wobec 59,9 mln zł konsensusu (opis)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/grupa-diagnostyka-miala-w-iii-kw-536-mln-zl-zysku-netto-jd-wobec-599-mln-zl-0"
+  },
+  {
+   "id": "bossa-pap-443626",
+   "date": "2026-11-26",
+   "time": "18:02",
+   "ts": "2026-11-26T18:02:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Grupa Diagnostyka miała w III kw. 53,6 mln zł zysku netto j.d., wobec 59,9 mln zł konsensusu (opis)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443626"
+  },
+  {
+   "id": "bossa-pap-443625",
+   "date": "2026-11-26",
+   "time": "18:00",
+   "ts": "2026-11-26T18:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Diagnostyka w '26 spodziewa się niższego rdr poziomu marży recurring EBITDA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443625"
+  },
+  {
+   "id": "bossa-pap-443623",
+   "date": "2026-11-26",
+   "time": "17:59",
+   "ts": "2026-11-26T17:59:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Fitch potwierdził długoterminowe ratingi IDR Energi na poziomie \"BBB+\" ze stabilną perspektywą",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443623"
+  },
+  {
+   "id": "strefa-b544036c06a7",
+   "date": "2026-11-26",
+   "time": "17:56",
+   "ts": "2026-11-26T17:56:25+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Fitch potwierdził długoterminowe ratingi IDR Energi na poziomie \"BBB+\" ze stabilną perspektywą",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/fitch-potwierdzil-dlugoterminowe-ratingi-idr-energi-na-poziomie-bbb-ze-stabilna"
+  },
   {
    "id": "strefa-da0985ab6b88",
    "date": "2026-11-26",
