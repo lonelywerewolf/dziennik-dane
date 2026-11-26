@@ -4,18 +4,18 @@
   "podsumowania": 9,
   "wyniki": 11,
   "rekomendacje": 1,
-  "korporacyjne": 14,
+  "korporacyjne": 15,
   "makro_pl": 6,
-  "swiat_rynki": 8,
+  "swiat_rynki": 9,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 23
+  "pozostale": 25
  },
- "duplicatesRemoved": 38,
- "total": 113,
+ "duplicatesRemoved": 40,
+ "total": 119,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -227,6 +227,17 @@
   ],
   "korporacyjne": [
    {
+    "time": "10:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Brak górnej granicy WIBOR w umowie o kredyt hipoteczny nie przesądza o nieuczciwości zapisu - TSUE",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443435",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
     "time": "10:02",
     "kind": "espi",
     "ticker": null,
@@ -435,6 +446,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "10:39",
+    "kind": "news",
+    "ticker": null,
+    "title": "Orlen uruchomił wydobycie z odwiertów na Podkarpaciu, które dostarczą ponad 0,5 mld m sześc. gazu ziemnego",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/orlen-uruchomil-wydobycie-z-odwiertow-na-podkarpaciu-ktore-dostarcza-ponad-05",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "09:52",
     "kind": "news",
     "ticker": null,
@@ -542,6 +562,15 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "10:33",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźniki referencyjne - SONIA",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443434",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "10:17",
     "kind": "pap",
     "ticker": null,
@@ -566,6 +595,15 @@
     "title": "CANNABIS POLAND SA (15/2026) Zakończenie subskrypcji lub sprzedaży, związanej z wprowadzeniem instrumentów finansowych emitenta do obrotu w alternatywnym systemie",
     "url": "https://bossa.pl/analizy/komunikaty#message-443431",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "09:58",
+    "kind": "news",
+    "ticker": null,
+    "title": "Śnieżka nie spodziewa się szybkiego odbicia popytu w Polsce; rozpoczyna sprzedaż w Czechach i Słowacji",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/sniezka-nie-spodziewa-sie-szybkiego-odbicia-popytu-w-polsce-rozpoczyna-sprzedaz",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
