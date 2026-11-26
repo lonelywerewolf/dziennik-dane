@@ -1,24 +1,33 @@
 {
  "date": "2026-11-26",
  "counts": {
-  "podsumowania": 9,
+  "podsumowania": 10,
   "wyniki": 11,
   "rekomendacje": 1,
-  "korporacyjne": 16,
-  "makro_pl": 7,
+  "korporacyjne": 17,
+  "makro_pl": 8,
   "swiat_rynki": 9,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 26
+  "pozostale": 27
  },
- "duplicatesRemoved": 40,
- "total": 122,
+ "duplicatesRemoved": 41,
+ "total": 127,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "10:44",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: Główne indeksy nadrabiają straty; zwyżkują KGHM, Voxel i Text, ale spada Erste",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/dzien-na-gpw-glowne-indeksy-nadrabiaja-straty-zwyzkuja-kghm-voxel-i-text-ale",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:38",
     "kind": "news",
@@ -227,6 +236,18 @@
   ],
   "korporacyjne": [
    {
+    "time": "11:14",
+    "kind": "espi",
+    "ticker": null,
+    "title": "VOTUM S.A.: Otrzymanie od osoby pełniącej obowiązki zarządcze w VOTUM S.A. notyfikacji o transakcjach w trybie art. 19 ust. 1 MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271402",
+    "src": "bossa",
+    "flags": [
+     "zarząd",
+     "insider"
+    ]
+   },
+   {
     "time": "10:47",
     "kind": "espi",
     "ticker": null,
@@ -398,6 +419,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "11:06",
+    "kind": "pap",
+    "ticker": null,
+    "title": "W '26 pracowało 93 proc. przedwojennych imigrantów z Ukrainy i 73 proc. uchodźców - NBP",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443441",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:48",
     "kind": "pap",
@@ -579,6 +609,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:07",
+    "kind": "pap",
+    "ticker": null,
+    "title": "UE wyprodukowała ponad 10 mln rowerów w 2025 r.; Polska w pierwszej piątce",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443442",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:45",
     "kind": "pap",

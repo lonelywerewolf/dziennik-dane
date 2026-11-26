@@ -1,7 +1,55 @@
 {
  "date": "2026-11-26",
- "count": 122,
+ "count": 127,
  "items": [
+  {
+   "id": "bossa-pap-443443",
+   "date": "2026-11-26",
+   "time": "11:14",
+   "ts": "2026-11-26T11:14:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: Główne indeksy nadrabiają straty; zwyżkują KGHM, Voxel i Text, ale spada Erste",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443443"
+  },
+  {
+   "id": "bossa-espi-271402",
+   "date": "2026-11-26",
+   "time": "11:14",
+   "ts": "2026-11-26T11:14:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "VOTUM S.A.",
+   "title": "Otrzymanie od osoby pełniącej obowiązki zarządcze w VOTUM S.A. notyfikacji o transakcjach w trybie art. 19 ust. 1 MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271402"
+  },
+  {
+   "id": "bossa-pap-443442",
+   "date": "2026-11-26",
+   "time": "11:07",
+   "ts": "2026-11-26T11:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "UE wyprodukowała ponad 10 mln rowerów w 2025 r.; Polska w pierwszej piątce",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443442"
+  },
+  {
+   "id": "bossa-pap-443441",
+   "date": "2026-11-26",
+   "time": "11:06",
+   "ts": "2026-11-26T11:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "W '26 pracowało 93 proc. przedwojennych imigrantów z Ukrainy i 73 proc. uchodźców - NBP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443441"
+  },
   {
    "id": "bossa-pap-443440",
    "date": "2026-11-26",
@@ -37,6 +85,17 @@
    "title": "MZ: Historyczny dzień dla bezpieczeństwa lekowego Europy (komunikat)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-443438"
+  },
+  {
+   "id": "strefa-63c87ff5f269",
+   "date": "2026-11-26",
+   "time": "10:44",
+   "ts": "2026-11-26T10:44:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: Główne indeksy nadrabiają straty; zwyżkują KGHM, Voxel i Text, ale spada Erste",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/dzien-na-gpw-glowne-indeksy-nadrabiaja-straty-zwyzkuja-kghm-voxel-i-text-ale"
   },
   {
    "id": "bossa-pap-443437",
