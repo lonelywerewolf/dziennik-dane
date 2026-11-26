@@ -1,7 +1,19 @@
 {
  "date": "2026-11-26",
- "count": 5,
+ "count": 6,
  "items": [
+  {
+   "id": "bossa-pap-443369",
+   "date": "2026-11-26",
+   "time": "06:14",
+   "ts": "2026-11-26T06:14:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Przegląd prasy gospodarczej w czwartek, 26 listopada",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443369"
+  },
   {
    "id": "bossa-pap-443368",
    "date": "2026-11-26",
