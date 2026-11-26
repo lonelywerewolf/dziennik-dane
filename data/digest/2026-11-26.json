@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 9
+  "pozostale": 10
  },
- "duplicatesRemoved": 6,
- "total": 24,
+ "duplicatesRemoved": 8,
+ "total": 27,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -142,6 +142,15 @@
     "title": "CREOTECH INSTRUMENTS S.A.: Q",
     "url": "https://bossa.pl/analizy/komunikaty#message-271381",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "07:12",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny ropy na świecie powiększają zwyżki z poprzedniej sesji",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/ceny-ropy-na-swiecie-powiekszaja-zwyzki-z-poprzedniej-sesji",
+    "src": "strefainwestorow",
     "flags": []
    },
    {

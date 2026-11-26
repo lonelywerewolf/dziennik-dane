@@ -1,7 +1,31 @@
 {
  "date": "2026-11-26",
- "count": 24,
+ "count": 27,
  "items": [
+  {
+   "id": "bossa-pap-443383",
+   "date": "2026-11-26",
+   "time": "07:44",
+   "ts": "2026-11-26T07:44:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ceny ropy na świecie powiększają zwyżki z poprzedniej sesji",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443383"
+  },
+  {
+   "id": "bossa-espi-271382",
+   "date": "2026-11-26",
+   "time": "07:38",
+   "ts": "2026-11-26T07:38:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "CI GAMES S.E.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271382"
+  },
   {
    "id": "bossa-pap-443381",
    "date": "2026-11-26",
@@ -49,6 +73,17 @@
    "title": "Q",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271381"
+  },
+  {
+   "id": "strefa-24696b69881d",
+   "date": "2026-11-26",
+   "time": "07:12",
+   "ts": "2026-11-26T07:12:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ceny ropy na świecie powiększają zwyżki z poprzedniej sesji",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/ceny-ropy-na-swiecie-powiekszaja-zwyzki-z-poprzedniej-sesji"
   },
   {
    "id": "bossa-pap-443377",
