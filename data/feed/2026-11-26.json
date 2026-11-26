@@ -1,7 +1,19 @@
 {
  "date": "2026-11-26",
- "count": 419,
+ "count": 421,
  "items": [
+  {
+   "id": "bossa-pap-443669",
+   "date": "2026-11-26",
+   "time": "21:00",
+   "ts": "2026-11-26T21:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Skrót wiadomości - czwartek, 26 listopada, 21.00",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443669"
+  },
   {
    "id": "bossa-espi-271515",
    "date": "2026-11-26",
@@ -49,6 +61,17 @@
    "title": "Lista akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu w dniu 26 listopada 2026 r.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271513"
+  },
+  {
+   "id": "strefa-068dc6f08e2f",
+   "date": "2026-11-26",
+   "time": "20:27",
+   "ts": "2026-11-26T20:27:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "skrot",
+   "title": "Skrót wiadomości - czwartek, 26 listopada, 21.00",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/skrot-wiadomosci-czwartek-26-listopada-2100"
   },
   {
    "id": "bossa-pap-443664",
