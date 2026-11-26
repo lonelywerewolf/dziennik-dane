@@ -1,7 +1,43 @@
 {
  "date": "2026-11-26",
- "count": 244,
+ "count": 247,
  "items": [
+  {
+   "id": "bossa-pap-443542",
+   "date": "2026-11-26",
+   "time": "15:35",
+   "ts": "2026-11-26T15:35:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MRiRW: Wsparcie na promocję żywności wysokiej jakości – wydłużamy nabór do 22 grudnia (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443542"
+  },
+  {
+   "id": "bossa-espi-271453",
+   "date": "2026-11-26",
+   "time": "15:30",
+   "ts": "2026-11-26T15:30:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PBG",
+   "title": "Lista Akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271453"
+  },
+  {
+   "id": "bossa-espi-271452",
+   "date": "2026-11-26",
+   "time": "15:27",
+   "ts": "2026-11-26T15:27:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PBG",
+   "title": "Uchwały podjęte przez Nadzwyczajne Walne Zgromadzenie spółki PBG S.A. w likwidacji w restrukturyzacji w dniu 26 listopada 2026 roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271452"
+  },
   {
    "id": "bossa-espi-271451",
    "date": "2026-11-26",
