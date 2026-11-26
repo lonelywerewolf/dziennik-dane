@@ -1,7 +1,76 @@
 {
  "date": "2026-11-26",
- "count": 76,
+ "count": 82,
  "items": [
+  {
+   "id": "strefa-b08426845659",
+   "date": "2026-11-26",
+   "time": "09:12",
+   "ts": "2026-11-26T09:12:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grupa Text bije konsensus analityków: 34 mln zł zysku netto w II kw. 2026",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/grupa-text-bije-konsensus-analitykow-34-mln-zl-zysku-netto-w-ii-kw-2026"
+  },
+  {
+   "id": "bossa-pap-443414",
+   "date": "2026-11-26",
+   "time": "09:11",
+   "ts": "2026-11-26T09:11:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Import i przywóz węgla do Polski w okresie I-III kw. wyniósł 5,4 mln ton - ARP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443414"
+  },
+  {
+   "id": "bossa-espi-271394",
+   "date": "2026-11-26",
+   "time": "09:10",
+   "ts": "2026-11-26T09:10:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MARVIPOL DEVELOPMENT S.A.",
+   "title": "Uchwała Zarządu Emitenta ws. zatwierdzenia Ostatecznych Warunków Emisji Obligacji serii P2026A",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271394"
+  },
+  {
+   "id": "strefa-5be9f5524c55",
+   "date": "2026-11-26",
+   "time": "09:09",
+   "ts": "2026-11-26T09:09:34+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Import i przywóz węgla do Polski w okresie I-III kw. wyniósł 5,4 mln ton - ARP",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/import-i-przywoz-wegla-do-polski-w-okresie-i-iii-kw-wyniosl-54-mln-ton-arp"
+  },
+  {
+   "id": "bossa-espi-271393",
+   "date": "2026-11-26",
+   "time": "09:08",
+   "ts": "2026-11-26T09:08:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "XTPL S.A.",
+   "title": "Sprzedaż urządzenia Delta Printing System za pośrednictwem dystrybutora w Hiszpanii do Fundación IMDEA Networks w Madrycie na potrzeby europejskiej linii pilotażowej fotoniki zintegrowanej PIXEurope",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271393"
+  },
+  {
+   "id": "strefa-4b8556d02f12",
+   "date": "2026-11-26",
+   "time": "09:01",
+   "ts": "2026-11-26T09:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Creotech Instruments z ponad 45-proc. wzrostem sprzedaży po trzech kwartałach 2026 roku",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/creotech-instruments-z-ponad-45-proc-wzrostem-sprzedazy-po-trzech-kwartalach"
+  },
   {
    "id": "bossa-pap-443411",
    "date": "2026-11-26",

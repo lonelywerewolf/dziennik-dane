@@ -4,18 +4,18 @@
   "podsumowania": 6,
   "wyniki": 10,
   "rekomendacje": 1,
-  "korporacyjne": 8,
-  "makro_pl": 4,
+  "korporacyjne": 9,
+  "makro_pl": 5,
   "swiat_rynki": 5,
-  "energetyka_surowce": 1,
+  "energetyka_surowce": 2,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 13
+  "pozostale": 15
  },
- "duplicatesRemoved": 28,
- "total": 76,
+ "duplicatesRemoved": 29,
+ "total": 82,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -189,6 +189,18 @@
   ],
   "korporacyjne": [
    {
+    "time": "09:10",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MARVIPOL DEVELOPMENT S.A.: Uchwała Zarządu Emitenta ws. zatwierdzenia Ostatecznych Warunków Emisji Obligacji serii P2026A",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271394",
+    "src": "bossa",
+    "flags": [
+     "emisja",
+     "zarząd"
+    ]
+   },
+   {
     "time": "08:54",
     "kind": "news",
     "ticker": null,
@@ -275,6 +287,15 @@
   ],
   "makro_pl": [
    {
+    "time": "09:08",
+    "kind": "espi",
+    "ticker": null,
+    "title": "XTPL S.A.: Sprzedaż urządzenia Delta Printing System za pośrednictwem dystrybutora w Hiszpanii do Fundación IMDEA Networks w Madrycie na potrzeby europejskiej linii pilotażowej fotoniki zintegrowanej PIXEurope",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271393",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "08:40",
     "kind": "news",
     "ticker": null,
@@ -360,6 +381,15 @@
   ],
   "energetyka_surowce": [
    {
+    "time": "09:09",
+    "kind": "news",
+    "ticker": null,
+    "title": "Import i przywóz węgla do Polski w okresie I-III kw. wyniósł 5,4 mln ton - ARP",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/import-i-przywoz-wegla-do-polski-w-okresie-i-iii-kw-wyniosl-54-mln-ton-arp",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "06:36",
     "kind": "pap",
     "ticker": null,
@@ -374,6 +404,24 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:12",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa Text bije konsensus analityków: 34 mln zł zysku netto w II kw. 2026",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/grupa-text-bije-konsensus-analitykow-34-mln-zl-zysku-netto-w-ii-kw-2026",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "09:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Creotech Instruments z ponad 45-proc. wzrostem sprzedaży po trzech kwartałach 2026 roku",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/creotech-instruments-z-ponad-45-proc-wzrostem-sprzedazy-po-trzech-kwartalach",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:37",
     "kind": "espi",
