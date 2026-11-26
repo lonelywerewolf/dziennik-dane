@@ -1,7 +1,111 @@
 {
  "date": "2026-11-26",
- "count": 32,
+ "count": 41,
  "items": [
+  {
+   "id": "bossa-pap-443391",
+   "date": "2026-11-26",
+   "time": "08:07",
+   "ts": "2026-11-26T08:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Komunikat w sprawie zmiany ceny akcji określonej w wezwaniu do zapisywania się na sprzedaż akcji ECHO INVESTMENT S.A. ogłoszonym przez LISALA SP. Z O.O.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443391"
+  },
+  {
+   "id": "bossa-espi-271385",
+   "date": "2026-11-26",
+   "time": "08:07",
+   "ts": "2026-11-26T08:07:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MEDICALGORITHMICS S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271385"
+  },
+  {
+   "id": "bossa-pap-443389",
+   "date": "2026-11-26",
+   "time": "08:06",
+   "ts": "2026-11-26T08:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeks nastrojów konsumentów w Niemczech na XII: -30,2 pkt. Konsensus: -30,0 pkt.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443389"
+  },
+  {
+   "id": "strefa-f523514a8f9a",
+   "date": "2026-11-26",
+   "time": "08:04",
+   "ts": "2026-11-26T08:04:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "CI Games: 26,1 mln zł EBITDA po trzech kwartałach.Premiera Lords of the Fallen II w kwietniu 2027 roku",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/ci-games-261-mln-zl-ebitda-po-trzech-kwartalachpremiera-lords-fallen-ii-w"
+  },
+  {
+   "id": "strefa-08b6b98e4c0f",
+   "date": "2026-11-26",
+   "time": "08:04",
+   "ts": "2026-11-26T08:04:07+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Komunikat w sprawie zmiany ceny akcji określonej w wezwaniu do zapisywania się na sprzedaż akcji ECHO INVESTMENT S.A. ogłoszonym przez LISALA SP. Z O.O.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/komunikat-w-sprawie-zmiany-ceny-akcji-okreslonej-w-wezwaniu-do-zapisywania-sie"
+  },
+  {
+   "id": "bossa-pap-443388",
+   "date": "2026-11-26",
+   "time": "08:03",
+   "ts": "2026-11-26T08:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Najważniejsze indeksy giełdowe w Azji",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443388"
+  },
+  {
+   "id": "strefa-e58c7dbc4fa7",
+   "date": "2026-11-26",
+   "time": "08:01",
+   "ts": "2026-11-26T08:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Najważniejsze indeksy giełdowe w Azji",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/najwazniejsze-indeksy-gieldowe-w-azji"
+  },
+  {
+   "id": "bossa-pap-443387",
+   "date": "2026-11-26",
+   "time": "08:00",
+   "ts": "2026-11-26T08:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ceny miedzi w Londynie mocno zwyżkują z 11-miesięcznego minimum",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443387"
+  },
+  {
+   "id": "strefa-cc10d0a8a01f",
+   "date": "2026-11-26",
+   "time": "07:58",
+   "ts": "2026-11-26T07:58:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ceny miedzi w Londynie mocno zwyżkują z 11-miesięcznego minimum",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/ceny-miedzi-w-londynie-mocno-zwyzkuja-z-11-miesiecznego-minimum"
+  },
   {
    "id": "bossa-pap-443386",
    "date": "2026-11-26",

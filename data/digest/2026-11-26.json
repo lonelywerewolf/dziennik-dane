@@ -2,20 +2,20 @@
  "date": "2026-11-26",
  "counts": {
   "podsumowania": 4,
-  "wyniki": 2,
+  "wyniki": 3,
   "rekomendacje": 0,
-  "korporacyjne": 0,
+  "korporacyjne": 1,
   "makro_pl": 3,
-  "swiat_rynki": 1,
+  "swiat_rynki": 3,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 10
+  "pozostale": 11
  },
- "duplicatesRemoved": 11,
- "total": 32,
+ "duplicatesRemoved": 15,
+ "total": 41,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -58,6 +58,15 @@
   ],
   "wyniki": [
    {
+    "time": "08:04",
+    "kind": "news",
+    "ticker": null,
+    "title": "CI Games: 26,1 mln zł EBITDA po trzech kwartałach.Premiera Lords of the Fallen II w kwietniu 2027 roku",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/ci-games-261-mln-zl-ebitda-po-trzech-kwartalachpremiera-lords-fallen-ii-w",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "07:56",
     "kind": "news",
     "ticker": null,
@@ -81,7 +90,19 @@
    }
   ],
   "rekomendacje": [],
-  "korporacyjne": [],
+  "korporacyjne": [
+   {
+    "time": "08:04",
+    "kind": "news",
+    "ticker": null,
+    "title": "Komunikat w sprawie zmiany ceny akcji określonej w wezwaniu do zapisywania się na sprzedaż akcji ECHO INVESTMENT S.A. ogłoszonym przez LISALA SP. Z O.O.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/komunikat-w-sprawie-zmiany-ceny-akcji-okreslonej-w-wezwaniu-do-zapisywania-sie",
+    "src": "strefainwestorow",
+    "flags": [
+     "wezwanie"
+    ]
+   }
+  ],
   "makro_pl": [
    {
     "time": "07:30",
@@ -113,6 +134,24 @@
   ],
   "swiat_rynki": [
    {
+    "time": "08:06",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeks nastrojów konsumentów w Niemczech na XII: -30,2 pkt. Konsensus: -30,0 pkt.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443389",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "08:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Najważniejsze indeksy giełdowe w Azji",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/najwazniejsze-indeksy-gieldowe-w-azji",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "07:46",
     "kind": "news",
     "ticker": null,
@@ -138,6 +177,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "07:58",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny miedzi w Londynie mocno zwyżkują z 11-miesięcznego minimum",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/ceny-miedzi-w-londynie-mocno-zwyzkuja-z-11-miesiecznego-minimum",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "07:31",
     "kind": "pap",
