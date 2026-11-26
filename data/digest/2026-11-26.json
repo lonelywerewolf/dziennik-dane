@@ -4,18 +4,18 @@
   "podsumowania": 9,
   "wyniki": 11,
   "rekomendacje": 1,
-  "korporacyjne": 15,
-  "makro_pl": 6,
+  "korporacyjne": 16,
+  "makro_pl": 7,
   "swiat_rynki": 9,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 25
+  "pozostale": 26
  },
  "duplicatesRemoved": 40,
- "total": 119,
+ "total": 122,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -227,6 +227,15 @@
   ],
   "korporacyjne": [
    {
+    "time": "10:47",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BUMECH S.A.: Postępowanie o zatwierdzenie układu Spółki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271401",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "10:34",
     "kind": "pap",
     "ticker": null,
@@ -389,6 +398,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "10:48",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Premier wydał dyspozycję, by BGK zapewniał finansowanie TK; środki zabezpieczy MF - Szłapka",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443440",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:37",
     "kind": "news",
@@ -561,6 +579,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "10:45",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MZ: Historyczny dzień dla bezpieczeństwa lekowego Europy (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443438",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:33",
     "kind": "pap",

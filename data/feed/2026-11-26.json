@@ -1,7 +1,43 @@
 {
  "date": "2026-11-26",
- "count": 119,
+ "count": 122,
  "items": [
+  {
+   "id": "bossa-pap-443440",
+   "date": "2026-11-26",
+   "time": "10:48",
+   "ts": "2026-11-26T10:48:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Premier wydał dyspozycję, by BGK zapewniał finansowanie TK; środki zabezpieczy MF - Szłapka",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443440"
+  },
+  {
+   "id": "bossa-espi-271401",
+   "date": "2026-11-26",
+   "time": "10:47",
+   "ts": "2026-11-26T10:47:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BUMECH S.A.",
+   "title": "Postępowanie o zatwierdzenie układu Spółki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271401"
+  },
+  {
+   "id": "bossa-pap-443438",
+   "date": "2026-11-26",
+   "time": "10:45",
+   "ts": "2026-11-26T10:45:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MZ: Historyczny dzień dla bezpieczeństwa lekowego Europy (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443438"
+  },
   {
    "id": "bossa-pap-443437",
    "date": "2026-11-26",
