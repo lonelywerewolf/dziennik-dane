@@ -12,10 +12,10 @@
   "fundusze_drobne": 13,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 73
+  "pozostale": 74
  },
- "duplicatesRemoved": 164,
- "total": 421,
+ "duplicatesRemoved": 165,
+ "total": 423,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1838,6 +1838,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "22:09",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ENEIDA GAMES S.A.: Otrzymanie zawiadomienia o zmianie udziału w ogólnej liczbie głosów Emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271517",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "20:36",
     "kind": "pap",

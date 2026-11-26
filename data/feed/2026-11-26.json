@@ -1,7 +1,31 @@
 {
  "date": "2026-11-26",
- "count": 421,
+ "count": 423,
  "items": [
+  {
+   "id": "bossa-espi-271517",
+   "date": "2026-11-26",
+   "time": "22:09",
+   "ts": "2026-11-26T22:09:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ENEIDA GAMES S.A.",
+   "title": "Otrzymanie zawiadomienia o zmianie udziału w ogólnej liczbie głosów Emitenta",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271517"
+  },
+  {
+   "id": "bossa-espi-271516",
+   "date": "2026-11-26",
+   "time": "22:05",
+   "ts": "2026-11-26T22:05:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "OPTEAM S.A.",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271516"
+  },
   {
    "id": "bossa-pap-443669",
    "date": "2026-11-26",
