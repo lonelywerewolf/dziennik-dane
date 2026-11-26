@@ -4,7 +4,7 @@
   "podsumowania": 17,
   "wyniki": 20,
   "rekomendacje": 3,
-  "korporacyjne": 62,
+  "korporacyjne": 64,
   "makro_pl": 26,
   "swiat_rynki": 20,
   "energetyka_surowce": 6,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 67
  },
- "duplicatesRemoved": 145,
- "total": 381,
+ "duplicatesRemoved": 149,
+ "total": 387,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -410,6 +410,28 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "18:45",
+    "kind": "espi",
+    "ticker": null,
+    "title": "POLENERGIA: ROZLICZENIE TRANSAKCJI ZABEZPIECZAJĄCYCH RYZYKO STOPY PROCENTOWEJ ORAZ ZAWARCIE PRZEZ SPÓŁKI ZALEŻNE EMITENTA NOWYCH TRANSAKCJI ZABEZPIECZAJĄCYCH W ZWIĄZKU Z ZAWARCIEM UMOWY KREDYTÓW",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271501",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "18:32",
+    "kind": "news",
+    "ticker": null,
+    "title": "Palantir dostarczy oprogramowanie AI dla Wojska Polskiego. Szef MON, Władysław Kosiniak-Kamysz, podpisze umowę z gigantem w piątek",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/palantir-dostarczy-oprogramowanie-ai-dla-wojska-polskiego-szef-mon-wladyslaw",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "18:20",
     "kind": "espi",
@@ -1686,12 +1708,12 @@
   "obserwowane": [],
   "pozostale": [
    {
-    "time": "18:34",
-    "kind": "pap",
+    "time": "18:38",
+    "kind": "news",
     "ticker": null,
     "title": "VRG stawia w 2027 r. na modernizację istniejącej sieci salonów stacjonarnych w segmencie odzieżowym",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443639",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/vrg-stawia-w-2027-r-na-modernizacje-istniejacej-sieci-salonow-stacjonarnych-w",
+    "src": "strefainwestorow",
     "flags": []
    },
    {

@@ -1,7 +1,66 @@
 {
  "date": "2026-11-26",
- "count": 381,
+ "count": 387,
  "items": [
+  {
+   "id": "bossa-espi-271501",
+   "date": "2026-11-26",
+   "time": "18:45",
+   "ts": "2026-11-26T18:45:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "POLENERGIA",
+   "title": "ROZLICZENIE TRANSAKCJI ZABEZPIECZAJĄCYCH RYZYKO STOPY PROCENTOWEJ ORAZ ZAWARCIE PRZEZ SPÓŁKI ZALEŻNE EMITENTA NOWYCH TRANSAKCJI ZABEZPIECZAJĄCYCH W ZWIĄZKU Z ZAWARCIEM UMOWY KREDYTÓW",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271501"
+  },
+  {
+   "id": "bossa-pap-443642",
+   "date": "2026-11-26",
+   "time": "18:40",
+   "ts": "2026-11-26T18:40:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne - SARON",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443642"
+  },
+  {
+   "id": "strefa-979f8e15224d",
+   "date": "2026-11-26",
+   "time": "18:38",
+   "ts": "2026-11-26T18:38:05+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "VRG stawia w 2027 r. na modernizację istniejącej sieci salonów stacjonarnych w segmencie odzieżowym",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/vrg-stawia-w-2027-r-na-modernizacje-istniejacej-sieci-salonow-stacjonarnych-w"
+  },
+  {
+   "id": "bossa-espi-271500",
+   "date": "2026-11-26",
+   "time": "18:38",
+   "ts": "2026-11-26T18:38:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "RAINBOW TOURS S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271500"
+  },
+  {
+   "id": "bossa-espi-271499",
+   "date": "2026-11-26",
+   "time": "18:37",
+   "ts": "2026-11-26T18:37:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "GAMES OPERATORS S.A.",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271499"
+  },
   {
    "id": "bossa-pap-443639",
    "date": "2026-11-26",
@@ -25,6 +84,17 @@
    "title": "MPAY SA (24/2026) Informacje o walnym zgromadzeniu - zwołanie WZ z projektami uchwał, zmiany w porządku obrad WZ",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-443638"
+  },
+  {
+   "id": "strefa-ff03e55ee19a",
+   "date": "2026-11-26",
+   "time": "18:32",
+   "ts": "2026-11-26T18:32:27+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Palantir dostarczy oprogramowanie AI dla Wojska Polskiego. Szef MON, Władysław Kosiniak-Kamysz, podpisze umowę z gigantem w piątek",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/palantir-dostarczy-oprogramowanie-ai-dla-wojska-polskiego-szef-mon-wladyslaw"
   },
   {
    "id": "bossa-pap-443637",
