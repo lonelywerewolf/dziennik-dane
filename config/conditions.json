@@ -1,4 +1,61 @@
 {
  "_opis": "Warunki cenowe z tez w panelu (synchronizowane automatycznie).",
- "items": []
+ "items": [
+  {
+   "ticker": "ASML",
+   "gpwName": "ASML",
+   "op": "below",
+   "value": 1270,
+   "ccy": "USD"
+  },
+  {
+   "ticker": "AVGO",
+   "gpwName": "AVGO",
+   "op": "below",
+   "value": 280,
+   "ccy": "USD"
+  },
+  {
+   "ticker": "MPWR",
+   "gpwName": "MPWR",
+   "op": "below",
+   "value": 1140,
+   "ccy": "USD"
+  },
+  {
+   "ticker": "MRVL",
+   "gpwName": "MRVL",
+   "op": "below",
+   "value": 122,
+   "ccy": "USD"
+  },
+  {
+   "ticker": "NVDA",
+   "gpwName": "NVDA",
+   "op": "below",
+   "value": 135,
+   "ccy": "USD"
+  },
+  {
+   "ticker": "NVDA",
+   "gpwName": "NVDA",
+   "op": "below",
+   "value": 126,
+   "ccy": "USD"
+  },
+  {
+   "ticker": "TSM",
+   "gpwName": "TSM",
+   "op": "below",
+   "value": 320,
+   "ccy": "USD"
+  },
+  {
+   "ticker": "VRT",
+   "gpwName": "VRT",
+   "op": "below",
+   "value": 165,
+   "ccy": "USD"
+  }
+ ]
 }

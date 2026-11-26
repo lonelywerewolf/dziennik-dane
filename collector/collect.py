@@ -776,6 +776,7 @@ def insiders():
 def conditions():
     cond = jload(os.path.join(ROOT, "config", "conditions.json"), {"items": []})
     q = jload(D("quotes.json"), {"q": {}})["q"]
+    us = jload(D("us_live.json"), {"q": {}}).get("q", {})
     folder = D("gpw")
     files = sorted(f for f in os.listdir(folder) if f.endswith(".json")) if os.path.isdir(folder) else []
     gl = {}
@@ -789,6 +790,8 @@ def conditions():
         px = q.get(t, {}).get("close")
         if px is None and gl.get((c.get("gpwName") or t or "").upper()):
             px = gl[(c.get("gpwName") or t).upper()][0]
+        if px is None and (c.get("ccy") == "USD" or t in us):
+            px = us.get(t, {}).get("price")   # spółki z USA: ostatnia cena z data/us_live.json
         if px is None:
             continue
         ok = None
