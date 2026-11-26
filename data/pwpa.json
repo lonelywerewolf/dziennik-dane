@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "date": "2026-11-26",
+   "ticker": "TXT",
+   "company": "TEXT S.A.",
+   "file": "20261126_pko_bank_polski_txt_pl_aw.pdf",
+   "url": "https://www.gpw.pl/pub/pwpa/20261126_pko_bank_polski_txt_pl_aw.pdf",
+   "type": "analiza wyników",
+   "house": "PKO Bank Polski S.A."
+  },
+  {
+   "date": "2026-11-26",
+   "ticker": "1AT",
+   "company": "ATAL S.A.",
+   "file": "20261126_erste_securities_polska_1at_pl_aw.pdf",
+   "url": "https://www.gpw.pl/pub/pwpa/20261126_erste_securities_polska_1at_pl_aw.pdf",
+   "type": "analiza wyników",
+   "house": "Erste Securities Polska S.A."
+  },
+  {
    "date": "2026-11-25",
    "ticker": "CBF",
    "company": "CYBER_FOLKS S.A.",
@@ -769,5 +787,5 @@
    "house": "Noble Securities S.A."
   }
  ],
- "updatedAt": "2026-11-26T08:21:12+01:00"
+ "updatedAt": "2026-11-26T08:32:12+01:00"
 }
