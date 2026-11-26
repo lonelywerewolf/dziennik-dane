@@ -1,24 +1,35 @@
 {
  "date": "2026-11-26",
  "counts": {
-  "podsumowania": 15,
-  "wyniki": 15,
+  "podsumowania": 16,
+  "wyniki": 17,
   "rekomendacje": 2,
-  "korporacyjne": 54,
+  "korporacyjne": 57,
   "makro_pl": 24,
   "swiat_rynki": 18,
   "energetyka_surowce": 5,
   "nieruchomosci": 2,
   "fundusze_drobne": 11,
-  "twoje_spolki": 0,
+  "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 60
+  "pozostale": 62
  },
- "duplicatesRemoved": 127,
- "total": 333,
+ "duplicatesRemoved": 129,
+ "total": 344,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "17:37",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Notowania ciągłe - podsumowanie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443612",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "17:32",
     "kind": "pap",
@@ -156,6 +167,26 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "17:46",
+    "kind": "news",
+    "ticker": null,
+    "title": "Enter Air zwiększył przychody do 3,1 mld zł po trzech kwartałach 2026 r. i z sukcesem zrealizował sezon letni",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/enter-air-zwiekszyl-przychody-do-31-mld-zl-po-trzech-kwartalach-2026-r-i-z",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "17:46",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wyniki Asseco Poland w III kw. 2026 roku vs. konsensus PAP (tabela)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443619",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "17:21",
     "kind": "news",
@@ -334,6 +365,37 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "17:44",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MENNICA: Zawiadomienia o transakcjach w trybie art. 19 MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271491",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
+    "time": "17:41",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GPW: w sprawie zawieszenia obrotu na Catalyst obligacjami na okaziciela serii Z23 spółki OLIVIA FIN sp. z o.o. S.K.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443614",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:34",
+    "kind": "news",
+    "ticker": null,
+    "title": "QNA Technology podsumowuje III kwartał 2026 roku",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/qna-technology-podsumowuje-iii-kwartal-2026-roku",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "17:21",
     "kind": "news",
@@ -1457,9 +1519,39 @@
     "flags": []
    }
   ],
-  "twoje_spolki": [],
+  "twoje_spolki": [
+   {
+    "time": "17:40",
+    "kind": "espi",
+    "ticker": "DIG",
+    "title": "DIGITAL NETWORK S.A.: Powołanie Macieja Paciorka na Członka Zarządu Digital Network S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271490",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   }
+  ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:42",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GPW: komunikat - ERSTE BANK POLSKA",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443615",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:37",
+    "kind": "pap",
+    "ticker": null,
+    "title": "W III kw. 2026 r. wolumen badań Diagnostyki wzrósł o 2,5 proc. rdr",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443611",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:34",
     "kind": "news",

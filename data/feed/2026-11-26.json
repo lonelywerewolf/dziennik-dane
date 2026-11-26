@@ -1,7 +1,126 @@
 {
  "date": "2026-11-26",
- "count": 333,
+ "count": 344,
  "items": [
+  {
+   "id": "strefa-a5c1c34f835a",
+   "date": "2026-11-26",
+   "time": "17:46",
+   "ts": "2026-11-26T17:46:13+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Enter Air zwiększył przychody do 3,1 mld zł po trzech kwartałach 2026 r. i z sukcesem zrealizował sezon letni",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/enter-air-zwiekszyl-przychody-do-31-mld-zl-po-trzech-kwartalach-2026-r-i-z"
+  },
+  {
+   "id": "bossa-pap-443619",
+   "date": "2026-11-26",
+   "time": "17:46",
+   "ts": "2026-11-26T17:46:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wyniki Asseco Poland w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443619"
+  },
+  {
+   "id": "bossa-espi-271491",
+   "date": "2026-11-26",
+   "time": "17:44",
+   "ts": "2026-11-26T17:44:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MENNICA",
+   "title": "Zawiadomienia o transakcjach w trybie art. 19 MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271491"
+  },
+  {
+   "id": "bossa-pap-443617",
+   "date": "2026-11-26",
+   "time": "17:43",
+   "ts": "2026-11-26T17:43:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: komunikat - ERSTE BANK POLSKA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443617"
+  },
+  {
+   "id": "bossa-pap-443615",
+   "date": "2026-11-26",
+   "time": "17:42",
+   "ts": "2026-11-26T17:42:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: komunikat - ERSTE BANK POLSKA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443615"
+  },
+  {
+   "id": "bossa-pap-443614",
+   "date": "2026-11-26",
+   "time": "17:41",
+   "ts": "2026-11-26T17:41:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie zawieszenia obrotu na Catalyst obligacjami na okaziciela serii Z23 spółki OLIVIA FIN sp. z o.o. S.K.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443614"
+  },
+  {
+   "id": "bossa-espi-271490",
+   "date": "2026-11-26",
+   "time": "17:40",
+   "ts": "2026-11-26T17:40:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "DIGITAL NETWORK S.A.",
+   "title": "Powołanie Macieja Paciorka na Członka Zarządu Digital Network S.A.",
+   "ticker": "DIG",
+   "url": "https://bossa.pl/analizy/komunikaty#message-271490"
+  },
+  {
+   "id": "bossa-espi-271489",
+   "date": "2026-11-26",
+   "time": "17:39",
+   "ts": "2026-11-26T17:39:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "NOCTILUCA S.A.",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271489"
+  },
+  {
+   "id": "bossa-pap-443612",
+   "date": "2026-11-26",
+   "time": "17:37",
+   "ts": "2026-11-26T17:37:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Notowania ciągłe - podsumowanie",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443612"
+  },
+  {
+   "id": "bossa-pap-443611",
+   "date": "2026-11-26",
+   "time": "17:37",
+   "ts": "2026-11-26T17:37:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "W III kw. 2026 r. wolumen badań Diagnostyki wzrósł o 2,5 proc. rdr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443611"
+  },
   {
    "id": "strefa-e3f86fbb48ed",
    "date": "2026-11-26",
@@ -23,6 +142,17 @@
    "title": "Grupa Diagnostyka miała w III kw. 53,6 mln zł zysku netto j.d., wobec 59,9 mln zł konsensusu",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261126/grupa-diagnostyka-miala-w-iii-kw-536-mln-zl-zysku-netto-jd-wobec-599-mln-zl"
+  },
+  {
+   "id": "strefa-60898731514c",
+   "date": "2026-11-26",
+   "time": "17:34",
+   "ts": "2026-11-26T17:34:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "QNA Technology podsumowuje III kwartał 2026 roku",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/qna-technology-podsumowuje-iii-kwartal-2026-roku"
   },
   {
    "id": "bossa-espi-6195",
