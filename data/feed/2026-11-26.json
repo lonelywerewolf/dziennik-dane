@@ -1,7 +1,43 @@
 {
  "date": "2026-11-26",
- "count": 211,
+ "count": 215,
  "items": [
+  {
+   "id": "bossa-pap-443517",
+   "date": "2026-11-26",
+   "time": "14:03",
+   "ts": "2026-11-26T14:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MKiŚ: 3 mld zł na modernizację energetyczną placówek edukacyjnych i szpitali (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443517"
+  },
+  {
+   "id": "bossa-pap-443515",
+   "date": "2026-11-26",
+   "time": "14:00",
+   "ts": "2026-11-26T14:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Grupa EBI podpisała umowy z PKO Leasing i BNP Paribas BP dot. finansowania dla polskich firm",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443515"
+  },
+  {
+   "id": "bossa-espi-271446",
+   "date": "2026-11-26",
+   "time": "14:00",
+   "ts": "2026-11-26T14:00:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Arlen S.A.",
+   "title": "Rezygnacja Członka Rady Nadzorczej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271446"
+  },
   {
    "id": "bossa-espi-271445",
    "date": "2026-11-26",
@@ -13,6 +49,17 @@
    "title": "Otrzymanie od osoby mającej dostęp do informacji poufnych notyfikacji o transakcjach w trybie art. 19 ust. 1 MAR",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271445"
+  },
+  {
+   "id": "strefa-ce69d1790981",
+   "date": "2026-11-26",
+   "time": "13:52",
+   "ts": "2026-11-26T13:52:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grupa EBI podpisała umowy z PKO Leasing i BNP Paribas BP dot. finansowania dla polskich firm",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/grupa-ebi-podpisala-umowy-z-pko-leasing-i-bnp-paribas-bp-dot-finansowania-dla"
   },
   {
    "id": "bossa-espi-271444",

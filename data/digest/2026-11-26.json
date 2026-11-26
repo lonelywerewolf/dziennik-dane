@@ -4,18 +4,18 @@
   "podsumowania": 10,
   "wyniki": 14,
   "rekomendacje": 1,
-  "korporacyjne": 31,
+  "korporacyjne": 32,
   "makro_pl": 18,
   "swiat_rynki": 13,
-  "energetyka_surowce": 3,
+  "energetyka_surowce": 4,
   "nieruchomosci": 1,
   "fundusze_drobne": 2,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 43
+  "pozostale": 44
  },
- "duplicatesRemoved": 75,
- "total": 211,
+ "duplicatesRemoved": 76,
+ "total": 215,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -269,6 +269,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "13:52",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa EBI podpisała umowy z PKO Leasing i BNP Paribas BP dot. finansowania dla polskich firm",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/grupa-ebi-podpisala-umowy-z-pko-leasing-i-bnp-paribas-bp-dot-finansowania-dla",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "13:49",
     "kind": "espi",
@@ -887,6 +898,15 @@
   ],
   "energetyka_surowce": [
    {
+    "time": "14:03",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MKiŚ: 3 mld zł na modernizację energetyczną placówek edukacyjnych i szpitali (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443517",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "09:20",
     "kind": "news",
     "ticker": null,
@@ -948,6 +968,17 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "14:00",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Arlen S.A.: Rezygnacja Członka Rady Nadzorczej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271446",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "13:44",
     "kind": "pap",
