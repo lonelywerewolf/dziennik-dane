@@ -1,7 +1,43 @@
 {
  "date": "2026-11-26",
- "count": 411,
+ "count": 414,
  "items": [
+  {
+   "id": "bossa-pap-443664",
+   "date": "2026-11-26",
+   "time": "20:24",
+   "ts": "2026-11-26T20:24:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "IRON WOLF STUDIO SA (10/2026) Informacje o walnym zgromadzeniu - informacje po odbyciu WZ (w tym ogłoszenie przerwy) - uchwały",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443664"
+  },
+  {
+   "id": "bossa-espi-271512",
+   "date": "2026-11-26",
+   "time": "20:17",
+   "ts": "2026-11-26T20:17:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ALTA",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271512"
+  },
+  {
+   "id": "bossa-pap-443662",
+   "date": "2026-11-26",
+   "time": "20:16",
+   "ts": "2026-11-26T20:16:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Grupa Selena podpisała warunkową umowę zakupu 70 proc. udziałów spółki Tesla Panels DOO",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443662"
+  },
   {
    "id": "bossa-pap-443661",
    "date": "2026-11-26",
