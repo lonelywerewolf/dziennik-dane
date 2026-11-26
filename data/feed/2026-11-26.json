@@ -1,7 +1,64 @@
 {
  "date": "2026-11-26",
- "count": 41,
+ "count": 46,
  "items": [
+  {
+   "id": "bossa-pap-443393",
+   "date": "2026-11-26",
+   "time": "08:19",
+   "ts": "2026-11-26T08:19:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Lisala podnosi cenę w wezwaniu na akcje Echo Investment do 5,55 zł/szt.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443393"
+  },
+  {
+   "id": "strefa-ca772ad532ce",
+   "date": "2026-11-26",
+   "time": "08:17",
+   "ts": "2026-11-26T08:17:29+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Lisala podnosi cenę w wezwaniu na akcje Echo Investment do 5,55 zł/szt.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/lisala-podnosi-cene-w-wezwaniu-na-akcje-echo-investment-do-555-zlszt"
+  },
+  {
+   "id": "strefa-14c214120ffb",
+   "date": "2026-11-26",
+   "time": "08:12",
+   "ts": "2026-11-26T08:12:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Po trzech kwartałach przychody Medicalgorithmics wyższe niż w całym 2025 roku",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/po-trzech-kwartalach-przychody-medicalgorithmics-wyzsze-niz-w-calym-2025-roku"
+  },
+  {
+   "id": "bossa-pap-443392",
+   "date": "2026-11-26",
+   "time": "08:11",
+   "ts": "2026-11-26T08:11:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "CI Games miał po trzech kw. 26,1 mln zł zysku EBITDA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443392"
+  },
+  {
+   "id": "strefa-e4c7e1a44b65",
+   "date": "2026-11-26",
+   "time": "08:08",
+   "ts": "2026-11-26T08:08:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "CI Games miał po trzech kw. 26,1 mln zł zysku EBITDA",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/ci-games-mial-po-trzech-kw-261-mln-zl-zysku-ebitda"
+  },
   {
    "id": "bossa-pap-443391",
    "date": "2026-11-26",

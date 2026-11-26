@@ -1,4 +1,85 @@
 {
- "updatedAt": "2026-11-26T08:10:12+01:00",
- "items": []
+ "updatedAt": "2026-11-26T08:21:12+01:00",
+ "items": [
+  {
+   "ticker": "ASML",
+   "gpwName": "ASML",
+   "op": "below",
+   "value": 1270,
+   "ccy": "USD",
+   "price": 1303.08,
+   "met": false,
+   "checkedAt": "2026-11-26T08:21:12+01:00"
+  },
+  {
+   "ticker": "AVGO",
+   "gpwName": "AVGO",
+   "op": "below",
+   "value": 280,
+   "ccy": "USD",
+   "price": 300.86,
+   "met": false,
+   "checkedAt": "2026-11-26T08:21:12+01:00"
+  },
+  {
+   "ticker": "MPWR",
+   "gpwName": "MPWR",
+   "op": "below",
+   "value": 1140,
+   "ccy": "USD",
+   "price": 1194.63,
+   "met": false,
+   "checkedAt": "2026-11-26T08:21:12+01:00"
+  },
+  {
+   "ticker": "MRVL",
+   "gpwName": "MRVL",
+   "op": "below",
+   "value": 122,
+   "ccy": "USD",
+   "price": 130.93,
+   "met": false,
+   "checkedAt": "2026-11-26T08:21:12+01:00"
+  },
+  {
+   "ticker": "NVDA",
+   "gpwName": "NVDA",
+   "op": "below",
+   "value": 135,
+   "ccy": "USD",
+   "price": 149.3,
+   "met": false,
+   "checkedAt": "2026-11-26T08:21:12+01:00"
+  },
+  {
+   "ticker": "NVDA",
+   "gpwName": "NVDA",
+   "op": "below",
+   "value": 126,
+   "ccy": "USD",
+   "price": 149.3,
+   "met": false,
+   "checkedAt": "2026-11-26T08:21:12+01:00"
+  },
+  {
+   "ticker": "TSM",
+   "gpwName": "TSM",
+   "op": "below",
+   "value": 320,
+   "ccy": "USD",
+   "price": 342.34,
+   "met": false,
+   "checkedAt": "2026-11-26T08:21:12+01:00"
+  },
+  {
+   "ticker": "VRT",
+   "gpwName": "VRT",
+   "op": "below",
+   "value": 165,
+   "ccy": "USD",
+   "price": 173.37,
+   "met": false,
+   "checkedAt": "2026-11-26T08:21:12+01:00"
+  }
+ ]
 }
