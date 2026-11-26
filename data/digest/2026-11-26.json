@@ -5,17 +5,17 @@
   "wyniki": 14,
   "rekomendacje": 1,
   "korporacyjne": 32,
-  "makro_pl": 19,
+  "makro_pl": 20,
   "swiat_rynki": 13,
   "energetyka_surowce": 4,
   "nieruchomosci": 2,
   "fundusze_drobne": 2,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 47
+  "pozostale": 48
  },
  "duplicatesRemoved": 79,
- "total": 224,
+ "total": 226,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -622,6 +622,15 @@
   ],
   "makro_pl": [
    {
+    "time": "14:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BGK sprzedał obligacje FPC na aukcji dodatkowej za 298 mln zł",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443525",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "14:24",
     "kind": "pap",
     "ticker": null,
@@ -995,6 +1004,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "14:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "AI może wspierać wdrożenie MSSF 18, ale odpowiedzialność jest po stronie spółek - EY Forum",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443526",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:24",
     "kind": "pap",
