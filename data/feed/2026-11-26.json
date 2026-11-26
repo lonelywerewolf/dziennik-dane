@@ -1,7 +1,65 @@
 {
  "date": "2026-11-26",
- "count": 27,
+ "count": 32,
  "items": [
+  {
+   "id": "bossa-pap-443386",
+   "date": "2026-11-26",
+   "time": "07:57",
+   "ts": "2026-11-26T07:57:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wyniki Creotech Instruments w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443386"
+  },
+  {
+   "id": "strefa-b2222b8bf2f9",
+   "date": "2026-11-26",
+   "time": "07:56",
+   "ts": "2026-11-26T07:56:49+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wyniki Creotech Instruments w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/wyniki-creotech-instruments-w-iii-kw-2026-roku-vs-konsensus-pap-tabela"
+  },
+  {
+   "id": "bossa-espi-271384",
+   "date": "2026-11-26",
+   "time": "07:52",
+   "ts": "2026-11-26T07:52:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "HERKULES S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271384"
+  },
+  {
+   "id": "bossa-espi-271383",
+   "date": "2026-11-26",
+   "time": "07:48",
+   "ts": "2026-11-26T07:48:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "IMS S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271383"
+  },
+  {
+   "id": "strefa-83fe3bc704b6",
+   "date": "2026-11-26",
+   "time": "07:46",
+   "ts": "2026-11-26T07:46:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Rebranding Pijalni napędza rekordowy III kwartał Mex Polska. Dwucyfrowy wzrost LFL potwierdza siłę istniejącej sieci",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/rebranding-pijalni-napedza-rekordowy-iii-kwartal-mex-polska-dwucyfrowy-wzrost"
+  },
   {
    "id": "bossa-pap-443383",
    "date": "2026-11-26",

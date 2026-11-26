@@ -2,11 +2,11 @@
  "date": "2026-11-26",
  "counts": {
   "podsumowania": 4,
-  "wyniki": 1,
+  "wyniki": 2,
   "rekomendacje": 0,
   "korporacyjne": 0,
   "makro_pl": 3,
-  "swiat_rynki": 0,
+  "swiat_rynki": 1,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 10
  },
- "duplicatesRemoved": 8,
- "total": 27,
+ "duplicatesRemoved": 11,
+ "total": 32,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -57,6 +57,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "07:56",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wyniki Creotech Instruments w III kw. 2026 roku vs. konsensus PAP (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/wyniki-creotech-instruments-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "06:24",
     "kind": "pap",
@@ -100,7 +111,17 @@
     "flags": []
    }
   ],
-  "swiat_rynki": [],
+  "swiat_rynki": [
+   {
+    "time": "07:46",
+    "kind": "news",
+    "ticker": null,
+    "title": "Rebranding Pijalni napędza rekordowy III kwartał Mex Polska. Dwucyfrowy wzrost LFL potwierdza siłę istniejącej sieci",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/rebranding-pijalni-napedza-rekordowy-iii-kwartal-mex-polska-dwucyfrowy-wzrost",
+    "src": "strefainwestorow",
+    "flags": []
+   }
+  ],
   "energetyka_surowce": [
    {
     "time": "06:36",
