@@ -1,7 +1,91 @@
 {
  "date": "2026-11-26",
- "count": 228,
+ "count": 236,
  "items": [
+  {
+   "id": "bossa-pap-443535",
+   "date": "2026-11-26",
+   "time": "15:13",
+   "ts": "2026-11-26T15:13:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie dopuszczenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów strukturyzowanych emitowanych przez ING BANK N.V.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443535"
+  },
+  {
+   "id": "bossa-pap-443534",
+   "date": "2026-11-26",
+   "time": "15:10",
+   "ts": "2026-11-26T15:10:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie wprowadzenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów inwestycyjnych serii P56 emitowanych przez EQUES AKUMULACJI MAJĄTKU FIZ",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443534"
+  },
+  {
+   "id": "bossa-pap-443533",
+   "date": "2026-11-26",
+   "time": "15:09",
+   "ts": "2026-11-26T15:09:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie dopuszczenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów strukturyzowanych emitowanych przez ING BANK N.V.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443533"
+  },
+  {
+   "id": "bossa-espi-271449",
+   "date": "2026-11-26",
+   "time": "15:06",
+   "ts": "2026-11-26T15:06:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "TAURON POLSKA ENERGIA S.A.",
+   "title": "Zawarcie porozumienia w sprawie warunków potencjalnej transakcji z ArcelorMittal",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271449"
+  },
+  {
+   "id": "bossa-pap-443531",
+   "date": "2026-11-26",
+   "time": "15:04",
+   "ts": "2026-11-26T15:04:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "ALLIANZ POLSKA OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443531"
+  },
+  {
+   "id": "bossa-pap-443530",
+   "date": "2026-11-26",
+   "time": "15:04",
+   "ts": "2026-11-26T15:04:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "VIENNA OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443530"
+  },
+  {
+   "id": "bossa-pap-443529",
+   "date": "2026-11-26",
+   "time": "15:04",
+   "ts": "2026-11-26T15:04:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Polska podpisze z Palantir Technologies umowę na dostawę dla wojska oprogramowania z wykorzystaniem AI - MON",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443529"
+  },
   {
    "id": "bossa-pap-443528",
    "date": "2026-11-26",
@@ -49,6 +133,17 @@
    "title": "BGK sprzedał obligacje FPC na aukcji dodatkowej za 298 mln zł",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-443525"
+  },
+  {
+   "id": "strefa-c5d479c3e384",
+   "date": "2026-11-26",
+   "time": "14:27",
+   "ts": "2026-11-26T14:27:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie dopuszczenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów strukturyzowanych emitowanych przez ING BANK N.V.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/gpw-w-sprawie-dopuszczenia-do-obrotu-gieldowego-na-glownym-rynku-gpw"
   },
   {
    "id": "bossa-pap-443524",
