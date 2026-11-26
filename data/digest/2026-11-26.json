@@ -2,9 +2,9 @@
  "date": "2026-11-26",
  "counts": {
   "podsumowania": 10,
-  "wyniki": 11,
+  "wyniki": 12,
   "rekomendacje": 1,
-  "korporacyjne": 29,
+  "korporacyjne": 30,
   "makro_pl": 18,
   "swiat_rynki": 12,
   "energetyka_surowce": 3,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 2,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 39
+  "pozostale": 43
  },
- "duplicatesRemoved": 59,
- "total": 185,
+ "duplicatesRemoved": 71,
+ "total": 203,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -111,6 +111,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "13:37",
+    "kind": "news",
+    "ticker": null,
+    "title": "Enea spodziewa się stabilnych wyników w ’27 w segmencie wytwarzania i dystrybucji",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/enea-spodziewa-sie-stabilnych-wynikow-w-27-w-segmencie-wytwarzania-i",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "09:38",
     "kind": "news",
@@ -236,6 +247,24 @@
   ],
   "korporacyjne": [
    {
+    "time": "13:36",
+    "kind": "news",
+    "ticker": null,
+    "title": "BGK na przetargu sprzedał obligacje FPC za 1,45 mld zł przy popycie 2,0 mld zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/bgk-na-przetargu-sprzedal-obligacje-fpc-za-145-mld-zl-przy-popycie-20-mld-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "13:36",
+    "kind": "espi",
+    "ticker": null,
+    "title": "WITTCHEN S.A.: Aktualizacja informacji dotyczącej odpisów aktualizujących wartość aktywów oraz rezerw restrukturyzacyjnych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271434",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "13:05",
     "kind": "espi",
     "ticker": null,
@@ -278,15 +307,6 @@
     "flags": [
      "akcjonariat"
     ]
-   },
-   {
-    "time": "12:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "BGK na przetargu sprzedał obligacje FPC za 1,45 mld zł przy popycie 2,0 mld zł",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443469",
-    "src": "bossa",
-    "flags": []
    },
    {
     "time": "11:57",
@@ -886,12 +906,75 @@
   "obserwowane": [],
   "pozostale": [
    {
-    "time": "13:29",
+    "time": "13:44",
     "kind": "pap",
     "ticker": null,
-    "title": "Cena maksymalna dla benzyny Pb95 w piątek wyniesie 5,81 zł/l, dla ON 7,12 zł/l",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443496",
+    "title": "MFiPR: Fundusze Norweskie i EOG: startuje projekt w programie „Sprawy wewnętrzne” (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443507",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:44",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MSWiA: Blisko 40 mln zł dla Państwowego Instytutu Medycznego MSWiA na zwiększenie ochrony zdrowia w sytuacja kryzysowych (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443506",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:44",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ZUK: Aktualizacja informacji nt. współpracy z ING Bank Śląski S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271440",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:40",
+    "kind": "news",
+    "ticker": null,
+    "title": "Należy ostrożnie podchodzić do finansowania w walutach obcych, jest ono uzupełnieniem - MF",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/nalezy-ostroznie-podchodzic-do-finansowania-w-walutach-obcych-jest-ono",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "13:40",
+    "kind": "news",
+    "ticker": null,
+    "title": "Rex Concepts podtrzymuje plan otwarć w '26, rewiduje w dół założenia dot. sprzedaży",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/rex-concepts-podtrzymuje-plan-otwarc-w-26-rewiduje-w-dol-zalozenia-dot",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "13:39",
+    "kind": "pap",
+    "ticker": null,
+    "title": "W I poł. '26 liczba legalizacji pracy cudzoziemców spadła o 12 proc. rdr- MRPiPS",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443502",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:35",
+    "kind": "news",
+    "ticker": null,
+    "title": "Bezpieczeństwo klientów kluczowym wyzwaniem dla bankowości detalicznej - Mikołajczyk, KNF",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/bezpieczenstwo-klientow-kluczowym-wyzwaniem-dla-bankowosci-detalicznej",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "13:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "Cena maksymalna dla benzyny Pb95 w piątek wyniesie 5,81 zł/l, dla ON 7,12 zł/l",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/cena-maksymalna-dla-benzyny-pb95-w-piatek-wyniesie-581-zll-dla-712-zll",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -913,29 +996,11 @@
     "flags": []
    },
    {
-    "time": "12:02",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Bezpieczeństwo klientów kluczowym wyzwaniem dla bankowości detalicznej - Mikołajczyk, KNF",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443470",
-    "src": "bossa",
-    "flags": []
-   },
-   {
     "time": "11:59",
     "kind": "pap",
     "ticker": null,
     "title": "PSE skorzysta z doświadczeń brytyjskiego operatora m.in. w przyłączaniu elektrowni jądrowych",
     "url": "https://bossa.pl/analizy/komunikaty#message-443468",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "11:59",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Rex Concepts podtrzymuje plan otwarć w '26, rewiduje w dół założenia dot. sprzedaży",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443467",
     "src": "bossa",
     "flags": []
    },
@@ -972,15 +1037,6 @@
     "ticker": null,
     "title": "IZOSTAL S.A.: Powołanie Członka Rady Nadzorczej Izostal S.A.",
     "url": "https://bossa.pl/analizy/komunikaty#message-271410",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "11:26",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Należy ostrożnie podchodzić do finansowania w walutach obcych, jest ono uzupełnieniem - MF",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443451",
     "src": "bossa",
     "flags": []
    },
