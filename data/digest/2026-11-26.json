@@ -3,19 +3,19 @@
  "counts": {
   "podsumowania": 11,
   "wyniki": 14,
-  "rekomendacje": 1,
-  "korporacyjne": 42,
+  "rekomendacje": 2,
+  "korporacyjne": 43,
   "makro_pl": 20,
-  "swiat_rynki": 17,
+  "swiat_rynki": 18,
   "energetyka_surowce": 5,
   "nieruchomosci": 2,
   "fundusze_drobne": 5,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 54
+  "pozostale": 55
  },
- "duplicatesRemoved": 91,
- "total": 262,
+ "duplicatesRemoved": 92,
+ "total": 267,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -266,6 +266,15 @@
   ],
   "rekomendacje": [
    {
+    "time": "16:21",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Banki będą walczyć o rekomendacje AI; rośnie znaczenie widoczności marek - PwC",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443556",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "08:17",
     "kind": "news",
     "ticker": null,
@@ -278,6 +287,15 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "16:23",
+    "kind": "espi",
+    "ticker": null,
+    "title": "CREOTECH INSTRUMENTS S.A.: Przekazanie dodatkowych materiałów dot. przedmiotu obrad Nadzwyczajnego Walnego Zgromadzenia Spółki zwołanego na dzień1 grudnia 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271458",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:17",
     "kind": "espi",
@@ -912,6 +930,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "16:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "Euro w EBC: 1,0975 USD i 174,79 JPY",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/euro-w-ebc-10975-usd-i-17479-jpy",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "15:50",
     "kind": "pap",
     "ticker": null,
@@ -1182,6 +1209,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "16:27",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MRiRW: Scalanie gruntów: 50. edycja konkursu na rzecz rozwoju polskiej wsi (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443559",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:10",
     "kind": "pap",

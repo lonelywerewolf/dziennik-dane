@@ -1,7 +1,55 @@
 {
  "date": "2026-11-26",
- "count": 262,
+ "count": 267,
  "items": [
+  {
+   "id": "bossa-pap-443559",
+   "date": "2026-11-26",
+   "time": "16:27",
+   "ts": "2026-11-26T16:27:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MRiRW: Scalanie gruntów: 50. edycja konkursu na rzecz rozwoju polskiej wsi (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443559"
+  },
+  {
+   "id": "bossa-pap-443557",
+   "date": "2026-11-26",
+   "time": "16:23",
+   "ts": "2026-11-26T16:23:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Euro w EBC: 1,0975 USD i 174,79 JPY",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443557"
+  },
+  {
+   "id": "bossa-espi-271458",
+   "date": "2026-11-26",
+   "time": "16:23",
+   "ts": "2026-11-26T16:23:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "CREOTECH INSTRUMENTS S.A.",
+   "title": "Przekazanie dodatkowych materiałów dot. przedmiotu obrad Nadzwyczajnego Walnego Zgromadzenia Spółki zwołanego na dzień1 grudnia 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271458"
+  },
+  {
+   "id": "bossa-pap-443556",
+   "date": "2026-11-26",
+   "time": "16:21",
+   "ts": "2026-11-26T16:21:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Banki będą walczyć o rekomendacje AI; rośnie znaczenie widoczności marek - PwC",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443556"
+  },
   {
    "id": "bossa-espi-271457",
    "date": "2026-11-26",
@@ -37,6 +85,17 @@
    "title": "BANK PEKAO SA (2/2026) Informacja o stanie stosowania Dobrych Praktyk 2021",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-443553"
+  },
+  {
+   "id": "strefa-5bc99ce502e9",
+   "date": "2026-11-26",
+   "time": "16:02",
+   "ts": "2026-11-26T16:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Euro w EBC: 1,0975 USD i 174,79 JPY",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/euro-w-ebc-10975-usd-i-17479-jpy"
   },
   {
    "id": "bossa-pap-443552",
