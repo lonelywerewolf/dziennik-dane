@@ -4,7 +4,7 @@
   "podsumowania": 17,
   "wyniki": 24,
   "rekomendacje": 3,
-  "korporacyjne": 67,
+  "korporacyjne": 68,
   "makro_pl": 27,
   "swiat_rynki": 21,
   "energetyka_surowce": 6,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 13,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 72
+  "pozostale": 73
  },
- "duplicatesRemoved": 161,
- "total": 414,
+ "duplicatesRemoved": 162,
+ "total": 417,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -451,12 +451,23 @@
   ],
   "korporacyjne": [
    {
-    "time": "20:16",
-    "kind": "pap",
+    "time": "20:31",
+    "kind": "espi",
+    "ticker": null,
+    "title": "IRON WOLF STUDIO S.A.: Lista akcjonariuszy posiadających co najmniej 5% liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu w dniu 26 listopada 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271513",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
+   {
+    "time": "20:13",
+    "kind": "news",
     "ticker": null,
     "title": "Grupa Selena podpisała warunkową umowę zakupu 70 proc. udziałów spółki Tesla Panels DOO",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443662",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/grupa-selena-podpisala-warunkowa-umowe-zakupu-70-proc-udzialow-spolki-tesla",
+    "src": "strefainwestorow",
     "flags": [
      "umowa"
     ]
@@ -1807,6 +1818,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "20:36",
+    "kind": "pap",
+    "ticker": null,
+    "title": "IRON WOLF STUDIO SA (11/2026) Informacje o walnym zgromadzeniu - treść uchwał podjętych przez WZ (w tym informacje o ogłoszeniu przerwy w obradach)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443666",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "20:24",
     "kind": "pap",
