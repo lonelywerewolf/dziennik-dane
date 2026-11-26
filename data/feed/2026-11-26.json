@@ -1,7 +1,90 @@
 {
  "date": "2026-11-26",
- "count": 365,
+ "count": 372,
  "items": [
+  {
+   "id": "bossa-espi-271495",
+   "date": "2026-11-26",
+   "time": "18:20",
+   "ts": "2026-11-26T18:20:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MPAY S.A.",
+   "title": "Projekty uchwał Nadzwyczajnego Walnego Zgromadzenia mPay",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271495"
+  },
+  {
+   "id": "bossa-pap-443632",
+   "date": "2026-11-26",
+   "time": "18:16",
+   "ts": "2026-11-26T18:16:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Transakcje pakietowe",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443632"
+  },
+  {
+   "id": "bossa-pap-443631",
+   "date": "2026-11-26",
+   "time": "18:15",
+   "ts": "2026-11-26T18:15:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Mirbud w III kw. '26 miał 63,6 mln zł zysku netto, zgodnie z szacunkami",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443631"
+  },
+  {
+   "id": "bossa-espi-271494",
+   "date": "2026-11-26",
+   "time": "18:15",
+   "ts": "2026-11-26T18:15:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MOSTALWAR",
+   "title": "Złożenie do KNF wniosku o zatwierdzenie prospektu UE na rzecz kontynuacji w związku z emisją akcji serii VI",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271494"
+  },
+  {
+   "id": "bossa-espi-271493",
+   "date": "2026-11-26",
+   "time": "18:13",
+   "ts": "2026-11-26T18:13:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MPAY S.A.",
+   "title": "Ogłoszenie Zarządu o zwołaniu Nadzwyczajnego Walnego Zgromadzenia Akcjonariuszy mPay",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271493"
+  },
+  {
+   "id": "bossa-espi-271492",
+   "date": "2026-11-26",
+   "time": "18:11",
+   "ts": "2026-11-26T18:11:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ENERGY S.A.",
+   "title": "Zawarcie umowy na realizację zamówienia w zakresie kompensacji mocy biernej dla sektora publicznego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271492"
+  },
+  {
+   "id": "strefa-935613d186f5",
+   "date": "2026-11-26",
+   "time": "18:05",
+   "ts": "2026-11-26T18:05:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Mirbud w III kw. '26 miał 63,6 mln zł zysku netto, zgodnie z szacunkami",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/mirbud-w-iii-kw-26-mial-636-mln-zl-zysku-netto-zgodnie-z-szacunkami"
+  },
   {
    "id": "strefa-4341ccc3dc20",
    "date": "2026-11-26",
