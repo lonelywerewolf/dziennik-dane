@@ -1,7 +1,7 @@
 {
  "date": "2026-11-26",
  "counts": {
-  "podsumowania": 11,
+  "podsumowania": 12,
   "wyniki": 14,
   "rekomendacje": 2,
   "korporacyjne": 43,
@@ -14,11 +14,20 @@
   "obserwowane": 0,
   "pozostale": 55
  },
- "duplicatesRemoved": 92,
- "total": 267,
+ "duplicatesRemoved": 94,
+ "total": 270,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "16:27",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: Na giełdzie przewaga wzrostów; w WIG20 spada tylko Erste",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/dzien-na-gpw-na-gieldzie-przewaga-wzrostow-w-wig20-spada-tylko-erste",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "14:12",
     "kind": "news",

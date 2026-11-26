@@ -1,7 +1,42 @@
 {
  "date": "2026-11-26",
- "count": 267,
+ "count": 270,
  "items": [
+  {
+   "id": "bossa-espi-271459",
+   "date": "2026-11-26",
+   "time": "16:39",
+   "ts": "2026-11-26T16:39:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "CAVATINA HOLDING S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271459"
+  },
+  {
+   "id": "bossa-pap-443560",
+   "date": "2026-11-26",
+   "time": "16:34",
+   "ts": "2026-11-26T16:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: Na giełdzie przewaga wzrostów; w WIG20 spada tylko Erste",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443560"
+  },
+  {
+   "id": "strefa-1d20aedbe4a3",
+   "date": "2026-11-26",
+   "time": "16:27",
+   "ts": "2026-11-26T16:27:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: Na giełdzie przewaga wzrostów; w WIG20 spada tylko Erste",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/dzien-na-gpw-na-gieldzie-przewaga-wzrostow-w-wig20-spada-tylko-erste"
+  },
   {
    "id": "bossa-pap-443559",
    "date": "2026-11-26",
