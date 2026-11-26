@@ -1,7 +1,66 @@
 {
  "date": "2026-11-26",
- "count": 372,
+ "count": 378,
  "items": [
+  {
+   "id": "bossa-pap-443637",
+   "date": "2026-11-26",
+   "time": "18:31",
+   "ts": "2026-11-26T18:31:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MPAY SA (23/2026) Informacje o walnym zgromadzeniu - zwołanie WZ z projektami uchwał, zmiany w porządku obrad WZ",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443637"
+  },
+  {
+   "id": "strefa-d43d207664c5",
+   "date": "2026-11-26",
+   "time": "18:27",
+   "ts": "2026-11-26T18:27:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "KNF bierze pod lupę banki, CFD i obligacje korporacyjne. Urząd przedstawił priorytety",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/knf-bierze-pod-lupe-banki-cfd-i-obligacje-korporacyjne-urzad-przedstawil"
+  },
+  {
+   "id": "bossa-espi-271497",
+   "date": "2026-11-26",
+   "time": "18:26",
+   "ts": "2026-11-26T18:26:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ECB SA",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271497"
+  },
+  {
+   "id": "bossa-espi-271496",
+   "date": "2026-11-26",
+   "time": "18:24",
+   "ts": "2026-11-26T18:24:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "RAINBOW TOURS S.A.",
+   "title": ": Informacja o wielkości przedsprzedaży imprez turystycznych objętych ofertą sezonu „Zima 2026/2027”, za okres od rozpoczęcia sprzedaży oferty do dnia 23 listopada 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271496"
+  },
+  {
+   "id": "bossa-pap-443634",
+   "date": "2026-11-26",
+   "time": "18:21",
+   "ts": "2026-11-26T18:21:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Asseco Poland miało w III kw. 226,5 mln zł zysku netto j.d., wobec konsensusu 211,1 mln zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443634"
+  },
   {
    "id": "bossa-espi-271495",
    "date": "2026-11-26",
@@ -13,6 +72,17 @@
    "title": "Projekty uchwał Nadzwyczajnego Walnego Zgromadzenia mPay",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271495"
+  },
+  {
+   "id": "strefa-29865f93ebd5",
+   "date": "2026-11-26",
+   "time": "18:16",
+   "ts": "2026-11-26T18:16:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Asseco Poland miało w III kw. 226,5 mln zł zysku netto j.d., wobec konsensusu 211,1 mln zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/asseco-poland-mialo-w-iii-kw-2265-mln-zl-zysku-netto-jd-wobec-konsensusu-2111"
   },
   {
    "id": "bossa-pap-443632",
