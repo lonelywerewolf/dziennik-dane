@@ -3,7 +3,7 @@
  "counts": {
   "podsumowania": 17,
   "wyniki": 20,
-  "rekomendacje": 2,
+  "rekomendacje": 3,
   "korporacyjne": 62,
   "makro_pl": 26,
   "swiat_rynki": 20,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 12,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 66
+  "pozostale": 67
  },
- "duplicatesRemoved": 144,
- "total": 378,
+ "duplicatesRemoved": 145,
+ "total": 381,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -379,6 +379,15 @@
    }
   ],
   "rekomendacje": [
+   {
+    "time": "18:27",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa WB i Ponar Wadowice wzmacniają potencjał amunicyjny. Polska Amunicja kupuje zakład w Gorlicach",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/grupa-wb-i-ponar-wadowice-wzmacniaja-potencjal-amunicyjny-polska-amunicja",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "16:21",
     "kind": "pap",
@@ -1676,6 +1685,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "18:34",
+    "kind": "pap",
+    "ticker": null,
+    "title": "VRG stawia w 2027 r. na modernizację istniejącej sieci salonów stacjonarnych w segmencie odzieżowym",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443639",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:16",
     "kind": "news",

@@ -1,7 +1,31 @@
 {
  "date": "2026-11-26",
- "count": 378,
+ "count": 381,
  "items": [
+  {
+   "id": "bossa-pap-443639",
+   "date": "2026-11-26",
+   "time": "18:34",
+   "ts": "2026-11-26T18:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "VRG stawia w 2027 r. na modernizację istniejącej sieci salonów stacjonarnych w segmencie odzieżowym",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443639"
+  },
+  {
+   "id": "bossa-pap-443638",
+   "date": "2026-11-26",
+   "time": "18:33",
+   "ts": "2026-11-26T18:33:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MPAY SA (24/2026) Informacje o walnym zgromadzeniu - zwołanie WZ z projektami uchwał, zmiany w porządku obrad WZ",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443638"
+  },
   {
    "id": "bossa-pap-443637",
    "date": "2026-11-26",
@@ -13,6 +37,17 @@
    "title": "MPAY SA (23/2026) Informacje o walnym zgromadzeniu - zwołanie WZ z projektami uchwał, zmiany w porządku obrad WZ",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-443637"
+  },
+  {
+   "id": "strefa-e65c0a1c2c0b",
+   "date": "2026-11-26",
+   "time": "18:27",
+   "ts": "2026-11-26T18:27:55+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Grupa WB i Ponar Wadowice wzmacniają potencjał amunicyjny. Polska Amunicja kupuje zakład w Gorlicach",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/grupa-wb-i-ponar-wadowice-wzmacniaja-potencjal-amunicyjny-polska-amunicja"
   },
   {
    "id": "strefa-d43d207664c5",
