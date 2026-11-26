@@ -1,7 +1,19 @@
 {
  "date": "2026-11-26",
- "count": 405,
+ "count": 407,
  "items": [
+  {
+   "id": "bossa-espi-271510",
+   "date": "2026-11-26",
+   "time": "19:59",
+   "ts": "2026-11-26T19:59:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "TOWER INVESTMENTS S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271510"
+  },
   {
    "id": "bossa-pap-443657",
    "date": "2026-11-26",
@@ -25,6 +37,17 @@
    "title": "MS: Stanowisko Ministerstwa Sprawiedliwości w związku ze wznowieniem przez ETPC postępowań dotyczących praworządności w Polsce (komunikat)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-443656"
+  },
+  {
+   "id": "strefa-83466e11793e",
+   "date": "2026-11-26",
+   "time": "19:34",
+   "ts": "2026-11-26T19:34:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Przychody grupy Wittchen w III kw. wyniosły 106,5 mln zł, o 11 proc. mniej niż przed rokiem",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/przychody-grupy-wittchen-w-iii-kw-wyniosly-1065-mln-zl-o-11-proc-mniej-niz"
   },
   {
    "id": "bossa-pap-443654",

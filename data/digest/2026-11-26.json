@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 70
  },
- "duplicatesRemoved": 157,
- "total": 405,
+ "duplicatesRemoved": 159,
+ "total": 407,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -177,12 +177,12 @@
   ],
   "wyniki": [
    {
-    "time": "19:52",
-    "kind": "pap",
+    "time": "19:34",
+    "kind": "news",
     "ticker": null,
     "title": "Przychody grupy Wittchen w III kw. wyniosły 106,5 mln zł, o 11 proc. mniej niż przed rokiem",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443657",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/przychody-grupy-wittchen-w-iii-kw-wyniosly-1065-mln-zl-o-11-proc-mniej-niz",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
