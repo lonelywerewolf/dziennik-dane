@@ -4,18 +4,18 @@
   "podsumowania": 9,
   "wyniki": 11,
   "rekomendacje": 1,
-  "korporacyjne": 12,
+  "korporacyjne": 13,
   "makro_pl": 6,
-  "swiat_rynki": 7,
+  "swiat_rynki": 8,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 19
+  "pozostale": 20
  },
- "duplicatesRemoved": 36,
- "total": 104,
+ "duplicatesRemoved": 38,
+ "total": 109,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -227,6 +227,17 @@
   ],
   "korporacyjne": [
    {
+    "time": "09:55",
+    "kind": "espi",
+    "ticker": null,
+    "title": "NOVINA S.A.: Nabycie akcji Emitenta w ramach skupu akcji własnych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271398",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
     "time": "09:29",
     "kind": "espi",
     "ticker": null,
@@ -415,12 +426,21 @@
   ],
   "swiat_rynki": [
    {
-    "time": "09:43",
-    "kind": "pap",
+    "time": "09:52",
+    "kind": "news",
     "ticker": null,
     "title": "Ceny gazu w Europie rosną",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443424",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/ceny-gazu-w-europie-rosna",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "09:45",
+    "kind": "news",
+    "ticker": null,
+    "title": "Chiny zastrzegają sobie prawo do działań w reakcji na propozycje nowych ceł USA",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/chiny-zastrzegaja-sobie-prawo-do-dzialan-w-reakcji-na-propozycje-nowych-cel-usa",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -512,6 +532,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:56",
+    "kind": "pap",
+    "ticker": null,
+    "title": "AI i wyższe stopy skłaniają do większej selektywności w inwestycjach w '27 - Franklin Templeton (opinia)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443429",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:45",
     "kind": "espi",
