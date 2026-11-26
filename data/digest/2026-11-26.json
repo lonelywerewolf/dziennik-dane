@@ -4,18 +4,18 @@
   "podsumowania": 11,
   "wyniki": 14,
   "rekomendacje": 1,
-  "korporacyjne": 35,
+  "korporacyjne": 37,
   "makro_pl": 20,
   "swiat_rynki": 15,
-  "energetyka_surowce": 4,
+  "energetyka_surowce": 5,
   "nieruchomosci": 2,
   "fundusze_drobne": 4,
   "twoje_spolki": 0,
   "obserwowane": 0,
   "pozostale": 48
  },
- "duplicatesRemoved": 82,
- "total": 236,
+ "duplicatesRemoved": 87,
+ "total": 244,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -278,6 +278,26 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "15:22",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SZAR S.A.: Informacja o istotnej umowie Emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271451",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "15:15",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ASSECO POLAND: Zwołanie Nadzwyczajnego Walnego Zgromadzenia Asseco Poland S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271450",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:06",
     "kind": "espi",
@@ -837,12 +857,12 @@
   ],
   "swiat_rynki": [
    {
-    "time": "15:10",
-    "kind": "pap",
+    "time": "15:20",
+    "kind": "news",
     "ticker": null,
     "title": "GPW: w sprawie wprowadzenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów inwestycyjnych serii P56 emitowanych przez EQUES AKUMULACJI MAJĄTKU FIZ",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443534",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/gpw-w-sprawie-wprowadzenia-do-obrotu-gieldowego-na-glownym-rynku-gpw-0",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -973,6 +993,15 @@
    }
   ],
   "energetyka_surowce": [
+   {
+    "time": "15:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "Tauron ma porozumienie ws. przeniesienia na ArcelorMittal wszystkich udziałów w Tameh Holding",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/tauron-ma-porozumienie-ws-przeniesienia-na-arcelormittal-wszystkich-udzialow-w",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "14:03",
     "kind": "pap",

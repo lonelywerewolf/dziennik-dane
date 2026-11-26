@@ -1,7 +1,88 @@
 {
  "date": "2026-11-26",
- "count": 236,
+ "count": 244,
  "items": [
+  {
+   "id": "bossa-espi-271451",
+   "date": "2026-11-26",
+   "time": "15:22",
+   "ts": "2026-11-26T15:22:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "SZAR S.A.",
+   "title": "Informacja o istotnej umowie Emitenta",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271451"
+  },
+  {
+   "id": "strefa-d50294f275ad",
+   "date": "2026-11-26",
+   "time": "15:20",
+   "ts": "2026-11-26T15:20:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Tauron ma porozumienie ws. przeniesienia na ArcelorMittal wszystkich udziałów w Tameh Holding",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/tauron-ma-porozumienie-ws-przeniesienia-na-arcelormittal-wszystkich-udzialow-w"
+  },
+  {
+   "id": "strefa-59f553e653c9",
+   "date": "2026-11-26",
+   "time": "15:20",
+   "ts": "2026-11-26T15:20:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie dopuszczenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów strukturyzowanych emitowanych przez ING BANK N.V.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/gpw-w-sprawie-dopuszczenia-do-obrotu-gieldowego-na-glownym-rynku-gpw-0"
+  },
+  {
+   "id": "strefa-1e7a6d4323a6",
+   "date": "2026-11-26",
+   "time": "15:20",
+   "ts": "2026-11-26T15:20:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie wprowadzenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów inwestycyjnych serii P56 emitowanych przez EQUES AKUMULACJI MAJĄTKU FIZ",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/gpw-w-sprawie-wprowadzenia-do-obrotu-gieldowego-na-glownym-rynku-gpw-0"
+  },
+  {
+   "id": "bossa-pap-443538",
+   "date": "2026-11-26",
+   "time": "15:20",
+   "ts": "2026-11-26T15:20:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Tauron ma porozumienie ws. przeniesienia na ArcelorMittal wszystkich udziałów w Tameh Holding",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443538"
+  },
+  {
+   "id": "bossa-pap-443537",
+   "date": "2026-11-26",
+   "time": "15:17",
+   "ts": "2026-11-26T15:17:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "GPW: w sprawie wprowadzenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów strukturyzowanych emitowanych przez ING BANK N.V.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443537"
+  },
+  {
+   "id": "bossa-espi-271450",
+   "date": "2026-11-26",
+   "time": "15:15",
+   "ts": "2026-11-26T15:15:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ASSECO POLAND",
+   "title": "Zwołanie Nadzwyczajnego Walnego Zgromadzenia Asseco Poland S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271450"
+  },
   {
    "id": "bossa-pap-443535",
    "date": "2026-11-26",
@@ -13,6 +94,17 @@
    "title": "GPW: w sprawie dopuszczenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów strukturyzowanych emitowanych przez ING BANK N.V.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-443535"
+  },
+  {
+   "id": "strefa-11b919c2ba76",
+   "date": "2026-11-26",
+   "time": "15:10",
+   "ts": "2026-11-26T15:10:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "GPW: w sprawie wprowadzenia do obrotu giełdowego na Głównym Rynku GPW certyfikatów strukturyzowanych emitowanych przez ING BANK N.V.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/gpw-w-sprawie-wprowadzenia-do-obrotu-gieldowego-na-glownym-rynku-gpw"
   },
   {
    "id": "bossa-pap-443534",
