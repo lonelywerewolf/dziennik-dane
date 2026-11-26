@@ -1,7 +1,19 @@
 {
  "date": "2026-11-26",
- "count": 158,
+ "count": 159,
  "items": [
+  {
+   "id": "bossa-espi-271416",
+   "date": "2026-11-26",
+   "time": "12:25",
+   "ts": "2026-11-26T12:25:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ELQ S.A.",
+   "title": "Powiadomienie o transakcji wykonanej przez osobę blisko związaną z osobą pełniącą obowiązki zarządcze",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271416"
+  },
   {
    "id": "bossa-espi-271415",
    "date": "2026-11-26",

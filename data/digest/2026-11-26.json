@@ -4,7 +4,7 @@
   "podsumowania": 10,
   "wyniki": 11,
   "rekomendacje": 1,
-  "korporacyjne": 26,
+  "korporacyjne": 27,
   "makro_pl": 13,
   "swiat_rynki": 11,
   "energetyka_surowce": 3,
@@ -15,7 +15,7 @@
   "pozostale": 36
  },
  "duplicatesRemoved": 45,
- "total": 158,
+ "total": 159,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -235,6 +235,18 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "12:25",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ELQ S.A.: Powiadomienie o transakcji wykonanej przez osobę blisko związaną z osobą pełniącą obowiązki zarządcze",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271416",
+    "src": "bossa",
+    "flags": [
+     "zarząd",
+     "insider"
+    ]
+   },
    {
     "time": "12:19",
     "kind": "espi",
