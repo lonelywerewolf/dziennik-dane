@@ -1,7 +1,79 @@
 {
  "date": "2026-11-26",
- "count": 138,
+ "count": 145,
  "items": [
+  {
+   "id": "bossa-pap-443461",
+   "date": "2026-11-26",
+   "time": "11:49",
+   "ts": "2026-11-26T11:49:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Tabela kursów średnich NBP nr 230/A/NBP/2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443461"
+  },
+  {
+   "id": "bossa-espi-271411",
+   "date": "2026-11-26",
+   "time": "11:48",
+   "ts": "2026-11-26T11:48:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ANALIZY ONLINE S.A.",
+   "title": "Informacja poufna – zwrot nadpłaty w podatku dochodowym od osób prawnych za 2022 r. i 2023 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271411"
+  },
+  {
+   "id": "bossa-espi-271410",
+   "date": "2026-11-26",
+   "time": "11:47",
+   "ts": "2026-11-26T11:47:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "IZOSTAL S.A.",
+   "title": "Powołanie Członka Rady Nadzorczej Izostal S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271410"
+  },
+  {
+   "id": "bossa-pap-443458",
+   "date": "2026-11-26",
+   "time": "11:41",
+   "ts": "2026-11-26T11:41:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "W Polsce 87,2 proc. mieszkańców w 2025 roku było właścicielami lokalu mieszkalnego - Eurostat",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443458"
+  },
+  {
+   "id": "bossa-espi-271409",
+   "date": "2026-11-26",
+   "time": "11:41",
+   "ts": "2026-11-26T11:41:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "NOWA DEWELOPER Sp. z o.o.",
+   "title": "Podpisanie umowy kredytowej przez spółkę zależną z bankiem UniCredit",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271409"
+  },
+  {
+   "id": "bossa-espi-271408",
+   "date": "2026-11-26",
+   "time": "11:39",
+   "ts": "2026-11-26T11:39:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PGE POLSKA GRUPA ENERGETYCZNA S.A.",
+   "title": "Informacja o transakcjach w trybie art. 19 Rozporządzenia MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271408"
+  },
   {
    "id": "bossa-pap-443455",
    "date": "2026-11-26",
@@ -133,6 +205,17 @@
    "title": "Wynagrodzenia imigrantów z Ukrainy rosną, coraz rzadziej wykonują tylko proste prace - NBP",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-443445"
+  },
+  {
+   "id": "strefa-7a58a6cc76b9",
+   "date": "2026-11-26",
+   "time": "11:15",
+   "ts": "2026-11-26T11:15:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Tabela kursów średnich NBP nr 230/A/NBP/2026",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/tabela-kursow-srednich-nbp-nr-230anbp2026"
   },
   {
    "id": "bossa-pap-443443",
