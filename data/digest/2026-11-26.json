@@ -12,10 +12,10 @@
   "fundusze_drobne": 1,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 35
+  "pozostale": 36
  },
- "duplicatesRemoved": 44,
- "total": 154,
+ "duplicatesRemoved": 45,
+ "total": 156,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -504,6 +504,15 @@
   ],
   "makro_pl": [
    {
+    "time": "11:59",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wzrost PKB Polski wciąż solidny; słabszy PLN argumentem za podwyżką stóp – BNP Paribas BP (wywiad)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/wzrost-pkb-polski-wciaz-solidny-slabszy-pln-argumentem-za-podwyzka-stop-bnp",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "11:38",
     "kind": "pap",
     "ticker": null,
@@ -600,15 +609,6 @@
     "title": "Rentowności obligacji wybranych państw (tabela)",
     "url": "https://strefainwestorow.pl/wiadomosci/20261126/rentownosci-obligacji-wybranych-panstw-tabela",
     "src": "strefainwestorow",
-    "flags": []
-   },
-   {
-    "time": "06:30",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Wzrost PKB Polski wciąż solidny; słabszy PLN argumentem za podwyżką stóp – BNP Paribas BP (wywiad)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443371",
-    "src": "bossa",
     "flags": []
    }
   ],
@@ -767,6 +767,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:02",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Bezpieczeństwo klientów kluczowym wyzwaniem dla bankowości detalicznej - Mikołajczyk, KNF",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443470",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:59",
     "kind": "pap",
