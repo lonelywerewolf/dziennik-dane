@@ -4,18 +4,18 @@
   "podsumowania": 12,
   "wyniki": 14,
   "rekomendacje": 2,
-  "korporacyjne": 43,
+  "korporacyjne": 45,
   "makro_pl": 20,
   "swiat_rynki": 18,
   "energetyka_surowce": 5,
   "nieruchomosci": 2,
-  "fundusze_drobne": 5,
+  "fundusze_drobne": 10,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 55
+  "pozostale": 57
  },
- "duplicatesRemoved": 94,
- "total": 270,
+ "duplicatesRemoved": 99,
+ "total": 284,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -296,6 +296,28 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "16:52",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PBS Finanse SA: Zawarcie umowy sprzedaży nieruchomości.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271467",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "16:50",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GRUPA AZOTY SA: Powołanie Wiceprezesa Zarządu spółki Grupa Azoty S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271465",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "16:23",
     "kind": "espi",
@@ -755,12 +777,12 @@
   ],
   "makro_pl": [
    {
-    "time": "14:30",
-    "kind": "pap",
+    "time": "16:41",
+    "kind": "news",
     "ticker": null,
     "title": "BGK sprzedał obligacje FPC na aukcji dodatkowej za 298 mln zł",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443525",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/bgk-sprzedal-obligacje-fpc-na-aukcji-dodatkowej-za-298-mln-zl",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -1170,6 +1192,51 @@
   ],
   "fundusze_drobne": [
    {
+    "time": "16:48",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OFE wartości jednostek rozrachunkowych z 2026.11.25",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443568",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:46",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OFE PZU wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443565",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:46",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Nationale-Nederlanden OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443564",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:45",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Nationale-Nederlanden PTE SA informuje",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443563",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:45",
+    "kind": "espi",
+    "ticker": null,
+    "title": "EQUES AKCJI SEKTORA PRYWATNEGO FIZ: RB_FI_E_30.04.18",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271460",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "16:00",
     "kind": "pap",
     "ticker": null,
@@ -1218,6 +1285,33 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "16:50",
+    "kind": "espi",
+    "ticker": null,
+    "title": "UNIVERSE S.A.: Dwa zawiadomienia o zmianie udziału w głosach",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271464",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:48",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny benzyny i diesla w Polsce spadły w tygodniu zakończonym 23 XI, najmocniej potaniał olej opałowy - KE",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/ceny-benzyny-i-diesla-w-polsce-spadly-w-tygodniu-zakonczonym-23-xi-najmocniej",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "16:46",
+    "kind": "espi",
+    "ticker": null,
+    "title": "POLIMEX-MOSTOSTAL: Zawiadomienie o zmianie udziału w ogólnej liczbie głosów.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271461",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:27",
     "kind": "pap",
@@ -1287,15 +1381,6 @@
     "ticker": null,
     "title": "AI może wspierać wdrożenie MSSF 18, ale odpowiedzialność jest po stronie spółek - EY Forum",
     "url": "https://bossa.pl/analizy/komunikaty#message-443526",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "14:24",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Ceny benzyny i diesla w Polsce spadły w tygodniu zakończonym 23 XI, najmocniej potaniał olej opałowy - KE",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443523",
     "src": "bossa",
     "flags": []
    },
