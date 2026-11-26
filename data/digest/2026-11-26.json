@@ -4,18 +4,18 @@
   "podsumowania": 11,
   "wyniki": 14,
   "rekomendacje": 1,
-  "korporacyjne": 39,
+  "korporacyjne": 40,
   "makro_pl": 20,
-  "swiat_rynki": 15,
+  "swiat_rynki": 16,
   "energetyka_surowce": 5,
   "nieruchomosci": 2,
   "fundusze_drobne": 4,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 49
+  "pozostale": 50
  },
  "duplicatesRemoved": 87,
- "total": 247,
+ "total": 250,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -278,6 +278,18 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "15:39",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KOMPAP: Nabycie akcji przez Prezesa Zarządu",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271454",
+    "src": "bossa",
+    "flags": [
+     "zarząd",
+     "insider"
+    ]
+   },
    {
     "time": "15:30",
     "kind": "espi",
@@ -877,6 +889,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "15:37",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Kuźnia Glinik z portfela TDJ trafi do Polskiej Amunicji tworzonej przez Grupę WB i Ponar Wadowice",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443543",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "15:20",
     "kind": "news",
     "ticker": null,
@@ -1120,6 +1141,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "15:38",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Asseco Poland zwołało WZ na wniosek TSS Europe ws. programu motywacyjnego na 22 grudnia 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443544",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:35",
     "kind": "pap",

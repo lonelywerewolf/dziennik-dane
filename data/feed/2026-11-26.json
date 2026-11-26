@@ -1,7 +1,43 @@
 {
  "date": "2026-11-26",
- "count": 247,
+ "count": 250,
  "items": [
+  {
+   "id": "bossa-espi-271454",
+   "date": "2026-11-26",
+   "time": "15:39",
+   "ts": "2026-11-26T15:39:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KOMPAP",
+   "title": "Nabycie akcji przez Prezesa Zarządu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271454"
+  },
+  {
+   "id": "bossa-pap-443544",
+   "date": "2026-11-26",
+   "time": "15:38",
+   "ts": "2026-11-26T15:38:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Asseco Poland zwołało WZ na wniosek TSS Europe ws. programu motywacyjnego na 22 grudnia 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443544"
+  },
+  {
+   "id": "bossa-pap-443543",
+   "date": "2026-11-26",
+   "time": "15:37",
+   "ts": "2026-11-26T15:37:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Kuźnia Glinik z portfela TDJ trafi do Polskiej Amunicji tworzonej przez Grupę WB i Ponar Wadowice",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443543"
+  },
   {
    "id": "bossa-pap-443542",
    "date": "2026-11-26",
