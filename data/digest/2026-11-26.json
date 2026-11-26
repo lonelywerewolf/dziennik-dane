@@ -1,24 +1,33 @@
 {
  "date": "2026-11-26",
  "counts": {
-  "podsumowania": 14,
+  "podsumowania": 15,
   "wyniki": 15,
   "rekomendacje": 2,
   "korporacyjne": 54,
-  "makro_pl": 23,
+  "makro_pl": 24,
   "swiat_rynki": 18,
   "energetyka_surowce": 5,
   "nieruchomosci": 2,
   "fundusze_drobne": 11,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 58
+  "pozostale": 60
  },
- "duplicatesRemoved": 120,
- "total": 322,
+ "duplicatesRemoved": 127,
+ "total": 333,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "17:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "WIG20 na zamknięciu wyniósł 4043,87 pkt (1,59%)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443607",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:06",
     "kind": "skrot",
@@ -326,12 +335,12 @@
   ],
   "korporacyjne": [
    {
-    "time": "17:23",
-    "kind": "pap",
+    "time": "17:21",
+    "kind": "news",
     "ticker": null,
     "title": "GPW: w sprawie zawieszenia obrotu na Catalyst obligacjami na okaziciela serii D spółki ANWIM",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443600",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/gpw-w-sprawie-zawieszenia-obrotu-na-catalyst-obligacjami-na-okaziciela-serii-d",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -898,6 +907,15 @@
   ],
   "makro_pl": [
    {
+    "time": "17:30",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BOM: Udział Marszałka Sejmu w konferencji „Mapa sprawiedliwości. Od uznania krzywdy do realnej ochrony dzieci” (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443606",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "17:22",
     "kind": "pap",
     "ticker": null,
@@ -1442,6 +1460,24 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:34",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa Diagnostyka miała w III kw. 53,6 mln zł zysku netto j.d., wobec 59,9 mln zł konsensusu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/grupa-diagnostyka-miala-w-iii-kw-536-mln-zl-zysku-netto-jd-wobec-599-mln-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "17:33",
+    "kind": "espi",
+    "ticker": null,
+    "title": "WASKO S.A.: Rejestracja zmian Statutu Spółki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271487",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:10",
     "kind": "espi",
