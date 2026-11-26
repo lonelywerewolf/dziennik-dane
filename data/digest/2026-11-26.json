@@ -2,20 +2,20 @@
  "date": "2026-11-26",
  "counts": {
   "podsumowania": 16,
-  "wyniki": 17,
+  "wyniki": 19,
   "rekomendacje": 2,
   "korporacyjne": 57,
   "makro_pl": 24,
-  "swiat_rynki": 18,
+  "swiat_rynki": 20,
   "energetyka_surowce": 5,
   "nieruchomosci": 2,
   "fundusze_drobne": 11,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 62
+  "pozostale": 64
  },
- "duplicatesRemoved": 129,
- "total": 344,
+ "duplicatesRemoved": 136,
+ "total": 357,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -168,6 +168,35 @@
   ],
   "wyniki": [
    {
+    "time": "17:53",
+    "kind": "news",
+    "ticker": null,
+    "title": "Noctiluca po trzech kwartałach: rekordowe przychody, a NCEIL coraz bliżej produkcji",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/noctiluca-po-trzech-kwartalach-rekordowe-przychody-nceil-coraz-blizej-produkcji",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "17:51",
+    "kind": "news",
+    "ticker": null,
+    "title": "Diagnostyka zwiększa przychody o 11% w III kw. 2026 r. Recurring EBITDA wyniosła ponad 152 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/diagnostyka-zwieksza-przychody-o-11-w-iii-kw-2026-r-recurring-ebitda-wyniosla",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "17:47",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wyniki Asseco Poland w III kw. 2026 roku vs. konsensus PAP (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/wyniki-asseco-poland-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
     "time": "17:46",
     "kind": "news",
     "ticker": null,
@@ -175,17 +204,6 @@
     "url": "https://strefainwestorow.pl/wiadomosci/20261126/enter-air-zwiekszyl-przychody-do-31-mld-zl-po-trzech-kwartalach-2026-r-i-z",
     "src": "strefainwestorow",
     "flags": []
-   },
-   {
-    "time": "17:46",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Wyniki Asseco Poland w III kw. 2026 roku vs. konsensus PAP (tabela)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443619",
-    "src": "bossa",
-    "flags": [
-     "wyniki"
-    ]
    },
    {
     "time": "17:21",
@@ -366,6 +384,15 @@
   ],
   "korporacyjne": [
    {
+    "time": "17:48",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: w sprawie zawieszenia obrotu na Catalyst obligacjami na okaziciela serii Z23 spółki OLIVIA FIN sp. z o.o. S.K.A.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/gpw-w-sprawie-zawieszenia-obrotu-na-catalyst-obligacjami-na-okaziciela-serii",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "17:44",
     "kind": "espi",
     "ticker": null,
@@ -375,15 +402,6 @@
     "flags": [
      "insider"
     ]
-   },
-   {
-    "time": "17:41",
-    "kind": "pap",
-    "ticker": null,
-    "title": "GPW: w sprawie zawieszenia obrotu na Catalyst obligacjami na okaziciela serii Z23 spółki OLIVIA FIN sp. z o.o. S.K.A.",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443614",
-    "src": "bossa",
-    "flags": []
    },
    {
     "time": "17:34",
@@ -969,6 +987,15 @@
   ],
   "makro_pl": [
    {
+    "time": "17:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW Benchmark: komunikat - okresowa zmiana portfeli indeksów obligacji",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/gpw-benchmark-komunikat-okresowa-zmiana-portfeli-indeksow-obligacji",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "17:30",
     "kind": "pap",
     "ticker": null,
@@ -993,15 +1020,6 @@
     "title": "GPW: w sprawie wyznaczenia pierwszego dnia notowania w alternatywnym systemie ob rotu na Catalyst obligacji kapitałowych na okaziciela serii 2/2026 spółki ERSTE BANK POLSK",
     "url": "https://strefainwestorow.pl/wiadomosci/20261126/gpw-w-sprawie-wyznaczenia-pierwszego-dnia-notowania-w-alternatywnym-systemie-ob",
     "src": "strefainwestorow",
-    "flags": []
-   },
-   {
-    "time": "17:14",
-    "kind": "pap",
-    "ticker": null,
-    "title": "GPW Benchmark: komunikat - okresowa zmiana portfeli indeksów obligacji",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443592",
-    "src": "bossa",
     "flags": []
    },
    {
@@ -1188,6 +1206,24 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "17:52",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MRiT: Wiceminister Lewandowski na spotkaniu ministrów UE ds. mieszkalnictwa w Dublinie (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443621",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:48",
+    "kind": "news",
+    "ticker": null,
+    "title": "Skonsolidowany portfel zamówień Asseco na '26, w obszarze oprogramowania i usług własnych, wynosi 14,3 mld zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/skonsolidowany-portfel-zamowien-asseco-na-26-w-obszarze-oprogramowania-i-uslug",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "16:02",
     "kind": "news",
@@ -1535,21 +1571,39 @@
   "obserwowane": [],
   "pozostale": [
    {
-    "time": "17:42",
+    "time": "17:53",
     "kind": "pap",
     "ticker": null,
-    "title": "GPW: komunikat - ERSTE BANK POLSKA",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443615",
+    "title": "MRiT: Rada ds. Innowacyjności będzie koordynować politykę innowacyjną państwa (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443622",
     "src": "bossa",
     "flags": []
    },
    {
-    "time": "17:37",
-    "kind": "pap",
+    "time": "17:52",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa Selena idzie po kolejny rynek. Zamierza przejąć Tesla Panels DOO – serbskiego producenta płyt warstwowych",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/grupa-selena-idzie-po-kolejny-rynek-zamierza-przejac-tesla-panels-doo",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "17:48",
+    "kind": "news",
     "ticker": null,
     "title": "W III kw. 2026 r. wolumen badań Diagnostyki wzrósł o 2,5 proc. rdr",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443611",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/w-iii-kw-2026-r-wolumen-badan-diagnostyki-wzrosl-o-25-proc-rdr",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "17:48",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: komunikat - ERSTE BANK POLSKA",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/gpw-komunikat-erste-bank-polska-0",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
