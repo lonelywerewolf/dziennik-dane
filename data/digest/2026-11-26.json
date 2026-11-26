@@ -12,10 +12,10 @@
   "fundusze_drobne": 13,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 68
+  "pozostale": 70
  },
- "duplicatesRemoved": 154,
- "total": 398,
+ "duplicatesRemoved": 156,
+ "total": 402,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1626,12 +1626,12 @@
   ],
   "fundusze_drobne": [
    {
-    "time": "19:12",
-    "kind": "pap",
+    "time": "19:06",
+    "kind": "news",
     "ticker": null,
     "title": "Przedsprzedaż oferty sezonu zimowego Rainbow Tours wzrosła o ok. 3,9 proc. rdr",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443650",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/przedsprzedaz-oferty-sezonu-zimowego-rainbow-tours-wzrosla-o-ok-39-proc-rdr",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -1758,6 +1758,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "19:28",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Enter Air miał w III kw. 126,9 mln zł zysku netto j.d., wobec 112,4 mln zł konsensusu",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443654",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "19:26",
+    "kind": "espi",
+    "ticker": null,
+    "title": "DEFENCE.HUB S.A.: Objęcie przez Emitenta akcji serii B w spółce zależnej Klabater P.S.A. w zamian za wkład niepieniężny w postaci zorganizowanej części przedsiębiorstwa Emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271508",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "19:14",
     "kind": "espi",
