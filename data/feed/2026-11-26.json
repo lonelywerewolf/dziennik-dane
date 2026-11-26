@@ -1,7 +1,65 @@
 {
  "date": "2026-11-26",
- "count": 82,
+ "count": 87,
  "items": [
+  {
+   "id": "strefa-8a140d22f4f2",
+   "date": "2026-11-26",
+   "time": "09:20",
+   "ts": "2026-11-26T09:20:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "ONDE już w pełni energetyczne. Spółka domyka proces transformacji",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/onde-juz-w-pelni-energetyczne-spolka-domyka-proces-transformacji"
+  },
+  {
+   "id": "bossa-pap-443417",
+   "date": "2026-11-26",
+   "time": "09:19",
+   "ts": "2026-11-26T09:19:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Marvipol Development wyemituje obligacje o wartości do 50 mln zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443417"
+  },
+  {
+   "id": "bossa-espi-271395",
+   "date": "2026-11-26",
+   "time": "09:19",
+   "ts": "2026-11-26T09:19:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "EQUNICO SE",
+   "title": "Zawiadomienie o zawarciu transakcji przez osobę blisko związaną z osobą pełniącą obowiązki zarządcze w Spółce",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271395"
+  },
+  {
+   "id": "bossa-pap-443415",
+   "date": "2026-11-26",
+   "time": "09:16",
+   "ts": "2026-11-26T09:16:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "WIG20 na otwarciu wyniósł 4020,76 pkt (1,01%)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443415"
+  },
+  {
+   "id": "strefa-caf28e9d82b4",
+   "date": "2026-11-26",
+   "time": "09:13",
+   "ts": "2026-11-26T09:13:33+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Marvipol Development wyemituje obligacje o wartości do 50 mln zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/marvipol-development-wyemituje-obligacje-o-wartosci-do-50-mln-zl"
+  },
   {
    "id": "strefa-b08426845659",
    "date": "2026-11-26",

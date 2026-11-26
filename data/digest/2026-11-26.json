@@ -1,24 +1,33 @@
 {
  "date": "2026-11-26",
  "counts": {
-  "podsumowania": 6,
+  "podsumowania": 7,
   "wyniki": 10,
   "rekomendacje": 1,
-  "korporacyjne": 9,
+  "korporacyjne": 11,
   "makro_pl": 5,
   "swiat_rynki": 5,
-  "energetyka_surowce": 2,
+  "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
   "pozostale": 15
  },
- "duplicatesRemoved": 29,
- "total": 82,
+ "duplicatesRemoved": 30,
+ "total": 87,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "09:16",
+    "kind": "pap",
+    "ticker": null,
+    "title": "WIG20 na otwarciu wyniósł 4020,76 pkt (1,01%)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443415",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:29",
     "kind": "news",
@@ -188,6 +197,27 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "09:19",
+    "kind": "espi",
+    "ticker": null,
+    "title": "EQUNICO SE: Zawiadomienie o zawarciu transakcji przez osobę blisko związaną z osobą pełniącą obowiązki zarządcze w Spółce",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271395",
+    "src": "bossa",
+    "flags": [
+     "zarząd",
+     "insider"
+    ]
+   },
+   {
+    "time": "09:13",
+    "kind": "news",
+    "ticker": null,
+    "title": "Marvipol Development wyemituje obligacje o wartości do 50 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/marvipol-development-wyemituje-obligacje-o-wartosci-do-50-mln-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:10",
     "kind": "espi",
@@ -380,6 +410,15 @@
    }
   ],
   "energetyka_surowce": [
+   {
+    "time": "09:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "ONDE już w pełni energetyczne. Spółka domyka proces transformacji",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/onde-juz-w-pelni-energetyczne-spolka-domyka-proces-transformacji",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:09",
     "kind": "news",
