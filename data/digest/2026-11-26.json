@@ -4,18 +4,18 @@
   "podsumowania": 10,
   "wyniki": 11,
   "rekomendacje": 1,
-  "korporacyjne": 28,
-  "makro_pl": 14,
+  "korporacyjne": 29,
+  "makro_pl": 15,
   "swiat_rynki": 12,
   "energetyka_surowce": 3,
   "nieruchomosci": 1,
   "fundusze_drobne": 1,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 36
+  "pozostale": 38
  },
- "duplicatesRemoved": 46,
- "total": 163,
+ "duplicatesRemoved": 51,
+ "total": 172,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -235,6 +235,15 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "13:05",
+    "kind": "espi",
+    "ticker": null,
+    "title": "STALPROFIL S.A.: Treść uchwał podjętych przez Nadzwyczajne Walne Zgromadzenie STALPROFIL S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271424",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:35",
     "kind": "espi",
@@ -559,6 +568,15 @@
     ]
    },
    {
+    "time": "12:06",
+    "kind": "news",
+    "ticker": null,
+    "title": "Lokum Deweloper wykupi wcześniej obligacje o łącznej wartości 53 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/lokum-deweloper-wykupi-wczesniej-obligacje-o-lacznej-wartosci-53-mln-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "11:59",
     "kind": "news",
     "ticker": null,
@@ -831,6 +849,24 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:59",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeksy transakcyjne - POLSTR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443480",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:58",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeksy transakcyjne - WIRON",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443479",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:02",
     "kind": "pap",
