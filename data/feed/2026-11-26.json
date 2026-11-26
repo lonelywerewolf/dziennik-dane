@@ -1,7 +1,43 @@
 {
  "date": "2026-11-26",
- "count": 172,
+ "count": 175,
  "items": [
+  {
+   "id": "bossa-espi-271428",
+   "date": "2026-11-26",
+   "time": "13:12",
+   "ts": "2026-11-26T13:12:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 PLN-HEDGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 238 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271428"
+  },
+  {
+   "id": "bossa-espi-271427",
+   "date": "2026-11-26",
+   "time": "13:08",
+   "ts": "2026-11-26T13:08:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 2 x SHORT PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 238 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271427"
+  },
+  {
+   "id": "bossa-espi-271426",
+   "date": "2026-11-26",
+   "time": "13:08",
+   "ts": "2026-11-26T13:08:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "STALPROFIL S.A.",
+   "title": "Wykaz akcjonariuszy posiadających co najmniej 5% głosów na Nadzwyczajnym Walnym Zgromadzeniu STALPROFIL S.A., w dniu 26.11.2026r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271426"
+  },
   {
    "id": "bossa-espi-271425",
    "date": "2026-11-26",
