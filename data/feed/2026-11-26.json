@@ -1,7 +1,30 @@
 {
  "date": "2026-11-26",
- "count": 73,
+ "count": 76,
  "items": [
+  {
+   "id": "bossa-pap-443411",
+   "date": "2026-11-26",
+   "time": "09:00",
+   "ts": "2026-11-26T09:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Spółka Trakcji ma umowę na Litwie o wartości 35,26 mln euro netto",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443411"
+  },
+  {
+   "id": "strefa-529b8c25a866",
+   "date": "2026-11-26",
+   "time": "08:54",
+   "ts": "2026-11-26T08:54:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Spółka Trakcji ma umowę na Litwie o wartości 35,26 mln euro netto",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/spolka-trakcji-ma-umowe-na-litwie-o-wartosci-3526-mln-euro-netto"
+  },
   {
    "id": "strefa-f6a054446f61",
    "date": "2026-11-26",
@@ -23,6 +46,18 @@
    "title": "ShockPrice zadebiutował na Słowacji; w grudniu ma pojawić się w Czechach",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261126/shockprice-zadebiutowal-na-slowacji-w-grudniu-ma-pojawic-sie-w-czechach"
+  },
+  {
+   "id": "bossa-pap-443410",
+   "date": "2026-11-26",
+   "time": "08:53",
+   "ts": "2026-11-26T08:53:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "UniCredit ma zgodę KNF na przejęcie kontroli nad Commerzbankiem",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443410"
   },
   {
    "id": "bossa-pap-443409",
