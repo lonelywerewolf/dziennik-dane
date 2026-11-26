@@ -1,7 +1,55 @@
 {
  "date": "2026-11-26",
- "count": 20,
+ "count": 24,
  "items": [
+  {
+   "id": "bossa-pap-443381",
+   "date": "2026-11-26",
+   "time": "07:31",
+   "ts": "2026-11-26T07:31:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Liczba cudzoziemców ubezpieczonych w ZUS na koniec X mogła wzrosnąć do 1,38 mln",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443381"
+  },
+  {
+   "id": "bossa-pap-443380",
+   "date": "2026-11-26",
+   "time": "07:30",
+   "ts": "2026-11-26T07:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Złotowe depozyty międzybankowe - WIBID, WIBOR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443380"
+  },
+  {
+   "id": "bossa-pap-443379",
+   "date": "2026-11-26",
+   "time": "07:25",
+   "ts": "2026-11-26T07:25:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "World Trade Monitor we wrześniu wzrósł o 2,4 proc. mdm - CPB",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443379"
+  },
+  {
+   "id": "bossa-espi-271381",
+   "date": "2026-11-26",
+   "time": "07:24",
+   "ts": "2026-11-26T07:24:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "CREOTECH INSTRUMENTS S.A.",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271381"
+  },
   {
    "id": "bossa-pap-443377",
    "date": "2026-11-26",
