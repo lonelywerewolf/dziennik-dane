@@ -1,7 +1,54 @@
 {
  "date": "2026-11-26",
- "count": 100,
+ "count": 104,
  "items": [
+  {
+   "id": "bossa-espi-271397",
+   "date": "2026-11-26",
+   "time": "09:45",
+   "ts": "2026-11-26T09:45:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "REMAK",
+   "title": "Aneks do Porozumienia",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271397"
+  },
+  {
+   "id": "bossa-pap-443425",
+   "date": "2026-11-26",
+   "time": "09:44",
+   "ts": "2026-11-26T09:44:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA FX/FI: Złoty i obligacje powinny skorzystać na Święcie Dziękczynienia",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443425"
+  },
+  {
+   "id": "bossa-pap-443424",
+   "date": "2026-11-26",
+   "time": "09:43",
+   "ts": "2026-11-26T09:43:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ceny gazu w Europie rosną",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443424"
+  },
+  {
+   "id": "strefa-cb16bfebc55e",
+   "date": "2026-11-26",
+   "time": "09:38",
+   "ts": "2026-11-26T09:38:05+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA FX/FI: Złoty i obligacje powinny skorzystać na Święcie Dziękczynienia",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/dzien-na-fxfi-zloty-i-obligacje-powinny-skorzystac-na-swiecie-dziekczynienia"
+  },
   {
    "id": "strefa-5fd7e1505bca",
    "date": "2026-11-26",

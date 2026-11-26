@@ -1,24 +1,33 @@
 {
  "date": "2026-11-26",
  "counts": {
-  "podsumowania": 8,
+  "podsumowania": 9,
   "wyniki": 11,
   "rekomendacje": 1,
   "korporacyjne": 12,
   "makro_pl": 6,
-  "swiat_rynki": 6,
+  "swiat_rynki": 7,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 18
+  "pozostale": 19
  },
- "duplicatesRemoved": 35,
- "total": 100,
+ "duplicatesRemoved": 36,
+ "total": 104,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "09:38",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA FX/FI: Złoty i obligacje powinny skorzystać na Święcie Dziękczynienia",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/dzien-na-fxfi-zloty-i-obligacje-powinny-skorzystac-na-swiecie-dziekczynienia",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:25",
     "kind": "news",
@@ -406,6 +415,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "09:43",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Ceny gazu w Europie rosną",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443424",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "09:30",
     "kind": "news",
     "ticker": null,
@@ -494,6 +512,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:45",
+    "kind": "espi",
+    "ticker": null,
+    "title": "REMAK: Aneks do Porozumienia",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271397",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:36",
     "kind": "news",
