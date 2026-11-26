@@ -4,18 +4,18 @@
   "podsumowania": 10,
   "wyniki": 11,
   "rekomendacje": 1,
-  "korporacyjne": 17,
-  "makro_pl": 8,
-  "swiat_rynki": 9,
+  "korporacyjne": 19,
+  "makro_pl": 9,
+  "swiat_rynki": 10,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 27
+  "pozostale": 29
  },
- "duplicatesRemoved": 41,
- "total": 127,
+ "duplicatesRemoved": 42,
+ "total": 134,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -236,6 +236,28 @@
   ],
   "korporacyjne": [
    {
+    "time": "11:25",
+    "kind": "espi",
+    "ticker": null,
+    "title": "URTESTE S.A.: Zawarcie aneksu do umowy pożyczki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271406",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "11:21",
+    "kind": "espi",
+    "ticker": null,
+    "title": "VOTUM S.A.: Otrzymanie od osoby mającej dostęp do informacji poufnych notyfikacji o transakcjach w trybie art. 19 ust. 1 MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271403",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
     "time": "11:14",
     "kind": "espi",
     "ticker": null,
@@ -420,6 +442,15 @@
   ],
   "makro_pl": [
    {
+    "time": "11:18",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wynagrodzenia imigrantów z Ukrainy rosną, coraz rzadziej wykonują tylko proste prace - NBP",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443445",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "11:06",
     "kind": "pap",
     "ticker": null,
@@ -493,6 +524,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "11:23",
+    "kind": "espi",
+    "ticker": null,
+    "title": "XTPL S.A.: Rejestracja podwyższenia kapitału zakładowego i związanych z tym zmian statutu Spółki w rejestrze przedsiębiorców Krajowego Rejestru Sądowego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271404",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:39",
     "kind": "news",
@@ -609,6 +649,24 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:26",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Należy ostrożnie podchodzić do finansowania w walutach obcych, jest ono uzupełnieniem - MF",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443451",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:22",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźniki referencyjne - EURIBOR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443447",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:07",
     "kind": "pap",

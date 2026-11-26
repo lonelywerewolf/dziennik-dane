@@ -1,7 +1,91 @@
 {
  "date": "2026-11-26",
- "count": 127,
+ "count": 134,
  "items": [
+  {
+   "id": "bossa-pap-443451",
+   "date": "2026-11-26",
+   "time": "11:26",
+   "ts": "2026-11-26T11:26:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Należy ostrożnie podchodzić do finansowania w walutach obcych, jest ono uzupełnieniem - MF",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443451"
+  },
+  {
+   "id": "bossa-espi-271406",
+   "date": "2026-11-26",
+   "time": "11:25",
+   "ts": "2026-11-26T11:25:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "URTESTE S.A.",
+   "title": "Zawarcie aneksu do umowy pożyczki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271406"
+  },
+  {
+   "id": "bossa-espi-271405",
+   "date": "2026-11-26",
+   "time": "11:24",
+   "ts": "2026-11-26T11:24:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "VOTUM S.A.",
+   "title": "Otrzymanie od osoby pełniącej obowiązki zarządcze w VOTUM S.A. notyfikacji o transakcjach w trybie art. 19 ust. 1 MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271405"
+  },
+  {
+   "id": "bossa-espi-271404",
+   "date": "2026-11-26",
+   "time": "11:23",
+   "ts": "2026-11-26T11:23:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "XTPL S.A.",
+   "title": "Rejestracja podwyższenia kapitału zakładowego i związanych z tym zmian statutu Spółki w rejestrze przedsiębiorców Krajowego Rejestru Sądowego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271404"
+  },
+  {
+   "id": "bossa-pap-443447",
+   "date": "2026-11-26",
+   "time": "11:22",
+   "ts": "2026-11-26T11:22:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne - EURIBOR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443447"
+  },
+  {
+   "id": "bossa-espi-271403",
+   "date": "2026-11-26",
+   "time": "11:21",
+   "ts": "2026-11-26T11:21:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "VOTUM S.A.",
+   "title": "Otrzymanie od osoby mającej dostęp do informacji poufnych notyfikacji o transakcjach w trybie art. 19 ust. 1 MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271403"
+  },
+  {
+   "id": "bossa-pap-443445",
+   "date": "2026-11-26",
+   "time": "11:18",
+   "ts": "2026-11-26T11:18:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wynagrodzenia imigrantów z Ukrainy rosną, coraz rzadziej wykonują tylko proste prace - NBP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443445"
+  },
   {
    "id": "bossa-pap-443443",
    "date": "2026-11-26",
