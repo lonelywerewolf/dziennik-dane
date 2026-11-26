@@ -2,20 +2,20 @@
  "date": "2026-11-26",
  "counts": {
   "podsumowania": 14,
-  "wyniki": 14,
+  "wyniki": 15,
   "rekomendacje": 2,
-  "korporacyjne": 53,
-  "makro_pl": 21,
+  "korporacyjne": 54,
+  "makro_pl": 23,
   "swiat_rynki": 18,
   "energetyka_surowce": 5,
   "nieruchomosci": 2,
-  "fundusze_drobne": 10,
+  "fundusze_drobne": 11,
   "twoje_spolki": 0,
   "obserwowane": 0,
   "pozostale": 58
  },
- "duplicatesRemoved": 111,
- "total": 308,
+ "duplicatesRemoved": 120,
+ "total": 322,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -148,6 +148,28 @@
   ],
   "wyniki": [
    {
+    "time": "17:21",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wyniki Diagnostyki w III kw. 2026 roku vs. konsensus PAP (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/wyniki-diagnostyki-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "17:06",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wyniki VRG w III kw. 2026 roku vs. konsensus PAP (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/wyniki-vrg-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
     "time": "13:51",
     "kind": "news",
     "ticker": null,
@@ -278,17 +300,6 @@
     "flags": [
      "wyniki"
     ]
-   },
-   {
-    "time": "06:24",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Wyniki Atalu w III kw. 2026 roku vs. konsensus PAP (tabela)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443370",
-    "src": "bossa",
-    "flags": [
-     "wyniki"
-    ]
    }
   ],
   "rekomendacje": [
@@ -314,6 +325,15 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "17:23",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GPW: w sprawie zawieszenia obrotu na Catalyst obligacjami na okaziciela serii D spółki ANWIM",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443600",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:11",
     "kind": "espi",
@@ -878,6 +898,24 @@
   ],
   "makro_pl": [
    {
+    "time": "17:22",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BOM: Udział Marszałka Sejmu w XII Krajowej Konferencji Ogólnopolskiego Forum Mediów Akademickich (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443598",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: w sprawie wyznaczenia pierwszego dnia notowania w alternatywnym systemie ob rotu na Catalyst obligacji kapitałowych na okaziciela serii 2/2026 spółki ERSTE BANK POLSK",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/gpw-w-sprawie-wyznaczenia-pierwszego-dnia-notowania-w-alternatywnym-systemie-ob",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "17:14",
     "kind": "pap",
     "ticker": null,
@@ -1301,6 +1339,15 @@
    }
   ],
   "fundusze_drobne": [
+   {
+    "time": "17:20",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PKO STRATEGII OBLIGACYJNYCH FIZ: ZWCI-E_30.04.18",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271483",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:49",
     "kind": "news",
