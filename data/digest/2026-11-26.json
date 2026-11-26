@@ -4,7 +4,7 @@
   "podsumowania": 17,
   "wyniki": 24,
   "rekomendacje": 3,
-  "korporacyjne": 68,
+  "korporacyjne": 70,
   "makro_pl": 27,
   "swiat_rynki": 21,
   "energetyka_surowce": 6,
@@ -15,7 +15,7 @@
   "pozostale": 73
  },
  "duplicatesRemoved": 162,
- "total": 417,
+ "total": 419,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -450,6 +450,26 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "20:45",
+    "kind": "espi",
+    "ticker": null,
+    "title": "IRON WOLF STUDIO S.A.: Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia Iron Wolf Studio S.A. wraz z projektami uchwał",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271515",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "20:43",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BUMECH DEFENSE PARTNERS S.A.: Zawarcie przez spółkę zależną Bumech Defense sp. z o.o. ramowej umowy współpracy w zakresie produkcji, zabezpieczenia zdolności produkcyjnych oraz podwykonawstwie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271514",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "20:31",
     "kind": "espi",
