@@ -1,7 +1,19 @@
 {
  "date": "2026-11-26",
- "count": 18,
+ "count": 20,
  "items": [
+  {
+   "id": "bossa-pap-443377",
+   "date": "2026-11-26",
+   "time": "07:11",
+   "ts": "2026-11-26T07:11:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Atal miał w III kw. 149,4 mln zł zysku netto j.d.; konsensus zakładał 152,7 mln zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443377"
+  },
   {
    "id": "strefa-d1f5dbebd5d6",
    "date": "2026-11-26",
@@ -12,6 +24,17 @@
    "title": "Kalendarium rynku kapitałowego GPW 2026-11-26",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261126/kalendarium-rynku-kapitalowego-gpw-2026-11-26"
+  },
+  {
+   "id": "strefa-b9de2a6a20b3",
+   "date": "2026-11-26",
+   "time": "07:01",
+   "ts": "2026-11-26T07:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Atal miał w III kw. 149,4 mln zł zysku netto j.d.; konsensus zakładał 152,7 mln zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/atal-mial-w-iii-kw-1494-mln-zl-zysku-netto-jd-konsensus-zakladal-1527-mln-zl"
   },
   {
    "id": "strefa-13e9fd425239",

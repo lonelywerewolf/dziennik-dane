@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 5
+  "pozostale": 6
  },
- "duplicatesRemoved": 5,
- "total": 18,
+ "duplicatesRemoved": 6,
+ "total": 20,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -108,6 +108,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Atal miał w III kw. 149,4 mln zł zysku netto j.d.; konsensus zakładał 152,7 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/atal-mial-w-iii-kw-1494-mln-zl-zysku-netto-jd-konsensus-zakladal-1527-mln-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "07:01",
     "kind": "news",
