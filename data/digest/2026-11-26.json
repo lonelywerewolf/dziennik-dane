@@ -2,7 +2,7 @@
  "date": "2026-11-26",
  "counts": {
   "podsumowania": 17,
-  "wyniki": 20,
+  "wyniki": 22,
   "rekomendacje": 3,
   "korporacyjne": 64,
   "makro_pl": 26,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 67
  },
- "duplicatesRemoved": 151,
- "total": 390,
+ "duplicatesRemoved": 153,
+ "total": 394,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -176,6 +176,28 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "19:04",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wyniki Rainbow Tours w III kw. 2026 roku vs. konsensus PAP (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/wyniki-rainbow-tours-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "18:41",
+    "kind": "news",
+    "ticker": null,
+    "title": "Asseco Poland napędza rozwój organiczny związany z cyfryzacją. Wyniki po trzech kwartałach 2026 roku",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/asseco-poland-napedza-rozwoj-organiczny-zwiazany-z-cyfryzacja-wyniki-po-trzech",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "18:02",
     "kind": "news",

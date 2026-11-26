@@ -1,7 +1,42 @@
 {
  "date": "2026-11-26",
- "count": 390,
+ "count": 394,
  "items": [
+  {
+   "id": "bossa-espi-271504",
+   "date": "2026-11-26",
+   "time": "19:05",
+   "ts": "2026-11-26T19:05:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "LARQ S.A.",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271504"
+  },
+  {
+   "id": "strefa-03ebf7c673f9",
+   "date": "2026-11-26",
+   "time": "19:04",
+   "ts": "2026-11-26T19:04:12+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wyniki Rainbow Tours w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/wyniki-rainbow-tours-w-iii-kw-2026-roku-vs-konsensus-pap-tabela"
+  },
+  {
+   "id": "bossa-pap-443647",
+   "date": "2026-11-26",
+   "time": "19:03",
+   "ts": "2026-11-26T19:03:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wyniki Rainbow Tours w III kw. 2026 roku vs. konsensus PAP (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443647"
+  },
   {
    "id": "bossa-espi-271503",
    "date": "2026-11-26",
@@ -49,6 +84,17 @@
    "title": "ROZLICZENIE TRANSAKCJI ZABEZPIECZAJĄCYCH RYZYKO STOPY PROCENTOWEJ ORAZ ZAWARCIE PRZEZ SPÓŁKI ZALEŻNE EMITENTA NOWYCH TRANSAKCJI ZABEZPIECZAJĄCYCH W ZWIĄZKU Z ZAWARCIEM UMOWY KREDYTÓW",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271501"
+  },
+  {
+   "id": "strefa-2ab6f2ae42a6",
+   "date": "2026-11-26",
+   "time": "18:41",
+   "ts": "2026-11-26T18:41:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Asseco Poland napędza rozwój organiczny związany z cyfryzacją. Wyniki po trzech kwartałach 2026 roku",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/asseco-poland-napedza-rozwoj-organiczny-zwiazany-z-cyfryzacja-wyniki-po-trzech"
   },
   {
    "id": "bossa-pap-443642",
