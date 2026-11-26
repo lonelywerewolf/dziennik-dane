@@ -1,7 +1,90 @@
 {
  "date": "2026-11-26",
- "count": 217,
+ "count": 224,
  "items": [
+  {
+   "id": "bossa-pap-443524",
+   "date": "2026-11-26",
+   "time": "14:24",
+   "ts": "2026-11-26T14:24:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "M. Zarzecki z RPP deklaruje, że będzie uczestniczył w grudniowym posiedzeniu Rady",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443524"
+  },
+  {
+   "id": "bossa-pap-443523",
+   "date": "2026-11-26",
+   "time": "14:24",
+   "ts": "2026-11-26T14:24:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ceny benzyny i diesla w Polsce spadły w tygodniu zakończonym 23 XI, najmocniej potaniał olej opałowy - KE",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443523"
+  },
+  {
+   "id": "bossa-pap-443522",
+   "date": "2026-11-26",
+   "time": "14:24",
+   "ts": "2026-11-26T14:24:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MRiRW: Kontrola rybołówstwa morskiego: prowadzimy przygotowania do wdrożenia unijnych przepisów (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443522"
+  },
+  {
+   "id": "bossa-espi-271448",
+   "date": "2026-11-26",
+   "time": "14:24",
+   "ts": "2026-11-26T14:24:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "VOTUM S.A.",
+   "title": "Otrzymanie od osoby pełniącej obowiązki zarządcze w VOTUM S.A. notyfikacji o transakcjach w trybie art. 19 ust. 1 MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271448"
+  },
+  {
+   "id": "bossa-pap-443520",
+   "date": "2026-11-26",
+   "time": "14:21",
+   "ts": "2026-11-26T14:21:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Indeksy w Europie rosną; w USA giełdy zamknięte",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443520"
+  },
+  {
+   "id": "bossa-espi-271447",
+   "date": "2026-11-26",
+   "time": "14:20",
+   "ts": "2026-11-26T14:20:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "CREOTECH INSTRUMENTS S.A.",
+   "title": "Zawiadomienie o zmianie udziału w ogólnej liczbie głosów na Walnym Zgromadzeniu Emitenta",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271447"
+  },
+  {
+   "id": "strefa-dd3ef4ba08c5",
+   "date": "2026-11-26",
+   "time": "14:12",
+   "ts": "2026-11-26T14:12:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Indeksy w Europie rosną; w USA giełdy zamknięte",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/dzien-na-rynkach-indeksy-w-europie-rosna-w-usa-gieldy-zamkniete"
+  },
   {
    "id": "bossa-pap-443518",
    "date": "2026-11-26",

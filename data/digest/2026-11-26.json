@@ -1,24 +1,33 @@
 {
  "date": "2026-11-26",
  "counts": {
-  "podsumowania": 10,
+  "podsumowania": 11,
   "wyniki": 14,
   "rekomendacje": 1,
   "korporacyjne": 32,
-  "makro_pl": 18,
+  "makro_pl": 19,
   "swiat_rynki": 13,
   "energetyka_surowce": 4,
   "nieruchomosci": 2,
   "fundusze_drobne": 2,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 44
+  "pozostale": 47
  },
- "duplicatesRemoved": 77,
- "total": 217,
+ "duplicatesRemoved": 79,
+ "total": 224,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "14:12",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Indeksy w Europie rosną; w USA giełdy zamknięte",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/dzien-na-rynkach-indeksy-w-europie-rosna-w-usa-gieldy-zamkniete",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "10:44",
     "kind": "news",
@@ -613,6 +622,15 @@
   ],
   "makro_pl": [
    {
+    "time": "14:24",
+    "kind": "pap",
+    "ticker": null,
+    "title": "M. Zarzecki z RPP deklaruje, że będzie uczestniczył w grudniowym posiedzeniu Rady",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443524",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "13:33",
     "kind": "espi",
     "ticker": null,
@@ -977,6 +995,33 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "14:24",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Ceny benzyny i diesla w Polsce spadły w tygodniu zakończonym 23 XI, najmocniej potaniał olej opałowy - KE",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443523",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:24",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MRiRW: Kontrola rybołówstwa morskiego: prowadzimy przygotowania do wdrożenia unijnych przepisów (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443522",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:20",
+    "kind": "espi",
+    "ticker": null,
+    "title": "CREOTECH INSTRUMENTS S.A.: Zawiadomienie o zmianie udziału w ogólnej liczbie głosów na Walnym Zgromadzeniu Emitenta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271447",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "14:00",
     "kind": "espi",
