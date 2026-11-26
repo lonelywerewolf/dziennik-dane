@@ -5,17 +5,17 @@
   "wyniki": 11,
   "rekomendacje": 1,
   "korporacyjne": 29,
-  "makro_pl": 17,
+  "makro_pl": 18,
   "swiat_rynki": 12,
   "energetyka_surowce": 3,
   "nieruchomosci": 1,
-  "fundusze_drobne": 1,
+  "fundusze_drobne": 2,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 38
+  "pozostale": 39
  },
- "duplicatesRemoved": 58,
- "total": 181,
+ "duplicatesRemoved": 59,
+ "total": 185,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -548,6 +548,15 @@
   ],
   "makro_pl": [
    {
+    "time": "13:33",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PZU ETF OBLIGACJI SKARBOWYCH DŁUGOTERMINOWYCH PORTFELOWY FIZ: WANCI-E_30.04.18",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271433",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "13:14",
     "kind": "pap",
     "ticker": null,
@@ -855,6 +864,15 @@
   ],
   "fundusze_drobne": [
    {
+    "time": "13:25",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PKO BP BANKOWY OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443494",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "11:35",
     "kind": "pap",
     "ticker": null,
@@ -867,6 +885,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "13:29",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Cena maksymalna dla benzyny Pb95 w piątek wyniesie 5,81 zł/l, dla ON 7,12 zł/l",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443496",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "12:59",
     "kind": "pap",
