@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 22
+  "pozostale": 23
  },
  "duplicatesRemoved": 38,
- "total": 112,
+ "total": 113,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -541,6 +541,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "10:17",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MFiPR: Komisja Europejska dała zgodę na finansowanie technologii obronnych z FWTK (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443433",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:07",
     "kind": "pap",
