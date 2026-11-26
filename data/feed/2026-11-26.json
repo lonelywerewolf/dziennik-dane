@@ -1,7 +1,43 @@
 {
  "date": "2026-11-26",
- "count": 160,
+ "count": 163,
  "items": [
+  {
+   "id": "bossa-espi-271420",
+   "date": "2026-11-26",
+   "time": "12:54",
+   "ts": "2026-11-26T12:54:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF DYWIDENDA PLUS PORTFELOW FIZ",
+   "title": "Raport bieżący nr 245 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271420"
+  },
+  {
+   "id": "bossa-espi-271419",
+   "date": "2026-11-26",
+   "time": "12:54",
+   "ts": "2026-11-26T12:54:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "LOKUM DEWELOPER S.A.",
+   "title": "Zawiadomienie w sprawie całościowego wcześniejszego wykupu obligacji serii J",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271419"
+  },
+  {
+   "id": "bossa-espi-271418",
+   "date": "2026-11-26",
+   "time": "12:50",
+   "ts": "2026-11-26T12:50:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF BITCOIN PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 241 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271418"
+  },
   {
    "id": "bossa-espi-271417",
    "date": "2026-11-26",
