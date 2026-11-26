@@ -1,10 +1,10 @@
 {
  "date": "2026-11-26",
  "counts": {
-  "podsumowania": 12,
+  "podsumowania": 14,
   "wyniki": 14,
   "rekomendacje": 2,
-  "korporacyjne": 45,
+  "korporacyjne": 48,
   "makro_pl": 20,
   "swiat_rynki": 18,
   "energetyka_surowce": 5,
@@ -14,11 +14,29 @@
   "obserwowane": 0,
   "pozostale": 57
  },
- "duplicatesRemoved": 99,
- "total": 284,
+ "duplicatesRemoved": 103,
+ "total": 293,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "17:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Skrót wiadomości - czwartek, 26 listopada, 17.00",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443576",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA FX/FI: EUR/PLN pozostaje wysoko i może testować 4,50; do końca roku możliwy spadek",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/dzien-na-fxfi-eurpln-pozostaje-wysoko-i-moze-testowac-450-do-konca-roku-mozliwy",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "16:27",
     "kind": "news",
@@ -296,6 +314,37 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "17:03",
+    "kind": "espi",
+    "ticker": null,
+    "title": "TAURON POLSKA ENERGIA S.A.: Powołanie członków Zarządu TAURON Polska Energia S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271469",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "17:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "RN Grupy Azoty powołała Mirosława Sobczyka na stanowisko wiceprezesa zarządu",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443577",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "17:00",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MARVIPOL DEVELOPMENT S.A.: Zawarcie umów kredytowych w ramach projektu deweloperskiego w Warszawie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-12111",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:52",
     "kind": "espi",
@@ -1192,12 +1241,12 @@
   ],
   "fundusze_drobne": [
    {
-    "time": "16:48",
-    "kind": "pap",
+    "time": "16:49",
+    "kind": "news",
     "ticker": null,
     "title": "OFE wartości jednostek rozrachunkowych z 2026.11.25",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443568",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/ofe-wartosci-jednostek-rozrachunkowych-z-20261125",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
