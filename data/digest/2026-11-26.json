@@ -4,28 +4,28 @@
   "podsumowania": 14,
   "wyniki": 14,
   "rekomendacje": 2,
-  "korporacyjne": 48,
-  "makro_pl": 20,
+  "korporacyjne": 53,
+  "makro_pl": 21,
   "swiat_rynki": 18,
   "energetyka_surowce": 5,
   "nieruchomosci": 2,
   "fundusze_drobne": 10,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 57
+  "pozostale": 58
  },
- "duplicatesRemoved": 103,
- "total": 293,
+ "duplicatesRemoved": 111,
+ "total": 308,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
    {
-    "time": "17:00",
-    "kind": "pap",
+    "time": "17:06",
+    "kind": "skrot",
     "ticker": null,
     "title": "Skrót wiadomości - czwartek, 26 listopada, 17.00",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443576",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/skrot-wiadomosci-czwartek-26-listopada-1700",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -315,22 +315,63 @@
   ],
   "korporacyjne": [
    {
+    "time": "17:11",
+    "kind": "espi",
+    "ticker": null,
+    "title": "TRAKCJA S.A.: Zmiana projektu uchwały nr 4 Nadzwyczajnego Walnego Zgromadzenia Trakcja S.A. zwołanego na dzień 7 grudnia 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271480",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:10",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SGI Finance sp. z o.o.: Nabycie udziałów w spółce posiadającej nieruchomość magazynową przez spółkę z Grupy Poręczyciela",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271479",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:09",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SELENA FM S.A.: Zawarcie warunkowej umowy nabycia 70% udziałów w Tesla Panels DOO",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271476",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "17:05",
+    "kind": "espi",
+    "ticker": null,
+    "title": "COMP: Zawiadomienia o transakcjach zawartych przez osoby blisko związane z osobami pełniącymi obowiązki zarządcze",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271474",
+    "src": "bossa",
+    "flags": [
+     "zarząd",
+     "insider"
+    ]
+   },
+   {
+    "time": "17:04",
+    "kind": "espi",
+    "ticker": null,
+    "title": "DEVELOPRES SP. Z O.O.: Zawarcie umowy kredytowej.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271471",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
     "time": "17:03",
     "kind": "espi",
     "ticker": null,
     "title": "TAURON POLSKA ENERGIA S.A.: Powołanie członków Zarządu TAURON Polska Energia S.A.",
     "url": "https://bossa.pl/analizy/komunikaty#message-271469",
-    "src": "bossa",
-    "flags": [
-     "zarząd"
-    ]
-   },
-   {
-    "time": "17:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "RN Grupy Azoty powołała Mirosława Sobczyka na stanowisko wiceprezesa zarządu",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443577",
     "src": "bossa",
     "flags": [
      "zarząd"
@@ -344,6 +385,17 @@
     "url": "https://bossa.pl/analizy/komunikaty#message-12111",
     "src": "bossa",
     "flags": []
+   },
+   {
+    "time": "16:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "RN Grupy Azoty powołała Mirosława Sobczyka na stanowisko wiceprezesa zarządu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/rn-grupy-azoty-powolala-miroslawa-sobczyka-na-stanowisko-wiceprezesa-zarzadu",
+    "src": "strefainwestorow",
+    "flags": [
+     "zarząd"
+    ]
    },
    {
     "time": "16:52",
@@ -825,6 +877,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "17:14",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GPW Benchmark: komunikat - okresowa zmiana portfeli indeksów obligacji",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443592",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:41",
     "kind": "news",
@@ -1334,6 +1395,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:10",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ENTER AIR S.A.: QS",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271478",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:50",
     "kind": "espi",
