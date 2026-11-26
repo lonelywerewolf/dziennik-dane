@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 70
  },
- "duplicatesRemoved": 156,
- "total": 402,
+ "duplicatesRemoved": 157,
+ "total": 403,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1759,21 +1759,21 @@
   "obserwowane": [],
   "pozostale": [
    {
-    "time": "19:28",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Enter Air miał w III kw. 126,9 mln zł zysku netto j.d., wobec 112,4 mln zł konsensusu",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443654",
-    "src": "bossa",
-    "flags": []
-   },
-   {
     "time": "19:26",
     "kind": "espi",
     "ticker": null,
     "title": "DEFENCE.HUB S.A.: Objęcie przez Emitenta akcji serii B w spółce zależnej Klabater P.S.A. w zamian za wkład niepieniężny w postaci zorganizowanej części przedsiębiorstwa Emitenta",
     "url": "https://bossa.pl/analizy/komunikaty#message-271508",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "19:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "Enter Air miał w III kw. 126,9 mln zł zysku netto j.d., wobec 112,4 mln zł konsensusu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/enter-air-mial-w-iii-kw-1269-mln-zl-zysku-netto-jd-wobec-1124-mln-zl-konsensusu",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
