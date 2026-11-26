@@ -1,24 +1,33 @@
 {
  "date": "2026-11-26",
  "counts": {
-  "podsumowania": 7,
-  "wyniki": 10,
+  "podsumowania": 8,
+  "wyniki": 11,
   "rekomendacje": 1,
-  "korporacyjne": 11,
-  "makro_pl": 5,
-  "swiat_rynki": 5,
+  "korporacyjne": 12,
+  "makro_pl": 6,
+  "swiat_rynki": 6,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 15
+  "pozostale": 18
  },
- "duplicatesRemoved": 30,
- "total": 87,
+ "duplicatesRemoved": 35,
+ "total": 100,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "09:25",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: W Europie na giełdach indeksy mocno rosną",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/dzien-na-rynkach-w-europie-na-gieldach-indeksy-mocno-rosna",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:16",
     "kind": "pap",
@@ -84,6 +93,17 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "09:38",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wyniki Text w II kw. 2026/27 roku vs. konsensus PAP Biznes (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/wyniki-text-w-ii-kw-202627-roku-vs-konsensus-pap-biznes-tabela",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
    {
     "time": "08:46",
     "kind": "news",
@@ -197,6 +217,19 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "09:29",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MARVIPOL DEVELOPMENT S.A.: Korekta raportu bieżącego nr 24/2026: Uchwała Zarządu Emitenta ws. zatwierdzenia Ostatecznych Warunków Emisji Obligacji serii P2026A",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271396",
+    "src": "bossa",
+    "flags": [
+     "emisja",
+     "prognoza",
+     "zarząd"
+    ]
+   },
    {
     "time": "09:19",
     "kind": "espi",
@@ -317,6 +350,15 @@
   ],
   "makro_pl": [
    {
+    "time": "09:37",
+    "kind": "news",
+    "ticker": null,
+    "title": "Liczba pracujących w gospodarce narodowej w końcu czerwca '26 spadła o 0,2 proc. rdr - GUS",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/liczba-pracujacych-w-gospodarce-narodowej-w-koncu-czerwca-26-spadla-o-02-proc",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "09:08",
     "kind": "espi",
     "ticker": null,
@@ -363,6 +405,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "09:30",
+    "kind": "news",
+    "ticker": null,
+    "title": "Develia rozpoczęła przedsprzedaż 280 mieszkań we Wrocławiu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/develia-rozpoczela-przedsprzedaz-280-mieszkan-we-wroclawiu",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:35",
     "kind": "pap",
@@ -443,6 +494,33 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:36",
+    "kind": "news",
+    "ticker": null,
+    "title": "KE dała zgodę na finansowanie technologii obronnych z FWTK - MFiPR",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/ke-dala-zgode-na-finansowanie-technologii-obronnych-z-fwtk-mfipr",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "09:36",
+    "kind": "news",
+    "ticker": null,
+    "title": "ME obniży opłatę kogeneracyjną na przyszły rok do 3,41 zł/MWh z 3,83 zł/MWh pierwotnie",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/me-obnizy-oplate-kogeneracyjna-na-przyszly-rok-do-341-zlmwh-z-383-zlmwh",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "09:28",
+    "kind": "news",
+    "ticker": null,
+    "title": "Portfel zamówień grupy Mirbud na koniec października wynosił 8,84 mld zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/portfel-zamowien-grupy-mirbud-na-koniec-pazdziernika-wynosil-884-mld-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:12",
     "kind": "news",
