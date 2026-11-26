@@ -1,7 +1,122 @@
 {
  "date": "2026-11-26",
- "count": 63,
+ "count": 73,
  "items": [
+  {
+   "id": "strefa-f6a054446f61",
+   "date": "2026-11-26",
+   "time": "08:53",
+   "ts": "2026-11-26T08:53:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "UniCredit ma zgodę KNF na przejęcie kontroli nad Commerzbankiem",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/unicredit-ma-zgode-knf-na-przejecie-kontroli-nad-commerzbankiem"
+  },
+  {
+   "id": "strefa-0d1ac95cdc67",
+   "date": "2026-11-26",
+   "time": "08:53",
+   "ts": "2026-11-26T08:53:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "ShockPrice zadebiutował na Słowacji; w grudniu ma pojawić się w Czechach",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/shockprice-zadebiutowal-na-slowacji-w-grudniu-ma-pojawic-sie-w-czechach"
+  },
+  {
+   "id": "bossa-pap-443409",
+   "date": "2026-11-26",
+   "time": "08:52",
+   "ts": "2026-11-26T08:52:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Strata netto sektora górnictwa węgla kamiennego w I-III kw wyniosła 2,72 mld zł - ARP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443409"
+  },
+  {
+   "id": "bossa-pap-443408",
+   "date": "2026-11-26",
+   "time": "08:52",
+   "ts": "2026-11-26T08:52:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "ShockPrice zadebiutował na Słowacji; w grudniu ma pojawić się w Czechach",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443408"
+  },
+  {
+   "id": "bossa-espi-271392",
+   "date": "2026-11-26",
+   "time": "08:50",
+   "ts": "2026-11-26T08:50:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "TRAKCJA S.A.",
+   "title": "Informacja o zawarciu istotnej umowy przez spółkę zależną - AB Kauno tiltai",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271392"
+  },
+  {
+   "id": "strefa-fb418829bbfb",
+   "date": "2026-11-26",
+   "time": "08:46",
+   "ts": "2026-11-26T08:46:11+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Strata netto sektora górnictwa węgla kamiennego w I-III kw wyniosła 2,72 mld zł - ARP",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/strata-netto-sektora-gornictwa-wegla-kamiennego-w-i-iii-kw-wyniosla-272-mld-zl"
+  },
+  {
+   "id": "strefa-f315db5e9afb",
+   "date": "2026-11-26",
+   "time": "08:44",
+   "ts": "2026-11-26T08:44:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Przychody Rex Concepts mocno w górę. Operator Burger King i Popeyes pokazał wyniki finansowe za III kwartał 2026",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/przychody-rex-concepts-mocno-w-gore-operator-burger-king-i-popeyes-pokazal"
+  },
+  {
+   "id": "bossa-pap-443406",
+   "date": "2026-11-26",
+   "time": "08:43",
+   "ts": "2026-11-26T08:43:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Medicalgorithmics spodziewa się wzrostu przychodów w IV kw.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443406"
+  },
+  {
+   "id": "strefa-b471e26cf685",
+   "date": "2026-11-26",
+   "time": "08:42",
+   "ts": "2026-11-26T08:42:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Medicalgorithmics spodziewa się wzrostu przychodów w IV kw.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/medicalgorithmics-spodziewa-sie-wzrostu-przychodow-w-iv-kw"
+  },
+  {
+   "id": "bossa-espi-271391",
+   "date": "2026-11-26",
+   "time": "08:42",
+   "ts": "2026-11-26T08:42:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "YARRL S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271391"
+  },
   {
    "id": "bossa-pap-443404",
    "date": "2026-11-26",

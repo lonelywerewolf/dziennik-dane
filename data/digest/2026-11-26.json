@@ -2,9 +2,9 @@
  "date": "2026-11-26",
  "counts": {
   "podsumowania": 6,
-  "wyniki": 7,
+  "wyniki": 10,
   "rekomendacje": 1,
-  "korporacyjne": 4,
+  "korporacyjne": 7,
   "makro_pl": 4,
   "swiat_rynki": 5,
   "energetyka_surowce": 1,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 13
  },
- "duplicatesRemoved": 22,
- "total": 63,
+ "duplicatesRemoved": 26,
+ "total": 73,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -75,6 +75,35 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "08:46",
+    "kind": "news",
+    "ticker": null,
+    "title": "Strata netto sektora górnictwa węgla kamiennego w I-III kw wyniosła 2,72 mld zł - ARP",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/strata-netto-sektora-gornictwa-wegla-kamiennego-w-i-iii-kw-wyniosla-272-mld-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "08:44",
+    "kind": "news",
+    "ticker": null,
+    "title": "Przychody Rex Concepts mocno w górę. Operator Burger King i Popeyes pokazał wyniki finansowe za III kwartał 2026",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/przychody-rex-concepts-mocno-w-gore-operator-burger-king-i-popeyes-pokazal",
+    "src": "strefainwestorow",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
+    "time": "08:42",
+    "kind": "news",
+    "ticker": null,
+    "title": "Medicalgorithmics spodziewa się wzrostu przychodów w IV kw.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/medicalgorithmics-spodziewa-sie-wzrostu-przychodow-w-iv-kw",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:29",
     "kind": "news",
@@ -159,6 +188,35 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "08:53",
+    "kind": "news",
+    "ticker": null,
+    "title": "UniCredit ma zgodę KNF na przejęcie kontroli nad Commerzbankiem",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/unicredit-ma-zgode-knf-na-przejecie-kontroli-nad-commerzbankiem",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "08:53",
+    "kind": "news",
+    "ticker": null,
+    "title": "ShockPrice zadebiutował na Słowacji; w grudniu ma pojawić się w Czechach",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/shockprice-zadebiutowal-na-slowacji-w-grudniu-ma-pojawic-sie-w-czechach",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "08:50",
+    "kind": "espi",
+    "ticker": null,
+    "title": "TRAKCJA S.A.: Informacja o zawarciu istotnej umowy przez spółkę zależną - AB Kauno tiltai",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271392",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "08:35",
     "kind": "news",
