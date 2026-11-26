@@ -1,24 +1,33 @@
 {
  "date": "2026-11-26",
  "counts": {
-  "podsumowania": 5,
+  "podsumowania": 6,
   "wyniki": 7,
   "rekomendacje": 1,
-  "korporacyjne": 3,
-  "makro_pl": 3,
-  "swiat_rynki": 4,
+  "korporacyjne": 4,
+  "makro_pl": 4,
+  "swiat_rynki": 5,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 12
+  "pozostale": 13
  },
- "duplicatesRemoved": 20,
- "total": 56,
+ "duplicatesRemoved": 22,
+ "total": 63,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "08:29",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: Początek sesji może być wzrostowy",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/dzien-na-gpw-poczatek-sesji-moze-byc-wzrostowy",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:20",
     "kind": "news",
@@ -151,6 +160,17 @@
   ],
   "korporacyjne": [
    {
+    "time": "08:35",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wezwanie na akcje Erste Bank Polska. Zaskakująca decyzja w sprawie ceny",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/wezwanie-na-akcje-erste-bank-polska-zaskakujaca-decyzja-w-sprawie-ceny",
+    "src": "strefainwestorow",
+    "flags": [
+     "wezwanie"
+    ]
+   },
+   {
     "time": "08:30",
     "kind": "espi",
     "ticker": null,
@@ -186,6 +206,15 @@
   ],
   "makro_pl": [
    {
+    "time": "08:40",
+    "kind": "news",
+    "ticker": null,
+    "title": "Onde zaprzestanie działalności w budownictwie drogowym; planuje redukcję zatrudnienia o max. 125 osób",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/onde-zaprzestanie-dzialalnosci-w-budownictwie-drogowym-planuje-redukcje",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "07:30",
     "kind": "pap",
     "ticker": null,
@@ -214,6 +243,15 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "08:35",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Zapasy gazu w magazynach UE to niecałe 68 proc., w Polsce 94,4 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443402",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:21",
     "kind": "espi",
@@ -267,6 +305,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "08:37",
+    "kind": "espi",
+    "ticker": null,
+    "title": "UniCredit: UniCredit receives KNF approvals regarding the Offer on Commerzbank, announces fulfilment of the Offer Conditions and calls for EGM",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271390",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:22",
     "kind": "espi",

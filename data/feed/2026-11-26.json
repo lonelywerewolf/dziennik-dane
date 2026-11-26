@@ -1,7 +1,77 @@
 {
  "date": "2026-11-26",
- "count": 56,
+ "count": 63,
  "items": [
+  {
+   "id": "bossa-pap-443404",
+   "date": "2026-11-26",
+   "time": "08:41",
+   "ts": "2026-11-26T08:41:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Onde zaprzestanie działalności w budownictwie drogowym; planuje redukcję zatrudnienia o max. 125 osób",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443404"
+  },
+  {
+   "id": "strefa-818fe01a793a",
+   "date": "2026-11-26",
+   "time": "08:40",
+   "ts": "2026-11-26T08:40:08+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Onde zaprzestanie działalności w budownictwie drogowym; planuje redukcję zatrudnienia o max. 125 osób",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/onde-zaprzestanie-dzialalnosci-w-budownictwie-drogowym-planuje-redukcje"
+  },
+  {
+   "id": "bossa-espi-271390",
+   "date": "2026-11-26",
+   "time": "08:37",
+   "ts": "2026-11-26T08:37:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "UniCredit",
+   "title": "UniCredit receives KNF approvals regarding the Offer on Commerzbank, announces fulfilment of the Offer Conditions and calls for EGM",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271390"
+  },
+  {
+   "id": "strefa-f94f146f7189",
+   "date": "2026-11-26",
+   "time": "08:35",
+   "ts": "2026-11-26T08:35:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wezwanie na akcje Erste Bank Polska. Zaskakująca decyzja w sprawie ceny",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/wezwanie-na-akcje-erste-bank-polska-zaskakujaca-decyzja-w-sprawie-ceny"
+  },
+  {
+   "id": "bossa-pap-443402",
+   "date": "2026-11-26",
+   "time": "08:35",
+   "ts": "2026-11-26T08:35:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zapasy gazu w magazynach UE to niecałe 68 proc., w Polsce 94,4 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443402"
+  },
+  {
+   "id": "bossa-pap-443401",
+   "date": "2026-11-26",
+   "time": "08:34",
+   "ts": "2026-11-26T08:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: Początek sesji może być wzrostowy",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443401"
+  },
   {
    "id": "bossa-espi-271389",
    "date": "2026-11-26",
@@ -13,6 +83,17 @@
    "title": "Zawarcie aneksu do umowy licencyjnej z SEGA dotyczącej gry Panzer Dragoon Zwei: Remake",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271389"
+  },
+  {
+   "id": "strefa-c21a8c05bdd0",
+   "date": "2026-11-26",
+   "time": "08:29",
+   "ts": "2026-11-26T08:29:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: Początek sesji może być wzrostowy",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/dzien-na-gpw-poczatek-sesji-moze-byc-wzrostowy"
   },
   {
    "id": "strefa-b7b40400d4f9",
