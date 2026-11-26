@@ -5,7 +5,7 @@
   "wyniki": 11,
   "rekomendacje": 1,
   "korporacyjne": 29,
-  "makro_pl": 15,
+  "makro_pl": 17,
   "swiat_rynki": 12,
   "energetyka_surowce": 3,
   "nieruchomosci": 1,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 38
  },
- "duplicatesRemoved": 54,
- "total": 175,
+ "duplicatesRemoved": 58,
+ "total": 181,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -547,6 +547,24 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "13:14",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Według kanclerza Niemiec proponowany budżet UE na lata 2028-2034 nadal za duży",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443489",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:03",
+    "kind": "news",
+    "ticker": null,
+    "title": "Polska miała najniższy udział inwestycji mieszkaniowych w PKB w UE w 2025 r. - Eurostat",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/polska-miala-najnizszy-udzial-inwestycji-mieszkaniowych-w-pkb-w-ue-w-2025-r",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "12:54",
     "kind": "espi",

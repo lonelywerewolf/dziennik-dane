@@ -1,7 +1,67 @@
 {
  "date": "2026-11-26",
- "count": 175,
+ "count": 181,
  "items": [
+  {
+   "id": "bossa-espi-271431",
+   "date": "2026-11-26",
+   "time": "13:22",
+   "ts": "2026-11-26T13:22:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF sWIG80TR PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 238 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271431"
+  },
+  {
+   "id": "bossa-pap-443491",
+   "date": "2026-11-26",
+   "time": "13:19",
+   "ts": "2026-11-26T13:19:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Polska miała najniższy udział inwestycji mieszkaniowych w PKB w UE w 2025 r. - Eurostat",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443491"
+  },
+  {
+   "id": "bossa-espi-271430",
+   "date": "2026-11-26",
+   "time": "13:19",
+   "ts": "2026-11-26T13:19:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF S&P 500 PLN-HEDGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 238 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271430"
+  },
+  {
+   "id": "bossa-espi-271429",
+   "date": "2026-11-26",
+   "time": "13:16",
+   "ts": "2026-11-26T13:16:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF OBLIGACJI 6M PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 248 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271429"
+  },
+  {
+   "id": "bossa-pap-443489",
+   "date": "2026-11-26",
+   "time": "13:14",
+   "ts": "2026-11-26T13:14:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Według kanclerza Niemiec proponowany budżet UE na lata 2028-2034 nadal za duży",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443489"
+  },
   {
    "id": "bossa-espi-271428",
    "date": "2026-11-26",
@@ -61,6 +121,17 @@
    "title": "Treść uchwał podjętych przez Nadzwyczajne Walne Zgromadzenie STALPROFIL S.A.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271424"
+  },
+  {
+   "id": "strefa-ce558532568f",
+   "date": "2026-11-26",
+   "time": "13:03",
+   "ts": "2026-11-26T13:03:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Polska miała najniższy udział inwestycji mieszkaniowych w PKB w UE w 2025 r. - Eurostat",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/polska-miala-najnizszy-udzial-inwestycji-mieszkaniowych-w-pkb-w-ue-w-2025-r"
   },
   {
    "id": "bossa-espi-271423",
