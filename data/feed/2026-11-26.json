@@ -1,7 +1,101 @@
 {
  "date": "2026-11-26",
- "count": 7,
+ "count": 15,
  "items": [
+  {
+   "id": "bossa-pap-443376",
+   "date": "2026-11-26",
+   "time": "06:39",
+   "ts": "2026-11-26T06:39:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne ON na wybranych rynkach rozwiniętych (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443376"
+  },
+  {
+   "id": "bossa-pap-443375",
+   "date": "2026-11-26",
+   "time": "06:37",
+   "ts": "2026-11-26T06:37:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Rentowności obligacji wybranych państw (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443375"
+  },
+  {
+   "id": "strefa-f05532e58ce4",
+   "date": "2026-11-26",
+   "time": "06:36",
+   "ts": "2026-11-26T06:36:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Rentowności obligacji wybranych państw (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/rentownosci-obligacji-wybranych-panstw-tabela"
+  },
+  {
+   "id": "bossa-pap-443374",
+   "date": "2026-11-26",
+   "time": "06:36",
+   "ts": "2026-11-26T06:36:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zielone światło dla SpaceX na umieszczenie na orbicie miliona satelitów tworzących centra danych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443374"
+  },
+  {
+   "id": "bossa-pap-443373",
+   "date": "2026-11-26",
+   "time": "06:36",
+   "ts": "2026-11-26T06:36:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443373"
+  },
+  {
+   "id": "bossa-pap-443372",
+   "date": "2026-11-26",
+   "time": "06:35",
+   "ts": "2026-11-26T06:35:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443372"
+  },
+  {
+   "id": "bossa-pap-443371",
+   "date": "2026-11-26",
+   "time": "06:30",
+   "ts": "2026-11-26T06:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wzrost PKB Polski wciąż solidny; słabszy PLN argumentem za podwyżką stóp – BNP Paribas BP (wywiad)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443371"
+  },
+  {
+   "id": "strefa-8da1b45fe071",
+   "date": "2026-11-26",
+   "time": "06:27",
+   "ts": "2026-11-26T06:27:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela"
+  },
   {
    "id": "bossa-pap-443370",
    "date": "2026-11-26",
