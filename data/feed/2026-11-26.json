@@ -1,7 +1,89 @@
 {
  "date": "2026-11-26",
- "count": 203,
+ "count": 211,
  "items": [
+  {
+   "id": "bossa-espi-271445",
+   "date": "2026-11-26",
+   "time": "13:53",
+   "ts": "2026-11-26T13:53:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "VOTUM S.A.",
+   "title": "Otrzymanie od osoby mającej dostęp do informacji poufnych notyfikacji o transakcjach w trybie art. 19 ust. 1 MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271445"
+  },
+  {
+   "id": "bossa-espi-271444",
+   "date": "2026-11-26",
+   "time": "13:52",
+   "ts": "2026-11-26T13:52:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF WIG20short PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 237 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271444"
+  },
+  {
+   "id": "strefa-fcbb93402566",
+   "date": "2026-11-26",
+   "time": "13:51",
+   "ts": "2026-11-26T13:51:27+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wittchen podwyższył szacunki odpisów i rezerw w skons. wynikach za I-III kw. do 18,2 mln zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/wittchen-podwyzszyl-szacunki-odpisow-i-rezerw-w-skons-wynikach-za-i-iii-kw-do"
+  },
+  {
+   "id": "bossa-pap-443512",
+   "date": "2026-11-26",
+   "time": "13:51",
+   "ts": "2026-11-26T13:51:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wittchen podwyższył szacunki odpisów i rezerw w skons. wynikach za I-III kw. do 18,2 mln zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443512"
+  },
+  {
+   "id": "strefa-775b98665b57",
+   "date": "2026-11-26",
+   "time": "13:49",
+   "ts": "2026-11-26T13:49:06+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ponad pół miliarda metrów sześciennych gazu popłynie z odwiertów na Podkarpaciu",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/ponad-pol-miliarda-metrow-szesciennych-gazu-poplynie-z-odwiertow-na-0"
+  },
+  {
+   "id": "bossa-espi-271443",
+   "date": "2026-11-26",
+   "time": "13:49",
+   "ts": "2026-11-26T13:49:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PEPEES",
+   "title": "Otrzymanie powiadomienia z art. 19 Rozporządzenia MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271443"
+  },
+  {
+   "id": "bossa-espi-271442",
+   "date": "2026-11-26",
+   "time": "13:47",
+   "ts": "2026-11-26T13:47:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 3 x LEVERAGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 239 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271442"
+  },
   {
    "id": "bossa-pap-443507",
    "date": "2026-11-26",
@@ -61,6 +143,17 @@
    "title": "WANCI-E_30.04.18",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271439"
+  },
+  {
+   "id": "strefa-b98776e2f499",
+   "date": "2026-11-26",
+   "time": "13:41",
+   "ts": "2026-11-26T13:41:31+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "11 bit studios S.A. podsumowuje trzy kwartały 2026 roku:mocny strumień przychodów w III kwartale, dodatni wynik netto i bezpieczna pozycja gotówkowa",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/11-bit-studios-sa-podsumowuje-trzy-kwartaly-2026-rokumocny-strumien-przychodow"
   },
   {
    "id": "bossa-espi-271438",
