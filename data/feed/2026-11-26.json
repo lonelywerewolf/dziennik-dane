@@ -1,7 +1,54 @@
 {
  "date": "2026-11-26",
- "count": 407,
+ "count": 411,
  "items": [
+  {
+   "id": "bossa-pap-443661",
+   "date": "2026-11-26",
+   "time": "20:08",
+   "ts": "2026-11-26T20:08:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Stawka Polonia spadła w czwartek do 3,61 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443661"
+  },
+  {
+   "id": "bossa-pap-443660",
+   "date": "2026-11-26",
+   "time": "20:06",
+   "ts": "2026-11-26T20:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ailleron miał w III kw. 27,6 mln zł EBITDA, co oznacza wzrost o 52 proc. rdr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443660"
+  },
+  {
+   "id": "bossa-espi-271511",
+   "date": "2026-11-26",
+   "time": "20:05",
+   "ts": "2026-11-26T20:05:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "COLUMBUS ENERGY S.A.",
+   "title": "Zgłoszenie przez akcjonariusza żądania umieszczenia spraw w porządku obrad najbliższego Nadzwyczajnego Walnego Zgromadzenia zwołanego na 17 grudnia 2026 r.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271511"
+  },
+  {
+   "id": "strefa-2e30cc921941",
+   "date": "2026-11-26",
+   "time": "20:02",
+   "ts": "2026-11-26T20:02:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ailleron miał w III kw. 27,6 mln zł EBITDA, co oznacza wzrost o 52 proc. rdr",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/ailleron-mial-w-iii-kw-276-mln-zl-ebitda-co-oznacza-wzrost-o-52-proc-rdr"
+  },
   {
    "id": "bossa-espi-271510",
    "date": "2026-11-26",

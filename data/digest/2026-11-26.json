@@ -2,9 +2,9 @@
  "date": "2026-11-26",
  "counts": {
   "podsumowania": 17,
-  "wyniki": 23,
+  "wyniki": 24,
   "rekomendacje": 3,
-  "korporacyjne": 65,
+  "korporacyjne": 66,
   "makro_pl": 27,
   "swiat_rynki": 21,
   "energetyka_surowce": 6,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 13,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 70
+  "pozostale": 71
  },
- "duplicatesRemoved": 159,
- "total": 407,
+ "duplicatesRemoved": 160,
+ "total": 411,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -176,6 +176,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "20:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ailleron miał w III kw. 27,6 mln zł EBITDA, co oznacza wzrost o 52 proc. rdr",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/ailleron-mial-w-iii-kw-276-mln-zl-ebitda-co-oznacza-wzrost-o-52-proc-rdr",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "19:34",
     "kind": "news",
@@ -441,6 +450,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "20:05",
+    "kind": "espi",
+    "ticker": null,
+    "title": "COLUMBUS ENERGY S.A.: Zgłoszenie przez akcjonariusza żądania umieszczenia spraw w porządku obrad najbliższego Nadzwyczajnego Walnego Zgromadzenia zwołanego na 17 grudnia 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271511",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "19:10",
     "kind": "espi",
@@ -1776,6 +1796,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "20:08",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Stawka Polonia spadła w czwartek do 3,61 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443661",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "19:26",
     "kind": "espi",
