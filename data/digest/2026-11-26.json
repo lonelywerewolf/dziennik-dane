@@ -8,14 +8,14 @@
   "makro_pl": 18,
   "swiat_rynki": 13,
   "energetyka_surowce": 4,
-  "nieruchomosci": 1,
+  "nieruchomosci": 2,
   "fundusze_drobne": 2,
   "twoje_spolki": 0,
   "obserwowane": 0,
   "pozostale": 44
  },
- "duplicatesRemoved": 76,
- "total": 215,
+ "duplicatesRemoved": 77,
+ "total": 217,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -935,6 +935,15 @@
    }
   ],
   "nieruchomosci": [
+   {
+    "time": "14:07",
+    "kind": "news",
+    "ticker": null,
+    "title": "Atal spodziewa się w IV kw. sprzedaży 900-1.000 mieszkań, a w całym '26 ok. 3,5 tys. sprzedanych lokali",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261126/atal-spodziewa-sie-w-iv-kw-sprzedazy-900-1000-mieszkan-w-calym-26-ok-35-tys",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "11:41",
     "kind": "pap",

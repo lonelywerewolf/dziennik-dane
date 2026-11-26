@@ -1,7 +1,30 @@
 {
  "date": "2026-11-26",
- "count": 215,
+ "count": 217,
  "items": [
+  {
+   "id": "bossa-pap-443518",
+   "date": "2026-11-26",
+   "time": "14:10",
+   "ts": "2026-11-26T14:10:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Atal spodziewa się w IV kw. sprzedaży 900-1.000 mieszkań, a w całym '26 ok. 3,5 tys. sprzedanych lokali",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443518"
+  },
+  {
+   "id": "strefa-aeeb7fcf4719",
+   "date": "2026-11-26",
+   "time": "14:07",
+   "ts": "2026-11-26T14:07:26+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Atal spodziewa się w IV kw. sprzedaży 900-1.000 mieszkań, a w całym '26 ok. 3,5 tys. sprzedanych lokali",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261126/atal-spodziewa-sie-w-iv-kw-sprzedazy-900-1000-mieszkan-w-calym-26-ok-35-tys"
+  },
   {
    "id": "bossa-pap-443517",
    "date": "2026-11-26",
