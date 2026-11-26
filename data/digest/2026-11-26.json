@@ -2,10 +2,10 @@
  "date": "2026-11-26",
  "counts": {
   "podsumowania": 17,
-  "wyniki": 22,
+  "wyniki": 23,
   "rekomendacje": 3,
   "korporacyjne": 65,
-  "makro_pl": 26,
+  "makro_pl": 27,
   "swiat_rynki": 21,
   "energetyka_surowce": 6,
   "nieruchomosci": 2,
@@ -15,7 +15,7 @@
   "pozostale": 70
  },
  "duplicatesRemoved": 157,
- "total": 403,
+ "total": 405,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -176,6 +176,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "19:52",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Przychody grupy Wittchen w III kw. wyniosły 106,5 mln zł, o 11 proc. mniej niż przed rokiem",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443657",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "19:04",
     "kind": "news",
@@ -1120,6 +1129,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "19:45",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MS: Stanowisko Ministerstwa Sprawiedliwości w związku ze wznowieniem przez ETPC postępowań dotyczących praworządności w Polsce (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443656",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:31",
     "kind": "pap",
