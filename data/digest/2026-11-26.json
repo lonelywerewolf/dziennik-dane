@@ -4,7 +4,7 @@
   "podsumowania": 9,
   "wyniki": 11,
   "rekomendacje": 1,
-  "korporacyjne": 13,
+  "korporacyjne": 14,
   "makro_pl": 6,
   "swiat_rynki": 8,
   "energetyka_surowce": 3,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 20
+  "pozostale": 22
  },
  "duplicatesRemoved": 38,
- "total": 109,
+ "total": 112,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -226,6 +226,15 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "10:02",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MOSTALPLC: Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia na dzień 23 grudnia 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271399",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:55",
     "kind": "espi",
@@ -532,6 +541,24 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "10:07",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Kazachski holding BI Group wchodzi na polski rynek poprzez partnerstwo z Commercecon",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443432",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "10:07",
+    "kind": "pap",
+    "ticker": null,
+    "title": "CANNABIS POLAND SA (15/2026) Zakończenie subskrypcji lub sprzedaży, związanej z wprowadzeniem instrumentów finansowych emitenta do obrotu w alternatywnym systemie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443431",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:56",
     "kind": "pap",

@@ -1,7 +1,43 @@
 {
  "date": "2026-11-26",
- "count": 109,
+ "count": 112,
  "items": [
+  {
+   "id": "bossa-pap-443432",
+   "date": "2026-11-26",
+   "time": "10:07",
+   "ts": "2026-11-26T10:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Kazachski holding BI Group wchodzi na polski rynek poprzez partnerstwo z Commercecon",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443432"
+  },
+  {
+   "id": "bossa-pap-443431",
+   "date": "2026-11-26",
+   "time": "10:07",
+   "ts": "2026-11-26T10:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "CANNABIS POLAND SA (15/2026) Zakończenie subskrypcji lub sprzedaży, związanej z wprowadzeniem instrumentów finansowych emitenta do obrotu w alternatywnym systemie",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443431"
+  },
+  {
+   "id": "bossa-espi-271399",
+   "date": "2026-11-26",
+   "time": "10:02",
+   "ts": "2026-11-26T10:02:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MOSTALPLC",
+   "title": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia na dzień 23 grudnia 2026 roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271399"
+  },
   {
    "id": "bossa-pap-443429",
    "date": "2026-11-26",
