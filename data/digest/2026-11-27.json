@@ -4,7 +4,7 @@
   "podsumowania": 10,
   "wyniki": 2,
   "rekomendacje": 2,
-  "korporacyjne": 23,
+  "korporacyjne": 24,
   "makro_pl": 14,
   "swiat_rynki": 4,
   "energetyka_surowce": 2,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 35
  },
- "duplicatesRemoved": 59,
- "total": 156,
+ "duplicatesRemoved": 60,
+ "total": 158,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -155,6 +155,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "12:40",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Molecure S.A.: Podpisanie umowy o dofinansowanie z Agencją Badań Medycznych w ramach konkursu na rozwój projektów badawczo-rozwojowych z obszaru medycyny translacyjnej – TRANSMED I [ABM/2024/8]",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271568",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "12:19",
     "kind": "news",
@@ -654,12 +665,12 @@
     "flags": []
    },
    {
-    "time": "12:18",
-    "kind": "pap",
+    "time": "12:27",
+    "kind": "news",
     "ticker": null,
     "title": "Polski premier nie miałby nic przeciwko unijnemu podatkowi cyfrowemu na największe korporacje",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443787",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/polski-premier-nie-mialby-nic-przeciwko-unijnemu-podatkowi-cyfrowemu-na",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
