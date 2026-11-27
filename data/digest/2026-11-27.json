@@ -6,7 +6,7 @@
   "rekomendacje": 2,
   "korporacyjne": 42,
   "makro_pl": 20,
-  "swiat_rynki": 9,
+  "swiat_rynki": 11,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 11,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 56
  },
- "duplicatesRemoved": 95,
- "total": 255,
+ "duplicatesRemoved": 97,
+ "total": 259,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -821,6 +821,24 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "16:02",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Polska ma utrzymać pozycję największego beneficjenta funduszy UE i wpływy z ETS - premier (opis)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443876",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:48",
+    "kind": "news",
+    "ticker": null,
+    "title": "Po otwarciu sesji DJI rośnie o 0,99 proc., a S&P500 zyskuje 1,11 proc.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/po-otwarciu-sesji-dji-rosnie-o-099-proc-sp500-zyskuje-111-proc",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "15:10",
     "kind": "pap",

@@ -1,7 +1,54 @@
 {
  "date": "2026-11-27",
- "count": 255,
+ "count": 259,
  "items": [
+  {
+   "id": "bossa-pap-443876",
+   "date": "2026-11-27",
+   "time": "16:02",
+   "ts": "2026-11-27T16:02:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Polska ma utrzymać pozycję największego beneficjenta funduszy UE i wpływy z ETS - premier (opis)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443876"
+  },
+  {
+   "id": "bossa-espi-271615",
+   "date": "2026-11-27",
+   "time": "15:56",
+   "ts": "2026-11-27T15:56:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PEKAO BANK HIPOTECZNY",
+   "title": "Powiadomienie o transakcji na instrumentach finansowych Pekao Banku Hipotecznego S.A. dokonanych przez Bank Polska Kasa Opieki S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271615"
+  },
+  {
+   "id": "bossa-pap-443874",
+   "date": "2026-11-27",
+   "time": "15:53",
+   "ts": "2026-11-27T15:53:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Po otwarciu sesji DJI rośnie o 0,99 proc., a S&P500 zyskuje 1,11 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443874"
+  },
+  {
+   "id": "strefa-4518a83a804b",
+   "date": "2026-11-27",
+   "time": "15:48",
+   "ts": "2026-11-27T15:48:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Po otwarciu sesji DJI rośnie o 0,99 proc., a S&P500 zyskuje 1,11 proc.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/po-otwarciu-sesji-dji-rosnie-o-099-proc-sp500-zyskuje-111-proc"
+  },
   {
    "id": "bossa-espi-271614",
    "date": "2026-11-27",
