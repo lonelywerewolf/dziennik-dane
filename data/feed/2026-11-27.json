@@ -1,7 +1,103 @@
 {
  "date": "2026-11-27",
- "count": 190,
+ "count": 199,
  "items": [
+  {
+   "id": "bossa-espi-271588",
+   "date": "2026-11-27",
+   "time": "13:39",
+   "ts": "2026-11-27T13:39:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PGE POLSKA GRUPA ENERGETYCZNA S.A.",
+   "title": "Informacja o transakcji w trybie art. 19 Rozporządzenia MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271588"
+  },
+  {
+   "id": "bossa-pap-443828",
+   "date": "2026-11-27",
+   "time": "13:38",
+   "ts": "2026-11-27T13:38:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Prezydent podpisał ustawę precyzującą zasady liczenia daniny solidarnościowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443828"
+  },
+  {
+   "id": "bossa-pap-443826",
+   "date": "2026-11-27",
+   "time": "13:38",
+   "ts": "2026-11-27T13:38:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Cena maksymalna dla benzyny Pb95 w weekend i w poniedziałek wyniesie 5,77 zł/l, dla ON 7,15 zł/l",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443826"
+  },
+  {
+   "id": "bossa-espi-271587",
+   "date": "2026-11-27",
+   "time": "13:38",
+   "ts": "2026-11-27T13:38:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "GRUPA AZOTY SA",
+   "title": "Rezygnacja Członka Rady Nadzorczej Grupy Azoty S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271587"
+  },
+  {
+   "id": "bossa-pap-443825",
+   "date": "2026-11-27",
+   "time": "13:35",
+   "ts": "2026-11-27T13:35:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Prezydent podpisał ustawę o wsparciu przedsiębiorstw energochłonnych i źródle jego finansowania",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443825"
+  },
+  {
+   "id": "bossa-pap-443824",
+   "date": "2026-11-27",
+   "time": "13:34",
+   "ts": "2026-11-27T13:34:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Prezydent nie podpisze ustawy, która wprowadza nowy próg podatkowy i nową stawkę (opis)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443824"
+  },
+  {
+   "id": "bossa-pap-443823",
+   "date": "2026-11-27",
+   "time": "13:33",
+   "ts": "2026-11-27T13:33:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Asseco Poland wskazuje na koszty narzędzi AI jako jedno z głównych wyzwań",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443823"
+  },
+  {
+   "id": "bossa-pap-443822",
+   "date": "2026-11-27",
+   "time": "13:29",
+   "ts": "2026-11-27T13:29:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MON podpisał z Palantir Technologies umowę na 5 lat za ok. 300 mln USD (opis)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443822"
+  },
   {
    "id": "bossa-espi-271586",
    "date": "2026-11-27",
@@ -13,6 +109,17 @@
    "title": "Raport bieżący nr 239 / 2026",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271586"
+  },
+  {
+   "id": "strefa-ec6a9d0a45be",
+   "date": "2026-11-27",
+   "time": "13:24",
+   "ts": "2026-11-27T13:24:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Asseco Poland wskazuje na koszty narzędzi AI jako jedno z głównych wyzwań",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/asseco-poland-wskazuje-na-koszty-narzedzi-ai-jako-jedno-z-glownych-wyzwan"
   },
   {
    "id": "bossa-pap-443819",
