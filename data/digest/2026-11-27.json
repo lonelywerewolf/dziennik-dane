@@ -4,7 +4,7 @@
   "podsumowania": 8,
   "wyniki": 1,
   "rekomendacje": 1,
-  "korporacyjne": 12,
+  "korporacyjne": 13,
   "makro_pl": 11,
   "swiat_rynki": 3,
   "energetyka_surowce": 1,
@@ -15,7 +15,7 @@
   "pozostale": 19
  },
  "duplicatesRemoved": 40,
- "total": 97,
+ "total": 98,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -117,6 +117,15 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "10:11",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BUMECH DEFENSE PARTNERS S.A.: Informacja o transakcjach na prawach poboru akcji serii E",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271552",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:08",
     "kind": "espi",
