@@ -1,7 +1,127 @@
 {
  "date": "2026-11-27",
- "count": 171,
+ "count": 182,
  "items": [
+  {
+   "id": "bossa-espi-271581",
+   "date": "2026-11-27",
+   "time": "13:17",
+   "ts": "2026-11-27T13:17:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF GOLD PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271581"
+  },
+  {
+   "id": "bossa-espi-271580",
+   "date": "2026-11-27",
+   "time": "13:16",
+   "ts": "2026-11-27T13:16:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 2 x SHORT PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 239 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271580"
+  },
+  {
+   "id": "bossa-espi-271579",
+   "date": "2026-11-27",
+   "time": "13:14",
+   "ts": "2026-11-27T13:14:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF OBLIGACJI SKARBOWYCH ZMIENNOKUPONOWYCH PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271579"
+  },
+  {
+   "id": "bossa-pap-443811",
+   "date": "2026-11-27",
+   "time": "13:12",
+   "ts": "2026-11-27T13:12:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Do Grupy WB dołączyła spółka WB Space; zakłada współpracę m.in. z ESA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443811"
+  },
+  {
+   "id": "bossa-espi-271578",
+   "date": "2026-11-27",
+   "time": "13:12",
+   "ts": "2026-11-27T13:12:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 3 x LEVERAGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 240 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271578"
+  },
+  {
+   "id": "bossa-pap-443808",
+   "date": "2026-11-27",
+   "time": "13:11",
+   "ts": "2026-11-27T13:11:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Prezydent nie podpisze ustawy, która wprowadza nowy próg podatkowy i nową stawkę",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443808"
+  },
+  {
+   "id": "bossa-espi-271577",
+   "date": "2026-11-27",
+   "time": "13:11",
+   "ts": "2026-11-27T13:11:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF OBLIGACJI SKARBOWYCH DŁUGOTERMINOWYCH PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271577"
+  },
+  {
+   "id": "bossa-espi-271576",
+   "date": "2026-11-27",
+   "time": "13:08",
+   "ts": "2026-11-27T13:08:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "06MAGNA",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271576"
+  },
+  {
+   "id": "bossa-pap-443806",
+   "date": "2026-11-27",
+   "time": "13:07",
+   "ts": "2026-11-27T13:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Konsorcjum z Molecure otrzyma 12 mln zł dofinansowania z ABM",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443806"
+  },
+  {
+   "id": "bossa-pap-443805",
+   "date": "2026-11-27",
+   "time": "13:07",
+   "ts": "2026-11-27T13:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "W budownictwie skala niewypłacalności stabilizuje się, transport pod presją kosztów - PFR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443805"
+  },
   {
    "id": "bossa-espi-271575",
    "date": "2026-11-27",
@@ -25,6 +145,17 @@
    "title": "Raport bieżący nr 246 / 2026",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271574"
+  },
+  {
+   "id": "strefa-15e87f3b97c2",
+   "date": "2026-11-27",
+   "time": "13:02",
+   "ts": "2026-11-27T13:02:21+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Konsorcjum z Molecure otrzyma 12 mln zł dofinansowania z ABM",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/konsorcjum-z-molecure-otrzyma-12-mln-zl-dofinansowania-z-abm"
   },
   {
    "id": "bossa-espi-271573",
