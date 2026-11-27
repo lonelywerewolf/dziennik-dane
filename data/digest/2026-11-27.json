@@ -1,11 +1,11 @@
 {
  "date": "2026-11-27",
  "counts": {
-  "podsumowania": 3,
+  "podsumowania": 4,
   "wyniki": 0,
   "rekomendacje": 0,
-  "korporacyjne": 0,
-  "makro_pl": 0,
+  "korporacyjne": 1,
+  "makro_pl": 1,
   "swiat_rynki": 0,
   "energetyka_surowce": 0,
   "nieruchomosci": 0,
@@ -15,10 +15,19 @@
   "pozostale": 1
  },
  "duplicatesRemoved": 0,
- "total": 4,
+ "total": 7,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "06:08",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Przegląd prasy gospodarczej w piątek, 27 listopada",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443678",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "06:00",
     "kind": "pap",
@@ -49,8 +58,30 @@
   ],
   "wyniki": [],
   "rekomendacje": [],
-  "korporacyjne": [],
-  "makro_pl": [],
+  "korporacyjne": [
+   {
+    "time": "06:13",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Hiszpan Pablo Hernandez de Cos kandydatem na nowego prezesa EBC",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443679",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   }
+  ],
+  "makro_pl": [
+   {
+    "time": "06:16",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Przywódcy UE nie osiągnęli porozumienia w sprawie nowego budżetu Unii - Costa",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443680",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "swiat_rynki": [],
   "energetyka_surowce": [],
   "nieruchomosci": [],

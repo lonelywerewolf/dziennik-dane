@@ -1,7 +1,43 @@
 {
  "date": "2026-11-27",
- "count": 4,
+ "count": 7,
  "items": [
+  {
+   "id": "bossa-pap-443680",
+   "date": "2026-11-27",
+   "time": "06:16",
+   "ts": "2026-11-27T06:16:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Przywódcy UE nie osiągnęli porozumienia w sprawie nowego budżetu Unii - Costa",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443680"
+  },
+  {
+   "id": "bossa-pap-443679",
+   "date": "2026-11-27",
+   "time": "06:13",
+   "ts": "2026-11-27T06:13:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Hiszpan Pablo Hernandez de Cos kandydatem na nowego prezesa EBC",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443679"
+  },
+  {
+   "id": "bossa-pap-443678",
+   "date": "2026-11-27",
+   "time": "06:08",
+   "ts": "2026-11-27T06:08:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Przegląd prasy gospodarczej w piątek, 27 listopada",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443678"
+  },
   {
    "id": "bossa-pap-443677",
    "date": "2026-11-27",
