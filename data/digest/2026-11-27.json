@@ -4,7 +4,7 @@
   "podsumowania": 10,
   "wyniki": 2,
   "rekomendacje": 2,
-  "korporacyjne": 25,
+  "korporacyjne": 27,
   "makro_pl": 14,
   "swiat_rynki": 4,
   "energetyka_surowce": 2,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 5,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 35
+  "pozostale": 38
  },
- "duplicatesRemoved": 64,
- "total": 165,
+ "duplicatesRemoved": 65,
+ "total": 171,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -155,6 +155,28 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "13:05",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ENEA: Zmiany w składzie Zarządu Enea S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271575",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "13:01",
+    "kind": "espi",
+    "ticker": null,
+    "title": "FEERUM S.A.: Informacja o zawarciu umowy na wykonanie obiektu magazynowo-suszarniczego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271573",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "12:46",
     "kind": "pap",
@@ -684,6 +706,33 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:57",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeksy transakcyjne - POLSTR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443801",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:57",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeksy transakcyjne - WIRON",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443800",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:51",
+    "kind": "news",
+    "ticker": null,
+    "title": "Przed nami 3. edycja Warsaw Structured Products & Derivatives Conference",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/przed-nami-3-edycja-warsaw-structured-products-derivatives-conference",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "12:32",
     "kind": "espi",

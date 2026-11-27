@@ -1,7 +1,67 @@
 {
  "date": "2026-11-27",
- "count": 165,
+ "count": 171,
  "items": [
+  {
+   "id": "bossa-espi-271575",
+   "date": "2026-11-27",
+   "time": "13:05",
+   "ts": "2026-11-27T13:05:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ENEA",
+   "title": "Zmiany w składzie Zarządu Enea S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271575"
+  },
+  {
+   "id": "bossa-espi-271574",
+   "date": "2026-11-27",
+   "time": "13:03",
+   "ts": "2026-11-27T13:03:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF DYWIDENDA PLUS PORTFELOW FIZ",
+   "title": "Raport bieżący nr 246 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271574"
+  },
+  {
+   "id": "bossa-espi-271573",
+   "date": "2026-11-27",
+   "time": "13:01",
+   "ts": "2026-11-27T13:01:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "FEERUM S.A.",
+   "title": "Informacja o zawarciu umowy na wykonanie obiektu magazynowo-suszarniczego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271573"
+  },
+  {
+   "id": "bossa-pap-443801",
+   "date": "2026-11-27",
+   "time": "12:57",
+   "ts": "2026-11-27T12:57:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeksy transakcyjne - POLSTR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443801"
+  },
+  {
+   "id": "bossa-pap-443800",
+   "date": "2026-11-27",
+   "time": "12:57",
+   "ts": "2026-11-27T12:57:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeksy transakcyjne - WIRON",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443800"
+  },
   {
    "id": "bossa-espi-271572",
    "date": "2026-11-27",
@@ -25,6 +85,17 @@
    "title": "WANCI-E_30.04.18",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271571"
+  },
+  {
+   "id": "strefa-2733b869ef50",
+   "date": "2026-11-27",
+   "time": "12:51",
+   "ts": "2026-11-27T12:51:22+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Przed nami 3. edycja Warsaw Structured Products & Derivatives Conference",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/przed-nami-3-edycja-warsaw-structured-products-derivatives-conference"
   },
   {
    "id": "bossa-pap-443797",
