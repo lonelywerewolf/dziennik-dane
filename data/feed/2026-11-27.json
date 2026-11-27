@@ -1,7 +1,78 @@
 {
  "date": "2026-11-27",
- "count": 56,
+ "count": 62,
  "items": [
+  {
+   "id": "bossa-pap-443721",
+   "date": "2026-11-27",
+   "time": "09:00",
+   "ts": "2026-11-27T09:00:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Komponenty WWK wskazują na stabilizację w gospodarce - BIEC",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443721"
+  },
+  {
+   "id": "bossa-pap-443720",
+   "date": "2026-11-27",
+   "time": "08:57",
+   "ts": "2026-11-27T08:57:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Modivo notuje w listopadzie wzrost sprzedaży o 34 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443720"
+  },
+  {
+   "id": "bossa-espi-271540",
+   "date": "2026-11-27",
+   "time": "08:56",
+   "ts": "2026-11-27T08:56:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "SYNEKTIK S.A.",
+   "title": "Informacja o zawarciu istotnej umowy sprzedaży",
+   "ticker": "SNT",
+   "url": "https://bossa.pl/analizy/komunikaty#message-271540"
+  },
+  {
+   "id": "bossa-espi-271539",
+   "date": "2026-11-27",
+   "time": "08:54",
+   "ts": "2026-11-27T08:54:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KANCELARIA PRAWNA - INKASO WEC S.A.",
+   "title": "Powiadomienie o transakcjach na akcjach Spółki wykonywanych przez osoby pełniące obowiązki zarządcze.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271539"
+  },
+  {
+   "id": "bossa-pap-443717",
+   "date": "2026-11-27",
+   "time": "08:53",
+   "ts": "2026-11-27T08:53:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PKB Francji w III kw.: -0,2 proc. kdk. poprzednie wyliczenie: -0,1 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443717"
+  },
+  {
+   "id": "strefa-e4bb03270377",
+   "date": "2026-11-27",
+   "time": "08:51",
+   "ts": "2026-11-27T08:51:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Modivo notuje w listopadzie wzrost sprzedaży o 34 proc.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/modivo-notuje-w-listopadzie-wzrost-sprzedazy-o-34-proc"
+  },
   {
    "id": "bossa-pap-443716",
    "date": "2026-11-27",

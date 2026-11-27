@@ -5,17 +5,17 @@
   "wyniki": 0,
   "rekomendacje": 1,
   "korporacyjne": 5,
-  "makro_pl": 4,
+  "makro_pl": 5,
   "swiat_rynki": 0,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
-  "twoje_spolki": 0,
+  "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 11
+  "pozostale": 13
  },
- "duplicatesRemoved": 28,
- "total": 56,
+ "duplicatesRemoved": 30,
+ "total": 62,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -146,6 +146,15 @@
   ],
   "makro_pl": [
    {
+    "time": "08:53",
+    "kind": "pap",
+    "ticker": null,
+    "title": "PKB Francji w III kw.: -0,2 proc. kdk. poprzednie wyliczenie: -0,1 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443717",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "08:49",
     "kind": "pap",
     "ticker": null,
@@ -196,9 +205,39 @@
   ],
   "nieruchomosci": [],
   "fundusze_drobne": [],
-  "twoje_spolki": [],
+  "twoje_spolki": [
+   {
+    "time": "08:56",
+    "kind": "espi",
+    "ticker": "SNT",
+    "title": "SYNEKTIK S.A.: Informacja o zawarciu istotnej umowy sprzedaży",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271540",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   }
+  ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:00",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Komponenty WWK wskazują na stabilizację w gospodarce - BIEC",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443721",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "08:51",
+    "kind": "news",
+    "ticker": null,
+    "title": "Modivo notuje w listopadzie wzrost sprzedaży o 34 proc.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/modivo-notuje-w-listopadzie-wzrost-sprzedazy-o-34-proc",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:47",
     "kind": "news",
