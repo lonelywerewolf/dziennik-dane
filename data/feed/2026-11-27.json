@@ -1,7 +1,67 @@
 {
  "date": "2026-11-27",
- "count": 213,
+ "count": 219,
  "items": [
+  {
+   "id": "bossa-espi-271601",
+   "date": "2026-11-27",
+   "time": "14:18",
+   "ts": "2026-11-27T14:18:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Bowim",
+   "title": "Podpisanie przez Emitenta Aneksu do Umowy kredytowej z mBank S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271601"
+  },
+  {
+   "id": "bossa-espi-271600",
+   "date": "2026-11-27",
+   "time": "14:18",
+   "ts": "2026-11-27T14:18:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "LENTEX",
+   "title": "Powzięcie przez Spółkę informacji o wydaniu wyroku oddalającego powództwo akcjonariusza Spółki przeciwko Spółce, dotyczące zaskarżenia Uchwały nr 24 Zwyczajnego Walnego Zgromadzenia Spółki z dnia 20 maja 2025 r",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271600"
+  },
+  {
+   "id": "bossa-pap-443840",
+   "date": "2026-11-27",
+   "time": "14:13",
+   "ts": "2026-11-27T14:13:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Obroty w e-handlu w październiku wzrosły o 2,3 proc. mdm do 9,094 mld zł - KIG",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443840"
+  },
+  {
+   "id": "bossa-espi-271599",
+   "date": "2026-11-27",
+   "time": "14:13",
+   "ts": "2026-11-27T14:13:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "COLUMBUS ENERGY S.A.",
+   "title": "Złożenie pozwu o zapłatę przeciwko Wojewódzkiemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej we Wrocławiu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271599"
+  },
+  {
+   "id": "bossa-pap-443842",
+   "date": "2026-11-27",
+   "time": "14:11",
+   "ts": "2026-11-27T14:11:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "EXCELLENCE SA (14/2026) Rejestracja przez sąd zmiany statutu emitenta lub odmowie takiej rejestracji, z podaniem przyczyn odmowy",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443842"
+  },
   {
    "id": "bossa-espi-271597",
    "date": "2026-11-27",
@@ -37,6 +97,17 @@
    "title": "Pomyślne spotkanie Pre-IND z amerykańską FDA dotyczące CD20 przyspiesza i wzmacnia współpracę z Oddifact. Jej ostateczna struktura zostanie ustalona w I kwartale 2027 r.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271595"
+  },
+  {
+   "id": "strefa-45d7899fd649",
+   "date": "2026-11-27",
+   "time": "14:07",
+   "ts": "2026-11-27T14:07:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Molecure otrzyma 6,9 mln zł dofinansowania z ABM na rozwój innowacyjnego inhibitora USP7 w terapii nowotworów krwi",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/molecure-otrzyma-69-mln-zl-dofinansowania-z-abm-na-rozwoj-innowacyjnego"
   },
   {
    "id": "bossa-pap-443836",

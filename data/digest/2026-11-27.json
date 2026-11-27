@@ -4,18 +4,18 @@
   "podsumowania": 10,
   "wyniki": 3,
   "rekomendacje": 2,
-  "korporacyjne": 32,
+  "korporacyjne": 34,
   "makro_pl": 17,
-  "swiat_rynki": 6,
+  "swiat_rynki": 7,
   "energetyka_surowce": 2,
   "nieruchomosci": 0,
   "fundusze_drobne": 5,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 47
+  "pozostale": 50
  },
  "duplicatesRemoved": 87,
- "total": 213,
+ "total": 219,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -164,6 +164,28 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "14:18",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Bowim: Podpisanie przez Emitenta Aneksu do Umowy kredytowej z mBank S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271601",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "14:18",
+    "kind": "espi",
+    "ticker": null,
+    "title": "LENTEX: Powzięcie przez Spółkę informacji o wydaniu wyroku oddalającego powództwo akcjonariusza Spółki przeciwko Spółce, dotyczące zaskarżenia Uchwały nr 24 Zwyczajnego Walnego Zgromadzenia Spółki z dnia 20 maja 2025 r",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271600",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "14:08",
     "kind": "espi",
@@ -667,6 +689,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "14:13",
+    "kind": "espi",
+    "ticker": null,
+    "title": "COLUMBUS ENERGY S.A.: Złożenie pozwu o zapłatę przeciwko Wojewódzkiemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej we Wrocławiu",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271599",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "13:51",
     "kind": "espi",
     "ticker": null,
@@ -814,12 +845,39 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "14:13",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Obroty w e-handlu w październiku wzrosły o 2,3 proc. mdm do 9,094 mld zł - KIG",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443840",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:11",
+    "kind": "pap",
+    "ticker": null,
+    "title": "EXCELLENCE SA (14/2026) Rejestracja przez sąd zmiany statutu emitenta lub odmowie takiej rejestracji, z podaniem przyczyn odmowy",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443842",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "14:08",
     "kind": "espi",
     "ticker": null,
     "title": "MABION S.A.: Pomyślne spotkanie Pre-IND z amerykańską FDA dotyczące CD20 przyspiesza i wzmacnia współpracę z Oddifact. Jej ostateczna struktura zostanie ustalona w I kwartale 2027 r.",
     "url": "https://bossa.pl/analizy/komunikaty#message-271595",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:07",
+    "kind": "news",
+    "ticker": null,
+    "title": "Molecure otrzyma 6,9 mln zł dofinansowania z ABM na rozwój innowacyjnego inhibitora USP7 w terapii nowotworów krwi",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/molecure-otrzyma-69-mln-zl-dofinansowania-z-abm-na-rozwoj-innowacyjnego",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
