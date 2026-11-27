@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 6
+  "pozostale": 8
  },
- "duplicatesRemoved": 15,
- "total": 33,
+ "duplicatesRemoved": 19,
+ "total": 39,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -151,6 +151,24 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "08:13",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PLAY2CHILL S.A.: Wyznaczenie daty premiery darmowego prologu do Car Rental Simulator na 17 grudnia br.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271533",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "08:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Sonel chce w IV kw. utrzymać tempo wzrostu sprzedaży mierników",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/sonel-chce-w-iv-kw-utrzymac-tempo-wzrostu-sprzedazy-miernikow",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "07:35",
     "kind": "pap",

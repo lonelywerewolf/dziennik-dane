@@ -1,7 +1,67 @@
 {
  "date": "2026-11-27",
- "count": 33,
+ "count": 39,
  "items": [
+  {
+   "id": "bossa-espi-271535",
+   "date": "2026-11-27",
+   "time": "08:17",
+   "ts": "2026-11-27T08:17:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "TESGAS S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271535"
+  },
+  {
+   "id": "bossa-espi-271534",
+   "date": "2026-11-27",
+   "time": "08:16",
+   "ts": "2026-11-27T08:16:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "QUANTUM SOFTWARE SA",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271534"
+  },
+  {
+   "id": "bossa-pap-443703",
+   "date": "2026-11-27",
+   "time": "08:14",
+   "ts": "2026-11-27T08:14:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Sonel chce w IV kw. utrzymać tempo wzrostu sprzedaży mierników",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443703"
+  },
+  {
+   "id": "bossa-espi-271533",
+   "date": "2026-11-27",
+   "time": "08:13",
+   "ts": "2026-11-27T08:13:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PLAY2CHILL S.A.",
+   "title": "Wyznaczenie daty premiery darmowego prologu do Car Rental Simulator na 17 grudnia br.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271533"
+  },
+  {
+   "id": "bossa-espi-271532",
+   "date": "2026-11-27",
+   "time": "08:08",
+   "ts": "2026-11-27T08:08:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZ CORMAY S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271532"
+  },
   {
    "id": "bossa-espi-271531",
    "date": "2026-11-27",
@@ -13,6 +73,17 @@
    "title": "Powiadomienie o transakcjach na akcjach Spółki dokonanych przez osobę pełniącą obowiązki zarządcze",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271531"
+  },
+  {
+   "id": "strefa-6254bc4a7de9",
+   "date": "2026-11-27",
+   "time": "08:01",
+   "ts": "2026-11-27T08:01:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Sonel chce w IV kw. utrzymać tempo wzrostu sprzedaży mierników",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/sonel-chce-w-iv-kw-utrzymac-tempo-wzrostu-sprzedazy-miernikow"
   },
   {
    "id": "bossa-pap-443699",
