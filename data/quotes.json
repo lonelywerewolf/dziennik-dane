@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T19:55:12+01:00",
+ "updatedAt": "2026-11-27T20:06:12+01:00",
  "q": {
   "ASB": {
    "date": "2026-11-27",
@@ -136,9 +136,9 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/asml",
    "chg": -2.47,
    "live": {
-    "price": 1327.5,
-    "chgPct": 1.87,
-    "at": "2026-11-27T13:01:28.681844086-05:00",
+    "price": 1317.99,
+    "chgPct": 1.14,
+    "at": "2026-11-27T13:58:17.023853492-05:00",
     "src": "https://www.tiingo.com/asml/overview",
     "via": "tiingo"
    }
@@ -192,9 +192,9 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/nvda",
    "chg": -3.91,
    "live": {
-    "price": 149.64,
-    "chgPct": 0.23,
-    "at": "2026-11-27T13:42:45.408412003-05:00",
+    "price": 149.52,
+    "chgPct": 0.15,
+    "at": "2026-11-27T13:57:08.605615360-05:00",
     "src": "https://www.tiingo.com/nvda/overview",
     "via": "tiingo"
    }
@@ -220,9 +220,9 @@
    "src": "https://www.nasdaq.com/market-activity/stocks/vrt",
    "chg": -0.26,
    "live": {
-    "price": 178.64,
-    "chgPct": 3.04,
-    "at": "2026-11-27T13:48:05.341037958-05:00",
+    "price": 178.4,
+    "chgPct": 2.9,
+    "at": "2026-11-27T13:55:47.904685393-05:00",
     "src": "https://www.tiingo.com/vrt/overview",
     "via": "tiingo"
    }
