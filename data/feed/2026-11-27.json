@@ -1,7 +1,91 @@
 {
  "date": "2026-11-27",
- "count": 182,
+ "count": 190,
  "items": [
+  {
+   "id": "bossa-espi-271586",
+   "date": "2026-11-27",
+   "time": "13:28",
+   "ts": "2026-11-27T13:28:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF sWIG80TR PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 239 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271586"
+  },
+  {
+   "id": "bossa-pap-443819",
+   "date": "2026-11-27",
+   "time": "13:24",
+   "ts": "2026-11-27T13:24:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Prezydent po raz drugi zawetował podwyżkę opłaty cukrowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443819"
+  },
+  {
+   "id": "bossa-espi-271585",
+   "date": "2026-11-27",
+   "time": "13:24",
+   "ts": "2026-11-27T13:24:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF WIG20 TR + mWIG40 TR PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271585"
+  },
+  {
+   "id": "bossa-espi-271584",
+   "date": "2026-11-27",
+   "time": "13:24",
+   "ts": "2026-11-27T13:24:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF S&P 500 PLN-HEDGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 239 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271584"
+  },
+  {
+   "id": "bossa-pap-443817",
+   "date": "2026-11-27",
+   "time": "13:23",
+   "ts": "2026-11-27T13:23:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Diagnostyka pracuje nad zacieśnieniem polityki finansowej i optymalizacją kosztów",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443817"
+  },
+  {
+   "id": "bossa-espi-271583",
+   "date": "2026-11-27",
+   "time": "13:21",
+   "ts": "2026-11-27T13:21:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU ETF MSCI WORLD PORTFELOWY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271583"
+  },
+  {
+   "id": "bossa-espi-271582",
+   "date": "2026-11-27",
+   "time": "13:20",
+   "ts": "2026-11-27T13:20:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF MWIG40TRsh PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 228 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271582"
+  },
   {
    "id": "bossa-espi-271581",
    "date": "2026-11-27",
@@ -85,6 +169,17 @@
    "title": "WANCI-E_30.04.18",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271577"
+  },
+  {
+   "id": "strefa-7c80abce4c22",
+   "date": "2026-11-27",
+   "time": "13:08",
+   "ts": "2026-11-27T13:08:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Diagnostyka pracuje nad zacieśnieniem polityki finansowej i optymalizacją kosztów",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/diagnostyka-pracuje-nad-zaciesnieniem-polityki-finansowej-i-optymalizacja"
   },
   {
    "id": "bossa-espi-271576",
