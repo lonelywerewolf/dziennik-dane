@@ -1,7 +1,31 @@
 {
  "date": "2026-11-27",
- "count": 199,
+ "count": 201,
  "items": [
+  {
+   "id": "bossa-espi-271590",
+   "date": "2026-11-27",
+   "time": "13:49",
+   "ts": "2026-11-27T13:49:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF WIG20TR PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 240 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271590"
+  },
+  {
+   "id": "bossa-espi-271589",
+   "date": "2026-11-27",
+   "time": "13:44",
+   "ts": "2026-11-27T13:44:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF TBSP PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 240 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271589"
+  },
   {
    "id": "bossa-espi-271588",
    "date": "2026-11-27",
