@@ -1,7 +1,7 @@
 {
  "date": "2026-11-27",
  "counts": {
-  "podsumowania": 4,
+  "podsumowania": 5,
   "wyniki": 0,
   "rekomendacje": 1,
   "korporacyjne": 4,
@@ -12,13 +12,24 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 8
+  "pozostale": 9
  },
- "duplicatesRemoved": 21,
- "total": 42,
+ "duplicatesRemoved": 23,
+ "total": 46,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "08:35",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Kontrakty w Europie na plusach; giełdy w Azji głównie zwyżkują",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/dzien-na-rynkach-kontrakty-w-europie-na-plusach-gieldy-w-azji-glownie-zwyzkuja",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "07:01",
     "kind": "news",
@@ -161,6 +172,15 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "08:15",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa CCC miała w III kw. 2026/27 r. 5,1 mln zł zysku netto j. d. wobec 52,5 mln zł zysku rok wcześniej",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/grupa-ccc-miala-w-iii-kw-202627-r-51-mln-zl-zysku-netto-j-d-wobec-525-mln-zl",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:13",
     "kind": "espi",
