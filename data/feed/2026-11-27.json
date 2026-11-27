@@ -1,7 +1,31 @@
 {
  "date": "2026-11-27",
- "count": 279,
+ "count": 281,
  "items": [
+  {
+   "id": "bossa-pap-443894",
+   "date": "2026-11-27",
+   "time": "16:53",
+   "ts": "2026-11-27T16:53:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MFiPR nie identyfikuje obecnie ryzyka dla wypłat środków UE",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443894"
+  },
+  {
+   "id": "bossa-pap-443893",
+   "date": "2026-11-27",
+   "time": "16:51",
+   "ts": "2026-11-27T16:51:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Niemiecki Bundestag uchwalił budżet na 2027 rok, wydatki na poziomie 556 mld euro",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443893"
+  },
   {
    "id": "bossa-espi-271624",
    "date": "2026-11-27",

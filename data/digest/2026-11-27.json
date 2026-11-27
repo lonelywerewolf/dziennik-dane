@@ -5,17 +5,17 @@
   "wyniki": 5,
   "rekomendacje": 2,
   "korporacyjne": 43,
-  "makro_pl": 22,
+  "makro_pl": 23,
   "swiat_rynki": 12,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 13,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 62
+  "pozostale": 63
  },
  "duplicatesRemoved": 103,
- "total": 279,
+ "total": 281,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -665,6 +665,15 @@
   ],
   "makro_pl": [
    {
+    "time": "16:51",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Niemiecki Bundestag uchwalił budżet na 2027 rok, wydatki na poziomie 556 mld euro",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443893",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "16:25",
     "kind": "pap",
     "ticker": null,
@@ -1150,6 +1159,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "16:53",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MFiPR nie identyfikuje obecnie ryzyka dla wypłat środków UE",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443894",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:45",
     "kind": "espi",
