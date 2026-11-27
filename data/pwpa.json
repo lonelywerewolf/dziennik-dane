@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "date": "2026-11-27",
+   "ticker": "TXT",
+   "company": "TEXT S.A.",
+   "file": "20261127_pko_bank_polski_txt_pl_ra.pdf",
+   "url": "https://www.gpw.pl/pub/pwpa/20261127_pko_bank_polski_txt_pl_ra.pdf",
+   "type": "raport aktualizujący",
+   "house": "PKO Bank Polski S.A."
+  },
+  {
    "date": "2026-11-26",
    "ticker": "TXT",
    "company": "TEXT S.A.",
@@ -832,5 +841,5 @@
    "house": "Noble Securities S.A."
   }
  ],
- "updatedAt": "2026-11-27T07:56:30+01:00"
+ "updatedAt": "2026-11-27T08:07:30+01:00"
 }
