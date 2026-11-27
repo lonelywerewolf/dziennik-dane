@@ -1,7 +1,67 @@
 {
  "date": "2026-11-27",
- "count": 331,
+ "count": 336,
  "items": [
+  {
+   "id": "bossa-espi-271660",
+   "date": "2026-11-27",
+   "time": "17:51",
+   "ts": "2026-11-27T17:51:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "SFINKS POLSKA S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271660"
+  },
+  {
+   "id": "bossa-pap-443939",
+   "date": "2026-11-27",
+   "time": "17:47",
+   "ts": "2026-11-27T17:47:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA FX/FI: EUR/PLN zawrócił z rekordowych poziomów; rentowności SPW z kolejną zniżką",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443939"
+  },
+  {
+   "id": "bossa-espi-271659",
+   "date": "2026-11-27",
+   "time": "17:47",
+   "ts": "2026-11-27T17:47:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "INVESTMENT FRIENDS CAPITAL SE",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271659"
+  },
+  {
+   "id": "bossa-espi-271658",
+   "date": "2026-11-27",
+   "time": "17:47",
+   "ts": "2026-11-27T17:47:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ZAMET S.A.",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271658"
+  },
+  {
+   "id": "bossa-espi-271657",
+   "date": "2026-11-27",
+   "time": "17:46",
+   "ts": "2026-11-27T17:46:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "DGA",
+   "title": "Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271657"
+  },
   {
    "id": "bossa-espi-271656",
    "date": "2026-11-27",
