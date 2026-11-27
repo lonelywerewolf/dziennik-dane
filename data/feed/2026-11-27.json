@@ -1,7 +1,42 @@
 {
  "date": "2026-11-27",
- "count": 72,
+ "count": 75,
  "items": [
+  {
+   "id": "bossa-espi-271544",
+   "date": "2026-11-27",
+   "time": "09:34",
+   "ts": "2026-11-27T09:34:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "XTPL S.A.",
+   "title": "Zawiadomienie otrzymane w trybie art. 69 ustawy o ofercie publicznej.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271544"
+  },
+  {
+   "id": "bossa-pap-443729",
+   "date": "2026-11-27",
+   "time": "09:31",
+   "ts": "2026-11-27T09:31:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA FX/FI: Złoty może kończyć tydzień nieco mocniejszy, rentowności obligacji mogą wzrosnąć",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443729"
+  },
+  {
+   "id": "strefa-080c0a68dc44",
+   "date": "2026-11-27",
+   "time": "09:24",
+   "ts": "2026-11-27T09:24:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA FX/FI: Złoty może kończyć tydzień nieco mocniejszy, rentowności obligacji mogą wzrosnąć",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/dzien-na-fxfi-zloty-moze-konczyc-tydzien-nieco-mocniejszy-rentownosci-obligacji"
+  },
   {
    "id": "strefa-2e1b0dc14d75",
    "date": "2026-11-27",

@@ -1,10 +1,10 @@
 {
  "date": "2026-11-27",
  "counts": {
-  "podsumowania": 7,
+  "podsumowania": 8,
   "wyniki": 1,
   "rekomendacje": 1,
-  "korporacyjne": 7,
+  "korporacyjne": 8,
   "makro_pl": 6,
   "swiat_rynki": 1,
   "energetyka_surowce": 1,
@@ -14,11 +14,20 @@
   "obserwowane": 0,
   "pozostale": 15
  },
- "duplicatesRemoved": 32,
- "total": 72,
+ "duplicatesRemoved": 33,
+ "total": 75,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "09:24",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA FX/FI: Złoty może kończyć tydzień nieco mocniejszy, rentowności obligacji mogą wzrosnąć",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/dzien-na-fxfi-zloty-moze-konczyc-tydzien-nieco-mocniejszy-rentownosci-obligacji",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:16",
     "kind": "pap",
@@ -108,6 +117,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "09:34",
+    "kind": "espi",
+    "ticker": null,
+    "title": "XTPL S.A.: Zawiadomienie otrzymane w trybie art. 69 ustawy o ofercie publicznej.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271544",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "09:19",
     "kind": "espi",
