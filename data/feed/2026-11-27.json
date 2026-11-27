@@ -1,7 +1,77 @@
 {
  "date": "2026-11-27",
- "count": 342,
+ "count": 349,
  "items": [
+  {
+   "id": "bossa-pap-443948",
+   "date": "2026-11-27",
+   "time": "18:15",
+   "ts": "2026-11-27T18:15:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "ZE PAK miał w III kw. 49,1 mln zł straty netto j.d., wobec 39,6 mln zł straty rok wcześniej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443948"
+  },
+  {
+   "id": "bossa-espi-271664",
+   "date": "2026-11-27",
+   "time": "18:11",
+   "ts": "2026-11-27T18:11:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ENERGY S.A.",
+   "title": "Zmiana założeń lokalizacyjnych projektu budowy bateryjnego magazynu energii elektrycznej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271664"
+  },
+  {
+   "id": "bossa-pap-443950",
+   "date": "2026-11-27",
+   "time": "18:09",
+   "ts": "2026-11-27T18:09:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Transakcje pakietowe",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443950"
+  },
+  {
+   "id": "strefa-c3f7265cabf7",
+   "date": "2026-11-27",
+   "time": "18:06",
+   "ts": "2026-11-27T18:06:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA RYNKACH: Wzrosty na giełdach w Europie pod koniec burzliwego tygodnia",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/dzien-na-rynkach-wzrosty-na-gieldach-w-europie-pod-koniec-burzliwego-tygodnia"
+  },
+  {
+   "id": "strefa-5fad505c185d",
+   "date": "2026-11-27",
+   "time": "18:06",
+   "ts": "2026-11-27T18:06:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Zamknięcia na giełdach w Europie (tabela)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/zamkniecia-na-gieldach-w-europie-tabela"
+  },
+  {
+   "id": "bossa-pap-443951",
+   "date": "2026-11-27",
+   "time": "18:06",
+   "ts": "2026-11-27T18:06:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA RYNKACH: Wzrosty na giełdach w Europie pod koniec burzliwego tygodnia",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443951"
+  },
   {
    "id": "bossa-espi-271663",
    "date": "2026-11-27",
@@ -49,6 +119,17 @@
    "title": "Skonsolidowany zysk netto Skarbiec Holding za trzy kwartały '26 wyniósł 33,2 mln zł",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-443944"
+  },
+  {
+   "id": "strefa-7f78457111ce",
+   "date": "2026-11-27",
+   "time": "17:55",
+   "ts": "2026-11-27T17:55:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Skonsolidowany zysk netto Skarbiec Holding za trzy kwartały '26 wyniósł 33,2 mln zł",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/skonsolidowany-zysk-netto-skarbiec-holding-za-trzy-kwartaly-26-wyniosl-332-mln"
   },
   {
    "id": "bossa-espi-271661",

@@ -1,12 +1,12 @@
 {
  "date": "2026-11-27",
  "counts": {
-  "podsumowania": 16,
-  "wyniki": 7,
+  "podsumowania": 17,
+  "wyniki": 8,
   "rekomendacje": 2,
-  "korporacyjne": 52,
+  "korporacyjne": 53,
   "makro_pl": 23,
-  "swiat_rynki": 13,
+  "swiat_rynki": 14,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 13,
@@ -14,11 +14,20 @@
   "obserwowane": 0,
   "pozostale": 69
  },
- "duplicatesRemoved": 142,
- "total": 342,
+ "duplicatesRemoved": 145,
+ "total": 349,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "18:06",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Wzrosty na giełdach w Europie pod koniec burzliwego tygodnia",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/dzien-na-rynkach-wzrosty-na-gieldach-w-europie-pod-koniec-burzliwego-tygodnia",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "17:33",
     "kind": "pap",
@@ -174,12 +183,21 @@
   ],
   "wyniki": [
    {
-    "time": "17:59",
+    "time": "18:15",
     "kind": "pap",
     "ticker": null,
-    "title": "Skonsolidowany zysk netto Skarbiec Holding za trzy kwartały '26 wyniósł 33,2 mln zł",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443944",
+    "title": "ZE PAK miał w III kw. 49,1 mln zł straty netto j.d., wobec 39,6 mln zł straty rok wcześniej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443948",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "Skonsolidowany zysk netto Skarbiec Holding za trzy kwartały '26 wyniósł 33,2 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/skonsolidowany-zysk-netto-skarbiec-holding-za-trzy-kwartaly-26-wyniosl-332-mln",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -260,6 +278,15 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "18:09",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Transakcje pakietowe",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443950",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:03",
     "kind": "espi",
@@ -1032,6 +1059,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "18:11",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ENERGY S.A.: Zmiana założeń lokalizacyjnych projektu budowy bateryjnego magazynu energii elektrycznej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271664",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "17:14",
     "kind": "news",
     "ticker": null,
@@ -1323,12 +1359,12 @@
   "obserwowane": [],
   "pozostale": [
    {
-    "time": "18:01",
-    "kind": "pap",
+    "time": "18:06",
+    "kind": "news",
     "ticker": null,
     "title": "Zamknięcia na giełdach w Europie (tabela)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443945",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/zamkniecia-na-gieldach-w-europie-tabela",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
