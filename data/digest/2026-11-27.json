@@ -4,18 +4,18 @@
   "podsumowania": 11,
   "wyniki": 3,
   "rekomendacje": 2,
-  "korporacyjne": 36,
-  "makro_pl": 17,
-  "swiat_rynki": 8,
+  "korporacyjne": 38,
+  "makro_pl": 19,
+  "swiat_rynki": 9,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
-  "fundusze_drobne": 8,
+  "fundusze_drobne": 9,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 54
+  "pozostale": 55
  },
  "duplicatesRemoved": 89,
- "total": 233,
+ "total": 240,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -175,6 +175,28 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "15:16",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ATAL S.A.: Pierwsze zawiadomienie akcjonariuszy o zamiarze połączenia ATAL S.A. ze spółkami zależnymi.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271609",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
+   {
+    "time": "15:15",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SYNTHAVERSE SA: Zawarcie umowy objęcia akcji serii X",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271608",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "14:59",
     "kind": "espi",
@@ -561,6 +583,24 @@
   ],
   "makro_pl": [
    {
+    "time": "15:13",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wysokie rentowności obligacji skarbowych są konkurencją dla obligacji dużych spółek - Michael/Ström TFI",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443859",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:09",
+    "kind": "pap",
+    "ticker": null,
+    "title": "KPRM: Przyszły budżet UE – Polska zabezpiecza swoje interesy w negocjacjach (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443861",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "13:52",
     "kind": "news",
     "ticker": null,
@@ -720,6 +760,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "15:10",
+    "kind": "pap",
+    "ticker": null,
+    "title": "NFOŚiGW konsultuje wart 1 mld zł program budowy spalarni odpadów niebezpiecznych z odzyskiem energii",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443860",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "14:33",
     "kind": "pap",
     "ticker": null,
@@ -824,6 +873,15 @@
   "nieruchomosci": [],
   "fundusze_drobne": [
    {
+    "time": "15:16",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GENERALI OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443863",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "14:58",
     "kind": "pap",
     "ticker": null,
@@ -920,6 +978,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "15:13",
+    "kind": "espi",
+    "ticker": null,
+    "title": "LC S.A.: Q",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271607",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:03",
     "kind": "espi",
