@@ -1,7 +1,31 @@
 {
  "date": "2026-11-27",
- "count": 128,
+ "count": 131,
  "items": [
+  {
+   "id": "bossa-pap-443773",
+   "date": "2026-11-27",
+   "time": "11:33",
+   "ts": "2026-11-27T11:33:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MC: AI Act – nowe zasady korzystania ze sztucznej inteligencji od 2 grudnia (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443773"
+  },
+  {
+   "id": "bossa-pap-443772",
+   "date": "2026-11-27",
+   "time": "11:31",
+   "ts": "2026-11-27T11:31:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Jest zobowiązanie przywódców UE, że pieniądze z ETS zostaną w Polsce - premier",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443772"
+  },
   {
    "id": "bossa-pap-443771",
    "date": "2026-11-27",
@@ -13,6 +37,17 @@
    "title": "Erste BP przystąpił jako emitent do Programu MIP",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-443771"
+  },
+  {
+   "id": "strefa-f03ebe7042e7",
+   "date": "2026-11-27",
+   "time": "11:26",
+   "ts": "2026-11-27T11:26:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Jest zobowiązanie przywódców UE, że pieniądze z ETS zostaną w Polsce - premier",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/jest-zobowiazanie-przywodcow-ue-ze-pieniadze-z-ets-zostana-w-polsce-premier"
   },
   {
    "id": "bossa-pap-443770",

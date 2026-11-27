@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 28
+  "pozostale": 30
  },
- "duplicatesRemoved": 50,
- "total": 128,
+ "duplicatesRemoved": 51,
+ "total": 131,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -526,12 +526,30 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "11:33",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MC: AI Act – nowe zasady korzystania ze sztucznej inteligencji od 2 grudnia (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443773",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "11:27",
     "kind": "pap",
     "ticker": null,
     "title": "Erste BP przystąpił jako emitent do Programu MIP",
     "url": "https://bossa.pl/analizy/komunikaty#message-443771",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:26",
+    "kind": "news",
+    "ticker": null,
+    "title": "Jest zobowiązanie przywódców UE, że pieniądze z ETS zostaną w Polsce - premier",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/jest-zobowiazanie-przywodcow-ue-ze-pieniadze-z-ets-zostana-w-polsce-premier",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
