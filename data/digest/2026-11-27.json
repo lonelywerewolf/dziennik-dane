@@ -2,20 +2,20 @@
  "date": "2026-11-27",
  "counts": {
   "podsumowania": 11,
-  "wyniki": 3,
+  "wyniki": 4,
   "rekomendacje": 2,
-  "korporacyjne": 38,
+  "korporacyjne": 39,
   "makro_pl": 19,
   "swiat_rynki": 9,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
-  "fundusze_drobne": 9,
+  "fundusze_drobne": 10,
   "twoje_spolki": 2,
   "obserwowane": 0,
   "pozostale": 55
  },
- "duplicatesRemoved": 89,
- "total": 240,
+ "duplicatesRemoved": 92,
+ "total": 246,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -127,6 +127,17 @@
   ],
   "wyniki": [
    {
+    "time": "15:28",
+    "kind": "espi",
+    "ticker": null,
+    "title": "HiProMine S.A.: Wyniki zapisów podstawowych i dodatkowych na akcje serii T",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271611",
+    "src": "bossa",
+    "flags": [
+     "wyniki"
+    ]
+   },
+   {
     "time": "13:58",
     "kind": "pap",
     "ticker": null,
@@ -175,6 +186,26 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "15:27",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ECHO: Uchwały podjęte przez NWZA Emitenta oraz treść projektu uchwały, która była poddana pod głosowanie, a nie została podjęta",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271610",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:25",
+    "kind": "news",
+    "ticker": null,
+    "title": "MON podpisał z Palantir Technologies umowę na 5 lat za ok. 300 mln USD (opis)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/mon-podpisal-z-palantir-technologies-umowe-na-5-lat-za-ok-300-mln-usd-opis",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "15:16",
     "kind": "espi",
@@ -279,17 +310,6 @@
     "src": "bossa",
     "flags": [
      "insider"
-    ]
-   },
-   {
-    "time": "13:29",
-    "kind": "pap",
-    "ticker": null,
-    "title": "MON podpisał z Palantir Technologies umowę na 5 lat za ok. 300 mln USD (opis)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443822",
-    "src": "bossa",
-    "flags": [
-     "umowa"
     ]
    },
    {
@@ -583,21 +603,21 @@
   ],
   "makro_pl": [
    {
-    "time": "15:13",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Wysokie rentowności obligacji skarbowych są konkurencją dla obligacji dużych spółek - Michael/Ström TFI",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443859",
-    "src": "bossa",
-    "flags": []
-   },
-   {
     "time": "15:09",
     "kind": "pap",
     "ticker": null,
     "title": "KPRM: Przyszły budżet UE – Polska zabezpiecza swoje interesy w negocjacjach (komunikat)",
     "url": "https://bossa.pl/analizy/komunikaty#message-443861",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "15:00",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wysokie rentowności obligacji skarbowych są konkurencją dla obligacji dużych spółek - Michael/Ström TFI",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/wysokie-rentownosci-obligacji-skarbowych-sa-konkurencja-dla-obligacji-duzych",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -843,12 +863,12 @@
   ],
   "energetyka_surowce": [
    {
-    "time": "14:24",
-    "kind": "pap",
+    "time": "15:23",
+    "kind": "news",
     "ticker": null,
     "title": "W przyszłym tygodniu możliwe odwrócenie spadkowej tendencji cen na stacjach paliw - BM Reflex",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443845",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/w-przyszlym-tygodniu-mozliwe-odwrocenie-spadkowej-tendencji-cen-na-stacjach",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -872,6 +892,15 @@
   ],
   "nieruchomosci": [],
   "fundusze_drobne": [
+   {
+    "time": "15:19",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Nationale-Nederlanden PTE SA informuje",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443864",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:16",
     "kind": "pap",
