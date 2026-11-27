@@ -1,7 +1,43 @@
 {
  "date": "2026-11-27",
- "count": 22,
+ "count": 25,
  "items": [
+  {
+   "id": "bossa-espi-271525",
+   "date": "2026-11-27",
+   "time": "07:42",
+   "ts": "2026-11-27T07:42:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PRAIRIE MINING LIMITED",
+   "title": "Emisja akcji w następstwie wykonania nienotowanych opcji",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271525"
+  },
+  {
+   "id": "bossa-espi-271524",
+   "date": "2026-11-27",
+   "time": "07:40",
+   "ts": "2026-11-27T07:40:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "SONEL S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271524"
+  },
+  {
+   "id": "bossa-pap-443691",
+   "date": "2026-11-27",
+   "time": "07:35",
+   "ts": "2026-11-27T07:35:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Globalny handel morski wyhamuje do zera w 2026 r., odbicie oczekiwane w 2027 r. - UNCTAD",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443691"
+  },
   {
    "id": "bossa-espi-271523",
    "date": "2026-11-27",
