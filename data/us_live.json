@@ -36,9 +36,9 @@
    "via": "tiingo"
   },
   "VRT": {
-   "price": 178.39,
-   "chgPct": 2.9,
-   "at": "2026-11-27T13:36:48.598716581-05:00",
+   "price": 178.64,
+   "chgPct": 3.04,
+   "at": "2026-11-27T13:48:05.341037958-05:00",
    "src": "https://www.tiingo.com/vrt/overview",
    "via": "tiingo"
   },
@@ -50,9 +50,9 @@
    "via": "tiingo (ONEQ)"
   },
   "^SOX": {
-   "price": 132.89,
-   "chgPct": 3.84,
-   "at": "2026-11-27T13:36:20.377293503-05:00",
+   "price": 133.15,
+   "chgPct": 4.04,
+   "at": "2026-11-27T13:50:00.000178891-05:00",
    "src": "https://www.tiingo.com/soxx/overview",
    "via": "tiingo (SOXX)"
   },
@@ -71,5 +71,5 @@
    "via": "tiingo"
   }
  },
- "updatedAt": "2026-11-27T19:44:12+01:00"
+ "updatedAt": "2026-11-27T19:55:12+01:00"
 }

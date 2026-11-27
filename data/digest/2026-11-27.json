@@ -6,7 +6,7 @@
   "rekomendacje": 2,
   "korporacyjne": 62,
   "makro_pl": 23,
-  "swiat_rynki": 15,
+  "swiat_rynki": 16,
   "energetyka_surowce": 4,
   "nieruchomosci": 0,
   "fundusze_drobne": 14,
@@ -15,7 +15,7 @@
   "pozostale": 71
  },
  "duplicatesRemoved": 155,
- "total": 375,
+ "total": 376,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -1175,6 +1175,17 @@
    }
   ],
   "swiat_rynki": [
+   {
+    "time": "19:52",
+    "kind": "espi",
+    "ticker": null,
+    "title": "NOVAVIS GROUP SA: Korekta formularza ESPI do skonsolidowanego raportu za III kwartał 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271678",
+    "src": "bossa",
+    "flags": [
+     "prognoza"
+    ]
+   },
    {
     "time": "18:55",
     "kind": "pap",
