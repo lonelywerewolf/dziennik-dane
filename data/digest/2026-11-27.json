@@ -4,7 +4,7 @@
   "podsumowania": 18,
   "wyniki": 9,
   "rekomendacje": 2,
-  "korporacyjne": 67,
+  "korporacyjne": 69,
   "makro_pl": 23,
   "swiat_rynki": 16,
   "energetyka_surowce": 4,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 14,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 71
+  "pozostale": 72
  },
  "duplicatesRemoved": 163,
- "total": 389,
+ "total": 392,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -296,6 +296,26 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "22:33",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MULTIQURE S.A.: Uchwały Nadzwyczajnego Walnego Zgromadzenia MultiQure S.A., które odbyło się w dniu 27 listopada 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271690",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "22:33",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PragmaGo S.A.: Zawarcie umowy współpracy z FORUM Towarzystwem Funduszy Inwestycyjnych S.A. z siedzibą w Krakowie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271689",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "22:19",
     "kind": "espi",
@@ -1568,6 +1588,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "22:38",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BINARY HELIX S.A.: Zawarcie trzech listów intencyjnych dotyczących współpracy technologicznej i produkcyjnej na rynku marokańskim",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271691",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:50",
     "kind": "espi",
