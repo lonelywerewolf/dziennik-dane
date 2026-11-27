@@ -1,10 +1,10 @@
 {
  "date": "2026-11-27",
  "counts": {
-  "podsumowania": 14,
+  "podsumowania": 16,
   "wyniki": 6,
   "rekomendacje": 2,
-  "korporacyjne": 50,
+  "korporacyjne": 51,
   "makro_pl": 23,
   "swiat_rynki": 13,
   "energetyka_surowce": 3,
@@ -14,11 +14,31 @@
   "obserwowane": 0,
   "pozostale": 68
  },
- "duplicatesRemoved": 128,
- "total": 322,
+ "duplicatesRemoved": 134,
+ "total": 331,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "17:33",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Notowania ciągłe - podsumowanie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443927",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "17:31",
+    "kind": "pap",
+    "ticker": null,
+    "title": "WIG20 na zamknięciu wyniósł 4090,19 pkt (1,15%)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443928",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:02",
     "kind": "news",
@@ -231,6 +251,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "17:29",
+    "kind": "pap",
+    "ticker": null,
+    "title": "mPay zawarł z Grupą Lew term sheet dot. nabycia akcji własnych spółki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443929",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
    {
     "time": "17:24",
     "kind": "news",
