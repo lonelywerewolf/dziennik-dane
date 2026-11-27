@@ -4,7 +4,7 @@
   "podsumowania": 11,
   "wyniki": 4,
   "rekomendacje": 2,
-  "korporacyjne": 41,
+  "korporacyjne": 42,
   "makro_pl": 20,
   "swiat_rynki": 9,
   "energetyka_surowce": 3,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 56
  },
- "duplicatesRemoved": 93,
- "total": 252,
+ "duplicatesRemoved": 95,
+ "total": 255,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -186,6 +186,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "15:36",
+    "kind": "news",
+    "ticker": null,
+    "title": "PKO BP od 8 XII będzie stosował nowy wzorzec umowy hipotecznej",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/pko-bp-od-8-xii-bedzie-stosowal-nowy-wzorzec-umowy-hipotecznej",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "15:32",
     "kind": "espi",

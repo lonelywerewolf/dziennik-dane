@@ -1,6 +1,51 @@
 {
  "items": [
   {
+   "date": "2026-11-27",
+   "company": "TEXT (TXT)",
+   "code": "TXT",
+   "name": "TEXT",
+   "isin": "PLLVTSF00010",
+   "rating": "Trzymaj",
+   "price": "43.18",
+   "target": "46",
+   "upside": "6.5308012968967",
+   "priceAtPub": "42.9",
+   "house": "BM PKO BP",
+   "report": "https://strefainwestorow.pl/sites/default/files/attachments/55612571_14096089_55612571_20261127_0912_TXT_PL_RA.pdf",
+   "ticker": null
+  },
+  {
+   "date": "2026-11-27",
+   "company": "TORPOL (TOR)",
+   "code": "TOR",
+   "name": "TORPOL",
+   "isin": "PLTORPL00016",
+   "rating": "Kupuj",
+   "price": "54.1",
+   "target": "60",
+   "upside": "10.90573012939",
+   "priceAtPub": "52.4",
+   "house": "Noble Securities",
+   "report": "https://strefainwestorow.pl/sites/default/files/attachments/55613343_14096330_55613343_threat_extracted_Torpol_Media.pdf",
+   "ticker": null
+  },
+  {
+   "date": "2026-11-27",
+   "company": "XTB (XTB)",
+   "code": "XTB",
+   "name": "XTB",
+   "isin": "PLXTRDM00011",
+   "rating": "Sprzedaj",
+   "price": "113.5",
+   "target": "80",
+   "upside": "-29.515418502203",
+   "priceAtPub": "110.08",
+   "house": "Noble Securities",
+   "report": "https://strefainwestorow.pl/sites/default/files/attachments/55613932_14096511_55613932_XTB_Media.pdf",
+   "ticker": "XTB"
+  },
+  {
    "date": "2026-11-25",
    "company": "CYBERFLKS (CBF)",
    "code": "CBF",
@@ -4576,5 +4621,5 @@
    "ticker": "XTB"
   }
  ],
- "updatedAt": "2026-11-27T15:41:08+01:00"
+ "updatedAt": "2026-11-27T15:52:08+01:00"
 }
