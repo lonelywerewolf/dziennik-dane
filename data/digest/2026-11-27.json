@@ -4,18 +4,18 @@
   "podsumowania": 6,
   "wyniki": 0,
   "rekomendacje": 1,
-  "korporacyjne": 5,
-  "makro_pl": 5,
+  "korporacyjne": 6,
+  "makro_pl": 6,
   "swiat_rynki": 0,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 13
+  "pozostale": 14
  },
  "duplicatesRemoved": 30,
- "total": 62,
+ "total": 65,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -90,6 +90,15 @@
   ],
   "korporacyjne": [
    {
+    "time": "09:11",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MIRACULUM S.A.: Informacja o transakcjach na akcjach Spółki.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271542",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "08:43",
     "kind": "espi",
     "ticker": null,
@@ -145,6 +154,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "09:11",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BOM: Niejawne obrady Sejmu w dn. 1 grudnia – zasady obsługi medialnej (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443723",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:53",
     "kind": "pap",
@@ -220,6 +238,17 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:04",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PBS Finanse SA: Korekta raportu bieżącego nr 14/2025 z dnia 26.11.2026 – sprostowanie oczywistej omyłki pisarskiej w zakresie roku formularza",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271541",
+    "src": "bossa",
+    "flags": [
+     "prognoza"
+    ]
+   },
    {
     "time": "09:00",
     "kind": "pap",

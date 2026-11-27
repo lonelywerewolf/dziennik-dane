@@ -1,7 +1,43 @@
 {
  "date": "2026-11-27",
- "count": 62,
+ "count": 65,
  "items": [
+  {
+   "id": "bossa-pap-443723",
+   "date": "2026-11-27",
+   "time": "09:11",
+   "ts": "2026-11-27T09:11:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "BOM: Niejawne obrady Sejmu w dn. 1 grudnia – zasady obsługi medialnej (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443723"
+  },
+  {
+   "id": "bossa-espi-271542",
+   "date": "2026-11-27",
+   "time": "09:11",
+   "ts": "2026-11-27T09:11:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MIRACULUM S.A.",
+   "title": "Informacja o transakcjach na akcjach Spółki.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271542"
+  },
+  {
+   "id": "bossa-espi-271541",
+   "date": "2026-11-27",
+   "time": "09:04",
+   "ts": "2026-11-27T09:04:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PBS Finanse SA",
+   "title": "Korekta raportu bieżącego nr 14/2025 z dnia 26.11.2026 – sprostowanie oczywistej omyłki pisarskiej w zakresie roku formularza",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271541"
+  },
   {
    "id": "bossa-pap-443721",
    "date": "2026-11-27",
