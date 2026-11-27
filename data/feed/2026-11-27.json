@@ -1,7 +1,77 @@
 {
  "date": "2026-11-27",
- "count": 65,
+ "count": 72,
  "items": [
+  {
+   "id": "strefa-2e1b0dc14d75",
+   "date": "2026-11-27",
+   "time": "09:23",
+   "ts": "2026-11-27T09:23:24+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ceny ropy w USA zwyżkują; niepewność wobec sytuacji na Bliskim Wschodzie",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/ceny-ropy-w-usa-zwyzkuja-niepewnosc-wobec-sytuacji-na-bliskim-wschodzie"
+  },
+  {
+   "id": "bossa-pap-443728",
+   "date": "2026-11-27",
+   "time": "09:23",
+   "ts": "2026-11-27T09:23:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ceny ropy w USA zwyżkują; niepewność wobec sytuacji na Bliskim Wschodzie",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443728"
+  },
+  {
+   "id": "bossa-pap-443727",
+   "date": "2026-11-27",
+   "time": "09:20",
+   "ts": "2026-11-27T09:20:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "UKE zakłada, że w '27 odsetek punktów adresowych w zasięgu światłowodu wyniesie 76 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443727"
+  },
+  {
+   "id": "bossa-espi-271543",
+   "date": "2026-11-27",
+   "time": "09:19",
+   "ts": "2026-11-27T09:19:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PEKAO BANK HIPOTECZNY",
+   "title": "Powiadomienie o transakcji na instrumentach finansowych Pekao Banku Hipotecznego S.A. dokonanych przez Bank Polska Kasa Opieki S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271543"
+  },
+  {
+   "id": "bossa-pap-443725",
+   "date": "2026-11-27",
+   "time": "09:16",
+   "ts": "2026-11-27T09:16:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "WIG20 na otwarciu wyniósł 4071,41 pkt (0,68%)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443725"
+  },
+  {
+   "id": "strefa-877bc2394697",
+   "date": "2026-11-27",
+   "time": "09:15",
+   "ts": "2026-11-27T09:15:27+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "BM PKO BP obniża cenę docelową akcji spółki Text do 46 zł, rekomendację do \"trzymaj\"",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/bm-pko-bp-obniza-cene-docelowa-akcji-spolki-text-do-46-zl-rekomendacje-do"
+  },
   {
    "id": "bossa-pap-443723",
    "date": "2026-11-27",
@@ -49,6 +119,17 @@
    "title": "Komponenty WWK wskazują na stabilizację w gospodarce - BIEC",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-443721"
+  },
+  {
+   "id": "strefa-dad2cee0a356",
+   "date": "2026-11-27",
+   "time": "08:58",
+   "ts": "2026-11-27T08:58:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Mocny III kwartał - zysk netto Grupy Sonel po 9 miesiącach 2026 roku wyższy o 64% r/r",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/mocny-iii-kwartal-zysk-netto-grupy-sonel-po-9-miesiacach-2026-roku-wyzszy-o-64"
   },
   {
    "id": "bossa-pap-443720",

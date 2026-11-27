@@ -1,24 +1,33 @@
 {
  "date": "2026-11-27",
  "counts": {
-  "podsumowania": 6,
-  "wyniki": 0,
+  "podsumowania": 7,
+  "wyniki": 1,
   "rekomendacje": 1,
-  "korporacyjne": 6,
+  "korporacyjne": 7,
   "makro_pl": 6,
-  "swiat_rynki": 0,
+  "swiat_rynki": 1,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 14
+  "pozostale": 15
  },
- "duplicatesRemoved": 30,
- "total": 65,
+ "duplicatesRemoved": 32,
+ "total": 72,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "09:16",
+    "kind": "pap",
+    "ticker": null,
+    "title": "WIG20 na otwarciu wyniósł 4071,41 pkt (0,68%)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443725",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "08:43",
     "kind": "news",
@@ -76,19 +85,38 @@
     "flags": []
    }
   ],
-  "wyniki": [],
+  "wyniki": [
+   {
+    "time": "08:58",
+    "kind": "news",
+    "ticker": null,
+    "title": "Mocny III kwartał - zysk netto Grupy Sonel po 9 miesiącach 2026 roku wyższy o 64% r/r",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/mocny-iii-kwartal-zysk-netto-grupy-sonel-po-9-miesiacach-2026-roku-wyzszy-o-64",
+    "src": "strefainwestorow",
+    "flags": []
+   }
+  ],
   "rekomendacje": [
    {
-    "time": "08:23",
-    "kind": "pap",
+    "time": "09:15",
+    "kind": "news",
     "ticker": null,
     "title": "BM PKO BP obniża cenę docelową akcji spółki Text do 46 zł, rekomendację do \"trzymaj\"",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443707",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/bm-pko-bp-obniza-cene-docelowa-akcji-spolki-text-do-46-zl-rekomendacje-do",
+    "src": "strefainwestorow",
     "flags": []
    }
   ],
   "korporacyjne": [
+   {
+    "time": "09:19",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PEKAO BANK HIPOTECZNY: Powiadomienie o transakcji na instrumentach finansowych Pekao Banku Hipotecznego S.A. dokonanych przez Bank Polska Kasa Opieki S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271543",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:11",
     "kind": "espi",
@@ -209,7 +237,17 @@
     "flags": []
    }
   ],
-  "swiat_rynki": [],
+  "swiat_rynki": [
+   {
+    "time": "09:23",
+    "kind": "news",
+    "ticker": null,
+    "title": "Ceny ropy w USA zwyżkują; niepewność wobec sytuacji na Bliskim Wschodzie",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/ceny-ropy-w-usa-zwyzkuja-niepewnosc-wobec-sytuacji-na-bliskim-wschodzie",
+    "src": "strefainwestorow",
+    "flags": []
+   }
+  ],
   "energetyka_surowce": [
    {
     "time": "07:13",
@@ -238,6 +276,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "09:20",
+    "kind": "pap",
+    "ticker": null,
+    "title": "UKE zakłada, że w '27 odsetek punktów adresowych w zasięgu światłowodu wyniesie 76 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443727",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:04",
     "kind": "espi",
