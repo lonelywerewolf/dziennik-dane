@@ -2,9 +2,9 @@
  "date": "2026-11-27",
  "counts": {
   "podsumowania": 16,
-  "wyniki": 6,
+  "wyniki": 7,
   "rekomendacje": 2,
-  "korporacyjne": 51,
+  "korporacyjne": 52,
   "makro_pl": 23,
   "swiat_rynki": 13,
   "energetyka_surowce": 3,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 13,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 68
+  "pozostale": 69
  },
- "duplicatesRemoved": 139,
- "total": 336,
+ "duplicatesRemoved": 142,
+ "total": 342,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -174,6 +174,15 @@
   ],
   "wyniki": [
    {
+    "time": "17:59",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Skonsolidowany zysk netto Skarbiec Holding za trzy kwartały '26 wyniósł 33,2 mln zł",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443944",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "17:17",
     "kind": "news",
     "ticker": null,
@@ -251,6 +260,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "18:03",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ENEA: Podjęcie uchwały w sprawie emisji obligacji hybrydowych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271663",
+    "src": "bossa",
+    "flags": [
+     "emisja"
+    ]
+   },
    {
     "time": "17:29",
     "kind": "pap",
@@ -1302,6 +1322,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "18:01",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Zamknięcia na giełdach w Europie (tabela)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443945",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:27",
     "kind": "news",

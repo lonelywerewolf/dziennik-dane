@@ -1,7 +1,67 @@
 {
  "date": "2026-11-27",
- "count": 336,
+ "count": 342,
  "items": [
+  {
+   "id": "bossa-espi-271663",
+   "date": "2026-11-27",
+   "time": "18:03",
+   "ts": "2026-11-27T18:03:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ENEA",
+   "title": "Podjęcie uchwały w sprawie emisji obligacji hybrydowych",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271663"
+  },
+  {
+   "id": "bossa-espi-271662",
+   "date": "2026-11-27",
+   "time": "18:03",
+   "ts": "2026-11-27T18:03:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PLAYWAY S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271662"
+  },
+  {
+   "id": "bossa-pap-443945",
+   "date": "2026-11-27",
+   "time": "18:01",
+   "ts": "2026-11-27T18:01:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zamknięcia na giełdach w Europie (tabela)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443945"
+  },
+  {
+   "id": "bossa-pap-443944",
+   "date": "2026-11-27",
+   "time": "17:59",
+   "ts": "2026-11-27T17:59:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Skonsolidowany zysk netto Skarbiec Holding za trzy kwartały '26 wyniósł 33,2 mln zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443944"
+  },
+  {
+   "id": "bossa-espi-271661",
+   "date": "2026-11-27",
+   "time": "17:54",
+   "ts": "2026-11-27T17:54:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ZE PAK S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271661"
+  },
   {
    "id": "bossa-espi-271660",
    "date": "2026-11-27",
@@ -180,6 +240,17 @@
    "title": "GPW: w sprawie szczególnego oznaczania instrumentów finansowych spółki BUMECH S.A. notowanych na Głównym Rynku GPW",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261127/gpw-w-sprawie-szczegolnego-oznaczania-instrumentow-finansowych-spolki-bumech-sa"
+  },
+  {
+   "id": "strefa-2b6fc528b564",
+   "date": "2026-11-27",
+   "time": "17:27",
+   "ts": "2026-11-27T17:27:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA FX/FI: EUR/PLN zawrócił z rekordowych poziomów; rentowności SPW z kolejną zniżką",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/dzien-na-fxfi-eurpln-zawrocil-z-rekordowych-poziomow-rentownosci-spw-z-0"
   },
   {
    "id": "bossa-espi-271650",
