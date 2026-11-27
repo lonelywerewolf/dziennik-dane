@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 2
+  "pozostale": 4
  },
- "duplicatesRemoved": 3,
- "total": 11,
+ "duplicatesRemoved": 4,
+ "total": 14,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -89,6 +89,24 @@
   "twoje_spolki": [],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "07:02",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ENAP: SA-Q",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271519",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "07:01",
     "kind": "news",
