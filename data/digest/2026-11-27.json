@@ -1,10 +1,10 @@
 {
  "date": "2026-11-27",
  "counts": {
-  "podsumowania": 9,
+  "podsumowania": 10,
   "wyniki": 2,
   "rekomendacje": 2,
-  "korporacyjne": 20,
+  "korporacyjne": 22,
   "makro_pl": 14,
   "swiat_rynki": 4,
   "energetyka_surowce": 1,
@@ -14,11 +14,22 @@
   "obserwowane": 0,
   "pozostale": 32
  },
- "duplicatesRemoved": 52,
- "total": 138,
+ "duplicatesRemoved": 54,
+ "total": 143,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "12:07",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Indeksy w Europie na plusach; kontrakty w USA także rosną",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/dzien-na-rynkach-indeksy-w-europie-na-plusach-kontrakty-w-usa-takze-rosna",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "11:21",
     "kind": "news",
@@ -144,6 +155,26 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "12:00",
+    "kind": "espi",
+    "ticker": null,
+    "title": "APATOR: Powiadomienie o transakcjach na akcjach Apator S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271562",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "Stalprofil podpisał umowę z Gaz-System za maksymalnie 25,9 mln zł",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/stalprofil-podpisal-umowe-z-gaz-system-za-maksymalnie-259-mln-zl",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "11:55",
     "kind": "espi",
