@@ -1,7 +1,55 @@
 {
  "date": "2026-11-27",
- "count": 151,
+ "count": 156,
  "items": [
+  {
+   "id": "bossa-espi-271567",
+   "date": "2026-11-27",
+   "time": "12:32",
+   "ts": "2026-11-27T12:32:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KRKA",
+   "title": "Acquisition of treasury shares",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271567"
+  },
+  {
+   "id": "bossa-espi-271566",
+   "date": "2026-11-27",
+   "time": "12:32",
+   "ts": "2026-11-27T12:32:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF BITCOIN PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 242 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271566"
+  },
+  {
+   "id": "bossa-pap-443790",
+   "date": "2026-11-27",
+   "time": "12:26",
+   "ts": "2026-11-27T12:26:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "KGHM odporny na zmienność rynkową, fundamenty rynku miedzi pozostają mocne - wiceprezes",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443790"
+  },
+  {
+   "id": "bossa-espi-271565",
+   "date": "2026-11-27",
+   "time": "12:25",
+   "ts": "2026-11-27T12:25:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF OBLIGACJI 6M PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 249 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271565"
+  },
   {
    "id": "bossa-espi-271564",
    "date": "2026-11-27",
@@ -13,6 +61,17 @@
    "title": "Raport bieżący nr 240 / 2026",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271564"
+  },
+  {
+   "id": "strefa-f6ea303ad7cb",
+   "date": "2026-11-27",
+   "time": "12:19",
+   "ts": "2026-11-27T12:19:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "KGHM odporny na zmienność rynkową, fundamenty rynku miedzi pozostają mocne - wiceprezes",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/kghm-odporny-na-zmiennosc-rynkowa-fundamenty-rynku-miedzi-pozostaja-mocne"
   },
   {
    "id": "bossa-pap-443787",
