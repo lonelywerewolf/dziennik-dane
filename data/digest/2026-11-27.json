@@ -2,20 +2,20 @@
  "date": "2026-11-27",
  "counts": {
   "podsumowania": 11,
-  "wyniki": 4,
+  "wyniki": 5,
   "rekomendacje": 2,
   "korporacyjne": 42,
   "makro_pl": 20,
-  "swiat_rynki": 11,
+  "swiat_rynki": 12,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 11,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 56
+  "pozostale": 59
  },
- "duplicatesRemoved": 97,
- "total": 259,
+ "duplicatesRemoved": 99,
+ "total": 266,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -126,6 +126,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "16:04",
+    "kind": "pap",
+    "ticker": null,
+    "title": "VIDIS SA (8/2026) Skonsolidowany raport roczny",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443877",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:28",
     "kind": "espi",
@@ -822,12 +831,21 @@
   ],
   "swiat_rynki": [
    {
-    "time": "16:02",
-    "kind": "pap",
+    "time": "16:06",
+    "kind": "news",
+    "ticker": null,
+    "title": "Euro w EBC: 1,0957 USD i 174,81 JPY",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/euro-w-ebc-10957-usd-i-17481-jpy",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "15:55",
+    "kind": "news",
     "ticker": null,
     "title": "Polska ma utrzymać pozycję największego beneficjenta funduszy UE i wpływy z ETS - premier (opis)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443876",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/polska-ma-utrzymac-pozycje-najwiekszego-beneficjenta-funduszy-ue-i-wplywy-z-ets",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -1076,6 +1094,33 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "16:11",
+    "kind": "espi",
+    "ticker": null,
+    "title": "PZU SA: Rejestracja zmiany Statutu PZU SA",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271618",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:11",
+    "kind": "espi",
+    "ticker": null,
+    "title": "VOOLT S.A.: Wybór projektu spółki portfelowej Vaxican Sp. z o.o. do dofinansowania w ramach Ścieżki SMART - dofinansowanie dla Vaxican w kwocie ok. 18,35 mln zł",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271617",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:07",
+    "kind": "pap",
+    "ticker": null,
+    "title": "W '27 efektywne obciążenie PIT wzrośnie, więcej podatników wpadnie w wyższy próg - ING (opinia)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443879",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:27",
     "kind": "pap",

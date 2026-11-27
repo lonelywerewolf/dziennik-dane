@@ -1,7 +1,78 @@
 {
  "date": "2026-11-27",
- "count": 259,
+ "count": 266,
  "items": [
+  {
+   "id": "bossa-espi-271618",
+   "date": "2026-11-27",
+   "time": "16:11",
+   "ts": "2026-11-27T16:11:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PZU SA",
+   "title": "Rejestracja zmiany Statutu PZU SA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271618"
+  },
+  {
+   "id": "bossa-espi-271617",
+   "date": "2026-11-27",
+   "time": "16:11",
+   "ts": "2026-11-27T16:11:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "VOOLT S.A.",
+   "title": "Wybór projektu spółki portfelowej Vaxican Sp. z o.o. do dofinansowania w ramach Ścieżki SMART - dofinansowanie dla Vaxican w kwocie ok. 18,35 mln zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271617"
+  },
+  {
+   "id": "bossa-pap-443879",
+   "date": "2026-11-27",
+   "time": "16:07",
+   "ts": "2026-11-27T16:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "W '27 efektywne obciążenie PIT wzrośnie, więcej podatników wpadnie w wyższy próg - ING (opinia)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443879"
+  },
+  {
+   "id": "strefa-1b5b7e343f99",
+   "date": "2026-11-27",
+   "time": "16:06",
+   "ts": "2026-11-27T16:06:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Euro w EBC: 1,0957 USD i 174,81 JPY",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/euro-w-ebc-10957-usd-i-17481-jpy"
+  },
+  {
+   "id": "bossa-pap-443878",
+   "date": "2026-11-27",
+   "time": "16:05",
+   "ts": "2026-11-27T16:05:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Euro w EBC: 1,0957 USD i 174,81 JPY",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443878"
+  },
+  {
+   "id": "bossa-pap-443877",
+   "date": "2026-11-27",
+   "time": "16:04",
+   "ts": "2026-11-27T16:04:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "VIDIS SA (8/2026) Skonsolidowany raport roczny",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443877"
+  },
   {
    "id": "bossa-pap-443876",
    "date": "2026-11-27",
@@ -25,6 +96,17 @@
    "title": "Powiadomienie o transakcji na instrumentach finansowych Pekao Banku Hipotecznego S.A. dokonanych przez Bank Polska Kasa Opieki S.A.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271615"
+  },
+  {
+   "id": "strefa-cf501ca0d64e",
+   "date": "2026-11-27",
+   "time": "15:55",
+   "ts": "2026-11-27T15:55:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Polska ma utrzymać pozycję największego beneficjenta funduszy UE i wpływy z ETS - premier (opis)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/polska-ma-utrzymac-pozycje-najwiekszego-beneficjenta-funduszy-ue-i-wplywy-z-ets"
   },
   {
    "id": "bossa-pap-443874",
