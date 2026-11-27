@@ -3,8 +3,8 @@
  "counts": {
   "podsumowania": 8,
   "wyniki": 2,
-  "rekomendacje": 1,
-  "korporacyjne": 14,
+  "rekomendacje": 2,
+  "korporacyjne": 15,
   "makro_pl": 13,
   "swiat_rynki": 3,
   "energetyka_surowce": 1,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 21
  },
- "duplicatesRemoved": 41,
- "total": 105,
+ "duplicatesRemoved": 42,
+ "total": 108,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -116,6 +116,15 @@
   ],
   "rekomendacje": [
    {
+    "time": "10:08",
+    "kind": "news",
+    "ticker": null,
+    "title": "Noble Securities podwyższył rekomendację dla Torpolu do \"kupuj\"",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/noble-securities-podwyzszyl-rekomendacje-dla-torpolu-do-kupuj",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "09:15",
     "kind": "news",
     "ticker": null,
@@ -126,6 +135,18 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "10:43",
+    "kind": "espi",
+    "ticker": null,
+    "title": "VOTUM S.A.: Otrzymanie od osoby pełniącej obowiązki zarządcze w VOTUM S.A. notyfikacji o transakcjach w trybie art. 19 ust. 1 MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271555",
+    "src": "bossa",
+    "flags": [
+     "zarząd",
+     "insider"
+    ]
+   },
    {
     "time": "10:38",
     "kind": "pap",

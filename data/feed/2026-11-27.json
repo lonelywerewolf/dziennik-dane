@@ -1,7 +1,31 @@
 {
  "date": "2026-11-27",
- "count": 105,
+ "count": 108,
  "items": [
+  {
+   "id": "bossa-espi-271555",
+   "date": "2026-11-27",
+   "time": "10:43",
+   "ts": "2026-11-27T10:43:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "VOTUM S.A.",
+   "title": "Otrzymanie od osoby pełniącej obowiązki zarządcze w VOTUM S.A. notyfikacji o transakcjach w trybie art. 19 ust. 1 MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271555"
+  },
+  {
+   "id": "bossa-pap-443757",
+   "date": "2026-11-27",
+   "time": "10:42",
+   "ts": "2026-11-27T10:42:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Noble Securities podwyższył rekomendację dla Torpolu do \"kupuj\"",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443757"
+  },
   {
    "id": "bossa-pap-443756",
    "date": "2026-11-27",
@@ -97,6 +121,17 @@
    "title": "Informacja o transakcjach na prawach poboru akcji serii E",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271552"
+  },
+  {
+   "id": "strefa-bb61ebead6c1",
+   "date": "2026-11-27",
+   "time": "10:08",
+   "ts": "2026-11-27T10:08:29+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Noble Securities podwyższył rekomendację dla Torpolu do \"kupuj\"",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/noble-securities-podwyzszyl-rekomendacje-dla-torpolu-do-kupuj"
   },
   {
    "id": "bossa-espi-271551",
