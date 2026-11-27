@@ -4,18 +4,18 @@
   "podsumowania": 17,
   "wyniki": 8,
   "rekomendacje": 2,
-  "korporacyjne": 59,
+  "korporacyjne": 61,
   "makro_pl": 23,
-  "swiat_rynki": 14,
+  "swiat_rynki": 15,
   "energetyka_surowce": 4,
   "nieruchomosci": 0,
   "fundusze_drobne": 13,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 70
+  "pozostale": 71
  },
- "duplicatesRemoved": 151,
- "total": 363,
+ "duplicatesRemoved": 152,
+ "total": 368,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -278,6 +278,28 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "18:59",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Adam Purwin zrezygnował z funkcji prezesa Polenergii",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443966",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
+   {
+    "time": "18:59",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KBJ S.A.: Otrzymanie zawiadomienia w trybie art. 69 ustawy o ofercie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271675",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "18:47",
     "kind": "espi",
@@ -1125,6 +1147,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "18:55",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Aktualne wskaźniki giełdowe",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443965",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "18:11",
     "kind": "espi",
     "ticker": null,
@@ -1433,6 +1464,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "18:50",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Kolejkowo S.A.: Rejestracja spółki zależnej Emitenta w KRS",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271673",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "18:22",
     "kind": "news",
