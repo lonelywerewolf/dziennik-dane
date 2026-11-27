@@ -1,7 +1,55 @@
 {
  "date": "2026-11-27",
- "count": 219,
+ "count": 223,
  "items": [
+  {
+   "id": "bossa-pap-443848",
+   "date": "2026-11-27",
+   "time": "14:33",
+   "ts": "2026-11-27T14:33:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Zapasy hurtowników w USA w X: +0,9 proc. mdm. Konsensus: +0,3 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443848"
+  },
+  {
+   "id": "bossa-pap-443847",
+   "date": "2026-11-27",
+   "time": "14:30",
+   "ts": "2026-11-27T14:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Nationale-Nederlanden OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443847"
+  },
+  {
+   "id": "bossa-pap-443846",
+   "date": "2026-11-27",
+   "time": "14:24",
+   "ts": "2026-11-27T14:24:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Kurs Modivo rośnie o 11,4 proc. przy zwyżce WIG20 o 1,5 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443846"
+  },
+  {
+   "id": "bossa-pap-443845",
+   "date": "2026-11-27",
+   "time": "14:24",
+   "ts": "2026-11-27T14:24:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "W przyszłym tygodniu możliwe odwrócenie spadkowej tendencji cen na stacjach paliw - BM Reflex",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443845"
+  },
   {
    "id": "bossa-espi-271601",
    "date": "2026-11-27",
