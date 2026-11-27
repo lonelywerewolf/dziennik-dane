@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 71
  },
- "duplicatesRemoved": 152,
- "total": 368,
+ "duplicatesRemoved": 153,
+ "total": 369,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -280,17 +280,6 @@
   "korporacyjne": [
    {
     "time": "18:59",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Adam Purwin zrezygnował z funkcji prezesa Polenergii",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443966",
-    "src": "bossa",
-    "flags": [
-     "zarząd"
-    ]
-   },
-   {
-    "time": "18:59",
     "kind": "espi",
     "ticker": null,
     "title": "KBJ S.A.: Otrzymanie zawiadomienia w trybie art. 69 ustawy o ofercie",
@@ -298,6 +287,17 @@
     "src": "bossa",
     "flags": [
      "akcjonariat"
+    ]
+   },
+   {
+    "time": "18:48",
+    "kind": "news",
+    "ticker": null,
+    "title": "Adam Purwin zrezygnował z funkcji prezesa Polenergii",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/adam-purwin-zrezygnowal-z-funkcji-prezesa-polenergii",
+    "src": "strefainwestorow",
+    "flags": [
+     "zarząd"
     ]
    },
    {
