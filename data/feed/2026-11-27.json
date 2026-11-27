@@ -1,7 +1,78 @@
 {
  "date": "2026-11-27",
- "count": 357,
+ "count": 363,
  "items": [
+  {
+   "id": "bossa-espi-271672",
+   "date": "2026-11-27",
+   "time": "18:47",
+   "ts": "2026-11-27T18:47:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KBJ S.A.",
+   "title": "Otrzymanie powiadomienia w trybie art. 19 ust. 1 MAR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271672"
+  },
+  {
+   "id": "bossa-pap-443960",
+   "date": "2026-11-27",
+   "time": "18:46",
+   "ts": "2026-11-27T18:46:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne - SARON",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443960"
+  },
+  {
+   "id": "bossa-espi-271671",
+   "date": "2026-11-27",
+   "time": "18:46",
+   "ts": "2026-11-27T18:46:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "SIMFABRIC S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271671"
+  },
+  {
+   "id": "bossa-espi-271670",
+   "date": "2026-11-27",
+   "time": "18:41",
+   "ts": "2026-11-27T18:41:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "NTT SYSTEM S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271670"
+  },
+  {
+   "id": "bossa-pap-443958",
+   "date": "2026-11-27",
+   "time": "18:38",
+   "ts": "2026-11-27T18:38:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PlayWay w III kw. '26 miał 31,1 mln zł zysku netto j.d.; oczekiwano 35,8 mln zł zysku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443958"
+  },
+  {
+   "id": "strefa-a81e01d8500c",
+   "date": "2026-11-27",
+   "time": "18:22",
+   "ts": "2026-11-27T18:22:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "PlayWay w III kw. '26 miał 31,1 mln zł zysku netto j.d.; oczekiwano 35,8 mln zł zysku",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/playway-w-iii-kw-26-mial-311-mln-zl-zysku-netto-jd-oczekiwano-358-mln-zl-zysku"
+  },
   {
    "id": "bossa-espi-271669",
    "date": "2026-11-27",

@@ -4,7 +4,7 @@
   "podsumowania": 17,
   "wyniki": 8,
   "rekomendacje": 2,
-  "korporacyjne": 58,
+  "korporacyjne": 59,
   "makro_pl": 23,
   "swiat_rynki": 14,
   "energetyka_surowce": 4,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 13,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 69
+  "pozostale": 70
  },
- "duplicatesRemoved": 147,
- "total": 357,
+ "duplicatesRemoved": 151,
+ "total": 363,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -278,6 +278,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "18:47",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KBJ S.A.: Otrzymanie powiadomienia w trybie art. 19 ust. 1 MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271672",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
    {
     "time": "18:21",
     "kind": "espi",
@@ -1422,6 +1433,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "18:22",
+    "kind": "news",
+    "ticker": null,
+    "title": "PlayWay w III kw. '26 miał 31,1 mln zł zysku netto j.d.; oczekiwano 35,8 mln zł zysku",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/playway-w-iii-kw-26-mial-311-mln-zl-zysku-netto-jd-oczekiwano-358-mln-zl-zysku",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "18:06",
     "kind": "news",
