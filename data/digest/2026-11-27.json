@@ -1,8 +1,8 @@
 {
  "date": "2026-11-27",
  "counts": {
-  "podsumowania": 17,
-  "wyniki": 8,
+  "podsumowania": 18,
+  "wyniki": 9,
   "rekomendacje": 2,
   "korporacyjne": 62,
   "makro_pl": 23,
@@ -14,11 +14,20 @@
   "obserwowane": 0,
   "pozostale": 71
  },
- "duplicatesRemoved": 153,
- "total": 371,
+ "duplicatesRemoved": 155,
+ "total": 375,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "19:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA RYNKACH: Na Wall Street solidne wzrosty na koniec tygodnia",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/dzien-na-rynkach-na-wall-street-solidne-wzrosty-na-koniec-tygodnia",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "18:06",
     "kind": "news",
@@ -182,6 +191,15 @@
    }
   ],
   "wyniki": [
+   {
+    "time": "19:42",
+    "kind": "news",
+    "ticker": null,
+    "title": "Strata netto Kernel Holding w I kw. 2026/27 wyniosła 143 mln USD",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/strata-netto-kernel-holding-w-i-kw-202627-wyniosla-143-mln-usd",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "18:07",
     "kind": "news",
