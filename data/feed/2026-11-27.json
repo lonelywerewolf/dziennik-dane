@@ -1,7 +1,31 @@
 {
  "date": "2026-11-27",
- "count": 131,
+ "count": 133,
  "items": [
+  {
+   "id": "bossa-pap-443775",
+   "date": "2026-11-27",
+   "time": "11:48",
+   "ts": "2026-11-27T11:48:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Tabela kursów średnich NBP nr 231/A/NBP/2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443775"
+  },
+  {
+   "id": "bossa-espi-271559",
+   "date": "2026-11-27",
+   "time": "11:43",
+   "ts": "2026-11-27T11:43:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ZENERIS PROJEKTY S.A.",
+   "title": "Przyjęcie Planu Podziału Zeneris Projekty S.A. przez przeniesienie części majątku na Zeneris spółka z ograniczoną odpowiedzialnością z siedzibą w Poznaniu",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271559"
+  },
   {
    "id": "bossa-pap-443773",
    "date": "2026-11-27",

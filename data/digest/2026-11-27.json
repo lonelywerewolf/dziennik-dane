@@ -5,17 +5,17 @@
   "wyniki": 2,
   "rekomendacje": 2,
   "korporacyjne": 18,
-  "makro_pl": 13,
+  "makro_pl": 14,
   "swiat_rynki": 4,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 30
+  "pozostale": 31
  },
  "duplicatesRemoved": 51,
- "total": 131,
+ "total": 133,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -338,6 +338,15 @@
   ],
   "makro_pl": [
    {
+    "time": "11:48",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Tabela kursów średnich NBP nr 231/A/NBP/2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443775",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "11:06",
     "kind": "news",
     "ticker": null,
@@ -525,6 +534,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:43",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ZENERIS PROJEKTY S.A.: Przyjęcie Planu Podziału Zeneris Projekty S.A. przez przeniesienie części majątku na Zeneris spółka z ograniczoną odpowiedzialnością z siedzibą w Poznaniu",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271559",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:33",
     "kind": "pap",
