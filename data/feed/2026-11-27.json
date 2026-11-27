@@ -1,7 +1,43 @@
 {
  "date": "2026-11-27",
- "count": 246,
+ "count": 252,
  "items": [
+  {
+   "id": "bossa-pap-443871",
+   "date": "2026-11-27",
+   "time": "15:37",
+   "ts": "2026-11-27T15:37:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "OFE POCZTYLION wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443871"
+  },
+  {
+   "id": "bossa-espi-271613",
+   "date": "2026-11-27",
+   "time": "15:32",
+   "ts": "2026-11-27T15:32:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ECHO",
+   "title": "Wykaz akcjonariuszy posiadających co najmniej 5% liczby głosów na NWZA",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271613"
+  },
+  {
+   "id": "bossa-espi-271612",
+   "date": "2026-11-27",
+   "time": "15:30",
+   "ts": "2026-11-27T15:30:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "Red Square Games S.A.",
+   "title": "Spłata pożyczek udzielonych w ramach umowy ramowej finansowania",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271612"
+  },
   {
    "id": "bossa-espi-271611",
    "date": "2026-11-27",
@@ -15,6 +51,18 @@
    "url": "https://bossa.pl/analizy/komunikaty#message-271611"
   },
   {
+   "id": "bossa-pap-443867",
+   "date": "2026-11-27",
+   "time": "15:27",
+   "ts": "2026-11-27T15:27:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MSWiA: Odprawa służb w RCB w związku z prognozowanymi intensywnymi opadami śniegu (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443867"
+  },
+  {
    "id": "bossa-espi-271610",
    "date": "2026-11-27",
    "time": "15:27",
@@ -25,6 +73,29 @@
    "title": "Uchwały podjęte przez NWZA Emitenta oraz treść projektu uchwały, która była poddana pod głosowanie, a nie została podjęta",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271610"
+  },
+  {
+   "id": "strefa-4e8812a881d5",
+   "date": "2026-11-27",
+   "time": "15:26",
+   "ts": "2026-11-27T15:26:44+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Movie Games S.A. z 1 mln zł zysku netto po trzech kwartałach. Zapowiedź Drug Dealer Simulator 3 już w grudniu",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/movie-games-sa-z-1-mln-zl-zysku-netto-po-trzech-kwartalach-zapowiedz-drug-0"
+  },
+  {
+   "id": "bossa-pap-443868",
+   "date": "2026-11-27",
+   "time": "15:26",
+   "ts": "2026-11-27T15:26:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MRiT: Transformacja przemysłu energochłonnego nabierze rozpędu. Ruszą inwestycje warte miliardy złotych (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443868"
   },
   {
    "id": "strefa-b6bc12acfacb",
