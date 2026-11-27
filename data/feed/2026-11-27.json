@@ -1,7 +1,55 @@
 {
  "date": "2026-11-27",
- "count": 133,
+ "count": 138,
  "items": [
+  {
+   "id": "bossa-pap-443778",
+   "date": "2026-11-27",
+   "time": "11:55",
+   "ts": "2026-11-27T11:55:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "OFE przekazały do ZUS w ramach tzw. suwaka 1,570 mld zł",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443778"
+  },
+  {
+   "id": "bossa-espi-271561",
+   "date": "2026-11-27",
+   "time": "11:55",
+   "ts": "2026-11-27T11:55:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "STALPROFIL S.A.",
+   "title": "Informacja o zawarciu umowy pomiędzy STALPROFIL S.A., a O.G.P. Gaz-System S.A. o generalną realizację inwestycji pn: „Wykonanie robót budowlanych w zakresie przebudowy gazociągu wysokiego ciśnienia DN700 relacji Jarosław – Rozwadów w m. Przędzel”",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271561"
+  },
+  {
+   "id": "bossa-pap-443777",
+   "date": "2026-11-27",
+   "time": "11:54",
+   "ts": "2026-11-27T11:54:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Nie będzie nowych cięć w unijnej polityce spójności - Bartol",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443777"
+  },
+  {
+   "id": "bossa-espi-271560",
+   "date": "2026-11-27",
+   "time": "11:52",
+   "ts": "2026-11-27T11:52:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ZENERIS PROJEKTY S.A.",
+   "title": "Pierwsze zawiadomienie akcjonariuszy Emitenta o zamiarze dokonania podziału Emitenta poprzez wyodrębnienie części majątku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271560"
+  },
   {
    "id": "bossa-pap-443775",
    "date": "2026-11-27",
@@ -37,6 +85,17 @@
    "title": "MC: AI Act – nowe zasady korzystania ze sztucznej inteligencji od 2 grudnia (komunikat)",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-443773"
+  },
+  {
+   "id": "strefa-50e81b5e18c3",
+   "date": "2026-11-27",
+   "time": "11:32",
+   "ts": "2026-11-27T11:32:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Tabela kursów średnich NBP nr 231/A/NBP/2026",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/tabela-kursow-srednich-nbp-nr-231anbp2026"
   },
   {
    "id": "bossa-pap-443772",

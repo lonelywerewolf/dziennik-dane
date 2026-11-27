@@ -4,18 +4,18 @@
   "podsumowania": 9,
   "wyniki": 2,
   "rekomendacje": 2,
-  "korporacyjne": 18,
+  "korporacyjne": 20,
   "makro_pl": 14,
   "swiat_rynki": 4,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
-  "fundusze_drobne": 0,
+  "fundusze_drobne": 1,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 31
+  "pozostale": 32
  },
- "duplicatesRemoved": 51,
- "total": 133,
+ "duplicatesRemoved": 52,
+ "total": 138,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -144,6 +144,28 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "11:55",
+    "kind": "espi",
+    "ticker": null,
+    "title": "STALPROFIL S.A.: Informacja o zawarciu umowy pomiędzy STALPROFIL S.A., a O.G.P. Gaz-System S.A. o generalną realizację inwestycji pn: „Wykonanie robót budowlanych w zakresie przebudowy gazociągu wysokiego ciśnienia DN700 relacji Jarosław – Rozwadów w m. Przędzel”",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271561",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "11:52",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ZENERIS PROJEKTY S.A.: Pierwsze zawiadomienie akcjonariuszy Emitenta o zamiarze dokonania podziału Emitenta poprzez wyodrębnienie części majątku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271560",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "11:25",
     "kind": "espi",
@@ -338,12 +360,12 @@
   ],
   "makro_pl": [
    {
-    "time": "11:48",
-    "kind": "pap",
+    "time": "11:32",
+    "kind": "news",
     "ticker": null,
     "title": "Tabela kursów średnich NBP nr 231/A/NBP/2026",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443775",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/tabela-kursow-srednich-nbp-nr-231anbp2026",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
@@ -518,7 +540,17 @@
    }
   ],
   "nieruchomosci": [],
-  "fundusze_drobne": [],
+  "fundusze_drobne": [
+   {
+    "time": "11:55",
+    "kind": "pap",
+    "ticker": null,
+    "title": "OFE przekazały do ZUS w ramach tzw. suwaka 1,570 mld zł",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443778",
+    "src": "bossa",
+    "flags": []
+   }
+  ],
   "twoje_spolki": [
    {
     "time": "08:56",
@@ -534,6 +566,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:54",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Nie będzie nowych cięć w unijnej polityce spójności - Bartol",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443777",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:43",
     "kind": "espi",
