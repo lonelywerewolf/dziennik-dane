@@ -4,7 +4,7 @@
   "podsumowania": 18,
   "wyniki": 9,
   "rekomendacje": 2,
-  "korporacyjne": 65,
+  "korporacyjne": 66,
   "makro_pl": 23,
   "swiat_rynki": 16,
   "energetyka_surowce": 4,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 71
  },
- "duplicatesRemoved": 162,
- "total": 386,
+ "duplicatesRemoved": 163,
+ "total": 388,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -296,6 +296,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "22:04",
+    "kind": "espi",
+    "ticker": null,
+    "title": "JUJUBEE S.A.: Uchwała Zarządu w sprawie dokonania odpisów",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271686",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "21:34",
     "kind": "espi",
