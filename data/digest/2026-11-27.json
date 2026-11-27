@@ -4,7 +4,7 @@
   "podsumowania": 14,
   "wyniki": 6,
   "rekomendacje": 2,
-  "korporacyjne": 48,
+  "korporacyjne": 50,
   "makro_pl": 23,
   "swiat_rynki": 13,
   "energetyka_surowce": 3,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 68
  },
- "duplicatesRemoved": 121,
- "total": 313,
+ "duplicatesRemoved": 128,
+ "total": 322,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -232,14 +232,36 @@
   ],
   "korporacyjne": [
    {
-    "time": "17:17",
-    "kind": "pap",
+    "time": "17:24",
+    "kind": "news",
     "ticker": null,
     "title": "Text wypłaci 1,21 zł na akcję zaliczki na poczet dywidendy za 2026/27",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443918",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/text-wyplaci-121-zl-na-akcje-zaliczki-na-poczet-dywidendy-za-202627",
+    "src": "strefainwestorow",
     "flags": [
      "dywidenda"
+    ]
+   },
+   {
+    "time": "17:20",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MRiRW: 35 lat KRUS – podsumowanie działalności i plany na przyszłość (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443923",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
+   {
+    "time": "17:18",
+    "kind": "news",
+    "ticker": null,
+    "title": "Dywersyfikacja i realizacja strategii – Grupa Spyrosoft podsumowuje III kwartał 2026",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/dywersyfikacja-i-realizacja-strategii-grupa-spyrosoft-podsumowuje-iii-kwartal",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
     ]
    },
    {
@@ -1250,12 +1272,12 @@
   "obserwowane": [],
   "pozostale": [
    {
-    "time": "17:18",
-    "kind": "pap",
+    "time": "17:27",
+    "kind": "news",
     "ticker": null,
     "title": "GPW: w sprawie szczególnego oznaczania instrumentów finansowych spółki BUMECH S.A. notowanych na Głównym Rynku GPW",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443919",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/gpw-w-sprawie-szczegolnego-oznaczania-instrumentow-finansowych-spolki-bumech-sa",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
