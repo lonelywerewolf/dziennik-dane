@@ -2,9 +2,9 @@
  "date": "2026-11-27",
  "counts": {
   "podsumowania": 8,
-  "wyniki": 1,
+  "wyniki": 2,
   "rekomendacje": 1,
-  "korporacyjne": 13,
+  "korporacyjne": 14,
   "makro_pl": 13,
   "swiat_rynki": 3,
   "energetyka_surowce": 1,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 19
+  "pozostale": 21
  },
  "duplicatesRemoved": 41,
- "total": 101,
+ "total": 105,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -96,6 +96,15 @@
   ],
   "wyniki": [
    {
+    "time": "10:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Mirbud chce osiągać 5 mld zł rocznych przychodów; uczestniczy w czterech postępowaniach akwizycyjnych",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443754",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "08:58",
     "kind": "news",
     "ticker": null,
@@ -117,6 +126,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "10:38",
+    "kind": "pap",
+    "ticker": null,
+    "title": "NBP prognozuje hamowanie kredytu hipotecznego na przestrzeni 2027-28 z 10 proc. rdr do poniżej 4 proc.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443756",
+    "src": "bossa",
+    "flags": [
+     "prognoza"
+    ]
+   },
    {
     "time": "10:11",
     "kind": "espi",
@@ -432,6 +452,26 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "10:37",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BANK HANDLOWY W WARSZAWIE S.A.: Korekta oczywistej omyłki pisarskiej w treści zgłoszenia kandydatur na członków Rady Nadzorczej Banku Handlowego w Warszawie S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271554",
+    "src": "bossa",
+    "flags": [
+     "prognoza"
+    ]
+   },
+   {
+    "time": "10:32",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźniki referencyjne - SONIA",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443753",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:51",
     "kind": "pap",
