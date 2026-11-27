@@ -1,7 +1,90 @@
 {
  "date": "2026-11-27",
- "count": 158,
+ "count": 165,
  "items": [
+  {
+   "id": "bossa-espi-271572",
+   "date": "2026-11-27",
+   "time": "12:54",
+   "ts": "2026-11-27T12:54:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF MWIG40TRlv PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 219 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271572"
+  },
+  {
+   "id": "bossa-espi-271571",
+   "date": "2026-11-27",
+   "time": "12:53",
+   "ts": "2026-11-27T12:53:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ESALIENS AKCJI SKONCENTROWANY FIZ",
+   "title": "WANCI-E_30.04.18",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271571"
+  },
+  {
+   "id": "bossa-pap-443797",
+   "date": "2026-11-27",
+   "time": "12:50",
+   "ts": "2026-11-27T12:50:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "PKO BP BANKOWY OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443797"
+  },
+  {
+   "id": "bossa-espi-271570",
+   "date": "2026-11-27",
+   "time": "12:48",
+   "ts": "2026-11-27T12:48:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF WIG20short PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 238 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271570"
+  },
+  {
+   "id": "bossa-pap-443795",
+   "date": "2026-11-27",
+   "time": "12:46",
+   "ts": "2026-11-27T12:46:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MON podpisał z Palantir Technologies umowę na dostawę dla wojska oprogramowania z wykorzystaniem AI",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443795"
+  },
+  {
+   "id": "strefa-225da69c2a33",
+   "date": "2026-11-27",
+   "time": "12:44",
+   "ts": "2026-11-27T12:44:04+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "NBP prognozuje wyhamowanie dynamiki kredytu dla firm w 2027-28 poniżej 3 proc. rdr",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/nbp-prognozuje-wyhamowanie-dynamiki-kredytu-dla-firm-w-2027-28-ponizej-3-proc"
+  },
+  {
+   "id": "bossa-espi-271569",
+   "date": "2026-11-27",
+   "time": "12:44",
+   "ts": "2026-11-27T12:44:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF NASDAQ-100 PLN-HEDGED PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 239 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271569"
+  },
   {
    "id": "bossa-espi-271568",
    "date": "2026-11-27",
