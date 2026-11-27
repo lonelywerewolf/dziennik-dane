@@ -4,9 +4,9 @@
   "podsumowania": 8,
   "wyniki": 1,
   "rekomendacje": 1,
-  "korporacyjne": 11,
-  "makro_pl": 9,
-  "swiat_rynki": 2,
+  "korporacyjne": 12,
+  "makro_pl": 11,
+  "swiat_rynki": 3,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 19
  },
- "duplicatesRemoved": 38,
- "total": 91,
+ "duplicatesRemoved": 40,
+ "total": 97,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -117,6 +117,15 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "10:08",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BTCS S.A.: Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia BTCS S.A. na dzień 23 grudnia 2026 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271551",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "09:56",
     "kind": "pap",
@@ -236,6 +245,24 @@
   ],
   "makro_pl": [
    {
+    "time": "10:04",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Niewykorzystane zasoby siły roboczej w Polsce w 2025 można szacować na 944 tys. osób - GUS",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443747",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "09:57",
+    "kind": "pap",
+    "ticker": null,
+    "title": "BTCS SA (22/2026) Informacje o walnym zgromadzeniu - zwołanie WZ z projektami uchwał, zmiany w porządku obrad WZ",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443744",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "09:56",
     "kind": "pap",
     "ticker": null,
@@ -319,6 +346,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "10:02",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Długoterminowe oczekiwania inflacyjne w strefie euro w X wyniosły 3 proc. - EBC",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443746",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "09:46",
     "kind": "news",
     "ticker": null,
@@ -339,12 +375,12 @@
   ],
   "energetyka_surowce": [
    {
-    "time": "07:13",
-    "kind": "pap",
+    "time": "09:55",
+    "kind": "news",
     "ticker": null,
     "title": "Notowania metali bazowych, węgla i paliw (tabela)",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443684",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/notowania-metali-bazowych-wegla-i-paliw-tabela",
+    "src": "strefainwestorow",
     "flags": []
    }
   ],
