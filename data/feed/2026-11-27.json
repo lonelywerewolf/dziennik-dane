@@ -1,7 +1,90 @@
 {
  "date": "2026-11-27",
- "count": 143,
+ "count": 151,
  "items": [
+  {
+   "id": "bossa-espi-271564",
+   "date": "2026-11-27",
+   "time": "12:20",
+   "ts": "2026-11-27T12:20:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF mWIG40TR PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 240 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271564"
+  },
+  {
+   "id": "bossa-pap-443787",
+   "date": "2026-11-27",
+   "time": "12:18",
+   "ts": "2026-11-27T12:18:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Polski premier nie miałby nic przeciwko unijnemu podatkowi cyfrowemu na największe korporacje",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443787"
+  },
+  {
+   "id": "bossa-pap-443786",
+   "date": "2026-11-27",
+   "time": "12:18",
+   "ts": "2026-11-27T12:18:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Noble Securities obniżył wycenę XTB do 80 zł, a rekomendację obniżył do \"sprzedaj\"",
+   "ticker": "XTB",
+   "url": "https://bossa.pl/analizy/komunikaty#message-443786"
+  },
+  {
+   "id": "bossa-pap-443785",
+   "date": "2026-11-27",
+   "time": "12:16",
+   "ts": "2026-11-27T12:16:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "UNIQA OFE wartość jednostki rozrachunkowej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443785"
+  },
+  {
+   "id": "strefa-9285e75556e2",
+   "date": "2026-11-27",
+   "time": "12:14",
+   "ts": "2026-11-27T12:14:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Noble Securities obniżył wycenę XTB do 80 zł, a rekomendację obniżył do \"sprzedaj\"",
+   "ticker": "XTB",
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/noble-securities-obnizyl-wycene-xtb-do-80-zl-rekomendacje-obnizyl-do-sprzedaj"
+  },
+  {
+   "id": "bossa-pap-443784",
+   "date": "2026-11-27",
+   "time": "12:13",
+   "ts": "2026-11-27T12:13:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Spadki cen paliw na stacjach mogą wyhamować - e-petrol",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443784"
+  },
+  {
+   "id": "bossa-espi-271563",
+   "date": "2026-11-27",
+   "time": "12:13",
+   "ts": "2026-11-27T12:13:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "IMS S.A.",
+   "title": "Zmiana stanu posiadania znacznych pakietów akcji",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271563"
+  },
   {
    "id": "strefa-b932593aaa90",
    "date": "2026-11-27",
@@ -12,6 +95,17 @@
    "title": "DZIEŃ NA RYNKACH: Indeksy w Europie na plusach; kontrakty w USA także rosną",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261127/dzien-na-rynkach-indeksy-w-europie-na-plusach-kontrakty-w-usa-takze-rosna"
+  },
+  {
+   "id": "strefa-73497e44b33e",
+   "date": "2026-11-27",
+   "time": "12:07",
+   "ts": "2026-11-27T12:07:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Spadki cen paliw na stacjach mogą wyhamować - e-petrol",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/spadki-cen-paliw-na-stacjach-moga-wyhamowac-e-petrol"
   },
   {
    "id": "bossa-pap-443782",

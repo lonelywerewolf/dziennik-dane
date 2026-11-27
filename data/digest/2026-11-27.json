@@ -7,15 +7,15 @@
   "korporacyjne": 22,
   "makro_pl": 14,
   "swiat_rynki": 4,
-  "energetyka_surowce": 1,
+  "energetyka_surowce": 2,
   "nieruchomosci": 0,
-  "fundusze_drobne": 1,
-  "twoje_spolki": 1,
+  "fundusze_drobne": 3,
+  "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 32
+  "pozostale": 34
  },
- "duplicatesRemoved": 54,
- "total": 143,
+ "duplicatesRemoved": 56,
+ "total": 151,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -561,6 +561,15 @@
   ],
   "energetyka_surowce": [
    {
+    "time": "12:07",
+    "kind": "news",
+    "ticker": null,
+    "title": "Spadki cen paliw na stacjach mogą wyhamować - e-petrol",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/spadki-cen-paliw-na-stacjach-moga-wyhamowac-e-petrol",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "09:55",
     "kind": "news",
     "ticker": null,
@@ -573,6 +582,24 @@
   "nieruchomosci": [],
   "fundusze_drobne": [
    {
+    "time": "12:20",
+    "kind": "espi",
+    "ticker": null,
+    "title": "BETA ETF mWIG40TR PORTFELOWY FIZ: Raport bieżący nr 240 / 2026",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271564",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:16",
+    "kind": "pap",
+    "ticker": null,
+    "title": "UNIQA OFE wartość jednostki rozrachunkowej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443785",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "11:55",
     "kind": "pap",
     "ticker": null,
@@ -583,6 +610,15 @@
    }
   ],
   "twoje_spolki": [
+   {
+    "time": "12:14",
+    "kind": "news",
+    "ticker": "XTB",
+    "title": "Noble Securities obniżył wycenę XTB do 80 zł, a rekomendację obniżył do \"sprzedaj\"",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/noble-securities-obnizyl-wycene-xtb-do-80-zl-rekomendacje-obnizyl-do-sprzedaj",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "08:56",
     "kind": "espi",
@@ -597,6 +633,26 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "12:18",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Polski premier nie miałby nic przeciwko unijnemu podatkowi cyfrowemu na największe korporacje",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443787",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "12:13",
+    "kind": "espi",
+    "ticker": null,
+    "title": "IMS S.A.: Zmiana stanu posiadania znacznych pakietów akcji",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271563",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
    {
     "time": "11:54",
     "kind": "pap",
