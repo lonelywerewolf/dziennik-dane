@@ -5,7 +5,7 @@
   "wyniki": 5,
   "rekomendacje": 2,
   "korporacyjne": 42,
-  "makro_pl": 20,
+  "makro_pl": 21,
   "swiat_rynki": 12,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
@@ -15,7 +15,7 @@
   "pozostale": 59
  },
  "duplicatesRemoved": 99,
- "total": 266,
+ "total": 267,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -644,6 +644,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "16:12",
+    "kind": "pap",
+    "ticker": null,
+    "title": "W '26 bodźcem dla rynku obligacji korporacyjnych reforma wskaźników referencyjnych - Michael/Ström DM",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443880",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "15:26",
     "kind": "pap",
