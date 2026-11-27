@@ -1,24 +1,33 @@
 {
  "date": "2026-11-27",
  "counts": {
-  "podsumowania": 13,
-  "wyniki": 5,
+  "podsumowania": 14,
+  "wyniki": 6,
   "rekomendacje": 2,
-  "korporacyjne": 45,
+  "korporacyjne": 48,
   "makro_pl": 23,
-  "swiat_rynki": 12,
+  "swiat_rynki": 13,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 13,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 64
+  "pozostale": 68
  },
- "duplicatesRemoved": 109,
- "total": 291,
+ "duplicatesRemoved": 121,
+ "total": 313,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "17:02",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA FX/FI: EUR/PLN zawrócił z rekordowych poziomów; rentowności SPW z kolejną zniżką",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/dzien-na-fxfi-eurpln-zawrocil-z-rekordowych-poziomow-rentownosci-spw-z-kolejna",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "16:48",
     "kind": "skrot",
@@ -145,6 +154,15 @@
   ],
   "wyniki": [
    {
+    "time": "17:17",
+    "kind": "news",
+    "ticker": null,
+    "title": "Grupa PTWP z blisko 189 mln zł przychodów po dziewięciu miesiącach 2026 r. i dobrymi perspektywami na kolejne okresy",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/grupa-ptwp-z-blisko-189-mln-zl-przychodow-po-dziewieciu-miesiacach-2026-r-i",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "16:04",
     "kind": "pap",
     "ticker": null,
@@ -213,6 +231,39 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "17:17",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Text wypłaci 1,21 zł na akcję zaliczki na poczet dywidendy za 2026/27",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443918",
+    "src": "bossa",
+    "flags": [
+     "dywidenda"
+    ]
+   },
+   {
+    "time": "17:10",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MPAY S.A.: Zawarcie Term Sheet dotyczącego nabycia akcji własnych Spółki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271634",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
+    "time": "17:10",
+    "kind": "espi",
+    "ticker": null,
+    "title": "DEFENCE.HUB S.A.: Zawarcie umowy przeniesienia zorganizowanej części przedsiębiorstwa Emitenta na rzecz spółki zależnej Klabater P.S.A. tytułem wkładu niepieniężnego",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271631",
+    "src": "bossa",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "17:08",
     "kind": "espi",
@@ -908,6 +959,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "17:14",
+    "kind": "news",
+    "ticker": null,
+    "title": "GPW: w sprawie dopuszczenia i wprowadzenia do obrotu giełdowego na Głównym Rynku GPW akcji zwykłych na okaziciela serii A spółki ATREM S.A.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/gpw-w-sprawie-dopuszczenia-i-wprowadzenia-do-obrotu-gieldowego-na-glownym-rynku",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "16:06",
     "kind": "news",
     "ticker": null,
@@ -1189,6 +1249,42 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:18",
+    "kind": "pap",
+    "ticker": null,
+    "title": "GPW: w sprawie szczególnego oznaczania instrumentów finansowych spółki BUMECH S.A. notowanych na Głównym Rynku GPW",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443919",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:18",
+    "kind": "espi",
+    "ticker": null,
+    "title": "VIGO PHOTONICS S.A.: Zmiana Przewodniczącego Komitetu Audytu Rady Nadzorczej",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271643",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:16",
+    "kind": "espi",
+    "ticker": null,
+    "title": "CAPTOR THERAPEUTICS S.A.: Komunikat Krajowego Depozytu Papierów Wartościowych S.A. w sprawie warunkowej rejestracji akcji zwykłych na okaziciela serii Z",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271642",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "17:10",
+    "kind": "espi",
+    "ticker": null,
+    "title": "GRUPA KAPITAŁOWA IMMOBILE S.A.: QS",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271633",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "17:08",
     "kind": "pap",
