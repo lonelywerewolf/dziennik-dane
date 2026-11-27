@@ -4,7 +4,7 @@
   "podsumowania": 10,
   "wyniki": 3,
   "rekomendacje": 2,
-  "korporacyjne": 30,
+  "korporacyjne": 32,
   "makro_pl": 17,
   "swiat_rynki": 6,
   "energetyka_surowce": 2,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 5,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 45
+  "pozostale": 47
  },
- "duplicatesRemoved": 86,
- "total": 208,
+ "duplicatesRemoved": 87,
+ "total": 213,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -164,6 +164,26 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "14:08",
+    "kind": "espi",
+    "ticker": null,
+    "title": "POLTREG S.A.: Powiadomienie od Venture Fundusz Inwestycyjny Zamknięty o transakcji na akcjach Spółki otrzymane w trybie art. 19 MAR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271597",
+    "src": "bossa",
+    "flags": [
+     "insider"
+    ]
+   },
+   {
+    "time": "14:08",
+    "kind": "espi",
+    "ticker": null,
+    "title": "CPD S.A.: Treść uchwał podjętych przez Nadzwyczajne Walne Zgromadzenie CPD S.A. w dniu 27 listopada 2026 roku",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271596",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "13:59",
     "kind": "espi",
@@ -793,6 +813,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "14:08",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MABION S.A.: Pomyślne spotkanie Pre-IND z amerykańską FDA dotyczące CD20 przyspiesza i wzmacnia współpracę z Oddifact. Jej ostateczna struktura zostanie ustalona w I kwartale 2027 r.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271595",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "13:55",
+    "kind": "news",
+    "ticker": null,
+    "title": "Enter Air widzi potencjał wzrostu na rynku rumuńskim; nie oczekuje znaczących wzrostów w IV kw.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/enter-air-widzi-potencjal-wzrostu-na-rynku-rumunskim-nie-oczekuje-znaczacych",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "13:51",
     "kind": "news",
