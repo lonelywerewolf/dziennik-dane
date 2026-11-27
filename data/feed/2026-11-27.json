@@ -1,7 +1,77 @@
 {
  "date": "2026-11-27",
- "count": 201,
+ "count": 208,
  "items": [
+  {
+   "id": "bossa-espi-271594",
+   "date": "2026-11-27",
+   "time": "13:59",
+   "ts": "2026-11-27T13:59:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "CPD S.A.",
+   "title": "Wykaz akcjonariuszy posiadających co najmniej 5 % liczby głosów na Nadzwyczajnym Walnym Zgromadzeniu CPD S.A. odbytym w dniu 27 listopada 2026 roku",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271594"
+  },
+  {
+   "id": "bossa-pap-443834",
+   "date": "2026-11-27",
+   "time": "13:58",
+   "ts": "2026-11-27T13:58:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "VIDIS SA (7/2026) Raport roczny",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443834"
+  },
+  {
+   "id": "bossa-espi-271592",
+   "date": "2026-11-27",
+   "time": "13:53",
+   "ts": "2026-11-27T13:53:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BETA ETF WIG20lev PORTFELOWY FIZ",
+   "title": "Raport bieżący nr 239 / 2026",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271592"
+  },
+  {
+   "id": "strefa-d244229327b1",
+   "date": "2026-11-27",
+   "time": "13:52",
+   "ts": "2026-11-27T13:52:45+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Prezydent nie podpisze ustawy, która wprowadza nowy próg podatkowy i nową stawkę (opis)",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/prezydent-nie-podpisze-ustawy-ktora-wprowadza-nowy-prog-podatkowy-i-nowa-stawke"
+  },
+  {
+   "id": "strefa-46e729bd4ca9",
+   "date": "2026-11-27",
+   "time": "13:51",
+   "ts": "2026-11-27T13:51:53+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Cena maksymalna dla benzyny Pb95 w weekend i w poniedziałek wyniesie 5,77 zł/l, dla ON 7,15 zł/l",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/cena-maksymalna-dla-benzyny-pb95-w-weekend-i-w-poniedzialek-wyniesie-577-zll"
+  },
+  {
+   "id": "bossa-espi-271591",
+   "date": "2026-11-27",
+   "time": "13:51",
+   "ts": "2026-11-27T13:51:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ELEKTROTIM S.A.",
+   "title": "Informacja o wyborze oferty ELEKTROTIM S.A. przez PGE Energetyka Kolejowa na projekt i budowę Podstacji Trakcyjnej Osieck wraz z Rozdzielczym Punktem Zasilania Pilawa",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271591"
+  },
   {
    "id": "bossa-espi-271590",
    "date": "2026-11-27",
@@ -85,6 +155,17 @@
    "title": "Prezydent podpisał ustawę o wsparciu przedsiębiorstw energochłonnych i źródle jego finansowania",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-443825"
+  },
+  {
+   "id": "strefa-816a5de0ed12",
+   "date": "2026-11-27",
+   "time": "13:34",
+   "ts": "2026-11-27T13:34:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Prezydent podpisał ustawę o wsparciu przedsiębiorstw energochłonnych i źródle jego finansowania",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/prezydent-podpisal-ustawe-o-wsparciu-przedsiebiorstw-energochlonnych-i-zrodle"
   },
   {
    "id": "bossa-pap-443824",
