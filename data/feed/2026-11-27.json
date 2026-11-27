@@ -1,7 +1,79 @@
 {
  "date": "2026-11-27",
- "count": 267,
+ "count": 274,
  "items": [
+  {
+   "id": "bossa-espi-271622",
+   "date": "2026-11-27",
+   "time": "16:34",
+   "ts": "2026-11-27T16:34:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ASM GROUP S.A.",
+   "title": "Zawiadomienie o zmianie stanu posiadania akcji ASM Group S.A.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271622"
+  },
+  {
+   "id": "bossa-espi-271621",
+   "date": "2026-11-27",
+   "time": "16:33",
+   "ts": "2026-11-27T16:33:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "URTESTE S.A.",
+   "title": "Uzyskanie ochrony patentowej od Australijskiego Urzędu Patentowego dla dwóch wynalazków w projekcie MULTI-CANCER",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271621"
+  },
+  {
+   "id": "bossa-espi-271620",
+   "date": "2026-11-27",
+   "time": "16:32",
+   "ts": "2026-11-27T16:32:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "BUMECH S.A.",
+   "title": "Informacja o transakcji na akcjach Spółki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271620"
+  },
+  {
+   "id": "bossa-espi-271619",
+   "date": "2026-11-27",
+   "time": "16:31",
+   "ts": "2026-11-27T16:31:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MABION S.A.",
+   "title": "Rejestracja podwyższenia kapitału zakładowego o emisję akcji serii W i Y oraz zmiany Statutu Spółki",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271619"
+  },
+  {
+   "id": "bossa-pap-443883",
+   "date": "2026-11-27",
+   "time": "16:29",
+   "ts": "2026-11-27T16:29:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: Giełda kończy tydzień zwyżkami; silnie zyskują Modivo i KGHM",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443883"
+  },
+  {
+   "id": "bossa-pap-443884",
+   "date": "2026-11-27",
+   "time": "16:25",
+   "ts": "2026-11-27T16:25:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "MKiŚ: Pozytywna ocena Komisji Europejskiej dla inwestycji z KPO. Ponad 105 mld zł już zainwestowane w zieloną transformację (komunikat)",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443884"
+  },
   {
    "id": "bossa-pap-443880",
    "date": "2026-11-27",
@@ -60,6 +132,17 @@
    "title": "Euro w EBC: 1,0957 USD i 174,81 JPY",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261127/euro-w-ebc-10957-usd-i-17481-jpy"
+  },
+  {
+   "id": "strefa-159e8efdd963",
+   "date": "2026-11-27",
+   "time": "16:06",
+   "ts": "2026-11-27T16:06:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: Giełda kończy tydzień zwyżkami; silnie zyskują Modivo i KGHM",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/dzien-na-gpw-gielda-konczy-tydzien-zwyzkami-silnie-zyskuja-modivo-i-kghm"
   },
   {
    "id": "bossa-pap-443878",

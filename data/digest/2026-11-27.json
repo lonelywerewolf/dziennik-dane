@@ -1,24 +1,33 @@
 {
  "date": "2026-11-27",
  "counts": {
-  "podsumowania": 11,
+  "podsumowania": 12,
   "wyniki": 5,
   "rekomendacje": 2,
-  "korporacyjne": 42,
-  "makro_pl": 21,
+  "korporacyjne": 43,
+  "makro_pl": 22,
   "swiat_rynki": 12,
   "energetyka_surowce": 3,
   "nieruchomosci": 0,
   "fundusze_drobne": 11,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 59
+  "pozostale": 61
  },
- "duplicatesRemoved": 99,
- "total": 267,
+ "duplicatesRemoved": 101,
+ "total": 274,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "16:06",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: Giełda kończy tydzień zwyżkami; silnie zyskują Modivo i KGHM",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/dzien-na-gpw-gielda-konczy-tydzien-zwyzkami-silnie-zyskuja-modivo-i-kghm",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "14:53",
     "kind": "news",
@@ -195,6 +204,17 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "16:31",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MABION S.A.: Rejestracja podwyższenia kapitału zakładowego o emisję akcji serii W i Y oraz zmiany Statutu Spółki",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271619",
+    "src": "bossa",
+    "flags": [
+     "emisja"
+    ]
+   },
    {
     "time": "15:36",
     "kind": "news",
@@ -644,6 +664,15 @@
    }
   ],
   "makro_pl": [
+   {
+    "time": "16:25",
+    "kind": "pap",
+    "ticker": null,
+    "title": "MKiŚ: Pozytywna ocena Komisji Europejskiej dla inwestycji z KPO. Ponad 105 mld zł już zainwestowane w zieloną transformację (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443884",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:12",
     "kind": "pap",
@@ -1103,6 +1132,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "16:34",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ASM GROUP S.A.: Zawiadomienie o zmianie stanu posiadania akcji ASM Group S.A.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271622",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "16:33",
+    "kind": "espi",
+    "ticker": null,
+    "title": "URTESTE S.A.: Uzyskanie ochrony patentowej od Australijskiego Urzędu Patentowego dla dwóch wynalazków w projekcie MULTI-CANCER",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271621",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:11",
     "kind": "espi",
