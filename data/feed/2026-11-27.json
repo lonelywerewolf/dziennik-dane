@@ -1,7 +1,65 @@
 {
  "date": "2026-11-27",
- "count": 108,
+ "count": 113,
  "items": [
+  {
+   "id": "strefa-d229da99f153",
+   "date": "2026-11-27",
+   "time": "11:06",
+   "ts": "2026-11-27T11:06:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wskaźnik oczekiwań inflacyjnych w Polsce w listopadzie spadł do 25,0 pkt. - KE",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/wskaznik-oczekiwan-inflacyjnych-w-polsce-w-listopadzie-spadl-do-250-pkt-ke"
+  },
+  {
+   "id": "bossa-pap-443761",
+   "date": "2026-11-27",
+   "time": "11:05",
+   "ts": "2026-11-27T11:05:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wittchen chce odbudować rentowność kanału internetowego",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443761"
+  },
+  {
+   "id": "bossa-pap-443760",
+   "date": "2026-11-27",
+   "time": "11:05",
+   "ts": "2026-11-27T11:05:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźnik oczekiwań inflacyjnych w Polsce w listopadzie spadł do 25,0 pkt. - KE",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443760"
+  },
+  {
+   "id": "bossa-pap-443759",
+   "date": "2026-11-27",
+   "time": "11:05",
+   "ts": "2026-11-27T11:05:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźnik nastrojów w gospodarce Polski w listopadzie wyniósł 98,3 pkt. - KE",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443759"
+  },
+  {
+   "id": "strefa-99c649f81114",
+   "date": "2026-11-27",
+   "time": "10:43",
+   "ts": "2026-11-27T10:43:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Wittchen chce odbudować rentowność kanału internetowego",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/wittchen-chce-odbudowac-rentownosc-kanalu-internetowego"
+  },
   {
    "id": "bossa-espi-271555",
    "date": "2026-11-27",

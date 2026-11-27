@@ -6,16 +6,16 @@
   "rekomendacje": 2,
   "korporacyjne": 15,
   "makro_pl": 13,
-  "swiat_rynki": 3,
+  "swiat_rynki": 4,
   "energetyka_surowce": 1,
   "nieruchomosci": 0,
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 21
+  "pozostale": 23
  },
- "duplicatesRemoved": 42,
- "total": 108,
+ "duplicatesRemoved": 44,
+ "total": 113,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -418,6 +418,15 @@
   ],
   "swiat_rynki": [
    {
+    "time": "10:43",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wittchen chce odbudować rentowność kanału internetowego",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/wittchen-chce-odbudowac-rentownosc-kanalu-internetowego",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
     "time": "10:02",
     "kind": "pap",
     "ticker": null,
@@ -473,6 +482,24 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:06",
+    "kind": "news",
+    "ticker": null,
+    "title": "Wskaźnik oczekiwań inflacyjnych w Polsce w listopadzie spadł do 25,0 pkt. - KE",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/wskaznik-oczekiwan-inflacyjnych-w-polsce-w-listopadzie-spadl-do-250-pkt-ke",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "11:05",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźnik nastrojów w gospodarce Polski w listopadzie wyniósł 98,3 pkt. - KE",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443759",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "10:37",
     "kind": "espi",
