@@ -1,7 +1,43 @@
 {
  "date": "2026-11-27",
- "count": 98,
+ "count": 101,
  "items": [
+  {
+   "id": "bossa-pap-443752",
+   "date": "2026-11-27",
+   "time": "10:30",
+   "ts": "2026-11-27T10:30:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "NBP prognozuje hamowanie kredytu konsumpcyjnego z 9 proc. rdr do 5 proc. na przestrzeni 2027-28",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443752"
+  },
+  {
+   "id": "bossa-pap-443751",
+   "date": "2026-11-27",
+   "time": "10:21",
+   "ts": "2026-11-27T10:21:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "E-KIOSK SA (17/2026) Powołanie osoby zarządzającej lub nadzorującej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443751"
+  },
+  {
+   "id": "bossa-pap-443750",
+   "date": "2026-11-27",
+   "time": "10:20",
+   "ts": "2026-11-27T10:20:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "NBP prognozuje wyhamowanie dynamiki kredytu dla firm w 2027-28 poniżej 3 proc. rdr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443750"
+  },
   {
    "id": "bossa-espi-271552",
    "date": "2026-11-27",
