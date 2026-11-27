@@ -1,7 +1,78 @@
 {
  "date": "2026-11-27",
- "count": 75,
+ "count": 82,
  "items": [
+  {
+   "id": "bossa-pap-443735",
+   "date": "2026-11-27",
+   "time": "09:45",
+   "ts": "2026-11-27T09:45:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Ceny miedzi na LME rosną; na rynkach poprawa nastrojów",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443735"
+  },
+  {
+   "id": "strefa-bdc7589c1e74",
+   "date": "2026-11-27",
+   "time": "09:43",
+   "ts": "2026-11-27T09:43:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Ceny miedzi na LME rosną; na rynkach poprawa nastrojów",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/ceny-miedzi-na-lme-rosna-na-rynkach-poprawa-nastrojow"
+  },
+  {
+   "id": "bossa-pap-443734",
+   "date": "2026-11-27",
+   "time": "09:42",
+   "ts": "2026-11-27T09:42:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Kurs Diagnostyki spada o 5,7 proc.; indeks mWIG40 rośnie o 1,3 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443734"
+  },
+  {
+   "id": "bossa-pap-443733",
+   "date": "2026-11-27",
+   "time": "09:42",
+   "ts": "2026-11-27T09:42:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Polacy pracowali średnio 38,9 godziny tygodniowo w 2025 r.; mężczyźni dłużej niż kobiety - GUS",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443733"
+  },
+  {
+   "id": "bossa-espi-271545",
+   "date": "2026-11-27",
+   "time": "09:41",
+   "ts": "2026-11-27T09:41:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "PragmaGo S.A.",
+   "title": "Zakończenie subskrypcji obligacji serii F1",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271545"
+  },
+  {
+   "id": "bossa-pap-443731",
+   "date": "2026-11-27",
+   "time": "09:37",
+   "ts": "2026-11-27T09:37:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "E-KIOSK SA (14/2026) Odwołanie lub rezygnacja osoby zarządzającej lub nadzorującej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443731"
+  },
   {
    "id": "bossa-espi-271544",
    "date": "2026-11-27",
@@ -13,6 +84,17 @@
    "title": "Zawiadomienie otrzymane w trybie art. 69 ustawy o ofercie publicznej.",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-271544"
+  },
+  {
+   "id": "strefa-3a6e600096d2",
+   "date": "2026-11-27",
+   "time": "09:32",
+   "ts": "2026-11-27T09:32:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Polacy pracowali średnio 38,9 godziny tygodniowo w 2025 r.; mężczyźni dłużej niż kobiety - GUS",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/polacy-pracowali-srednio-389-godziny-tygodniowo-w-2025-r-mezczyzni-dluzej-niz"
   },
   {
    "id": "bossa-pap-443729",

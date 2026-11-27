@@ -19,6 +19,33 @@
    "house": "Dom Maklerski BDM S.A."
   },
   {
+   "date": "2026-11-27",
+   "ticker": "MRB",
+   "company": "MIRBUD S.A.",
+   "file": "20261127_trigon_dom_maklerski_mrb_pl_aw.pdf",
+   "url": "https://www.gpw.pl/pub/pwpa/20261127_trigon_dom_maklerski_mrb_pl_aw.pdf",
+   "type": "analiza wyników",
+   "house": "Trigon Dom Maklerski S.A."
+  },
+  {
+   "date": "2026-11-27",
+   "ticker": "FAB",
+   "company": "FABRITY S.A.",
+   "file": "20261127_trigon_dom_maklerski_fab_pl_aw.pdf",
+   "url": "https://www.gpw.pl/pub/pwpa/20261127_trigon_dom_maklerski_fab_pl_aw.pdf",
+   "type": "analiza wyników",
+   "house": "Trigon Dom Maklerski S.A."
+  },
+  {
+   "date": "2026-11-27",
+   "ticker": "ALL",
+   "company": "AILLERON S.A.",
+   "file": "20261127_trigon_dom_maklerski_all_pl_aw.pdf",
+   "url": "https://www.gpw.pl/pub/pwpa/20261127_trigon_dom_maklerski_all_pl_aw.pdf",
+   "type": "analiza wyników",
+   "house": "Trigon Dom Maklerski S.A."
+  },
+  {
    "date": "2026-11-26",
    "ticker": "TXT",
    "company": "TEXT S.A.",
@@ -850,5 +877,5 @@
    "house": "Noble Securities S.A."
   }
  ],
- "updatedAt": "2026-11-27T09:35:30+01:00"
+ "updatedAt": "2026-11-27T09:46:30+01:00"
 }
