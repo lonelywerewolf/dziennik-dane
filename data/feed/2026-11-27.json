@@ -1,7 +1,19 @@
 {
  "date": "2026-11-27",
- "count": 225,
+ "count": 227,
  "items": [
+  {
+   "id": "bossa-espi-271604",
+   "date": "2026-11-27",
+   "time": "14:46",
+   "ts": "2026-11-27T14:46:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KOMPAP",
+   "title": "Znaczne pakiety akcji/Zmiana stanu posiadania",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271604"
+  },
   {
    "id": "bossa-espi-271603",
    "date": "2026-11-27",
@@ -73,6 +85,17 @@
    "title": "W przyszłym tygodniu możliwe odwrócenie spadkowej tendencji cen na stacjach paliw - BM Reflex",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-443845"
+  },
+  {
+   "id": "strefa-1521a08da1d9",
+   "date": "2026-11-27",
+   "time": "14:21",
+   "ts": "2026-11-27T14:21:43+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Movie Games S.A. z 1 mln zł zysku netto po trzech kwartałach. Zapowiedź Drug Dealer Simulator 3 już w grudniu",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/movie-games-sa-z-1-mln-zl-zysku-netto-po-trzech-kwartalach-zapowiedz-drug"
   },
   {
    "id": "bossa-espi-271601",

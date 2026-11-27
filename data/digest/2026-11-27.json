@@ -12,10 +12,10 @@
   "fundusze_drobne": 7,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 51
+  "pozostale": 53
  },
  "duplicatesRemoved": 87,
- "total": 225,
+ "total": 227,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -892,12 +892,32 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "14:46",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KOMPAP: Znaczne pakiety akcji/Zmiana stanu posiadania",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271604",
+    "src": "bossa",
+    "flags": [
+     "akcjonariat"
+    ]
+   },
+   {
     "time": "14:24",
     "kind": "pap",
     "ticker": null,
     "title": "Kurs Modivo rośnie o 11,4 proc. przy zwyżce WIG20 o 1,5 proc.",
     "url": "https://bossa.pl/analizy/komunikaty#message-443846",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "14:21",
+    "kind": "news",
+    "ticker": null,
+    "title": "Movie Games S.A. z 1 mln zł zysku netto po trzech kwartałach. Zapowiedź Drug Dealer Simulator 3 już w grudniu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/movie-games-sa-z-1-mln-zl-zysku-netto-po-trzech-kwartalach-zapowiedz-drug",
+    "src": "strefainwestorow",
     "flags": []
    },
    {
