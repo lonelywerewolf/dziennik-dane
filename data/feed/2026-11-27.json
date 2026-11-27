@@ -1,7 +1,52 @@
 {
  "date": "2026-11-27",
- "count": 7,
+ "count": 11,
  "items": [
+  {
+   "id": "strefa-b901bc180be1",
+   "date": "2026-11-27",
+   "time": "07:01",
+   "ts": "2026-11-27T07:01:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Kalendarium rynku NewConnect 2026-11-27",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/kalendarium-rynku-newconnect-2026-11-27"
+  },
+  {
+   "id": "strefa-5907dae20793",
+   "date": "2026-11-27",
+   "time": "07:01",
+   "ts": "2026-11-27T07:01:02+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-27",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-27"
+  },
+  {
+   "id": "bossa-espi-271518",
+   "date": "2026-11-27",
+   "time": "06:57",
+   "ts": "2026-11-27T06:57:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MUZA",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271518"
+  },
+  {
+   "id": "strefa-1ba3fd413a03",
+   "date": "2026-11-27",
+   "time": "06:20",
+   "ts": "2026-11-27T06:20:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Kalendarium rynku kapitałowego GPW 2026-11-27",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/kalendarium-rynku-kapitalowego-gpw-2026-11-27"
+  },
   {
    "id": "bossa-pap-443680",
    "date": "2026-11-27",

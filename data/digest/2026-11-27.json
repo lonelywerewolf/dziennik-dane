@@ -12,37 +12,37 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 0,
   "obserwowane": 0,
-  "pozostale": 1
+  "pozostale": 2
  },
- "duplicatesRemoved": 0,
- "total": 7,
+ "duplicatesRemoved": 3,
+ "total": 11,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "07:01",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kalendarium rynku NewConnect 2026-11-27",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/kalendarium-rynku-newconnect-2026-11-27",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "06:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "Kalendarium rynku kapitałowego GPW 2026-11-27",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/kalendarium-rynku-kapitalowego-gpw-2026-11-27",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "06:08",
     "kind": "pap",
     "ticker": null,
     "title": "Przegląd prasy gospodarczej w piątek, 27 listopada",
     "url": "https://bossa.pl/analizy/komunikaty#message-443678",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "06:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Kalendarium rynku kapitałowego GPW 2026-11-27",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443677",
-    "src": "bossa",
-    "flags": []
-   },
-   {
-    "time": "06:00",
-    "kind": "pap",
-    "ticker": null,
-    "title": "Kalendarium rynku NewConnect 2026-11-27",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443676",
     "src": "bossa",
     "flags": []
    },
@@ -90,11 +90,20 @@
   "obserwowane": [],
   "pozostale": [
    {
-    "time": "06:00",
-    "kind": "pap",
+    "time": "07:01",
+    "kind": "news",
     "ticker": null,
     "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-27",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443674",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-27",
+    "src": "strefainwestorow",
+    "flags": []
+   },
+   {
+    "time": "06:57",
+    "kind": "espi",
+    "ticker": null,
+    "title": "MUZA: QSr",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271518",
     "src": "bossa",
     "flags": []
    }
