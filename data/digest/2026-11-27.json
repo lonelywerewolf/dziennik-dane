@@ -4,7 +4,7 @@
   "podsumowania": 8,
   "wyniki": 2,
   "rekomendacje": 2,
-  "korporacyjne": 15,
+  "korporacyjne": 16,
   "makro_pl": 13,
   "swiat_rynki": 4,
   "energetyka_surowce": 1,
@@ -12,10 +12,10 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 23
+  "pozostale": 26
  },
- "duplicatesRemoved": 44,
- "total": 113,
+ "duplicatesRemoved": 49,
+ "total": 122,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -136,6 +136,28 @@
   ],
   "korporacyjne": [
    {
+    "time": "11:11",
+    "kind": "espi",
+    "ticker": null,
+    "title": "ERSTE BANK POLSKA S.A.: Przystąpienie przez Erste Bank Polska S.A. do programu emisji dłużnych papierów wartościowych \"Multi Issuer EMTN Programme\"",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271557",
+    "src": "bossa",
+    "flags": [
+     "emisja"
+    ]
+   },
+   {
+    "time": "11:06",
+    "kind": "news",
+    "ticker": null,
+    "title": "NBP prognozuje hamowanie kredytu hipotecznego na przestrzeni 2027-28 z 10 proc. rdr do poniżej 4 proc.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/nbp-prognozuje-hamowanie-kredytu-hipotecznego-na-przestrzeni-2027-28-z-10-proc",
+    "src": "strefainwestorow",
+    "flags": [
+     "prognoza"
+    ]
+   },
+   {
     "time": "10:43",
     "kind": "espi",
     "ticker": null,
@@ -145,17 +167,6 @@
     "flags": [
      "zarząd",
      "insider"
-    ]
-   },
-   {
-    "time": "10:38",
-    "kind": "pap",
-    "ticker": null,
-    "title": "NBP prognozuje hamowanie kredytu hipotecznego na przestrzeni 2027-28 z 10 proc. rdr do poniżej 4 proc.",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443756",
-    "src": "bossa",
-    "flags": [
-     "prognoza"
     ]
    },
    {
@@ -295,12 +306,12 @@
   ],
   "makro_pl": [
    {
-    "time": "10:30",
-    "kind": "pap",
+    "time": "11:06",
+    "kind": "news",
     "ticker": null,
     "title": "NBP prognozuje hamowanie kredytu konsumpcyjnego z 9 proc. rdr do 5 proc. na przestrzeni 2027-28",
-    "url": "https://bossa.pl/analizy/komunikaty#message-443752",
-    "src": "bossa",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/nbp-prognozuje-hamowanie-kredytu-konsumpcyjnego-z-9-proc-rdr-do-5-proc-na",
+    "src": "strefainwestorow",
     "flags": [
      "prognoza"
     ]
@@ -482,6 +493,33 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "11:15",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Wskaźniki referencyjne - EURIBOR",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443768",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:15",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Przemysł w Polsce ostrożnie o inwestycjach w 2027 r.; plany słabsze niż średnio w UE - KE",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443767",
+    "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:07",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Indeks nastrojów w strefie euro w XI: 95,8 pkt. Konsensus: 97,2 pkt.",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443762",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "11:06",
     "kind": "news",

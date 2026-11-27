@@ -1,7 +1,91 @@
 {
  "date": "2026-11-27",
- "count": 113,
+ "count": 122,
  "items": [
+  {
+   "id": "bossa-pap-443768",
+   "date": "2026-11-27",
+   "time": "11:15",
+   "ts": "2026-11-27T11:15:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Wskaźniki referencyjne - EURIBOR",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443768"
+  },
+  {
+   "id": "bossa-pap-443767",
+   "date": "2026-11-27",
+   "time": "11:15",
+   "ts": "2026-11-27T11:15:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Przemysł w Polsce ostrożnie o inwestycjach w 2027 r.; plany słabsze niż średnio w UE - KE",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443767"
+  },
+  {
+   "id": "bossa-pap-443766",
+   "date": "2026-11-27",
+   "time": "11:12",
+   "ts": "2026-11-27T11:12:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "E-KIOSK SA (19/2026) Powołanie osoby zarządzającej lub nadzorującej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443766"
+  },
+  {
+   "id": "bossa-espi-271557",
+   "date": "2026-11-27",
+   "time": "11:11",
+   "ts": "2026-11-27T11:11:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ERSTE BANK POLSKA S.A.",
+   "title": "Przystąpienie przez Erste Bank Polska S.A. do programu emisji dłużnych papierów wartościowych \"Multi Issuer EMTN Programme\"",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271557"
+  },
+  {
+   "id": "bossa-espi-271556",
+   "date": "2026-11-27",
+   "time": "11:11",
+   "ts": "2026-11-27T11:11:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "ERSTE BANK POLSKA S.A.",
+   "title": "Przystąpienie przez Erste Bank Polska S.A. do programu emisji dłużnych papierów wartościowych \"Multi Issuer EMTN Programme\"",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271556"
+  },
+  {
+   "id": "bossa-pap-443763",
+   "date": "2026-11-27",
+   "time": "11:08",
+   "ts": "2026-11-27T11:08:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "E-KIOSK SA (18/2026) Odwołanie lub rezygnacja osoby zarządzającej lub nadzorującej",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443763"
+  },
+  {
+   "id": "bossa-pap-443762",
+   "date": "2026-11-27",
+   "time": "11:07",
+   "ts": "2026-11-27T11:07:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Indeks nastrojów w strefie euro w XI: 95,8 pkt. Konsensus: 97,2 pkt.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443762"
+  },
   {
    "id": "strefa-d229da99f153",
    "date": "2026-11-27",
@@ -12,6 +96,28 @@
    "title": "Wskaźnik oczekiwań inflacyjnych w Polsce w listopadzie spadł do 25,0 pkt. - KE",
    "ticker": null,
    "url": "https://strefainwestorow.pl/wiadomosci/20261127/wskaznik-oczekiwan-inflacyjnych-w-polsce-w-listopadzie-spadl-do-250-pkt-ke"
+  },
+  {
+   "id": "strefa-c3c81688569f",
+   "date": "2026-11-27",
+   "time": "11:06",
+   "ts": "2026-11-27T11:06:01+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "NBP prognozuje hamowanie kredytu hipotecznego na przestrzeni 2027-28 z 10 proc. rdr do poniżej 4 proc.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/nbp-prognozuje-hamowanie-kredytu-hipotecznego-na-przestrzeni-2027-28-z-10-proc"
+  },
+  {
+   "id": "strefa-22510607c240",
+   "date": "2026-11-27",
+   "time": "11:06",
+   "ts": "2026-11-27T11:06:22+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "NBP prognozuje hamowanie kredytu konsumpcyjnego z 9 proc. rdr do 5 proc. na przestrzeni 2027-28",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/nbp-prognozuje-hamowanie-kredytu-konsumpcyjnego-z-9-proc-rdr-do-5-proc-na"
   },
   {
    "id": "bossa-pap-443761",
