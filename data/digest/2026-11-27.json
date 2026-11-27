@@ -4,7 +4,7 @@
   "podsumowania": 4,
   "wyniki": 0,
   "rekomendacje": 0,
-  "korporacyjne": 2,
+  "korporacyjne": 3,
   "makro_pl": 3,
   "swiat_rynki": 0,
   "energetyka_surowce": 1,
@@ -14,8 +14,8 @@
   "obserwowane": 0,
   "pozostale": 5
  },
- "duplicatesRemoved": 10,
- "total": 25,
+ "duplicatesRemoved": 12,
+ "total": 28,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
@@ -59,6 +59,17 @@
   "wyniki": [],
   "rekomendacje": [],
   "korporacyjne": [
+   {
+    "time": "07:48",
+    "kind": "espi",
+    "ticker": null,
+    "title": "VINDEXUS S.A.: Podjęcie Uchwały Zarządu Emitenta o wcześniejszym wykupie obligacji serii Y2",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271526",
+    "src": "bossa",
+    "flags": [
+     "zarząd"
+    ]
+   },
    {
     "time": "07:42",
     "kind": "espi",

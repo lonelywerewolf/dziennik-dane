@@ -1,7 +1,43 @@
 {
  "date": "2026-11-27",
- "count": 25,
+ "count": 28,
  "items": [
+  {
+   "id": "bossa-espi-271528",
+   "date": "2026-11-27",
+   "time": "07:51",
+   "ts": "2026-11-27T07:51:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "HELIO S.A.",
+   "title": "SA-Q",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271528"
+  },
+  {
+   "id": "bossa-espi-271527",
+   "date": "2026-11-27",
+   "time": "07:49",
+   "ts": "2026-11-27T07:49:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "MOVIE GAMES S.A.",
+   "title": "QSr",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271527"
+  },
+  {
+   "id": "bossa-espi-271526",
+   "date": "2026-11-27",
+   "time": "07:48",
+   "ts": "2026-11-27T07:48:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "VINDEXUS S.A.",
+   "title": "Podjęcie Uchwały Zarządu Emitenta o wcześniejszym wykupie obligacji serii Y2",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271526"
+  },
   {
    "id": "bossa-espi-271525",
    "date": "2026-11-27",
