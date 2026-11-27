@@ -1,10 +1,10 @@
 {
  "date": "2026-11-27",
  "counts": {
-  "podsumowania": 12,
+  "podsumowania": 13,
   "wyniki": 5,
   "rekomendacje": 2,
-  "korporacyjne": 43,
+  "korporacyjne": 45,
   "makro_pl": 23,
   "swiat_rynki": 12,
   "energetyka_surowce": 3,
@@ -12,13 +12,22 @@
   "fundusze_drobne": 13,
   "twoje_spolki": 2,
   "obserwowane": 0,
-  "pozostale": 63
+  "pozostale": 64
  },
- "duplicatesRemoved": 103,
- "total": 281,
+ "duplicatesRemoved": 109,
+ "total": 291,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "16:48",
+    "kind": "skrot",
+    "ticker": null,
+    "title": "Skrót wiadomości - piątek, 27 listopada, 17.00",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/skrot-wiadomosci-piatek-27-listopada-1700",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "16:06",
     "kind": "news",
@@ -204,6 +213,27 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "17:08",
+    "kind": "espi",
+    "ticker": null,
+    "title": "Text S.A.: Wniosek Zarządu w sprawie wypłaty zaliczki na poczet przewidywanej dywidendy z zysku za 2026/27 rok finansowy",
+    "url": "https://bossa.pl/analizy/komunikaty#message-14310",
+    "src": "bossa",
+    "flags": [
+     "dywidenda",
+     "zarząd"
+    ]
+   },
+   {
+    "time": "17:03",
+    "kind": "espi",
+    "ticker": null,
+    "title": "SELVITA S.A.: Podjęcie uchwały w sprawie połączenia spółek zależnych / Adoption of a Resolution on the Merger of Subsidiaries",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271625",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:31",
     "kind": "espi",
@@ -1159,6 +1189,15 @@
   ],
   "obserwowane": [],
   "pozostale": [
+   {
+    "time": "17:08",
+    "kind": "pap",
+    "ticker": null,
+    "title": "CIS: Wizyta marszałek Senatu na Węgrzech (komunikat)",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443901",
+    "src": "bossa",
+    "flags": []
+   },
    {
     "time": "16:53",
     "kind": "pap",
