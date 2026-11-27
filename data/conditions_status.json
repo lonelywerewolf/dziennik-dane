@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T23:47:26+01:00",
+ "updatedAt": "2026-11-27T23:58:26+01:00",
  "items": [
   {
    "ticker": "ASML",
@@ -7,9 +7,9 @@
    "op": "below",
    "value": 1270,
    "ccy": "USD",
-   "price": 1303.08,
+   "price": 1325.82,
    "met": false,
-   "checkedAt": "2026-11-27T23:47:26+01:00"
+   "checkedAt": "2026-11-27T23:58:26+01:00"
   },
   {
    "ticker": "AVGO",
@@ -17,9 +17,9 @@
    "op": "below",
    "value": 280,
    "ccy": "USD",
-   "price": 300.86,
+   "price": 312.34,
    "met": false,
-   "checkedAt": "2026-11-27T23:47:26+01:00"
+   "checkedAt": "2026-11-27T23:58:26+01:00"
   },
   {
    "ticker": "MPWR",
@@ -27,9 +27,9 @@
    "op": "below",
    "value": 1140,
    "ccy": "USD",
-   "price": 1194.63,
+   "price": 1265.02,
    "met": false,
-   "checkedAt": "2026-11-27T23:47:26+01:00"
+   "checkedAt": "2026-11-27T23:58:26+01:00"
   },
   {
    "ticker": "MRVL",
@@ -37,9 +37,9 @@
    "op": "below",
    "value": 122,
    "ccy": "USD",
-   "price": 130.93,
+   "price": 140.54,
    "met": false,
-   "checkedAt": "2026-11-27T23:47:26+01:00"
+   "checkedAt": "2026-11-27T23:58:26+01:00"
   },
   {
    "ticker": "NVDA",
@@ -47,9 +47,9 @@
    "op": "below",
    "value": 135,
    "ccy": "USD",
-   "price": 149.3,
+   "price": 150.49,
    "met": false,
-   "checkedAt": "2026-11-27T23:47:26+01:00"
+   "checkedAt": "2026-11-27T23:58:26+01:00"
   },
   {
    "ticker": "NVDA",
@@ -57,9 +57,9 @@
    "op": "below",
    "value": 126,
    "ccy": "USD",
-   "price": 149.3,
+   "price": 150.49,
    "met": false,
-   "checkedAt": "2026-11-27T23:47:26+01:00"
+   "checkedAt": "2026-11-27T23:58:26+01:00"
   },
   {
    "ticker": "TSM",
@@ -67,9 +67,9 @@
    "op": "below",
    "value": 320,
    "ccy": "USD",
-   "price": 342.34,
+   "price": 353.34,
    "met": false,
-   "checkedAt": "2026-11-27T23:47:26+01:00"
+   "checkedAt": "2026-11-27T23:58:26+01:00"
   },
   {
    "ticker": "VRT",
@@ -77,9 +77,9 @@
    "op": "below",
    "value": 165,
    "ccy": "USD",
-   "price": 173.37,
+   "price": 178.71,
    "met": false,
-   "checkedAt": "2026-11-27T23:47:26+01:00"
+   "checkedAt": "2026-11-27T23:58:26+01:00"
   }
  ]
 }
