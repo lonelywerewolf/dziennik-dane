@@ -1,10 +1,10 @@
 {
  "date": "2026-11-27",
  "counts": {
-  "podsumowania": 8,
+  "podsumowania": 9,
   "wyniki": 2,
   "rekomendacje": 2,
-  "korporacyjne": 16,
+  "korporacyjne": 18,
   "makro_pl": 13,
   "swiat_rynki": 4,
   "energetyka_surowce": 1,
@@ -12,13 +12,22 @@
   "fundusze_drobne": 0,
   "twoje_spolki": 1,
   "obserwowane": 0,
-  "pozostale": 26
+  "pozostale": 28
  },
- "duplicatesRemoved": 49,
- "total": 122,
+ "duplicatesRemoved": 50,
+ "total": 128,
  "note": "Kolejność ważności: twoje_spolki, obserwowane, podsumowania (Skrót PAP = szkielet dnia), wyniki, korporacyjne, rekomendacje, makro_pl, swiat_rynki, energetyka_surowce, nieruchomosci, pozostale; fundusze_drobne zwykle pomijaj.",
  "groups": {
   "podsumowania": [
+   {
+    "time": "11:21",
+    "kind": "news",
+    "ticker": null,
+    "title": "DZIEŃ NA GPW: WIG20 na niemal 4.100 pkt. m.in. dzięki zwyżce KGHM; Diagnostyka traci ok. 7 proc.",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/dzien-na-gpw-wig20-na-niemal-4100-pkt-min-dzieki-zwyzce-kghm-diagnostyka-traci",
+    "src": "strefainwestorow",
+    "flags": []
+   },
    {
     "time": "09:24",
     "kind": "news",
@@ -135,6 +144,29 @@
    }
   ],
   "korporacyjne": [
+   {
+    "time": "11:25",
+    "kind": "espi",
+    "ticker": null,
+    "title": "KANCELARIA PRAWNA - INKASO WEC S.A.: Korekta raportu bieżącego nr 14/2026 – Zawiadomienia w trybie art. 69 ustawy o ofercie",
+    "url": "https://bossa.pl/analizy/komunikaty#message-271558",
+    "src": "bossa",
+    "flags": [
+     "prognoza",
+     "akcjonariat"
+    ]
+   },
+   {
+    "time": "11:20",
+    "kind": "news",
+    "ticker": null,
+    "title": "ATM Grupa podsumowuje trzy kwartały 2026 roku",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/atm-grupa-podsumowuje-trzy-kwartaly-2026-roku",
+    "src": "strefainwestorow",
+    "flags": [
+     "umowa"
+    ]
+   },
    {
     "time": "11:11",
     "kind": "espi",
@@ -494,6 +526,15 @@
   "obserwowane": [],
   "pozostale": [
    {
+    "time": "11:27",
+    "kind": "pap",
+    "ticker": null,
+    "title": "Erste BP przystąpił jako emitent do Programu MIP",
+    "url": "https://bossa.pl/analizy/komunikaty#message-443771",
+    "src": "bossa",
+    "flags": []
+   },
+   {
     "time": "11:15",
     "kind": "pap",
     "ticker": null,
@@ -509,6 +550,15 @@
     "title": "Przemysł w Polsce ostrożnie o inwestycjach w 2027 r.; plany słabsze niż średnio w UE - KE",
     "url": "https://bossa.pl/analizy/komunikaty#message-443767",
     "src": "bossa",
+    "flags": []
+   },
+   {
+    "time": "11:07",
+    "kind": "news",
+    "ticker": null,
+    "title": "Fabrity przyspiesza, widzi dalsze czynniki wzrostu",
+    "url": "https://strefainwestorow.pl/wiadomosci/20261127/fabrity-przyspiesza-widzi-dalsze-czynniki-wzrostu",
+    "src": "strefainwestorow",
     "flags": []
    },
    {

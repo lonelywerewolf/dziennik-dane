@@ -1,7 +1,65 @@
 {
  "date": "2026-11-27",
- "count": 122,
+ "count": 128,
  "items": [
+  {
+   "id": "bossa-pap-443771",
+   "date": "2026-11-27",
+   "time": "11:27",
+   "ts": "2026-11-27T11:27:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "Erste BP przystąpił jako emitent do Programu MIP",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443771"
+  },
+  {
+   "id": "bossa-pap-443770",
+   "date": "2026-11-27",
+   "time": "11:25",
+   "ts": "2026-11-27T11:25:00+01:00",
+   "src": "bossa",
+   "kind": "pap",
+   "company": null,
+   "title": "DZIEŃ NA GPW: WIG20 na niemal 4.100 pkt. m.in. dzięki zwyżce KGHM; Diagnostyka traci ok. 7 proc.",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-443770"
+  },
+  {
+   "id": "bossa-espi-271558",
+   "date": "2026-11-27",
+   "time": "11:25",
+   "ts": "2026-11-27T11:25:00+01:00",
+   "src": "bossa",
+   "kind": "espi",
+   "company": "KANCELARIA PRAWNA - INKASO WEC S.A.",
+   "title": "Korekta raportu bieżącego nr 14/2026 – Zawiadomienia w trybie art. 69 ustawy o ofercie",
+   "ticker": null,
+   "url": "https://bossa.pl/analizy/komunikaty#message-271558"
+  },
+  {
+   "id": "strefa-a9a871aaa75b",
+   "date": "2026-11-27",
+   "time": "11:21",
+   "ts": "2026-11-27T11:21:46+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "DZIEŃ NA GPW: WIG20 na niemal 4.100 pkt. m.in. dzięki zwyżce KGHM; Diagnostyka traci ok. 7 proc.",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/dzien-na-gpw-wig20-na-niemal-4100-pkt-min-dzieki-zwyzce-kghm-diagnostyka-traci"
+  },
+  {
+   "id": "strefa-6989e9113ca0",
+   "date": "2026-11-27",
+   "time": "11:20",
+   "ts": "2026-11-27T11:20:39+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "ATM Grupa podsumowuje trzy kwartały 2026 roku",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/atm-grupa-podsumowuje-trzy-kwartaly-2026-roku"
+  },
   {
    "id": "bossa-pap-443768",
    "date": "2026-11-27",
@@ -73,6 +131,17 @@
    "title": "E-KIOSK SA (18/2026) Odwołanie lub rezygnacja osoby zarządzającej lub nadzorującej",
    "ticker": null,
    "url": "https://bossa.pl/analizy/komunikaty#message-443763"
+  },
+  {
+   "id": "strefa-eb74a2aa23dd",
+   "date": "2026-11-27",
+   "time": "11:07",
+   "ts": "2026-11-27T11:07:14+01:00",
+   "src": "strefainwestorow",
+   "kind": "news",
+   "title": "Fabrity przyspiesza, widzi dalsze czynniki wzrostu",
+   "ticker": null,
+   "url": "https://strefainwestorow.pl/wiadomosci/20261127/fabrity-przyspiesza-widzi-dalsze-czynniki-wzrostu"
   },
   {
    "id": "bossa-pap-443762",
