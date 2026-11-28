@@ -1,6 +1,6 @@
 {
  "last": {
-  "runAt": "2026-11-28T05:38:18+01:00",
+  "runAt": "2026-11-28T05:49:18+01:00",
   "sources": {
    "bossa": {
     "pages": 2,
@@ -9,7 +9,7 @@
     "newest": "2026-11-28T00:32:00+01:00",
     "oldestSeen": "2026-11-27T17:33:00+01:00",
     "ok": true,
-    "sec": 4.3
+    "sec": 4.2
    },
    "strefa": {
     "pages": 1,
@@ -18,7 +18,7 @@
     "oldestSeen": null,
     "complete": false,
     "ok": true,
-    "sec": 1.0
+    "sec": 0.9
    },
    "articles": {
     "saved": 0,
@@ -32,14 +32,14 @@
     "oldest": "2025-11-05",
     "newest": "2026-11-27",
     "ok": true,
-    "sec": 2.1
+    "sec": 2.0
    },
    "gpw": {
     "ok": true,
     "items": 20,
     "newest": "28-11-2026 00:32:42",
     "oldestSeen": "27-11-2026 18:21:04",
-    "sec": 4.7
+    "sec": 4.6
    },
    "gpw_archive": {
     "days": 0,
@@ -50,16 +50,22 @@
     "sec": 0.0
    },
    "tiingo": {
-    "history": 10,
-    "live": 10,
-    "errors": [],
-    "ok": true,
-    "sec": 0.7
+    "history": 6,
+    "live": 0,
+    "errors": [
+     "VRT: <HTTPError 429: 'Too Many Requests'>",
+     "api.tiingo.com wstrzymany do 2026-11-28T08:49 (odmowa 429)",
+     "iex: HostBlocked('api.tiingo.com wstrzymany do 2026-11-28T08:49 (odmowa 429)')"
+    ],
+    "ok": false,
+    "sec": 0.5
    },
    "nasdaq": {
+    "history": 10,
+    "live": 7,
+    "errors": [],
     "ok": true,
-    "skipped": "dane z Tiingo",
-    "sec": 0.0
+    "sec": 53.8
    },
    "us_news": {
     "new": 0,
@@ -68,7 +74,7 @@
     },
     "errors": [],
     "ok": true,
-    "sec": 19.2
+    "sec": 18.2
    },
    "quotes": {
     "ok": true,
@@ -85,13 +91,13 @@
      "2026-11-27",
      4.4673
     ],
-    "sec": 1.5
+    "sec": 1.0
    },
    "insiders": {
     "new": 0,
     "errors": [],
     "ok": true,
-    "sec": 5.2
+    "sec": 5.3
    },
    "conditions": {
     "checked": 8,
@@ -117,7 +123,7 @@
     "errors": [],
     "ok": true,
     "pdfPending": 0,
-    "sec": 2.3
+    "sec": 2.1
    },
    "macro": {
     "ok": true,
@@ -132,9 +138,154 @@
     "sec": 0.3
    }
   },
-  "blocked": {}
+  "blocked": {
+   "api.tiingo.com": "2026-11-28T08:49+01:00"
+  }
  },
  "runs": [
+  {
+   "runAt": "2026-11-28T05:49:18+01:00",
+   "sources": {
+    "bossa": {
+     "pages": 2,
+     "new": 0,
+     "complete": true,
+     "newest": "2026-11-28T00:32:00+01:00",
+     "oldestSeen": "2026-11-27T17:33:00+01:00",
+     "ok": true,
+     "sec": 4.2
+    },
+    "strefa": {
+     "pages": 1,
+     "new": 0,
+     "newest": null,
+     "oldestSeen": null,
+     "complete": false,
+     "ok": true,
+     "sec": 0.9
+    },
+    "articles": {
+     "saved": 0,
+     "ok": true,
+     "sec": 0.0
+    },
+    "recs": {
+     "new": 0,
+     "seen": 283,
+     "total": 308,
+     "oldest": "2025-11-05",
+     "newest": "2026-11-27",
+     "ok": true,
+     "sec": 2.0
+    },
+    "gpw": {
+     "ok": true,
+     "items": 20,
+     "newest": "28-11-2026 00:32:42",
+     "oldestSeen": "27-11-2026 18:21:04",
+     "sec": 4.6
+    },
+    "gpw_archive": {
+     "days": 0,
+     "errors": [],
+     "latest": "2026-11-27",
+     "stored": 280,
+     "ok": true,
+     "sec": 0.0
+    },
+    "tiingo": {
+     "history": 6,
+     "live": 0,
+     "errors": [
+      "VRT: <HTTPError 429: 'Too Many Requests'>",
+      "api.tiingo.com wstrzymany do 2026-11-28T08:49 (odmowa 429)",
+      "iex: HostBlocked('api.tiingo.com wstrzymany do 2026-11-28T08:49 (odmowa 429)')"
+     ],
+     "ok": false,
+     "sec": 0.5
+    },
+    "nasdaq": {
+     "history": 10,
+     "live": 7,
+     "errors": [],
+     "ok": true,
+     "sec": 53.8
+    },
+    "us_news": {
+     "new": 0,
+     "sources": {
+      "nasdaq": 0
+     },
+     "errors": [],
+     "ok": true,
+     "sec": 18.2
+    },
+    "quotes": {
+     "ok": true,
+     "tickers": 26,
+     "sec": 0.1
+    },
+    "nbp": {
+     "ok": true,
+     "USD": [
+      "2026-11-27",
+      4.0754
+     ],
+     "EUR": [
+      "2026-11-27",
+      4.4673
+     ],
+     "sec": 1.0
+    },
+    "insiders": {
+     "new": 0,
+     "errors": [],
+     "ok": true,
+     "sec": 5.3
+    },
+    "conditions": {
+     "checked": 8,
+     "met": 0,
+     "ok": true,
+     "sec": 0.0
+    },
+    "fundamentals": {
+     "pl": 0,
+     "us": 0,
+     "errors": [],
+     "ok": true,
+     "sec": 0.0
+    },
+    "calendar": {
+     "errors": [],
+     "ok": true,
+     "sec": 0.0
+    },
+    "pwpa": {
+     "new": 0,
+     "texts": 0,
+     "errors": [],
+     "ok": true,
+     "pdfPending": 0,
+     "sec": 2.1
+    },
+    "macro": {
+     "ok": true,
+     "skipped": true,
+     "sec": 0.0
+    },
+    "telegram": {
+     "ok": true,
+     "sent": 0,
+     "first": false,
+     "commands": [],
+     "sec": 0.3
+    }
+   },
+   "blocked": {
+    "api.tiingo.com": "2026-11-28T08:49+01:00"
+   }
+  },
   {
    "runAt": "2026-11-28T05:38:18+01:00",
    "sources": {
@@ -5509,146 +5660,6 @@
     }
    },
    "blocked": {}
-  },
-  {
-   "runAt": "2026-11-27T19:33:12+01:00",
-   "sources": {
-    "bossa": {
-     "pages": 2,
-     "new": 1,
-     "complete": true,
-     "newest": "2026-11-27T19:23:00+01:00",
-     "oldestSeen": "2026-11-27T17:12:00+01:00",
-     "ok": true,
-     "sec": 5.1
-    },
-    "strefa": {
-     "pages": 2,
-     "new": 0,
-     "complete": true,
-     "newest": "2026-11-27T18:48:01+01:00",
-     "oldestSeen": "2026-11-27T09:23:24+01:00",
-     "ok": true,
-     "sec": 3.4
-    },
-    "articles": {
-     "saved": 0,
-     "ok": true,
-     "sec": 0.0
-    },
-    "recs": {
-     "new": 0,
-     "seen": 284,
-     "total": 308,
-     "oldest": "2025-11-05",
-     "newest": "2026-11-27",
-     "ok": true,
-     "sec": 3.4
-    },
-    "gpw": {
-     "ok": true,
-     "items": 20,
-     "newest": "27-11-2026 19:23:17",
-     "oldestSeen": "27-11-2026 17:36:05",
-     "sec": 5.4
-    },
-    "gpw_archive": {
-     "days": 0,
-     "errors": [],
-     "latest": "2026-11-27",
-     "stored": 280,
-     "ok": true,
-     "sec": 0.0
-    },
-    "tiingo": {
-     "history": 0,
-     "live": 0,
-     "errors": [
-      "api.tiingo.com wstrzymany do 2026-11-27T19:37 (odmowa 429)",
-      "iex: HostBlocked('api.tiingo.com wstrzymany do 2026-11-27T19:37 (odmowa 429)')"
-     ],
-     "ok": false,
-     "sec": 0.0
-    },
-    "nasdaq": {
-     "ok": true,
-     "skipped": "ostatnio 19:22 – co najwyżej raz na godzinę",
-     "sec": 0.0
-    },
-    "us_news": {
-     "new": 1,
-     "sources": {
-      "nasdaq": 1
-     },
-     "errors": [],
-     "ok": true,
-     "sec": 18.4
-    },
-    "quotes": {
-     "ok": true,
-     "tickers": 26,
-     "sec": 0.1
-    },
-    "nbp": {
-     "ok": true,
-     "USD": [
-      "2026-11-27",
-      4.0754
-     ],
-     "EUR": [
-      "2026-11-27",
-      4.4673
-     ],
-     "sec": 1.4
-    },
-    "insiders": {
-     "new": 0,
-     "errors": [],
-     "ok": true,
-     "sec": 6.4
-    },
-    "conditions": {
-     "checked": 8,
-     "met": 0,
-     "ok": true,
-     "sec": 0.0
-    },
-    "fundamentals": {
-     "pl": 0,
-     "us": 0,
-     "errors": [],
-     "ok": true,
-     "sec": 0.0
-    },
-    "calendar": {
-     "errors": [],
-     "ok": true,
-     "sec": 0.0
-    },
-    "pwpa": {
-     "new": 0,
-     "texts": 0,
-     "errors": [],
-     "ok": true,
-     "pdfPending": 0,
-     "sec": 3.2
-    },
-    "macro": {
-     "ok": true,
-     "skipped": true,
-     "sec": 0.0
-    },
-    "telegram": {
-     "ok": true,
-     "sent": 0,
-     "first": false,
-     "commands": [],
-     "sec": 0.5
-    }
-   },
-   "blocked": {
-    "api.tiingo.com": "2026-11-27T19:37+01:00"
-   }
   }
  ]
 }
